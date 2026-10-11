@@ -1,0 +1,400 @@
+id,geography_id,vendor_id,domain_id,workload,status,accreditation,adoption_stage,maturity_score,trl,source_id
+0170df3e-e28b-4d8a-baeb-45aed1ff0eea,US,aws,health,NIH STRIDES research/data infrastructure,production,FedRAMP,early-majority,4,,nih-strides
+04ca3b9d-2432-4922-a59f-269204d0fe58,GB,aws,digital-identity,GOV.UK One Login (serverless on AWS),production,OFFICIAL,early-majority,4,,cw-onelogin-serverless
+04cce391-448c-4269-804f-d7319b904878,GB,azure,pandemic-response,NHS COVID-19 Data Store Microsoft cloud components,decommissioned,OFFICIAL,early-adopter,2,,cw-covid-datastore
+04ea8448-de1c-4d0e-a497-761a9b39fc4c,CA,thinkon,public-admin,Canadian-owned Protected B sovereign cloud,production,Protected B,early-adopter,2,,ca-procurement-scrutiny
+0575edea-84f4-43d4-b735-4b0c5c2c0b01,IL,gcp,public-admin,"Project Nimbus: Google Cloud for all govt ministries, authorities, municipalities, HMOs, higher-ed",production,nimbus-tender,early-majority,4,,gcloud-nimbus
+05a2991e-b994-424f-9ed2-5142dc9f9237,BR,dataprev,welfare,INSS social security benefits processing,production,LGPD,late-majority,4,,br-dataprev-wiki
+06158447-2a40-4b59-8dd0-114bfd2eaace,QA,gcp,research-compute,Google Cloud Center of Excellence in QFZ for digital capacity building,production,data-residency,innovator,2,,qfz-google
+06adcbad-6871-48cf-9a4e-6be4ed0f9028,EG,ibm,public-admin,IBM cloud presence in Egypt colocation/cloud market,production,,innovator,2,,egypt-dc-2025
+06f1f34e-4623-4df2-a21e-5f3ada24316a,GB,palantir,health,"NHS Federated Data Platform (Foundry), GBP330M/7yr",production,OFFICIAL-SENSITIVE,early-majority,4,,reg-palantir-nhs
+07938146-529a-439c-9da1-35961e86ccbe,NG,galaxy-backbone,public-admin,National government cloud (NgGCC) infrastructure,production,,early-adopter,3,,gb-nitda-startups
+07bde02a-fa55-415d-8750-ce31da6e4a33,ZA,huawei,municipal-sensing,Ekurhuleni smart-city ICT platform,production,,early-adopter,3,,huawei-ekurhuleni-2018
+0832deb1-3a7b-473d-a9e8-2b16d162f4fb,RU,gosoblako,health,EGISZ / regional health info systems migrating to domestic sovereign stack,announced,accredited,early-adopter,2,,egisz-tadviser
+092471d4-ae00-4e38-9e9f-e592ce36874d,QA,gcp,public-admin,"Google Cloud Doha region (Qatar Free Zones), first in GCC/NA, public sector + enterprise",production,data-residency,early-adopter,3,,gcloud-doha
+09f55f57-0bbe-47c5-988b-df66b2f8ddf5,ZA,azure,research-compute,Microsoft R5.4bn/$297m AI+cloud datacentre expansion,announced,POPIA,early-adopter,3,,msft-sa-297m-2025
+0b4f51fd-b887-439a-910e-6fae0828c8bb,KE,konza,public-admin,Konza National Data Centre & smart city (Huawei-built),production,,early-adopter,3,,konza-ndc-2020
+0b69c9d1-1bfa-4331-bb60-6643ae9c72ae,US,oracle,defence-intel,JWCC task orders (incl. Navy Neptune),production,IL2-IL5,early-adopter,3,,navy-neptune-ebiz
+0bf4f927-e6f7-4f0a-9d69-5de4db5fc054,QA,azure,public-admin,MCIT + Microsoft GPT-powered government innovation (Azure OpenAI),production,data-residency,early-adopter,3,,ms-gpt
+0c1e153a-5695-436b-a7a4-3cb261910327,PL,gcp,public-admin,ZUCH/PChO framework-brokered Google Cloud procurement,production,,early-majority,2,,pl-zuch
+0c2fa3c8-d65d-41a7-951c-dafb554afd86,NZ,aws,tax-revenue,"Inland Revenue START ""Start to Cloud"" migration to NZ-based cloud (provider TBD)",announced,,early-adopter,2,,gets-ir-starttocloud
+0c7256d8-ce58-4aa1-833a-3c8a52369133,AE,oracle,public-admin,OneCloud powered by Oracle Alloy - UAE sovereign cloud,announced,,early-adopter,3,,oracle-onecloud-uae
+0db1da3a-fd13-444a-b164-2af49ce01a8b,FI,aws,public-admin,Valtori commercial-cloud framework (Nordcloud-delivered),production,,early-majority,3,,fi-valtori
+0e1f7708-7c5b-46ae-8e9c-95bfeac64a9a,US,aws,border-immigration,"DHS Cumulus agencywide cloud IDIQ ($2.6B, Jun 2026)",production,FedRAMP High,late-majority,4,,cumulus-fedscoop
+0e2567aa-d348-46d0-aa2a-cd6e85f05d98,GB,aws,law-enforcement,Police Digital Service national digital fingerprint capability,production,OFFICIAL-SENSITIVE,early-adopter,3,,cw-police-fingerprint
+0e6029b3-c33a-4f8c-998c-e863ac1e8ec2,US,gcp,defence-intel,JWCC task orders; Secret-level work authorized 2025,production,"IL2-IL5, Secret (2025)",early-adopter,3,,google-secret-bd
+0e95c585-68fb-40a2-959d-55f48df67148,US,federated-wireless,municipal-sensing,Federated Wireless SAS (~83% CBRS device share; AWS-based),production,FCC SAS certification,early-majority,4,9,google-cbrs-exit
+0ef3f40d-9113-46ef-9f16-1ab131b4a31a,US,deloitte,pandemic-response,"CDC VAMS (~$44M, Salesforce-based) - abandoned by most states, not retained",decommissioned,,,1,8,vams-fedscoop
+0f6341cb-f83f-45d9-a1bd-27da97df05e7,US-CO,gedmatch,genomics-biotech,CBI Cold Case Unit investigative genetic genealogy via public DNA databases,production,consent-flagged public databases,early-adopter,2,,cbi-gg-pdf
+10d12cfb-c79e-4f30-8db3-03013e271e25,IL,aws,tax-revenue,Ministry of Finance and Consumer Protection Authority on AWS Israel region,production,il-data-residency,early-adopter,3,,aws-israel-launch
+10e03d44-1a11-45d9-9bf1-c942ff10b059,AU,oracle,public-admin,Oracle Cloud for Aust Govt & Defence HCF certification; IRAP,accredited,HCF Certified Strategic; IRAP PROTECTED,early-adopter,3,,oracle-hcf
+128f86a1-b753-4f4b-8742-6790331c49e3,CN,tencent,public-admin,"WeCity digital-government platform, provincial/municipal gov services",production,MLPS-2.0,early-majority,4,,register-cloud
+1294dad8-d0b0-499a-a39e-2dc5a335395c,US,azure,municipal-sensing,AT&T Network Cloud acquired by Microsoft; commercial 5G core to Azure Operator Nexus,production,,early-majority,3,8,att-azure
+1296192b-0eec-42d5-8d6e-201f103b80eb,CN,h3c,public-admin,Government hybrid cloud + networking infrastructure,production,MLPS-2.0,early-majority,3,,rootaccess-govcloud
+12bcb15d-1944-44b9-839a-bcc471046d64,QA,azure,digital-identity,National Authentication System for World Cup 2022 visitors on Azure,production,data-residency,early-adopter,4,,ms-mcit-story
+1311739c-0503-442a-8520-76cd4c1bf485,CN,alibaba,tax-revenue,Golden Tax Phase IV cloud-hosted tax digitization,production,MLPS-2.0,early-majority,4,,caixin-goldentax
+13ca9f3f-1ae5-4cf8-928f-00347ad5f2ed,NZ,aws,pandemic-response,NZ COVID Tracer contact-tracing app (AWS-hosted),decommissioned,,late-majority,3,9,wiki-covidtracer
+142f3f21-6e8d-4d1d-be6c-36aedb1ea85f,DE,rise,health,ePA record-system software approved with IBM (Jan 2025),production,,early-adopter,3,,gematik-rise
+14c824af-6d28-4436-9cba-6be46e3acf24,CN,tencent,welfare,Social-services / social-credit-linked citizen service platforms,production,MLPS-2.0,early-majority,3,,rootaccess-govcloud
+14e998d1-217f-4667-973c-aaf3dd4d99f6,US,shooter-detection,municipal-sensing,DHS S&T SBIR-funded indoor gunshot detection (Shot Detected),production,,early-majority,3,8,dhs-shot-detected
+1520beba-5ba7-4450-9997-27f856c18bf1,AU,archtis,law-enforcement,Kojensi PROTECTED secure collaboration; ACIC first intelligence adopter,production,IRAP PROTECTED,early-adopter,3,,archtis-acic
+15369162-2be7-4c06-938b-fdc71fa468c4,ZA,azure,public-admin,Azure SA North (Jhb) & SA West (Cape Town) regions serving govt/enterprise,production,POPIA,early-majority,4,,azure-sa-2019
+155867ce-eab9-4473-b3dc-3ba7743f3bb6,SA,aws,public-admin,AWS Middle East (Saudi Arabia) me-central-2 region for public-sector workloads,announced,CST CCRF,early-adopter,3,,aws-sa-region
+16c01336-5e84-4bfe-b50a-1ebe9de14de8,IL,gcp,defence-intel,Google reported to have expanded IDF unit access to AI/Vertex tools during Gaza war,production,nimbus-tender,innovator,2,,dcd-google-idf
+16d757da-65f1-47d2-8cfa-b319639cc12b,IL,oracle,defence-intel,Oracle Cloud Jerusalem sovereign region targeting Israeli defense and government,production,sovereign,early-adopter,3,,oracle-jerusalem
+16e619b4-2ec4-4406-8404-c765d22ed169,IL,aws,public-admin,Project Nimbus: AWS as co-primary cloud provider for Israeli government,production,nimbus-tender,early-majority,4,,nimbus-wiki
+192e9010-eaaf-4a95-b16b-d0af3165b8d8,US-CO,cpi,law-enforcement,"CCIC (CBI/CDPS CJIS gateway, 23k users) migrated May 2024 to CPI vendor-hosted cloud DC (Chicago)",production,CJIS-compliant vendor hosting,late-majority,4,,nascio-ccic
+19c7000c-9bb3-42c9-a738-a1ad71dc5cb5,NG,azure,public-admin,Nigerian org/gov workloads via offshore Azure regions,production,,early-majority,3,,techcabal-ng-cloud-2026
+19e90f44-8098-4d16-983a-047e4bfa3fb8,US-CO,soundthinking,municipal-sensing,Aurora PD ShotSpotter 3-year renewal,production,vendor cloud,late-majority,3,,soundthinking-aurora
+1a25ab14-71d8-4a41-9ede-a15e8795b1c5,RW,irembo,digital-identity,Civil registration / digital identity services via Irembo,production,,early-majority,3,,irembo-2025
+1a334c38-c793-4a8d-9a24-bda09e4784bd,GB,aws,tax-revenue,"HMRC datacentre-exit migration to AWS (GBP473M, 2026)",announced,OFFICIAL,early-majority,4,,reg-hmrc-aws473
+1ac18c55-f305-4212-8a71-b62719755f5a,NZ,azure,health,Health NZ second national public cloud platform (dual/multi-cloud strategy),production,cloud-risk-assessment,early-adopter,3,,istart-health-dualcloud
+1b1d29fb-9242-47b2-8b5c-5d0c5e67c41a,GB,aws,genomics-biotech,Genomics England researcher platform (Amazon WorkSpaces),production,OFFICIAL-SENSITIVE,early-adopter,4,,aws-genomics-workspaces
+1b5f738c-da98-49b3-b39c-5cbba2902cb3,RU,rostelecom,public-admin,"Gosuslugi (EPGU) e-gov portal hosting, 126M+ users",production,accredited,late-majority,5,,gosuslugi-wiki
+1c068b13-32fa-4009-b39d-cd0c4a92a544,EU,oracle,public-admin,Oracle OCI 6-yr EUR15.75M contract for EU institutions,production,,early-adopter,2,,register-oci
+1c279e8a-0552-4e2f-8804-1c4de62c8404,AE,azure,public-admin,Microsoft Azure UAE regions (Abu Dhabi + Dubai) public-sector workloads,production,,early-majority,4,,ms-azure-uae-regions
+1cf5669d-5313-475a-ad02-0088cee26fc9,AE,core42,health,Malaffi health information exchange (Abu Dhabi HIE),production,,early-majority,4,,malaffi
+1da11e3b-1382-4624-affe-1126cf6b9884,AE,g42,research-compute,Stargate UAE 5GW AI campus (OpenAI/Oracle/Nvidia/Cisco/G42),announced,,innovator,2,6,stargate-uae
+1dcf0313-1ef7-4e1b-ab85-be1d792d061a,AU,azure,law-enforcement,"ACIC National Criminal Intelligence System (NCIS), ~60,000 users, replaces ACID",production,IRAP PROTECTED (ASD-certified),early-majority,4,,itnews-ncis-azure
+1dfaef04-ab22-46da-853b-d14b62651d76,MX,gcp,research-compute,Google AI lab Puebla in federal Development Hub,announced,,innovator,1,3,mx-sovereignty
+1f03cbf7-a049-4825-9b64-f7d3831e6aa2,NO,azure,public-admin,Norway national cloud-computing strategy (permissive procurement),production,,early-majority,3,,no-strategy
+1f691403-94f3-46dd-8da3-a4c2ecf81b3d,US,azure,welfare,SSA Azure Government cloud services task (via Accenture),announced,FedRAMP High (Azure Gov),late-majority,2,,ssa-azure-g2x
+1fb824f6-4206-45a8-9c5e-46ec4a17689f,EU,ovhcloud,public-admin,OVHcloud contracted in EU institutions multi-cloud,production,,early-adopter,2,,register-oci
+1fbfe4d6-c63e-4fe9-a23a-08aad447394f,CN,gcp,public-admin,ABSENT from mainland China entirely; no government or commercial cloud presence,decommissioned,,laggard,1,,register-cloud
+20e0047f-e3c4-40b1-94d3-bcc6c35d4e7a,FR,scaleway,health,Health Data Hub migration to French SecNumCloud provider (announced 2026),announced,secnumcloud,early-adopter,2,,hdh-euronews
+2213068e-a4c0-4876-a648-226bab6b1f00,CN,cec,digital-identity,Xinchuang-based government identity/authentication stack,production,MLPS-2.0-L3,early-adopter,3,,xinchuang-geopolitechs
+2266063f-e9df-4cdf-814a-a8dd6c62981f,EU,egi,health,EUCAIM Cancer Image Europe federated platform; EGI cloud provisioning,production,,early-adopter,3,7,eu-eucaim
+2278e2e9-4d21-4401-a84f-24365bdc78d0,FR,numspot,public-admin,"NumSpot trusted cloud, SecNumCloud in qualification, state projects",announced,secnumcloud,innovator,1,,numerique-gouv
+228ff627-231d-49cf-bb0c-c2121abb2c21,FI,azure,public-admin,Valtori government ICT security-hardened multi-cloud,production,,early-majority,3,,fi-valtori
+2467b403-7f73-445d-b64c-379efef20223,BR,huawei,public-admin,Federal cloud procurement bids (8 of 20),announced,,early-adopter,2,,br-convergencia
+24f1293e-47f4-43ba-9b0c-5d6e7e048f63,SA,humain,research-compute,HUMAIN Nvidia/AMD GPU + AWS Trainium sovereign AI supercompute,announced,,early-adopter,2,6,aws-humain-nvidia
+251f4104-e720-4217-a001-0d713770fcca,DE,gcp,public-admin,Google Cloud services for federal administration,production,c5,early-adopter,2,,netzpol-bund
+25653796-8c69-4ce6-9432-c5d4b817dce3,DE,t-systems,public-admin,Sovereign Cloud powered by Google (air-gapped tier) for public sector,production,c5,early-adopter,2,,tsystems-google
+25e9f063-c0e4-4194-a076-5ca3d6891265,RU,gosoblako,transport,GEOP hosting Ministry of Transport systems (pilot-migrated),production,accredited,early-adopter,3,,geop-drussia
+262ca2e6-7440-497b-ae30-c14f084eb296,NO,azure,public-admin,Microsoft Azure Norway regions; permissive cloud-first policy,production,,early-majority,4,,no-azure
+26730406-63ff-4f9c-8b3d-06f6557de387,RU,vk-cloud,public-admin,VK Cloud (ex-Mail.ru Cloud Solutions) gov & municipal IaaS,production,accredited,early-majority,3,,tadviser-cloud-market
+271d986d-e8bd-48a7-b5e5-82e3fcec8732,US,azure,transport,FAA Cloud Services (FCS) hosting,production,FedRAMP,early-adopter,3,,faa-fcs-dck
+27422b54-98e9-4e9f-9e46-d98180a3d95d,RU,sbercloud,public-admin,"Cloud.ru Evolution IaaS/PaaS - market leader (~32.5%), gov & SOE workloads",production,accredited,early-majority,4,,tadviser-cloud-market
+28408eb0-0808-457f-b5b4-ae93222dca16,QA,azure,public-admin,"MCIT Voyager Program: 70+ public entities to Qatar Azure region; landing zones, Zero Trust, Sentinel, M365 E5",production,data-residency,early-majority,4,,ms-mcit-story
+29645d89-8e16-4705-bb5f-f84b75def95b,US,aws,defence-intel,AWS Secret (C2S) + Top Secret regions,accredited,ICD 503; DoD IL6 (Secret),early-majority,5,,aws-ts-page
+2973904a-8256-4de9-be01-97d5e21a0131,US,aws,digital-identity,Login.gov (EC2/RDS/KMS on AWS),production,FISMA Moderate ATO on FedRAMP AWS,early-adopter,4,,logingov-handbook
+2976c809-0f4a-4f1f-ac71-03616e86eda2,US,verily,genomics-biotech,CDC national wastewater testing/monitoring services contract (2023),production,,early-majority,3,8,verily-cdc-wastewater
+2977fe08-4a49-4cc9-aa54-5978edaed64b,KE,huawei,digital-identity,Smart-government / e-Citizen supporting infrastructure,production,,early-majority,3,,konza-ndc-2020
+2a3e2664-50e4-45ed-bd67-40f2199c7130,AU,aws,tax-revenue,ATO mission-critical public cloud workloads; data centre migration; FinOps,production,IRAP PROTECTED,early-majority,5,,arn-ato-aws
+2b82424f-9fad-4b8e-a409-7acf501747fd,AE,oracle,research-compute,Stargate UAE Oracle cloud infrastructure,announced,,innovator,2,6,stargate-uae
+2c889062-cce7-4279-afbf-5974e628b77d,US-CO,flock,municipal-sensing,Denver 111-camera Flock ALPR network (May 2024-Feb 2026); terminated after ICE-search revelations,decommissioned,SOC 2 Type II; ISO 27001 (vendor-claimed),,3,,denverite-flock-axon
+2cbf95c9-18cd-45ff-b95b-2a7dbe1ca5c8,NL,aws,public-admin,AWS European Sovereign Cloud under evaluation for government,announced,,early-adopter,1,,nl-aws-sovereign
+2d17c9b2-2a69-4d6f-b7d8-fc343aaf1f43,RW,aws,public-admin,"AWS Outposts Rwanda - first regional deployment, hybrid govt cloud",production,,early-adopter,3,,aws-outposts-rwanda-2026
+2dca2d37-9e3b-4cec-81f1-f6f031a5eeca,EU,egi,health,Cancer Image Europe first prototype pan-EU infrastructure live (2024),production,,early-adopter,3,7,eu-eucaim-live
+2dd139e9-adde-4b31-9624-63f4a6d320b8,NZ,datacom,public-admin,Datacom Cloud Framework Agreement (NZ local provider),accredited,datacom-fwk,early-majority,3,,dgnz-az-index
+2dd57297-544a-4042-a3d9-62910cccfab0,AU,aws,public-admin,HCF Certified Strategic (Australian Regions); annual IRAP PROTECTED,accredited,HCF Certified Strategic; IRAP PROTECTED,early-majority,5,,hcf-providers
+2e0b217e-c62d-467f-b513-35033d3b65bd,US,gcp,genomics-biotech,"NIH STRIDES enterprise cloud partnership (2018, via Carahsoft)",production,FedRAMP-authorized CSP,late-majority,5,9,strides-faq
+2e536f3d-8d92-404f-b858-aad0786534f3,AU,azure,law-enforcement,AFP protected Microsoft cloud; AI on Azure,production,IRAP PROTECTED,early-adopter,3,,itnews-afp-ms
+2e8fe599-8a38-4b85-b62d-5d55bd4b3bd3,AU,aws,education,Education agencies via DTA WofG arrangement,production,HCF Strategic; IRAP PROTECTED,early-majority,4,,itnews-aws-renew
+2e9936ce-897f-447c-83fc-9d1dca8a671e,DE,stackit,law-enforcement,Wire on STACKIT with BSI release recommendation for classified (VS) comms,production,bsi,early-adopter,2,,stackit-public
+2f261c96-400c-4b9b-887c-f959f094aa4f,DE,bitmarck,health,"ePA for ~80 statutory health insurers, data centres exclusively in Germany",production,c5,early-majority,4,,epa-netzpol
+2f8904ac-c196-4f13-b616-f654345be9c6,RU,rostelecom,digital-identity,ESIA unified identification & authentication system,production,accredited,late-majority,5,,gosuslugi-wiki
+30f15e8a-537c-4727-b7cc-ce11004c79bd,SA,oracle,public-admin,Oracle Cloud Saudi public-cloud regions (2nd region opened),production,CST CCRF,early-majority,4,,oracle-sa-2nd-region
+31e8b128-92d9-48c4-a38e-2f537c29ebb2,AE,digitaldubai,public-admin,Dubai Pulse / Dubai Data & AI Platform,production,,early-majority,4,,digital-dubai-pulse
+323583aa-1a2a-4a7f-b072-3258f648325b,SA,gcp,public-admin,Google Cloud Dammam region with data-sovereignty controls,production,CST CCRF,early-majority,4,,gcloud-dammam
+32646d5e-147d-4079-82f2-13ba27f98909,GB,azure,defence-intel,MODCloud Azure Connected Environment backbone,production,OFFICIAL-SENSITIVE,early-adopter,3,,digitalmod-azure
+32c5124c-9bfb-43b7-ae59-400e31d36300,US,gcp,defence-intel,DoD CDAO $200M AI/cloud contract,announced,,early-adopter,2,,google-cdao-blog
+32e3cce9-a5c2-4e42-b61f-0050438e66d0,GB,aws,tax-revenue,"HMRC public cloud hosting via OGVA (GBP94m, 2021)",production,OFFICIAL,early-majority,4,,cw-hmrc-aws94
+32f630da-6cbe-4769-bd0e-eb9067c3e5a3,US,aws,border-immigration,DHS OBIM HART biometrics on AWS GovCloud,announced,FedRAMP High (GovCloud),early-adopter,2,,hart-thehill
+334a2119-7488-47c8-a92c-458193fe3387,US-CO,flock,municipal-sensing,Boulder PD Flock ALPR renewal Dec 2025 after exiting national lookup network accessed by ICE,production,SOC 2/ISO 27001 (vendor),late-majority,3,,boulderlab-flock
+34a97ba2-2d50-45f7-b836-cb01a51da0c0,NZ,gcp,public-admin,"Google Cloud Framework Agreement (all-of-government, 2023)",accredited,gcfa,early-adopter,2,,dgnz-gcfa
+3524fb63-a9dc-4c35-bcee-aecb8ddb2cbd,PL,chmura-krajowa,public-admin,WIIP/ZUCH: RChO gov cloud + PChO commercial framework via COI,production,,early-majority,3,,pl-coi-wiip
+35bfd04e-45ec-4fda-b786-7c45044eb722,IL,aws,research-compute,Weizmann Institute on AWS Israel region,production,il-data-residency,early-adopter,3,,aws-israel-launch
+35c30356-e1bc-40c5-9d7b-26c3f8ec2011,CN,alibaba,public-admin,"Zhejiang/Hangzhou e-government, one-network-one-visit model, provincial gov cloud",production,MLPS-2.0,early-majority,5,,register-cloud
+37a6d26b-6817-432c-acaa-0ab6639ff9d4,SA,stc,public-admin,stc cloud (sccc) enterprise/government cloud services,production,CST CCRF,early-majority,3,,center3-1gw
+38119b48-d2ed-4b2c-86a7-546e29f37592,SA,sdaia,digital-identity,Nafath / Absher national digital identity (28M+ identities),production,,early-majority,4,,absher-nafath
+38a1c874-cbef-4413-87d5-65ea5c5af2c3,US,gcp,nanotech-materials,Fermilab HEPCloud bursting to Google Cloud (300k-core demos),production,DOE lab ATO,early-majority,3,8,gcp-hepcloud
+3967a3f9-3736-4d4a-8bd7-1651bb8754dd,US-CO,niche,law-enforcement,Colorado State Patrol Niche RMS (since 2018),production,on-prem,late-majority,3,,csp-cad-report
+3a692389-9a89-4939-9dbd-597f76349d5f,DE,palantir,law-enforcement,"Gotham deployment planned (Baden-Wurttemberg, ~EUR25M/5yr, pending law change)",announced,,early-adopter,2,,palantir-local
+3b84809e-e4df-4cab-9acb-9e1fb0f329ae,KE,huawei,public-admin,Konza DC financed via China Eximbank concessional loan,production,,early-adopter,3,,china-eximbank-konza
+3be5d05a-a122-44c1-88c8-87a6833282c5,GB,gcp,defence-intel,"MOD sovereign air-gapped cloud (Google Distributed Cloud, GBP400M)",announced,SECRET,early-adopter,3,,gcloud-mod-press
+3d901ac9-3ef5-4f64-935a-acdb10c51e3d,US,aws,tax-revenue,FTI workloads under IRS Pub 1075 controls on AWS,accredited,IRS 1075 / FedRAMP,early-adopter,3,,aws-irs1075
+3ec23d4b-f0dc-42f0-83ea-4177a1e3339d,AU,aws,transport,State/territory transport agencies via DTA WofG arrangement,production,HCF Strategic; IRAP PROTECTED,early-majority,4,,itnews-aws-renew
+3ff13077-9ca0-4afb-942f-3a69adb7b59f,NL,aws,public-admin,AWS BIO-compliance program for Dutch public sector,production,,early-majority,3,,nl-aws-bio
+415cd4eb-1a2e-43ce-b1c6-99a8cc2e4c63,AU,azure,law-enforcement,NSW Police core systems on Azure,production,IRAP PROTECTED,early-majority,4,,itnews-nswpol
+4226a18b-6412-4d98-a664-e575ce778f9d,US,aws,law-enforcement,FBI counterterrorism investigations on AWS Secret (C2S),production,ICD 503 Secret,early-adopter,4,,fbi-ct-nextgov
+42c99dfc-5702-417c-be00-5809b4ea5b7f,DE,aws,law-enforcement,Bundespolizei VAULT end-to-end-encrypted object storage,production,c5,early-majority,3,,netzpol-bund
+43155031-3440-40bb-a711-8fb2fe2462f9,CA,aws,defence-intel,RCAF/Army situational awareness & maintenance apps,production,Protected B,early-adopter,3,,ca-dnd
+4357cd3a-0c72-4630-97b7-289f7445cc76,FR,ovhcloud,public-admin,OVHcloud for state projects under Cloud au Centre (SecNumCloud in qualification),production,secnumcloud,early-majority,3,,numerique-gouv
+43734504-128c-48f9-8630-5f85bb2aff18,DE,sap,public-admin,"OpenAI for Germany sovereign public-sector AI on Delos Cloud (4,000 GPUs, 2026)",announced,bsi,innovator,1,,openai-germany
+439374b3-4f41-4389-a115-e1b82eafb5bd,NZ,salesforce,pandemic-response,COVID-19 Immunisation Register (CIR) on Salesforce,decommissioned,,late-majority,3,9,twhatuora-cir-privacy
+43af9e3e-31ef-4ba6-8dd3-73cdaf1f9661,NL,aws,public-admin,"Rijksoverheid public cloud under 2022 cloudbeleid; DPIA/DTIA high risks resolved, BIO compliance",accredited,,early-majority,3,,nl-aws-dpia
+43ccf9df-4bb1-4424-ace7-c01e5ba6a9e4,CN,huawei,municipal-sensing,Sharp Eyes/Skynet smart-city video surveillance (e.g. Fujian deployment),production,MLPS-2.0-L3,early-majority,4,,cset-sharpeyes
+4431636f-a828-47cc-9d2a-d2c672db597b,US,palantir,pandemic-response,"CDC disease monitoring (DCIPHER/HHS Protect lineage), expanded 2022",production,FedRAMP High via PFCS,early-majority,4,9,palantir-cdc-2022
+44daa6c6-7ff3-425a-8747-2dead6bd040e,NZ,sap,public-admin,SAP Cloud Framework Agreement,accredited,sap-fwk,early-adopter,2,,dgnz-az-index
+45d89ee8-782d-4f24-a147-38cbd6ccf440,US,palantir,genomics-biotech,CDC DCIPHER (Foundry) ingesting NWSS wastewater genomic surveillance data,production,FedRAMP High via PFCS,early-majority,4,8,palantir-cdc-2022
+46427e09-c8fb-488c-806b-b62e01f62d1b,CN,huawei,emergency-mgmt,Provincial emergency-management government cloud,production,MLPS-2.0,early-majority,3,,huawei-govcloud
+484073b8-6a34-45d0-9aff-b3a9ef546334,CN,china-mobile,municipal-sensing,Smart-city sensing / municipal IoT cloud,production,MLPS-2.0,early-majority,3,,lightreading-telco
+491991d7-8970-4a98-9a16-047bbc517a8d,US,aws,border-immigration,CBP AWS Cloud East/West (major information systems),production,FedRAMP High (GovCloud/East-West),early-majority,4,,dhs-system-list
+49eef279-690f-4f17-9867-097e6e32a45e,US,aws,health,VA Enterprise Cloud - AWS FISMA High GSS ATO,production,FISMA High / FedRAMP High,early-majority,4,,va-aws-ato
+4a5c8bf5-9b8e-44b8-ab3b-99ec126d8d91,US-CO,axon,municipal-sensing,"Denver Axon ALPR (~50 cameras, ~$149K/yr, 21-day retention) replacing Flock",announced,CJIS-aligned contract terms incl. immigration-use ban,innovator,2,,denverite-flock-axon
+4b1061be-c6c0-402a-8da1-797428899b2a,RU,gosoblako,health,GEOP hosting Ministry of Health systems (pilot-migrated),production,accredited,early-adopter,3,,geop-drussia
+4c5bdb8e-a21e-4791-bf76-a6350af7e8df,CN,alibaba,health,Regional health-information platform cloud,production,MLPS-2.0,early-majority,3,,rootaccess-govcloud
+4c87c90d-6d39-4c80-9b8b-3c124aa23f69,US-CO,axon,law-enforcement,Fort Collins PD Draft One generative-AI report writing from BWC audio,production,Axon cloud CJIS posture,early-adopter,3,,9news-draftone
+4d0a9c2c-37ef-44bd-b5c5-4c33f2a30a39,US,azure,defence-intel,Azure Government Top Secret (GA Aug 2021),accredited,ICD 503/ICD 705,early-adopter,4,,azure-ts-ga
+4d311123-d722-4ded-a362-9b205a675efb,US,aws,education,FSA Next Generation Cloud (StudentAid.gov applications),production,FedRAMP High (AWS),early-majority,3,,fsa-ngc-fedscoop
+4d8ba507-cd53-444b-b1ba-3a534c75b5cd,DE,palantir,law-enforcement,"hessenDATA police analytics platform (Hesse, since 2017), on-prem",production,,early-majority,4,,palantir-local
+4dbb3c40-812e-481b-97ef-d648d53841b0,NZ,azure,public-admin,Azure New Zealand North (Auckland) region GA Dec 2024,production,,early-majority,4,,azurefeeds-nznorth
+4dd50c71-cbb6-4162-863a-2b618f927fd8,RU,astra,law-enforcement,Astra Linux deployed across police forces,production,accredited,early-majority,4,,astra-wiki
+4e4b00ce-7f9c-44bc-9862-007a97b7ed2d,DE,stackit,public-admin,Schwarz sovereign cloud for public sector; DRV Bund Cloud-RealLabor pilot,production,c5,early-adopter,3,,stackit-public
+4f71ffb7-aba1-4e67-a70c-1750d7b2f786,AU,azure,public-admin,HCF Certified Strategic (Australian Regions); IRAP PROTECTED,accredited,HCF Certified Strategic; IRAP PROTECTED,early-majority,5,,ms-irap-2026
+51270304-37c1-4028-8676-5fd770cd50bf,NZ,azure,public-admin,"Microsoft Cloud, Software and Services Agreement (MCSSA) framework",accredited,mcssa,early-majority,4,,dgnz-mcssa
+514bb012-2b14-4c24-ba9e-3ac1cf9fd89e,ZA,oracle,public-admin,Oracle Johannesburg cloud region (first in Africa),production,POPIA,early-adopter,3,,oracle-jhb-2022
+51605d92-cc64-4bcb-8c1a-e91040dff794,US-CO,aws,law-enforcement,Underlying hyperscaler (with Azure) for Axon Cloud; Evidence.com on AWS Marketplace,production,CJIS; FedRAMP,late-majority,4,,axon-aws-mkt
+52512ca0-a51d-4660-a3b3-803dd26032a5,NZ,azure,digital-identity,"RealMe re-platformed on Azure AD B2C/Entra (163 services, 56 agencies)",production,cloud-risk-assessment,early-majority,4,,ms-realme-azure
+54873160-62d7-4ed5-9bf0-c276b5e76bed,NL,aws,research-compute,SURF Public Cloud for Research framework (multi-cloud brokerage),production,,early-majority,3,,nl-surf
+54884715-b9ad-4c91-9ddf-e60841b14cf3,NZ,aws,pandemic-response,Aotearoa Immunisation Register (AIR) on Health NZ AWS platform (CIR successor),production,cloud-risk-assessment,early-majority,4,9,twhatuora-air-pia
+54992caf-f3fd-43be-9538-863786ba5f0f,CN,huawei,research-compute,East Data West Compute national computing hubs - western clusters,production,MLPS-2.0,early-adopter,4,,edwc-peoplesdaily
+55722471-b4e9-4115-8bf0-76016ed86238,US,aws,defence-intel,"JWCC task orders (DoD enterprise cloud, all ILs)",production,IL2-IL6/TS,early-majority,5,,jwcc-award-nextgov
+565376ae-9a5c-4f79-b9f4-099d62f6dfa4,DK,gcp,education,Helsingor municipal schools Google Workspace+Chromebooks BLOCKED by Datatilsynet,decommissioned,,laggard,1,,dk-datatilsynet
+56546d56-287b-4c18-8717-f67b7c07d7fe,RU,astra,public-admin,Astra Linux OS import substitution across state administration bodies,production,accredited,early-majority,4,,astra-official
+565d08b0-1775-46cc-8fb3-0ad5765f89ed,US,palantir,pandemic-response,HHS Tiberius vaccine allocation on Foundry (~$31M; wound down),decommissioned,FedRAMP High via PFCS,,3,9,hhs-tiberius-fedscoop
+56d9fd2f-3e12-46a4-b9b6-c483a7cc86fc,US,azure,law-enforcement,DOJ JMD FedRAMP High ATOs for Azure Government,accredited,FedRAMP High,early-adopter,3,,doj-azure-devblog
+5745cdf0-b4e2-424b-80d1-e395a8f8b260,US,aws,nanotech-materials,Fermilab HEPCloud production cloud bursting to AWS (DOE lab pattern),production,DOE lab ATO,early-majority,3,8,hepcloud-live
+575e468b-3bc4-4386-b8f0-fc4c7147ca0d,EU,scaleway,public-admin,"EU Sovereign Cloud framework award (EUR180M), Apr 2026",accredited,seal-3,early-adopter,2,,ec-sovereign
+57f0b531-6795-4b7a-b5d9-64d8f76f8865,GB,oracle,welfare,DWP pension services on Oracle Cloud,production,OFFICIAL,early-majority,3,,cloudcurated-dwp-oracle
+5953752d-e88d-44c4-a7e0-5ea9d0d0319e,IL,aws,public-admin,"AWS Israel (Tel Aviv) il-central-1 region launched Aug 2023, $7.2bn investment",production,il-data-residency,early-majority,4,,aws-israel-launch
+5a6b0117-2694-4f3b-94ef-0bde3099e892,EG,azure,public-admin,Microsoft cloud services in Egypt colocation market,production,,early-adopter,2,,egypt-dc-2025
+5b2e7412-b1ff-47bd-be48-a7240775d1a5,BR,serpro,public-admin,Nuvem de Governo sovereign cloud (~250 agencies),production,LGPD/sovereign,early-adopter,3,,br-nuvem-gov
+5c2d43a2-5c25-4130-bfb2-09ca6bc6cdd1,GB,aws,welfare,DWP cloud-first migration (AWS),production,OFFICIAL,early-majority,4,,cw-dwp-cloudfirst
+5cb0cfff-341c-4ee3-ba92-25c019bb0e1b,BR,dataprev,public-admin,Nuvem de Governo govt cloud services,production,LGPD/sovereign,early-adopter,3,,br-nuvem-gov
+5e2ade68-062e-4484-918a-aebb85e8edac,CN,china-unicom,public-admin,Unicom Cloud government/enterprise deployments,production,MLPS-2.0,early-majority,3,,lightreading-telco
+60e1d340-1a8d-46ea-a843-645db13d9070,CA,azure,public-admin,"GC sensitive workloads, M365/Dynamics Protected B",production,CCCS Medium (Protected B/PBMM),early-majority,4,,ca-azure-pb
+61b22165-95bf-4fb9-8e3e-00a3f728f875,US,azure,defence-intel,Azure Government Secret,accredited,DoD IL6; ICD 503,early-majority,4,,azure-secret-il6
+61e09844-cadb-4e64-915e-8beaf174f918,US-CO,motorola,emergency-mgmt,CSP PremierOne CAD serving 59 agencies; hosted on-premises (Lakewood Bldg 690),production,on-prem CJIS,late-majority,3,,csp-cad-report
+637a936e-4693-4b14-b3cc-f6a51938daae,AE,azure,research-compute,Microsoft + G42 UAE data-center expansion ($15.2bn UAE commitment),announced,,early-adopter,3,,ms-g42-2025-expand
+637aabcf-415d-4dd8-9150-251ab57a48a0,FR,bleu,public-admin,"Bleu (Capgemini/Orange + Microsoft) trusted cloud, SecNumCloud in qualification",announced,secnumcloud,early-adopter,2,,bleu-capgemini
+64156bf9-48d4-4a49-afe9-cfa1e52ba436,CA,aws,public-admin,Canada (Central) region secure cloud for GC,accredited,CCCS Medium PBMM,early-majority,4,,ca-aws-pbmm
+6507712f-1ff9-4cbf-acda-cec957ec1a8d,US,gcp,defence-intel,IC C2E multicloud,production,ICD 503,early-adopter,3,,c2e-nextgov
+6580679e-3d3d-45bd-b5d0-c17b93afaf8a,NZ,azure,border-immigration,Immigration NZ ADEPT rebuild on Azure/Dynamics365,production,cloud-risk-assessment,early-majority,3,,reseller-inz-adept
+65da5bef-d04f-42c9-be8e-5686c3b124ef,MX,azure,public-admin,Azure Mexico Central region (Queretaro),production,,early-adopter,2,,mx-azure-launch
+66d88a67-2166-4a26-99e4-3ba6c5c6c05d,RU,aws,public-admin,"AWS - stopped new Russia sign-ups Mar 2022; no government presence, use barred by Decree 166",decommissioned,,laggard,1,,techcrunch-cloud-exit
+685cd8a2-504d-4ea9-83ef-cb040b990cc6,GB,dnanexus,genomics-biotech,UK Biobank Research Analysis Platform,production,OFFICIAL,early-adopter,4,,cw-ukbiobank-dnanexus
+68a608a5-2a4f-4902-99ca-e05aa90ba1c8,AU,aws,tax-revenue,ATO cloud responsibility-model/self-service program,production,IRAP PROTECTED,early-majority,5,,itnews-ato-cloud
+6b4827fc-ec64-4a9f-9662-1b54bb0047cc,GB,aws,genomics-biotech,UK Biobank RAP cloud substrate,production,OFFICIAL,early-adopter,4,,ukbb-rap
+6b59d941-91d2-4a97-b670-ce2335d7e31b,DK,gcp,education,Danish DPA transfer ruling extended to municipalities using Google Workspace,decommissioned,,laggard,1,,dk-techcrunch
+6bdab7f7-1703-4ca6-844d-4d5d227bf1e2,RU,yandex,public-admin,Yandex Cloud IaaS/PaaS for state & regional agencies,production,accredited,early-majority,4,,tadviser-cloud-market
+6bff8a5f-317c-47ac-a9e7-039e7015dd9c,US,ecs-federal,genomics-biotech,ARPA-H $500M IDIQ - digital/data/cloud services prime,production,,innovator,2,,ecs-arpah
+6c85966d-2ca2-455d-88f5-a4faf2821878,GB,aws,defence-intel,MODCloud hyperscaler capability,production,OFFICIAL-SENSITIVE,early-adopter,3,,cw-mod-cloud
+6d4838ff-4560-4ba1-a7ba-9c58e7b6eac8,KE,g42,research-compute,Olkaria geothermal-powered AI data centre (100MW-1GW),announced,,early-adopter,3,4,msft-g42-kenya-2024
+6e695894-a9f7-4d5b-9b41-26a42d93c86d,US,aws,health,CMS Hybrid Cloud (AWS side; app hosting/migrations),production,FISMA/CMS ATO on FedRAMP IaaS,early-majority,4,,cms-hybrid
+6f969136-36ed-4277-b18a-a664ce5c252e,US,gcp,health,NIH STRIDES research/data infrastructure,production,FedRAMP,early-majority,3,,nih-strides
+70e3cb10-b518-411a-9953-dce6dffa26eb,NZ,aws,health,"Health NZ National Data Platform, Hira, Aotearoa Immunisation Register, bowel-screening",production,cloud-risk-assessment,early-majority,4,,hinz-health-cloud
+711ded64-44e3-40ad-91bc-42cf58568f3a,RU,rostelecom,public-admin,RTK-DPC data centers providing GEOP underlying infrastructure,production,accredited,early-majority,4,,tadviser-cloud-market
+725ca5f9-eab5-4346-9778-23d6f4b1bc62,BR,dataprev,digital-identity,gov.br digital identity platform (150M+ users),production,LGPD,early-majority,4,,br-govbr-forbes
+73d28cea-6ec8-48f7-9d50-a23dcf03bf48,GB,azure,health,NHS England Azure adoption via Microsoft agreement,production,OFFICIAL,early-majority,3,,ms-ukgov-5yr
+73ed9b04-c558-4462-9442-1bbbd16bf389,AU,azure,defence-intel,"Defence ERP (logistics, maintenance, finance, procurement), AU$495m 5-yr from Sept 2025",production,IRAP PROTECTED,early-majority,4,,dcd-defence-ms
+752435d8-9272-44ec-b2ba-3a63bf0c1f1f,RU,gosoblako,public-admin,"GEOP unified state cloud - IaaS/PaaS for federal agencies, full production Jan 2025",production,accredited,early-majority,4,,geop-govru
+755eef3e-a047-49eb-907f-1481cb28de94,US-CO,lexisnexis,law-enforcement,Denver PD enterprise Lumen agreement (analytics/real-time crime support),production,vendor CJIS posture,late-majority,3,,northforty-lumen
+75bb4fd8-ae71-4b71-b2b5-1d91e4bbe1e1,NZ,aws,transport,Ministry of Transport as AWS Auckland region early customer,production,cloud-risk-assessment,early-adopter,2,,dcd-aws-region
+75fd7da7-c86b-4f01-95a9-63add763e50c,US,azure,health,CMS Hybrid Cloud (Azure side),production,FISMA/CMS ATO,early-majority,3,,cms-hybrid
+765b756f-dfbb-4bf4-9046-d54aa55c730d,DE,aws,public-admin,ITZBund multi-cloud public-cloud IaaS/PaaS for federal agencies,production,c5,early-majority,3,,netzpol-bund
+767d9c34-df98-4e9f-a22b-59deb17254bc,US,gcp,defence-intel,GDC Hosted (air-gapped) TS/S authorization,accredited,IC TS/S; DoD TS,early-adopter,2,,google-ts-blog
+789687b8-d500-4885-8a1f-bea7e864e57d,QA,ooredoo,public-admin,Ooredoo sovereign cloud + sovereign AI (Oracle Alloy / NVIDIA GPUs),announced,sovereign,innovator,2,,ooredoo-oracle
+7949cd1c-c399-4285-ad3e-6157802ad893,AU,oracle,defence-intel,Defence multi-cloud Oracle workloads,production,IRAP PROTECTED,early-adopter,3,,dcd-defence-ms
+79c56e73-e7fe-4a6c-a388-0cccf4e0fb44,US,braingate,neurotech-bci,VA co-sponsored BrainGate2 intracortical BCI clinical trials,production,FDA IDE,innovator,3,6,va-bci
+7ac541b6-f798-472e-b0e9-642df3f6aec8,KE,azure,research-compute,Microsoft-G42 $1bn Kenya digital ecosystem / East Africa Azure region,announced,,early-adopter,2,4,msft-g42-kenya-2024
+7cd8244f-f64c-4073-9475-7d8017e00013,AE,core42,public-admin,"Core42 Insight sovereign public cloud for Abu Dhabi Govt (11M daily interactions, 200+ AI solutions)",production,ADG sovereign controls,early-adopter,4,,core42-insight-adg
+7f70bafe-1a3d-41b6-80a2-acdd40842bd5,US,battelle,neurotech-bci,DARPA N3 Phase II nonsurgical BCI (program concluded; no announced successor),decommissioned,,,2,4,battelle-n3
+7fdba6c3-0a23-4c86-8e86-8b9da99034bb,RW,irembo,public-admin,Irembo national e-government service portal (100+ services),production,,early-majority,4,,irembo-desa
+814243b3-23f0-47bf-a69b-76aa425befb6,US-CO,genetec,law-enforcement,CISC-wide Genetec strategic decision support centres (RTCC software),announced,,early-adopter,2,,cisc-providers
+8248cda3-e3f8-41bf-aec2-b972895079e1,BR,gcp,public-admin,Federal cloud procurement bids (3 of 20),announced,,early-adopter,1,,br-convergencia
+855140d3-7cea-4945-82a4-74e59613aa54,AU,azure,border-immigration,Home Affairs infrastructure hosting NCIS on PROTECTED Azure,production,IRAP PROTECTED,early-majority,4,,itnews-ncis-azure
+85b48f4f-5947-4c43-83fd-f0e93e7db4b2,NZ,aws,public-admin,AWS Cloud Services Agreement (ACSA) all-of-government framework,accredited,acsa,early-majority,4,,dgnz-acsa
+85c15912-2d4c-4228-9652-43563c4623aa,NL,azure,welfare,UWV/SVB mandated to migrate OFF public cloud (2026 policy),announced,,laggard,1,,nl-cloudbeleid-2026
+86844873-fad9-492f-912b-97c7b64603f5,RU,azure,public-admin,"Microsoft Azure - suspended new sales Mar 2022; cloud access cut, use barred by Decree 166",decommissioned,,laggard,1,,msft-suspend-dcd
+87fd69bc-2bc2-4167-a7d7-89e8e96fa86a,EU,embl-ebi,health,EHDS HealthData@EU cross-border infra rollout (TEHDAS2 roadmap),announced,,innovator,2,5,eu-ehds
+881a0e19-1491-4329-8485-917e1826cf77,AU,ibm,public-admin,"ABS 2016 eCensus (#CensusFail) DDoS/outage, since retired",decommissioned,IRAP assessed,laggard,1,,cw-ibm-census
+8840b4e9-eca4-49eb-99a9-04c828f40493,US,aws,transport,FAA Cloud Services (FCS) hosting,production,FedRAMP,early-adopter,3,,faa-fcs-dck
+8992905a-123e-4923-a81f-842c83d093fe,US-CO,flock,municipal-sensing,Denver interim 5-month Flock extension with ban on sharing plate data with feds (2025),decommissioned,contractual fed-sharing ban,late-majority,3,,denver7-flock-ban
+89c19201-ef54-4620-8348-289b4e748b8e,AE,oracle,genomics-biotech,M42 + Oracle Health genomics-driven longevity/prevention platform,announced,,early-adopter,2,6,m42-oracle-health
+8aaa7614-1fad-419f-864a-ce0f644be6bf,CN,huawei,public-admin,"No.1 government cloud provider (IDC, 7 yrs); ~22.9% dedicated gov-cloud share, provincial dedicated clouds",production,MLPS-2.0-L3,early-majority,5,,huawei-govcloud
+8b1deafe-0c62-4543-aae9-806be7319b64,US,azure,nanotech-materials,PNNL-Microsoft Azure Quantum Elements: 32M-candidate battery materials screen,production,,innovator,3,4,msft-pnnl
+8c420dae-3768-492e-a01b-c4700ead1537,US,synchron,neurotech-bci,FDA Breakthrough Device pathway; pivotal trial targeted 2026,announced,FDA Breakthrough Device,innovator,2,7,synchron-bd
+8c844d1a-ecb6-4fd8-8cc9-ee4e068bebc4,EU,azure,public-admin,European Commission Microsoft 365 (EDPS infringements 2024; remediation ordered by Dec 2024),production,,late-majority,3,,edps-tc
+8d76380e-68ea-4fa2-ab62-dea337f55647,RU,gcp,public-admin,Google Cloud - stopped accepting Russian customers Mar 2022; no government presence,decommissioned,,laggard,1,,techcrunch-cloud-exit
+8eaf71f8-1895-4094-ba0a-3557a634413f,CA,azure,defence-intel,DND military pay platform & Army operational planning,production,Protected B,early-adopter,3,,ca-dnd
+8f2d5ccf-7dee-447b-92c7-c3719734e494,AU,aws,pandemic-response,COVIDSafe contact-tracing app hosting; decommissioned Aug 2022,decommissioned,IRAP PROTECTED,late-majority,2,9,itnews-covidsafe
+902a64fb-f520-4ab4-9271-7f32e552db5b,NZ,azure,law-enforcement,"NZ Police migration of RESTRICTED workloads (frontline apps, digital notebook)",production,cloud-risk-assessment,early-adopter,2,,b2b-police-cloud
+90be989c-af13-4fe2-9d0f-33adbd7308e0,GB,aws,law-enforcement,Home Office LEDS crime data lake (AWS + Windows),production,OFFICIAL-SENSITIVE,early-majority,3,,itpro-homeoffice-datalake
+90e52d48-3c94-416f-927e-627260f286ac,SA,gcp,research-compute,Google Cloud + PIF Global AI Hub,announced,,early-adopter,2,5,gcloud-pif-aihub
+90fbf1aa-3b94-4504-aae9-48ef4a6bc12c,US,aws,genomics-biotech,"NCBI SRA full corpus, free via AWS Open Data Sponsorship Program",production,public open data,late-majority,5,9,sra-aws-registry
+9228cf22-1aef-49ea-842a-cc08f392e2c3,US,aws,pandemic-response,"Palantir Federal Cloud Service substrate (AWS GovCloud; FedRAMP High, 20 ATOs)",accredited,FedRAMP High (Nov 2024 Rev5),late-majority,5,9,pfcs-fedramp
+9260d085-d98a-4217-a888-99d2dabec586,US,aws,nanotech-materials,"Materials Project (DOE/LBNL, MGI flagship) on AWS Open Data registry",production,public open data,early-majority,4,9,materials-project-aws
+9280869f-4773-456d-ad27-bdf48300cb6e,DE,azure,public-admin,Azure services for federal administration (part of ~32 hyperscaler services),production,c5,early-majority,3,,netzpol-bund
+92d47d70-695f-451e-a553-dee95c219013,GB,aws,health,FDP Foundry cloud substrate (AWS UK regions),production,OFFICIAL-SENSITIVE,early-majority,3,,aws-palantir-foundry
+93d67944-ee26-4f7f-9f5c-d0fd202b64e6,QA,oracle,public-admin,Oracle Alloy sovereign cloud and AI platform deployed via Ooredoo Qatar,announced,sovereign,innovator,2,,ooredoo-oracle
+9450225a-537f-4310-9d30-2e43f5cd6245,AU,aws,defence-intel,"ASD Top Secret Cloud for National Intelligence Community (10 agencies), ~A$2bn/decade, REDSPICE",announced,TOP SECRET,early-adopter,4,,intel-ts
+94bb9a9d-e7e8-412e-8ac8-fe01a1dfb1a4,US,gcp,defence-intel,GDC air-gapped + appliance IL6,accredited,DoD IL6,early-adopter,2,,google-il6-blog
+94fcace5-da72-4fdc-bf88-e10058d054eb,SA,tonomus,research-compute,TONOMUS (NEOM) cognitive cloud/compute with Nvidia,production,,early-adopter,3,6,tonomus-oracle-nvidia
+956f863a-febd-4759-b9f5-a524f8bfe2bd,US,palantir,defence-intel,Palantir Federal Cloud Service IL5/IL6 accreditation,accredited,FedRAMP High; DoD IL5/IL6,early-adopter,4,,palantir-il6-pr
+95b0e74b-6be0-4f84-a7a7-6b739fb941ee,MX,aws,education,UNAM (national university) on AWS,production,,early-adopter,2,,mx-aws-launch
+95ea7d72-8427-4ce2-bb85-980bdabe3651,NL,azure,public-admin,Central-government M365/Azure email+documents; to be curtailed under 2026 revision,production,,early-majority,3,,nl-cloudbeleid-2026
+96bd65ab-69c3-4967-8038-1c37b37b1e04,BR,serpro,tax-revenue,Receita Federal tax processing systems,production,LGPD,late-majority,4,,br-serpro-wiki
+9767b2c0-34eb-4369-86ab-db31cc0c057e,AE,presight,law-enforcement,Presight AI-Policing Suite (World Police Summit 2025),production,,early-adopter,3,7,presight-aipolicing-2025
+983c70a4-bcef-49b9-ba00-0a42c9cb3e16,EU,s3ns,public-admin,"EU Sovereign Cloud award via Proximus-led consortium, Apr 2026",accredited,seal-2,early-adopter,2,,ec-sovereign
+99329771-2f23-42c6-bc0c-757d8f5d52d7,CA,azure,public-admin,Dominant GC cloud spend across departments,production,CCCS Medium,early-majority,4,,ca-procurement-scrutiny
+9a0c1865-8ccb-4ddc-8e24-fb5a6fbb377f,CN,tencent,health,Provincial/hospital health cloud + medical services,production,MLPS-2.0,early-majority,3,,rootaccess-govcloud
+9a7dcd2f-55c4-4182-a87c-f07ba196e7ea,PL,gcp,public-admin,Google Cloud Warsaw region + OChK partnership for public sector,production,,early-adopter,3,,pl-gcp-warsaw
+9aa376e5-8d5f-41f0-8d04-85d05617a014,CN,inspur,public-admin,Early gov-cloud leader (IDC 24.8% 2019); provincial/municipal cloud + xinchuang stack,production,MLPS-2.0,early-majority,4,,inspur-2019
+9ad0beca-5b85-4fbc-9038-95d1a386b7f7,ZA,aws,public-admin,"AWS Africa (Cape Town) region, public-sector workloads",production,POPIA,early-majority,4,,aws-capetown-2020
+9c4e9db6-a63b-4c11-9472-521e1d57e284,DK,azure,public-admin,Ministry of Digitalisation migrating OFF Microsoft 365 to LibreOffice/Linux,decommissioned,,laggard,2,,dk-microsoft-exit
+9cd416c5-6557-46de-b0ed-12ba1b167489,CN,tencent,education,WeCity education / provincial smart-education cloud,production,MLPS-2.0,early-majority,3,,rootaccess-govcloud
+9d77491e-5801-47ba-874e-f5992b969efa,US,aws,neurotech-bci,"DANDI archive (NIH BRAIN/NIMH neurophysiology) on AWS Open Data, us-east-2",production,public open data,early-majority,4,9,dandi-aws
+9d96a2d1-86f8-417b-b8de-0f36a572020c,NZ,azure,welfare,MSD foundational multi-cloud investment for service transformation,announced,,early-adopter,2,,reseller-msd-multicloud
+9e21acd5-cbcd-41bb-87dd-7c9644d54b0c,US,azure,defence-intel,"Navy Flank Speed (M365, ~472k users)",production,DoD IL5,early-majority,5,,flankspeed-navy
+9f0d4651-8708-49c2-9aaf-c2d5f1852186,DE,oracle,public-admin,Oracle Cloud services for federal administration,production,c5,early-adopter,2,,netzpol-bund
+9f0f3016-5d72-4942-b995-a8ce32d38a41,AU,aws,law-enforcement,NSW Police core systems (AWS component),production,IRAP PROTECTED,early-majority,4,,itnews-nswpol
+a06bd55c-0912-462d-acd4-f251c935d0ac,US,aws,tax-revenue,IRS NetHub Core Services in AWS GovCloud (ANCS),production,FedRAMP High (GovCloud); IRS Pub 1075,early-adopter,3,,irs-ancs-pia
+a23d804c-5561-48b0-9d8d-6509a477f8e9,EU,egi,genomics-biotech,GDI compute via EGI federated cloud across national nodes,production,,early-adopter,3,7,eu-gdi-portal
+a2565f18-455d-400b-971b-f87a0d396809,US,gcp,genomics-biotech,All of Us Researcher Workbench (Terra/Verily on GCP; Workbench 2.0 Jun 2026),production,NIH ATO; controlled-tier data,late-majority,5,9,aou-migration
+a2dad622-0b6c-4c1e-89e4-aa49be9ab083,US,aws,pandemic-response,CDC IZ Gateway on APHL AIMS platform (AWS-hosted IIS message routing),production,state-federal DUAs,early-majority,4,9,aims-overview
+a305b8e0-112c-4667-9b57-10d1800b792c,CN,alibaba,municipal-sensing,Hangzhou City Brain urban traffic/management platform,production,MLPS-2.0,early-adopter,4,,register-cloud
+a34c2f22-3383-4851-9071-d91b5c44f012,MX,gcp,public-admin,Google Cloud Queretaro region,announced,,innovator,1,,mx-google
+a366fdfa-0afc-4eb0-806c-d69584f3d633,GB,azure,welfare,DWP Azure workloads (hybrid),production,OFFICIAL,early-majority,3,,cw-dwp-cloudfirst
+a4ca0dad-e11a-41cd-9189-00acff1687e6,RU,vk-cloud,education,VK-operated state education platforms (Sferum) on domestic cloud,production,accredited,early-majority,3,,incountry-providers
+a576bd52-334a-4743-a464-80636d28b4d2,US,gcp,genomics-biotech,NCBI SRA corpus copy on GCP (since Feb 2020; access model revised Oct 2024),production,public open data,early-majority,4,9,sra-access-2024
+a5a42e08-3af7-48a0-a507-2b3291fe3a4c,QA,meeza,public-admin,MEEZA M-VAULT sovereign data centres hosting government and enterprise workloads,production,sovereign,early-majority,4,,meeza-mvault
+a60238f7-593e-4d2d-8af7-d17217396b9e,ZA,ibm,public-admin,IBM cloud-services layer within SITA GovCloud,production,,early-adopter,3,,sita-govcloud-2018
+a6363bbb-66e1-433b-ba6a-c24a818ed9a9,US,att,municipal-sensing,FirstNet dedicated 5G standalone core for public safety (2025),production,FirstNet Authority oversight,early-majority,4,8,firstnet-5gcore
+a6535577-77b3-4efc-b9ab-f9f312efbedb,PL,azure,public-admin,Microsoft Poland datacenter region (Apr 2023); Ministry of Finance user,production,,early-adopter,3,,pl-msft-region
+a7004938-2186-4c0d-89bf-97b4d45c6944,US,azure,health,VA FedRAMP High ATO for Azure Government,production,FedRAMP High,early-majority,3,,va-azure-ato
+a8dea1eb-0929-4f0a-a4a2-1cf46f397cae,RU,huawei,public-admin,"Huawei hardware/limited cloud - reduced presence, non-Western foreign supplier",production,,late-majority,2,,incountry-providers
+a95efd26-2523-4e0c-b69b-602da6afe848,FR,outscale,public-admin,Outscale (Dassault) SecNumCloud cloud in Cloud au Centre state projects,production,secnumcloud,early-majority,3,,numerique-gouv
+aa7d3c7d-1b8c-4eae-ba1f-fb21f7f732f6,GB,azure,tax-revenue,HMRC mission-critical SAP platform on Azure,production,OFFICIAL,early-majority,4,,capgemini-hmrc-azure
+aac8a6e5-5d6e-4898-bccd-836f7a599c33,GB,faculty,pandemic-response,COVID-19 AI modelling / data analysis (Faculty),decommissioned,OFFICIAL,innovator,2,,aibusiness-covid-contracts
+ab08d4ca-3aff-42ec-afc5-3adf3136f216,DE,palantir,law-enforcement,"VeRA cross-database analysis (Bavaria, since 2024)",production,,early-majority,3,,palantir-local
+ac5bebd4-a268-4974-8092-39e005d72a59,MX,aws,public-admin,State govts Guanajuato/Jalisco/Michoacan on AWS,production,,early-adopter,2,,mx-aws-launch
+ac9dd98a-64a4-4b96-8de5-201017e4290c,AU,aws,public-admin,AWS Melbourne Region achieved HCF Strategic certification,production,HCF Certified Strategic,early-majority,4,,aws-melbourne-hcf
+acad5d7b-d179-417e-915e-8f2debe55166,AU,aws,public-admin,ABS 2021 Census hosting (with PwC); 2026 Census on AWS with AI,production,IRAP PROTECTED,early-majority,5,,aws-census-2021
+ad18cf8e-9067-49a5-8121-276843a847dc,AU,aws,health,Health agencies via DTA WofG arrangement,production,HCF Strategic; IRAP PROTECTED,early-majority,4,,itnews-aws-renew
+ae4c9aff-de42-4025-aa1c-09bfa2c1e8d7,GB,azure,courts-corrections,"HMCTS Common Platform / court reform (Azure, Kainos)",production,OFFICIAL-SENSITIVE,early-majority,4,,kainos-hmcts-azure
+afb56c68-5d96-40cd-9633-223792cf8856,NZ,catalyst-cloud,research-compute,NeSI Flexible HPC Cloud (OpenStack) for research incl. genomics,production,,early-adopter,3,,nesi-hpc-cloud
+b188d7b8-d226-4731-ac95-e8001630f766,AU,azure,public-admin,"2023 MOU: cloud, cybersecurity and AI cooperation (REDSPICE-linked)",announced,IRAP PROTECTED,early-majority,4,,ms-mou-2023
+b2192030-6717-4fcb-9e6d-03e51d47184b,AE,g42,research-compute,Microsoft $1.5bn investment in G42 (AI + Azure),production,,early-adopter,4,,ms-g42-1.5bn
+b29d8378-6db9-4d52-b63a-66f8dbcd0992,US,azure,border-immigration,ICE cloud infrastructure hosting (AWS+Azure vehicle; record FY25 spend),production,FedRAMP-authorized,early-majority,3,,ice-forbes
+b2d68a07-0f83-44f6-9822-6a1e3b31e2e1,US,azure,health,NIH STRIDES (Azure added 2021),production,FedRAMP,early-adopter,3,,nih-azure-2021
+b2e9ad7e-a88d-49ba-9f88-61eb3ee98249,CN,azure,public-admin,EXCLUDED from government; operated by 21Vianet for commercial customers only under CSL localization,announced,,laggard,1,,register-cloud
+b371f053-9723-4af1-bff0-28a88d83766f,CN,huawei,transport,Smart-transport / provincial mobility government cloud,production,MLPS-2.0,early-majority,3,,huawei-govcloud
+b3ba2624-b06e-41ab-83dd-3ddd83a10580,CN,china-telecom,law-enforcement,Police Cloud / public-security data hosting for provincial MPS bureaus,production,MLPS-2.0-L4,early-majority,3,,bernot-policecloud
+b4333032-fe53-4035-b2cf-ed29a71b61c7,QA,azure,health,World Cup 2022 health-check/screening processing on Azure,production,data-residency,early-adopter,3,,ms-mcit-story
+b51e6cce-ac55-4454-ba8d-5894d30bbc81,FR,azure,health,Health Data Hub hosted on Microsoft Azure since 2019/20 (non-SecNumCloud),production,,late-majority,3,,hdh-euronews
+b52d74c9-e60f-46b5-aee5-bdca0a189da0,AU,aws,public-admin,"DTA whole-of-gov sourcing, 240+ services, 140+ agencies (renewed to Feb 2028)",production,HCF Strategic; IRAP PROTECTED,early-majority,5,,itnews-aws-renew
+b6065f96-498b-4c3c-a545-9320c2bc4fff,US,palantir,border-immigration,ICE Palantir services hosted on AWS ($24M FY20),production,FedRAMP High (Palantir FCS),early-adopter,4,,ice-dcd
+b69cf688-667a-452a-8050-14f2a98184d8,IL,gcp,defence-intel,"Google Nimbus landing zone + consulting for Israeli MoD (draft Mar 2024, phase 2)",production,nimbus-tender,early-adopter,3,,time-nimbus-idf
+b6d1cf7c-536c-4437-9bb3-feac50b2ac70,GB,azure,transport,DVLA cloud workloads via Microsoft MoU,production,OFFICIAL,early-majority,3,,pt-dvla-mou
+b6ebcd8b-8bf6-46f8-a77e-290476ae6bdf,SA,azure,public-admin,Microsoft Azure Saudi Arabia East region (GA Q4 2026),announced,CST CCRF,early-adopter,2,,ms-sa-q4-2026
+b6f9530f-4e2b-4084-a934-aec2b43f75e7,QA,azure,emergency-mgmt,World Cup 2022 real-time crowd-control and transport management on Azure,production,data-residency,early-adopter,4,,ms-mcit-story
+b72e2d92-5758-4f3a-80ce-1108d0b65672,EU,ovhcloud,public-admin,"EU Sovereign Cloud award via Post Telecom-led consortium, Apr 2026",accredited,seal-2,early-adopter,2,,ec-sovereign
+b79a9831-8522-4b45-b458-bfd86462d36a,DE,ibm,health,ePA electronic patient record for AOK and largest statutory insurers on IBM Cloud Germany,production,c5,early-majority,4,,epa-netzpol
+b7e9dc23-d885-41ff-a008-ba8cb8648855,US-CO,lumen-technologies,emergency-mgmt,Statewide 911 ESInet (sole certified BESP; all 83 PSAPs); NG911 core not yet live,production,PUC tariff; NENA i3 not achieved,late-majority,2,,co911-report-2025
+b8928856-0baf-472f-a751-4bb687ce3f4c,US,azure,defence-intel,Army cArmy 2.0 hosting environment,production,DoD IL4/IL5,early-majority,4,,carmy-defensescoop
+b8dfbd11-a034-4fde-aa3a-e03d7ef9642b,CN,china-telecom,public-admin,Tianyi/ctyun preferred SOE host for provincial government cloud,production,MLPS-2.0-L3,early-majority,5,,lightreading-telco
+b9604fee-88f3-4f35-9681-fb4de3ffe45f,US,decision-sciences,municipal-sensing,MMPDS muon tomography - DoD/DTRA R&D awards only; no verified CBP production buy,announced,,innovator,1,6,dsic-dod
+b9757297-da0d-4ca9-b7b5-486299acec86,PL,azure,public-admin,ZUCH/PChO framework-brokered Azure procurement,production,,early-majority,3,,pl-zuch
+b97d4e8b-ae2f-4289-a2f2-fd537302eca9,EU,fenix,research-compute,Fenix/ICEI e-infrastructure federation for neuroscience/EBRAINS,production,,early-majority,4,8,eu-fenix
+bae815cf-89d7-4cc9-bef8-66bfacb6e745,EG,huawei,digital-identity,Cairo Region in-country data residency + Arabic LLM,production,,early-adopter,3,,orange-huawei-egypt
+bb7959e6-9a36-4bd4-9755-8258c531fa01,RU,astra,health,Astra Linux in healthcare institutions,production,accredited,early-majority,3,,astra-wiki
+bd57809e-dec8-4897-8a2e-12c42c7a653c,SA,humain,research-compute,"AWS+HUMAIN AI Zone (>$5bn dedicated AI infra, UltraClusters)",announced,,early-adopter,3,7,aws-humain-aizone
+beb16b8e-ee9b-4735-9b1c-8a0fcf05516a,GB,aws,border-immigration,Home Office immigration caseworking cloud migration,production,OFFICIAL-SENSITIVE,early-majority,4,,computing-homeoffice-immigration
+bf5a9742-fed1-48e5-8627-37567531f2f6,US,aws,law-enforcement,CJIS criminal-justice workloads (GovCloud + commercial),accredited,FedRAMP High + CJIS Security Policy,early-majority,3,,aws-cjis
+bf7560e5-6c81-47f3-bc96-d5e8eae49b09,AE,presight,law-enforcement,Presight + Abu Dhabi Police AI law-enforcement cooperation,production,,early-adopter,3,,presight-adpolice
+c00286b5-f5bb-40af-a70b-ae50dbfe0efb,US,palantir,border-immigration,"ICE ImmigrationOS ($30M, 2025) atop ICM/FALCON",production,,early-adopter,4,,immigrationos-executivegov
+c008e201-8ac1-495d-8ece-3df4f10328c6,PL,azure,tax-revenue,Ministry of Finance e-PIT/e-Tax on Microsoft Cloud,production,,early-adopter,3,,pl-msft-region
+c02f80ad-9292-4bb4-91b3-0f635964499f,IL,gcp,genomics-biotech,Israeli precision-medicine / national genomic database (Psifas) and Clalit HMO data on local cloud,announced,il-data-residency,innovator,2,4,clalit-genomics
+c092b352-c7b4-4fa7-863e-bb1386cf0b81,GB,azure,courts-corrections,HMCTS Azure AI Foundry platform-as-a-product,production,OFFICIAL,early-majority,3,,ms-hmcts
+c1706f6c-c8d5-42cb-b621-6af94027bc7f,US,azure,defence-intel,IC C2E multicloud,production,ICD 503,early-adopter,4,,c2e-nextgov
+c1f961cb-307c-4360-8349-d8c8260710c7,DE,delos-cloud,public-admin,Sovereign Microsoft 365/Azure for federal/state/local administration (eval from H1 2025),production,bsi-c5,early-adopter,2,,delos-bertelsmann
+c290e5e4-f103-4f55-80ea-1f992e32d74c,NZ,aws,genomics-biotech,Genomics Aotearoa cloud-for-research bioinformatics,production,,early-adopter,2,6,ga-cloudsforresearch
+c4bf1fb7-5a94-4f0e-9e50-ad6b1ab30d0f,US-CO,axon,law-enforcement,Denver PD/Sheriff/Fire BWC + TASER + Evidence.com DEMS unlimited cloud storage; 5-yr ~$27M from Jan 2026,production,CJIS; Axon Evidence FedRAMP JAB P-ATO,late-majority,5,,copol-axon27m
+c4f3df2f-a735-44f8-a1be-ffd6b74171f2,BR,oracle,public-admin,Federal cloud procurement bids (3 of 20),announced,,early-adopter,1,,br-convergencia
+c501a148-00f1-47bd-8c49-950e139db879,RU,astra,defence-intel,Astra Linux Special Edition across military computers & National Defence Control Center,production,accredited,late-majority,5,,astra-wiki
+c69a19e8-c9cc-4754-a743-2ea05da2a7bb,NG,aws,public-admin,Nigerian workloads on public cloud (majority offshore-hosted),production,,early-majority,3,,techcabal-ng-cloud-2026
+c746c582-a7aa-4707-b890-2d1272f56e20,US,aws,defence-intel,Army cArmy 2.0 hosting environment,production,DoD IL4/IL5,early-majority,4,,carmy-defensescoop
+c7ebb5d1-2c7b-4af4-8072-16cf1b274e8d,US,azure,defence-intel,JWCC task orders (DoD enterprise cloud),production,IL2-IL6,early-majority,5,,jwcc-award-nextgov
+c7f952db-5f23-41c2-a2a0-da20a415a502,IL,aws,health,Ministry of Health and Tel Aviv Sourasky Medical Center on AWS Israel region,production,il-data-residency,early-adopter,3,,aws-israel-launch
+c8e4c63a-4de9-4e9b-9d95-befbd41a8600,NZ,aws,public-admin,Toitu Te Whenua LINZ as AWS region early customer,production,cloud-risk-assessment,early-adopter,2,,dcd-aws-region
+c9935713-921f-49d4-b471-3657eafbe2ba,US-CO,soundthinking,municipal-sensing,Denver ShotSpotter since 2015; 5-yr $4.7M extension approved Jan 2022 (file 21-1514),production,vendor cloud; incident audio retained permanently,late-majority,4,,denver7-shotspotter
+c9e73222-11a2-41f5-9556-7ccf42e37c2c,NG,galaxy-backbone,public-admin,Sovereign cloud buildout per NITDA 2026 framework,announced,,early-adopter,2,3,nitda-sovcloud-2026
+ca0273d4-3900-41a8-98f3-e220993ffd87,NZ,aws,education,University of Auckland as AWS Auckland region early customer,production,,early-adopter,2,,dcd-aws-region
+cb8480e5-d118-47c1-86d6-f750bd2d7cd3,EG,huawei,public-admin,Huawei Cloud Cairo Region - first public cloud in Egypt/MENA (with Orange),production,,early-adopter,3,,huawei-cairo-2024
+cc06c7ea-9c21-4032-914d-0849d6d7e32e,SE,aws,public-admin,US public cloud BLOCKED for core public admin (eSam/Schrems II opinion),announced,,laggard,1,,se-esam
+ccdf063c-7ea4-4a2f-b1d6-3eacc65a1a40,ZA,huawei,public-admin,Huawei AI-native public-sector roadmap with local partners,announced,,early-adopter,2,4,huawei-sa-publicsector-2026
+cd13b9a2-4248-4b11-bdda-e42ccaf1b668,GB,aws,defence-intel,UK intelligence agencies (GCHQ/MI5/MI6) classified hosting and analytics,production,SECRET,innovator,4,,reg-aws-spy
+cd4662d1-d885-4825-b288-7f830874f0d3,CA,oracle,public-admin,Oracle Cloud Protected B govt services (~110 svc types),accredited,Protected B,early-adopter,2,,ca-procurement-scrutiny
+cd7d6eab-6571-40d3-ac57-42a0e0565de5,US,aws,emergency-mgmt,FEMA GO grants management platform on AWS,production,FISMA/FedRAMP (GovCloud),early-majority,3,,fema-go-karsun
+ce038dfa-2dc9-43d2-83c3-3f5eaefc485f,AU,azure,public-admin,"DTA 5-yr volume sourcing agreement (M365/Azure), from 1 Jul 2026",production,HCF Strategic; IRAP PROTECTED,early-majority,5,,dta-microsoft
+ce9cff84-ee65-49ed-b4af-41a07a082daa,US,aws,neurotech-bci,"OpenNeuro (NIH R24, Stanford) BRAIN Initiative imaging archive on AWS Open Data",production,public open data,early-majority,4,9,openneuro-aws
+cf8b0274-93e9-4f96-a1cf-940fefe0b3bb,ZA,huawei,public-admin,"Huawei Cloud SA regions, top-3 vendor, public-sector push",production,POPIA,early-adopter,3,,huawei-sa-2024
+cfeac5e5-96b6-453c-84b4-19996ccc8ffb,NZ,catalyst-cloud,public-admin,Catalyst Cloud Framework Agreement (NZ sovereign cloud),accredited,catalyst-fwk,early-adopter,3,,dgnz-catalyst
+d0702cb5-dd88-43eb-9c36-608d6d26407f,IL,gcp,health,Project Nimbus coverage of HMOs and health ministry workloads,production,nimbus-tender,early-adopter,3,,gcloud-nimbus
+d0b77434-4608-42f2-bc65-63f3a2975209,RU,gosoblako,welfare,GEOP hosting Social Fund (pension/social) systems (pilot-migrated),production,accredited,early-adopter,3,,geop-drussia
+d0ba18cf-da97-41f9-8df5-bd3f9d5c8fa5,CN,aws,public-admin,EXCLUDED from PRC government cloud; Beijing (Sinnet)+Ningxia (NWCD) for COMMERCIAL only; AWS not legal operator,announced,,laggard,1,,datacenterknowledge-aws
+d0c01533-b671-404a-bd1d-cad7509b6dcf,NG,galaxy-backbone,education,NITDA-Galaxy Backbone startup cloud-cost subsidy program,production,,early-adopter,2,,gb-nitda-startups
+d40445e5-2a6f-44ec-906c-e8d078b9ec1b,EU,fenix,neurotech-bci,"EBRAINS (HBP) on Fenix/ICEI federated HPC (BSC,CINECA,JSC,CSCS,CEA)",production,,early-adopter,4,8,eu-ebrains-fenix
+d41d80a9-1612-429e-b6bf-fd5c9e0ecf42,PL,chmura-krajowa,public-admin,National cloud (OChK) for government/finance; PKO+PFR JV,production,,early-adopter,3,,pl-ochk
+d4fefe08-093a-4148-a523-34115c05e277,GB,palantir,pandemic-response,NHS COVID-19 Data Store (Foundry),decommissioned,OFFICIAL-SENSITIVE,early-adopter,3,,cw-covid-datastore
+d73c9dfe-2aa5-4b77-8287-3082b6b53db4,GB,gcp,pandemic-response,NHS COVID data analysis (Google),decommissioned,OFFICIAL,innovator,2,,cw-covid-datastore
+d768fd72-7282-4933-8b52-8da908a0ca7d,US,aws,genomics-biotech,"NIH STRIDES enterprise cloud partnership (2018-19, via Four Points)",production,FedRAMP-authorized CSP,late-majority,5,9,strides-faq
+d9d8d8b6-7868-4ed0-8efb-b28f5e09d680,GB,gcp,tax-revenue,HMRC Google Cloud usage (multi-cloud),production,OFFICIAL,early-adopter,2,,cw-hmrc-aws94
+da042e15-e8af-41a6-b4c8-280b3ec624e1,CN,china-telecom,research-compute,East Data West Compute national data-center clusters (Guizhou/Ningxia),production,MLPS-2.0,early-adopter,4,,edwc-peoplesdaily
+db356b82-0aeb-4827-b820-e4b5b37996fa,CA,gcp,defence-intel,AI/real-time language processing for defence,production,,early-adopter,2,,ca-dnd
+db455055-3138-4f39-95a1-5b881ff9f78c,CA,ibm,public-admin,IBM Cloud Protected B govt services,accredited,Protected B,early-adopter,2,,ca-ibm-pb
+dbef4417-2ccf-4562-90af-930016a9f974,KE,huawei,public-admin,KonzaCloud on Huawei Cloud Stack (govt cloud),production,,early-adopter,3,,huawei-konzacloud
+dca94dd9-45a7-495e-8df8-cb2b5dbb09b7,EG,digital-egypt,public-admin,Ain Sokhna national data hub - ministerial data,production,,early-adopter,3,,egypt-3dc-2025
+deebd8e0-cd24-4377-9a50-c9a82c2e4a0a,IL,azure,public-admin,Microsoft Azure Israel Central region (quiet launch ~2023) enterprise and government,production,il-data-residency,early-adopter,3,,ms-israel-region
+dffc4cde-d946-4ddd-bf60-159f815a06b2,SA,oracle,research-compute,TONOMUS NEOM Oracle Cloud infrastructure for enterprises,production,,early-adopter,3,,tonomus-oracle-nvidia
+e08cb0fe-a273-4685-bc93-b07428c9feea,US,precision-neuro,neurotech-bci,FDA 510(k) clearance for Layer 7 cortical interface component (2025),accredited,FDA 510(k),innovator,2,7,precision-fda
+e1c14716-7398-41ec-aca5-944fda9233b1,US,gcp,municipal-sensing,Google SAS - FCC-certified CBRS spectrum access system on Google Cloud (exit by Jun 2027),decommissioned,FCC SAS certification,,3,9,google-cbrs-exit
+e2e500fa-24de-4d94-9fec-2a6c68679bbf,NO,aws,public-admin,Norwegian public sector AWS adoption under cloud strategy,production,,early-majority,3,,no-strategy
+e4f2a42f-de18-4503-91fb-32108d2a5696,EG,digital-egypt,public-admin,"Three state-owned data centres (NAC), fully operational",production,,early-adopter,3,,egypt-3dc-2025
+e59dfc4a-f195-45c5-b1bc-11d8770c4afd,IL,aws,transport,Ministry of Transport & Road Safety and Ayalon Highway on AWS Israel region,production,il-data-residency,early-adopter,3,,aws-israel-launch
+e60742ad-6dc7-49f2-b115-2adfb61c6786,EU,stackit,public-admin,"EU Sovereign Cloud framework award (EUR180M, Cloud III DPS), Apr 2026",accredited,seal-3,early-adopter,2,,ec-sovereign
+e6d6e5b4-6240-451f-a9ac-c49fa4d390a8,US,azure,genomics-biotech,NIH STRIDES partnership (added Jul 2021; 115PB/83M hrs program-wide),production,FedRAMP-authorized CSP,late-majority,4,9,nih-azure-2021
+e7d370a0-d863-41e8-98a8-51308de8e3eb,RU,mts-cloud,public-admin,CloudMTS IaaS for state & enterprise workloads,production,accredited,early-majority,3,,tadviser-cloud-market
+e93613ec-5664-49c7-8d4a-fe394f1f08c4,CA,aws,public-admin,AWS CCCS Medium compliance program,accredited,CCCS Medium,early-majority,4,,ca-cccs-aws
+e98dfe4d-0f5e-4b53-92d7-7707ff900c45,CN,china-mobile,public-admin,"Mobile Cloud government + enterprise cloud, fast SOE growth",production,MLPS-2.0,early-majority,4,,lightreading-telco
+e9ad775b-9dd3-48e8-813c-a2ebb2ca81f0,ZA,gcp,public-admin,Google Cloud Johannesburg region,production,POPIA,early-adopter,3,,gcp-jhb-2024
+eb2398d3-b868-4bb7-b2d0-0c1634a96ac3,SA,oracle,public-admin,Oracle $14bn 10-year Saudi cloud/AI expansion,announced,,early-adopter,3,,oracle-sa-14bn
+eb94835b-b30e-4a0d-9cff-f354bb9b9bac,ZA,huawei,public-admin,Huawei infrastructure underpinning SITA GovCloud,production,,early-adopter,3,,sita-govcloud-2018
+ebef20d1-b97e-4899-8294-71187892af54,US-CO,azure,law-enforcement,Underlying hyperscaler (with AWS) for Axon Cloud carrying CO agencies' evidence; 2026 re-platforming,production,CJIS; FedRAMP,late-majority,4,,axon-cloud-2026
+ed0ad3e0-fd4e-40e4-b240-960fba9ae270,US,aws,defence-intel,NSA WildAndStormy / Hybrid Compute Initiative ($10B),production,ICD 503 Top Secret,early-majority,5,,nsa-wands-fedscoop
+ed70d963-1c0e-48c8-afdd-8d555ccdc893,SA,humain,research-compute,HUMAIN Chat sovereign Arabic LLM (ALLaM 34B),production,,early-adopter,3,8,humain-allam
+ee7bf960-30b8-43b9-a4d6-f68f30afeaf3,SE,nextcloud,public-admin,Swedish government adopts Nextcloud as sovereign collaboration platform,production,,early-adopter,3,,se-nextcloud
+eebce5c1-e620-4cff-a91f-bf37952c8648,GB,palantir,pandemic-response,COVID-19 Data Store extension deal (GBP23m),decommissioned,OFFICIAL-SENSITIVE,early-adopter,3,,dch-palantir-covid
+f08da554-74f0-406c-a105-d202491c8704,BR,azure,public-admin,Federal cloud procurement bids (9 of 20),announced,,early-adopter,2,,br-convergencia
+f1370475-75df-4b93-b2a5-f5784bc78918,DE,palantir,law-enforcement,"police data-analysis platform (NRW, since 2019/20)",production,,early-majority,3,,palantir-local
+f1aecab5-4944-458f-9ca7-9e645d991486,EU,aws,public-admin,AWS under Cloud II framework (EUR54M initial; framework ~EUR417.7M) for EU institutions,production,,early-majority,3,,register-oci
+f232d2ad-6a77-43da-a98f-4bf968822440,FI,azure,tax-revenue,Finnish Tax Administration (Verohallinto) citizen platform on Azure,production,,early-adopter,3,,fi-vero-azure
+f31201a3-f8ab-4c83-967b-5df34e0d5734,SA,center3,public-admin,center3 (stc) 1GW data-center capacity hosting gov/hyperscaler cloud,production,,early-majority,4,,center3-1gw
+f33f82cc-7609-4b53-b001-d273b54a84e2,SA,sdaia,public-admin,SDAIA Deem national government cloud,production,,early-majority,4,,sdaia-deem
+f34265fe-7e70-479a-99a9-949340dfcea2,IL,gcp,public-admin,"Google Cloud Israel (Tel Aviv) me-west1 region live Oct 2022, gov data residency",production,il-data-residency,early-majority,4,,gcloud-israel-region
+f3ec4245-0dc4-4d76-bf67-fe3761940bfa,US,aws,defence-intel,IC C2E multicloud (CIA-awarded),production,ICD 503 TS/S,early-majority,5,,c2e-nextgov
+f4915fda-5115-44f4-acff-40f54339abec,FR,s3ns,public-admin,PREMI3NS SecNumCloud-qualified trusted cloud (Thales/Google tech) for state projects,production,secnumcloud,early-adopter,3,,s3ns-news
+f4939245-1b56-4d4f-94d9-52b8cc81ad20,ZA,sita,public-admin,Government private cloud (GovCloud) consolidating dept ICT,production,POPIA,early-majority,3,,sita-govcloud-2018
+f4a71a22-1278-418f-af12-f6618848347f,BR,aws,public-admin,Federal multi-cloud procurement platform (via integrators),production,LGPD,early-majority,3,,br-convergencia
+f4a8896c-1833-414b-9dc6-1001ff9fc117,CN,inspur,health,Provincial health/medical government cloud,production,MLPS-2.0,early-majority,3,,inspur-govcloud
+f4d8a41e-d4a1-41ac-889b-f2ca208f7ac0,AU,gcp,public-admin,HCF Certified Strategic (Google Cloud Australian Regions); IRAP PROTECTED,accredited,HCF Certified Strategic; IRAP PROTECTED,early-adopter,3,,itnews-google-hcf
+f4f4740c-6584-47aa-80b1-9cc7128bc294,IL,gcp,education,Project Nimbus coverage of higher-education institutions,production,nimbus-tender,early-majority,3,,gcloud-nimbus
+f5830e0e-6b81-44fd-b24c-b625d5034342,RU,sbercloud,research-compute,Cloud.ru Christofari AI supercomputer / GPU cloud,production,accredited,early-adopter,4,,sber-supercomputer
+f7579065-d81f-4e9b-a217-41a4ecf38076,RU,yandex,research-compute,Yandex Cloud AI/ML & GPU compute,production,accredited,early-adopter,3,,tadviser-cloud-market
+f76d30b3-0827-4888-a4e3-b28704941254,US,aws,genomics-biotech,Verily Workbench on AWS (Apr 2026) - multicloud path for NIH research workloads,announced,,innovator,2,7,verily-aws-2026
+f88e917c-7fbb-4b81-9c8b-fce30668f6b3,MX,aws,public-admin,AWS Mexico (Central) Queretaro region public sector,production,data residency (MX),early-adopter,3,,mx-aws-launch
+f92d6920-a7ca-4315-8659-22519c1b2741,AE,tdra,public-admin,"TDRA sovereign cloud services (first regional gov entity, VMware)",production,,early-majority,4,,tdra-sovereign-cloud
+f9532170-481d-4f91-ac66-9349759fd393,AE,azure,public-admin,Microsoft Azure underpinning Core42 Abu Dhabi sovereign cloud,production,ADG sovereign controls,early-adopter,4,,core42-insight-adg
+f99f06a7-e9eb-4547-990c-a9b17f8d18da,CN,cec,public-admin,China Electronics xinchuang secure gov cloud (Kylin OS / PKS domestic stack),production,MLPS-2.0-L3,early-majority,3,,xinchuang-geopolitechs
+f9b3e8c9-3a31-449d-bd98-445ca2eb195b,AU,ibm,public-admin,HCF Certified Strategic provider (IBM Australia),accredited,HCF Certified Strategic,laggard,2,,itnews-google-hcf
+f9d2ea0b-3ec3-43e3-be07-232b781f73dc,EU,embl-ebi,genomics-biotech,1+MG / GDI federated genomic data on ELIXIR/EMBL-EBI nodes (~20 states),production,,early-adopter,3,7,eu-gdi
+fabacc6a-e10c-49c2-a407-acef7e7b567d,DK,azure,public-admin,Copenhagen & Aarhus municipalities exiting Microsoft for sovereignty,announced,,laggard,2,,dk-digwatch
+fc15ed47-be04-40b4-84ae-14245792ee39,FR,scaleway,public-admin,"Scaleway for state projects, SecNumCloud in qualification",production,secnumcloud,early-adopter,3,,numerique-gouv
+fc918be9-d1f4-4452-9fb0-875c96137112,GB,aws,health,NHS England cloud workloads via OGVA,production,OFFICIAL,early-majority,3,,aws-ogva
+fd6f7958-7ad9-479c-9cf2-a02abf31685c,SE,aws,welfare,Forsakringskassan kept off US public cloud (sovereign/on-prem),announced,,laggard,1,,se-esam
+fd96c219-94fe-477e-83dd-60bc6ab9fe11,US,oracle,defence-intel,IC C2E multicloud,production,ICD 503,early-adopter,3,,c2e-nextgov
+fe26205d-6868-4c0f-9cd7-fb227536c7c0,US-CO,lexisnexis,law-enforcement,"CISC statewide Lumen data-sharing/analytics platform (ex-Numerica, COPLINK successor)",production,CJIS-oriented vendor platform,late-majority,4,,lexisnexis-lumen
+ff662bb8-3875-4109-90a7-ba60673eda7c,NL,gcp,public-admin,Google Cloud usage permitted under 2022 rijkscloudbeleid,production,,early-adopter,2,,nl-ibestuur
+ff9c8993-a058-4f3f-a73c-4fab00fc5ceb,CN,huawei,law-enforcement,Police Cloud (jingwuyun) MPS data-fusion infrastructure,production,MLPS-2.0-L4,early-majority,4,,cset-datafusion

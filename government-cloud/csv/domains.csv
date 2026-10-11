@@ -1,0 +1,22 @@
+id,name,domain_class
+border-immigration,"Border, customs & immigration",established
+courts-corrections,Courts & corrections,established
+cross-cutting,Cross-cutting / economy-wide,established
+defence-intel,Defence & intelligence,established
+digital-identity,Central digital identity,established
+education,Education,established
+elections-registry,Elections & civil registry,established
+emergency-mgmt,Emergency management & disaster response,established
+genomics-biotech,Biotechnology & genomics,emerging
+health,Health & public health,established
+law-enforcement,Law enforcement & criminal justice,established
+municipal-sensing,Municipal sensing & physical-layer infrastructure,emerging
+nanotech-materials,Nanotechnology & advanced materials,emerging
+neuro-forensics,Neuro-forensics,emerging
+neurotech-bci,Neurotechnology & BCI,emerging
+pandemic-response,Pandemic response & vaccination infrastructure,emerging
+public-admin,Public administration & digital government,established
+research-compute,Research & scientific computing,emerging
+tax-revenue,Tax & revenue,established
+transport,Transport & infrastructure,established
+welfare,Social welfare & benefits,established

@@ -1,0 +1,108 @@
+id,name,hq_country,vendor_class
+africa-dc,Africa Data Centres,ZA,local
+alibaba,Alibaba Cloud,CN,local
+aptum,Aptum Technologies,CA,local
+archtis,archTIS (Kojensi),AU,isv
+astra,Astra Group (Astra Linux),RU,isv
+att,AT&T (FirstNet),US,local
+aws,Amazon Web Services,US,hyperscaler
+axon,Axon,US,isv
+azure,Microsoft Azure,US,hyperscaler
+battelle,Battelle Memorial Institute,US,isv
+bi2-technologies,BI2 Technologies,US,isv
+bitmarck,BITMARCK,DE,isv
+bleu,Bleu,FR,local
+braingate,BrainGate Consortium,US,isv
+carahsoft,Carahsoft Technology Corp,US,isv
+catalyst-cloud,Catalyst Cloud,NZ,local
+cec,China Electronics Corporation (CEC),CN,local
+center3,center3 (stc subsidiary),SA,local
+china-mobile,China Mobile (Mobile Cloud),CN,local
+china-telecom,China Telecom Tianyi Cloud,CN,local
+china-unicom,China Unicom (Unicom Cloud),CN,local
+chmura-krajowa,Operator Chmury Krajowej (Chmura Krajowa),PL,local
+clearview-ai,Clearview AI,US,isv
+clevercloud,Clever Cloud,FR,isv
+cntxt,CNTXT (Aramco-Cognite JV),SA,isv
+core42,Core42 (G42 subsidiary),AE,local
+cpi,Computer Projects of Illinois (OpenFox),US,isv
+data3,Data#3,AU,isv
+datacom,Datacom,NZ,local
+dataprev,Empresa de Tecnologia e Informacoes da Previdencia (Dataprev),BR,local
+decision-sciences,Decision Sciences International,US,isv
+dell-federal,Dell Federal Systems,US,isv
+deloitte,Deloitte,US,isv
+delos-cloud,Delos Cloud,DE,local
+digital-egypt,Digital Egypt (MCIT/ITIDA state cloud),EG,local
+digitaldubai,Digital Dubai (Dubai Pulse),AE,local
+dlt-synnex,DLT Solutions (TD SYNNEX Public Sector),US,isv
+dnanexus,DNAnexus,US,isv
+ecs-federal,ECS Federal,US,isv
+egi,EGI Foundation (federated cloud),NL,local
+embl-ebi,EMBL-EBI / ELIXIR (Embassy Cloud),EU,local
+estruxture,eStruxture Data Centers,CA,local
+faculty,Faculty AI,GB,isv
+federated-wireless,Federated Wireless,US,local
+fenix,Fenix / ICEI federated HPC-cloud,EU,local
+flock,Flock Safety,US,isv
+g42,G42 / Core42,AE,local
+galaxy-backbone,Galaxy Backbone,NG,local
+gcp,Google Cloud,US,hyperscaler
+gedmatch,GEDmatch (Verogen/QIAGEN),US,isv
+genetec,Genetec,CA,isv
+gijima,Gijima Holdings,ZA,isv
+gosoblako,Gosoblako / GEOP (State Unified Cloud Platform),RU,local
+h3c,H3C,CN,local
+huawei,Huawei Cloud,CN,local
+humain,HUMAIN,SA,local
+hypertec,Hypertec Group,CA,local
+ibm,IBM Cloud,US,hyperscaler
+insight,Insight Public Sector,US,isv
+inspur,Inspur,CN,local
+irembo,Irembo,RW,local
+konza,Konza Technopolis Development Authority,KE,local
+lexisnexis,LexisNexis Risk Solutions,US,isv
+liquid-c2,Liquid C2,ZA,local
+lumen-technologies,Lumen Technologies (CenturyLink QC),US,local
+meeza,MEEZA,QA,local
+mistral,Mistral AI,FR,isv
+mobily,Mobily,SA,local
+motorola,Motorola Solutions,US,isv
+mts-cloud,MTS Cloud (CloudMTS),RU,local
+nextcloud,Nextcloud GmbH,DE,isv
+niche,Niche Technology,CA,isv
+numspot,NumSpot,FR,local
+ooredoo,Ooredoo,QA,local
+oracle,Oracle Cloud,US,hyperscaler
+outscale,Outscale (Dassault Systemes),FR,local
+ovhcloud,OVHcloud,FR,local
+palantir,Palantir Technologies,US,isv
+post-telecom,Post Telecom (POST Luxembourg),LU,local
+precision-neuro,Precision Neuroscience,US,isv
+presidio,Presidio,US,isv
+presight,Presight AI (G42),AE,isv
+proximus,Proximus,BE,local
+rise,RISE (Research Industrial Systems Engineering),AT,isv
+rostelecom,Rostelecom,RU,local
+s3ns,S3NS (Thales/Google JV),FR,local
+salesforce,Salesforce,US,isv
+sap,SAP,DE,isv
+sbercloud,SberCloud,RU,local
+scaleway,Scaleway,FR,local
+sdaia,Saudi Data & AI Authority (Deem cloud),SA,local
+serpro,Servico Federal de Processamento de Dados (SERPRO),BR,local
+shooter-detection,Shooter Detection Systems,US,isv
+sita,State Information Technology Agency,ZA,local
+soundthinking,SoundThinking,US,isv
+stackit,Schwarz Digits / StackIT,DE,local
+stc,stc cloud,SA,local
+synchron,Synchron,US,isv
+t-systems,Deutsche Telekom / T-Systems,DE,local
+tdra,Telecommunications & Digital Government Regulatory Authority,AE,local
+telecom-egypt,Telecom Egypt,EG,local
+tencent,Tencent Cloud,CN,local
+thinkon,ThinkOn,CA,local
+tonomus,TONOMUS (NEOM Tech & Digital),SA,local
+verily,Verily Life Sciences (Alphabet),US,isv
+vk-cloud,VK Cloud,RU,local
+yandex,Yandex Cloud,RU,local

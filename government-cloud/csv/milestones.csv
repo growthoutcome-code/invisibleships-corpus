@@ -1,0 +1,312 @@
+id,occurred_on,track,geography_id,vendor_id,domain_id,title,description,linked_milestone_id,lag_days,relationship,date_certainty,source_id
+0040f039-bd46-48ff-8666-0fa12deb0c9d,2020-01-01,C,FR,azure,health,Health Data Hub (PDS) — Direct (legacy),Health data platform on Azure; mandated migration by end-2026,,,,fixed,next-hdh
+008bc30f-cddd-4887-a77b-31baaad6e528,2020-07-16,D,INTL,,cross-cutting,Schrems II,Privacy Shield invalidated; SCCs upheld with conditions,,,,fixed,schrems2-curia
+02c585a1-090f-4de1-91cf-7a919f994c6d,2024-03-08,D,EU,azure,public-admin,EDPS v European Commission (Microsoft 365),Infringement found; corrective measures ordered; compliance reached Jul 2025,,,,fixed,edps-m365-2024
+02cf255a-24b5-4070-93eb-39b02b3ad954,2025-10-01,A,US,,cross-cutting,MIND Act introduced,Senate neural-data bill; FTC study/standard.,,,law-follows,fixed,senate-mindact
+04d6507f-88ed-4bd6-b011-593ea45c9289,2021-09-20,A,AE,,cross-cutting,Federal Decree-Law 45/2021 (PDPL),statute; status enacted,,,,fixed,ae-pdpl
+05a50df8-8b83-4bcd-9ee7-4375e339e488,2021-10-25,A,CL,,neurotech-bci,Law 21.383 (constitutional neurorights amendment),statute; status in-force,,,,fixed,cl-law-21383
+05c75ab9-5654-4d21-b62b-39739dfb1f3f,2023-12-13,A,EU,,cross-cutting,Data Act (Reg 2023/2854),regulation; status in-force,,,,fixed,dataact-eurlex
+05daf507-3c37-456a-b695-121b1ccdfc33,2020-08-01,C,US,palantir,pandemic-response,Tiberius vaccine-allocation live,Warp Speed allocation; ~4-5mo lag.,,,capability-follows,fixed,defense-tiberius
+05dd0bba-b68f-43a5-be3f-3b8edccbca81,2025-01-16,B,US,azure,defence-intel,Azure OpenAI (GPT-4o) authorized for Top Secret,Frontier AI in classified enclaves.,,,,fixed,azure-gpt4o-ts
+06a589a7-5494-40fe-949a-4ce076fec797,2025-09-20,C,US,,border-immigration,"FY2025 removals 320,080","234,211 in post-inauguration window.",,,coevolution,fixed,trac-767
+06b365bf-f39c-41dc-8724-b6a12acab3e3,2022-12-07,C,US,gcp,defence-intel,DoD DISA — JWCC,"Enterprise cloud IaaS/PaaS all classification levels (multi-award, 1 of 4)",,,,fixed,defscoop-jwcc
+081afe35-16bd-4713-af29-4e91ed84a511,2020-07-13,A,EG,,cross-cutting,Personal Data Protection Law No. 151 of 2020 + Exec Regs 2025,statute; status in-force,,,,fixed,eg-pdpl
+0863c778-6f51-4ecf-86a5-3638cf351090,2025-06-10,C,BR,dataprev,cross-cutting,Ministry of Management (MGI) — Nuvem de Governo (sovereign cloud),State-operated sovereign cloud co-provider,,,,fixed,br-nuvem-governo
+09a58b5d-c0ad-4829-9b3f-f5d61e1fa82b,2025-01-01,E,SA,,research-compute,Google Cloud + PIF global AI hub (Dammam),announced-pledge,,,,fixed,google-pif-inv
+0a454c58-4ede-47e3-ae9c-a604ae104b0a,2026-07-27,D,US,,cross-cutting,eBay Cyberstalking (Steiner),7 pleaded guilty; eBay deferred-prosecution + $3M fine; civil settled $55.7M Jul 2026,,,,fixed,ebay-ecommercebytes-2026
+0a60ce2d-9bc5-4b8e-91ac-02a3eb104449,2019-01-01,C,RU,rostelecom,cross-cutting,Russian Federation (state bodies) — Gosoblako / GEOP state cloud,Unified state cloud under import-substitution,,,,fixed,gosoblako-cloud4y
+0a95f076-a05b-425a-9c4a-46ebf2a5b892,2022-11-25,D,DE,azure,public-admin,DSK Microsoft 365 assessment,"Assessment: not demonstrably compliant (official position, no fine)",,,,fixed,dsk-m365-2022
+0b9d691f-7e83-4604-af8d-a345ca127baa,2026-07-06,C,US,,law-enforcement,HSTF Los Angeles gang sex-trafficking operation,Homeland Security Task Force operation arresting gang members on sex-trafficking charges in Los Angeles. Agency-reported.,,,,fixed,dhs-hstf-la-2026
+0d1326cf-26f5-499a-87cb-0faf1d069e00,2025-07-07,C,US,oracle,border-immigration,GSA — OneGov enterprise agreement,OCI + license discounts up to 75% gov-wide,,,,fixed,gsa-oracle-onegov
+0d299963-2884-48e8-9186-c8f1757fc57c,2025-10-31,A,EU,,cross-cutting,Latombe appeal to CJEU,Potential Schrems III window.,,,law-follows,projected,wilmerhale-cjeu
+0f9339bb-cf58-4b71-b558-91a972b37e10,2018-11-01,C,ZA,sita,tax-revenue,State IT Agency (SITA) — GovCloud infrastructure program,First SA government cloud; partners Gijima/IBM/Huawei,,,,fixed,sita-govcloud2
+10556258-a4aa-4c47-8790-077c91478e27,2024-04-29,C,EG,telecom-egypt,tax-revenue,MCIT Egypt — State-owned data centre program,First government data & cloud center (New Admin Capital),,,,fixed,egypt-govcloud
+10db56a7-bd57-45c0-b8a6-cd7e78b88658,2019-04-26,C,KE,huawei,cross-cutting,Government of Kenya / Konza — China Eximbank concessional loan (tied EPC),Konza National Data Centre + Smart City; Huawei EPC,,,,fixed,aiddata-konza
+12bd4cab-aabe-442c-9ab7-6acdef3ec0ee,2020-11-23,C,US,ibm,cross-cutting,CIA (IC) — C2E,Multi-cloud for 17-agency IC (1 of 5),,,,fixed,dcd-c2e
+143a4f65-938a-4766-b4cf-7a98046b12ab,2021-07-07,A,US-CO,,cross-cutting,Colorado Privacy Act (SB21-190),statute; status in-force,,,,fixed,co-cpa-coag
+1481da36-0bbb-4d7b-9f47-2d18af91dda7,1996-11-01,A,CA,,cross-cutting,British Columbia FIPPA (data-residency; 2021 Bill 22 amendment),statute; status amended,,,,fixed,ca-bc-fippa
+14842bdf-3d52-4e32-9170-46d292c67402,2021-10-14,D,AU,clearview-ai,law-enforcement,OAIC v Clearview AI,Determination [2021] AICmr 54; ordered to cease collection and destroy images,,,,fixed,oaic-clearview-2021
+14acba06-f04b-491d-a020-4d41fc98a53b,2025-08-21,B,US,gcp,public-admin,GSA and Google announce Gemini for Government,OneGov AI for federal agencies.,,,,fixed,gemini-gov-b
+158060f6-d3c3-4812-8fa9-48f80de77780,2024-12-07,B,MX,gcp,cross-cutting,Google Cloud Queretaro (Mexico) region opens,First Mexico Google region.,,,,contested,gcp-mexico-b
+1657bf6d-381e-4565-af43-4d6f092bf35e,2023-11-21,C,GB,palantir,health,NHS England — Direct award (FDP),"NHS Federated Data Platform, 7yr ceiling w/ break clause",,,,fixed,dh-palantir
+174c1c8b-5762-481e-b586-dad0b8612bbc,2021-11-16,B,SE,azure,cross-cutting,Azure Sweden Central region opens,"Sweden datacenter region, EU data-residency.",,,,fixed,azure-sweden
+18056aa6-2539-4040-b88b-ea46dd074bcb,2025-09-03,D,INTL,,cross-cutting,Latombe v Commission (DPF),Action dismissed (T-553/23); appeal to CJEU expected,,,,fixed,latombe-curia-2025
+190e714a-d4bf-402f-b49b-ca74b2fce069,2020-11-23,C,US,aws,cross-cutting,CIA (IC) — C2E,"Multi-cloud for 17-agency IC, all classification levels (1 of 5)",,,,fixed,dcd-c2e
+1a0b2332-7c2d-4180-8835-b9e0e397ec8a,2026-06-01,C,US,bi2-technologies,border-immigration,ICE (DHS) — Contract (FY26),1570 multimodal iris/fingerprint/face handhelds,,,,fixed,fedscoop-iris
+1a79e502-a898-45aa-a792-d2edec82984c,2021-11-01,A,US,,cross-cutting,IRS Publication 1075 (Federal Tax Information safeguards),regulation; status in-force,,,,fixed,irs-pub1075
+1c4548ea-16a9-4eea-b0b8-f2b20ad8f7da,2022-03-01,A,FR,,cross-cutting,SecNumCloud (ANSSI qualification v3.2),certification; status in-force,,,,fixed,secnumcloud-anssi
+1cfa4990-184f-474a-bc8c-f903349e68b6,2025-01-01,E,US,,border-immigration,OBBBA immigration detention expansion,disclosed; statutory,,,,fixed,obbba-aic
+1ebd6ced-2aec-4649-99c8-e888663613d6,2021-10-26,C,GB,aws,cross-cutting,GCHQ/MI5/MI6/MOD — Sole-source,"Top-secret material hosting, ~10yr",,,law-follows,fixed,dcd-gchq
+1f3a8583-6c50-4b35-b393-5ad703d18c3b,2014-12-18,A,US,,defence-intel,FISMA (Federal Information Security Modernization Act),statute; status in-force,,,,fixed,nist-fisma
+218f713d-fb12-4736-9c56-51e765f3c630,2025-08-21,C,US,gcp,cross-cutting,GSA — OneGov agreement (Gemini for Government),Google Cloud + Gemini AI discounts gov-wide,,,,fixed,gsa-google-onegov
+226aa8bb-3bb3-4011-b2a9-feb3385cad10,2023-07-10,A,EU,,cross-cutting,EU-US Data Privacy Framework adequacy decision,regulation; status in-force,,,,fixed,dpf-ec
+22add4e8-25dd-449d-9264-565300835cee,2020-03-26,B,US,azure,defence-intel,Azure Government Secret accredited at DoD IL6 & ICD 503,Azure Government Secret IaaS/PaaS accredited for DoD IL6 and ICD 503.,,,,fixed,azuregov-secret-il6
+234f94b5-2df4-49a1-acdb-269d0d8d62f3,2025-06-01,A,DK,,cross-cutting,Danish government Microsoft exit / digital sovereignty,soft-law; status in-force,,,,fixed,dk-record
+25bc7f42-1658-440f-b26c-6cec382e4ac4,2025-04-21,C,US,palantir,border-immigration,Palantir ImmigrationOS order,$30M + $29.9M maintenance; post-dates the output inflection.,,,capability-follows,fixed,palantir-immigrationos-an
+2718370b-96b3-4856-adad-8bf9bd6c6f75,2024-12-10,A,AU,,cross-cutting,Privacy and Other Legislation Amendment Act 2024,statute; status amended,,,,fixed,au-privacy
+279cfbf4-dd69-4308-9add-602ac956584d,2025-01-23,A,US,,cross-cutting,EO 14179 (Removing Barriers to American Leadership in AI),regulation; status in-force,,,,fixed,fr-eo14179
+27f53205-17dd-4cf1-bc35-881c36d40010,2025-01-01,E,INTL,,nanotech-materials,Periodic Labs ~605M raised (AI-for-materials),reported; aggregate,,,,fixed,periodiclabs-startuphub
+2b8d4fb0-3894-48f5-893d-705a486d23be,2022-05-23,D,GB,clearview-ai,law-enforcement,ICO v Clearview AI (2022 MPN),GBP7.5M fine + enforcement notice (later overturned at FTT),,,,fixed,ico-clearview-mpn-2022
+2cbe91f0-89b2-4c92-a5a7-d71d7b0d7cfd,2024-04-17,A,US-CO,,neurotech-bci,HB24-1058 (biological & neural data amendment to CPA),statute; status amended,,,,fixed,co-hb1058
+2dab0038-c966-4440-a293-555f713a3172,2024-01-01,E,EU,,cross-cutting,"AWS European Sovereign Cloud, Germany",disclosed vendor (EUR7.8B); largest single sovereign-cloud infra commitment,,,,fixed,aws-eusc
+2e443fc1-820a-4d2e-b13c-750cae389ce8,2024-07-04,C,AU,aws,defence-intel,Australian Signals Directorate — Sole-source,"Sovereign Top Secret Cloud, 10yr min",,,law-follows,fixed,acs-ts-cloud
+2f5b5d4d-7b4d-4711-8ad8-a10488c5054f,2025-01-08,B,INTL,aws,cross-cutting,AWS Asia Pacific (Thailand) Region launches,ap-southeast-7 Thailand residency.,,,,fixed,aws-thailand
+316bb3b8-096b-49a2-82ff-e09878199fed,2023-11-15,B,SA,gcp,cross-cutting,Google Cloud Dammam (Saudi Arabia) region opens,In-Kingdom residency and sovereignty controls.,,,,fixed,gcp-dammam-b
+31aac895-ab37-4b8d-9fa3-72f783294048,2025-09-01,C,US,gcp,border-immigration,ICE (DHS) — Cloud services purchase (FY25),Cloud computing,,,,fixed,forbes-140m
+34697875-5f4a-4055-a7b8-c87dc28237ee,2026-05-25,A,NL,,cross-cutting,Telecom (Undesirable Control) Act block - Kyndryl/Solvinity,court; status enacted,,,,fixed,nl-jonesday
+34d48dad-4cd4-4415-8c62-a999e75d0da3,2024-09-28,A,US,,neurotech-bci,SB 1223 (CCPA neural-data amendment),statute; status amended,,,,fixed,ca-sb1223
+365e4cb2-95b6-4768-a81b-e3fec6f524ac,2025-11-11,A,INTL,,neurotech-bci,UNESCO Recommendation on the Ethics of Neurotechnology,soft-law; status enacted,,,,fixed,unesco-neurotech
+3745f427-7018-442b-8809-fd5995f0b47d,2022-08-31,B,QA,azure,cross-cutting,Azure Qatar Central region opens,First Qatar datacenter region.,,,,fixed,azure-qatar-b
+376e701a-ee61-45ec-ba17-34914724e754,2024-05-31,A,ZA,,cross-cutting,National Policy on Data and Cloud 2024,soft-law; status enacted,,,,fixed,za-cloudpolicy
+38985a99-48ff-4934-844d-4beb271dacb1,2025-01-01,E,US,,genomics-biotech,NHGRI FY2025 budget request (US federal genomics),disclosed; Congressional Justification,,,,fixed,nih-nhgri-cj
+38a1295f-c4e7-4dcf-820a-09f29e00bef3,2025-09-02,C,US,azure,cross-cutting,GSA — OneGov enterprise agreement,M365/Copilot/Azure discounts gov-wide; ~$3.1B yr1 savings,,,,fixed,gsa-msft-onegov
+394cbee0-dca9-400d-ac78-2c386e8ac620,2020-12-01,C,US,deloitte,pandemic-response,VAMS scheduling live,CDC/Deloitte; ~9mo lag; later criticized.,,,capability-follows,contested,fedhealthit-vams
+3c701173-0290-4a80-9c66-2bee338c2084,2026-01-01,E,US,,pandemic-response,Total US biodefense FY2026 request (declining across agencies),disclosed; CSR breakdown,,,,fixed,csr-biodefense
+3ca3d620-7cb2-4f76-9260-cc163a44d326,2023-06-05,C,EU,,health,WHO Global Digital Health Certification Network,WHO adopts EU DCC standard globally; standard persists.,,,coevolution,fixed,who-gdhcn
+3d9ff193-af0d-4592-8dec-e7c66972b2c1,2013-11-26,A,ZA,,cross-cutting,Protection of Personal Information Act (POPIA),statute; status in-force,,,,fixed,za-popia
+3dc260f4-e2c6-4edc-8344-6928aacdcf6a,2021-07-05,A,FR,,cross-cutting,Cloud au centre doctrine (PM circular),soft-law; status in-force,,,,fixed,cloudaucentre-numerique
+3efc381a-b3de-4426-94ad-c16be40fbe3b,2025-01-01,C,FR,bleu,cross-cutting,French public sector — Cloud de confiance / UGAP,Trusted cloud (Orange+Capgemini+Microsoft),,,,fixed,orange-bleu
+3f48baa2-7f98-493d-a26e-1b60b1d9e698,1979-12-06,D,US,,cross-cutting,Scientology Operation Snow White / Fair Game,Eleven Scientology officials convicted; sentenced Dec 1979,,,,fixed,scientology-wikipedia
+3fe4d991-18a5-4f10-98e2-fae1c8cc3e6b,2025-08-07,C,US,aws,cross-cutting,GSA — OneGov enterprise agreement,"Cloud credits/discounts + AI, gov-wide; up to $1B savings",,,,fixed,dcd-aws-onegov
+400a14e7-02a6-4853-b627-3a5233b083a4,2024-12-01,A,US,,law-enforcement,FBI CJIS Security Policy,regulation; status in-force,,,,fixed,fbi-cjis
+40167229-2a60-470a-9575-8008d974904d,2022-10-19,B,IL,gcp,cross-cutting,Google Cloud Tel Aviv (Israel) region opens,Israel region (Project Nimbus context).,,,,fixed,gcp-israel-b
+40f7833f-401d-4aa0-9305-66d8a3e2b823,2026-06-04,D,US,palantir,border-immigration,Just Futures Law v DHS ICE,Complaint filed ~June 2026; pending,,,,fixed,jfl-palantir
+41c5b970-7965-41ba-8bfa-33a2a57fa50a,2023-05-22,B,QA,gcp,cross-cutting,Google Cloud Doha (Qatar) region opens,First GCC/North Africa Google region.,,,,fixed,gcp-doha-b
+41cad6bc-5453-45e3-aa4b-6708040e7f23,2022-01-01,E,INTL,,pandemic-response,CEPI 100 Days Mission pledged toward 3.5B goal,disclosed,,,,fixed,cepi-100days
+42336b4a-2dcd-4648-8da0-7044a7fa13ff,2019-02-06,A,AE,,health,Federal Law No. 2 of 2019 (ICT in Health Fields),statute; status in-force,,,,fixed,ae-health
+42377174-88b9-411a-bfd0-8948a598850d,2024-01-01,E,US,,municipal-sensing,Decision Sciences muon tomography: 5M+400K DoD contracts; 2024 KoBold MOU,"disclosed; small contract-scale, no VC round",,,,fixed,decisionsciences-5m-inv
+4263ecdf-850f-471f-ad73-a595860d761b,2021-02-14,A,AE,,cross-cutting,ADGM Data Protection Regulations 2021,regulation; status in-force,,,,fixed,ae-adgm
+4275815e-59bf-4b55-abf2-14a19022230e,2024-08-05,A,IL,,cross-cutting,Protection of Privacy Law 1981 (Amendment 13),statute; status in-force,,,,fixed,il-ppl
+42d4bc16-77f1-4fdf-b428-5326a0eb4f2b,2025-09-11,C,GB,gcp,defence-intel,Ministry of Defence — Direct strategic agreement,Sovereign cloud platform for defence/AI,,,,fixed,cw-mod-google
+42fc1401-945f-4d69-8f1c-5667408394e9,2024-06-13,A,EU,,cross-cutting,AI Act (Reg 2024/1689),regulation; status amended,,,,fixed,aiact-eurlex
+439ba9f6-a957-4a87-aed3-06abc05c0c24,2024-01-01,E,IL,,defence-intel,AWS Israel region investment (govt workloads),announced-pledge,,,,fixed,aws-israel-inv
+43b3a272-b7f3-4b33-a3bf-3208e060bf95,2022-03-30,A,RU,,defence-intel,Decree/Ukaz No. 166 (foreign-software ban for CII),regulation; status in-force,,,,fixed,ru-decree166
+44431c47-2f34-4db1-8be4-ef8404acde52,2024-05-21,B,SA,sdaia,research-compute,SDAIA ALLaM Arabic LLM goes live on IBM watsonx,Saudi national Arabic LLM available.,,,,fixed,allam-watsonx
+44b9d429-3291-4f74-b973-93d4ad18a3ea,2025-03-20,A,MX,,cross-cutting,INAI abolition + ATDT digital-sovereignty reform,statute; status in-force,,,,fixed,mx-atdt
+44c7ad81-7087-4f5a-ab81-5768cdd39e00,2019-12-11,A,INTL,,neurotech-bci,OECD Recommendation on Responsible Innovation in Neurotechnology,soft-law; status in-force,,,,fixed,oecd-neurotech
+4555d067-7576-48aa-a36c-83eef24bb465,2019-01-01,C,PL,chmura-krajowa,cross-cutting,Polish public sector — National cloud operator,National cloud (PKO BP/PFR); Google+Microsoft partners,,,,fixed,asseco-chmura
+469a474d-ab14-4ca5-be25-b649f119aa85,2025-07-04,A,US,,border-immigration,OBBBA appropriation signed,~$170B immigration; funds capacity AFTER surge began.,,,law-follows,fixed,obbba-aic
+46c90d55-83ee-4c71-8cb4-8ccc5369b0f6,2025-01-01,A,DE,,cross-cutting,BSI C3A sovereignty criteria,certification; status enacted,,,,fixed,bsic3a-heise
+46ed3186-d3dd-4e69-94f2-3c4ffe56b9d0,2022-05-30,A,EU,,cross-cutting,Data Governance Act (Reg 2022/868),regulation; status in-force,,,,fixed,dga-eurlex
+47a109b8-756c-4675-807b-d5abebaaf208,2025-01-01,E,US,,defence-intel,Anduril Series G round (valuation 30.5B),disclosed,,,,fixed,anduril-cnbc
+4816875f-af50-4c58-9bbb-e32e2bcb76e4,2025-03-01,C,US,aws,border-immigration,CBP (DHS) — Cloud services purchase (FY25),Cloud computing (record CBP-AWS deal),,,,fixed,forbes-140m
+48a67b9a-a91a-420e-a635-c207103df080,2026-02-12,B,US,palantir,defence-intel,Palantir PFCS Forward gets DISA IL5/IL6 for edge,Accredited compute to tactical edge.,,,,fixed,palantir-pfcs-forward
+4b25e932-53a0-48e5-bd94-c1324fe4e0c9,2000-04-13,A,CA,,cross-cutting,PIPEDA,statute; status in-force,,,,fixed,ca-pipeda
+4b4cdb7e-0700-478b-8511-551de31ca0f3,2020-05-28,D,US,clearview-ai,digital-identity,ACLU v Clearview AI,2022 settlement/injunction barred faceprint sales to most private US entities; ended free officer trials,,,,fixed,aclu-v-clearview
+4b94484f-6bbb-40fb-bbfa-79847c8d714a,2026-01-01,E,INTL,,cross-cutting,Hyperscaler aggregate AI capex 2026 guidance,disclosed guidance (660-690B); not all gov-directed,,,,fixed,futurum-capex
+4d77883f-76d5-459b-ab63-79861ff5436d,2023-12-19,D,US,,cross-cutting,FTC v Rite Aid Corp,Stipulated order 2023-12-19: 5-year FR ban + safeguards,,,,fixed,ftc-riteaid
+4e0393e5-354d-44b3-95a7-9a8a7a856e3a,2025-01-01,E,US,,neurotech-bci,Neuralink ~650M round at reported ~9B valuation,reported; valuation not audited,,,,fixed,tfn-bci
+4ebafb6d-c76c-4ee8-8f22-08dceac526a9,2025-03-19,D,US,,cross-cutting,Energy Transfer v Greenpeace (SLAPP/lawfare),Jury verdict ~$667M (Mar 2025) reduced to ~$345M (Oct 2025); on appeal; countersuit filed,,,,fixed,greenpeace-verdict
+4f10c17f-866c-4c05-aaee-a56fdc0f6877,2025-01-01,E,AE,,research-compute,Stargate UAE 5GW AI campus (1GW phase-1 2026),announced-pledge; GW more reliable than $,,,,fixed,stargate-uae-inv
+4f18238b-6816-4c66-ab88-fd7150d13d7b,2021-02-03,D,CA,clearview-ai,law-enforcement,OPC joint investigation of Clearview AI,Finding of contravention; recommendations to stop collection and delete,,,,fixed,opc-clearview-2021
+4f325bcc-4730-4407-9170-bffbf1508a4c,2022-01-01,E,US,,defence-intel,US DoD JWCC warfighting cloud ceiling,disclosed; US govt budget/contract ceiling,,,,fixed,jwcc-dod-inv
+4f51d9be-9f37-4d95-b365-f100e3d208a5,2026-04-20,C,EU,ovhcloud,cross-cutting,EU institutions/agencies — Sovereign Cloud Framework (all-European),"Post Telecom-led consortium, 6yr",,,,fixed,ec-sovereign-ip
+4f8ba752-e1d1-4cfa-82b1-ccc31f57bb43,2023-10-31,B,IL,azure,cross-cutting,Azure Israel Central region GA,Israel Central live for local residency.,,,,contested,azure-israel-b
+4fa399f5-2cd0-4c80-bde2-6159180ee3f9,2025-09-01,C,US,aws,border-immigration,ICE (DHS) — Cloud services purchase (FY25),Cloud computing,,,,fixed,forbes-140m
+506593c7-474d-4a0b-8524-ea4c94476a17,2020-01-01,C,EU,aws,cross-cutting,European Commission — Cloud II DPS,"Public cloud call-off, 4yr",,,,fixed,reg-oci-cloud2
+509e4543-6c1b-45d3-b896-7a89764b9b79,2023-08-01,B,IL,aws,cross-cutting,AWS Israel (Tel Aviv) Region launches,il-central-1 in-country residency.,,,,fixed,aws-israel-b
+522de334-e5b9-4b56-9579-59dd60185217,2025-12-11,A,US,,cross-cutting,EO Ensuring a National Policy Framework for AI (state-law preemption),regulation; status in-force,,,,fixed,fr-eo-ai-framework
+5239bed7-97a0-4ddc-8b0b-a1ee649badce,2018-07-31,C,US,aws,cross-cutting,NIH — STRIDES Initiative,"Research-cloud brokerage, consumption-based",,,,fixed,nih-strides-aws
+52cffe3f-443f-49a7-a225-8605a26f14cf,2019-05-13,A,CN,,cross-cutting,"MLPS 2.0 (dengbao 2.0, GB/T 22239-2019)",certification; status in-force,,,,fixed,cn-mlps
+53fed361-dcb9-4e47-bda1-1b7901ceb2da,2023-06-14,A,NG,,cross-cutting,Nigeria Data Protection Act 2023,statute; status in-force,,,,fixed,ng-ndpa
+5603bc22-c716-4a5d-a928-5747e8b3c6c3,2025-05-28,B,US,gcp,defence-intel,Google Distributed Cloud achieves DoD IL6,GDC air-gapped + appliance IL6 for classified.,,,,fixed,gdc-il6
+56f79dc1-2fdf-4851-9d23-d8219394e874,2025-06-30,C,US,,border-immigration,"ICE book-ins peak ~1,053/day","Coincides with ~3,000/day quota and surged staffing.",,,coevolution,fixed,kocher-numbers
+599a9e21-c5fd-4374-80eb-82b97ff33465,2022-07-01,C,NZ,aws,tax-revenue,Dept of Internal Affairs — ACSA all-of-gov agreement,AWS public cloud marketplace; evergreen,,,,fixed,nz-acsa
+5a96c1b9-28dd-416e-860e-53235dacb6c8,2025-01-01,E,IN,,public-admin,AWS additional India cloud/AI investment,announced-pledge,,,,fixed,aws-india
+5b1bde69-5c71-4977-a236-44a356d39bf0,2021-12-31,A,KE,,cross-cutting,Data Protection (General) Regulations 2021,regulation; status in-force,,,,fixed,ke-genregs
+5b68867b-528b-4688-9661-7cf7a07f4615,2025-01-01,A,PL,,cross-cutting,National Cybersecurity System Act amendment (NIS2/KSC),statute; status enacted,,,,fixed,pl-osborneclarke
+5b8ad0a3-43d1-4eb1-9451-592ba86854ee,2022-02-10,D,IT,clearview-ai,law-enforcement,Garante v Clearview AI,EUR20M fine + erasure and processing ban,,,,fixed,garante-clearview-2022
+5cd1607b-2c02-41d5-8fc4-9c88b3805182,2022-07-14,D,DK,gcp,education,Datatilsynet Helsingor Google Workspace decision,Use suspended pending remediation; risk-assessment order,,,,fixed,datatilsynet-google-2022
+5d86212f-312b-430c-a667-1c038267dbae,2025-01-01,E,INTL,,cross-cutting,Hyperscaler aggregate AI capex 2025,disclosed at company level; Futurum; fraction is gov/sovereign,,,,fixed,futurum-capex
+5e0722ff-4534-4449-ae04-bbc79bf8d409,2025-05-12,B,SA,humain,research-compute,HUMAIN launched as Saudi national AI champion,PIF full-stack sovereign AI champion.,,,,fixed,humain-launch-b
+5e189222-d445-464f-bfd9-306bc8d1c160,2021-01-01,C,NZ,datacom,tax-revenue,Dept of Internal Affairs — Datacom Cloud framework agreement,Datacom cloud framework,,,,fixed,nz-datacom
+5e9e753f-c7d7-4872-8867-9df02168dad7,2021-03-01,A,US,,cross-cutting,StateRAMP,certification; status in-force,,,,fixed,stateramp-org
+5ea99469-bb43-4d69-a72d-e6d996acfa27,2021-03-01,A,AU,,cross-cutting,Hosting Certification Framework (Certified Strategic/Assured),certification; status in-force,,,,fixed,au-hcf
+5ed1e02c-4654-4a83-9689-6879bb2cc820,2021-09-22,A,CA,,cross-cutting,Quebec Law 25,statute; status in-force,,,,fixed,ca-quebec-law25
+5f5c169d-9484-45ff-951a-51bec91e5db6,2021-01-01,D,GB,palantir,health,NHS COVID-19 Data Store transparency action,Contracts published; govt committed not to extend GBP23M Palantir deal without consultation,,,,fixed,opendemocracy-palantir-2021
+61719b2b-11e9-44f1-a68b-80f140b8a443,2025-01-01,E,AE,,cross-cutting,US-UAE new deals + accelerated framework,announced-pledge; +$1.4T 10yr; ceiling,,,,fixed,whitehouse-uae
+6221959d-f1a8-4154-9c79-6b91f5185ccb,2018-05-23,A,GB,,cross-cutting,UK GDPR + Data Protection Act 2018,statute; status in-force,,,,fixed,uk-dpa-legislation
+625fb844-6cc3-4abf-8153-66763c2cd58c,2026-05-13,A,EU,,cross-cutting,AI Act Digital Omnibus agreed,Postpones high-risk deadlines.,,,law-follows,fixed,gibsondunn-omnibus
+62a6b4f2-7ebd-4b3e-bea4-cf036cb21148,2016-04-27,A,EU,,cross-cutting,General Data Protection Regulation (Reg 2016/679),regulation; status in-force,,,,fixed,gdpr-eurlex
+63b09777-63f0-4fa8-b07c-f0f0c2c75f10,2025-01-01,E,DE,,public-admin,AWS European Sovereign Cloud (Germany),announced-pledge,,,,fixed,aws-germany-inv
+63bf1513-9d4a-4036-b1e4-e6a47d9498f5,2023-11-30,D,GB,palantir,health,NHS Federated Data Platform challenge,Pre-action legal challenge to GBP330M Palantir contract; no final judgment,,,,fixed,foxglove-fdp-2023
+63fa8aeb-9dc4-4292-ba14-b9b60f50ef1e,2021-08-20,A,CN,,cross-cutting,Personal Information Protection Law (PIPL),statute; status in-force,,,,fixed,cn-pipl
+64d0ecff-2425-4dfe-802b-2812ecc41b10,2023-01-01,E,AE,,cross-cutting,Microsoft UAE cloud/AI commitment,disclosed vendor,,,,fixed,msft-uae-inv
+64e33530-1b12-4a08-a227-1068bec87f6f,2028-08-02,A,EU,,cross-cutting,AI Act Annex I high-risk applies,Postponed from Aug 2027 by Omnibus.,,,law-follows,projected,gibsondunn-omnibus
+65c28d1b-5896-4af2-9b21-109cd2a2976b,2019-09-30,C,US,,border-immigration,FY2019 ICE ERO baseline,"ADP 50,165; removals 267,258; CY2019 arrests ~133,541.",,,decoupled,fixed,ice-ero-fy2019
+66060ebb-64bd-41f7-b22b-1de0c46eb5e3,2026-08-04,A,NG,,cross-cutting,NITDA National Cloud Computing Guideline (Sovereign Cloud),regulation; status enacted,,,,fixed,ng-nitda-cloud
+6673ec2d-4ef5-42aa-b54f-38698c1c01b5,2025-01-01,E,US,,pandemic-response,BARDA FY2025 enacted 1.015B; FY2026 request 654M (declining),disclosed; Council on Strategic Risks,,,,fixed,csr-biodefense
+677400bd-3f89-48e2-b688-2c681844ad27,2026-01-01,A,NL,,cross-cutting,Dutch government cloud policy (Rijkscloudbeleid) reversal,soft-law; status amended,,,,fixed,nl-clingendael
+67e06772-301c-48fe-9664-c2e31772b9f4,2026-06-15,C,US,aws,tax-revenue,DHS — Cumulus,DHS-wide IaaS/PaaS/SaaS (multi-award IDIQ; first finalized award),,,,fixed,nextgov-cumulus
+6861f461-47e0-49aa-86ce-6c5aa7dc3d32,2022-11-01,C,NZ,,health,Aotearoa Immunisation Register made permanent,Pandemic register hardened into permanent NIR replacement.,,,coevolution,contested,tewhatuora-air
+6870fc99-1d63-4aab-a0ef-4a5d247fd312,2025-09-03,A,EU,,cross-cutting,General Court upholds EU-US DPF,Latombe challenge dismissed; adequacy stands for now.,,,law-follows,fixed,iapp-latombe
+6b8051e4-a927-4d75-ab9c-deedd622b241,2021-12-06,B,US,aws,defence-intel,AWS announces second Top Secret region (Top Secret-West),Multi-region classified architectures for US defense/intel.,,,,fixed,aws-ts-west-announce
+6c836d92-ba9f-4edf-9333-9417f12abcb2,2020-04-26,C,AU,,pandemic-response,COVIDSafe app launched,National contact-tracing; ~6-week emergency build.,,,capability-follows,fixed,covidsafe-deleted
+6d5b0d9c-0cd9-4456-aebc-cd9b0fecd507,2024-08-21,B,INTL,aws,cross-cutting,AWS Asia Pacific (Malaysia) Region launches,ASEAN in-country residency.,,,,fixed,aws-malaysia
+6dbdbfb8-d373-4a31-aad3-9eb7c62ef8bd,2024-09-30,C,US,,border-immigration,"FY2024 removals 271,484",TRAC total; pre-Trump-II reference year.,,,decoupled,fixed,trac-767
+6ebf09cb-bbb8-4726-83ad-01b06171348a,2020-11-23,C,US,azure,cross-cutting,CIA (IC) — C2E,Multi-cloud for 17-agency IC (1 of 5),,,,fixed,dcd-c2e
+6ef471f1-686e-4566-a9ee-f72e06217b80,2020-01-01,C,EU,t-systems,cross-cutting,European Commission — Cloud II DPS framework,"Multi-vendor cloud DPS total (~EUR417.7M; NOT a T-Systems award, parked here)",,,,fixed,ec-cloud-launch
+709fb669-589d-4643-acdf-e494e088ad8a,2025-05-13,C,SA,gcp,cross-cutting,Public Investment Fund (PIF) — PIF-Google Cloud AI Hub JV,Global AI hub in Dammam,,,,fixed,pif-google-aihub
+716a8c60-cfce-4360-9b08-aa3db658807d,2025-05-22,C,AE,g42,cross-cutting,G42/Khazna (with OpenAI/Oracle/Nvidia) — Stargate UAE build,5GW Abu Dhabi AI campus; initial 1GW cluster,,,,fixed,stargate-uae2
+71790d06-1176-4424-a27a-12c3fd3a70f7,2025-01-14,B,MX,aws,cross-cutting,AWS Mexico Central Region launches,"mx-central-1, $5B investment.",,,,fixed,aws-mexico-b
+7285fd7b-fcc2-42ca-bbd9-9ffa6a7bebd9,2024-07-17,B,US,gcp,defence-intel,Google Distributed Cloud air-gapped appliance GA,Air-gapped GDC for disconnected/classified.,,,,fixed,gdc-appliance-ga
+72ff9727-5d8a-4077-9b1f-abce0d5b2b95,2020-01-31,D,US,palantir,border-immigration,EPIC v ICE,Settled 2020-01-31; document disclosure + attorney's fees,,,,fixed,epic-palantir
+7420823a-4f53-4854-bc39-848d1fb36f1c,2026-01-01,E,AE,,cross-cutting,MGX AI fund raised (target 100B),disclosed,,,,fixed,mgx-fund
+76dc9d69-293c-46ca-a01a-f86a101c9758,2025-05-13,C,SA,humain,cross-cutting,HUMAIN (PIF-owned) — AWS-HUMAIN AI Zone partnership,"Dedicated AI infra, UltraClusters, Bedrock/SageMaker",,,,fixed,aws-humain-aizone2
+772cbb0d-b015-4d20-bb81-2b8f03e8f70f,2025-03-11,A,EU,,genomics-biotech,European Health Data Space (Reg 2025/327),regulation; status in-force,,,,fixed,ehds-eurlex
+7b3794c4-cc44-4914-be18-f008c0ec572b,2026-03-01,A,GB,,neurotech-bci,ICO AI & Biometrics Strategy + neurodata citizens jury,soft-law; status proposed,,,,fixed,uk-ico-aibio
+7dffe18f-9cb6-41ee-9a0a-f774c6335de5,2021-01-01,C,NZ,catalyst-cloud,tax-revenue,Dept of Internal Affairs — Catalyst Cloud framework agreement,NZ sovereign cloud framework,,,,fixed,nz-catalyst
+7e766b69-bf2f-458c-8135-fdf3ea1c734b,2024-04-16,B,AE,g42,research-compute,Microsoft invests $1.5B in Abu Dhabi's G42,Underpins UAE sovereign cloud/AI (Core42).,,,,fixed,msft-g42-b
+7fead182-a028-41d3-a6b1-ea46ce842077,2020-06-30,A,NZ,,cross-cutting,Privacy Act 2020,statute; status in-force,,,,fixed,nz-privacy
+8079f543-5aa4-4e1b-95db-dd7ab120fb24,2025-01-01,C,AU,aws,border-immigration,Digital Transformation Agency — Whole-of-gov arrangement (renewal),"140+ agencies, 240+ services; extended to Feb 2028",,,,fixed,dta-aws-2028
+80d5a89a-13b3-4e8c-ac53-e76c6deaa22d,2022-03-10,C,RU,aws,cross-cutting,Russian state/commercial — (No award) big-three exit,AWS/Azure/GCP suspended cloud sales Mar 2022,,,law-follows,fixed,russia-bigthree-exit
+82263072-f971-4ec4-bed2-09e4c788ba1e,2022-08-30,B,AE,aws,cross-cutting,AWS Middle East (UAE) Region launches,me-central-1 UAE region for in-country residency.,,,,fixed,aws-uae-b
+82729eb5-2cb5-4ecf-be90-61ed3000cdeb,2017-11-01,A,CA,,defence-intel,GC Direction on Secure Use of Commercial Cloud (SPIN 2017-2) / Protected B,regulation; status in-force,,,,fixed,ca-gc-cloud-spin
+827bd3e9-d24f-4317-ad53-778d1104a7ea,2028-06-30,C,US,,defence-intel,JWCC ordering-period end / follow-on window,DISA scoping multi-vendor successor.,,,coevolution,projected,nextgov-jwcc
+84bdd097-26f0-4c14-bd73-f3cdc84b3944,2026-08-05,C,NG,galaxy-backbone,cross-cutting,Federal Govt / NITDA — National Sovereign Cloud Framework,Sovereign cloud localization,,,,fixed,ng-sovereign-cloud
+8506d122-1926-4756-bd55-b0476cc5f88d,2026-06-25,A,NG,,cross-cutting,CBN Data Localisation Circular (payment/financial data),regulation; status in-force,,,,fixed,ng-cbn
+86fc41d3-0999-463e-8523-b5572abc9dc6,2025-12-18,B,FR,s3ns,public-admin,S3NS PREMI3NS earns SecNumCloud qualification,Thales/Google JV ANSSI SecNumCloud qualified.,,,,fixed,s3ns-secnumcloud-b
+87212f23-079e-4e08-8368-e3f719ddb480,2024-11-01,A,GB,,cross-cutting,CCS G-Cloud framework (G-Cloud 14),soft-law; status in-force,,,,fixed,uk-gcloud-ccs
+88713ea2-22df-4ff9-a2bc-248543350b96,2025-06-10,C,BR,serpro,cross-cutting,Ministry of Management (MGI) — Nuvem de Governo (sovereign cloud),"State-operated sovereign cloud, 250+ agencies",,,,fixed,br-nuvem-governo
+8892cbb4-c22a-4c5e-8470-20c11975b068,2020-11-23,C,US,gcp,cross-cutting,CIA (IC) — C2E,Multi-cloud for 17-agency IC (1 of 5),,,,fixed,dcd-c2e
+88aa6973-f0a2-4b04-9fe8-3a37132adece,2026-07-29,C,US,,law-enforcement,DHS World Cup human-trafficking crackdown: 905 arrested,"DHS-reported operation during FIFA World Cup: 905 suspected traffickers arrested, 180 victims rescued. Agency-reported figures; arrests are of suspects and are not convictions.",,,,fixed,dhs-worldcup-2026
+8912fa63-24f4-4de8-8018-019966b99f93,2026-01-23,C,US,,law-enforcement,DHS/DOJ National Human Trafficking Prevention Month,Joint DHS-DOJ recognition marking anti-trafficking enforcement priorities and operations for 2026.,,,,fixed,dhs-htpm-2026
+8b1536de-55fd-4092-ac22-38bd4d9559cf,2006-07-27,A,RU,,cross-cutting,Federal Law 152-FZ (Personal Data via 242-FZ localisation),statute; status in-force,,,,fixed,ru-152fz
+8b8b9de1-3dea-421b-81a9-a92b95725616,2023-08-09,D,CL,,neurotech-bci,Girardi v Emotiv,Recurso de proteccion granted; ordered deletion of neural data (Rol 105.065-2023),,,,fixed,girardi-emotiv-2023
+8bab1312-605e-4616-b228-99c892a2311e,2026-07-01,C,AU,azure,cross-cutting,Digital Transformation Agency — VSA6 single-seller,"M365, Azure, Copilot, Dynamics, security; 5yr",,,,fixed,dta-msft-vsa6
+8be0be62-e87b-4055-b641-6c2fd81f46c9,2023-11-01,C,EU,oracle,cross-cutting,European Commission — Cloud II DPS,"OCI + PaaS to EU institutions, 6yr",,,,fixed,reg-oci-cloud2
+8d16c00b-c7bc-4737-90ab-2472506321be,2024-01-01,E,EU,,genomics-biotech,EU Genomic Data Infrastructure (GDI) federated backbone,disclosed program; exact budget not published,,,,fixed,embl-gdi-inv
+8d536376-5d99-4bf5-b358-c207931493b8,2015-10-06,D,INTL,,cross-cutting,Schrems I,Safe Harbour invalidated,,,,fixed,schrems1-curia
+8e605033-75ec-48ac-8ff9-8256f6f72bf5,2018-06-28,A,US,,cross-cutting,California Consumer Privacy Act / CPRA,statute; status amended,,,,fixed,cppa-ccpa
+8f0f2499-f807-4688-b243-43f11be07599,2027-12-02,A,EU,,cross-cutting,AI Act Annex III high-risk applies,Postponed from Aug 2026 by Omnibus.,,,law-follows,projected,gibsondunn-omnibus
+8fde025d-5ef1-4649-a364-f00af94e22d9,2024-09-03,D,NL,clearview-ai,law-enforcement,AP v Clearview AI,EUR30.5M fine + non-compliance penalties threatened,,,,fixed,ap-nl-clearview-2024
+905d5980-8ead-4ef9-861f-3e1eb2dc3dcc,2024-07-04,A,AU,,defence-intel,Top Secret Cloud (AWS) sovereignty conditions,soft-law; status in-force,,,,fixed,au-tscloud
+90861435-2db5-4b8a-9f9d-ce82257f00ee,2024-01-15,B,FR,bleu,public-admin,Bleu launches commercial activities (cloud de confiance),"Capgemini/Orange JV on Microsoft tech, SecNumCloud target.",,,,fixed,bleu-launch-b
+908b5e4c-039a-41cb-8d2c-243aa456eb99,2016-09-01,C,US,aws,cross-cutting,State/local (via NASPO) — NASPO ValuePoint Cloud Solutions,"Cooperative master agreement, IaaS/PaaS/SaaS via resellers",,,,fixed,naspo-cloud
+928d3325-8c4e-4bb7-bde8-b7988e41bc1b,2020-01-01,A,DE,,cross-cutting,BSI C5 (Cloud Computing Compliance Criteria),certification; status in-force,,,,fixed,bsic5-bsi
+92b36ab9-df36-4890-b306-f8c3cf056155,2016-01-01,A,GB,,cross-cutting,NCSC Cloud Security Principles (14),soft-law; status in-force,,,,fixed,uk-ncsc-cloud
+95928200-2284-43b2-a4b0-708464547ea9,2025-01-01,E,AE,,cross-cutting,Stargate UAE 1GW Abu Dhabi AI campus,disclosed; up to $10B; part of 5GW campus,,,,fixed,stargate-uae
+959c7cbb-aeaa-4fee-8fde-e1d3634ef76a,2023-06-30,A,EU,,pandemic-response,EU DCC regulation lapses,Legal instrument expires; system decommissioned.,,,decoupled,fixed,consilium-dcc
+96c469e6-c343-4eec-b877-d6868b727530,2020-06-01,A,AE,,cross-cutting,DIFC Data Protection Law No. 5 of 2020,statute; status in-force,,,,fixed,ae-difc
+96d8759f-5ea2-46c9-890b-014c35882c8e,2025-05-06,D,US,,cross-cutting,WhatsApp/Meta v NSO Group,Liability SJ (Jan 2025); jury ~$168M (May 2025); cut to ~$4M punitive + permanent injunction (Oct 2025); appeal pending,,,,fixed,nso-securityweek
+982a5a8d-dd13-4990-9b8a-7ebd717d775d,2025-03-18,C,AE,core42,cross-cutting,DGE Abu Dhabi — Abu Dhabi Digital Strategy 2025-2027,"Sovereign Public Cloud (Azure), migrate gov workloads",,,,fixed,adx-core42-azure
+994b4789-c765-448e-b742-d047ac6cbda3,2025-09-25,C,US,palantir,border-immigration,ICE (DHS) — Sole-source task order,ImmigrationOS maintenance & licenses,,,law-follows,fixed,detpipe-immigrationos
+99be24c5-c5d0-456a-9efd-d53f75a59c9b,2024-05-22,C,KE,azure,cross-cutting,Microsoft + G42 — Digital ecosystem initiative,$1bn geothermal (Olkaria) data center,,,,fixed,msft-g42-kenya2
+9a06c684-e3fe-4e49-96b6-80b4fb77fa7c,2026-01-24,C,US,,border-immigration,"Record ICE detention 70,766","All-time high; falls to 60,311 by Apr 2026 as capacity binds.",,,decoupled,fixed,kocher-numbers
+9afb2f54-9621-4551-a4e5-2c30f141896d,2021-06-10,A,CN,,cross-cutting,Data Security Law,statute; status in-force,,,,fixed,cn-dsl
+9b04d84e-45fa-455b-85f1-844dd784b2d1,2026-04-20,C,EU,scaleway,cross-cutting,EU institutions/agencies — Sovereign Cloud Framework (all-European),"Sovereign cloud lot, 6yr (part of EUR180M)",,,,fixed,ec-sovereign-ip
+9c1901f3-a9fa-44b0-8fdc-36624349a816,2026-06-20,C,US,clearview-ai,border-immigration,ICE (DHS) — Contract (FY26),Facial recognition services (largest ICE FR buy),,,,fixed,capture-clearview
+9d34d940-388d-468c-8cf1-1bd8a6802590,2021-07-21,C,US,azure,cross-cutting,NIH — STRIDES Initiative,"Research-cloud brokerage, consumption-based",,,,fixed,nih-strides-azure
+9e3684f5-b0b2-4514-8386-2e798855440c,2018-03-23,A,US,,law-enforcement,CLOUD Act,statute; status in-force,,,,fixed,doj-cloud-act
+9fc7eba4-a222-4fd6-870f-952cc87381d0,2025-08-05,D,US,,law-enforcement,Woodruff v City of Detroit,Dismissed 2025-08-05 (probable cause not shown lacking); plaintiff appealing,,,,fixed,woodruff-cbs
+a15831bc-2754-4dd7-bcaf-e19b6ffffb19,2022-01-01,C,NZ,azure,border-immigration,Dept of Internal Affairs — MCSSA all-of-gov agreement,Microsoft cloud/software/services framework,,,,fixed,nz-a2z
+a1707b3c-21e6-4674-9972-67a6c451e700,2022-04-27,C,US,aws,defence-intel,NSA — WildAndStormy (Hybrid Compute Initiative),"Classified enterprise cloud (single-award, re-award after protest)",,,,fixed,fedscoop-nsa
+a1c43968-2ff3-4c2c-9855-d804f573a1fb,2022-10-17,D,FR,clearview-ai,law-enforcement,CNIL v Clearview AI (fine),EUR20M fine + order to cease and erase,,,,fixed,cnil-clearview-2022
+a3c7bdfc-bbbe-44a4-bc79-b64ee364525a,2023-10-30,A,US,,cross-cutting,EO 14110 (Safe Secure Trustworthy AI),regulation; status sunset,,,,fixed,fr-eo14110
+a3e576f3-5f2d-45b4-8660-43348691b4d6,2025-01-01,E,US,,defence-intel,Defense-tech venture funding total 2025 (record),analyst-estimate,,,,fixed,deftech-vc
+a50f3147-e472-47ce-93f0-d0444b503ea6,2016-11-07,A,CN,,cross-cutting,Cybersecurity Law,statute; status in-force,,,,fixed,cn-csl
+a65e1c2d-29b2-47cf-84b5-51bfa9362674,2025-01-01,E,US,,border-immigration,OBBBA total immigration enforcement appropriation,disclosed; statutory,,,,fixed,obbba-aic
+a6c85eb2-ba3f-46fd-84ad-289198d190a3,2020-02-20,C,MX,azure,tax-revenue,Mexico (federal/enterprise) — Azure Mexico region + investment plan,"First Azure region in Mexico, $1.1bn 5-yr",,,,fixed,azure-mexico-11bn
+a725cff1-929e-496d-82db-89ba8a4395cb,2024-03-06,B,SA,aws,cross-cutting,AWS announces Saudi Arabia region (GA planned 2026),"me-central-2, $5.3B; GA targeted 2026.",,,,projected,aws-saudi-announce-b
+a9268e30-0b5e-4cd6-b257-a4ddd8361ff6,2026-01-01,E,US,,neurotech-bci,"Merge Labs (Altman/OpenAI) 252M seed, pre-product",reported; early research phase,,,,fixed,merge-techinformed
+a9d17a10-4df1-46b2-8a24-9b9a73fa56e5,2014-03-04,D,US,,cross-cutting,Chevron v Donziger (contested lawfare),Kaplan RICO judgment for Chevron (2014); Donziger convicted of criminal contempt (2021),,,,fixed,chevron-rico-opinion
+a9fcd92d-5e50-4960-b635-e5a4809e6103,1985-06-28,A,CA,,cross-cutting,Privacy Act (federal public sector),statute; status in-force,,,,fixed,ca-privacy-act
+ac39affd-6a7b-4dfc-a866-16026d08b4fb,2024-10-22,C,GB,azure,border-immigration,Crown Commercial Service — Microsoft MoU SPA24,Cross-gov Microsoft cloud/licensing MoU (replaced DTA21),,,,fixed,ccs-msmou
+acd41964-da92-454c-8ace-6290ea9912d4,2024-04-16,C,AE,azure,cross-cutting,Microsoft (equity into G42) — Strategic equity investment,"$1.5bn stake in G42, board seat",,,,fixed,msft-g42-15bn
+ad04f9c4-6c5e-4674-b9b8-ea9d550c7f96,2021-06-14,A,EU,,pandemic-response,Digital COVID Certificate Regulation (Reg 2021/953),regulation; status sunset,,,,fixed,dcc-eurlex
+ad26b74f-4f08-41dd-b28e-e3d40180ecb7,2025-10-22,B,US,aws,defence-intel,AWS Secret-West Region becomes available,Second Secret-classification region (ICD 503/IL6).,,,,fixed,aws-secret-west
+ad910246-16f3-422f-97fd-b64a716c9725,2026-04-20,C,EU,stackit,cross-cutting,EU institutions/agencies — Sovereign Cloud Framework (all-European),"Sovereign cloud lot, 6yr (part of EUR180M)",,,,fixed,ec-sovereign-ip
+ae36eff2-5990-4bda-854b-11665c7ccf5f,2025-01-01,E,US,,border-immigration,OBBBA border technology / vetting systems,disclosed; statutory,,,,fixed,obbba-aic
+b4728f64-192c-4f79-984c-8b872cd9b035,2025-01-14,C,MX,aws,tax-revenue,Mexico (federal/enterprise) — AWS Mexico (Central) region launch,"First AWS region in Mexico, $5bn pledge",,,,fixed,aws-mexico-5bn
+b639d795-009b-402b-ab21-d16d8d14e62e,2025-01-01,E,SA,,cross-cutting,Oracle cloud/AI investment Saudi Arabia,announced-pledge,,,,fixed,oracle-saudi-inv
+b6a14881-ba85-479a-a4c0-e388ec111f21,2025-01-01,E,US,,neurotech-bci,NIH BRAIN Initiative budget declining 680M FY23 to 321M FY25,disclosed; Cures Act top-up sunsetting,,,,fixed,nih-brain-budget
+b6ea22be-c44c-4ab3-b30c-6dbeeb716f5f,2023-05-10,D,FR,clearview-ai,law-enforcement,CNIL v Clearview AI (overdue penalty),EUR5.2M overdue penalty payment,,,,fixed,edpb-cnil-clearview-penalty-2023
+b6efeae4-167f-4ee1-96e2-bd801cebc518,2021-08-17,B,US,azure,defence-intel,Azure Government Top Secret reaches GA,Azure Government Top Secret GA for US national security missions.,,,,fixed,azure-ts-ga
+b740ec29-65b9-4a69-91e4-bec68436d4c3,2024-01-01,C,NG,galaxy-backbone,cross-cutting,NITDA — NITDA-Galaxy Backbone startup cloud program,Subsidised cloud for startups,,,,fixed,nitda-gbb
+b78ecd93-d8f1-4a61-987d-f0ee5a04e7a1,2019-11-08,A,KE,,cross-cutting,Data Protection Act No. 24 of 2019,statute; status in-force,,,,fixed,ke-dpa
+b8b0af4a-b06f-4703-833e-40f8f0102095,2025-03-01,C,US,azure,border-immigration,ICE (DHS) — Purchase via Dell Federal (FY25),Cloud/productivity tools (Mar-Nov 2025),,,,fixed,forbes-140m
+bae0c729-e105-49d7-889f-897c17349e85,2025-08-15,D,US,soundthinking,municipal-sensing,Ortiz v City of Chicago,Settled 2025-08-15: alert alone insufficient for stop/frisk; payments to 2 leads,,,,fixed,shotspotter-macarthur
+bd53b403-6514-45b1-8b9c-f645ed89bfec,2022-08-31,C,QA,azure,tax-revenue,MCIT Qatar — Azure datacenter region launch,First Microsoft cloud region in Qatar,,,,fixed,msft-qatar-region2
+bd92bf7c-0096-454a-ab45-6a0bc63e8b78,2023-08-09,A,CL,,neurotech-bci,Supreme Court ruling Girardi v. Emotiv (Rol 105.065-2023),court; status in-force,,,,fixed,cl-scj-emotiv
+bf50e7c6-37a0-45a4-a9f5-74a32ddb2309,2023-10-25,B,DE,aws,cross-cutting,AWS announces European Sovereign Cloud,Separate EU-controlled sovereign cloud; Brandenburg first region.,,,,fixed,aws-eusc-announce
+c186927a-d078-436a-9353-49149a03c1dd,2026-04-20,C,EU,s3ns,cross-cutting,EU institutions/agencies — Sovereign Cloud Framework (all-European),"Proximus-led consortium, 6yr",,,,fixed,ec-sovereign-ip
+c1a80fb5-769b-43cf-93b3-1cf97d09923b,2021-07-01,C,EU,,pandemic-response,EU Digital COVID Certificate applies,27-state harmonization; ~16mo lag.,,,law-follows,fixed,consilium-dcc
+c2370986-bb4b-4bac-a143-e1033dbeb333,2021-04-01,C,IL,aws,defence-intel,Israel Ministry of Finance — Project Nimbus framework (joint w/ Google),Government-wide cloud incl defense,,,,fixed,nimbus-wiki2
+c32b35c4-e26f-44ec-b122-9e406f8ddc44,2026-03-23,C,GB,aws,tax-revenue,HMRC — Hyperscaler-only tender (single bidder),Migrate 3 Fujitsu DCs to AWS; 7yr (ext 10),,,,fixed,reg-hmrc
+c3697fab-3009-4bd4-8fd7-c49c8e89025f,2021-01-01,E,IL,,defence-intel,Project Nimbus government cloud contract,disclosed,,,,fixed,nimbus-972
+c3c46bfb-9ff7-4241-8630-77fc8b2f09fa,2022-08-10,C,AU,,pandemic-response,COVIDSafe decommissioned/deleted,Emergency citizen app sunset; data destroyed.,,,decoupled,fixed,covidsafe-deleted
+c4e6f9cf-8e0b-459f-b7d2-54626569eb66,2006-12-07,D,US,,cross-cutting,HP Boardroom Pretexting,Criminal charges Oct 2006; HP paid $14.5M to settle CA AG action Dec 2006,,,,fixed,hp-oag-settlement
+c851db9e-4f42-4759-b334-6c266bcca7d1,2022-05-01,C,AU,aws,border-immigration,Digital Transformation Agency — Whole-of-gov arrangement,"200+ AWS services, 3yr",,,,fixed,dta-aws-2022
+c8533f10-8d97-4c4f-b878-4bb4d27ee85c,2022-05-03,A,ES,,cross-cutting,Esquema Nacional de Seguridad (RD 311/2022),statute; status in-force,,,,fixed,es-ens-boe
+c9125bd7-b24f-49aa-af12-c8830d9ec8c0,2026-08-04,A,NG,,cross-cutting,NITDA National Digital Infrastructure Assurance Framework,certification; status enacted,,,,fixed,ng-ndiaf
+cc1b122d-464e-4fb5-8bf3-d543012610c7,2025-09-24,B,DE,delos-cloud,public-admin,SAP and OpenAI launch OpenAI for Germany on Delos Cloud,Sovereign AI for German public sector on Azure.,,,,fixed,openai-germany-b
+d16ae36f-5ef2-4161-ad04-938754b59ed3,2025-09-01,C,US,clearview-ai,border-immigration,ICE (DHS) — Contract (FY25),Facial recognition services,,,,fixed,capture-clearview
+d25c6df3-3c07-4f3d-8f75-927c0eb94dad,2021-09-24,A,SA,,cross-cutting,Personal Data Protection Law (PDPL RD M/19) + Implementing Regs,statute; status in-force,,,,fixed,sa-pdpl
+d278341e-f37b-447a-9d76-59db2743ff29,2020-03-13,C,US,,border-immigration,COVID/Title 42 enforcement collapse,Removals/detention fall FY2020-21; capacity not tooling drives trough.,,,decoupled,fixed,gao-24-106233
+d2b75ae8-062d-4672-b930-ae93fa208a51,2023-01-01,C,GB,aws,border-immigration,Crown Commercial Service — G-Cloud 14 / OGVA,Framework + OGVA 2.0 vendor pricing MoU (up to 18% discount),,,,fixed,cw-ogva
+d2efa7f4-32fb-4dbb-9d5f-470d912e07b6,2025-11-01,A,EU,,cross-cutting,Cloud Sovereignty Framework (SEAL levels),soft-law; status enacted,,,,fixed,csf-ec
+d3a570cc-d48b-4e7d-9875-7d92f138cb9a,2022-12-07,C,US,azure,defence-intel,DoD DISA — JWCC,"Enterprise cloud IaaS/PaaS all classification levels (multi-award, 1 of 4)",,,,fixed,defscoop-jwcc
+d3cb1385-95dc-45e1-b718-151a4624cd76,2023-11-15,C,SA,gcp,cross-cutting,Public/enterprise (via CNTXT) — Dammam cloud region launch,"Google Cloud region, CNTXT reseller",,,,fixed,gcp-dammam2
+d4f7d806-607e-4203-8598-79552b918942,2026-01-01,C,CA,thinkon,cross-cutting,Government of Canada (target) — Sovereign government cloud consortium,"End-to-end sovereign AI-ready cloud; procurement-ready, no award yet",,,,fixed,betakit-sovereign
+d5118c45-ac83-4e82-b5de-a733fe148b39,2021-10-13,A,RW,,cross-cutting,Law No. 058/2021 on Protection of Personal Data and Privacy,statute; status in-force,,,,fixed,rw-dpp
+d5636784-3b8c-4d18-b21d-e1419ea4a44e,1986-08-25,D,US,,cross-cutting,Socialist Workers Party v Attorney General,"FBI held liable; SWP awarded $264,000",,,,fixed,swp-justia
+d6616886-a420-4857-90e3-a1b2442a351c,2015-01-13,A,US,,defence-intel,DoD Cloud Computing SRG Impact Levels (IL2/IL4/IL5/IL6),regulation; status in-force,,,,fixed,dod-cloud-srg
+d7e2c5cb-fe7a-44a4-99b8-a9b43c737169,2023-10-17,D,GB,clearview-ai,law-enforcement,Clearview AI v ICO (FTT),Fine/notice set aside on jurisdiction (foreign govt clients),,,,fixed,ftt-clearview-2023
+d85d9a75-6ea4-4356-a32d-1b466a41d8b2,2022-07-13,D,GR,clearview-ai,law-enforcement,HDPA v Clearview AI,EUR20M fine + ban and erasure order,,,,fixed,hdpa-clearview-2022
+d8b0f120-2766-40f2-a754-9d5bfb488118,2023-04-26,B,PL,azure,cross-cutting,Azure Poland Central region opens,"First Poland datacenter region, EU residency.",,,,fixed,azure-poland-b
+d9dbe13e-7237-4ffa-85b8-1843c69c461a,2026-01-15,B,DE,aws,cross-cutting,AWS European Sovereign Cloud reaches GA,"EU-controlled operations, Brandenburg first region.",,,,fixed,aws-eusc-ga
+db7efad2-452e-41de-9343-981264dc4fa8,2025-01-24,A,US,,border-immigration,Trump-II enforcement policy switch,Quotas set; book-ins jump BEFORE new software/money.,,,law-follows,fixed,kocher-numbers
+dcb3e3f1-9efd-48d0-a245-dce13a15ba0b,2025-01-01,E,US,,municipal-sensing,Flock Safety 275M round at 7.5B valuation; >300M ARR,reported/vendor; company + a16z,,,,fixed,flock-blog
+dcf04d00-027e-4882-af78-276ba9262791,2021-04-01,A,IL,,defence-intel,Project Nimbus tender data-in-country requirement,soft-law; status in-force,,,,fixed,il-nimbus
+dcff4280-a9e4-4f13-bf9d-99c51e2a32a7,2025-04-11,C,US,palantir,border-immigration,ICE (DHS) — Sole-source task order,ImmigrationOS prototype (deportation targeting/ELITE),,,law-follows,fixed,aic-immigrationos
+df5c8cb3-b64d-4a40-ae77-629be7fce901,2024-01-01,A,DK,,cross-cutting,Datatilsynet Google Workspace/Chromebooks ruling,court; status enacted,,,,fixed,dk-datatilsynet
+dfca7008-5037-4384-aa25-0f9496cabe6c,2025-01-01,E,MX,,public-admin,AWS Mexico infrastructure region,announced-pledge,,,,fixed,aws-mexico-inv
+e0699d5e-cb64-49d5-8c64-749f9ad36c2c,2022-01-01,C,NZ,gcp,tax-revenue,Dept of Internal Affairs — Google Cloud framework agreement,Google Cloud framework,,,,fixed,nz-a2z
+e0fa9eec-c5c6-4ec9-bf64-28a6b7e2917a,2025-01-01,E,SA,,cross-cutting,US-Saudi investment commitment (political topline),"announced-pledge; non-binding ceiling, all sectors",,,,fixed,whitehouse-saudi
+e104bcd9-d90f-4d63-9391-b663bbe86c9e,2020-11-23,C,US,oracle,cross-cutting,CIA (IC) — C2E,Multi-cloud for 17-agency IC (1 of 5),,,,fixed,dcd-c2e
+e141b751-1f5c-46fe-a3ec-64e73fb05cc3,2016-11-13,A,QA,,cross-cutting,Personal Data Privacy Protection Law No. 13 of 2016,statute; status in-force,,,,fixed,qa-pdppl
+e357d992-b7bd-4e08-941e-d1fc56e8d6c6,2025-03-24,A,US,,cross-cutting,FedRAMP 20x,certification; status in-force,,,,fixed,fedramp-20x-gsa
+e460a11e-34d1-4a93-bab9-f3de75be3676,2023-01-01,A,GB,,defence-intel,Government Security Classifications (OFFICIAL/SECRET/TOP SECRET),soft-law; status in-force,,,,fixed,uk-classifications-gov
+e4c7f648-2f4f-44c5-b8e6-8bee0eabd366,2023-06-20,B,EU,oracle,cross-cutting,Oracle EU Sovereign Cloud reaches GA,"EU-only sovereign regions, EU-resident operators.",,,,fixed,oracle-eu-sov
+e634baf2-d0a5-4ec1-95c1-2702303f4259,2024-03-04,C,SA,aws,cross-cutting,Kingdom of Saudi Arabia — Infrastructure region announcement (me-central-2),"AWS Saudi cloud region, ~2026 launch",,,,fixed,aws-ksa-region
+e7337024-e948-4985-9be8-c4dc2077cfae,2022-12-07,C,US,oracle,defence-intel,DoD DISA — JWCC,"Enterprise cloud IaaS/PaaS all classification levels (multi-award, 1 of 4)",,,,fixed,govconwire-jwcc
+e82342ae-3fcf-4387-b9fa-4cab6a496a07,2025-09-01,C,AU,azure,defence-intel,Department of Defence — Panel via Data#3,"Azure for SAP ERP + Vera M365; >=A$100M/yr, 5yr",,,,fixed,itnews-def-azure
+e8ab293b-25c6-4dd9-a321-74e76a6e3a82,2011-12-08,A,US,,defence-intel,FedRAMP,certification; status in-force,,,,fixed,fedramp-gov
+eadca708-60ce-472d-89bf-1831bf9f0f38,2025-01-01,E,SA,,cross-cutting,AWS + HUMAIN AI Zone (dedicated AI infra/chips),announced-pledge,,,,fixed,aws-humain-inv
+eaee1853-28bd-407d-b113-7469b5ee1597,2018-04-10,A,EU,,genomics-biotech,1+ Million Genomes initiative,soft-law; status in-force,,,,fixed,1mg-ec
+eb3d9c62-666e-478b-9407-341f470ab5ec,2025-04-18,A,US,,neurotech-bci,Montana SB 163 (Genetic & Neurotechnology Data Privacy),statute; status amended,,,,fixed,mt-sb163
+ec102880-f4b9-4d00-b88b-da6aeefbcc10,2026-08-02,A,EU,,cross-cutting,AI Act Art.50 transparency + GPAI obligations apply,Transparency/governance in force.,,,law-follows,fixed,gibsondunn-omnibus
+ec295d11-eaa2-4036-900e-a45f2e5a7629,2025-01-01,E,INTL,,genomics-biotech,Isomorphic Labs 600M external round (AI drug/biology design),disclosed,,,,fixed,isomorphic-600m
+ec4728f8-bea2-45ed-a2cd-e86657c6c1a2,2026-01-27,D,US,flock,municipal-sensing,Schmidt v City of Norfolk,Ruled constitutional 2026-01-27; plaintiffs appealing to 4th Cir.,,,,fixed,flock-courthouse
+ecd6cc84-8e10-474a-bf43-051d69e7ab8c,2026-01-01,E,US,,defence-intel,Palantir Q2 2026 US government revenue (quarter),disclosed,,,,fixed,palantir-q2
+ed4007d1-0c1b-489a-84c8-dc722d88d1f6,2025-01-01,E,US,,neurotech-bci,Synchron 200M Series D incl In-Q-Tel (IQT) and Qatar Investment Authority,disclosed; clearest national-security signal,,,,fixed,synchron-medtechdive
+efc48513-6a79-4580-8528-9bac0d9948ff,2022-12-07,C,US,aws,defence-intel,DoD DISA — JWCC,"Enterprise cloud IaaS/PaaS all classification levels (multi-award, 1 of 4)",,,,fixed,dcd-jwcc
+f0586c68-432c-45d1-85a1-8f5422a44593,2019-05-01,A,RU,,cross-cutting,Sovereign Internet Law (90-FZ),statute; status in-force,,,,fixed,ru-sovinternet
+f0a4a6d9-e6f9-4257-ae4f-bad5663fe441,2026-01-01,E,US,,nanotech-materials,NNI FY2026 request across 10 agencies,disclosed; NNI budget supplement,,,,fixed,statnano-nni
+f0e0728e-61e5-413a-bb33-53ce5fecb5fb,2023-05-19,C,NZ,aws,tax-revenue,Inland Revenue — Start-to-Cloud ROI (S2C000),Migrate START tax platform to public cloud; provider unconfirmed,,,,fixed,ird-s2c
+f0e72d9a-6c1d-4fff-a41a-f4aa24252afb,2025-03-01,C,US,azure,border-immigration,CBP (DHS) — Purchase via Dell Federal (FY25),Cloud/productivity tools,,,,fixed,forbes-140m
+f107f542-f7cc-4ab9-baaa-8a3b9b235e52,2022-12-14,A,EU,,cross-cutting,DORA (Reg 2022/2554),regulation; status in-force,,,,fixed,dora-eurlex
+f10e2906-7d4e-49d4-9ab6-e0d7e5c1196b,2025-03-20,A,MX,,cross-cutting,Federal Law on Protection of Personal Data (LFPDPPP 2025),statute; status in-force,,,,fixed,mx-lfpdppp
+f2757857-faf8-4196-91a3-9eba771bb8bb,2025-01-01,E,SA,,cross-cutting,"HUMAIN + AMD sovereign AI JV, Saudi Arabia",disclosed vendor,,,,fixed,humain-amd
+f3b0a9b5-7fdc-42cb-a499-1deb2fd6ba0b,2025-01-01,C,US,palantir,border-immigration,ICE (DHS) — Sole-source (IDV GS35F0086U),Investigative Case Management (ICM) O&M + enhancements,,,law-follows,fixed,orangeslices-icm
+f4091e70-1558-4632-a312-259931e9380e,2026-07-24,A,EU,,cross-cutting,"Digital Omnibus (AI Act amendment, high-risk deferral to Dec 2027)",regulation; status enacted,,,,fixed,omnibus-fpf
+f459b778-9ee3-4c4f-8ca5-4ad9736c6889,2001-01-01,E,US,,nanotech-materials,Cumulative NNI federal investment since 2001,disclosed; cumulative,,,,fixed,statnano-nni
+f4f50db8-ddf8-42ae-a18b-41a584547991,2026-01-01,E,SA,,cross-cutting,AWS Saudi infrastructure region (live 2026),announced-pledge,,,,fixed,aws-humain-inv
+f527c9e2-6fc6-4e00-bb18-ca8d5d25256e,2025-01-01,C,FR,s3ns,cross-cutting,French public sector — Cloud de confiance / SecNumCloud,Trusted cloud (Thales+Google); SecNumCloud qualified 2025,,,,fixed,thales-s3ns
+f60da873-9d7d-4c6c-9121-e59cfcaa7ada,2025-05-13,C,SA,oracle,cross-cutting,Kingdom of Saudi Arabia — 10-year investment commitment,Cloud+AI expansion; Jeddah/Riyadh + planned Neom,,,,fixed,oracle-ksa-14bn
+f6394159-b9d3-4675-8b72-9fe9328edb91,2022-12-14,A,EU,,cross-cutting,NIS2 Directive (Dir 2022/2555),regulation; status in-force,,,,fixed,nis2-eurlex
+f68439e9-9e67-4445-9b79-93366feabb89,2022-08-23,C,CN,huawei,tax-revenue,Changsha Municipal Affairs — Single-source procurement,Changsha Municipal Affairs Cloud Phase II,,,,fixed,huawei-changsha-287m
+f74a40ee-66d3-4412-8d6c-f08f2caab9a8,2023-08-01,C,IL,aws,cross-cutting,State of Israel / enterprise — AWS Israel (Tel Aviv) region launch,"AWS infrastructure region, $7.2bn to 2037",,,,fixed,aws-israel-72bn
+f90b684f-4ec2-4501-beab-6c5a33e68165,2024-02-28,A,US,,genomics-biotech,EO 14117 + DOJ Data Security Rule (bulk sensitive data),regulation; status in-force,,,,fixed,fr-eo14117
+fa8fcae9-5dd7-43d8-9ed6-2426c08cc629,2020-10-13,D,FR,azure,health,Health Data Hub hosting challenge,Hosting not suspended; extra safeguards ordered; govt to re-platform,,,,fixed,ce-hdh-2020
+fa932017-410d-4070-9a1f-c935bb9cc898,2018-08-14,A,BR,,cross-cutting,LGPD (Law No. 13.709/2018),statute; status in-force,,,,fixed,br-lgpd
+fbe4ed81-5d9c-4096-b98c-497e4f20f75a,2024-01-01,C,RW,irembo,border-immigration,Government of Rwanda (RISA) — E-gov PPP platform on national data centre,200+ digital gov services via Irembo,,,,fixed,rwanda-irembo
+fc2bee49-6294-48cb-9124-755e51a9b7f5,2025-01-01,C,DE,delos-cloud,cross-cutting,German public administration — Sovereign cloud designation,Azure-stack sovereign cloud (SAP subsidiary); SAP ~EUR2bn build-out,,,,fixed,heise-delos
+fc6ce778-968d-411a-9789-0158ebd6cfeb,2024-11-23,A,EU,,cross-cutting,Cyber Resilience Act (Reg 2024/2847),regulation; status in-force,,,,fixed,cra-eurlex
+fd598ce7-3eee-4bb8-8758-e0ef8347a0ad,2024-01-01,A,SE,,cross-cutting,Swedish Tax Agency M365/Teams risk memorandum,soft-law; status enacted,,,,fixed,se-cleura
+fd740ce2-dc99-4dfc-babd-066395667c63,2023-01-01,C,GB,aws,border-immigration,Home Office — OGVA 2.0 call-off,"Public cloud hosting, 3yr",,,,fixed,cw-ogva
+fd7802a1-0032-4d80-9f92-14259b7d30ff,2022-10-10,B,US,palantir,defence-intel,Palantir Federal Cloud Service earns DoD IL6,PFCS receives DISA IL6 authorization.,,,,fixed,palantir-il6-b
+fd7aa13b-d501-4b1a-94db-ed65c24a0bba,2025-06-19,A,GB,,cross-cutting,Data (Use and Access) Act 2025,statute; status in-force,,,,fixed,uk-duaa-legislation
+fe5bfd10-5203-4bcc-acc0-74124bdd9646,2021-04-01,C,IL,gcp,defence-intel,Israel Ministry of Finance — Project Nimbus framework (joint w/ AWS),Government-wide cloud incl defense; ~7yr,,,,fixed,nimbus-wiki2
+ff399193-a769-4abe-8da0-d0b3d4ebbda1,2026-07-11,C,US,,border-immigration,"ICE detention 65,765; 70.6% no conviction","183,181 on Alternatives to Detention.",,,decoupled,fixed,trac-quickfacts
+ff820021-a757-49fc-b6f4-a904aeab3e29,2023-01-01,C,GB,aws,cross-cutting,Dept for Work & Pensions — OGVA call-off,Public cloud hosting,,,,fixed,dwp-aws

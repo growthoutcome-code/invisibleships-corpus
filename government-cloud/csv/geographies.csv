@@ -1,0 +1,36 @@
+id,name,region,tier
+AE,United Arab Emirates,mena,2
+AU,Australia,apac,1
+BR,Brazil,americas,2
+CA,Canada,americas,2
+CH,Switzerland,europe,2
+CL,Chile,americas,2
+CN,People's Republic of China,apac,1
+DE,Germany,europe,1
+DK,Denmark,europe,2
+EG,Egypt,africa,2
+ES,Spain,europe,2
+EU,European Union (institutions),europe,1
+FI,Finland,europe,2
+FR,France,europe,1
+GB,United Kingdom,europe,1
+GR,Greece,europe,2
+IL,Israel,mena,2
+IN,India,apac,2
+INTL,International (UN/OECD global instruments),global,1
+IT,Italy,europe,2
+KE,Kenya,africa,2
+MX,Mexico,americas,2
+NG,Nigeria,africa,2
+NL,Netherlands,europe,2
+NO,Norway,europe,2
+NZ,New Zealand,apac,1
+PL,Poland,europe,2
+QA,Qatar,mena,2
+RU,Russian Federation,europe,1
+RW,Rwanda,africa,2
+SA,Saudi Arabia,mena,1
+SE,Sweden,europe,2
+US,United States (federal),americas,1
+US-CO,United States — Colorado,americas,1
+ZA,South Africa,africa,1

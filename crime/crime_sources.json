@@ -1,0 +1,2009 @@
+[
+  {
+    "source_id": "cs001",
+    "url": "https://bjs.ojp.gov/content/pub/pdf/htius.pdf",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Homicide Trends in the United States (UCR-based series 1950-2005)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs002",
+    "url": "https://bjs.ojp.gov/nibrs-estimation-program",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "NIBRS Estimation Program",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs003",
+    "url": "https://cde.ucr.cjis.gov/LATEST/resources/reports/Reported%20Crimes%20in%20the%20Nation%202024%20FAQs.pdf",
+    "publisher": "FBI Crime Data Explorer",
+    "title": "Reported Crimes in the Nation, 2024 - Frequently Asked Questions",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs004",
+    "url": "https://cde.ucr.cjis.gov/LATEST/resources/reports/Reported%20Crimes%20in%20the%20Nation%20Quick%20Stats.pdf",
+    "publisher": "FBI Crime Data Explorer",
+    "title": "Reported Crimes in the Nation Quick Stats (2024)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs005",
+    "url": "https://cde.ucr.cjis.gov/LATEST/resources/reports/UCR%20Summary%20of%20Reported%20Crimes%20in%20the%20Nation%202024.pdf",
+    "publisher": "FBI Crime Data Explorer",
+    "title": "UCR Summary of Reported Crimes in the Nation, 2024",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs006",
+    "url": "https://cde.ucr.cjis.gov/LATEST/resources/reports/UCR_Summary_of_Reported_Crimes_in_the_Nation_2025.pdf",
+    "publisher": "FBI Crime Data Explorer",
+    "title": "UCR Summary of Reported Crimes in the Nation, 2025",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs007",
+    "url": "https://jasher.substack.com/p/murder-fell-at-the-fastest-pace-ever",
+    "publisher": "Jeff Asher / Jeff-alytics",
+    "title": "Murder Fell At The Fastest Pace Ever Recorded In 2023 (2024-09-23)",
+    "evidence_tier": "B",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs008",
+    "url": "https://jasher.substack.com/p/the-fbi-reports-that-murder-officially",
+    "publisher": "Jeff Asher / Jeff-alytics",
+    "title": "The FBI Reports That Murder Officially Fell At The Fastest Pace Ever Recorded in 2025 (2026-08-14)",
+    "evidence_tier": "B",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs009",
+    "url": "https://jasher.substack.com/p/there-were-14000-murders-in-the-united",
+    "publisher": "Jeff Asher / Jeff-alytics",
+    "title": "There Were 14,000 Murders In The United States Last Year (2026-03-09) - documents FBI revision magnitudes",
+    "evidence_tier": "B",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs010",
+    "url": "https://le.fbi.gov/cjis-division/cjis-link/fbi-releases-data-on-crime-in-the-nation-for-2021",
+    "publisher": "FBI CJIS",
+    "title": "FBI Releases Data on Crime in the Nation for 2021",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs011",
+    "url": "https://leb.fbi.gov/bulletin-highlights/additional-highlights/crime-data-2021-nationwide-crime-statistics",
+    "publisher": "FBI Law Enforcement Bulletin",
+    "title": "Crime Data: 2021 Nationwide Crime Statistics",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs012",
+    "url": "https://static1.squarespace.com/static/5b7ea2794cde7a79e7c00582/t/65c120d169e0d131b5e53387/1707155666076/cook-mancik-2024-the-sixty-year-trajectory-of-homicide-clearance-rates-toward-a-better-understanding-of-the-great.pdf",
+    "publisher": "Annual Review of Criminology (peer-reviewed)",
+    "title": "Cook PJ, Mancik A. The Sixty-Year Trajectory of Homicide Clearance Rates. Annu Rev Criminol 7:59-83, 2024. DOI 10.1146/annurev-criminol-022422-122744",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs013",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/1999/99sec2.pdf",
+    "publisher": "FBI UCR",
+    "title": "Crime in the United States 1999, Section II",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs014",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/2010/crime-in-the-u.s.-2010/clearances",
+    "publisher": "FBI UCR",
+    "title": "Crime in the United States 2010 - Clearances",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs015",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/2010/crime-in-the-u.s.-2010/tables/10tbl01.xls",
+    "publisher": "FBI UCR",
+    "title": "Crime in the United States 2010, Table 1 (1991-2010)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs016",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/clearances",
+    "publisher": "FBI UCR",
+    "title": "Crime in the United States 2019 - Clearances",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs017",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/tables/table-1",
+    "publisher": "FBI UCR",
+    "title": "Crime in the United States 2019, Table 1 (1999-2019)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs018",
+    "url": "https://www.annualreviews.org/content/journals/10.1146/annurev-criminol-022422-122744",
+    "publisher": "Annual Reviews",
+    "title": "Cook & Mancik 2024 - abstract page (confirmed 93%/1962 and 29-point decline)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs019",
+    "url": "https://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025",
+    "publisher": "Axios",
+    "title": "FBI data for 2025 show biggest drop in violent crime in 90 years (2026-08-18)",
+    "evidence_tier": "B",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs020",
+    "url": "https://www.brennancenter.org/our-work/analysis-opinion/fbi-data-confirms-drop-most-crimes-2023-especially-murders",
+    "publisher": "Brennan Center for Justice",
+    "title": "FBI Data Confirms Drop in Most Crimes in 2023 (2024-09-26)",
+    "evidence_tier": "B",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs021",
+    "url": "https://www.cbsnews.com/news/fbi-crime-data-violent-crime-murder-white-house/",
+    "publisher": "CBS News",
+    "title": "Violent crime plummeted in 2025, with murder rate hitting 20-year low, FBI says (2026-08-14)",
+    "evidence_tier": "B",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs022",
+    "url": "https://www.cdc.gov/nchs/data/databriefs/db526.pdf",
+    "publisher": "NCHS / CDC",
+    "title": "Curtin SC. Trends in Death Rates for Leading Methods of Injury: United States, 2003-2023. NCHS Data Brief No. 526, March 2025. DOI 10.15620/cdc/174582",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs023",
+    "url": "https://www.cdc.gov/nchs/data/hus/2017/029.pdf",
+    "publisher": "NCHS / CDC",
+    "title": "Health, United States, Table 29: Death rates for homicide, selected years 1950-2016",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs024",
+    "url": "https://www.cdc.gov/nchs/data/hus/2020-2021/SlctMort.pdf",
+    "publisher": "NCHS / CDC",
+    "title": "Health, United States 2020-2021: Age-adjusted death rates for selected causes, selected years 1950-2019",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs025",
+    "url": "https://www.cdc.gov/nchs/data/nvsr/nvsr74/nvsr74-04.pdf",
+    "publisher": "NCHS / CDC",
+    "title": "Xu J, Murphy SL, Kochanek KD, Arias E. Deaths: Final Data for 2022. NVSR Vol 74 No 4, June 10, 2025",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs026",
+    "url": "https://www.cdc.gov/nchs/fastats/homicide.htm",
+    "publisher": "NCHS / CDC",
+    "title": "FastStats - Homicide (2024 data via CDC WONDER)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs027",
+    "url": "https://www.cdc.gov/nchs/products/databriefs/db526.htm",
+    "publisher": "NCHS / CDC",
+    "title": "NCHS Data Brief 526 landing page (citation + figure data tables)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs028",
+    "url": "https://www.factcheck.org/2026/08/trumps-misleading-crime-drop-claims/",
+    "publisher": "FactCheck.org",
+    "title": "Trump's Misleading Crime Drop Claims (Aug 2026) - corroborates revised 2024 rate of 5.1",
+    "evidence_tier": "B",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs029",
+    "url": "https://www.fbi.gov/news/press-releases/fbi-releases-2020-crime-statistics",
+    "publisher": "FBI",
+    "title": "FBI Releases 2020 Crime Statistics",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs030",
+    "url": "https://www.fbi.gov/news/press-releases/fbi-releases-2021-crime-in-the-nation-statistics",
+    "publisher": "FBI",
+    "title": "FBI Releases 2021 Crime in the Nation Statistics",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs031",
+    "url": "https://www.fbi.gov/news/press-releases/fbi-releases-2022-crime-in-the-nation-statistics",
+    "publisher": "FBI",
+    "title": "FBI Releases 2022 Crime in the Nation Statistics",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs032",
+    "url": "https://www.fbi.gov/news/press-releases/fbi-releases-2024-reported-crimes-in-the-nation-statistics",
+    "publisher": "FBI",
+    "title": "FBI Releases 2024 Reported Crimes in the Nation Statistics",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs033",
+    "url": "https://www.fbi.gov/news/press-releases/fbi-releases-2025-reported-crimes-in-the-nation-statistics",
+    "publisher": "FBI",
+    "title": "FBI Releases 2025 Reported Crimes in the Nation Statistics",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs034",
+    "url": "https://www.fbi.gov/news/press-releases/fbi-releases-historic-early-look-at-annual-crime-data",
+    "publisher": "FBI",
+    "title": "FBI Releases Historic Early Look at Annual Crime Data (2026-05-13)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs035",
+    "url": "https://www.murderdata.org/",
+    "publisher": "Murder Accountability Project",
+    "title": "Murder Accountability Project home (clearance rates, citing FBI CJIS)",
+    "evidence_tier": "B",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs036",
+    "url": "https://www.murderdata.org/2025/10/some-more-good-news-for-homicide.html",
+    "publisher": "Murder Accountability Project",
+    "title": "More good news for homicide clearance rates in America (2025-10-09)",
+    "evidence_tier": "B",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs037",
+    "url": "https://www.pewresearch.org/short-reads/2021/10/27/what-we-know-about-the-increase-in-u-s-murders-in-2020/",
+    "publisher": "Pew Research Center",
+    "title": "What we know about the increase in U.S. murders in 2020",
+    "evidence_tier": "B",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs038",
+    "url": "https://www.themarshallproject.org/2022/06/14/what-did-fbi-data-say-about-crime-in-2021-it-s-too-unreliable-to-tell",
+    "publisher": "The Marshall Project",
+    "title": "What Can FBI Data Say About Crime in 2021? It's Too Unreliable to Tell",
+    "evidence_tier": "B",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs_ccj_2026",
+    "url": "https://counciloncj.org/crime-trends-in-u-s-cities-mid-year-2026-update/",
+    "publisher": "Council on Criminal Justice",
+    "title": "Crime Trends in U.S. Cities: Mid-Year 2026 Update (2026-07-22)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs_rtci_2026",
+    "url": "https://jasher.substack.com/p/murder-in-the-us-fell-dramatically",
+    "publisher": "Jeff Asher / Real-Time Crime Index",
+    "title": "Murder in the US Fell Dramatically in the First Half of 2026 (2026-07-06)",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs_ncvs_cv24",
+    "url": "https://bjs.ojp.gov/document/cv24.pdf",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Criminal Victimization, 2024",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs_two_measures",
+    "url": "https://bjs.ojp.gov/library/publications/nations-two-crime-measures-2015-2024",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "The Nation's Two Crime Measures, 2015-2024",
+    "evidence_tier": "A",
+    "accessed": "2026-08-20",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs043",
+    "url": "https://api.ojp.gov/bjsdataset/v1/x3sz-eb6y.json",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Bureau of Justice Statistics",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs044",
+    "url": "https://api.ojp.gov/bjsdataset/v1/cqmi-ycfq.json",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Bureau of Justice Statistics",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs045",
+    "url": "https://ucr.fbi.gov/nibrs/2015/resource-pages/nibrs-2015_summary_final-1.pdf",
+    "publisher": "FBI UCR Program",
+    "title": "FBI UCR Program",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs046",
+    "url": "https://ucr.fbi.gov/nibrs/2016/resource-pages/nibrs-2016_summary.pdf",
+    "publisher": "FBI UCR Program",
+    "title": "FBI UCR Program",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs047",
+    "url": "https://ucr.fbi.gov/nibrs/2017/resource-pages/nibrs-2017_summary-11-6-2018.pdf",
+    "publisher": "FBI UCR Program",
+    "title": "FBI UCR Program",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs048",
+    "url": "https://ucr.fbi.gov/nibrs/2018/resource-pages/countdown.pdf",
+    "publisher": "FBI UCR Program",
+    "title": "FBI UCR Program",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs049",
+    "url": "https://ucr.fbi.gov/nibrs/2019/resource-pages/summary.pdf",
+    "publisher": "FBI UCR Program",
+    "title": "FBI UCR Program",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs050",
+    "url": "https://www.justice.gov/ovw/docs/bjs-stalking-rpt.pdf",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Bureau of Justice Statistics",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs051",
+    "url": "https://bjs.ojp.gov/content/pub/pdf/sv16.pdf",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Bureau of Justice Statistics",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs052",
+    "url": "https://bjs.ojp.gov/content/pub/pdf/sv19.pdf",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Bureau of Justice Statistics",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs053",
+    "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/01/PI_2021.01.13_Online-Harassment_FINAL-1.pdf",
+    "publisher": "Pew Research Center",
+    "title": "Pew Research Center",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs054",
+    "url": "https://www.pewresearch.org/internet/2021/01/13/the-state-of-online-harassment/",
+    "publisher": "Pew Research Center",
+    "title": "Pew Research Center",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs055",
+    "url": "https://www.fbi.gov/file-repository/2015-ncic-missing-person-and-unidentified-person-statistics.pdf",
+    "publisher": "FBI CJIS",
+    "title": "FBI CJIS",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs056",
+    "url": "https://www.fbi.gov/file-repository/reports-and-publications/2016-ncic-missing-person-and-unidentified-person-statistics.pdf",
+    "publisher": "FBI CJIS",
+    "title": "FBI CJIS",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs057",
+    "url": "https://www.fbi.gov/file-repository/reports-and-publications/2017-ncic-missing-person-and-unidentified-person-statistics.pdf",
+    "publisher": "FBI CJIS",
+    "title": "FBI CJIS",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs058",
+    "url": "https://www.fbi.gov/file-repository/reports-and-publications/2018-ncic-missing-person-and-unidentified-person-statistics.pdf",
+    "publisher": "FBI CJIS",
+    "title": "FBI CJIS",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs059",
+    "url": "https://www.fbi.gov/file-repository/reports-and-publications/2019-ncic-missing-person-and-unidentified-person-statistics.pdf",
+    "publisher": "FBI CJIS",
+    "title": "FBI CJIS",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs060",
+    "url": "https://www.fbi.gov/file-repository/cjis/2020-ncic-missing-person-and-unidentified-person-statistics.pdf",
+    "publisher": "FBI CJIS",
+    "title": "FBI CJIS",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs061",
+    "url": "https://www.fbi.gov/file-repository/cjis/2022-ncic-missing-person-and-unidentified-person-statistics.pdf",
+    "publisher": "FBI CJIS",
+    "title": "FBI CJIS",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs062",
+    "url": "https://le.fbi.gov/file-repository/2023-ncic-missing-person-and-unidentified-person-statistics.pdf",
+    "publisher": "FBI CJIS",
+    "title": "FBI CJIS",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs063",
+    "url": "https://www.fbi.gov/file-repository/cjis/2024-ncic-missing-and-unidentified-person-statistics.pdf",
+    "publisher": "FBI CJIS",
+    "title": "FBI CJIS",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs064",
+    "url": "https://www.fbi.gov/file-repository/2025-ncic-missing-person-and-unidentified-person-statistics.pdf",
+    "publisher": "FBI CJIS",
+    "title": "FBI CJIS",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs065",
+    "url": "https://www.ojp.gov/pdffiles1/nij/310356.pdf",
+    "publisher": "National Institute of Justice / NamUs",
+    "title": "National Institute of Justice / NamUs",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs066",
+    "url": "https://namus.nij.ojp.gov/sites/g/files/xyckuh336/files/media/document/namus-bi-annual-monthly-case-report-january-2025.pdf",
+    "publisher": "NamUs",
+    "title": "NamUs",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs067",
+    "url": "https://www.uscourts.gov/sites/default/files/statistics_import_dir/C02ASep08.pdf",
+    "publisher": "Administrative Office of the U.S. Courts",
+    "title": "Administrative Office of the U.S. Courts",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs068",
+    "url": "https://www.uscourts.gov/sites/default/files/data_tables/C02ASep15.pdf",
+    "publisher": "Administrative Office of the U.S. Courts",
+    "title": "Administrative Office of the U.S. Courts",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs069",
+    "url": "https://www.uscourts.gov/sites/default/files/data_tables/jb_c2a_0930.2019.pdf",
+    "publisher": "Administrative Office of the U.S. Courts",
+    "title": "Administrative Office of the U.S. Courts",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs070",
+    "url": "https://www.uscourts.gov/sites/default/files/2025-01/jb_c2a_0930.2024.pdf",
+    "publisher": "Administrative Office of the U.S. Courts",
+    "title": "Administrative Office of the U.S. Courts",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs071",
+    "url": "https://www.uscourts.gov/sites/default/files/document/jb_c2a_0930.2025.pdf",
+    "publisher": "Administrative Office of the U.S. Courts",
+    "title": "Administrative Office of the U.S. Courts",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs072",
+    "url": "https://www.rcfp.org/introduction-anti-slapp-guide/",
+    "publisher": "Reporters Committee for Freedom of the Press",
+    "title": "Reporters Committee for Freedom of the Press",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs073",
+    "url": "https://www.ifs.org/anti-slapp-report/",
+    "publisher": "Institute for Free Speech",
+    "title": "Institute for Free Speech",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs074",
+    "url": "https://uwm.edu/journalism-advertising-media-studies/wp-content/uploads/sites/213/2016/04/Rethinking-Criminal-Libel.pdf",
+    "publisher": "David Pritchard, Communication Law and Policy 14(3), 2009",
+    "title": "David Pritchard, Communication Law and Policy 14(3), 2009",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs075",
+    "url": "https://medialaw.org/chapter-3-the-empirical-reality-ofcontemporary-libel-litigation/",
+    "publisher": "Media Law Resource Center",
+    "title": "Media Law Resource Center",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "hs_nibrs_manual",
+    "url": "https://le.fbi.gov/file-repository/ucr/nibrs-user-manual-2025.pdf",
+    "publisher": "FBI CJIS",
+    "title": "NIBRS User Manual 2025.0 (offence code definitions)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "hs_svs",
+    "url": "https://bjs.ojp.gov/library/publications/stalking-victimization-2019",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Stalking Victimization, 2019 (Supplemental Victimization Survey)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "hs_nos320",
+    "url": "https://www.uscourts.gov/statistics-reports/caseload-statistics-data-tables",
+    "publisher": "Administrative Office of the US Courts",
+    "title": "Federal Judicial Caseload Statistics, Table C-2 (Nature of Suit)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "hs_pew",
+    "url": "https://www.pewresearch.org/internet/2021/01/13/the-state-of-online-harassment/",
+    "publisher": "Pew Research Center",
+    "title": "The State of Online Harassment (Jan 2021, fielded Sept 2020)",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "hs_dhs_worldcup",
+    "url": "https://www.dhs.gov/news/2026/07/29/dhs-highlights-successful-arrests-and-rescues-crackdown-human-trafficking-during",
+    "publisher": "US Department of Homeland Security",
+    "title": "DHS Highlights Successful Arrests and Rescues in Crackdown on Human Trafficking During FIFA World Cup (2026-07-29)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "hs_dhs_ccht_fy24",
+    "url": "https://www.dhs.gov/news/2025/08/13/dhs-center-countering-human-trafficking-releases-fiscal-year-2024-annual-report",
+    "publisher": "US Department of Homeland Security",
+    "title": "DHS Center for Countering Human Trafficking FY2024 Annual Report (2025-08-13)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "hs_fbi_vnf",
+    "url": "https://www.fbi.gov/news/press-releases/fbi-announces-voices-not-forgotten",
+    "publisher": "FBI",
+    "title": "FBI Announces Voices Not Forgotten (2026-08-18)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "hs_vera_2026",
+    "url": "https://www.vera.org/news/ten-things-veras-ice-detention-trends-dashboard-reveals-about-ice-detention-through-march-2026",
+    "publisher": "Vera Institute of Justice",
+    "title": "Ten Things Vera's ICE Detention Trends Dashboard Reveals (through March 2026)",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "tr_fbi_program",
+    "url": "https://www.fbi.gov/investigate/counterintelligence/transnational-repression",
+    "publisher": "FBI",
+    "title": "Transnational Repression (counterintelligence program page)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "tr_fbi_phila",
+    "url": "https://www.fbi.gov/contact-us/field-offices/philadelphia/news/fbi-philadelphia-brings-awareness-to-transnational-repression",
+    "publisher": "FBI Philadelphia",
+    "title": "FBI Philadelphia Brings Awareness to Transnational Repression (2025-03-13)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "tr_fh_2025",
+    "url": "https://freedomhouse.org/article/authoritarian-collaboration-fueled-transnational-repression-2025",
+    "publisher": "Freedom House",
+    "title": "Tracking Transnational Repression in 2025 (published 2026-04-16)",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "tr_edny_34",
+    "url": "https://www.fbi.gov/contact-us/field-offices/newyork/news/thirty-four-officers-of-peoples-republic-of-china-national-police-charged-with-perpetrating-transnational-repression-scheme-targeting-us-residents",
+    "publisher": "DOJ / EDNY",
+    "title": "34 PRC National Police Officers Charged with Perpetrating Transnational Repression Scheme Targeting U.S. Residents",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "intl_wb_homicide",
+    "url": "https://api.worldbank.org/v2/country/USA;KOR;JPN;GBR;AUS;DEU;FRA;CAN;RUS;CHN;IND;ISR;WLD/indicator/VC.IHR.PSRC.P5?format=json&per_page=500&date=1999:2024",
+    "publisher": "World Bank (data source: UNODC)",
+    "title": "Intentional homicides per 100,000 — UNODC series, World Bank mirror (API extract)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "intl_ons_drugs",
+    "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsrelatedtodrugpoisoninginenglandandwales/2024registrations",
+    "publisher": "ONS",
+    "title": "Deaths related to drug poisoning in England and Wales: 2024 registrations",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "intl_aihw",
+    "url": "https://www.aihw.gov.au/reports/alcohol/alcohol-drugs-deaths",
+    "publisher": "AIHW/ABS",
+    "title": "Deaths involving alcohol and other drugs in Australia",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "intl_euda",
+    "url": "https://www.euda.europa.eu/publications/european-drug-report/2025/drug-induced-deaths_en",
+    "publisher": "EUDA",
+    "title": "European Drug Report 2025 — drug-induced deaths",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "intl_phac",
+    "url": "https://www.canada.ca/en/public-health/news/2024/12/joint-statement-from-the-co-chairs-of-the-special-advisory-committee-on-toxic-drug-poisonings--latest-national-data-on-substance-related-harms.html",
+    "publisher": "Public Health Agency of Canada",
+    "title": "Special Advisory Committee on Toxic Drug Poisonings — joint statement",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "intl_dhs_bka",
+    "url": "https://www.dhs.de/suechte/illegale-drogen/zahlen-daten-fakten/",
+    "publisher": "DHS (citing BKA)",
+    "title": "Rauschgifttote — police-registered drug deaths, Germany",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "intl_drames",
+    "url": "https://addictovigilance.fr/wp-content/uploads/2025/06/Plaquette-DRAMES-2023.pdf",
+    "publisher": "ANSM / CEIP-Addictovigilance",
+    "title": "DRAMES 2023 — deaths related to substance abuse (forensic register)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "intl_kor_drugs",
+    "url": "https://e-emj.org/journal/view.php?number=37",
+    "publisher": "Ewha Medical Journal (Statistics Korea data)",
+    "title": "Drug-induced death statistics in Korea, 2011-2021",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "intl_unodc_wdr",
+    "url": "https://idpc.net/blog/2025/06/evidence-that-cannot-be-contained-the-world-drug-report-2025-reveals-the-ongoing-failure-of-the",
+    "publisher": "UNODC WDR 2025 (via IDPC)",
+    "title": "Global drug-related deaths estimate (>450,000 in 2021)",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "intl_ncic_2024",
+    "url": "https://www.fbi.gov/file-repository/cjis/2024-ncic-missing-and-unidentified-person-statistics.pdf",
+    "publisher": "FBI CJIS",
+    "title": "2024 NCIC Missing Person and Unidentified Person Statistics",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "intl_rcmp",
+    "url": "https://canadasmissing.ca/pubs/2025/index-eng.htm",
+    "publisher": "RCMP NCMPUR",
+    "title": "Canada's Missing — Fast Fact Sheet",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "intl_afp",
+    "url": "https://www.afp.gov.au/news-centre/media-release/national-missing-persons-week-2025-forever-loved",
+    "publisher": "AFP NMPCC",
+    "title": "National Missing Persons Week 2025",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "intl_nca_press",
+    "url": "https://www.nationalworld.com/news/crime/how-many-missing-people-uk-police-data-explained-body-found-nicola-bulley-4033696",
+    "publisher": "NCA UKMPU (via press)",
+    "title": "UK missing incidents 2020/21 (~262,000) — primary NCA report unreadable this session",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "intl_interpol",
+    "url": "https://www.interpol.int/en/How-we-work/Notices/Yellow-Notices",
+    "publisher": "INTERPOL",
+    "title": "Yellow Notices — the only international missing-persons instrument",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "intl_cdc_549",
+    "url": "https://www.cdc.gov/nchs/products/databriefs/db549.htm",
+    "publisher": "CDC NCHS",
+    "title": "Drug Overdose Deaths in the United States, 2023-2024 (final)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "intl_phac_press",
+    "url": "https://globalnews.ca/news/11345931/opioid-deaths-canada-2024/",
+    "publisher": "PHAC via CCSA/press",
+    "title": "Canada 2024 apparent opioid toxicity deaths (7,150) — primary Infobase unreadable this session",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs104",
+    "url": "https://bjs.ojp.gov/content/pub/pdf/cv99.pdf",
+    "publisher": "BJS",
+    "title": "BJS",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs105",
+    "url": "https://bjs.ojp.gov/content/pub/pdf/cv10.pdf",
+    "publisher": "BJS",
+    "title": "BJS",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs106",
+    "url": "https://bjs.ojp.gov/document/cv23.pdf",
+    "publisher": "BJS",
+    "title": "BJS",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs107",
+    "url": "https://www.drugpolicyfacts.org/table/total_arrests",
+    "publisher": "FBI CIUS via DrugPolicyFacts",
+    "title": "FBI CIUS via DrugPolicyFacts",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs108",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/1997/97sec4.pdf",
+    "publisher": "FBI CIUS 1997 T29",
+    "title": "FBI CIUS 1997 T29",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs109",
+    "url": "https://archives.fbi.gov/archives/news/pressrel/press-releases/fbi-releases-2008-crime-statistics",
+    "publisher": "FBI",
+    "title": "FBI",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs110",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/persons-arrested",
+    "publisher": "FBI CIUS 2019",
+    "title": "FBI CIUS 2019",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs111",
+    "url": "https://www.justice.gov/archive/mps/strategic2001-2006/d_arrtot.htm",
+    "publisher": "DOJ archive/FBI UCR",
+    "title": "DOJ archive/FBI UCR",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_jr_ice",
+    "url": "https://journalistsresource.org/home/how-to-make-sense-of-ice-arrest-data/",
+    "publisher": "The Journalist's Resource (Harvard Shorenstein)",
+    "title": "How to make sense of ICE arrest data — administrative vs criminal arrests",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_suntimes",
+    "url": "https://chicago.suntimes.com/2026/tracker-federal-prosecutions-chicago-status-trumps-immigration-blitz-ice",
+    "publisher": "Chicago Sun-Times",
+    "title": "Tracker: every known federal prosecution tied to Operation Midway Blitz (updated 2026-08-10)",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "ice_ohss_2013",
+    "url": "https://ohss.dhs.gov/sites/default/files/2023-12/Enforcement_Actions_2013.pdf",
+    "publisher": "DHS OHSS",
+    "title": "Immigration Enforcement Actions: 2013 (Annual Flow Report)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "ice_ohss_2016",
+    "url": "https://ohss.dhs.gov/sites/default/files/2023-12/Enforcement_Actions_2016.pdf",
+    "publisher": "DHS OHSS",
+    "title": "Immigration Enforcement Actions: 2016 (Annual Flow Report)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "ice_ohss_2017",
+    "url": "https://ohss.dhs.gov/sites/default/files/2023-12/enforcement_actions_2017.pdf",
+    "publisher": "DHS OHSS",
+    "title": "Immigration Enforcement Actions: 2017 (Annual Report)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "ice_ohss_2020",
+    "url": "https://ohss.dhs.gov/sites/default/files/2023-12/2022_0131_plcy_enforcement_actions_fy2020v2.pdf",
+    "publisher": "DHS OHSS",
+    "title": "Immigration Enforcement Actions: 2020 (Annual Flow Report)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "ice_fy21",
+    "url": "https://www.ice.gov/doclib/eoy/iceAnnualReportFY2021.pdf",
+    "publisher": "ICE",
+    "title": "ICE Annual Report FY2021",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "ice_fy22",
+    "url": "https://www.ice.gov/doclib/eoy/iceAnnualReportFY2022.pdf",
+    "publisher": "ICE",
+    "title": "ICE Annual Report FY2022",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "ice_fy23",
+    "url": "https://www.ice.gov/doclib/eoy/iceAnnualReportFY2023.pdf",
+    "publisher": "ICE",
+    "title": "ICE Annual Report FY2023",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "ice_fy24",
+    "url": "https://www.ice.gov/doclib/eoy/iceAnnualReportFY2024.pdf",
+    "publisher": "ICE",
+    "title": "ICE Annual Report FY2024",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "ice_ddp_kocher",
+    "url": "https://austinkocher.substack.com/p/a-close-look-at-ice-arrest-data-from",
+    "publisher": "Deportation Data Project / Austin Kocher",
+    "title": "ICE arrest FOIA data, Jan 20-Jun 10 2025 (95,629)",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "ice_ppi_2025",
+    "url": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/",
+    "publisher": "Prison Policy Initiative",
+    "title": "ICE arrests Jan 20-Oct 15 2025 (~217,500, FOIA data)",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "ice_ddp_year1",
+    "url": "https://deportationdata.org/analysis/immigration-enforcement-first-year.html",
+    "publisher": "Deportation Data Project (UC Berkeley Law)",
+    "title": "One Year of Immigration Enforcement (4.4x baseline; street arrests 11x)",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bjs_jails_2024",
+    "url": "https://bjs.ojp.gov/library/publications/jails-report-series-2024-preliminary-data-release/web-report",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Jails Report Series: 2024 Preliminary (657,500 held; 7.9M admissions; 69% unconvicted)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bjs_prisons_2023",
+    "url": "https://bjs.ojp.gov/preliminary-data-release-prisons-2023",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Prisons 2023 Preliminary (1,254,200 year-end)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "det_ice_fy24",
+    "url": "https://www.ice.gov/doclib/eoy/iceAnnualReportFY2024.pdf",
+    "publisher": "ICE",
+    "title": "ICE FY2024 Annual Report (Figure 17: ADP FY2019-FY2024)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "det_ice_fy21",
+    "url": "https://www.ice.gov/doclib/eoy/iceAnnualReportFY2021.pdf",
+    "publisher": "ICE",
+    "title": "ICE FY2021 Annual Report (34,000 funded beds; ~75% usable)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "det_sen_fy24",
+    "url": "https://www.appropriations.senate.gov/imo/media/doc/Homeland%20Security%20FY24%20Bill%20Highlights.pdf",
+    "publisher": "US Senate Appropriations",
+    "title": "Homeland Security FY24 Bill Highlights (41,500 beds enacted)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "det_sen_fy26",
+    "url": "https://www.appropriations.senate.gov/imo/media/doc/fy26_homeland_security_conference_bill_summary.pdf",
+    "publisher": "US Senate Appropriations",
+    "title": "Homeland Security FY2026 conference bill summary (41,500 maintained)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "det_sen_fy20",
+    "url": "https://www.appropriations.senate.gov/news/minority/summary-fy-2020-homeland-security-appropriations-bill",
+    "publisher": "US Senate Appropriations",
+    "title": "FY2020 Homeland Security Appropriations summary (FY2019 enacted level)",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "det_trac_qf",
+    "url": "https://tracreports.org/immigration/quickfacts/",
+    "publisher": "TRAC Syracuse",
+    "title": "Immigration Detention Quick Facts (11 Jul 2026: 65,765; 70.6% no conviction)",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "det_trac_762",
+    "url": "https://tracreports.org/reports/762/",
+    "publisher": "TRAC Syracuse",
+    "title": "ICE Contractual Capacity and Number Detained: Overcapacity vs Overcrowding",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "det_trac_767",
+    "url": "https://tracreports.org/reports/767/",
+    "publisher": "TRAC Syracuse",
+    "title": "Taking Stock: Detention and Removals (16 Nov 2025: 65,135; 73.6% no conviction)",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "det_kocher_fy26",
+    "url": "https://austinkocher.substack.com/p/92-of-ice-detention-growth-in-fy",
+    "publisher": "Austin Kocher (Syracuse)",
+    "title": "92% of ICE Detention Growth in FY2026 Driven by Immigrants with No Criminal Convictions",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "det_kocher_record",
+    "url": "https://austinkocher.substack.com/p/ices-delayed-detention-data-is-out",
+    "publisher": "Austin Kocher (Syracuse)",
+    "title": "ICE's Delayed Detention Data is Out, Two Record Highs (70,766 on 24 Jan 2026)",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "det_cbs_73k",
+    "url": "https://www.cbsnews.com/news/ices-detainee-population-record-high-of-73000/",
+    "publisher": "CBS News",
+    "title": "ICE detainee population reaches record high of 73,000 (16 Jan 2026)",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "det_mpi",
+    "url": "https://www.migrationpolicy.org/article/trump-immigrant-detention",
+    "publisher": "Migration Policy Institute",
+    "title": "US Immigrant Detention Grows to Record Heights",
+    "evidence_tier": "B",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_eurostat_iccs",
+    "publisher": "Eurostat (joint Eurostat–UNODC data collection)",
+    "title": "crim_off_cat — police-recorded offences, ICCS05012 'Burglary of private residential premises', per 100 000 inhabitants",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/crim_off_cat/default/table?lang=en",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_eurostat_news",
+    "publisher": "Eurostat",
+    "title": "Burglary in the EU (Eurostat news release, 2026-08-03)",
+    "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260803-1",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_unodc_gone",
+    "publisher": "UNODC",
+    "title": "UNODC data portal — burglary is no longer offered as a retrievable indicator (checked 2026-08-21)",
+    "url": "https://dataunodc.un.org/",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_fbi_srs2019",
+    "publisher": "FBI Uniform Crime Reporting Program",
+    "title": "Crime in the United States 2019, Table 1 (Summary Reporting System — final year of the SRS basis)",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/tables/table-1",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_fbi_cde24",
+    "publisher": "FBI Crime Data Explorer",
+    "title": "UCR Summary of Reported Crimes in the Nation, 2024 (NIBRS-based national estimates)",
+    "url": "https://cde.ucr.cjis.gov/LATEST/resources/reports/UCR%20Summary%20of%20Reported%20Crimes%20in%20the%20Nation%202024.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_fbi_quick24",
+    "publisher": "FBI Crime Data Explorer",
+    "title": "Reported Crimes in the Nation — Quick Stats (clearance rates, 2024)",
+    "url": "https://cde.ucr.cjis.gov/LATEST/resources/reports/Reported%20Crimes%20in%20the%20Nation%20Quick%20Stats.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_bjs_cv24",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Criminal Victimization, 2024 (NCVS) — Tables 2 and 4",
+    "url": "https://bjs.ojp.gov/document/cv24.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_bjs_cv10",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Criminal Victimization, 2010 (NCVS) — Tables 7 and 10",
+    "url": "https://bjs.ojp.gov/content/pub/pdf/cv10.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_bjs_cv99",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Criminal Victimization 1999 (NCVS) — pre-2017 'household burglary' basis",
+    "url": "https://bjs.ojp.gov/content/pub/pdf/cv99.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_statcan_be02",
+    "publisher": "Statistics Canada",
+    "title": "Juristat: Breaking and Entering in Canada, 2002 — 'home invasion' is not captured by the UCR Survey",
+    "url": "https://www150.statcan.gc.ca/n1/pub/85-002-x/85-002-x2004005-eng.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_statcan_2025",
+    "publisher": "Statistics Canada",
+    "title": "Police-reported crime statistics, 2025 (The Daily) — breaking and entering",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260722/dq260722a-eng.htm",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_csa_vic",
+    "publisher": "Crime Statistics Agency Victoria",
+    "title": "Spotlight: burglary / break and enter offences recorded in Victoria",
+    "url": "https://www.crimestatistics.vic.gov.au/spotlight-burglarybreak-and-enter-offences-recorded-in-victoria",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_abs_cvs",
+    "publisher": "Australian Bureau of Statistics",
+    "title": "Crime Victimisation, Australia, 2024-25 — household break-in prevalence",
+    "url": "https://www.abs.gov.au/statistics/people/crime-and-justice/crime-victimisation/latest-release",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_abs_rcv",
+    "publisher": "Australian Bureau of Statistics",
+    "title": "Recorded Crime — Victims, 2024 (Unlawful Entry With Intent; no national rate published)",
+    "url": "https://www.abs.gov.au/statistics/people/crime-and-justice/recorded-crime-victims/latest-release",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_ons_burglary",
+    "publisher": "Office for National Statistics",
+    "title": "Overview of burglary and other household theft, England and Wales (CSEW)",
+    "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/overviewofburglaryandotherhouseholdtheft/englandandwales",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_ons_cew25",
+    "publisher": "Office for National Statistics",
+    "title": "Crime in England and Wales, year ending December 2025",
+    "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/crimeinenglandandwales/yearendingdecember2025",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_npa_jp",
+    "publisher": "National Police Agency (Japan)",
+    "title": "令和6年の犯罪情勢 (Crime Situation in 2024) — 侵入犯罪 intrusion crime",
+    "url": "https://www.npa.go.jp/publications/statistics/kikakubunseki/r6_jyosei.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_anzsoc",
+    "publisher": "Australian Bureau of Statistics",
+    "title": "ANZSOC 2023, group 061 — 'home invasion' appears only as an INCLUSION TERM under 0611 Aggravated burglary of a dwelling and 0612 Non-aggravated burglary of a dwelling",
+    "url": "https://www.abs.gov.au/statistics/classifications/australian-and-new-zealand-standard-offence-classification-anzsoc/2023/06/061",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_micr_manual",
+    "publisher": "Michigan State Police",
+    "title": "Michigan Incident Crime Reporting (MICR) Manual — burglary codes 22001/22002/22003; no home-invasion code",
+    "url": "https://www.michigan.gov/msp/-/media/Project/Websites/msp/micr-assets/MICR-Manual_1130.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_micr_2022",
+    "publisher": "Michigan State Police",
+    "title": "Crime in Michigan 2022 (MICR annual report) — burglary reported under 22001/22002/22003",
+    "url": "https://www.michigan.gov/msp/-/media/Project/Websites/msp/micr-assets/2022/MICR-Annual-Report-2022.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_ons_athome",
+    "publisher": "Office for National Statistics",
+    "title": "Overview of burglary and other household theft (20 July 2017) — someone was at home in over half of domestic burglaries where the offender gained entry",
+    "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/overviewofburglaryandotherhouseholdtheft/englandandwales",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "bg_csa_vic_stale",
+    "publisher": "Crime Statistics Agency Victoria",
+    "title": "Recorded offences, year ending March 2026 — burglary/break and enter published; no home-invasion or aggravated-burglary count in the release text",
+    "url": "https://www.crimestatistics.vic.gov.au/media-centre/media-releases/media-release-adult-offending-increases-as-youth-offending-decreases",
+    "evidence_tier": "A",
+    "accessed": "2026-08-21",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_bjs_p23st",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Prisoners in 2023 – Statistical Tables (Sept 2025, NCJ 310197) — the most recent in the series",
+    "url": "https://bjs.ojp.gov/document/p23st.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_bjs_p19",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Prisoners in 2019 (Oct 2020, NCJ 255115) — carries the revised 2009–2012 counts",
+    "url": "https://bjs.ojp.gov/content/pub/pdf/p19.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_bjs_p09",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Prisoners in 2009 (Dec 2010, NCJ 231675) — the 2000–2008 annual series",
+    "url": "https://bjs.ojp.gov/content/pub/pdf/p09.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_bjs_p00",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Prisoners in 2000 (Aug 2001, NCJ 188207) — the 1999 count",
+    "url": "https://bjs.ojp.gov/content/pub/pdf/p00.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_bjs_p20st",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Prisoners in 2020 – Statistical Tables (Dec 2021, NCJ 302776) — states the COVID mechanism",
+    "url": "https://bjs.ojp.gov/content/pub/pdf/p20st.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_bjs_p16",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Prisoners in 2016 (Jan 2018, NCJ 251149), Table 16 — the LAST prison capacity table BJS published",
+    "url": "https://bjs.ojp.gov/content/pub/pdf/p16.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_bjs_ji23st",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Jail Inmates in 2023 – Statistical Tables (Apr 2025, NCJ 309965)",
+    "url": "https://bjs.ojp.gov/document/ji23st.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_bjs_ji19",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Jail Inmates in 2019 (Mar 2021, NCJ 255608) — 2019 is a Census of Jails year, not a survey year",
+    "url": "https://bjs.ojp.gov/content/pub/pdf/ji19.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_bjs_jim09",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Jail Inmates at Midyear 2009 – Statistical Tables (Jun 2010, NCJ 230122)",
+    "url": "https://bjs.ojp.gov/content/pub/pdf/jim09st.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_bjs_pjim00",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Prison and Jail Inmates at Midyear 2000 (Mar 2001, NCJ 185989)",
+    "url": "https://bjs.ojp.gov/content/pub/pdf/pjim00.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_bjs_pdrj24",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Jails Report Series: 2024 Preliminary Data Release (Dec 2025) — PRELIMINARY, may be revised",
+    "url": "https://bjs.ojp.gov/library/publications/jails-report-series-2024-preliminary-data-release/web-report",
+    "evidence_tier": "B",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_bjs_cpus23",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Correctional Populations in the United States, 2023 – Statistical Tables (Sept 2025, NCJ 310413)",
+    "url": "https://bjs.ojp.gov/document/cpus23st.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_bjs_cpus13",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Correctional Populations in the United States, 2013, Appendix Table 5 (Dec 2014, NCJ 248479)",
+    "url": "https://bjs.ojp.gov/content/pub/pdf/cpus13.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_bjs_facilities19",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Census of State and Federal Adult Correctional Facilities, 2019 (Nov 2021, NCJ 301366)",
+    "url": "https://bjs.ojp.gov/content/pub/pdf/csfacf19st.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_bjs_forthcoming",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "BJS forthcoming publications — 'Prisoners in 2024 – Statistical Tables' listed for Q3 2026, unpublished as of 22 Aug 2026",
+    "url": "https://bjs.ojp.gov/library/publications/forthcoming",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_wpb_rank",
+    "publisher": "World Prison Brief (Institute for Crime & Justice Policy Research, Birkbeck)",
+    "title": "Highest to Lowest — Prison Population Rate (the ranking page carries NO reference-date column)",
+    "url": "https://www.prisonstudies.org/highest-to-lowest/prison_population_rate",
+    "evidence_tier": "B",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_wpb_us",
+    "publisher": "World Prison Brief",
+    "title": "United States of America — 542 per 100,000 (2023); total built from jails, state and federal prisons",
+    "url": "https://www.prisonstudies.org/country/united-states-america",
+    "evidence_tier": "B",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_wpb_china",
+    "publisher": "World Prison Brief",
+    "title": "China — sentenced prisoners in Ministry of Justice prisons only; WPB's own estimate is 'at least 2,340,000'",
+    "url": "https://www.prisonstudies.org/country/china",
+    "evidence_tier": "B",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_wppl",
+    "publisher": "Institute for Crime & Justice Policy Research",
+    "title": "World Prison Population List — 'The information does not relate to the same date'",
+    "url": "https://www.prisonstudies.org/sites/default/files/publications/wppl_10.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_space_i",
+    "publisher": "Council of Europe / University of Lausanne",
+    "title": "SPACE I 2025 key findings — one uniform reference date (31 Jan 2025), 100% response across 51 prison administrations",
+    "url": "https://wp.unil.ch/space/files/2026/06/260626_key-findings-space-i_prisons-europe-2025.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_unodc_prisons",
+    "publisher": "UNODC",
+    "title": "UNODC data portal, prison capacity and persons held — LIVE, but the legacy dataunodc.un.org/dp-prisons URLs now redirect to the site root",
+    "url": "https://data.unodc.org/datareport/prison-capacity",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "inc_vera_2024",
+    "publisher": "Vera Institute of Justice",
+    "title": "People in Jail and Prison in 2024 — 40 states increased prison populations between fall 2022 and spring 2024",
+    "url": "https://vera-institute.files.svdcdn.com/production/downloads/publications/People-in-Jail-and-Prison-in-2024-Full-Reportpdf.pdf",
+    "evidence_tier": "B",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "an_apms_trends",
+    "publisher": "Schizophrenia Research (Shoham, Cooper, Lewis, Bebbington, McManus)",
+    "title": "Temporal trends in psychotic symptoms: repeated cross-sectional surveys of the population in England 2000–14",
+    "url": "https://openaccess.city.ac.uk/id/eprint/25570/8/APMS%20Psychotic%20Symptoms%20Temporal%20trends%206.8.20.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "an_apms_2324",
+    "publisher": "NHS England / Adult Psychiatric Morbidity Survey",
+    "title": "Survey of Mental Health and Wellbeing, England 2023/24 — psychotic disorder chapter (the PSQ screen-positive rate is no longer reported as an outcome)",
+    "url": "https://digital.nhs.uk/data-and-information/publications/statistical/adult-psychiatric-morbidity-survey/survey-of-mental-health-and-wellbeing-england-2023-24/psychotic-disorder",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "an_psq",
+    "publisher": "Bebbington & Nayani",
+    "title": "Psychosis Screening Questionnaire — the instrument, unchanged across APMS waves",
+    "url": "https://nccred.org.au/uploads/documents/Psychosis-screening-questionnaire.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "an_chapman_2018",
+    "publisher": "Chapman University Survey of American Fears",
+    "title": "Paranormal America 2018 — 'Places can be haunted by spirits'",
+    "url": "http://blogs.chapman.edu/wilkinson/2018/10/16/paranormal-america-2018/",
+    "evidence_tier": "B",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "an_chapman_2021",
+    "publisher": "Chapman University Survey of American Fears",
+    "title": "Wave 7, fielded 5–15 January 2021 — the last paranormal battery published",
+    "url": "https://blogs.chapman.edu/wilkinson/2021/10/14/government-corruption-fear-for-loved-ones-civil-unrest-top/",
+    "evidence_tier": "B",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "an_gallup_2025",
+    "publisher": "Gallup",
+    "title": "Paranormal phenomena met with skepticism (fieldwork 1–18 May 2025) — 'largely unchanged' since 2001",
+    "url": "https://news.gallup.com/poll/692738/paranormal-phenomena-met-skepticism.aspx",
+    "evidence_tier": "B",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "an_gallup_2005",
+    "publisher": "Gallup",
+    "title": "Three in four Americans believe in the paranormal (1990, 2001, 2005 series)",
+    "url": "https://news.gallup.com/poll/16915/three-four-americans-believe-paranormal.aspx",
+    "evidence_tier": "B",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "an_pew_mode",
+    "publisher": "Pew Research Center",
+    "title": "Spiritual experiences (2023) — Pew states its telephone-era and online-era readings may not be comparable",
+    "url": "https://www.pewresearch.org/religion/2023/12/07/spiritual-experiences/",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "an_yougov_2025",
+    "publisher": "YouGov",
+    "title": "Most Americans say they have experienced at least one paranormal event (Oct 2025) — 60%, down from 67% in 2022",
+    "url": "https://yougov.com/en-us/articles/53258-most-americans-say-they-have-experienced-at-least-one-paranormal-event",
+    "evidence_tier": "B",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "an_aaro_fy25",
+    "publisher": "All-domain Anomaly Resolution Office (AARO)",
+    "title": "FY2025 Consolidated Annual Report on UAP",
+    "url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "an_aaro_fy24",
+    "publisher": "All-domain Anomaly Resolution Office (AARO)",
+    "title": "FY2024 Consolidated Annual Report on UAP — records the FAA now reporting weekly",
+    "url": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "an_odni_2022",
+    "publisher": "Office of the Director of National Intelligence",
+    "title": "2022 Annual Report on UAP — attributes the increase partly to 'reduced stigma surrounding UAP reporting'",
+    "url": "https://archive.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "an_nsduh_methods",
+    "publisher": "SAMHSA / NCBI",
+    "title": "NSDUH instrument comparison — no hallucination or voice-hearing items in the questions asked of all respondents",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK390286/",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "an_sapien_2025",
+    "publisher": "Sapien Labs, Global Mind Project",
+    "title": "Global Mind Health in 2025 — an anonymous annual instrument whose 47 items include 'Hallucinations' and 'Sense of being detached from reality'",
+    "url": "https://sapienlabs.org/wp-content/uploads/2026/02/Global-Mind-Health-in-2025-Report.pdf",
+    "evidence_tier": "C",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "an_yrbs_trend",
+    "publisher": "CDC, Youth Risk Behavior Survey",
+    "title": "YRBS Data Summary & Trends Report 2013–2023 — anonymous, in-school, unchanged wording",
+    "url": "https://www.cdc.gov/yrbs/dstr/pdf/YRBS-2023-Data-Summary-Trend-Report.pdf",
+    "evidence_tier": "A",
+    "accessed": "2026-08-22",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs_ddp_ppi_2025",
+    "url": "https://www.prisonpolicy.org/blog/2025/10/21/ice-arrests/",
+    "publisher": "Prison Policy Initiative (from Deportation Data Project ICE FOIA files)",
+    "title": "ICE arrests, 20 January - 15 October 2025",
+    "evidence_tier": "B",
+    "accessed": "2026-09-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs_ap_ice_jul2026",
+    "url": "https://apnews.com/article/border-immigration-customs-enforcement-data-statistics-f07f56a34bda225e5afa356781ac1740",
+    "publisher": "Associated Press",
+    "title": "ICE arrests jumped to nearly 50,000 in July, the highest monthly total of Trump's second term (25 Aug 2026)",
+    "evidence_tier": "B",
+    "accessed": "2026-09-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs_ohss_hist",
+    "url": "https://ohss.dhs.gov/topics/immigration/immigration-enforcement/annual-flow-report/historical",
+    "publisher": "DHS Office of Homeland Security Statistics",
+    "title": "Immigration Enforcement Actions annual flow reports (historical index)",
+    "evidence_tier": "A",
+    "accessed": "2026-09-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs_fbi_dv_2026",
+    "url": "https://www.fbi.gov/news/press-releases/fbi-releases-domestic-violence-special-report",
+    "publisher": "FBI Uniform Crime Reporting Program",
+    "title": "Domestic Relationships and Violent Crimes, 2020-2024 (special report, 12 Feb 2026)",
+    "evidence_tier": "A",
+    "accessed": "2026-09-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs_fbi_vc_2025",
+    "url": "https://www.fbi.gov/news/press-releases/violent-crime-falls-at-historic-rate-new-fbi-data-show",
+    "publisher": "FBI",
+    "title": "Violent Crime Falls at Historic Rate, New FBI Data Show (24 Aug 2026)",
+    "evidence_tier": "A",
+    "accessed": "2026-09-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "cs_cdc_od_2024",
+    "url": "https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm",
+    "publisher": "CDC/NCHS",
+    "title": "Provisional drug overdose death counts",
+    "evidence_tier": "A",
+    "accessed": "2026-09-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_cius1995",
+    "publisher": "FBI Uniform Crime Reporting Program",
+    "evidence_tier": "A",
+    "title": "Crime in the United States 1995, Section IV, Table 29 (Total Estimated Arrests)",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/1995/95sec4.pdf",
+    "accessed": "2026-10-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_cius1996",
+    "publisher": "FBI Uniform Crime Reporting Program",
+    "evidence_tier": "A",
+    "title": "Crime in the United States 1996, Section IV, Table 29 (Total Estimated Arrests)",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/1996/96sec4.pdf",
+    "accessed": "2026-10-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_cius1998",
+    "publisher": "FBI Uniform Crime Reporting Program",
+    "evidence_tier": "A",
+    "title": "Crime in the United States 1998, Section IV, Table 29 (Total Estimated Arrests)",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/1998/98sec4.pdf",
+    "accessed": "2026-10-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_cius1999",
+    "publisher": "FBI Uniform Crime Reporting Program",
+    "evidence_tier": "A",
+    "title": "Crime in the United States 1999, Section IV, Table 29 (Estimated Arrests)",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/1999/99sec4.pdf",
+    "accessed": "2026-10-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_cius2000",
+    "publisher": "FBI Uniform Crime Reporting Program",
+    "evidence_tier": "A",
+    "title": "Crime in the United States 2000, Section IV, Table 29 (Estimated Arrests)",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/2000/00sec4.pdf",
+    "accessed": "2026-10-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_cius2001",
+    "publisher": "FBI Uniform Crime Reporting Program",
+    "evidence_tier": "A",
+    "title": "Crime in the United States 2001, Section IV, Table 29 (Estimated Arrests)",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/2001/01sec4.pdf",
+    "accessed": "2026-10-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_cius2002",
+    "publisher": "FBI Uniform Crime Reporting Program",
+    "evidence_tier": "A",
+    "title": "Crime in the United States 2002, Section IV, Table 29 (Estimated Arrests)",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/2002/02sec4.pdf",
+    "accessed": "2026-10-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_cius2003",
+    "publisher": "FBI Uniform Crime Reporting Program",
+    "evidence_tier": "A",
+    "title": "Crime in the United States 2003, Section IV, Table 29 (Estimated Number of Arrests)",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/2003/03sec4.pdf",
+    "accessed": "2026-10-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_cius2010",
+    "publisher": "FBI Uniform Crime Reporting Program",
+    "evidence_tier": "A",
+    "title": "Crime in the United States 2010, Table 29 (Estimated Number of Arrests)",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/2010/crime-in-the-u.s.-2010/tables/10tbl29.xls",
+    "accessed": "2026-10-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_cius2011",
+    "publisher": "FBI Uniform Crime Reporting Program",
+    "evidence_tier": "A",
+    "title": "Crime in the United States 2011, Table 29 (Estimated Number of Arrests)",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/2011/crime-in-the-u.s.-2011/tables/table-29",
+    "accessed": "2026-10-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_cius2012",
+    "publisher": "FBI Uniform Crime Reporting Program",
+    "evidence_tier": "A",
+    "title": "Crime in the United States 2012, Table 29 (Estimated Number of Arrests)",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/2012/crime-in-the-u.s.-2012/tables/29tabledatadecpdf/table_29_estimated_number_of_arrests_united_states_2012.xls",
+    "accessed": "2026-10-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_cius2013",
+    "publisher": "FBI Uniform Crime Reporting Program",
+    "evidence_tier": "A",
+    "title": "Crime in the United States 2013, Table 29 (Estimated Number of Arrests)",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/tables/table-29/table_29_estimated_number_of_arrests_united_states_2013.xls",
+    "accessed": "2026-10-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_cius2014",
+    "publisher": "FBI Uniform Crime Reporting Program",
+    "evidence_tier": "A",
+    "title": "Crime in the United States 2014, Table 29 (Estimated Number of Arrests)",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/2014/crime-in-the-u.s.-2014/tables/table-29",
+    "accessed": "2026-10-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_cius2015",
+    "publisher": "FBI Uniform Crime Reporting Program",
+    "evidence_tier": "A",
+    "title": "Crime in the United States 2015, Table 29 (Estimated Number of Arrests)",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/2015/crime-in-the-u.s.-2015/tables/table-29",
+    "accessed": "2026-10-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_cius2016",
+    "publisher": "FBI Uniform Crime Reporting Program",
+    "evidence_tier": "A",
+    "title": "Crime in the United States 2016, Table 18 (Estimated Number of Arrests; the 2016 edition renumbered its tables)",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/tables/table-18",
+    "accessed": "2026-10-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_cius2017",
+    "publisher": "FBI Uniform Crime Reporting Program",
+    "evidence_tier": "A",
+    "title": "Crime in the United States 2017, Table 29 (Estimated Number of Arrests)",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017/tables/table-29",
+    "accessed": "2026-10-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_cius2018",
+    "publisher": "FBI Uniform Crime Reporting Program",
+    "evidence_tier": "A",
+    "title": "Crime in the United States 2018, Table 29 (Estimated Number of Arrests)",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/topic-pages/tables/table-29",
+    "accessed": "2026-10-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_cius2019",
+    "publisher": "FBI Uniform Crime Reporting Program",
+    "evidence_tier": "A",
+    "title": "Crime in the United States 2019, Table 29 (Estimated Number of Arrests)",
+    "url": "https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/tables/table-29",
+    "accessed": "2026-10-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_fbi2020",
+    "publisher": "FBI",
+    "evidence_tier": "A",
+    "title": "FBI Releases 2020 Crime Statistics (press release: 'an estimated 7.6 million arrests, excluding those for traffic violations')",
+    "url": "https://www.fbi.gov/news/press-releases/fbi-releases-2020-crime-statistics",
+    "accessed": "2026-10-01",
+    "archived_url": null
+  },
+  {
+    "source_id": "ar_bjs_drugs",
+    "publisher": "Bureau of Justice Statistics",
+    "evidence_tier": "A",
+    "title": "Drugs and Crime Facts: Total estimated drug law violation arrests in the United States, 1980-2007 (archived; source FBI, Crime in the United States, annual)",
+    "url": "https://bjs.ojp.gov/drugs-and-crime-facts/enforcement/arrtot-table",
+    "accessed": "2026-10-01",
+    "archived_url": null
+  }
+]

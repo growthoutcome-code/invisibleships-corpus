@@ -1,0 +1,100 @@
+id,geography_id,instrument,instrument_type,status,enacted_on,applies_from,domains_affected,neural_data,localisation,source_id
+00cc7467-120d-4ee4-80ac-d43eccc2e5f9,EU,AI Act (Reg 2024/1689),regulation,amended,2024-06-13,2024-08-01,{all},f,f,aiact-eurlex
+0185f4a8-6eed-4693-8071-94c9964a39d5,US,SB 1223 (CCPA neural-data amendment),statute,amended,2024-09-28,2025-01-01,"{neurotech-bci,health}",t,f,ca-sb1223
+03b9a7e0-7180-409d-8a7b-ed6f25300b41,QA,Personal Data Privacy Protection Law No. 13 of 2016,statute,in-force,2016-11-13,,{all},f,f,qa-pdppl
+03d7f587-8266-4775-ad0c-b5b16860e3ee,DK,Danish government Microsoft exit / digital sovereignty,soft-law,in-force,2025-06-01,,{public-admin},f,t,dk-record
+03d9bd0b-0ac0-454a-9444-fbbcf4bc151b,DK,Datatilsynet Google Workspace/Chromebooks ruling,court,enacted,2024-01-01,,"{education,public-admin}",f,t,dk-datatilsynet
+0539fe7f-8c79-4efc-bd40-2d6a4fe6a048,EU,Data Governance Act (Reg 2022/868),regulation,in-force,2022-05-30,2023-09-24,{public-admin},f,f,dga-eurlex
+05d86650-aebb-4fc4-8456-e15f90e08355,AE,Federal Decree-Law 45/2021 (PDPL),statute,enacted,2021-09-20,,{all},f,f,ae-pdpl
+0b910027-0722-499d-8eb6-0c3026646fe4,GB,CCS G-Cloud framework (G-Cloud 14),soft-law,in-force,2024-11-01,,{public-admin},f,f,uk-gcloud-ccs
+0b9513ea-ba83-4ee8-a268-2164f4b445be,US,EO 14117 + DOJ Data Security Rule (bulk sensitive data),regulation,in-force,2024-02-28,2025-04-08,"{genomics-biotech,health,defence-intel,digital-identity}",f,t,fr-eo14117
+14180638-a7d7-42c2-be12-13fb918fca08,SA,CST Cloud Computing Regulatory Framework (CCRF),regulation,in-force,,,{public-admin},f,t,sa-ccrf
+14475669-b230-47d0-9112-ebf224641486,US,EO Ensuring a National Policy Framework for AI (state-law preemption),regulation,in-force,2025-12-11,2025-12-11,{all},f,f,fr-eo-ai-framework
+151187f0-e57f-40f2-93be-cd7635188de7,CL,Supreme Court ruling Girardi v. Emotiv (Rol 105.065-2023),court,in-force,2023-08-09,2023-08-09,{neurotech-bci},t,f,cl-scj-emotiv
+16ed00c7-68a1-425f-aa79-19daca5e18c0,EU,Digital COVID Certificate Regulation (Reg 2021/953),regulation,sunset,2021-06-14,2021-07-01,"{pandemic-response,health}",f,f,dcc-eurlex
+18256dc1-4601-46f6-a41b-e1f6b462a91c,GB,NCSC Cloud Security Principles (14),soft-law,in-force,2016-01-01,,{public-admin},f,f,uk-ncsc-cloud
+20064ae9-9d9a-40b8-ad11-848307d9f989,EU,Cyber Resilience Act (Reg 2024/2847),regulation,in-force,2024-11-23,2027-12-11,{all},f,f,cra-eurlex
+20146c9b-32bf-4d23-bdea-e4238d8c1ed2,US,EO 14179 (Removing Barriers to American Leadership in AI),regulation,in-force,2025-01-23,2025-01-23,{all},f,f,fr-eo14179
+23840f3e-1f42-4849-a469-8f4d618f2c0c,INTL,UNESCO Recommendation on the Ethics of Neurotechnology,soft-law,enacted,2025-11-11,2025-11-11,"{neurotech-bci,health,neuro-forensics}",t,f,unesco-neurotech
+28668e32-45de-4997-be78-bc53a5aaee1a,KE,Data Protection (General) Regulations 2021,regulation,in-force,2021-12-31,2022-02-11,{all},f,t,ke-genregs
+3037b749-1e1e-4d88-b101-f84616719da2,US,CLOUD Act,statute,in-force,2018-03-23,2018-03-23,"{law-enforcement,public-admin}",f,f,doj-cloud-act
+30d74f39-43da-4e9f-b894-1ffc778b8264,NG,Nigeria Data Protection Act 2023,statute,in-force,2023-06-14,,{all},f,f,ng-ndpa
+31cee20a-f7c0-4642-840e-105cff81203f,SA,NDMO Data Management & Personal Data Protection Standards,regulation,in-force,,,{public-admin},f,t,sa-ndmo
+32ffccb3-1b2a-4079-8d30-71189d8ff79f,CN,Personal Information Protection Law (PIPL),statute,in-force,2021-08-20,2021-11-01,{all},f,t,cn-pipl
+372a2061-395a-4abe-9b71-78cc47122370,EU,Data Act (Reg 2023/2854),regulation,in-force,2023-12-13,2025-09-12,{public-admin},f,f,dataact-eurlex
+3783ec24-f680-410f-a2a4-8f02b15c347f,PL,National Cybersecurity System Act amendment (NIS2/KSC),statute,enacted,2025-01-01,,{all},f,f,pl-osborneclarke
+39ba1cd9-84a9-418f-b308-5cf6c8d779ec,EU,European Health Data Space (Reg 2025/327),regulation,in-force,2025-03-11,2027-03-26,"{health,genomics-biotech}",f,t,ehds-eurlex
+3b75cd66-9e1e-4c76-9d31-d115e502ae48,MX,INAI abolition + ATDT digital-sovereignty reform,statute,in-force,2025-03-20,,{public-admin},f,f,mx-atdt
+3f16c080-e462-4cb6-8c73-6ac96f145a86,AU,ISM/IRAP PROTECTED assessment,certification,in-force,,,"{public-admin,defence-intel}",f,f,au-irap
+3f279a24-7e56-4eb8-87ee-4803a77550d6,US,DoD Cloud Computing SRG Impact Levels (IL2/IL4/IL5/IL6),regulation,in-force,2015-01-13,,"{defence-intel,public-admin}",f,t,dod-cloud-srg
+3ff0686c-5a64-4793-a245-ac25f2aed358,MX,Federal Law on Protection of Personal Data (LFPDPPP 2025),statute,in-force,2025-03-20,2025-03-21,{all},f,f,mx-lfpdppp
+418ca376-8675-43f0-8fee-d0dea9223f59,ES,Esquema Nacional de Seguridad (RD 311/2022),statute,in-force,2022-05-03,2022-05-05,{public-admin},f,t,es-ens-boe
+43378835-8df1-40f5-a515-70771bdef1b0,US,FedRAMP,certification,in-force,2011-12-08,2012-06-06,"{public-admin,defence-intel}",f,f,fedramp-gov
+46c69764-c2f6-47cd-a56d-7aec0893a095,US,IRS Publication 1075 (Federal Tax Information safeguards),regulation,in-force,2021-11-01,,{public-admin},f,t,irs-pub1075
+493d4db8-a555-4be4-b634-67eeb424cf67,IL,Project Nimbus tender data-in-country requirement,soft-law,in-force,2021-04-01,,"{public-admin,defence-intel}",f,t,il-nimbus
+4ab46413-14a6-4441-85a5-dc3c2f41b5fe,CN,"MLPS 2.0 (dengbao 2.0, GB/T 22239-2019)",certification,in-force,2019-05-13,2019-12-01,{all},f,t,cn-mlps
+4e76ee55-7578-424e-aae1-c7a3a47a8a0b,SE,Swedish Tax Agency M365/Teams risk memorandum,soft-law,enacted,2024-01-01,,"{public-admin,tax-revenue}",f,t,se-cleura
+52677b19-07aa-408e-80a6-dccb0fbbe0fd,GB,ICO AI & Biometrics Strategy + neurodata citizens jury,soft-law,proposed,2026-03-01,,"{neurotech-bci,digital-identity}",t,f,uk-ico-aibio
+52b173f0-7282-49f8-9c45-cd9426b98df2,US-CO,Colorado Privacy Act (SB21-190),statute,in-force,2021-07-07,2023-07-01,{all},f,f,co-cpa-coag
+552a72d5-2ef2-4bec-b599-56539776bb19,CA,Privacy Act (federal public sector),statute,in-force,1985-06-28,,{public-admin},f,f,ca-privacy-act
+5f649f6d-3b19-47c0-b3e7-fdfee7f2ef17,EU,EU Cloud Certification Scheme (EUCS),certification,proposed,,,{public-admin},f,t,eucs-iss
+618f9cee-923f-43f2-a6c1-9331dea4e898,US,FISMA (Federal Information Security Modernization Act),statute,in-force,2014-12-18,2015-01-01,"{public-admin,defence-intel}",f,f,nist-fisma
+621dc041-117a-4262-ad65-e7d90af5f0fc,RU,Decree/Ukaz No. 166 (foreign-software ban for CII),regulation,in-force,2022-03-30,2025-01-01,"{public-admin,defence-intel}",f,t,ru-decree166
+62f725f0-e39a-4c87-b8fe-d4c780bc6920,AE,TDRA/Digital Government Cloud Policy & Data Classification,soft-law,in-force,,,{public-admin},f,t,ae-tdra
+6353b126-0943-4de1-9f5c-af308a2a31a4,NL,Dutch government cloud policy (Rijkscloudbeleid) reversal,soft-law,amended,2026-01-01,,{public-admin},f,t,nl-clingendael
+639a56a6-d7a7-4059-9223-ddc3d9a8b2ce,BR,LGPD (Law No. 13.709/2018),statute,in-force,2018-08-14,2020-09-18,{all},f,f,br-lgpd
+6a554244-d966-4fb2-b055-8fe45d9e44e3,CN,Cybersecurity Law,statute,in-force,2016-11-07,2017-06-01,{all},f,t,cn-csl
+6bd4b07b-2123-432e-996e-c27a2c2a30ff,AU,Privacy and Other Legislation Amendment Act 2024,statute,amended,2024-12-10,,{all},f,f,au-privacy
+6c88840c-6b8a-4835-b2c3-4c87190afde7,FR,Cloud au centre doctrine (PM circular),soft-law,in-force,2021-07-05,,{public-admin},f,t,cloudaucentre-numerique
+6e46f009-6a4e-493e-9f4c-92a6f0796ccd,SA,Personal Data Protection Law (PDPL RD M/19) + Implementing Regs,statute,in-force,2021-09-24,2024-09-14,{all},f,t,sa-pdpl
+6e9d2f63-36a2-433a-a71b-b82fec8b91e6,KE,Data Protection Act No. 24 of 2019,statute,in-force,2019-11-08,2019-11-25,{all},f,t,ke-dpa
+7037e7b1-1dd3-4aec-8561-2813e2348077,AU,Top Secret Cloud (AWS) sovereignty conditions,soft-law,in-force,2024-07-04,,"{defence-intel,public-admin}",f,t,au-tscloud
+728e3462-84c7-4f60-9f06-4397df54dbc6,CA,PIPEDA,statute,in-force,2000-04-13,2004-01-01,{all},f,f,ca-pipeda
+7397e6e9-f169-4ef5-b2fb-727dd8ed6032,AE,DIFC Data Protection Law No. 5 of 2020,statute,in-force,2020-06-01,2020-07-01,{all},f,f,ae-difc
+7446a5b5-3671-4ac3-ae71-b6fb9b09220b,CL,Law 21.383 (constitutional neurorights amendment),statute,in-force,2021-10-25,2021-10-25,"{neurotech-bci,health}",t,f,cl-law-21383
+7db3c268-317b-4caf-9d0c-b61abf473e6f,NZ,Privacy Act 2020,statute,in-force,2020-06-30,2020-12-01,{all},f,f,nz-privacy
+8063ca9b-88d1-4169-8ec4-e293b53bf4a3,NG,NITDA National Digital Infrastructure Assurance Framework,certification,enacted,2026-08-04,,{public-admin},f,t,ng-ndiaf
+824201b1-3f66-4a5d-b099-65e646a15431,US,FedRAMP 20x,certification,in-force,2025-03-24,2025-03-24,{public-admin},f,f,fedramp-20x-gsa
+8321fd18-73e6-43ac-9b87-198690ca1678,AU,Hosting Certification Framework (Certified Strategic/Assured),certification,in-force,2021-03-01,,{public-admin},f,t,au-hcf
+85f34cb0-03e6-411b-9e86-4cb69d29eb24,US-CO,HB24-1058 (biological & neural data amendment to CPA),statute,amended,2024-04-17,2024-08-06,"{neurotech-bci,genomics-biotech,health}",t,f,co-hb1058
+862c15db-1883-493b-b472-6f37e0e3a4fa,BR,Federal Data Governance / Nuvem de Governo sovereign-cloud posture,soft-law,in-force,,,{public-admin},f,f,br-nuvem
+87a1ed61-75a4-4eff-bb7d-81f3fdee12ce,DE,BSI C3A sovereignty criteria,certification,enacted,2025-01-01,,{public-admin},f,t,bsic3a-heise
+8bb8f10a-e956-4aaa-89d8-783f682b98ef,US,StateRAMP,certification,in-force,2021-03-01,2021-03-01,{public-admin},f,f,stateramp-org
+8ea6a020-5d6e-467d-9497-4fd4b889d53e,CA,Quebec Law 25,statute,in-force,2021-09-22,2023-09-22,{all},f,t,ca-quebec-law25
+94c2fc27-a2b8-4e34-a663-44ec0fb286af,GB,Data (Use and Access) Act 2025,statute,in-force,2025-06-19,2025-08-01,{all},f,f,uk-duaa-legislation
+94e17d1f-34d3-407a-8dce-1686af4cf01e,EU,"Digital Omnibus (AI Act amendment, high-risk deferral to Dec 2027)",regulation,enacted,2026-07-24,2026-07-24,{all},f,f,omnibus-fpf
+950c00db-d2df-4d4e-9d8a-dd12ea1abf16,US,California Consumer Privacy Act / CPRA,statute,amended,2018-06-28,2020-01-01,{all},f,f,cppa-ccpa
+967692b0-636b-4ca6-ae5c-dd017262c041,GB,Government Security Classifications (OFFICIAL/SECRET/TOP SECRET),soft-law,in-force,2023-01-01,,"{defence-intel,public-admin}",f,f,uk-classifications-gov
+9c53f60c-d806-4e91-bf3b-a74fd89b27d3,CA,GC Direction on Secure Use of Commercial Cloud (SPIN 2017-2) / Protected B,regulation,in-force,2017-11-01,,"{public-admin,defence-intel}",f,t,ca-gc-cloud-spin
+9ebf38ae-ade6-4510-9cb4-922536d95958,RW,Law No. 058/2021 on Protection of Personal Data and Privacy,statute,in-force,2021-10-13,2023-10-15,{all},f,t,rw-dpp
+a1fcc637-f709-4be8-bc81-d3a294f277d0,US,EO 14110 (Safe Secure Trustworthy AI),regulation,sunset,2023-10-30,2023-10-30,{all},f,f,fr-eo14110
+a24d6d96-5136-475e-88c1-f86e27b0282d,RU,Federal Law 152-FZ (Personal Data via 242-FZ localisation),statute,in-force,2006-07-27,2015-09-01,{all},f,t,ru-152fz
+a622bc43-f5f6-4e19-9f56-2bd85e23b255,IL,Protection of Privacy Law 1981 (Amendment 13),statute,in-force,2024-08-05,2025-08-14,{all},f,f,il-ppl
+a659526f-5371-4c00-be4e-aeda66a4b6bd,EG,Personal Data Protection Law No. 151 of 2020 + Exec Regs 2025,statute,in-force,2020-07-13,,{all},f,f,eg-pdpl
+a6b3762c-a2c0-48cc-b1bd-cdcc44ab5275,ZA,National Policy on Data and Cloud 2024,soft-law,enacted,2024-05-31,,{public-admin},f,t,za-cloudpolicy
+ad6598ab-2ac7-4e53-9593-39d0855b314c,EU,DORA (Reg 2022/2554),regulation,in-force,2022-12-14,2025-01-17,{public-admin},f,f,dora-eurlex
+b148552d-245b-4e98-ab36-6bbd3fd2bb79,EU,EU-US Data Privacy Framework adequacy decision,regulation,in-force,2023-07-10,2023-07-10,{all},f,f,dpf-ec
+b3085522-319d-476c-b2c1-1c151f12a433,GB,UK GDPR + Data Protection Act 2018,statute,in-force,2018-05-23,2018-05-25,{all},f,f,uk-dpa-legislation
+b62da34d-f1cb-4654-a0ca-72ac5c6a68c1,ZA,Protection of Personal Information Act (POPIA),statute,in-force,2013-11-26,2021-07-01,{all},f,f,za-popia
+b798582d-13ac-472e-9505-60fae4e43232,AE,Federal Law No. 2 of 2019 (ICT in Health Fields),statute,in-force,2019-02-06,,{health},f,t,ae-health
+b7f0b9ea-4723-4e32-8ea6-3ab9672a7bdf,US,FBI CJIS Security Policy,regulation,in-force,2024-12-01,2024-12-01,{law-enforcement},f,t,fbi-cjis
+b8136a0c-66b0-4528-94b9-9c691e50a70d,AE,ADGM Data Protection Regulations 2021,regulation,in-force,2021-02-14,2021-02-14,{all},f,f,ae-adgm
+b8b4d6d3-64eb-4f26-b582-b0659685dc47,NG,NITDA National Cloud Computing Guideline (Sovereign Cloud),regulation,enacted,2026-08-04,2026-10-01,{public-admin},f,t,ng-nitda-cloud
+ba82319b-72b0-4740-a239-aaedec9e86bc,CN,Data Security Law,statute,in-force,2021-06-10,2021-09-01,{all},f,t,cn-dsl
+babc533d-7f59-4241-b04b-f4a13111dfc4,CA,British Columbia FIPPA (data-residency; 2021 Bill 22 amendment),statute,amended,1996-11-01,2021-11-25,{public-admin},f,t,ca-bc-fippa
+bf8b6f9a-c716-44b3-8914-6cbfaf3bdd27,NZ,Cloud First Policy + Cloud Jurisdictional Risk guidance,soft-law,in-force,,,{public-admin},f,f,nz-cloudfirst
+c3b9e6e4-f09e-4c0c-98ab-64b86e2da9ff,FR,SecNumCloud (ANSSI qualification v3.2),certification,in-force,2022-03-01,,{public-admin},f,t,secnumcloud-anssi
+c58bddd3-7257-4cf0-a870-512df26d0769,RU,Sovereign Internet Law (90-FZ),statute,in-force,2019-05-01,2019-11-01,{all},f,t,ru-sovinternet
+c5c4cdad-8be0-4919-8aa8-bdcdc23d726f,EU,Cloud Sovereignty Framework (SEAL levels),soft-law,enacted,2025-11-01,2025-11-01,{public-admin},f,t,csf-ec
+c667acbf-f5a0-43a8-96bc-91ba91a74575,US,Montana SB 163 (Genetic & Neurotechnology Data Privacy),statute,amended,2025-04-18,2025-10-01,"{genomics-biotech,neurotech-bci}",t,f,mt-sb163
+c8031eb1-d344-410d-b69c-798385b7bfe8,EU,NIS2 Directive (Dir 2022/2555),regulation,in-force,2022-12-14,2024-10-18,{all},f,f,nis2-eurlex
+c9e0f6f5-dad1-4457-aa7c-d07bcbe9aeb5,RU,FSTEC/FSB certification requirements,certification,in-force,,,{defence-intel},f,t,ru-fstec
+dcbc1a08-07af-4de9-bcd3-ef877af26294,EU,1+ Million Genomes initiative,soft-law,in-force,2018-04-10,,"{genomics-biotech,health}",f,f,1mg-ec
+dd9ccd00-dcd3-4cc7-97f6-3b8a8127e8b6,NL,Telecom (Undesirable Control) Act block - Kyndryl/Solvinity,court,enacted,2026-05-25,2026-05-25,{public-admin},f,t,nl-jonesday
+e1242b73-3b5e-42ae-9bfd-2f589f81b437,US,OBBBA 10-year state AI regulation moratorium (stripped),statute,proposed,,,{all},f,f,senate-ai-moratorium
+e541c0a9-e5a0-40b3-9aec-e74a7877cd2f,NG,CBN Data Localisation Circular (payment/financial data),regulation,in-force,2026-06-25,,{tax-revenue},f,t,ng-cbn
+e60c2541-c238-415e-861d-774b2b4a8355,DE,BSI C5 (Cloud Computing Compliance Criteria),certification,in-force,2020-01-01,,{public-admin},f,f,bsic5-bsi
+e70ba1b5-90f7-44ed-9234-db1398ebbd24,INTL,OECD Recommendation on Responsible Innovation in Neurotechnology,soft-law,in-force,2019-12-11,2019-12-11,"{neurotech-bci,health}",t,f,oecd-neurotech
+e98c6a4b-8842-4f1c-8742-2e328735487a,CN,Xinchuang IT localization mandate,soft-law,in-force,,,"{public-admin,defence-intel}",f,t,cn-xinchuang
+fa4cce2d-d276-495f-9b32-c096daa9d98a,EU,General Data Protection Regulation (Reg 2016/679),regulation,in-force,2016-04-27,2018-05-25,{all},f,f,gdpr-eurlex
+fb9aec1a-2dd3-4ae9-82ac-45f356fbb8e7,QA,Qatar Central Bank financial-data hosting rules,regulation,in-force,,,{tax-revenue},f,t,qa-qcb

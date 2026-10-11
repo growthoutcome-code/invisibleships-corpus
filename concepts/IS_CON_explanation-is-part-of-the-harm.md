@@ -1,0 +1,67 @@
+---
+id: IS-CON-EXPLANATION-IS-PART-OF-THE-HARM
+title: Concept — Does the explanation itself do harm?
+collection: concepts
+doc_type: concept
+basis: documented
+origin: author
+theme: coercion
+audience: [household, clinicians]
+topics: [proposed-solutions, speculation, obedience-coercion, law-government]
+verification: unverified
+series: [hearing-something-no-one-else-hears, harassment-and-coercion]
+generated_by: scripts/export_concepts_md.mjs
+word_count: 695
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+---
+# Does the explanation itself do harm?
+
+*Independent research compiled from public records for informational purposes only. Not legal, medical, or investment advice. Every concept states its BASIS, its ORIGIN, its THEME and the readers it was written for. The basis tiers are ranked, and never blended inside a single concept: a reader who accepts only `documented` entries can still rely on every one of those and discard the rest without unpicking anything. `testimony` is a dated first-person report, verified by nobody, and says so on its own face wherever it appears. Causes are reported as attributed, never asserted. See `meta/IS_META_terms.md`.*
+
+**Basis: documented.** A source, ruling or official record supports this directly.  
+**Origin: author.** The author's own observation, from experience.  
+**Theme: Coercion and control.**  
+**Written for: Households and individuals · Clinicians.**
+
+**Not independently verified.**
+
+**Series: Hearing something no one else hears, part 5 of 5.** 1. [“Only I can hear it” is not, by itself, unusual](IS_CON_only-you-can-hear-it.md) · 2. [Can you record it?](IS_CON_can-you-record-it.md) · 3. [Your house is not haunted](IS_CON_what-produces-the-feeling.md) · 4. [Are Denver citizens subject to acoustic weapons?](IS_CON_denver-acoustic-weapons.md) · 5. Does the explanation itself do harm? (this concept)
+
+**Series: Harassment and coercion, part 7 of 8.** 1. [Organised covert harassment of individuals is established fact](IS_CON_organised-harassment-is-fact.md) · 2. [Zersetzung's methods are crimes](IS_CON_zersetzung-methods-are-crimes.md) · 3. [We're keeping you to ourselves](IS_CON_ruin-first-then-rescue.md) · 4. [An attack to force acknowledgment](IS_CON_attack-to-force-acknowledgment.md) · 5. [What happens to everyone around a target?](IS_CON_everyone-around-a-target.md) · 6. [Are people made into intelligence assets without knowing it?](IS_CON_made-into-assets-unknowing.md) · 7. Does the explanation itself do harm? (this concept) · 8. [Are Denver citizens subject to acoustic weapons?](IS_CON_denver-acoustic-weapons.md)
+
+An unexplained experience arrives without a label. Whatever attaches to it next does real work: it decides what the person does, who they trust, and whether they seek help. Claiming supernatural or superhuman authority in order to secure compliance is among the oldest documented methods of control. Spiritualist mediums worked bereaved families with cold reading and staged effects, and the Fox sisters, who began the movement, confessed the fraud in 1888. Faith healers have been prosecuted for it. Research on coercive groups records claimed transcendent authority as a standard instrument for overriding a member's own judgment, because an authority that cannot be checked cannot be argued with. The public-safety consequence is separate from whether any given experience has an external cause. A person who attributes what is happening to them to spirits, to extraterrestrials, or to any agency beyond reach will not pursue the remedies that exist for causes within reach: a physician, a lawyer, a police report, a decibel meter, a technical measurement. The explanation forecloses the response, and it does so whether it was handed to the person or arrived at alone. The same logic applies to any framing that places a cause beyond investigation, including the framings on this site. A concept that names this risk and exempts itself from it has not understood it.
+
+## Evidence
+
+- Spiritualist fraud as a documented industry — the Fox sisters' 1888 confession, and a century of mediums exposed by investigators
+- Faith-healing fraud prosecutions in US courts
+- Coercive-group research records claimed transcendent authority as an instrument for overriding member judgment
+- Health-services literature: causal attribution predicts help-seeking, and attributing a cause to an agency beyond reach correlates with delayed or absent care
+
+## What this does not answer
+
+- This does not establish the cause of any particular person's experience.
+- It does not claim that anyone has presented themselves falsely to anyone.
+- It cannot distinguish a false explanation supplied by another party from one a person reached alone. Both foreclose the same responses.
+
+## References
+
+- [If nobody's house is haunted, what produces the feeling?](/concepts#what-produces-the-feeling)
+- [False disclosure](/glossary/false-disclosure)
+- [Are Denver citizens subject to acoustic weapons?](/concepts#denver-acoustic-weapons)
+
+*The glossary entry records Greer's hypothesis as his hypothesis and is not independent evidence. The Denver concept is linked because it names a measurable test, which is the practical opposite of an explanation that forecloses one.*
+
+## Scope
+
+This concept describes a documented method of control and a documented effect on help-seeking. It establishes no mechanism, no actor, and makes no claim about the origin of any individual's experience.
+
+---
+
+## Critical Disclaimer on Transcripts and Accusations
+
+Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification.
+
+The full Critical Disclaimer, copyright and terms are in meta/IS_META_terms.md, and at https://www.invisibleships.com/disclaimer.

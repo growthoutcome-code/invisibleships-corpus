@@ -1,0 +1,57 @@
+---
+id: IS-CON-PRESCRIBING-IS-NOT-PREVALENCE
+title: Concept — Prescribing is not a measure of illness
+collection: concepts
+doc_type: concept
+basis: documented
+origin: ai
+theme: record
+audience: [clinicians]
+topics: [health-effects]
+verification: verified
+series: [public-health-numbers, how-to-read-this-archive]
+generated_by: scripts/export_concepts_md.mjs
+word_count: 556
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+---
+# Prescribing is not a measure of illness
+
+*Independent research compiled from public records for informational purposes only. Not legal, medical, or investment advice. Every concept states its BASIS, its ORIGIN, its THEME and the readers it was written for. The basis tiers are ranked, and never blended inside a single concept: a reader who accepts only `documented` entries can still rely on every one of those and discard the rest without unpicking anything. `testimony` is a dated first-person report, verified by nobody, and says so on its own face wherever it appears. Causes are reported as attributed, never asserted. See `meta/IS_META_terms.md`.*
+
+**Basis: documented.** A source, ruling or official record supports this directly.  
+**Origin: ai.** Derived by AI analysis of the dataset.  
+**Theme: The record and its limits.**  
+**Written for: Clinicians.**
+
+**Series: Public health: what the numbers show, part 4 of 5.** 1. [The world's suicide rate fell. The United States' rose.](IS_CON_us-rose-against-the-trend.md) · 2. [The fentanyl reversal](IS_CON_the-fentanyl-reversal.md) · 3. [The numbers under the numbers](IS_CON_low-number-may-mean-low-counting.md) · 4. Prescribing is not a measure of illness (this concept) · 5. [Are children harmed by wireless exposure?](IS_CON_children-wearables-and-rf.md)
+
+**Series: How to read this archive, part 6 of 8.** 1. [Next to each other is not because of each other](IS_CON_co-occurrence-is-not-cause.md) · 2. [We cannot prove which came first, the law or the system](IS_CON_sequence-cannot-be-proven.md) · 3. [“Official” is not the same as “independent”](IS_CON_official-is-not-independent.md) · 4. [The headline spending figure is not what governments spent](IS_CON_headline-spending-is-not-spending.md) · 5. [The numbers under the numbers](IS_CON_low-number-may-mean-low-counting.md) · 6. Prescribing is not a measure of illness (this concept) · 7. [Why isn't any of this in the news?](IS_CON_why-isnt-this-in-the-news.md) · 8. [There is no column for you](IS_CON_no-column-for-you.md)
+
+It is tempting to read prescription volume as a thermometer for how ill a population is. The record does not support that, in either direction. In England, antidepressant items rose 50% in nine years while hypnotic and anxiolytic items FELL 16% over exactly the same period, from the same prescribers under the same system. In the United States, antipsychotic use among adults rose from 1.9% to 3.0%, while among children and adolescents it fell, 1.3% to 1.1%. And where a national registry lets diagnosis be counted directly, Denmark's new schizophrenia diagnoses went slightly down, 1.8 to 1.6 per 10,000, across eighteen years in which antipsychotic prescribing rose almost everywhere it was measured. Prescribing moves for its own reasons — guidance, capacity, recognition, duration of treatment, the licensing of new drugs, deliberate deprescribing campaigns. Sometimes it tracks illness. Here it demonstrably moves in opposite directions at once.
+
+## Evidence
+
+- England FY2015/16 → FY2024/25: antidepressants 61.9M → 92.6M items (+50%)
+- Same period, opposite direction: hypnotics/anxiolytics 15.9M → 13.4M (−16%)
+- US 2006 → 2023: antipsychotic use, adults 1.9% → 3.0%; youth 1.3% → 1.1%
+- Denmark 2000 → 2018: new schizophrenia diagnoses 1.8 → 1.6 per 10,000
+
+## What this does not answer
+
+- Diagnosed depression in US adults did rise over a shorter window — 13.5% to 17.8% currently diagnosed, 2017–2023, self-reported. Whether that is more illness, more recognition, or more willingness to say so is not settled by this data.
+
+## References
+
+- [The prescribing and diagnosis series](/data)
+
+*Every figure above is a row in the Public Health indicator table, with its source.*
+
+---
+
+## Critical Disclaimer on Transcripts and Accusations
+
+Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification.
+
+The full Critical Disclaimer, copyright and terms are in meta/IS_META_terms.md, and at https://www.invisibleships.com/disclaimer.

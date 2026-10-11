@@ -1,0 +1,45 @@
+---
+id: IS-CON-FINDINGS-DONT-STOP-DEPLOYMENT
+title: Concept — A regulator finding does not stop a deployment
+collection: concepts
+doc_type: concept
+basis: documented
+origin: ai
+theme: procurement
+audience: [policy]
+topics: [surveillance, law-government]
+verification: verified
+series: [government-cloud-contracts, who-answers-for-harm]
+generated_by: scripts/export_concepts_md.mjs
+word_count: 362
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+---
+# A regulator finding does not stop a deployment
+
+*Independent research compiled from public records for informational purposes only. Not legal, medical, or investment advice. Every concept states its BASIS, its ORIGIN, its THEME and the readers it was written for. The basis tiers are ranked, and never blended inside a single concept: a reader who accepts only `documented` entries can still rely on every one of those and discard the rest without unpicking anything. `testimony` is a dated first-person report, verified by nobody, and says so on its own face wherever it appears. Causes are reported as attributed, never asserted. See `meta/IS_META_terms.md`.*
+
+**Basis: documented.** A source, ruling or official record supports this directly.  
+**Origin: ai.** Derived by AI analysis of the dataset.  
+**Theme: Procurement and accountability.**  
+**Written for: Legislators and regulators.**
+
+**Series: Government cloud: what the contracts show, part 4 of 7.** 1. [The headline spending figure is not what governments spent](IS_CON_headline-spending-is-not-spending.md) · 2. [A law saying “keep it local” doesn’t keep it local](IS_CON_local-law-does-not-mean-local.md) · 3. [Systems built for an emergency get switched off after it](IS_CON_emergency-systems-withdrawn.md) · 4. A regulator finding does not stop a deployment (this concept) · 5. [Fined in Europe, hired in America](IS_CON_fined-in-europe-hired-in-america.md) · 6. [Accountability isn't wired to deployment, even in the schema](IS_CON_accountability-not-wired.md) · 7. [There is no column for you](IS_CON_no-column-for-you.md)
+
+**Series: Who answers for harm, part 1 of 7.** 1. A regulator finding does not stop a deployment (this concept) · 2. [Fined in Europe, hired in America](IS_CON_fined-in-europe-hired-in-america.md) · 3. [Have private contractors killed civilians and gone free?](IS_CON_contractors-killed-and-freed.md) · 4. [Zersetzung's methods are crimes](IS_CON_zersetzung-methods-are-crimes.md) · 5. [Who profits from a body?](IS_CON_who-profits-from-a-body.md) · 6. [Accountability isn't wired to deployment, even in the schema](IS_CON_accountability-not-wired.md) · 7. [An Incredible Opportunity](IS_CON_who-will-say-it-first.md)
+
+Data-protection authorities in seven countries have each found against the same company for collecting people's biometric data without consent. The operation continues. A ruling, on this record, is a cost rather than a stop.
+
+## Evidence
+
+- Clearview AI: ICO (UK), CNIL (France), Garante (Italy), HDPA (Greece), AP (Netherlands), OAIC (Australia), OPC (Canada)
+- Additional US actions: In re Clearview AI (BIPA, MDL 2967), ACLU v Clearview AI
+
+---
+
+## Critical Disclaimer on Transcripts and Accusations
+
+Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification.
+
+The full Critical Disclaimer, copyright and terms are in meta/IS_META_terms.md, and at https://www.invisibleships.com/disclaimer.

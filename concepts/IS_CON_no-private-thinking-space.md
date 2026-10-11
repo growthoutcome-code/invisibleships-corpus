@@ -1,0 +1,65 @@
+---
+id: IS-CON-NO-PRIVATE-THINKING-SPACE
+title: Concept — Does being watched change what people let themselves think?
+collection: concepts
+doc_type: concept
+basis: documented
+origin: author
+theme: surveillance
+audience: [press]
+topics: [technology, surveillance, law-government]
+verification: unverified
+series: [surveillance-in-everyday-life]
+generated_by: scripts/export_concepts_md.mjs
+word_count: 720
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+---
+# Does being watched change what people let themselves think?
+
+*Independent research compiled from public records for informational purposes only. Not legal, medical, or investment advice. Every concept states its BASIS, its ORIGIN, its THEME and the readers it was written for. The basis tiers are ranked, and never blended inside a single concept: a reader who accepts only `documented` entries can still rely on every one of those and discard the rest without unpicking anything. `testimony` is a dated first-person report, verified by nobody, and says so on its own face wherever it appears. Causes are reported as attributed, never asserted. See `meta/IS_META_terms.md`.*
+
+**Basis: documented.** A source, ruling or official record supports this directly.  
+**Origin: author.** The author's own observation, from experience.  
+**Theme: Surveillance and the person.**  
+**Written for: Press and researchers.**
+
+**Not independently verified.**
+
+**Series: Surveillance in everyday life, part 3 of 7.** 1. [Why does the camera on your door not answer to you?](IS_CON_whose-eyesight-is-it.md) · 2. [Who could refuse a system that saved their child?](IS_CON_prevention-as-the-product.md) · 3. Does being watched change what people let themselves think? (this concept) · 4. [How protected is your medical information?](IS_CON_how-protected-is-your-medical-record.md) · 5. [What are children subject to?](IS_CON_what-children-are-subject-to.md) · 6. [What happens to everyone around a target?](IS_CON_everyone-around-a-target.md) · 7. [Are people made into intelligence assets without knowing it?](IS_CON_made-into-assets-unknowing.md)
+
+Amnesty International's 2023 report Automated Apartheid documented facial-recognition systems, Red Wolf and Blue Wolf among them, used to control Palestinian movement in the occupied territories, with residents describing repeated identification at checkpoints as a condition of ordinary life. Palestinians interviewed described the effect in consistent and non-technical terms: there was no space left in which to think privately. That effect is measurable, and it has been measured in the United States. Jonathon Penney, writing in the Berkeley Technology Law Journal in 2016, examined Wikipedia traffic to privacy-sensitive articles before and after June 2013, when the NSA and PRISM disclosures became public. He found a statistically significant immediate decline, with evidence that it persisted. People stopped looking things up. Nobody instructed them to. The migration of such tools is documented too. Julian Go, in the American Journal of Sociology, traces how instruments and doctrines developed for imperial control returned to domestic American policing; cell-site simulators reached local departments from military origins by the same route. The pattern is old enough to carry a name in the literature. So the question worth asking is not whether America has some particular system. It is narrower and answerable: given that capabilities move from conflict territory to domestic policing, and that surveillance measurably changes what people do, what has already arrived here, and what has it already changed?
+
+## Evidence
+
+- Amnesty International, Automated Apartheid (2023): Red Wolf and Blue Wolf facial recognition used to control Palestinian movement in the OPT
+- Penney, 'Chilling Effects: Online Surveillance and Wikipedia Use', Berkeley Technology Law Journal 31:1 (2016) — statistically significant immediate decline in privacy-sensitive article traffic after June 2013, with persistence
+- Go, 'The Imperial Origins of American Policing', American Journal of Sociology 125:5 — instruments of imperial control returning to domestic policing
+- Cell-site simulators reached local US police departments from military origins
+
+## What this does not answer
+
+- Naming a documented migration does not establish that any specific system has migrated. It establishes that the route exists and has been used before.
+- Penney measured behaviour, not thought. What a person looks up is observable; what they think is not, and no study here claims otherwise.
+- Nothing in this record establishes any capability to observe conversation directly, in any territory.
+
+## References
+
+- [Automated Apartheid — Amnesty International](https://www.amnesty.org/en/latest/news/2023/05/israel-opt-israeli-authorities-are-using-facial-recognition-technology-to-entrench-apartheid/)
+- [Chilling Effects: Online Surveillance and Wikipedia Use — Penney (2016)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2769645)
+- [The Imperial Origins of American Policing — American Journal of Sociology](https://www.journals.uchicago.edu/doi/10.1086/708464)
+
+*Each source is cited for its own finding. Amnesty documents one territory, Penney measures one population's behaviour, and Go describes a historical route. None of the three corroborates either of the others, and together they do not establish a present-day American system.*
+
+## Scope
+
+This concept reports published research and human-rights documentation. It does not establish that any system documented in one territory operates in another, nor that any capability exists to observe thought or conversation directly.
+
+---
+
+## Critical Disclaimer on Transcripts and Accusations
+
+Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification.
+
+The full Critical Disclaimer, copyright and terms are in meta/IS_META_terms.md, and at https://www.invisibleships.com/disclaimer.

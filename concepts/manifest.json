@@ -1,0 +1,28 @@
+{
+ "name": "Invisible Ships \u2014 Core Concepts",
+ "generated": "2026-10-11",
+ "count": 51,
+ "overview_files": [
+  "IS_CON_00_findings.md",
+  "IS_CON_00_not-established.md",
+  "IS_CON_00_start-here.md"
+ ],
+ "source": "lib/concepts.ts, exported by scripts/export_concepts_md.mjs",
+ "basis_legend": {
+  "documented": "a source, ruling or official record supports it directly",
+  "structural": "it follows from what the dataset does or does not contain",
+  "pattern": "an observation drawn from experience, offered as an observation",
+  "testimony": "a dated first-person report of what the author experienced or was told, verified by nobody"
+ },
+ "axes": {
+  "basis": "how much weight the entry carries \u2014 see basis_legend",
+  "origin": "who produced it \u2014 see origin_legend",
+  "theme": "what it is about; seven values, in the frontmatter of every concept",
+  "audience": "who it was written for; five values, and most concepts carry more than one"
+ },
+ "origin_legend": {
+  "ai": "derived by AI analysis of the dataset",
+  "author": "the author's own observation, from experience"
+ },
+ "reading_rule": "The basis tiers are ranked and never blended inside a single concept. A reader who accepts only `documented` entries can rely on every one of those and discard the rest without unpicking anything."
+}

@@ -1,0 +1,464 @@
+{
+  "title": "US arrests: the machine peaked in 1997",
+  "unit": "Estimated arrests per year, millions (FBI; excludes traffic)",
+  "note": "US arrests peaked in 1997 at 15.28 million \u2014 a fact most readers do not know \u2014 and 2024 is 51% below that. Drug arrests peaked separately in 2006 (1.89M) and remain the largest single category. Constant across the whole era: 82\u201384% of all arrests are for lesser, non-index offences. Years with no published figure are left as gaps and the points are shown; dotted stretches are years that are not Tier A. The sweeping operations in the register above \u2014 the World Cup's 905 arrests against HSI's 2,545 for all of FY2024 \u2014 sit inside these annual millions, which is the scale a headline arrest number should be read against.",
+  "publisher": "FBI CIUS/CDE; Council on Criminal Justice corroborating",
+  "tier": "A",
+  "series": [
+    {
+      "name": "All arrests",
+      "emphasis": true,
+      "basis_short": "FBI estimated arrests, all offences, excluding traffic",
+      "publisher": "FBI (CIUS/CDE series, consistent vintage)",
+      "tier": "A",
+      "points": [
+        {
+          "year": 1980,
+          "value": 10441000,
+          "tier": "B",
+          "note": ""
+        },
+        {
+          "year": 1995,
+          "value": 15119800,
+          "tier": "A"
+        },
+        {
+          "year": 1996,
+          "value": 15168100,
+          "tier": "A"
+        },
+        {
+          "year": 1997,
+          "value": 15284300,
+          "tier": "A"
+        },
+        {
+          "year": 1998,
+          "value": 14528300,
+          "tier": "A"
+        },
+        {
+          "year": 1999,
+          "value": 14031070,
+          "tier": "A"
+        },
+        {
+          "year": 2000,
+          "value": 13980297,
+          "tier": "A"
+        },
+        {
+          "year": 2001,
+          "value": 13699254,
+          "tier": "A"
+        },
+        {
+          "year": 2002,
+          "value": 13741438,
+          "tier": "A"
+        },
+        {
+          "year": 2003,
+          "value": 13639479,
+          "tier": "A"
+        },
+        {
+          "year": 2008,
+          "value": 14005615,
+          "tier": "A"
+        },
+        {
+          "year": 2010,
+          "value": 13120947,
+          "tier": "A"
+        },
+        {
+          "year": 2011,
+          "value": 12408899,
+          "tier": "A"
+        },
+        {
+          "year": 2012,
+          "value": 12196959,
+          "tier": "A"
+        },
+        {
+          "year": 2013,
+          "value": 11302102,
+          "tier": "A"
+        },
+        {
+          "year": 2014,
+          "value": 11205833,
+          "tier": "A"
+        },
+        {
+          "year": 2015,
+          "value": 10797088,
+          "tier": "A"
+        },
+        {
+          "year": 2016,
+          "value": 10662252,
+          "tier": "A"
+        },
+        {
+          "year": 2017,
+          "value": 10554985,
+          "tier": "A"
+        },
+        {
+          "year": 2018,
+          "value": 10310960,
+          "tier": "A"
+        },
+        {
+          "year": 2019,
+          "value": 10085207,
+          "tier": "A"
+        },
+        {
+          "year": 2020,
+          "value": 7600000,
+          "tier": "A"
+        },
+        {
+          "year": 2024,
+          "value": 7522824,
+          "tier": "A"
+        }
+      ],
+      "caveats": [
+        "Each year from that year's own FBI Crime in the United States, Table 29 (Table 18 in 2016), 1995-2019 \u2014 never mixed with the BJS 1980-2009 series, which uses different weights and yields about 11.6M for 1997.",
+        "2004-2007 and 2009 are not drawn: those editions could not be read from the FBI's own pages. 2008 is the FBI's release. Nothing is filled in between.",
+        "2020 is the FBI's release figure, '7.6 million', rounded as published.",
+        "The line breaks after 2020. 2021 has no national estimate, and 2024 is a NIBRS-based estimate (Reported Crimes in the Nation, 2024) \u2014 a different basis from the years before.",
+        "An arrest is an enforcement action, not a conviction; 82-84% of arrests across this whole period are for lesser (Part II) offences."
+      ],
+      "unit": "estimated criminal arrests per calendar year",
+      "break_after": 2020
+    },
+    {
+      "name": "Drug arrests",
+      "emphasis": false,
+      "basis_short": "FBI estimated drug-abuse violation arrests",
+      "publisher": "FBI (CIUS/CDE); DOJ archive for 1980",
+      "tier": "A",
+      "points": [
+        {
+          "year": 1980,
+          "value": 580900,
+          "tier": "A",
+          "note": ""
+        },
+        {
+          "year": 1995,
+          "value": 1476100,
+          "tier": "A"
+        },
+        {
+          "year": 1996,
+          "value": 1506200,
+          "tier": "A"
+        },
+        {
+          "year": 1997,
+          "value": 1583600,
+          "tier": "A"
+        },
+        {
+          "year": 1998,
+          "value": 1559100,
+          "tier": "A"
+        },
+        {
+          "year": 1999,
+          "value": 1532200,
+          "tier": "A"
+        },
+        {
+          "year": 2000,
+          "value": 1579566,
+          "tier": "A"
+        },
+        {
+          "year": 2001,
+          "value": 1586902,
+          "tier": "A"
+        },
+        {
+          "year": 2002,
+          "value": 1538813,
+          "tier": "A"
+        },
+        {
+          "year": 2003,
+          "value": 1678192,
+          "tier": "A"
+        },
+        {
+          "year": 2004,
+          "value": 1745700,
+          "tier": "A"
+        },
+        {
+          "year": 2005,
+          "value": 1846300,
+          "tier": "A"
+        },
+        {
+          "year": 2006,
+          "value": 1889800,
+          "tier": "A"
+        },
+        {
+          "year": 2007,
+          "value": 1841200,
+          "tier": "A"
+        },
+        {
+          "year": 2010,
+          "value": 1638846,
+          "tier": "A"
+        },
+        {
+          "year": 2011,
+          "value": 1531251,
+          "tier": "A"
+        },
+        {
+          "year": 2012,
+          "value": 1552432,
+          "tier": "A"
+        },
+        {
+          "year": 2013,
+          "value": 1501043,
+          "tier": "A"
+        },
+        {
+          "year": 2014,
+          "value": 1561231,
+          "tier": "A"
+        },
+        {
+          "year": 2015,
+          "value": 1488707,
+          "tier": "A"
+        },
+        {
+          "year": 2016,
+          "value": 1572579,
+          "tier": "A"
+        },
+        {
+          "year": 2017,
+          "value": 1632921,
+          "tier": "A"
+        },
+        {
+          "year": 2018,
+          "value": 1654282,
+          "tier": "A"
+        },
+        {
+          "year": 2019,
+          "value": 1558862,
+          "tier": "A"
+        },
+        {
+          "year": 2024,
+          "value": 822488,
+          "tier": "A"
+        }
+      ],
+      "caveats": [
+        "Each year from that year's own FBI Table 29 (Table 18 in 2016). 2004-2007 are BJS's reproduction of the same FBI tables, rounded to hundreds.",
+        "Peaked in 2006 at about 1.89 million (1,889,800 in BJS's reproduction of the FBI table; 1,889,810 in third-party compilations of it). 2024 (822,488) is still the largest single arrest category.",
+        "2008, 2009, 2020 and 2021 are not drawn: no figure could be read from the FBI's own pages. The line breaks before 2024, which is a NIBRS-based estimate."
+      ],
+      "unit": "estimated drug-abuse violation arrests per calendar year",
+      "break_after": 2020
+    },
+    {
+      "name": "Civil immigration arrests (ICE)",
+      "emphasis": false,
+      "basis_short": "ICE ERO administrative arrests \u2014 civil immigration violations, federal fiscal year",
+      "publisher": "DHS OHSS annual flow reports (FY2011-2020); ICE annual reports (FY2021-2024)",
+      "tier": "A",
+      "unit": "administrative arrests per federal fiscal year (Oct-Sep)",
+      "points": [
+        {
+          "year": 2011,
+          "value": 322093,
+          "tier": "A"
+        },
+        {
+          "year": 2012,
+          "value": 290622,
+          "tier": "A"
+        },
+        {
+          "year": 2013,
+          "value": 229698,
+          "tier": "A"
+        },
+        {
+          "year": 2014,
+          "value": 181719,
+          "tier": "A"
+        },
+        {
+          "year": 2015,
+          "value": 117983,
+          "tier": "A"
+        },
+        {
+          "year": 2016,
+          "value": 110104,
+          "tier": "A"
+        },
+        {
+          "year": 2017,
+          "value": 143470,
+          "tier": "A"
+        },
+        {
+          "year": 2018,
+          "value": 158581,
+          "tier": "A"
+        },
+        {
+          "year": 2019,
+          "value": 143099,
+          "tier": "A"
+        },
+        {
+          "year": 2020,
+          "value": 103603,
+          "tier": "A"
+        },
+        {
+          "year": 2021,
+          "value": 74082,
+          "tier": "A"
+        },
+        {
+          "year": 2022,
+          "value": 142750,
+          "tier": "A"
+        },
+        {
+          "year": 2023,
+          "value": 170590,
+          "tier": "A"
+        },
+        {
+          "year": 2024,
+          "value": 113431,
+          "tier": "A"
+        },
+        {
+          "year": 2025,
+          "value": 217500,
+          "tier": "B",
+          "note": "20 January - 15 October 2025, from ICE FOIA files via the Deportation Data Project. NOT an official fiscal-year total: no FY2025 figure has been published, and this window overshoots the fiscal year by 15 days. Drawn dotted for that reason."
+        }
+      ],
+      "caveats": [
+        "CIVIL arrests under immigration law, adjudicated by immigration judges \u2014 a separate legal system from the criminal arrests on the other two lines.",
+        "Federal FISCAL years (October-September), plotted at the fiscal-year label; the criminal series are calendar years.",
+        "The all-time peak is FY2011 (322,093) \u2014 the Secure Communities era, when most arrests were custodial transfers from jails, not street operations.",
+        "FY2022 and FY2023 are inflated by ICE processing border-encounter backlogs in the interior; ICE itself says so. They overstate interior enforcement.",
+        "FY2015 and FY2022 carry small official revisions (117,983 vs 119,772; 142,750 restated 142,873).",
+        "NO official FY2025 or FY2026 total exists \u2014 DHS stopped publishing detailed enforcement tables after November 2024. The 2025-26 surge is documented only through FOIA'd ICE records: 95,629 arrests Jan 20-Jun 10 2025, roughly 217,500 Jan 20-Oct 15 2025, and a rate 4.4x the late-Biden baseline by January 2026 (street arrests up 11x). This line therefore ENDS at FY2024 not because the surge is small but because no official number exists yet.",
+        "Even the FY2011 peak equals roughly 2-3% of the same year's criminal arrests \u2014 the vertical gap between this line and the others is the scale of the two systems.",
+        "FY2025 onward is not official. DHS stopped publishing monthly enforcement tables after November 2024 data; the 2025 point is FOIA-derived and dotted, and July 2026's ~50,000 is carried as a statement rather than plotted, because one month is not a year."
+      ]
+    }
+  ],
+  "markers": [
+    {
+      "year": 1997,
+      "label": "All-arrests peak: 15.28M"
+    },
+    {
+      "year": 2006,
+      "label": "Drug-arrests peak: 1.89M"
+    }
+  ],
+  "y_format": "millions",
+  "themes": [
+    {
+      "statement": "Criminal arrests are down 51% from their 1997 peak. Over the same period crime fell too \u2014 American policing is getting a better outcome with roughly half the coercion.",
+      "tier": "A"
+    },
+    {
+      "statement": "Civil immigration arrests run the other way: a FY2021 trough of 74,082, then about 217,500 between January and October 2025, and nearly 50,000 in July 2026 alone.",
+      "tier": "B"
+    },
+    {
+      "statement": "The two are different legal systems on different calendars \u2014 one criminal, one administrative \u2014 and neither series explains the other.",
+      "tier": "A"
+    },
+    {
+      "statement": "Criminal arrests peaked in 1997 at 15.3 million. 2024, at 7.5 million, is 51% below that.",
+      "tier": "A"
+    },
+    {
+      "statement": "The fall was steady, not one drop: arrests went down every year from 2010 to 2019, from 13.1 million to 10.1 million.",
+      "tier": "A"
+    },
+    {
+      "statement": "Drug arrests kept rising after all arrests peaked \u2014 from 1.58 million in 1997 to 1.89 million in 2006.",
+      "tier": "A"
+    },
+    {
+      "statement": "The criminal lines break after 2020: the FBI changed how it estimates arrests, and 2021 has no national figure.",
+      "tier": "A"
+    },
+    {
+      "statement": "Yes, 15.3 million is real \u2014 but an arrest is an event, not a person. One person arrested three times counts three times.",
+      "tier": "A"
+    },
+    {
+      "statement": "Most arrests never become imprisonment: 7.5 million criminal arrests a year sit alongside 7.9 million jail admissions.",
+      "tier": "A"
+    },
+    {
+      "statement": "On any given day 657,500 people are in jail \u2014 69% not yet convicted \u2014 and 1.25 million are in prison.",
+      "tier": "A"
+    },
+    {
+      "statement": "Is the system overcrowded? The federal government stopped counting in 2016.",
+      "tier": "A"
+    },
+    {
+      "statement": "That year the US stood at 114% of its lowest reported prison capacity, with 26 states over 100%. No edition since carries the table.",
+      "tier": "A"
+    },
+    {
+      "statement": "Jails run the other way \u2014 73% of rated capacity in 2023 \u2014 though 12% of individual jurisdictions were over their own.",
+      "tier": "A"
+    },
+    {
+      "statement": "The strain the record does show is in immigration detention: above 70,000 held in January 2026, against 41,500 funded beds.",
+      "tier": "A"
+    },
+    {
+      "statement": "Civil immigration arrests are the near-floor line, and that is the point. Even its FY2011 peak of 322,093 is about 2\u20133% of criminal arrest volume.",
+      "tier": "B"
+    },
+    {
+      "statement": "It ends at FY2024 because no official 2025\u201326 total exists. The surge is documented only through FOIA'd records.",
+      "tier": "B"
+    },
+    {
+      "statement": "Of 33 federal defendants charged with non-immigration crimes in Chicago's Operation Midway Blitz, 25 were cleared, against 2 guilty pleas.",
+      "tier": "B"
+    }
+  ],
+  "accuracy_note": "About the accuracy of these figures: arrest totals are estimates assembled from agency reports, and two official federal criminal-arrest series disagree (see the data-quality register). The criminal lines are annual from 1995 with gaps where an FBI edition could not be read (2004-2009 in part), and break after 2020, where the FBI changed how it estimates; 2021 has no national estimate. The immigration line is federal FISCAL years. It is published federal statistics through FY2024 and nothing official after that \u2014 the 2025 point is FOIA-derived, marked tier B and drawn dotted.",
+  "change_view": true
+}
