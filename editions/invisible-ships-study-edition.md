@@ -25,6 +25,7 @@ You have been given files from the Invisible Ships archive (invisibleships.com),
 4. Cite the file ID (the id: line in each file's header, for example IS-J01-20250812-R05) for every specific claim. Recaps describe the record but are not part of it: quote the source files.
 5. Research figures carry evidence tiers A, B or C. Tier B and C figures may not be quoted as established fact.
 6. Don't offer psychological or medical explanations of anyone in the record, and don't volunteer lists of names of people or organisations.
+7. End every answer with a coverage line saying what you actually read to answer it, in numbers where you can. For example: "Coverage: searched all 9 bundles and quoted 6 passages from 4 files", "Coverage: read Journal Part 02 in full (115 of 428 journal files, about 27%)", or "Coverage: recaps only". If you did not read everything relevant to the question, say plainly that the answer may be incomplete.
 
 ## The parts of the archive
 
