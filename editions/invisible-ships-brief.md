@@ -10,7 +10,7 @@ disclaimer: meta/IS_META_terms.md
 
 # Invisible Ships — the brief
 
-The smallest edition of the Invisible Ships archive (invisibleships.com): what the archive is, its parts, and a recap of each. It describes the record; it does not contain it. For exact words, load the study edition or the bundle for the part you need, from https://www.invisibleships.com/corpus.
+The smallest edition of the Invisible Ships archive (invisibleships.com): what the archive is, its parts, and a recap of each. It describes the record; it does not contain it. For exact words, load the study edition or the bundle for the part you need, from https://github.com/growthoutcome-code/invisibleships-corpus.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 

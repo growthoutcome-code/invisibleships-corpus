@@ -4,7 +4,7 @@ title: "Start here, and every recap"
 collection: bundles
 doc_type: bundle
 files: 32
-approx_tokens: 39,689
+approx_tokens: 39,707
 contains: [00-START-HERE.md, summaries]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -59,7 +59,7 @@ This file joins 32 files from the Invisible Ships archive so it can be uploaded 
 
 # Invisible Ships — start here
 
-*The research archive behind invisibleships.com, compiled by Sean C. Harris · generated 2026-10-11 · 1,297 files · about 1,227,000 words*
+*The research archive behind invisibleships.com, compiled by Sean C. Harris · generated 2026-10-12 · 1,297 files · about 1,227,000 words*
 
 This is the first file to read, for a person or for an AI assistant. It covers:
 1. Instructions for an AI assistant that has been given this archive
@@ -181,7 +181,7 @@ The archive is also provided as 9 large files, one per part, so you never have t
 | 08 | `bundles/IS_BUNDLE_08_research.md` | Research: crime, public health, government cloud | 76 | 257,000 | 1.0 MB |
 | 09 | `bundles/IS_BUNDLE_09_news.md` | News | 299 | 150,000 | 0.6 MB |
 
-Smaller downloads are on https://www.invisibleships.com/corpus: **the brief** (under 20,000 tokens, for free plans) and **the study edition** (about 100,000 tokens: every recap, a catalogue of every journal file, a concordance and the headline findings — one file an AI can read completely). Start with one of those, or with **bundle 01** (this file, plus every recap). Then add the bundle for the part you want to ask about. The individual files in the other folders are the same content, kept separate for citing and for code.
+Smaller downloads are in the `editions/` folder and on https://github.com/growthoutcome-code/invisibleships-corpus: **the brief** (under 20,000 tokens, for free plans) and **the study edition** (about 100,000 tokens: every recap, a catalogue of every journal file, a concordance and the headline findings — one file an AI can read completely). Start with one of those, or with **bundle 01** (this file, plus every recap). Then add the bundle for the part you want to ask about. The individual files in the other folders are the same content, kept separate for citing and for code.
 
 **Before you start:** unzip the archive on your computer. On Windows, right-click it and choose **Extract All**. On a Mac, double-click it. Then open the `bundles/` folder.
 
@@ -285,7 +285,7 @@ You have been given files from the Invisible Ships archive (invisibleships.com),
 7. End every answer with a coverage line saying what you actually read to answer it, in numbers where you can. For example: "Coverage: searched all 9 bundles and quoted 6 passages from 4 files", "Coverage: read Journal Part 02 in full (115 of 428 journal files, about 27%)", or "Coverage: recaps only". If you did not read everything relevant to the question, say plainly that the answer may be incomplete.
 ```
 
-*Platform limits were checked on 2026-10-11 and change often. The same instructions, kept current, are at https://www.invisibleships.com/corpus.*
+*Platform limits were checked on 2026-10-11 and change often. The same instructions, kept current, are at https://github.com/growthoutcome-code/invisibleships-corpus.*
 
 ### Or browse the website
 The Journal, Concepts, Research and Glossary pages on **invisibleships.com** are searchable and filterable without loading anything.

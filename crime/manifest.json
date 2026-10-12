@@ -1,6 +1,6 @@
 {
  "name": "Invisible Ships \u2014 US Crime",
- "generated": "2026-10-11",
+ "generated": "2026-10-12",
  "scope": "United States only. No international comparison set.",
  "method_note": "Built around a measurement problem rather than a number. US crime is counted by three systems that disagree \u2014 police-recorded (FBI UCR/NIBRS), victimisation survey (BJS NCVS) and death certificates (CDC/NCHS). All are correct; none is 'the' crime rate. The two homicide series are carried side by side and never reconciled. Causes are reported as attributed, never asserted. This dataset does not corroborate the Government Cloud dataset or the journal, and neither corroborates it.",
  "tier_legend": {

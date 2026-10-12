@@ -3,7 +3,10 @@
 # Invisible Ships — the corpus
 
 **The Invisible Ships archive is about 1.9 million tokens of text: far more than any AI assistant can read at once.**
-So we've prepared downloads sized for different AI tools. Each has limits, listed below. You can ask questions of any part, but no AI reads the whole archive in one go; the options that cover all of it work by searching it.
+
+**[⬇ Download the whole archive (zip)](https://github.com/growthoutcome-code/invisibleships-corpus/archive/refs/heads/main.zip)**: every file, free, no account needed. Unzip it on your computer before using it.
+
+We've also prepared smaller downloads sized for different AI tools. Each has limits, listed below. You can ask questions of any part, but no AI reads the whole archive in one go; the options that cover all of it work by searching it.
 
 This is the research archive behind **[invisibleships.com](https://www.invisibleships.com)**, compiled by Sean C. Harris. Read the [Critical Disclaimer](https://www.invisibleships.com/disclaimer) before using it: the journal transcripts are external communications, presented without proof. They are not the author's views and they accuse no one.
 
@@ -38,7 +41,7 @@ This is the research archive behind **[invisibleships.com](https://www.invisible
 | **[⬇ Brief](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/invisible-ships-brief.md)** | What the archive is, and a recap of every Part and section | 15K tokens | Any AI, including free plans | Quote the transcripts |
 | **[⬇ Study edition](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/invisible-ships-study-edition.md)** | Every recap (each Part, section and month), a catalogue of every journal file, a concordance of key terms, the news list, the headline findings | 89K tokens | Most AIs, free or paid | Quote transcripts beyond the recaps |
 | **⬇ One journal Part** (links below) | The full text of one Part | 210K–357K tokens | Gemini Notebook; Claude, ChatGPT or Gemini paid plans | Answer about the other Parts |
-| **[⬇ Everything](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/invisible-ships-corpus.zip)** | The whole archive in one zip: all 9 bundles, both editions, every individual file | 1.94M tokens | Gemini Notebook; Claude or ChatGPT Projects | Be read all at once. **Unzip it first** and upload the files inside, never the zip itself |
+| **[⬇ Everything](https://github.com/growthoutcome-code/invisibleships-corpus/archive/refs/heads/main.zip)** | The whole archive in one zip: all 9 bundles, both editions, every individual file | 1.94M tokens | Gemini Notebook; Claude or ChatGPT Projects | Be read all at once. **Unzip it first** and upload the files inside, never the zip itself |
 
 *Start with the study edition. It is one file an AI can read completely, and it tells the AI where everything else is.*
 

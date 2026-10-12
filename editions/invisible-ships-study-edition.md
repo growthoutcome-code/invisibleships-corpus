@@ -10,7 +10,7 @@ disclaimer: meta/IS_META_terms.md
 
 # Invisible Ships — the study edition
 
-One file that represents the whole Invisible Ships archive (invisibleships.com) at a size an AI can read completely and well. It contains the recaps of every Part, section and month; a catalogue of every journal file; a concordance listing every file that mentions each indexed term; a news catalogue; and the headline findings. It describes the record and points to it by file ID. For exact words, load the bundle for the part you need, from https://www.invisibleships.com/corpus.
+One file that represents the whole Invisible Ships archive (invisibleships.com) at a size an AI can read completely and well. It contains the recaps of every Part, section and month; a catalogue of every journal file; a concordance listing every file that mentions each indexed term; a news catalogue; and the headline findings. It describes the record and points to it by file ID. For exact words, load the bundle for the part you need, from https://github.com/growthoutcome-code/invisibleships-corpus.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 
