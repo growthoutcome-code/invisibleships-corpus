@@ -26,6 +26,9 @@ jobs:
       - name: Build the Everything zip
         run: zip -qr invisible-ships-corpus.zip . -x '.git/*' '.github/*'
 
+      - name: Build the nine-file pack for AI
+        run: zip -qjX invisible-ships-for-ai.zip bundles/IS_BUNDLE_*.md
+
       - name: Publish the release with every download attached
         env:
           GH_TOKEN: ${{ github.token }}
@@ -35,4 +38,4 @@ jobs:
             --title "Corpus, $(date -u '+%d %B %Y')" \
             --notes "The Invisible Ships corpus as of this commit. Downloads: the brief, the study edition, the 9 bundles, and Everything (the whole archive, zipped). How to use them: see the README." \
             --latest \
-            editions/*.md bundles/*.md invisible-ships-corpus.zip
+            editions/*.md bundles/*.md invisible-ships-corpus.zip invisible-ships-for-ai.zip

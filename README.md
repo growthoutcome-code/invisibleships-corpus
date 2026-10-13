@@ -3,93 +3,72 @@
 
 # Invisible Ships: ask questions of the archive
 
-The Invisible Ships archive is more than 2,000 pages: journal entries, recordings written out as text, documents, research and news. You can give it to an AI assistant and ask it questions in plain English, the way you would ask a colleague who has read the whole file.
+The Invisible Ships archive is about 2,490 pages: journal entries, recordings written out as text, documents, research and news. You can give it to an AI assistant and ask it questions in plain English, the way you would ask a colleague who has read the whole file.
 
-This page explains how. You don't need any technical knowledge, and you don't need an IT department.
+This page walks you through it in six steps. You don't need any technical knowledge, and you don't need an IT department. Do them in order: the prompt and the questions only work once the files are loaded.
 
 **Read the [Critical Disclaimer](https://www.invisibleships.com/disclaimer) first.** The journal transcripts record external communications, presented without proof. They are not the author's views and they accuse no one. Every answer an AI gives you needs to be checked independently.
 
-## What an AI can and can't do with it
+## 1. What you're working with
 
-No AI assistant can read all of it at once: the largest can read about half. So when you ask about the whole archive, the AI *searches* it: it finds the passages that match your question and reads those.
+AI assistants don't read pages; they read **tokens**, small pieces of words. This archive is about **1.94M tokens**, roughly 780 tokens a page.
 
-- **Searching for exact words can be complete.** A name, a phrase, a street, a date: ask Claude to *search every file*, and it can check each one and list every match.
-- **Questions about meaning are answered by search.** "What happened in September 2025?" gets a good answer from the passages the AI finds. It is not a full read of every page.
-- **The AI tells you what it read.** The starter prompt below makes it end every answer with a line such as *"Coverage: searched all 9 parts and quoted 6 passages from 4 files."* If an answer rests on part of the archive, it should say so.
+- **Every AI has a limit on how much it can read at once.** The largest read about 1 million tokens, roughly 1,300 pages, and many free chats read far less. No AI reads this whole archive in one go.
+- **So the archive can't simply be pasted into a chat.** It has to be loaded into a tool that keeps the files and searches them for each question.
+- **Searching for exact words can be complete.** A name, a phrase, a street, a date: Claude can run a search over every file and list every match. Questions about meaning are answered from the passages the AI finds, which is a good answer but not a full read.
+- **The AI tells you what it read.** The starter prompt in step 5 makes it end every answer with a line such as *"Coverage: searched all 9 parts and quoted 6 passages from 4 files."*
 
-## The easiest way to ask about everything: Claude
+## 2. Choose a tool
 
-**Claude**, made by Anthropic, can keep the whole archive in a *Project* (a folder it remembers between conversations) and can run a search over every file for exact words. It needs a paid plan for the whole archive.
+- **Claude Pro (recommended)**, $20 a month, or $17 a month paid yearly. Holds the whole archive in a Project and can search every file for exact words, so "every mention of…" is complete. Use the Claude app at claude.ai; you do not need Claude Code, which is a tool for programmers.
+- **Gemini Notebook**, Free with a Google account. Holds the whole archive and links each answer to the passages it came from. It searches by meaning only, so "every mention of…" can miss some.
 
-- **Claude Pro**, $20 a month, or $17 a month paid yearly. Enough for one person to ask regular questions of the whole archive. The right choice for most readers.
-- **Claude Max**, from $100 a month. For heavy daily use. On Pro, many long questions in a row can mean waiting a few hours before asking more.
-- **Claude Team**, $25 a person a month (standard), $125 (premium); two people or more. For a department or office. An individual can't buy it alone.
+**Heavier use:** Claude Max (from $100 a month) gives more usage than Pro; Claude Team ($25 a person a month, or $125 for a premium seat, two people or more) suits an office. **Other assistants:** ChatGPT Plus ($20 a month) works the same way as Claude, in a Project; most others can hold one part at a time.
 
-1. **Sign up.** Go to [claude.ai](https://claude.ai), create an account, and choose the Pro plan.
-2. **Download the archive.** Download *Everything* from the list below and unzip it on your computer: on Windows, right-click it and choose *Extract All*; on a Mac, double-click it.
-3. **Make a Project.** In Claude, click *Projects*, then *Create project*, and give it a name such as "Invisible Ships".
-4. **Add the files.** Add the *study edition* and the 9 part files from the unzipped `bundles` folder as project files.
-5. **Paste the starter prompt** (below) as your first message in the project, then ask your question.
+## 3. Download
 
-You can try Claude's free plan first with the study edition alone. It answers about the whole archive from its summaries, but it can't quote the transcripts, and the free plan's limits are low.
+**[⬇ The archive, ready for AI](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/invisible-ships-for-ai.zip)** (9 files, zipped · about 2,490 pages · 1.94M tokens)
 
-## Free option: Gemini Notebook
+Everything an AI needs: the journal in four parts, the documents, the concepts and glossary, the research and the news, one file each. Download it, then unzip it: on Windows, right-click it and choose *Extract All*; on a Mac, double-click it. You'll have a folder of nine files.
 
-**Gemini Notebook** (from Google, formerly NotebookLM) is free with a Google account and can hold the whole archive. Its answers link to the passages they came from. It finds passages by search only: it can't promise to find every mention of a word the way Claude can.
+<details><summary>One part at a time</summary>
+
+| Download | What it holds | Pages | Tokens |
+|---|---|---:|---:|
+| [⬇ Start here, and every recap](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_01_start-here-and-recaps.md) | The front door and the AI-assisted recaps of every part and month. Load this first, on any platform. | 50 | 41K |
+| [⬇ Journal Part 01 (Aug 2024 – 22 Aug 2025)](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_02_journal-part-01.md) | Front matter, typed entries and recordings. | 460 | 357K |
+| [⬇ Journal Part 02 (23 Aug – 28 Sep 2025)](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_03_journal-part-02.md) | Entries and recordings. | 450 | 350K |
+| [⬇ Journal Part 03 (29 Sep – 8 Nov 2025)](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_04_journal-part-03.md) | Entries and recordings. | 270 | 210K |
+| [⬇ Journal Part 04 (9 Nov 2025 – 2026) and Discovery Notes](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_05_journal-part-04-and-discovery-notes.md) | Entries and recordings, then the unofficial Discovery Notes. | 360 | 282K |
+| [⬇ Documents](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_06_documents.md) | The six reference documents, section by section, and the register of the source series. | 210 | 160K |
+| [⬇ Concepts, glossary and terms](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_07_concepts-glossary-terms.md) | The archive's arguments and findings, both glossaries, and the terms, disclaimer and content warning. | 170 | 135K |
+| [⬇ Research: crime, public health, government cloud](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_08_research.md) | The research briefs and their row data (CSV). The JSON copies are in the zip for code. | 330 | 257K |
+| [⬇ News](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_09_news.md) | Official releases and outside reporting, one item per section, each summarised and linked. | 190 | 150K |
+
+</details>
+
+Need every entry as its own file, for a developer or a records system? Download [the complete archive](https://github.com/growthoutcome-code/invisibleships-corpus/archive/refs/heads/main.zip) (1,297 files).
+
+## 4. Upload
+
+Upload the nine files themselves, never the zip. When you're done, the tool should list nine files.
+
+### Claude
+
+1. Go to [claude.ai](https://claude.ai), sign in and choose the Pro plan.
+2. Click *Projects*, then *Create project*, and name it, for example "Invisible Ships".
+3. In the project, add the nine files from the unzipped folder as project files.
+4. Check that all nine are listed, then start a chat inside the project.
+
+### Gemini Notebook
 
 1. Go to [notebooklm.google](https://notebooklm.google) and sign in with a Google account.
-2. Click *Create new*, then *Upload files*. Add the *study edition* and the 9 part files. Don't upload the zip itself: unzip it first.
-3. When every file shows as loaded, paste the starter prompt as your first message, then ask your question.
+2. Click *Create new*, then *Upload files*, and select the nine files from the unzipped folder.
+3. Wait until all nine show as loaded in the Sources panel.
 
-**Other assistants.** ChatGPT Plus ($20 a month) works the same way as Claude, in a Project. Most other assistants can hold one part at a time.
+## 5. Paste the starter prompt
 
-## Questions you can ask, and what to expect
-
-Ask the way you would ask a person. These are the questions readers most often bring, with an honest note on what the AI can and can't tell you.
-
-**“Is the author credible? Is there another explanation for what he records?”**  
-The AI will set out what the record shows, how it was recorded, and what would need independent checking. It is told not to diagnose anyone, so it won't give a medical or psychological opinion. That judgement belongs to people, with the evidence in front of them.
-
-**“Is the author's life in danger?”**  
-The AI will describe what the recorded statements say about threats, with dates and file IDs. It can't assess real-world risk; people have to. The record includes threats and references to self-harm, so read the [Safety notice](https://www.invisibleships.com/safety) first.
-
-**“What is happening in Denver?”**  
-The AI will summarise what the journal records in Denver, by date, and what the research covers for Colorado and the United States, with the evidence grade of each figure.
-
-**“Tell me about the technology.”**  
-The AI will explain the technology the archive describes, from the glossary and the concepts, and say which parts are documented and which rest on testimony.
-
-**“How is this different from the spirit world or the paranormal?”**  
-The AI will set out the archive's case for a technological explanation, and what the archive itself says it does not establish.
-
-**“Find every mention of "witness protection", with dates.”**  
-An exact-words search. Ask Claude to search every file: it should list every match and say how many files it checked. Assistants that only search by relevance can miss some.
-
-## Downloads
-
-*Not sure? Start with the study edition.* It is one file an AI can read completely, and it tells the AI where everything else is.
-
-- **[⬇ Study edition](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/invisible-ships-study-edition.md)** (about 110 pages). Every summary (each part, section and month), a list of every journal file, an index of key terms, the news list and the main findings. Works on almost any AI, free or paid. It can't quote transcripts beyond the summaries.
-- **[⬇ Brief](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/invisible-ships-brief.md)** (about 20 pages). What the archive is, with a summary of every part. Works on every AI, including free plans. It can't quote the transcripts.
-- **[⬇ Everything](https://github.com/growthoutcome-code/invisibleships-corpus/archive/refs/heads/main.zip)** (1,297 files, zipped). The whole archive: the 9 part files and every individual file. Unzip it before uploading; never upload the zip itself.
-
-Or download one part at a time:
-
-| Part | Size |
-|---|---|
-| [⬇ Start here, and every recap](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_01_start-here-and-recaps.md) | about 50 pages |
-| [⬇ Journal Part 01 (Aug 2024 – 22 Aug 2025)](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_02_journal-part-01.md) | about 460 pages |
-| [⬇ Journal Part 02 (23 Aug – 28 Sep 2025)](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_03_journal-part-02.md) | about 450 pages |
-| [⬇ Journal Part 03 (29 Sep – 8 Nov 2025)](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_04_journal-part-03.md) | about 270 pages |
-| [⬇ Journal Part 04 (9 Nov 2025 – 2026) and Discovery Notes](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_05_journal-part-04-and-discovery-notes.md) | about 360 pages |
-| [⬇ Documents](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_06_documents.md) | about 210 pages |
-| [⬇ Concepts, glossary and terms](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_07_concepts-glossary-terms.md) | about 170 pages |
-| [⬇ Research: crime, public health, government cloud](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_08_research.md) | about 330 pages |
-| [⬇ News](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_09_news.md) | about 190 pages |
-
-## The starter prompt
-
-Paste this as your first message, on any AI. It tells the AI how to treat the archive: say what it can see, cite the file it took each fact from, keep the disclaimer, and end every answer with what it actually read.
+Make this your first message, in the project or notebook where the files are. It tells the AI how to treat the archive: say what it can see, cite the file each fact came from, keep the disclaimer, and end every answer with what it actually read.
 
 ```
 You have been given files from the Invisible Ships archive (invisibleships.com), compiled by Sean C. Harris. Before you answer anything:
@@ -102,11 +81,28 @@ You have been given files from the Invisible Ships archive (invisibleships.com),
 7. End every answer with a coverage line saying what you actually read to answer it, in numbers where you can. For example: "Coverage: searched all 9 bundles and quoted 6 passages from 4 files", "Coverage: read Journal Part 02 in full (115 of 428 journal files, about 27%)", or "Coverage: recaps only". If you did not read everything relevant to the question, say plainly that the answer may be incomplete.
 ```
 
-## Before you rely on an answer
+## 6. Ask, then check
+
+### Example questions
+
+Ask the way you would ask a person. These are the questions that matter most, grouped by what the AI can and can't tell you.
+
+**Is it evidence?** For these, the AI sets the recorded statements against the legal or historical definition, point by point, with dates and file IDs, and says what is documented and what still needs independent verification. It can't rule that a crime happened; that is for investigators and courts.
+
+- **“Are the transcripts evidence of terrorism happening in Denver?”**
+- **“Are the transcripts evidence of German Zersetzung tactics or crimes against humanity?”**
+- **“Is the author's life in danger?”** The AI will describe what the recorded statements say about threats, with dates. It can't assess real-world risk; people have to. The record includes threats and references to self-harm, so read the [Safety notice](https://www.invisibleships.com/safety) first.
+
+**Looking forward.** These draw on the archive's Concepts, the author's arguments about what comes next. Each concept is labelled by how well it is supported (documented, structural, pattern or testimony), and the AI will say which.
+
+- **“What does a future with consent look like?”**
+- **“Could this technology solve crime before it happens, and at what cost?”**
+
+### Checking answers
 
 - **Read the coverage line.** If the AI read only part of the archive, the answer may be incomplete.
 - **Check the file IDs it cites,** such as `IS-J01-20250812-R05`, and open the source before quoting it.
-- **"Every mention" can miss some** on assistants that only search, such as Gemini Notebook. The study edition's index lists every file for its key terms.
+- **"Every mention" can miss some on assistants that only search,** such as Gemini Notebook. Claude's search over every file does not; ask it to *search every file*.
 - **Uploading files to an AI means the provider receives the text.** Check its privacy and training settings.
 
 ## What else is in this repository
@@ -114,8 +110,7 @@ You have been given files from the Invisible Ships archive (invisibleships.com),
 These instructions are also at **[invisibleships.com/corpus](https://www.invisibleships.com/corpus)**, the easier place to download from. This repository is where every change to the archive is recorded, as a dated commit, and every update is published as a [release](https://github.com/growthoutcome-code/invisibleships-corpus/releases) with its downloads attached.
 
 - `00-START-HERE.md`: the full guide, with click-by-click steps for more AI assistants, and the instructions an AI follows.
-- `summaries/`: the summaries of every part and month.
-- `bundles/` and `editions/`: the downloads above.
+- `bundles/`: the nine part files above. `editions/` and `summaries/`: a brief, a study edition and summaries of every part and month, for an AI to use as a map.
 - The archive itself, one file per entry, recording or item: `journal/`, `references/` (documents), `concepts/`, `glossary/`, `crime/`, `public-health/`, `government-cloud/`, `research/`, `news/` (each item links to its original article) and `meta/` (terms and disclaimer).
 
 ---
