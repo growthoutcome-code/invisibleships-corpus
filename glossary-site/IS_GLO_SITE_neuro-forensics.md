@@ -6,7 +6,7 @@ doc_type: term
 provenance: site-authored
 slug: neuro-forensics
 categories: [glossary, reference, glossary-neuroscience, glossary-neuroethics]
-word_count: 235
+word_count: 311
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -24,9 +24,13 @@ Courts have not accepted these tests as reliable proof. In United States v. Semr
 
 Some reference material in this record describes “Neuro-Forensic Units” at the Colorado Attorney General's office and the King County Prosecutor. No public evidence of units by that name was found (checked 1 October 2026).
 
+The author’s [Personal Protection Plan](/concepts/personal-protection-plan) uses the phrase “neural audit” for a set of steps: a lawyer, an independent technical check, a complaint and health care. No single organisation offers a neural audit as a service today.
+
+In June 2025 the American Medical Association adopted a policy on safeguarding neural data collected by neurotechnologies.
+
 Related terms: [electroencephalogram](/glossary/electroencephalogram), [brain–computer interface](/glossary/braincomputer-interface-bci), [cognitive liberty](/glossary/cognitive-liberty), [Colorado Privacy Act](/glossary/colorado-privacy-act)
 
-Sources: [United States v. Semrau, 6th Cir. 2012 — Justia](https://law.justia.com/cases/federal/appellate-courts/ca6/11-5396/11-5396-2012-09-07.html) · [Selvi v. State of Karnataka, Supreme Court of India, 2010](https://www.manupatracademy.com/LegalPost/MANU_SC_0325_2010) · [Using Imaging to Identify Deceit — American Academy of Arts & Sciences](https://www.amacad.org/publication/using-imaging-identify-deceit-scientific-and-ethical-questions/section/8)
+Sources: [United States v. Semrau, 6th Cir. 2012 — Justia](https://law.justia.com/cases/federal/appellate-courts/ca6/11-5396/11-5396-2012-09-07.html) · [Selvi v. State of Karnataka, Supreme Court of India, 2010](https://www.manupatracademy.com/LegalPost/MANU_SC_0325_2010) · [Using Imaging to Identify Deceit — American Academy of Arts & Sciences](https://www.amacad.org/publication/using-imaging-identify-deceit-scientific-and-ethical-questions/section/8) · [American Medical Association adopts landmark policy on neural data privacy — Cooley](https://www.cooley.com/news/insight/2025/2025-07-01-american-medical-association-adopts-landmark-policy-on-neural-data-privacy)
 
 ---
 

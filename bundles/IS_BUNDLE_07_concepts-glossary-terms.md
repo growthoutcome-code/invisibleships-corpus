@@ -3,8 +3,8 @@ id: IS-BUNDLE-07-CONCEPTS-GLOSSARY-TERMS
 title: "Concepts, glossary and terms"
 collection: bundles
 doc_type: bundle
-files: 139
-approx_tokens: 131,505
+files: 150
+approx_tokens: 142,500
 contains: [concepts, glossary, glossary-site, meta]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -15,7 +15,7 @@ disclaimer: meta/IS_META_terms.md
 
 The archive's arguments and findings, both glossaries, and the terms, disclaimer and content warning.
 
-This file joins 139 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
+This file joins 150 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 
@@ -56,6 +56,7 @@ This file joins 139 files from the Invisible Ships archive so it can be uploaded
 - `concepts/IS_CON_official-is-not-independent.md` — Concept — “Official” is not the same as “independent”
 - `concepts/IS_CON_only-you-can-hear-it.md` — Concept — “Only I can hear it” is not, by itself, unusual
 - `concepts/IS_CON_organised-harassment-is-fact.md` — Concept — Organised covert harassment of individuals is established fact
+- `concepts/IS_CON_personal-protection-plan.md` — Concept — Personal Protection Plan
 - `concepts/IS_CON_prescribing-is-not-prevalence.md` — Concept — Prescribing is not a measure of illness
 - `concepts/IS_CON_prevention-as-the-product.md` — Concept — Who could refuse a system that saved their child?
 - `concepts/IS_CON_ruin-first-then-rescue.md` — Concept — We're keeping you to ourselves
@@ -107,17 +108,21 @@ This file joins 139 files from the Invisible Ships archive so it can be uploaded
 - `glossary-site/IS_GLO_SITE_electrocorticography.md` — Glossary — electrocorticography (ECoG)
 - `glossary-site/IS_GLO_SITE_electromagnetic-field.md` — Glossary — electromagnetic field (EMF)
 - `glossary-site/IS_GLO_SITE_energy-harvesting.md` — Glossary — energy harvesting
+- `glossary-site/IS_GLO_SITE_euthanasia-outside-health-care.md` — Glossary — euthanasia outside legitimate health care
 - `glossary-site/IS_GLO_SITE_false-disclosure.md` — Glossary — false disclosure
 - `glossary-site/IS_GLO_SITE_gang-stalking.md` — Glossary — Gang stalking
 - `glossary-site/IS_GLO_SITE_gaslighting.md` — Glossary — Gaslighting
 - `glossary-site/IS_GLO_SITE_graphene.md` — Glossary — graphene
 - `glossary-site/IS_GLO_SITE_image-based-search.md` — Glossary — image-based search
+- `glossary-site/IS_GLO_SITE_independent-investigation.md` — Glossary — independent investigation
 - `glossary-site/IS_GLO_SITE_injectable-mesh-electronics.md` — Glossary — injectable mesh electronics
 - `glossary-site/IS_GLO_SITE_international-criminal-court.md` — Glossary — International Criminal Court (ICC)
 - `glossary-site/IS_GLO_SITE_laser-microphone.md` — Glossary — laser microphone
 - `glossary-site/IS_GLO_SITE_lipid-nanoparticle.md` — Glossary — lipid nanoparticle (LNP)
+- `glossary-site/IS_GLO_SITE_long-range-acoustic-device.md` — Glossary — long-range acoustic device (LRAD)
 - `glossary-site/IS_GLO_SITE_magnetoelectric-nanoparticles.md` — Glossary — magnetoelectric nanoparticles (MENPs)
 - `glossary-site/IS_GLO_SITE_microwave-auditory-effect.md` — Glossary — microwave auditory effect
+- `glossary-site/IS_GLO_SITE_military-ugly-workflow.md` — Glossary — military ugly workflow
 - `glossary-site/IS_GLO_SITE_mosquito-device.md` — Glossary — the Mosquito
 - `glossary-site/IS_GLO_SITE_mrna.md` — Glossary — mRNA (messenger RNA)
 - `glossary-site/IS_GLO_SITE_muon-tomography.md` — Glossary — muon tomography
@@ -129,9 +134,12 @@ This file joins 139 files from the Invisible Ships archive so it can be uploaded
 - `glossary-site/IS_GLO_SITE_neural-decoding.md` — Glossary — neural decoding
 - `glossary-site/IS_GLO_SITE_neural-dust.md` — Glossary — neural dust
 - `glossary-site/IS_GLO_SITE_neural-interface.md` — Glossary — neural interface
+- `glossary-site/IS_GLO_SITE_neural-privacy.md` — Glossary — neural privacy
 - `glossary-site/IS_GLO_SITE_neuralnanorobotics.md` — Glossary — neuralnanorobotics
 - `glossary-site/IS_GLO_SITE_neuro-engagement.md` — Glossary — Neuro-engagement
 - `glossary-site/IS_GLO_SITE_neuro-forensics.md` — Glossary — neuro-forensics
+- `glossary-site/IS_GLO_SITE_neuroethics.md` — Glossary — neuroethics
+- `glossary-site/IS_GLO_SITE_neurotechnology.md` — Glossary — neurotechnology
 - `glossary-site/IS_GLO_SITE_no-touch-torture.md` — Glossary — No-touch torture
 - `glossary-site/IS_GLO_SITE_non-ionizing-radiation.md` — Glossary — non-ionizing radiation
 - `glossary-site/IS_GLO_SITE_nuremberg-code.md` — Glossary — Nuremberg Code
@@ -143,10 +151,13 @@ This file joins 139 files from the Invisible Ships archive so it can be uploaded
 - `glossary-site/IS_GLO_SITE_presbycusis.md` — Glossary — presbycusis
 - `glossary-site/IS_GLO_SITE_psychological-smothering.md` — Glossary — psychological smothering
 - `glossary-site/IS_GLO_SITE_sampling-limit.md` — Glossary — sampling limit
+- `glossary-site/IS_GLO_SITE_schizoaffective-disorder.md` — Glossary — schizoaffective disorder
+- `glossary-site/IS_GLO_SITE_schizophrenia.md` — Glossary — schizophrenia
 - `glossary-site/IS_GLO_SITE_self-elected-suicide.md` — Glossary — self-elected suicide
 - `glossary-site/IS_GLO_SITE_structure-borne-audio.md` — Glossary — structure-borne audio
 - `glossary-site/IS_GLO_SITE_targeted-individual.md` — Glossary — Targeted individual (TI)
 - `glossary-site/IS_GLO_SITE_tinnitus.md` — Glossary — tinnitus
+- `glossary-site/IS_GLO_SITE_transnational-repression.md` — Glossary — transnational repression
 - `glossary-site/IS_GLO_SITE_tribunal.md` — Glossary — tribunal
 - `glossary-site/IS_GLO_SITE_two-photon-microscopy.md` — Glossary — two-photon microscopy
 - `glossary-site/IS_GLO_SITE_voice-to-skull.md` — Glossary — Voice-to-skull (V2K)
@@ -294,9 +305,9 @@ id: IS-CON-00-START-HERE
 title: Concepts — start here
 collection: concepts
 doc_type: section-overview
-concept_count: 51
+concept_count: 52
 generated_by: scripts/export_concepts_md.mjs
-word_count: 1297
+word_count: 1307
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -305,7 +316,7 @@ disclaimer: meta/IS_META_terms.md
 
 *Independent research compiled from public records for informational purposes only. Not legal, medical, or investment advice. Every concept states its BASIS, its ORIGIN, its THEME and the readers it was written for. The basis tiers are ranked, and never blended inside a single concept: a reader who accepts only `documented` entries can still rely on every one of those and discard the rest without unpicking anything. `testimony` is a dated first-person report, verified by nobody, and says so on its own face wherever it appears. Causes are reported as attributed, never asserted. See `meta/IS_META_terms.md`.*
 
-**51 concepts.** Each is a self-contained file, safe to hand to
+**52 concepts.** Each is a self-contained file, safe to hand to
 an assistant on its own.
 
 ## How to read the basis label
@@ -314,7 +325,7 @@ an assistant on its own.
 |---|---|---|---|
 | `documented` | A source, ruling or official record supports this directly. | Strongest | 32 |
 | `structural` | This follows from what the dataset does or does not contain. | Strong, but about the data, not the world | 11 |
-| `pattern` | An observation drawn from experience, offered as an observation. | Offered as an observation, not as proof | 6 |
+| `pattern` | An observation drawn from experience, offered as an observation. | Offered as an observation, not as proof | 7 |
 | `testimony` | A dated first-person report of what the author experienced or was told. Verified by nobody. | Verified by nobody | 2 |
 
 The tiers are ranked and never blended inside a single concept, so a reader
@@ -333,7 +344,7 @@ the archive uses it.
 | Neurotechnology | What can actually be read from a brain, and under what conditions. | 16 |
 | Coercion and control | Documented methods for controlling a person without touching them. | 7 |
 | Health outcomes | Population outcomes measured against the rest of the world. | 2 |
-| Reported experience | First-person report, and what is known about experience without an external source. | 2 |
+| Reported experience | First-person report, and what is known about experience without an external source. | 3 |
 
 ## Who each concept is written for
 
@@ -342,9 +353,9 @@ one. These are routes in, not walls — nothing is hidden from anybody.
 
 | Audience | Who that means | Concepts |
 |---|---|---|
-| Households and individuals | For a person who thinks something is happening to them, or to someone they live with. | 26 |
-| Law enforcement and investigators | For anyone whose job is to establish what happened and to whom. | 19 |
-| Legislators and regulators | For anyone writing or enforcing a rule about any of this. | 23 |
+| Households and individuals | For a person who thinks something is happening to them, or to someone they live with. | 27 |
+| Law enforcement and investigators | For anyone whose job is to establish what happened and to whom. | 20 |
+| Legislators and regulators | For anyone writing or enforcing a rule about any of this. | 24 |
 | Clinicians | For anyone a frightened person is likely to reach first. | 12 |
 | Press and researchers | For anyone who has to decide whether a claim can be published. | 25 |
 
@@ -410,7 +421,7 @@ in `IS_CON_00_findings.md`, and every dated source behind them is in
 - **Who could refuse a system that saved their child?** `IS_CON_prevention-as-the-product.md` · origin: author — *Not independently verified*
 - **Why does the camera on your door not answer to you?** `IS_CON_whose-eyesight-is-it.md` · origin: author — *Not independently verified*
 
-### pattern (6)
+### pattern (7)
 
 - **What Does a Future with Consent Look Like?** `IS_CON_future-with-consent.md` · origin: author — *Not independently verified*
 - **An Incredible Opportunity** `IS_CON_who-will-say-it-first.md` · origin: author — *Not independently verified*
@@ -418,6 +429,7 @@ in `IS_CON_00_findings.md`, and every dated source behind them is in
 - **Why Hasn't It Been Turned Off?** `IS_CON_why-hasnt-it-been-turned-off.md` · origin: author — *Not independently verified*
 - **Diving** `IS_CON_diving.md` · origin: author — *Not independently verified*
 - **The Diving Ecosystem** `IS_CON_diving-ecosystem.md` · origin: author — *Not independently verified*
+- **Personal Protection Plan** `IS_CON_personal-protection-plan.md` · origin: author — *Not independently verified*
 
 ### testimony (2)
 
@@ -2861,6 +2873,289 @@ Not a theory, and not confined to states. Seven decided or settled cases in this
 - WhatsApp/Meta v NSO Group — Pegasus, on appeal
 
 
+===== FILE: concepts/IS_CON_personal-protection-plan.md · ID: IS-CON-PERSONAL-PROTECTION-PLAN =====
+
+```yaml
+id: IS-CON-PERSONAL-PROTECTION-PLAN
+title: Concept — Personal Protection Plan
+collection: concepts
+doc_type: concept
+basis: pattern
+origin: author
+theme: experience
+audience: [household, investigators, policy]
+topics: [harassment, proposed-solutions, law-government, technology, euthanization]
+verification: unverified
+generated_by: scripts/export_concepts_md.mjs
+word_count: 3593
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# Personal Protection Plan
+
+*Independent research compiled from public records for informational purposes only. Not legal, medical, or investment advice. Every concept states its BASIS, its ORIGIN, its THEME and the readers it was written for. The basis tiers are ranked, and never blended inside a single concept: a reader who accepts only `documented` entries can still rely on every one of those and discard the rest without unpicking anything. `testimony` is a dated first-person report, verified by nobody, and says so on its own face wherever it appears. Causes are reported as attributed, never asserted. See `meta/IS_META_terms.md`.*
+
+**Basis: pattern.** An observation drawn from experience, offered as an observation.  
+**Origin: author.** The author's own observation, from experience.  
+**Theme: Reported experience.**  
+**Written for: Households and individuals · Law enforcement and investigators · Legislators and regulators.**
+
+**Not independently verified.**
+
+*This concept is the author's guidance, drawn from his research document, his own experience and the statements recorded in the journal. It is not medical, legal or psychological advice, and nobody here can tell you what is happening to you. Read it under the [Critical Disclaimer](/disclaimer).*
+
+This is the site's version of the author's Personal Protection Plan, a research document written in 2026 to protect a person's property and civil rights from unconsented communication and harassment. It keeps the document's order and purpose. Where the document makes a claim that could not be confirmed, the claim is left out here or marked as unconfirmed. The full document, unchanged, is in [Documents](/documents).
+
+## Where things stand
+
+Communication like this, speech, sounds or sensations that a person didn't ask for and can't trace, has not been publicly acknowledged or explained by any government, agency or health authority, as far as Invisible Ships knows. There are technological explanations for it, and [long-range acoustic devices (LRAD)](/glossary/long-range-acoustic-device) are one of them. [Neurotechnology](/glossary/neurotechnology) is another, and the two may overlap: long-range abuse of technology and technology that reaches the nervous system aren't always separate things.
+
+Whichever it is, the conduct people describe, months of harassment, threats, pressure to die, and attempts to get into someone's home, is criminal either way. The technology changes which privacy laws might apply. It doesn't change what is a crime.
+
+Health care has no recognised explanation for communication delivered by technology at a distance. So when someone describes it to a doctor, the explanation they're usually offered is a psychiatric one, such as [schizophrenia](/glossary/schizophrenia). No medical test confirms that diagnosis; it rests on what a person reports and on how others describe them. That is why this site asks everyone to speak only for themselves, and why it never diagnoses anyone.
+
+*On the record:* between 2000 and 2021 the suicide rate in the United States rose 39.9%, while the world's fell 27% (see [The world's suicide rate fell. The United States' rose.](/concepts/us-rose-against-the-trend)). Nothing establishes a link between that rise and the communication described here.
+
+## The basics
+
+These are the rules the author lives by. In his experience, and in the statements recorded in the journal, breaking any one of them could cost you your life.
+
+### Never let anyone into your home because they ask
+
+- **Never open your door, or give anyone access to your home, because a voice or a communication asks you to.** The journal records statements such as "Open your door for the spirit world," including in the middle of the night. Never do it.
+- **Never go outside to meet someone because you were asked to,** for example "walk three blocks west." In the author's view, you could lose your life.
+- **If you live with children or roommates,** tell them never to open the door or go outside because of something they hear, and never to let anyone in who arrives because of it.
+- In an emergency, call 911.
+
+### Never reward the communication
+
+The people behind this communication aren't calling you on a telephone or writing you an email. They're reaching you through long-range technology, without your consent. That is criminal behaviour, and **you should never reward it**: don't do what it asks, don't bargain with it, and don't accept what it offers.
+
+It may try to tempt you. Recorded statements describe a [military "ugly workflow"](/glossary/military-ugly-workflow): offers of money, intimacy, drugs, relief from suffering, a job or a family, made to get a person to let someone into their home, or to leave it and go outside. However good the offer sounds, it is the same request.
+
+- **Never break the law because someone suggests it or pressures you to.** Being asked is never a reason to act.
+- **Never harm yourself or anyone else,** whatever a communication says.
+- If you're struggling, call or text 988 in the US, or find a free helpline at [findahelpline.com](https://findahelpline.com).
+
+### If someone approaches you
+
+Someone you don't know might walk up to you, on the street, in a parking lot or in your neighbourhood, and say something like *"We know what you're going through. Will you sit down and talk to us?"* In the author's view, **that is a life-threatening situation, even in public.**
+
+- **Don't sit down, don't get into a vehicle, and don't go anywhere with them.**
+- You don't have to answer their questions. Keep it short and walk away, towards other people.
+- If you feel unsafe, call 911.
+- If someone says they're police or from a crisis team, you can ask for identification, stay standing, and call 911 to confirm who they are.
+- Afterwards, write down the date, the time, the place and what was said.
+
+### Never speak about anyone else's experience
+
+Speak only for yourself. Describing what someone else is going through can get them labelled with a diagnosis they never had a say in, and in the author's view it can put them in danger. If someone you know may be affected, let them tell their own story, in their own time.
+
+### Consider wearing a camera
+
+In the author's view, a camera you wear could save your life. A body camera, or glasses with a built-in camera, records what happens in front of you and can stand as evidence later.
+
+*On the record:* Colorado lets you record a conversation you're part of without the other person's consent (C.R.S. 18-9-304), and there is a recognised right to film police doing their duties in public. Recording other people's private conversations without anyone's consent is a crime. Keep your recordings safe, and keep your own copy.
+
+## Who to share this with
+
+Be careful who you tell, and how much. What you share can be repeated.
+
+- **Someone you already trust,** who will listen without judgment.
+- **A lawyer.** Conversations with a lawyer are usually confidential.
+- **Your own dated record,** kept somewhere only you control.
+- **Keep it quiet.** The plan advises not telling anyone you suspect that you're keeping a record or arranging a technical check. If a device is involved, warning its operators gives them time to switch it off.
+- Take more care with strangers, online groups and social media. Sharing text with an AI service means a company sees it too.
+
+If you work in law enforcement, health care or the military, leave out case details and anything you're bound not to disclose.
+
+## Keep a dated record
+
+A record made at the time is worth more than a memory, whatever the cause turns out to be. The plan's advice is to **note the exact time** each thing happens, so it can later be compared with anything a technical check finds.
+
+- Say the date, the time and where you are at the start of each recording.
+- Before repeating what you hear, say "From the distance". Before your own words, say "From me".
+- Keep what you heard separate from what you think it means.
+- Never edit the original, and keep your own copy.
+
+## Request a neural audit
+
+The plan calls this a neural audit: four steps that, in the author's words, move the conversation "from your mental health to the physics of the room." No single organisation offers a "neural audit" as a service today; it is put together from the steps below.
+
+### 1. A lawyer
+
+- Look for a lawyer who handles privacy, technology, criminal or civil rights cases, and ask whether they know the Colorado Privacy Act's 2024 neural data amendment.
+- Ask about a **preservation-of-evidence letter**, which asks a party not to delete records that may matter later.
+- A lawyer can also hire technical experts for you, so their findings are gathered for a case from the start.
+
+*On the record:* one firm has already won a case built on Zersetzung-style tactics. **Scalli Murphy Law** of Massachusetts represented Ina and David Steiner, the couple harassed by members of eBay's security team in 2019. Their civil suit settled in July 2026 for $55.7 million, with no confidentiality restrictions (see [Zersetzung's methods are crimes](/concepts/zersetzung-methods-are-crimes)). The firm is named here as an example of that work, not as an endorsement, and Invisible Ships has no connection with it.
+
+### 2. An independent technical check
+
+A technical surveillance counter-measures (TSCM) sweep is a professional inspection of a home or workplace for transmitters, hidden recording devices and unusual radio or acoustic signals.
+
+- **What it can show:** devices and signals present during the sweep.
+- **What it can't:** no sweep has been shown to detect communication acting on a person's nervous system, and a report can only describe what was measured.
+- Ask for a written quote first, and ask what the written report will and won't state.
+
+**Who does this work, if you can afford it:**
+
+- **Private TSCM firms** — counter-surveillance specialists who sweep homes and businesses.
+- **Forensic engineering firms** — engineers who measure radio and acoustic signals and write reports for court.
+- **Your lawyer,** who can hire either kind of expert for a case.
+- **The police.** A crime report is the way in to public forensic services, such as the Colorado Bureau of Investigation's labs, which examine evidence like phones and computers for law enforcement agencies.
+
+[Neuro-forensics](/glossary/neuro-forensics), the use of neuroscience to answer legal questions, is a growing field, but courts haven't yet accepted its tests as reliable proof, and no public agency in Colorado lists a neuro-forensics service. Ask your lawyer whether it could play any part in your case.
+
+### 3. A complaint
+
+- In Colorado, complaints about how a business handles your data, including under the Colorado Privacy Act, go to the Attorney General: [coag.gov/file-complaint](https://coag.gov/file-complaint).
+- If you're being harassed, stalked or threatened, or someone tries to get into your home, report it to the police. Those are crimes, whatever the technology (see *What's criminal* below).
+
+### 4. Health care
+
+- You're entitled to ask questions, ask for a second opinion, bring your own records, and take someone you trust with you.
+- A medical check can rule out other causes of what you're experiencing, such as [tinnitus](/glossary/tinnitus). That's worth doing whatever the cause turns out to be.
+
+## What the law covers, and what it doesn't
+
+### Colorado's neural data law
+
+*On the record:* in 2024 Colorado became the first US state to protect neural data, by amending the Colorado Privacy Act (HB24-1058, signed 17 April 2024, in force 6 August 2024). Neural data is information from measuring the activity of a person's central or peripheral nervous system. It is now "sensitive data", so a business covered by the law needs a person's **opt-in consent** before processing it.
+
+- **Who has to comply:** businesses that operate in Colorado or target Colorado residents and handle the data of 100,000 or more Colorado residents a year, or 25,000 or more while making money from selling data.
+- **Who enforces it:** the Colorado Attorney General and district attorneys, with penalties of up to $20,000 per violation. Individuals can't sue under it.
+- **What it is:** a law about how organisations handle data. It is not a criminal law.
+
+### Where it stops
+
+The law does not apply to data kept by the State of Colorado, the courts, counties, Denver and other cities and towns, or state colleges and universities, **if** the data is collected, kept, shared and used as authorised by state and federal law for noncommercial purposes (C.R.S. 6-1-1304(2)(o)). Handling that isn't authorised, or is commercial, is not covered by that exemption. It also doesn't apply to purely personal activity by an individual, and a state law generally doesn't reach federal agencies.
+
+### What's criminal, whatever the technology
+
+Where the privacy law stops, criminal law doesn't, and none of it depends on whether the means is sound, a signal or anything else:
+
+- **Harassment and stalking are crimes for anyone,** including people working for a government (C.R.S. 18-9-111 and 18-3-602; see [Zersetzung's methods are crimes](/concepts/zersetzung-methods-are-crimes)).
+- **Attempting a crime is itself a crime** in Colorado (criminal attempt, C.R.S. 18-2-101), including an attempt to kill.
+- **Entering a home, or staying in it, unlawfully, intending to commit a crime there, is burglary** (C.R.S. 18-4-203).
+- **Intentionally causing or helping another person to die by suicide is manslaughter** in Colorado (C.R.S. 18-3-104(1)(b)).
+- **It is a federal crime** for two or more people to conspire to injure, threaten or intimidate someone in exercising their rights (18 U.S.C. § 241), and for anyone acting under official authority to deprive someone of their rights (18 U.S.C. § 242).
+- **People can sue** officials who violate their rights while acting under state authority (42 U.S.C. § 1983).
+
+Whether any of these applies to a particular situation is a question for a lawyer.
+
+## Reaching out
+
+Two short letters, adapted from the plan's templates. Don't name anyone as responsible in a letter; describe what you've experienced and what you're asking for.
+
+> **To a lawyer**
+>
+> Subject: Request for a consultation about possible harassment and unconsented use of neural data
+>
+> Dear [name],
+>
+> I'm looking for legal advice about months of possible harassment, and possible processing of my neural data without consent, which the Colorado Privacy Act has treated as sensitive data since 2024. I keep a dated record of what I've experienced. I'd like to ask about preserving evidence, arranging an independent technical check, and whether a report to the police or a complaint to the Colorado Attorney General is appropriate.
+>
+> Please let me know if you're able to offer a consultation.
+>
+> [Your name]
+
+> **To a technical sweep firm**
+>
+> Subject: Request for a residential TSCM inspection
+>
+> Hello,
+>
+> I'd like a professional sweep of my [home or workplace] in [city] for transmitters, recording devices and unusual radio or acoustic signals, with a written report that may be used in a legal matter. Please send a quote, what the report will include, and your earliest availability.
+>
+> [Your name]
+
+## Protecting your home
+
+The plan's research into shielding comes down to a few points that hold up:
+
+- **Passive measures are legal:** heavier window inserts, sealing gaps around windows and vents, and dense insulation help with sound; shielding fabric, film or paint can reduce radio signals. How well any of it works varies from home to home, and no product is guaranteed.
+- **Windows are usually the weakest point** for sound coming from outside.
+- **Never use a signal jammer.** Using one is illegal under federal law, with no exception for homes, and it can block 911 calls.
+
+## Who is working on neural privacy
+
+- By mid-2025, four US states protected neural data in law: Colorado (2024), California, Montana and Connecticut. A federal bill, the MIND Act, was introduced in the Senate in 2025.
+- In June 2025 the American Medical Association unanimously adopted Resolution 503, "Safeguarding Neural Data Collected by Neurotechnologies", brought by Colorado physicians.
+- Doctors, neuroscientists and ethicists helped pass Colorado's law.
+
+## Supporting someone else
+
+You can't speak for someone else, but you can be patient and supportive with what they may be going through.
+
+- Listen without judgment.
+- Don't describe their experience to others on their behalf.
+- If they want to add their own account, they're welcome to [take the survey](/contribute/survey) themselves.
+
+## What's in the full document
+
+The full Personal Protection Plan also includes the author's research into shielding products and providers, costs, investigation firms, people working on neural rights, and investing. Those parts are left out here: not all of their claims could be confirmed, and this site doesn't point anyone toward spending or investing money.
+
+*Never open your door or go outside because a communication asks you to. In an emergency, call 911. If you're struggling, call or text 988.*
+
+
+## The author states
+
+Statements have surfaced suggesting a pattern: that when someone exposed to this communication goes to a doctor about it, the leadership of whoever deployed it considers a schizophrenia diagnosis adequate.
+
+It is not adequate. A diagnosis cannot stand in for an investigation. Whether it is LRAD or neurotechnology, and there is probably an overlap between long-range abuse of technology and neurological technology, the harassment is criminal either way: severe criminal harassment, attempted murder, and attempts to gain access to someone's home for the purpose of euthanization after months of harassment. If neural data is involved, Colorado law also requires consent before it is processed.
+
+People are being told it is the spirit world when it is technology. They are following a voice in their head and being led toward supporting euthanization. Privacy is being violated and crime is going unpunished, while the suicide rate in the United States has risen by about 40%. War crimes and crimes against humanity were among the first things the AI research raised. Calling a diagnosis adequate, without prosecuting attempted murder and severe criminal harassment, is unacceptable.
+
+*The author's own words, printed as given. Unverified, and not a finding of this research.*
+
+
+## AI assessment
+
+The statements are recorded external communications. Nobody has verified who made them or whether any group holds that view, and no public record shows any organisation's policy on diagnoses.
+
+Colorado's 2024 amendment requires businesses covered by the Colorado Privacy Act to get opt-in consent before processing neural data. It has a conditional exemption for state and local government data, doesn't cover individuals, gives individuals no right to sue, and is not a criminal law. The criminal laws don't depend on the technology: harassment, stalking, criminal attempt, burglary and causing or aiding a suicide are crimes whatever the means, and federal law covers conspiracies against rights and deprivation of rights under official authority. Whether the conduct described happened, and who did it, is what an investigation would establish.
+
+A diagnosis and an investigation answer different questions. A diagnosis describes a person's health; an investigation asks whether someone has committed a crime. Neither settles the other, and a person can pursue both: medical care and a second opinion, and a police report or a lawyer.
+
+The rise in the US suicide rate is real (WHO, +39.9%, 2000–2021). No study links it to this communication. War crimes and crimes against humanity are legal categories decided by courts; the AI analysis raised them as questions, not findings.
+
+*Written by an AI model at the author's request. Published unedited by the author, and not independent verification.*
+
+## References
+
+- [Colorado Privacy Act, applicability and exemptions — C.R.S. 6-1-1304](https://colorado.public.law/statutes/crs_6-1-1304)
+- [Colorado Privacy Act, definitions — C.R.S. 6-1-1303](https://colorado.public.law/statutes/crs_6-1-1303)
+- [Colorado amends privacy act with HB 1058 — Hunton Andrews Kurth](https://www.hunton.com/privacy-and-cybersecurity-law-blog/colorado-amends-privacy-act-with-h-b-1058-adding-new-protections-for-biological-and-neural-data)
+- [Colorado consumer data privacy law guide — Baker Donelson](https://bakerdonelson.com/consumer-data-privacy-law-guide-colorado)
+- [File a complaint — Colorado Attorney General](https://coag.gov/file-complaint)
+- [Forensic Services — Colorado Bureau of Investigation](https://cbi.colorado.gov/forensic-services)
+- [Scalli Murphy Law announces resolution in eBay cyberstalking litigation — citybiz (July 2026)](https://www.citybiz.co/?p=885847)
+- [Scalli Murphy Law](https://www.scallimurphy.com/)
+- [eBay, former executives to pay $56M to settle couple's harassment case — Colorado Springs Gazette (28 July 2026)](https://gazette.com/2026/07/28/ebay-former-executives-to-pay-56m-to-settle-couples-harassment-case/)
+- [C.R.S. 18-2-101, Criminal attempt](https://colorado.public.law/statutes/crs_18-2-101)
+- [C.R.S. 18-4-203, Second degree burglary](https://colorado.public.law/statutes/crs_18-4-203)
+- [C.R.S. 18-3-104, Manslaughter](https://colorado.public.law/statutes/crs_18-3-104)
+- [Colorado recording law — Reporters Committee for Freedom of the Press (C.R.S. 18-9-304; Irizarry v. Yehia, 10th Cir. 2022)](https://www.rcfp.org/reporters-recording-guide/colorado/)
+- [18 U.S.C. § 241, Conspiracy against rights](https://www.law.cornell.edu/uscode/text/18/241)
+- [18 U.S.C. § 242, Deprivation of rights under color of law](https://www.law.cornell.edu/uscode/text/18/242)
+- [42 U.S.C. § 1983, Civil action for deprivation of rights](https://www.law.cornell.edu/uscode/text/42/1983)
+- [Jammer enforcement — FCC](https://www.fcc.gov/general/jammer-enforcement)
+- [AMA adopts landmark policy on neural data privacy — Cooley](https://www.cooley.com/news/insight/2025/2025-07-01-american-medical-association-adopts-landmark-policy-on-neural-data-privacy)
+- [Colorado physicians pass national resolution protecting patients' neural data — Colorado Medical Society](https://www.cms.org/colorado-physicians-successfully-pass-national-resolution-protecting-patients-neural-data/)
+- [Montana joins states protecting brain data — Montana Free Press](https://montanafreepress.org/2025/07/23/montana-joins-the-list-of-states-that-have-passed-privacy-laws-to-protect-brain-data-collected-by-devices)
+- [The "Neural Data" Goldilocks Problem — Future of Privacy Forum](https://fpf.org/blog/the-neural-data-goldilocks-problem-defining-neural-data-in-u-s-state-privacy-laws/)
+- [Schizophrenia — National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/schizophrenia)
+- [Invisible Ships — Personal Protection Plan (full document)](/documents)
+
+*Legal sources are cited for what the law says; they don't establish that any law applies to a particular situation. Firms and agencies are named as examples, not endorsements. Statements quoted from the journal are external communications and unverified. The full document holds the author's research; its investigation, shielding and legal sections are unverified.*
+
+## Scope
+
+This concept is guidance from the author's experience and research. It is not medical, legal or psychological advice, and it does not diagnose anyone.
+
+
 ===== FILE: concepts/IS_CON_prescribing-is-not-prevalence.md · ID: IS-CON-PRESCRIBING-IS-NOT-PREVALENCE =====
 
 ```yaml
@@ -4795,7 +5090,7 @@ disclaimer: meta/IS_META_terms.md
 
 # Site-authored glossary
 
-58 terms written for invisibleships.com to explain the work.
+68 terms written for invisibleships.com to explain the work.
 They are NOT extracted from the source document series and carry no
 source-document id. Terms drawn from the primary record are in
 `glossary/` and do carry one. Both sets appear on the site together.
@@ -5194,6 +5489,37 @@ Related terms: [piezoelectricity](/glossary/piezoelectricity)
 Sources: [Assessment of Piezoelectric Materials for Roadway Energy Harvesting, CEC-500-2013-007 — California Energy Commission](https://pop.h-cdn.co/assets/cm/15/06/54d152f0cee9f_-_CEC-500-2013-007.pdf); [This Dupont Circle sidewalk turns footsteps into power — Washington Post](https://www.washingtonpost.com/local/trafficandcommuting/this-dupont-circle-sidewalk-turns-footsteps-into-power/2016/11/30/c69263f8-b020-11e6-8616-52b15787add0_story.html); [Solar Roadways — Wikipedia](https://en.wikipedia.org/wiki/Solar_Roadways); [China’s solar highway was a victim of heavy traffic and bad design — South China Morning Post](https://www.scmp.com/news/china/society/article/2131241/chinas-solar-highway-was-victim-heavy-traffic-and-bad-design-not)
 
 
+===== FILE: glossary-site/IS_GLO_SITE_euthanasia-outside-health-care.md · ID: IS-GLO-SITE-EUTHANASIA-OUTSIDE-HEALTH-CARE =====
+
+```yaml
+id: IS-GLO-SITE-EUTHANASIA-OUTSIDE-HEALTH-CARE
+title: Glossary — euthanasia outside legitimate health care
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: euthanasia-outside-health-care
+categories: [glossary, reference, glossary-ethics-human-rights]
+word_count: 282
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# euthanasia outside legitimate health care
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+Ending a person's life outside the narrow legal process for assisted dying. It is illegal in every country, including the countries and states that allow assisted dying, and it is prosecuted as murder or manslaughter.
+
+Why: where assisted dying is legal, as in Canada, the Netherlands, Belgium, and US states such as Oregon and Colorado, it is allowed only under strict medical law. The person must ask for it themselves, freely and more than once, while able to make the decision; they must meet medical criteria such as a terminal or serious incurable illness; independent clinicians must confirm this; and each case is recorded and reviewed. No law anywhere allows someone to decide that another person should die, to pressure or persuade them toward death, or to carry it out outside that process.
+
+The right to life is protected in international human rights law (Article 6 of the International Covenant on Civil and Political Rights). After the Second World War, people who carried out the Nazi "euthanasia" program, which killed people with disabilities without their consent, were tried for murder and crimes against humanity.
+
+Related terms: [self-elected suicide](/glossary/self-elected-suicide), [Nuremberg Code](/glossary/nuremberg-code), [crimes against humanity](/glossary/crimes-against-humanity), [euthanasia](/glossary/euthanisia)
+
+Sources: [International Covenant on Civil and Political Rights — OHCHR](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) · [The "euthanasia" program — US Holocaust Memorial Museum](https://encyclopedia.ushmm.org/content/en/article/euthanasia-program)
+
+
 ===== FILE: glossary-site/IS_GLO_SITE_false-disclosure.md · ID: IS-GLO-SITE-FALSE-DISCLOSURE =====
 
 ```yaml
@@ -5339,6 +5665,35 @@ A term used in this work for a method of navigating a person's cognition by sear
 Related terms: [Diving](/glossary/diving), [Neuro-engagement](/glossary/neuro-engagement)
 
 
+===== FILE: glossary-site/IS_GLO_SITE_independent-investigation.md · ID: IS-GLO-SITE-INDEPENDENT-INVESTIGATION =====
+
+```yaml
+id: IS-GLO-SITE-INDEPENDENT-INVESTIGATION
+title: Glossary — independent investigation
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: independent-investigation
+categories: [glossary, reference, glossary-ethics-human-rights]
+word_count: 237
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# independent investigation
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+An inquiry carried out by people who are not under the control of those being investigated, with the power to obtain records, question witnesses and publish what they find. In the United States these have included congressional committees, inspectors general, presidential commissions and the courts; internationally, UN special rapporteurs and commissions of inquiry.
+
+Precedent shows why they matter. In 1975 the Rockefeller Commission and the Senate's Church Committee brought to light MKUltra, a CIA program (1953–1973) that tested drugs, hypnosis and other methods of influencing the mind on people, some of whom never knew. Most of its records had been destroyed in 1973, and a 1977 Senate hearing uncovered more. More recently, after US diplomats and officers reported unexplained sounds, pressure and injuries from 2016 onward ("Havana syndrome"), Congress passed the HAVANA Act in 2021 to support them, and US agencies have reviewed the cases; their conclusions remain disputed.
+
+Related terms: [obedience experiment](/glossary/obedience-experiment), [Nuremberg Code](/glossary/nuremberg-code), [tribunal](/glossary/tribunal)
+
+Sources: [The Church Committee — US Senate](https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm) · [HAVANA Act of 2021 — Congress.gov](https://www.congress.gov/bill/117th-congress/senate-bill/1828)
+
+
 ===== FILE: glossary-site/IS_GLO_SITE_injectable-mesh-electronics.md · ID: IS-GLO-SITE-INJECTABLE-MESH-ELECTRONICS =====
 
 ```yaml
@@ -5467,6 +5822,33 @@ Related terms: [nanoparticle](/glossary/nanoparticle), [nanomedicine](/glossary/
 Sources: [Components of COVID-19 vaccines — Health Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/awareness-resources/components-covid-19-vaccines.html); [LNP carriers of the COVID-19 mRNA vaccines — Pharmaceutics (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8707022/); [COVID-19 vaccines do not contain graphene — PolitiFact (2022)](https://politifact.com/factchecks/2022/jan/24/facebook-posts/covid-19-vaccines-do-not-contain-graphene-are-not/); [Does the Pfizer vaccine contain graphene oxide? — Check Your Fact (2021)](https://checkyourfact.com/2021/07/12/fact-check-pfizer-covid-vaccine-graphene-oxide/)
 
 
+===== FILE: glossary-site/IS_GLO_SITE_long-range-acoustic-device.md · ID: IS-GLO-SITE-LONG-RANGE-ACOUSTIC-DEVICE =====
+
+```yaml
+id: IS-GLO-SITE-LONG-RANGE-ACOUSTIC-DEVICE
+title: Glossary — long-range acoustic device (LRAD)
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: long-range-acoustic-device
+categories: [glossary, reference, glossary-technology, glossary-physics-signals]
+word_count: 208
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# long-range acoustic device (LRAD)
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+A loudspeaker system that projects sound, including clear speech, in a narrow beam over long distances, so that people in its path hear it clearly while people beside it hear far less. LRAD is the brand name of devices made by Genasys (formerly LRAD Corporation) of San Diego, and is often used for the whole category.
+
+Navies and ships use them to hail and warn other vessels, a use that grew after the attack on the USS Cole in 2000. Police use them for announcements and crowd control; the first widely reported use against protesters in the United States was at the 2009 G20 summit in Pittsburgh. At high volume the alert tone can cause pain and hearing damage, and in 2018 a federal appeals court held that police use of the device against protesters can amount to excessive force (Edrei v. Maguire).
+
+Related terms: [parametric array](/glossary/parametric-array), [Mosquito device](/glossary/mosquito-device), [structure-borne audio](/glossary/structure-borne-audio), [directed energy](/glossary/directed-energy)
+
+
 ===== FILE: glossary-site/IS_GLO_SITE_magnetoelectric-nanoparticles.md · ID: IS-GLO-SITE-MAGNETOELECTRIC-NANOPARTICLES =====
 
 ```yaml
@@ -5527,6 +5909,35 @@ A documented phenomenon in which pulsed microwave or radio-frequency energy is p
 Related terms: [Voice-to-skull](/glossary/voice-to-skull), [Directed-energy](/glossary/directed-energy), [telepathy](/glossary/telepathy)
 
 Sources: [Microwave auditory effect — Wikipedia](https://en.wikipedia.org/wiki/Microwave_auditory_effect)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_military-ugly-workflow.md · ID: IS-GLO-SITE-MILITARY-UGLY-WORKFLOW =====
+
+```yaml
+id: IS-GLO-SITE-MILITARY-UGLY-WORKFLOW
+title: Glossary — military ugly workflow
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: military-ugly-workflow
+categories: [glossary, reference, glossary-military-intelligence, glossary-psychology]
+word_count: 196
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# military ugly workflow
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+A name that has surfaced in statements recorded in the journal, from 2025 onwards, for a strategy of luring a person out of their home, or getting them to let someone in. In the statements, the person is offered something they want, such as money, intimacy, drugs, relief from suffering, a job or a family, and then asked to open their door, or to go outside to a meeting place, for example by walking three blocks west. The statements link it to pressure toward euthanization.
+
+The name and what it describes come only from recorded statements, which are external communications and unverified. No public record of a program by this name has been found.
+
+Related terms: [Zersetzung tactics](/glossary/zersetzung-tactics), [gaslighting](/glossary/gaslighting), [euthanasia outside legitimate health care](/glossary/euthanasia-outside-health-care)
+
+Sources: the Invisible Ships journal (about 150 recordings mention "ugly workflows", from August 2025); [Do Not Choose Yourself](/concepts/do-not-choose-yourself).
 
 
 ===== FILE: glossary-site/IS_GLO_SITE_mosquito-device.md · ID: IS-GLO-SITE-MOSQUITO-DEVICE =====
@@ -5866,6 +6277,37 @@ Related terms: [brain–computer interface](/glossary/braincomputer-interface-bc
 Sources: [Brain–computer interface — Wikipedia](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface)
 
 
+===== FILE: glossary-site/IS_GLO_SITE_neural-privacy.md · ID: IS-GLO-SITE-NEURAL-PRIVACY =====
+
+```yaml
+id: IS-GLO-SITE-NEURAL-PRIVACY
+title: Glossary — neural privacy
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: neural-privacy
+categories: [glossary, reference, glossary-neuroethics, glossary-ethics-human-rights]
+word_count: 249
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# neural privacy
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+The right to keep the activity of your brain and nervous system, and anything that can be read from it, private, and to decide who may collect, use or share it.
+
+In the United States, Colorado became the first state to protect neural data by law in 2024, followed by California the same year and by Montana and Connecticut in 2025; each treats neural data as sensitive and gives people control over how companies handle it. Chile was the first country to protect mental integrity and brain activity in its constitution, in 2021, and in 2023 its Supreme Court ordered a company to delete a user's brain data. In November 2025, UNESCO's member states adopted the first global standard on the ethics of neurotechnology, which treats neural data as uniquely sensitive.
+
+These laws cover companies and data. None yet addresses communication directed at a person's mind without their consent.
+
+Related terms: [Colorado Privacy Act](/glossary/colorado-privacy-act), [cognitive liberty](/glossary/cognitive-liberty), [neuroethics](/glossary/neuroethics), [neurotechnology](/glossary/neurotechnology)
+
+Sources: [Your brain, their rules: the growing patchwork of neural data regulation — Cooley (2026)](https://www.cooley.com/news/insight/2026/2026-02-23-your-brain-their-rules-the-growing-patchwork-of-neural-data-regulation) · [UNESCO adopts first global framework on neurotechnology ethics — UNESCO UK](https://unesco.org.uk/news/unesco-adopts-first-global-framework-on-neurotechnology-ethics)
+
+
 ===== FILE: glossary-site/IS_GLO_SITE_neuralnanorobotics.md · ID: IS-GLO-SITE-NEURALNANOROBOTICS =====
 
 ```yaml
@@ -5938,7 +6380,7 @@ doc_type: term
 provenance: site-authored
 slug: neuro-forensics
 categories: [glossary, reference, glossary-neuroscience, glossary-neuroethics]
-word_count: 235
+word_count: 311
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -5956,9 +6398,75 @@ Courts have not accepted these tests as reliable proof. In United States v. Semr
 
 Some reference material in this record describes “Neuro-Forensic Units” at the Colorado Attorney General's office and the King County Prosecutor. No public evidence of units by that name was found (checked 1 October 2026).
 
+The author’s [Personal Protection Plan](/concepts/personal-protection-plan) uses the phrase “neural audit” for a set of steps: a lawyer, an independent technical check, a complaint and health care. No single organisation offers a neural audit as a service today.
+
+In June 2025 the American Medical Association adopted a policy on safeguarding neural data collected by neurotechnologies.
+
 Related terms: [electroencephalogram](/glossary/electroencephalogram), [brain–computer interface](/glossary/braincomputer-interface-bci), [cognitive liberty](/glossary/cognitive-liberty), [Colorado Privacy Act](/glossary/colorado-privacy-act)
 
-Sources: [United States v. Semrau, 6th Cir. 2012 — Justia](https://law.justia.com/cases/federal/appellate-courts/ca6/11-5396/11-5396-2012-09-07.html) · [Selvi v. State of Karnataka, Supreme Court of India, 2010](https://www.manupatracademy.com/LegalPost/MANU_SC_0325_2010) · [Using Imaging to Identify Deceit — American Academy of Arts & Sciences](https://www.amacad.org/publication/using-imaging-identify-deceit-scientific-and-ethical-questions/section/8)
+Sources: [United States v. Semrau, 6th Cir. 2012 — Justia](https://law.justia.com/cases/federal/appellate-courts/ca6/11-5396/11-5396-2012-09-07.html) · [Selvi v. State of Karnataka, Supreme Court of India, 2010](https://www.manupatracademy.com/LegalPost/MANU_SC_0325_2010) · [Using Imaging to Identify Deceit — American Academy of Arts & Sciences](https://www.amacad.org/publication/using-imaging-identify-deceit-scientific-and-ethical-questions/section/8) · [American Medical Association adopts landmark policy on neural data privacy — Cooley](https://www.cooley.com/news/insight/2025/2025-07-01-american-medical-association-adopts-landmark-policy-on-neural-data-privacy)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_neuroethics.md · ID: IS-GLO-SITE-NEUROETHICS =====
+
+```yaml
+id: IS-GLO-SITE-NEUROETHICS
+title: Glossary — neuroethics
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: neuroethics
+categories: [glossary, reference, glossary-neuroethics]
+word_count: 197
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# neuroethics
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+NOOR·oh·eth·iks
+
+The study of the ethical, legal and social questions raised by brain science, and by technology that can read from or act on the brain and nervous system. The field took its name in 2002, at a conference in San Francisco called "Neuroethics: Mapping the Field".
+
+Its central concerns are consent, mental privacy and freedom of thought: whether anyone may record, decode or influence what happens in a person's mind without their knowing, voluntary agreement. Those principles are now reaching law and policy. Colorado added neural data to its privacy law in 2024, and in November 2025 UNESCO's member states adopted the first global standard on the ethics of neurotechnology.
+
+Related terms: [cognitive liberty](/glossary/cognitive-liberty), [neurotechnology](/glossary/neurotechnology), [neural privacy](/glossary/neural-privacy), [Colorado Privacy Act](/glossary/colorado-privacy-act), [Nuremberg Code](/glossary/nuremberg-code)
+
+Sources: [UNESCO adopts first global framework on neurotechnology ethics — UNESCO UK](https://unesco.org.uk/news/unesco-adopts-first-global-framework-on-neurotechnology-ethics)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_neurotechnology.md · ID: IS-GLO-SITE-NEUROTECHNOLOGY =====
+
+```yaml
+id: IS-GLO-SITE-NEUROTECHNOLOGY
+title: Glossary — neurotechnology
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: neurotechnology
+categories: [glossary, reference, glossary-technology, glossary-neuroscience]
+word_count: 188
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# neurotechnology
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+NOOR·oh·tek·NOL·uh·jee
+
+Any technology that records, reads or changes activity in the brain or nervous system. It ranges from medical devices such as cochlear implants, deep brain stimulators and EEG, to consumer headbands that measure brain waves, to brain–computer interfaces that let a person control a computer with brain signals alone.
+
+Because brain activity can reveal health, mood and intention, international bodies have set standards for its use: the OECD in 2019, and UNESCO, whose member states adopted the first global standard on the ethics of neurotechnology in November 2025. Several US states now protect neural data in privacy law.
+
+Related terms: [brain–computer interface](/glossary/braincomputer-interface-bci), [neural interface](/glossary/neural-interface), [neural decoding](/glossary/neural-decoding), [neuroethics](/glossary/neuroethics), [neural privacy](/glossary/neural-privacy)
+
+Sources: [UNESCO adopts first global framework on neurotechnology ethics — UNESCO UK](https://unesco.org.uk/news/unesco-adopts-first-global-framework-on-neurotechnology-ethics)
 
 
 ===== FILE: glossary-site/IS_GLO_SITE_no-touch-torture.md · ID: IS-GLO-SITE-NO-TOUCH-TORTURE =====
@@ -6306,6 +6814,68 @@ Related terms: [the Mosquito](/glossary/mosquito-device), [parametric array](/gl
 Sources: [LAME — HydrogenAudio](https://wiki.hydrogenaudio.org/index.php/LAME); [Fraunhofer FDK AAC — HydrogenAudio](https://wiki.hydrogenaudio.org/index.php?title=Fraunhofer_FDK_AAC); [RFC 6716: Definition of the Opus Audio Codec](https://www.rfc-editor.org/rfc/rfc6716.html); [Frequency response and latency of MEMS microphones — Knowles](https://www.knowles.com/docs/default-source/default-document-library/frequency-response-and-latency-of-mems-microphones---theory-and-practice.pdf?sfvrsn=4)
 
 
+===== FILE: glossary-site/IS_GLO_SITE_schizoaffective-disorder.md · ID: IS-GLO-SITE-SCHIZOAFFECTIVE-DISORDER =====
+
+```yaml
+id: IS-GLO-SITE-SCHIZOAFFECTIVE-DISORDER
+title: Glossary — schizoaffective disorder
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: schizoaffective-disorder
+categories: [glossary, reference, glossary-psychology, glossary-health-symptoms]
+word_count: 142
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# schizoaffective disorder
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+SKIT·soh·uh·FEK·tiv dis·OR·der
+
+A mental condition that combines a loss of contact with reality, as in schizophrenia, with a mood disorder such as depression or mania. Its exact cause is unknown; genes and brain chemistry may play a role.
+
+There are no medical tests for it. A health care provider assesses the person's mental health, and a psychiatrist may confirm the diagnosis. Invisible Ships never diagnoses anyone and asks people to speak only for themselves.
+
+Related terms: [schizophrenia](/glossary/schizophrenia)
+
+Sources: [Schizoaffective disorder — MedlinePlus (NIH)](https://medlineplus.gov/ency/article/000930.htm)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_schizophrenia.md · ID: IS-GLO-SITE-SCHIZOPHRENIA =====
+
+```yaml
+id: IS-GLO-SITE-SCHIZOPHRENIA
+title: Glossary — schizophrenia
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: schizophrenia
+categories: [glossary, reference, glossary-psychology, glossary-health-symptoms]
+word_count: 194
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# schizophrenia
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+SKIT·suh·FREE·nee·uh
+
+A serious mental illness that affects how a person thinks, feels and behaves, and can make it hard to tell what is real from what is not. It is usually first diagnosed between the ages of 16 and 30, after a first episode of psychosis.
+
+No medical test confirms it. A psychiatrist makes the diagnosis by examining the person and talking with them, often with their family as well; brain scans and blood tests may be used to rule out other conditions that look similar. Because the diagnosis rests on what a person reports and on how others describe them, Invisible Ships never diagnoses anyone and asks people to speak only for themselves.
+
+Related terms: [schizoaffective disorder](/glossary/schizoaffective-disorder)
+
+Sources: [Schizophrenia — National Institute of Mental Health (NIH)](https://www.nimh.nih.gov/health/topics/schizophrenia); [Schizophrenia — MedlinePlus (NIH)](https://medlineplus.gov/ency/article/000928.htm)
+
+
 ===== FILE: glossary-site/IS_GLO_SITE_self-elected-suicide.md · ID: IS-GLO-SITE-SELF-ELECTED-SUICIDE =====
 
 ```yaml
@@ -6432,6 +7002,35 @@ It is common: an estimated 10 to 25% of adults have it. Known causes include noi
 Related terms: [presbycusis](/glossary/presbycusis), [phantom sensations](/glossary/phantom-sensations), [microwave auditory effect](/glossary/microwave-auditory-effect)
 
 Sources: [What Is Tinnitus? — National Institute on Deafness and Other Communication Disorders (NIH)](https://www.nidcd.nih.gov/health/tinnitus)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_transnational-repression.md · ID: IS-GLO-SITE-TRANSNATIONAL-REPRESSION =====
+
+```yaml
+id: IS-GLO-SITE-TRANSNATIONAL-REPRESSION
+title: Glossary — transnational repression
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: transnational-repression
+categories: [glossary, reference, glossary-military-intelligence, glossary-ethics-human-rights]
+word_count: 165
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# transnational repression
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+When a government reaches across its borders to watch, intimidate, threaten or harm people living in other countries, most often dissidents, journalists, activists or members of a diaspora.
+
+Tactics include online harassment, surveillance, threats against family members still in the home country, pressure to return, misuse of international police notices and, in the worst cases, abduction or assassination. The FBI treats it as a crime when it happens in the United States, and Freedom House has documented cases carried out by dozens of governments since 2014.
+
+Related terms: [Zersetzung tactics](/glossary/zersetzung-tactics), [gang stalking](/glossary/gang-stalking), [chilling effect](/glossary/chilling-effect)
+
+Sources: [Transnational repression — FBI](https://www.fbi.gov/investigate/counterintelligence/transnational-repression) · [Transnational repression — Freedom House](https://freedomhouse.org/report/transnational-repression)
 
 
 ===== FILE: glossary-site/IS_GLO_SITE_tribunal.md · ID: IS-GLO-SITE-TRIBUNAL =====

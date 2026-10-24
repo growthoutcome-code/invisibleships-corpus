@@ -5,7 +5,7 @@ the source-document manifest** — like `government-cloud/`, this folder is rese
 output, not journal material, and it does not corroborate (and is not corroborated
 by) anything else in this corpus.
 
-Regenerated 2026-10-12 by `scripts/sync_corpus_health.py`, which
+Regenerated 2026-10-24 by `scripts/sync_corpus_health.py`, which
 recomputes every count below from the live data files.
 
 ## What this is
