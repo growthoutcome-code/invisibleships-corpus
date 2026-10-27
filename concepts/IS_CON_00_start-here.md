@@ -3,9 +3,9 @@ id: IS-CON-00-START-HERE
 title: Concepts — start here
 collection: concepts
 doc_type: section-overview
-concept_count: 52
+concept_count: 54
 generated_by: scripts/export_concepts_md.mjs
-word_count: 1307
+word_count: 1335
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -14,7 +14,7 @@ disclaimer: meta/IS_META_terms.md
 
 *Independent research compiled from public records for informational purposes only. Not legal, medical, or investment advice. Every concept states its BASIS, its ORIGIN, its THEME and the readers it was written for. The basis tiers are ranked, and never blended inside a single concept: a reader who accepts only `documented` entries can still rely on every one of those and discard the rest without unpicking anything. `testimony` is a dated first-person report, verified by nobody, and says so on its own face wherever it appears. Causes are reported as attributed, never asserted. See `meta/IS_META_terms.md`.*
 
-**52 concepts.** Each is a self-contained file, safe to hand to
+**54 concepts.** Each is a self-contained file, safe to hand to
 an assistant on its own.
 
 ## How to read the basis label
@@ -23,7 +23,7 @@ an assistant on its own.
 |---|---|---|---|
 | `documented` | A source, ruling or official record supports this directly. | Strongest | 32 |
 | `structural` | This follows from what the dataset does or does not contain. | Strong, but about the data, not the world | 11 |
-| `pattern` | An observation drawn from experience, offered as an observation. | Offered as an observation, not as proof | 7 |
+| `pattern` | An observation drawn from experience, offered as an observation. | Offered as an observation, not as proof | 9 |
 | `testimony` | A dated first-person report of what the author experienced or was told. Verified by nobody. | Verified by nobody | 2 |
 
 The tiers are ranked and never blended inside a single concept, so a reader
@@ -42,7 +42,7 @@ the archive uses it.
 | Neurotechnology | What can actually be read from a brain, and under what conditions. | 16 |
 | Coercion and control | Documented methods for controlling a person without touching them. | 7 |
 | Health outcomes | Population outcomes measured against the rest of the world. | 2 |
-| Reported experience | First-person report, and what is known about experience without an external source. | 3 |
+| Reported experience | First-person report, and what is known about experience without an external source. | 5 |
 
 ## Who each concept is written for
 
@@ -51,11 +51,11 @@ one. These are routes in, not walls — nothing is hidden from anybody.
 
 | Audience | Who that means | Concepts |
 |---|---|---|
-| Households and individuals | For a person who thinks something is happening to them, or to someone they live with. | 27 |
-| Law enforcement and investigators | For anyone whose job is to establish what happened and to whom. | 20 |
+| Households and individuals | For a person who thinks something is happening to them, or to someone they live with. | 29 |
+| Law enforcement and investigators | For anyone whose job is to establish what happened and to whom. | 21 |
 | Legislators and regulators | For anyone writing or enforcing a rule about any of this. | 24 |
 | Clinicians | For anyone a frightened person is likely to reach first. | 12 |
-| Press and researchers | For anyone who has to decide whether a claim can be published. | 25 |
+| Press and researchers | For anyone who has to decide whether a claim can be published. | 26 |
 
 ## What this section does not establish
 
@@ -119,7 +119,7 @@ in `IS_CON_00_findings.md`, and every dated source behind them is in
 - **Who could refuse a system that saved their child?** `IS_CON_prevention-as-the-product.md` · origin: author — *Not independently verified*
 - **Why does the camera on your door not answer to you?** `IS_CON_whose-eyesight-is-it.md` · origin: author — *Not independently verified*
 
-### pattern (7)
+### pattern (9)
 
 - **What Does a Future with Consent Look Like?** `IS_CON_future-with-consent.md` · origin: author — *Not independently verified*
 - **An Incredible Opportunity** `IS_CON_who-will-say-it-first.md` · origin: author — *Not independently verified*
@@ -127,7 +127,9 @@ in `IS_CON_00_findings.md`, and every dated source behind them is in
 - **Why Hasn't It Been Turned Off?** `IS_CON_why-hasnt-it-been-turned-off.md` · origin: author — *Not independently verified*
 - **Diving** `IS_CON_diving.md` · origin: author — *Not independently verified*
 - **The Diving Ecosystem** `IS_CON_diving-ecosystem.md` · origin: author — *Not independently verified*
-- **Personal Protection Plan** `IS_CON_personal-protection-plan.md` · origin: author — *Not independently verified*
+- **Who protects you?** `IS_CON_personal-protection-plan.md` · origin: author — *Not independently verified*
+- **What can a household do to protect itself?** `IS_CON_what-can-a-household-do.md` · origin: author — *Not independently verified*
+- **What does safe sharing look like?** `IS_CON_safe-sharing.md` · origin: author — *Not independently verified*
 
 ### testimony (2)
 

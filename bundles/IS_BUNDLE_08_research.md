@@ -183,7 +183,7 @@ source-document manifest** — like `government-cloud/` and `public-health/`, th
 is research output, not journal material, and it does not corroborate (and is not
 corroborated by) anything else in this corpus.
 
-Regenerated 2026-10-24 by `scripts/sync_corpus_crime.py`, which recomputes
+Regenerated 2026-10-27 by `scripts/sync_corpus_crime.py`, which recomputes
 every count below from the live data files.
 
 **Scope: the United States only.**
@@ -3255,7 +3255,7 @@ the source-document manifest** — like `government-cloud/`, this folder is rese
 output, not journal material, and it does not corroborate (and is not corroborated
 by) anything else in this corpus.
 
-Regenerated 2026-10-24 by `scripts/sync_corpus_health.py`, which
+Regenerated 2026-10-27 by `scripts/sync_corpus_health.py`, which
 recomputes every count below from the live data files.
 
 ## What this is

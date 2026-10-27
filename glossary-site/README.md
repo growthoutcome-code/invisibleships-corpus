@@ -1,6 +1,6 @@
 # Site-authored glossary
 
-68 terms written for invisibleships.com to explain the work.
+69 terms written for invisibleships.com to explain the work.
 They are NOT extracted from the source document series and carry no
 source-document id. Terms drawn from the primary record are in
 `glossary/` and do carry one. Both sets appear on the site together.

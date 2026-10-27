@@ -3,8 +3,8 @@ id: IS-BUNDLE-07-CONCEPTS-GLOSSARY-TERMS
 title: "Concepts, glossary and terms"
 collection: bundles
 doc_type: bundle
-files: 150
-approx_tokens: 142,500
+files: 153
+approx_tokens: 151,654
 contains: [concepts, glossary, glossary-site, meta]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -15,7 +15,7 @@ disclaimer: meta/IS_META_terms.md
 
 The archive's arguments and findings, both glossaries, and the terms, disclaimer and content warning.
 
-This file joins 150 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
+This file joins 153 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 
@@ -56,15 +56,17 @@ This file joins 150 files from the Invisible Ships archive so it can be uploaded
 - `concepts/IS_CON_official-is-not-independent.md` — Concept — “Official” is not the same as “independent”
 - `concepts/IS_CON_only-you-can-hear-it.md` — Concept — “Only I can hear it” is not, by itself, unusual
 - `concepts/IS_CON_organised-harassment-is-fact.md` — Concept — Organised covert harassment of individuals is established fact
-- `concepts/IS_CON_personal-protection-plan.md` — Concept — Personal Protection Plan
+- `concepts/IS_CON_personal-protection-plan.md` — Concept — Who protects you?
 - `concepts/IS_CON_prescribing-is-not-prevalence.md` — Concept — Prescribing is not a measure of illness
 - `concepts/IS_CON_prevention-as-the-product.md` — Concept — Who could refuse a system that saved their child?
 - `concepts/IS_CON_ruin-first-then-rescue.md` — Concept — We're keeping you to ourselves
+- `concepts/IS_CON_safe-sharing.md` — Concept — What does safe sharing look like?
 - `concepts/IS_CON_seeing-through-the-interface.md` — Concept — What did the see-through brain interface actually do?
 - `concepts/IS_CON_sequence-cannot-be-proven.md` — Concept — We cannot prove which came first, the law or the system
 - `concepts/IS_CON_the-fentanyl-reversal.md` — Concept — The fentanyl reversal
 - `concepts/IS_CON_the-neurotech-bullhorn.md` — Concept — What is the neurotech bullhorn?
 - `concepts/IS_CON_us-rose-against-the-trend.md` — Concept — The world's suicide rate fell. The United States' rose.
+- `concepts/IS_CON_what-can-a-household-do.md` — Concept — What can a household do to protect itself?
 - `concepts/IS_CON_what-children-are-subject-to.md` — Concept — What are children subject to?
 - `concepts/IS_CON_what-is-in-the-shot.md` — Concept — Is there nanotechnology in the COVID-19 vaccines?
 - `concepts/IS_CON_what-it-would-take.md` — Concept — What would it actually take to do this without consent?
@@ -95,6 +97,7 @@ This file joins 150 files from the Invisible Ships archive so it can be uploaded
 - `glossary/IS_GLO_torment.md` — Glossary — torment
 - `glossary/IS_GLO_transparent-brain-computer-interfaces-bcis.md` — Glossary — transparent brain-computer interfaces (BCIs)
 - `glossary-site/README.md`
+- `glossary-site/IS_GLO_SITE_assistance.md` — Glossary — assistance
 - `glossary-site/IS_GLO_SITE_atrocities.md` — Glossary — atrocities (atrocity crimes)
 - `glossary-site/IS_GLO_SITE_blood-brain-barrier.md` — Glossary — blood–brain barrier (BBB)
 - `glossary-site/IS_GLO_SITE_breaching.md` — Glossary — Breaching
@@ -305,9 +308,9 @@ id: IS-CON-00-START-HERE
 title: Concepts — start here
 collection: concepts
 doc_type: section-overview
-concept_count: 52
+concept_count: 54
 generated_by: scripts/export_concepts_md.mjs
-word_count: 1307
+word_count: 1335
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -316,7 +319,7 @@ disclaimer: meta/IS_META_terms.md
 
 *Independent research compiled from public records for informational purposes only. Not legal, medical, or investment advice. Every concept states its BASIS, its ORIGIN, its THEME and the readers it was written for. The basis tiers are ranked, and never blended inside a single concept: a reader who accepts only `documented` entries can still rely on every one of those and discard the rest without unpicking anything. `testimony` is a dated first-person report, verified by nobody, and says so on its own face wherever it appears. Causes are reported as attributed, never asserted. See `meta/IS_META_terms.md`.*
 
-**52 concepts.** Each is a self-contained file, safe to hand to
+**54 concepts.** Each is a self-contained file, safe to hand to
 an assistant on its own.
 
 ## How to read the basis label
@@ -325,7 +328,7 @@ an assistant on its own.
 |---|---|---|---|
 | `documented` | A source, ruling or official record supports this directly. | Strongest | 32 |
 | `structural` | This follows from what the dataset does or does not contain. | Strong, but about the data, not the world | 11 |
-| `pattern` | An observation drawn from experience, offered as an observation. | Offered as an observation, not as proof | 7 |
+| `pattern` | An observation drawn from experience, offered as an observation. | Offered as an observation, not as proof | 9 |
 | `testimony` | A dated first-person report of what the author experienced or was told. Verified by nobody. | Verified by nobody | 2 |
 
 The tiers are ranked and never blended inside a single concept, so a reader
@@ -344,7 +347,7 @@ the archive uses it.
 | Neurotechnology | What can actually be read from a brain, and under what conditions. | 16 |
 | Coercion and control | Documented methods for controlling a person without touching them. | 7 |
 | Health outcomes | Population outcomes measured against the rest of the world. | 2 |
-| Reported experience | First-person report, and what is known about experience without an external source. | 3 |
+| Reported experience | First-person report, and what is known about experience without an external source. | 5 |
 
 ## Who each concept is written for
 
@@ -353,11 +356,11 @@ one. These are routes in, not walls — nothing is hidden from anybody.
 
 | Audience | Who that means | Concepts |
 |---|---|---|
-| Households and individuals | For a person who thinks something is happening to them, or to someone they live with. | 27 |
-| Law enforcement and investigators | For anyone whose job is to establish what happened and to whom. | 20 |
+| Households and individuals | For a person who thinks something is happening to them, or to someone they live with. | 29 |
+| Law enforcement and investigators | For anyone whose job is to establish what happened and to whom. | 21 |
 | Legislators and regulators | For anyone writing or enforcing a rule about any of this. | 24 |
 | Clinicians | For anyone a frightened person is likely to reach first. | 12 |
-| Press and researchers | For anyone who has to decide whether a claim can be published. | 25 |
+| Press and researchers | For anyone who has to decide whether a claim can be published. | 26 |
 
 ## What this section does not establish
 
@@ -421,7 +424,7 @@ in `IS_CON_00_findings.md`, and every dated source behind them is in
 - **Who could refuse a system that saved their child?** `IS_CON_prevention-as-the-product.md` · origin: author — *Not independently verified*
 - **Why does the camera on your door not answer to you?** `IS_CON_whose-eyesight-is-it.md` · origin: author — *Not independently verified*
 
-### pattern (7)
+### pattern (9)
 
 - **What Does a Future with Consent Look Like?** `IS_CON_future-with-consent.md` · origin: author — *Not independently verified*
 - **An Incredible Opportunity** `IS_CON_who-will-say-it-first.md` · origin: author — *Not independently verified*
@@ -429,7 +432,9 @@ in `IS_CON_00_findings.md`, and every dated source behind them is in
 - **Why Hasn't It Been Turned Off?** `IS_CON_why-hasnt-it-been-turned-off.md` · origin: author — *Not independently verified*
 - **Diving** `IS_CON_diving.md` · origin: author — *Not independently verified*
 - **The Diving Ecosystem** `IS_CON_diving-ecosystem.md` · origin: author — *Not independently verified*
-- **Personal Protection Plan** `IS_CON_personal-protection-plan.md` · origin: author — *Not independently verified*
+- **Who protects you?** `IS_CON_personal-protection-plan.md` · origin: author — *Not independently verified*
+- **What can a household do to protect itself?** `IS_CON_what-can-a-household-do.md` · origin: author — *Not independently verified*
+- **What does safe sharing look like?** `IS_CON_safe-sharing.md` · origin: author — *Not independently verified*
 
 ### testimony (2)
 
@@ -2877,7 +2882,7 @@ Not a theory, and not confined to states. Seven decided or settled cases in this
 
 ```yaml
 id: IS-CON-PERSONAL-PROTECTION-PLAN
-title: Concept — Personal Protection Plan
+title: Concept — Who protects you?
 collection: concepts
 doc_type: concept
 basis: pattern
@@ -2887,12 +2892,12 @@ audience: [household, investigators, policy]
 topics: [harassment, proposed-solutions, law-government, technology, euthanization]
 verification: unverified
 generated_by: scripts/export_concepts_md.mjs
-word_count: 3593
+word_count: 4569
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
 ```
-# Personal Protection Plan
+# Who protects you?
 
 *Independent research compiled from public records for informational purposes only. Not legal, medical, or investment advice. Every concept states its BASIS, its ORIGIN, its THEME and the readers it was written for. The basis tiers are ranked, and never blended inside a single concept: a reader who accepts only `documented` entries can still rely on every one of those and discard the rest without unpicking anything. `testimony` is a dated first-person report, verified by nobody, and says so on its own face wherever it appears. Causes are reported as attributed, never asserted. See `meta/IS_META_terms.md`.*
 
@@ -2903,74 +2908,65 @@ disclaimer: meta/IS_META_terms.md
 
 **Not independently verified.**
 
-*This concept is the author's guidance, drawn from his research document, his own experience and the statements recorded in the journal. It is not medical, legal or psychological advice, and nobody here can tell you what is happening to you. Read it under the [Critical Disclaimer](/disclaimer).*
+*This concept is the author's research into his own Personal Protection Plan. It draws on that document, on his Asset Protection Comparison research, on his own experience and on the statements recorded in the journal. It is not medical, legal or psychological advice, and nobody here can tell you what is happening to you.*
 
-This is the site's version of the author's Personal Protection Plan, a research document written in 2026 to protect a person's property and civil rights from unconsented communication and harassment. It keeps the document's order and purpose. Where the document makes a claim that could not be confirmed, the claim is left out here or marked as unconfirmed. The full document, unchanged, is in [Documents](/documents).
+**You protect you.** No plan, product or person can protect you the way your own choices can. The author wrote a [Personal Protection Plan](https://docs.google.com/document/d/1kY_452-jTwhXpABLDKvv8mc0-PE56-6iPPk5BpKtbF8/), a research document kept in the Documents section; this concept asks what it can actually do to help you protect yourself: what you can do for free, what costs money, and what no plan can do. If you live with others, start with [What can a household do to protect itself?](/concepts/what-can-a-household-do)
 
-## Where things stand
+## The short answer
 
-Communication like this, speech, sounds or sensations that a person didn't ask for and can't trace, has not been publicly acknowledged or explained by any government, agency or health authority, as far as Invisible Ships knows. There are technological explanations for it, and [long-range acoustic devices (LRAD)](/glossary/long-range-acoustic-device) are one of them. [Neurotechnology](/glossary/neurotechnology) is another, and the two may overlap: long-range abuse of technology and technology that reaches the nervous system aren't always separate things.
+If this might be happening to you, you may not be able to stop it on your own. What you can do is stay safe, keep a record, and keep your options open, and most of what helps is free. The things that cost money can document what may be happening; none of them can make it stop.
 
-Whichever it is, the conduct people describe, months of harassment, threats, pressure to die, and attempts to get into someone's home, is criminal either way. The technology changes which privacy laws might apply. It doesn't change what is a crime.
+Communication like this, speech, sounds or sensations that a person didn't ask for and can't trace, has not been publicly acknowledged or explained by any government, agency or health authority, as far as Invisible Ships knows. There are technological explanations for it, and [long-range acoustic devices (LRAD)](/glossary/long-range-acoustic-device) are one of them; [neurotechnology](/glossary/neurotechnology) is another, and the two may overlap. Whichever it is, months of harassment, threats, pressure to die and attempts to get into someone's home are criminal either way.
 
-Health care has no recognised explanation for communication delivered by technology at a distance. So when someone describes it to a doctor, the explanation they're usually offered is a psychiatric one, such as [schizophrenia](/glossary/schizophrenia). No medical test confirms that diagnosis; it rests on what a person reports and on how others describe them. That is why this site asks everyone to speak only for themselves, and why it never diagnoses anyone.
+Health care has no recognised explanation for communication like this, so the explanation people are usually offered is a psychiatric one, such as [schizophrenia](/glossary/schizophrenia). No medical test confirms that diagnosis. That is why this site asks everyone to speak only for themselves, and never diagnoses anyone.
 
 *On the record:* between 2000 and 2021 the suicide rate in the United States rose 39.9%, while the world's fell 27% (see [The world's suicide rate fell. The United States' rose.](/concepts/us-rose-against-the-trend)). Nothing establishes a link between that rise and the communication described here.
 
-## The basics
+## What you can do for free
+
+### Never let anyone in, and never reward it
 
 These are the rules the author lives by. In his experience, and in the statements recorded in the journal, breaking any one of them could cost you your life.
 
-### Never let anyone into your home because they ask
-
-- **Never open your door, or give anyone access to your home, because a voice or a communication asks you to.** The journal records statements such as "Open your door for the spirit world," including in the middle of the night. Never do it.
-- **Never go outside to meet someone because you were asked to,** for example "walk three blocks west." In the author's view, you could lose your life.
-- **If you live with children or roommates,** tell them never to open the door or go outside because of something they hear, and never to let anyone in who arrives because of it.
-- In an emergency, call 911.
-
-### Never reward the communication
-
-The people behind this communication aren't calling you on a telephone or writing you an email. They're reaching you through long-range technology, without your consent. That is criminal behaviour, and **you should never reward it**: don't do what it asks, don't bargain with it, and don't accept what it offers.
-
-It may try to tempt you. Recorded statements describe a [military "ugly workflow"](/glossary/military-ugly-workflow): offers of money, intimacy, drugs, relief from suffering, a job or a family, made to get a person to let someone into their home, or to leave it and go outside. However good the offer sounds, it is the same request.
-
-- **Never break the law because someone suggests it or pressures you to.** Being asked is never a reason to act.
-- **Never harm yourself or anyone else,** whatever a communication says.
-- If you're struggling, call or text 988 in the US, or find a free helpline at [findahelpline.com](https://findahelpline.com).
+- **Never open your door, or let anyone into your home, because a voice or a communication asks you to.** The journal records statements such as "Open your door for the spirit world," including in the middle of the night.
+- **Never go outside to meet someone because you were asked to,** for example "walk three blocks west."
+- **If you live with children or roommates,** tell them never to open the door or go outside because of something they hear.
+- **Never reward the communication.** It doesn't reach you by telephone or email; it may be reaching you through long-range technology, without your consent, and if so, that is criminal. Don't do what it asks, don't bargain with it, and don't accept what it offers. It may tempt you: recorded statements describe a [military "ugly workflow"](/glossary/military-ugly-workflow), offers of money, intimacy, drugs, relief from suffering, a job or a family, made to get you to open the door or go outside.
+- **Never break the law because someone suggests it or pressures you to,** and never harm yourself or anyone else, whatever a communication says.
+- In an emergency, call 911. If you're struggling, call or text 988 in the US, or find a free helpline at findahelpline.com.
 
 ### If someone approaches you
 
-Someone you don't know might walk up to you, on the street, in a parking lot or in your neighbourhood, and say something like *"We know what you're going through. Will you sit down and talk to us?"* In the author's view, **that is a life-threatening situation, even in public.**
+Someone you don't know might walk up to you and say something like *"We know what you're going through. Will you sit down and talk to us?"* In the author's view, that may be a life-threatening situation, even in public.
 
+- **Let them speak first.** Don't start the conversation. It gives a real police officer or crisis worker the chance to say who they are.
+- **With a stranger, use the three-second rule:** don't engage for more than about three seconds. "No, thank you," without breaking stride, is safer than asking who they are. Walk towards other people. (From the author's Asset Protection Comparison research.)
 - **Don't sit down, don't get into a vehicle, and don't go anywhere with them.**
-- You don't have to answer their questions. Keep it short and walk away, towards other people.
-- If you feel unsafe, call 911.
-- If someone says they're police or from a crisis team, you can ask for identification, stay standing, and call 911 to confirm who they are.
-- Afterwards, write down the date, the time, the place and what was said.
+- **With someone official,** such as a police officer or a crisis team, ask for identification, stay standing, and call 911 to confirm who they are if you're unsure. This is where a no-contact card helps.
+- **Afterwards,** write down the date, the time, the place and what was said.
+- **Before you share anything with anyone, or if someone asks to meet you,** see [What does safe sharing look like?](/concepts/safe-sharing)
 
-### Never speak about anyone else's experience
+### A no-contact card
 
-Speak only for yourself. Describing what someone else is going through can get them labelled with a diagnosis they never had a say in, and in the author's view it can put them in danger. If someone you know may be affected, let them tell their own story, in their own time.
+A small card you carry and can hand to someone official, so you don't have to explain yourself under pressure. Print it at home:
 
-### Consider wearing a camera
+> **I do not consent** to contact, to anyone entering my home, or to any forced or coerced intervention.
+>
+> I am keeping a dated record, and this conversation may be recorded.
+>
+> **Please contact:** [a lawyer or trusted person, and their phone number]
+>
+> I have a psychiatric advance directive: [where it is kept]
+>
+> In an emergency, call 911.
 
-In the author's view, a camera you wear could save your life. A body camera, or glasses with a built-in camera, records what happens in front of you and can stand as evidence later.
+A card has no legal force on its own. In Colorado, police and clinicians can still act in an emergency if they believe someone is in danger. What it does is show, calmly and on the record, that you don't consent, and who should be called.
 
-*On the record:* Colorado lets you record a conversation you're part of without the other person's consent (C.R.S. 18-9-304), and there is a recognised right to film police doing their duties in public. Recording other people's private conversations without anyone's consent is a crime. Keep your recordings safe, and keep your own copy.
+### A psychiatric advance directive
 
-## Who to share this with
+*On the record:* since 2019, Colorado law (HB19-1044) has let you write a psychiatric advance directive: a legal document, made in advance, saying what mental health care you do and don't want in a crisis, and who should speak for you if you can't. Mental Health Colorado offers it free. It is the lawful way to say what a no-contact card can only point to.
 
-Be careful who you tell, and how much. What you share can be repeated.
-
-- **Someone you already trust,** who will listen without judgment.
-- **A lawyer.** Conversations with a lawyer are usually confidential.
-- **Your own dated record,** kept somewhere only you control.
-- **Keep it quiet.** The plan advises not telling anyone you suspect that you're keeping a record or arranging a technical check. If a device is involved, warning its operators gives them time to switch it off.
-- Take more care with strangers, online groups and social media. Sharing text with an AI service means a company sees it too.
-
-If you work in law enforcement, health care or the military, leave out case details and anything you're bound not to disclose.
-
-## Keep a dated record
+### Keep a dated record
 
 A record made at the time is worth more than a memory, whatever the cause turns out to be. The plan's advice is to **note the exact time** each thing happens, so it can later be compared with anything a technical check finds.
 
@@ -2979,125 +2975,145 @@ A record made at the time is worth more than a memory, whatever the cause turns 
 - Keep what you heard separate from what you think it means.
 - Never edit the original, and keep your own copy.
 
-## Request a neural audit
+### The competency baseline video
 
-The plan calls this a neural audit: four steps that, in the author's words, move the conversation "from your mental health to the physics of the room." No single organisation offers a "neural audit" as a service today; it is put together from the steps below.
+The plan's first step is a dated video of yourself, calm, reading a statement in your own words. If anyone ever tries to force or coerce a diagnosis on you, such as schizophrenia, you would have a recording of yourself speaking clearly and calmly at the time. That may be some of the strongest evidence you have. The author recorded his on 20 January 2026.
 
-### 1. A lawyer
+**Keep it to yourself.** There is value in not sharing it: store it somewhere safe that only you control, keep a copy, and share it only with a lawyer or someone you trust, if and when it's needed.
 
-- Look for a lawyer who handles privacy, technology, criminal or civil rights cases, and ask whether they know the Colorado Privacy Act's 2024 neural data amendment.
-- Ask about a **preservation-of-evidence letter**, which asks a party not to delete records that may matter later.
-- A lawyer can also hire technical experts for you, so their findings are gathered for a case from the start.
+Here's what our research suggests. There are two versions of the script, and this concept doesn't recommend one over the other.
 
-*On the record:* one firm has already won a case built on Zersetzung-style tactics. **Scalli Murphy Law** of Massachusetts represented Ina and David Steiner, the couple harassed by members of eBay's security team in 2019. Their civil suit settled in July 2026 for $55.7 million, with no confidentiality restrictions (see [Zersetzung's methods are crimes](/concepts/zersetzung-methods-are-crimes)). The firm is named here as an example of that work, not as an endorsement, and Invisible Ships has no connection with it.
+**The original script**
 
-### 2. An independent technical check
+> "Today is [date]. My name is [your name]. I am recording this to establish my sound mind and legal intent. I am currently documenting unconsented neurological battery in [city]. I am not suicidal, I am not delusional, and I explicitly reject all 'wellness interventions' or forced medication. This video serves as evidence that I am a competent witness to a crime in progress."
 
-A technical surveillance counter-measures (TSCM) sweep is a professional inspection of a home or workplace for transmitters, hidden recording devices and unusual radio or acoustic signals.
+**An alternative script**
 
-- **What it can show:** devices and signals present during the sweep.
-- **What it can't:** no sweep has been shown to detect communication acting on a person's nervous system, and a report can only describe what was measured.
-- Ask for a written quote first, and ask what the written report will and won't state.
+> "Today is [date], and the time is [time]. My name is [your name], and I'm in [city]. I'm recording this to keep a dated record of my own words and state of mind. I'm documenting communication I didn't consent to, and harassment, which began around [month and year]. I'm calm, and I'm describing what I've experienced as accurately as I can. If I'm ever unable to speak for myself, I'd like [a trusted person or lawyer] to be contacted, and my psychiatric advance directive to be followed. I'm making this recording freely."
 
-**Who does this work, if you can afford it:**
+*Both scripts were developed with AI, and neither is advice. You know your situation best. Take your time, change the words until they're yours, and say only what's true for you. However you choose to word it, a calm, dated statement in your own voice may be one of the most protective things you can keep.*
 
-- **Private TSCM firms** — counter-surveillance specialists who sweep homes and businesses.
-- **Forensic engineering firms** — engineers who measure radio and acoustic signals and write reports for court.
-- **Your lawyer,** who can hire either kind of expert for a case.
-- **The police.** A crime report is the way in to public forensic services, such as the Colorado Bureau of Investigation's labs, which examine evidence like phones and computers for law enforcement agencies.
+| The original says | The alternative says | Why it differs |
+|---|---|---|
+| "I explicitly reject all 'wellness interventions' or forced medication" | Names someone to contact, and points to a psychiatric advance directive | A blanket refusal on video can be read as refusing to cooperate, and could stop help you'd want in a real emergency. A psychiatric advance directive is the legal way to say what care you do and don't want. |
+| "I am not suicidal, I am not delusional" | "I'm calm, and I'm describing what I've experienced as accurately as I can" | A denial can be read as the opposite of what it says. Speaking calmly shows your state of mind more than claiming it. |
+| "unconsented neurological battery" | "communication I didn't consent to, and harassment" | "Battery" is a legal conclusion for a court. Describing what happened is stronger evidence than naming the crime yourself. |
+| "a competent witness to a crime in progress" | (left out) | Also a conclusion for others to reach; the recording itself shows you as a witness. |
+| Date, name, place, sound mind, purpose | The same, plus the time and when it started | These are what make the recording useful. |
 
-[Neuro-forensics](/glossary/neuro-forensics), the use of neuroscience to answer legal questions, is a growing field, but courts haven't yet accepted its tests as reliable proof, and no public agency in Colorado lists a neuro-forensics service. Ask your lawyer whether it could play any part in your case.
+**Choosing your path.** Both versions make a dated record of you, in your own words, that is hard to dismiss later. They differ in what they claim and what they leave out. Read both, decide what you're comfortable saying, and say only what's true for you.
 
-### 3. A complaint
+### Is there a wrong answer? What not to say
 
-- In Colorado, complaints about how a business handles your data, including under the Colorado Privacy Act, go to the Attorney General: [coag.gov/file-complaint](https://coag.gov/file-complaint).
-- If you're being harassed, stalked or threatened, or someone tries to get into your home, report it to the police. Those are crimes, whatever the technology (see *What's criminal* below).
+What you leave out of a recording, a letter or a conversation with an official can matter as much as what you say.
 
-### 4. Health care
+- **Don't name anyone as responsible,** a person, company or agency. Describe what happened, not who you believe did it.
+- **Don't reach legal conclusions yourself.** Avoid words like "battery", "crime in progress" or "attempted murder"; say what you heard, when and where.
+- **Never threaten anyone, even in anger,** and never say you'll harm yourself or anyone else to make a point.
+- **Don't speak for anyone else.** Describe only your own experience; describing someone else's can get them labelled with a diagnosis they never had a say in.
+- **Don't say anything you can't stand behind.** One claim shown to be untrue costs you the credibility of everything that's true.
+- **Don't repeat what the communication tells you as if it were your own plan.** If you record its words, label them "From the distance".
+- **Don't give away where you live** in anything you share publicly.
 
-- You're entitled to ask questions, ask for a second opinion, bring your own records, and take someone you trust with you.
-- A medical check can rule out other causes of what you're experiencing, such as [tinnitus](/glossary/tinnitus). That's worth doing whatever the cause turns out to be.
+### Talking to a doctor
+
+- **Be honest with a doctor, and know what to expect.** A doctor may not have an explanation for communication that may be delivered by technology at a distance; health care doesn't currently recognise it, so the explanation you're most likely to be offered is a psychiatric one, such as schizophrenia.
+- **In the author's view, be wary of a schizophrenia diagnosis** if what you're experiencing may be harassment through technology such as long-range acoustic devices. A diagnosis can't rule out a cause no one has investigated.
+- **You have the right to ask questions:** what is the diagnosis based on? Were other causes considered, including sounds from outside your home? Can I get a second opinion? Bring your dated record, and take someone you trust.
+- **Don't stop seeing a doctor because of this.** A medical check can also rule out other causes, such as [tinnitus](/glossary/tinnitus), and a record of being heard is worth having.
+
+### Who to share this with
+
+- **Someone you already trust,** who will listen without judgment.
+- **A lawyer.** Conversations with a lawyer are usually confidential.
+- **Your own dated record,** kept somewhere only you control.
+- **Keep it quiet.** The plan advises not telling anyone you suspect that you're keeping a record or arranging a technical check.
+- Take more care with strangers, online groups and social media. Sharing text with an AI service means a company sees it too.
+- If you work in law enforcement, health care or the military, leave out case details and anything you're bound not to disclose.
+
+### Reports and complaints
+
+- **The police.** If you're harassed, stalked or threatened, or someone tries to get into your home, report it. Those are crimes, whatever the technology.
+- **The Colorado Attorney General,** for complaints about how a business handles your data, including under the Colorado Privacy Act: coag.gov/file-complaint.
+
+## What costs a little: under about $150
+
+The plan's hardware research answers a common question: **can you record it yourself, with something you can buy online?** Partly. A handheld recorder with a pickup coil or a contact microphone can record sounds, vibrations and low-frequency magnetic hum, cheaply and with a date and time. No consumer device can detect radio signals across the range a professional sweep covers, or prove where a signal came from or who sent it. By the plan's own estimate, this kit does about a tenth of what a professional sweep does.
+
+| Option | Rough cost | What it does | What it can't do |
+|---|---|---|---|
+| Handheld audio recorder | About $55–130 | Records sound in high quality, with the date and time | Show where a sound came from |
+| Telephone pickup coil (plugs into the recorder) | About $10 | Turns low-frequency magnetic hum near walls, wiring or devices into sound you can record | Detect radio signals |
+| Contact microphone | About $10–15 | Records vibration through a wall or window, which an ordinary microphone misses | Tell you what caused it |
+| Signal-blocking bag for a phone | Tens of dollars | Blocks signals to and from a phone while it's inside | Protect a person |
+| Door wedge or portable lock | About $20 | Stops a door being opened while you sleep | Stop anything that doesn't need the door |
+
+### Cameras and home security
+
+Anything you can do for yourself here helps, especially at the door, since so much of what's described involves someone trying to get in.
+
+| Option | Rough cost | What it does | What it can't do |
+|---|---|---|---|
+| Video doorbell | About $60–230, plus about $3–20 a month for cloud recording (some save to a local card for free) | Records anyone who comes to your door | Stop them |
+| Body camera, or glasses with a camera | From about $50–100 for a basic body camera | Records what happens in front of you when you're out or approached | Show who is behind it |
+| Indoor and outdoor cameras | Tens to hundreds of dollars | Records around your home | Record what happens inside a wall or a mind |
+| Monitored home security system | Equipment plus a monthly fee | Sensors on doors and windows, and a company that responds to alarms | Respond to anything that isn't a break-in |
+| Better locks and motion lights | Modest | Make entry harder and visible, with no power or internet needed | — |
+
+- *On the record:* Colorado lets you record a conversation you're part of without the other person's consent (C.R.S. 18-9-304), and there is a recognised right to film police doing their duties in public. Recording **audio** of conversations you're not part of can be a crime, so check a camera's audio setting.
+- Footage stored in the cloud is held by the company that makes the camera. Some cameras can save to a local card instead.
+- In the author's view, a camera you wear could save your life.
+
+## What costs more: hundreds to thousands
+
+| Option | Rough cost | What it does | What it can't do |
+|---|---|---|---|
+| Do-it-yourself shielding: window film or inserts, shielding fabric or paint | The plan estimates about $200–1,200 | Reduces outside sound (mass, sealed gaps, window inserts) and some radio signals (conductive film, fabric, paint) | Guarantee anything; results vary from home to home |
+| A first consultation with a lawyer | Often free or low-cost; Colorado Legal Services gives free civil legal help to people who qualify | Tells you whether any law applies to your situation, and what to preserve | Promise an outcome |
+| A professional sweep (TSCM) | About $1,500–6,000 for an average home | A specialist checks for transmitters, hidden recording devices and unusual radio or acoustic signals, with a written report | Detect communication acting on a person's nervous system |
+| A lawyer's retainer | The plan estimates about $3,000–10,000 | Ongoing legal representation | — |
+| A detailed forensic audit with a legal report | The plan estimates about $5,000–15,000 | An engineer's report written for court | Prove who is responsible |
+| Professional shielding, up to a fully shielded room | The plan estimates $10,000 and up | The most complete physical barrier money can buy | Stop it, if the source isn't blocked by walls |
+
+- **Passive shielding is legal. Never use a signal jammer:** using one is illegal under federal law, with no exception for homes, and it can block 911 calls.
+- **Windows are usually the weakest point** for sound coming from outside.
+- [Neuro-forensics](/glossary/neuro-forensics), the use of neuroscience to answer legal questions, is a growing field, but courts haven't accepted its tests as reliable proof, and no public agency in Colorado lists a neuro-forensics service. Ask a lawyer whether it could play any part.
+- A lawyer can hire technical experts for you, so their findings are gathered for a case from the start. *On the record:* one firm has already won a case built on Zersetzung-style tactics: Scalli Murphy Law of Massachusetts represented Ina and David Steiner, harassed by members of eBay's security team in 2019, whose civil suit settled in July 2026 for $55.7 million (see [Zersetzung's methods are crimes](/concepts/zersetzung-methods-are-crimes)). Named as an example, not an endorsement; Invisible Ships has no connection with it.
+
+## What money can't buy
+
+- **A recording shows that something happened,** not who did it.
+- **A sweep finds devices,** not communication acting on a person.
+- **Shielding reduces what reaches you;** it doesn't remove the source.
+- **No purchase makes it stop.** Only an investigation, or public acknowledgement, can do that.
 
 ## What the law covers, and what it doesn't
 
-### Colorado's neural data law
-
-*On the record:* in 2024 Colorado became the first US state to protect neural data, by amending the Colorado Privacy Act (HB24-1058, signed 17 April 2024, in force 6 August 2024). Neural data is information from measuring the activity of a person's central or peripheral nervous system. It is now "sensitive data", so a business covered by the law needs a person's **opt-in consent** before processing it.
-
-- **Who has to comply:** businesses that operate in Colorado or target Colorado residents and handle the data of 100,000 or more Colorado residents a year, or 25,000 or more while making money from selling data.
-- **Who enforces it:** the Colorado Attorney General and district attorneys, with penalties of up to $20,000 per violation. Individuals can't sue under it.
-- **What it is:** a law about how organisations handle data. It is not a criminal law.
-
-### Where it stops
-
-The law does not apply to data kept by the State of Colorado, the courts, counties, Denver and other cities and towns, or state colleges and universities, **if** the data is collected, kept, shared and used as authorised by state and federal law for noncommercial purposes (C.R.S. 6-1-1304(2)(o)). Handling that isn't authorised, or is commercial, is not covered by that exemption. It also doesn't apply to purely personal activity by an individual, and a state law generally doesn't reach federal agencies.
-
-### What's criminal, whatever the technology
-
-Where the privacy law stops, criminal law doesn't, and none of it depends on whether the means is sound, a signal or anything else:
-
-- **Harassment and stalking are crimes for anyone,** including people working for a government (C.R.S. 18-9-111 and 18-3-602; see [Zersetzung's methods are crimes](/concepts/zersetzung-methods-are-crimes)).
-- **Attempting a crime is itself a crime** in Colorado (criminal attempt, C.R.S. 18-2-101), including an attempt to kill.
-- **Entering a home, or staying in it, unlawfully, intending to commit a crime there, is burglary** (C.R.S. 18-4-203).
-- **Intentionally causing or helping another person to die by suicide is manslaughter** in Colorado (C.R.S. 18-3-104(1)(b)).
-- **It is a federal crime** for two or more people to conspire to injure, threaten or intimidate someone in exercising their rights (18 U.S.C. § 241), and for anyone acting under official authority to deprive someone of their rights (18 U.S.C. § 242).
-- **People can sue** officials who violate their rights while acting under state authority (42 U.S.C. § 1983).
+- *On the record:* in 2024 Colorado became the first US state to protect neural data, by amending the Colorado Privacy Act (HB24-1058, in force 6 August 2024). A business covered by the law needs your **opt-in consent** before processing your neural data. It applies to businesses that handle the data of 100,000 or more Colorado residents a year, is enforced by the Attorney General and district attorneys, and gives individuals no right to sue. It is not a criminal law.
+- **Where it stops:** it doesn't apply to data kept by the State of Colorado, the courts, counties, cities and state universities when used as authorised by law for noncommercial purposes (C.R.S. 6-1-1304(2)(o)), or to purely personal activity; and a state law generally doesn't reach federal agencies.
+- **What's criminal, whatever the technology:** harassment and stalking (C.R.S. 18-9-111, 18-3-602); attempting a crime, including an attempt to kill (criminal attempt, C.R.S. 18-2-101); entering a home unlawfully intending to commit a crime there (burglary, C.R.S. 18-4-203); intentionally causing or helping another person to die by suicide (manslaughter, C.R.S. 18-3-104(1)(b)); conspiring to intimidate someone in exercising their rights (18 U.S.C. § 241) and depriving someone of their rights under official authority (18 U.S.C. § 242). People can sue officials who violate their rights under state authority (42 U.S.C. § 1983).
 
 Whether any of these applies to a particular situation is a question for a lawyer.
 
-## Reaching out
-
-Two short letters, adapted from the plan's templates. Don't name anyone as responsible in a letter; describe what you've experienced and what you're asking for.
-
-> **To a lawyer**
->
-> Subject: Request for a consultation about possible harassment and unconsented use of neural data
->
-> Dear [name],
->
-> I'm looking for legal advice about months of possible harassment, and possible processing of my neural data without consent, which the Colorado Privacy Act has treated as sensitive data since 2024. I keep a dated record of what I've experienced. I'd like to ask about preserving evidence, arranging an independent technical check, and whether a report to the police or a complaint to the Colorado Attorney General is appropriate.
->
-> Please let me know if you're able to offer a consultation.
->
-> [Your name]
-
-> **To a technical sweep firm**
->
-> Subject: Request for a residential TSCM inspection
->
-> Hello,
->
-> I'd like a professional sweep of my [home or workplace] in [city] for transmitters, recording devices and unusual radio or acoustic signals, with a written report that may be used in a legal matter. Please send a quote, what the report will include, and your earliest availability.
->
-> [Your name]
-
-## Protecting your home
-
-The plan's research into shielding comes down to a few points that hold up:
-
-- **Passive measures are legal:** heavier window inserts, sealing gaps around windows and vents, and dense insulation help with sound; shielding fabric, film or paint can reduce radio signals. How well any of it works varies from home to home, and no product is guaranteed.
-- **Windows are usually the weakest point** for sound coming from outside.
-- **Never use a signal jammer.** Using one is illegal under federal law, with no exception for homes, and it can block 911 calls.
-
 ## Who is working on neural privacy
 
-- By mid-2025, four US states protected neural data in law: Colorado (2024), California, Montana and Connecticut. A federal bill, the MIND Act, was introduced in the Senate in 2025.
+- By mid-2025, four US states protected neural data in law: Colorado, California, Montana and Connecticut. A federal bill, the MIND Act, was introduced in the Senate in 2025.
 - In June 2025 the American Medical Association unanimously adopted Resolution 503, "Safeguarding Neural Data Collected by Neurotechnologies", brought by Colorado physicians.
-- Doctors, neuroscientists and ethicists helped pass Colorado's law.
+- Doctors, neuroscientists and ethicists helped pass Colorado's law, among them people working with the Neurorights Foundation, which campaigns for legal protections for the mind.
 
 ## Supporting someone else
 
-You can't speak for someone else, but you can be patient and supportive with what they may be going through.
+You can't speak for someone else, but you can be patient and supportive with what they may be going through. Listen without judgment, don't describe their experience to others on their behalf, and if they want to add their own account, they're welcome to contribute it anonymously themselves.
 
-- Listen without judgment.
-- Don't describe their experience to others on their behalf.
-- If they want to add their own account, they're welcome to [take the survey](/contribute/survey) themselves.
+## How is this different from the Personal Protection Plan document?
 
-## What's in the full document
+The document is the author's working research: written in 2026, developed partly with AI, and kept unchanged as part of the record. Some of its claims, about specific agencies, products and test results, could not be confirmed. This concept asks what the plan can actually do, keeps what holds up, adds what it costs, and says plainly what no plan can do. The full document remains in the Documents section for anyone who wants the whole record.
 
-The full Personal Protection Plan also includes the author's research into shielding products and providers, costs, investigation firms, people working on neural rights, and investing. Those parts are left out here: not all of their claims could be confirmed, and this site doesn't point anyone toward spending or investing money.
+---
 
-*Never open your door or go outside because a communication asks you to. In an emergency, call 911. If you're struggling, call or text 988.*
+*Until the news media acknowledges it, or someone explains the neurotech bullhorn, we are largely on our own. Be careful. The author wishes you the best that life has to offer in this situation.*
+
+*You're not the only one this may be happening to. If you're struggling, call or text 988.*
 
 
 ## The author states
@@ -3126,30 +3142,30 @@ The rise in the US suicide rate is real (WHO, +39.9%, 2000–2021). No study lin
 ## References
 
 - [Colorado Privacy Act, applicability and exemptions — C.R.S. 6-1-1304](https://colorado.public.law/statutes/crs_6-1-1304)
-- [Colorado Privacy Act, definitions — C.R.S. 6-1-1303](https://colorado.public.law/statutes/crs_6-1-1303)
 - [Colorado amends privacy act with HB 1058 — Hunton Andrews Kurth](https://www.hunton.com/privacy-and-cybersecurity-law-blog/colorado-amends-privacy-act-with-h-b-1058-adding-new-protections-for-biological-and-neural-data)
 - [Colorado consumer data privacy law guide — Baker Donelson](https://bakerdonelson.com/consumer-data-privacy-law-guide-colorado)
 - [File a complaint — Colorado Attorney General](https://coag.gov/file-complaint)
-- [Forensic Services — Colorado Bureau of Investigation](https://cbi.colorado.gov/forensic-services)
-- [Scalli Murphy Law announces resolution in eBay cyberstalking litigation — citybiz (July 2026)](https://www.citybiz.co/?p=885847)
-- [Scalli Murphy Law](https://www.scallimurphy.com/)
-- [eBay, former executives to pay $56M to settle couple's harassment case — Colorado Springs Gazette (28 July 2026)](https://gazette.com/2026/07/28/ebay-former-executives-to-pay-56m-to-settle-couples-harassment-case/)
+- [What is a Psychiatric Advance Directive? — Mental Health Colorado](https://www.mentalhealthcolorado.org/pad/)
+- [Colorado's psychiatric advance directive process (HB19-1044) — Greenberg Traurig](https://gtlaw.com/es/insights/2019/7/colorados-new-psychiatric-advance-directive-process-goes-into-effect-aug-2-2019)
+- [Colorado Legal Services](https://coloradolegalservices.org/)
+- [How much do TSCM bug sweeps cost? — Counterespionage.com](https://counterespionage.com/how-much-does-tscm-bug-sweep-cost)
+- [Best video doorbells: pricing — NerdWallet](https://www.nerdwallet.com/p/best/best-video-doorbells)
+- [Handheld recorder prices (Zoom H1n, October 2026) — Equipboard](https://equipboard.com/items/zoom-h1n)
+- [Colorado recording law — Reporters Committee for Freedom of the Press](https://www.rcfp.org/reporters-recording-guide/colorado/)
+- [Jammer enforcement — FCC](https://www.fcc.gov/general/jammer-enforcement)
 - [C.R.S. 18-2-101, Criminal attempt](https://colorado.public.law/statutes/crs_18-2-101)
 - [C.R.S. 18-4-203, Second degree burglary](https://colorado.public.law/statutes/crs_18-4-203)
 - [C.R.S. 18-3-104, Manslaughter](https://colorado.public.law/statutes/crs_18-3-104)
-- [Colorado recording law — Reporters Committee for Freedom of the Press (C.R.S. 18-9-304; Irizarry v. Yehia, 10th Cir. 2022)](https://www.rcfp.org/reporters-recording-guide/colorado/)
 - [18 U.S.C. § 241, Conspiracy against rights](https://www.law.cornell.edu/uscode/text/18/241)
 - [18 U.S.C. § 242, Deprivation of rights under color of law](https://www.law.cornell.edu/uscode/text/18/242)
 - [42 U.S.C. § 1983, Civil action for deprivation of rights](https://www.law.cornell.edu/uscode/text/42/1983)
-- [Jammer enforcement — FCC](https://www.fcc.gov/general/jammer-enforcement)
+- [Scalli Murphy Law announces resolution in eBay cyberstalking litigation — citybiz (July 2026)](https://www.citybiz.co/?p=885847)
 - [AMA adopts landmark policy on neural data privacy — Cooley](https://www.cooley.com/news/insight/2025/2025-07-01-american-medical-association-adopts-landmark-policy-on-neural-data-privacy)
 - [Colorado physicians pass national resolution protecting patients' neural data — Colorado Medical Society](https://www.cms.org/colorado-physicians-successfully-pass-national-resolution-protecting-patients-neural-data/)
-- [Montana joins states protecting brain data — Montana Free Press](https://montanafreepress.org/2025/07/23/montana-joins-the-list-of-states-that-have-passed-privacy-laws-to-protect-brain-data-collected-by-devices)
 - [The "Neural Data" Goldilocks Problem — Future of Privacy Forum](https://fpf.org/blog/the-neural-data-goldilocks-problem-defining-neural-data-in-u-s-state-privacy-laws/)
 - [Schizophrenia — National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/schizophrenia)
-- [Invisible Ships — Personal Protection Plan (full document)](/documents)
 
-*Legal sources are cited for what the law says; they don't establish that any law applies to a particular situation. Firms and agencies are named as examples, not endorsements. Statements quoted from the journal are external communications and unverified. The full document holds the author's research; its investigation, shielding and legal sections are unverified.*
+*Prices are approximate, checked in October 2026; where the author's plan is the only source, the concept says "the plan estimates". Legal sources are cited for what the law says; they don't establish that any law applies to a particular situation. Firms are named as examples, not endorsements. Statements quoted from the journal are external communications and unverified.*
 
 ## Scope
 
@@ -3327,6 +3343,225 @@ A reputation can be destroyed as a means rather than as an end. The tactic appea
 ## Scope
 
 This concept describes a documented tactic and the mechanism connecting its recorded forms. It does not establish that the tactic has been used against any particular person, including the author, or by any named organisation.
+
+
+===== FILE: concepts/IS_CON_safe-sharing.md · ID: IS-CON-SAFE-SHARING =====
+
+```yaml
+id: IS-CON-SAFE-SHARING
+title: Concept — What does safe sharing look like?
+collection: concepts
+doc_type: concept
+basis: pattern
+origin: author
+theme: experience
+audience: [household, investigators, press]
+topics: [harassment, proposed-solutions, law-government, euthanization]
+verification: unverified
+generated_by: scripts/export_concepts_md.mjs
+word_count: 3202
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# What does safe sharing look like?
+
+*Independent research compiled from public records for informational purposes only. Not legal, medical, or investment advice. Every concept states its BASIS, its ORIGIN, its THEME and the readers it was written for. The basis tiers are ranked, and never blended inside a single concept: a reader who accepts only `documented` entries can still rely on every one of those and discard the rest without unpicking anything. `testimony` is a dated first-person report, verified by nobody, and says so on its own face wherever it appears. Causes are reported as attributed, never asserted. See `meta/IS_META_terms.md`.*
+
+**Basis: pattern.** An observation drawn from experience, offered as an observation.  
+**Origin: author.** The author's own observation, from experience.  
+**Theme: Reported experience.**  
+**Written for: Households and individuals · Law enforcement and investigators · Press and researchers.**
+
+**Not independently verified.**
+
+> **Content warning:** this concept contains sensitive and potentially disturbing material, including references to harassment, coercion, threats to life and euthanasia.
+
+*This concept is the author's view, drawn from his own experience and the statements recorded in the journal. It is not legal, medical or psychological advice. Whether any law applies to a particular situation is a question for a lawyer.*
+
+Communication like this has not been publicly acknowledged or explained, and nobody has said what technology may be behind it. In that situation, how someone makes first contact matters. It can help a person, or it can put them in danger. This concept sets out what safe sharing looks like, for anyone who wants to reach the author, and for anyone who wants to reach someone this may be happening to.
+
+**You protect you.** Everything here builds on [Who protects you?](/concepts/personal-protection-plan).
+
+## The short answer
+
+*This comes from the author's experience of being approached by people, and from many conversations, while capturing evidence, about what contact could look like before there is any official, public explanation of the technology.*
+
+**If you want to talk with someone about what they're going through, don't ask unless you can level the playing field.**
+
+- **If you're experiencing the communication too,** and you want to talk with someone else who is, put your own experience in writing first, with your name on it.
+- **If you're not experiencing it,** the author can't meet with you unless you have evidence of a crime in progress: recordings of the harassment, of attempts on someone's life, of forced or coerced efforts to end someone's life (see [euthanasia outside legitimate health care](/glossary/euthanasia-outside-health-care)), or of attempts to get into someone's home.
+- **Either way, evidence comes first,** or your own experience in writing with your real name on it, entirely legitimately.
+
+Share in writing first. Don't ask the other person to do anything. Never ask them to come outside, open their door or meet a stranger. Let the evidence speak before anyone does.
+
+## What is never acceptable
+
+- **Asking someone to come out of their home to meet a stranger,** especially after communication in the middle of the night that may come from a [long-range acoustic device](/glossary/long-range-acoustic-device). In the author's view, that can be life-threatening.
+- **Ambushing someone,** at their door, in the street or anywhere they didn't agree to.
+- **Presenting yourself as someone you're not.** Pretending to be a police officer, a public official, or anyone else, to get a meeting may be a crime (see the end of this concept).
+- **Pressuring someone to make a statement or a decision,** on the spot or on a deadline they didn't set.
+
+## When "assistance" means something else
+
+Statements recorded in the journal, from what the author calls the neurotech bullhorn, ask again and again: *"Do you accept assistance?"* In those statements, the assistance on offer is euthanization. In the author's view, that's a lie about what is being offered: it calls something that would end a life "help".
+
+**What assistance actually means.** To assist is to give support or aid (see [assistance](/glossary/assistance)). Real assistance looks like health care, financial support and an explanation of what is happening. Ending someone's life is not assistance.
+
+A large pattern in the recorded statements describes what might follow a yes, or a visit:
+
+- being **handcuffed on your own property** until you agree to be euthanized;
+- being **driven to an infirmary,** and **handcuffed to a hospital bed or held** there until you agree to go through with it;
+- or **losing your life on the spot.**
+
+These are recorded statements: external communications, unverified, and nothing here says they are true. They are the reason for one firm rule.
+
+- **Never say yes to "assistance"** offered by the communication, or by a stranger who says they know what you're going through. Don't agree, don't bargain, and don't go anywhere with them.
+
+*On the record:* in Colorado, nobody can lawfully be held until they agree to die. Medical aid in dying is only for an adult with a terminal illness and six months or less to live, who asks for it voluntarily, more than once, and takes the medication themselves. Holding someone, or pressuring them toward death, is a crime (see [euthanasia outside legitimate health care](/glossary/euthanasia-outside-health-care) and the law at the end of this concept).
+
+### Why ask for permission?
+
+The statements insist: *"You must accept assistance."* *"You're so selfish for not accepting assistance."* Some say it's needed to "clean up a telepathic outbreak." The most recent, on 27 October 2026, describe what follows a yes: handcuffs, a 72-hour hold, and euthanization within that time.
+
+The handcuffs, as the statements describe them, aren't for everyone. They come with resistance: someone who resists when they arrive is handcuffed and pressured to go with them, possibly because a hold is said to have already been placed, whether or not anyone says so. Someone who resists at any later point, who becomes angry or upset, or breaks down at the infirmary, is handcuffed to the bed.
+
+One story in the statements, from about six months ago: a financial adviser in his forties accepted assistance. In the ambulance, he changed his mind. The driver answered, in effect, that he had to finish his job, and the man could talk to them when they arrived. At the location, he was told that now he was there, he had to go forward, and he was put in a holding cell. The story says he was starved for a couple of weeks, and let out after about three weeks.
+
+Why would anyone need a yes? One possible answer is that consent, and a hold, could be used to make something criminal look like a legal, even humane, process.
+
+*On the record:* in Colorado, an emergency mental health hold lasts no longer than 72 hours, can't be served in a jail, and is only for someone who, because of a mental health disorder, is an imminent danger to themselves or others (C.R.S. 27-65-106). It has nothing to do with medical aid in dying, which a person with a terminal illness must ask for themselves. No hold, and no "yes" given under pressure, makes ending a life lawful. In general, an adult who is able to make decisions can refuse to be taken by ambulance, and can change their mind, unless they are under a legal hold. A hold can't last more than 72 hours without a court, can't be served in a cell, and confining someone without lawful authority is a crime (false imprisonment, C.R.S. 18-3-303).
+
+## If you're an organisation with evidence
+
+*A law enforcement agency, a law firm or a technology organisation that has evidence of a crime in progress against someone.*
+
+- **Share the evidence with them first, in writing,** so they can read it in their own time and show it to a lawyer.
+- **Don't ask them to do anything.** Not to come in, not to meet, not to sign.
+- **Tell them you don't want them to make any statements yet.**
+- **Have a lawyer ready** to work with them, and say so.
+- **Say that no decision is needed today,** while encouraging them to act quickly.
+
+**An example message**
+
+> "We don't want you to make any statements at this time. We've captured evidence at your home, and we've already sent it to you by email. We have a law firm ready to work with you. We don't need any decision from you today, but we'd encourage you to act quickly. Please read what we've sent, and show it to anyone you trust."
+
+## If you're sharing your own evidence
+
+- **Put your name to it.** If you share your transcripts or your story in writing, with your name and contact details on it, you're in the same position as the author, who has put his name to his own. That levels the playing field.
+- **A conversation comes after that, not before.** The author doesn't take calls, interviews or meetings about what someone is going through unless that person has first shared, in writing and with their contact details, official evidence or their own story. [Contact us](/contribute/contact) is the place to start.
+- **Be truthful.** In the author's view, lying about your identity, or about having experienced this, to get a meeting is dangerous and unacceptable, and using a false name or false details to do it may be a crime.
+
+## The value of silence
+
+Before you share anything, ask who you're sharing it with, and what it might cost them.
+
+In the author's experience, and in the statements recorded in the journal, the people someone talks to may be drawn in too. A mother, a father, a coworker, observed speaking with you, may be harassed in turn, and pressured to support your euthanization. If that might happen, sharing with them doesn't protect you, and it may put them at risk.
+
+- **Silence can be protective,** for you and for the people you love.
+- **Who do you share with?** A lawyer, where conversations are usually confidential; your own dated record; and, carefully, people you've thought it through with (see [What can a household do to protect itself?](/concepts/what-can-a-household-do)).
+- **Share in writing, on your terms,** rather than in conversations that can be overheard or pressured.
+- **Choosing silence is not giving up.** It may be one of the safest things you can do until there is a public explanation.
+
+## If someone approaches you
+
+From [Who protects you?](/concepts/personal-protection-plan):
+
+- **If someone approaches you and suggests they know what you're going through and want to help, let them speak first, and don't say anything.** This is where a no-contact card matters most.
+- **Don't tell a stranger that you're hearing voices.** Health care has no recognised explanation for communication like this, so the explanation people are usually offered is a psychiatric one, such as [schizophrenia](/glossary/schizophrenia). In Colorado, a peace officer or certain health professionals can place someone on an emergency mental health hold of up to 72 hours if they believe that, because of a mental health disorder, the person is an imminent danger to themselves or others (C.R.S. 27-65-106). In the author's view, a misdiagnosis made in that moment could do terrible harm to your life, or cost you your life. Say as little as you can, hand over your no-contact card, and talk about what you're experiencing with a lawyer, or a doctor you trust (see "Talking to a doctor" in *Who protects you?*).
+- **With a stranger, keep it to about three seconds:** "No, thank you," without breaking stride, and walk towards other people.
+- **Consider carrying a no-contact card,** so you don't have to explain yourself under pressure. *Who protects you?* has one you can print.
+- **Don't sit down, get into a vehicle or go anywhere with them.**
+- **Afterwards, write down** the date, the time, the place and what was said.
+
+## How to greet someone safely
+
+One of the most important things to understand, in the author's experience: in this harassment, nobody uses a telephone and nobody uses email. The pressure comes at night, aimed at getting into homes. In the daytime, people are discredited. None of it is legal.
+
+So legitimate contact looks like the opposite. For anyone with a legitimate reason to make contact:
+
+- **Make first contact in writing,** never at someone's door, and never at night.
+- **Say who you are in a way they can check:** a name, an organisation, and a public phone number they can call back.
+- **If you meet,** let them choose a public place, in daylight, and bring someone with them.
+- **Respect "no."** One no is the answer.
+
+## What the law says
+
+*On the record (Colorado):*
+- Taking on a false identity, including using false personal details, to gain a benefit or to injure or defraud someone may be criminal impersonation (C.R.S. 18-5-113).
+- Repeatedly pressuring someone after they've said no may be harassment or stalking (C.R.S. 18-9-111, 18-3-602).
+- **Ending a life is lawful in Colorado only under the End-of-Life Options Act (2016):** an adult Colorado resident with a terminal illness and a prognosis of six months or less, who is able to make the decision, asks for it voluntarily and takes the medication themselves (C.R.S. 25-48-101 and following). Outside the Act, intentionally causing or helping another person to die by suicide is manslaughter (C.R.S. 18-3-104(1)(b)). No law allows anyone to pressure a person toward death.
+- An emergency mental health hold lasts no longer than 72 hours and can't be served in a jail; it requires a belief that the person, because of a mental health disorder, is an imminent danger to themselves or others, or gravely disabled (C.R.S. 27-65-106).
+- Pretending to be a peace officer and acting in that role is a class 5 felony (C.R.S. 18-8-112); pretending to be another public servant is a misdemeanor (C.R.S. 18-8-113).
+
+Whether any of these applies to a particular situation is a question for a lawyer.
+
+If you live with others, see also [What can a household do to protect itself?](/concepts/what-can-a-household-do)
+
+## What would change this
+
+**Acknowledgement.** Until communication like this is publicly acknowledged and explained, everyone it reaches is on their own. What the author is calling for:
+
+- **Mainstream news media coverage,** so that what people describe can be investigated rather than explained away.
+- **A daily national emergency alert about LRAD.** The national alerts are among the strongest messages anyone can receive: they take over phones (Wireless Emergency Alerts) and interrupt local television and radio (the Emergency Alert System). In the author's view, you can't depend on people following the news while they're busy, or while they're suffering; an alert reaches them anyway. Today these alerts tell everyone when a child has been abducted. They have never been used to warn about this communication, even though, in the author's view, it may be costing lives, children's included.
+
+**An example emergency alert**
+
+> "Emergency Alert: Life-threatening LRAD (long-range acoustic device) technology has been detected in your area. It is used for severe criminal harassment. Do not respond to anyone trying to communicate with you or offering assistance. Do not let anyone into your home. Do not go outside looking for them. An official address is coming. In danger, call 911."
+
+*This is an example emergency alert message, written for this concept. No such alert has been issued. A phone alert is limited to 360 characters.*
+
+- **It isn't only about the person being targeted.** Acknowledgement could stop this from spreading to people who are asked to harm others while believing they're dealing with the spirit world.
+
+### Why isn't there an explanation?
+
+Law enforcement's performance can be measured by arrests, or by the absence of crime. When someone understands that a government cloud system may be able to observe crime, and perhaps even thoughts, how likely are they to commit a crime again? Could the way law enforcement's performance is measured be one of the reasons this hasn't been acknowledged? This site has no evidence either way; it asks the question.
+
+### A future without crime
+
+Imagine: over a couple of generations, crime around the world falls to 5% of what it is today, because every last person finally has the information, and understands that they can be observed at any time. How might that change the face of crime? It's a hope, not a forecast, and it starts with acknowledgement. For what that future might look like, see [What Does a Future with Consent Look Like?](/concepts/future-with-consent)
+
+---
+
+*Until the news media acknowledges it, or someone explains the neurotech bullhorn, we are largely on our own. Be careful, and look after each other.*
+
+
+## The author states
+
+Sharing safely is about leveling the playing field. If you want to hear my story, put your name to yours, or to the evidence you hold, in writing. I won't come outside to meet a stranger, and nobody should be asked to.
+
+*The author's own words, printed as given. Unverified, and not a finding of this research.*
+
+
+## AI assessment
+
+The guidance follows established safety practice: written first contact, identity that can be checked, no pressure, and a lawyer involved early.
+
+The Colorado statutes cited were checked against their current text on 26 October 2026. Whether they apply to a particular situation depends on facts only a lawyer or a court can weigh.
+
+The call for a daily national emergency alert is the author's proposal. In the US, alerts go out through FEMA's Integrated Public Alert and Warning System (IPAWS): Wireless Emergency Alerts on phones and the Emergency Alert System on radio and television, used today for warnings such as AMBER Alerts. Federal, state and local alerting authorities can send them; none has issued an alert about long-range acoustic devices. The question about measuring law enforcement by arrests is presented as a question, with no evidence offered for an answer.
+
+The “assistance” pattern comes from recorded statements, which are unverified. The concept presents it as a reason for caution, not as a finding, and sets the law beside it: in Colorado, medical aid in dying requires a voluntary request from an adult with a terminal illness, and nobody can lawfully be held until they agree to die.
+
+*Written by an AI model at the author's request. Published unedited by the author, and not independent verification.*
+
+## References
+
+- [C.R.S. 18-5-113, Criminal impersonation](https://colorado.public.law/statutes/crs_18-5-113)
+- [C.R.S. 18-8-112, Impersonating a peace officer](https://colorado.public.law/statutes/crs_18-8-112)
+- [C.R.S. 18-8-113, Impersonating a public servant](https://colorado.public.law/statutes/crs_18-8-113)
+- [C.R.S. 18-3-104, Manslaughter](https://colorado.public.law/statutes/crs_18-3-104)
+- [C.R.S. 27-65-106, Emergency mental health hold](https://colorado.public.law/statutes/crs_27-65-106)
+- [C.R.S. 18-3-303, False imprisonment](https://colorado.public.law/statutes/crs_18-3-303)
+- [Colorado End-of-Life Options: eligibility — Denver Health](https://www.denverhealth.org/patients-visitors/amenities-experience/end-of-life-options)
+- [Invisible Ships — Who protects you? (no-contact card, the three-second rule, talking to a doctor)](/concepts/personal-protection-plan)
+- [Invisible Ships — What can a household do to protect itself?](/concepts/what-can-a-household-do)
+
+*Legal sources are cited for what the law says; they don't establish that any law applies to a particular situation. The patterns described come from recorded statements, which are external communications and unverified.*
+
+## Scope
+
+This concept is the author's view and guidance. It is not medical, legal or psychological advice, and it does not diagnose anyone.
 
 
 ===== FILE: concepts/IS_CON_seeing-through-the-interface.md · ID: IS-CON-SEEING-THROUGH-THE-INTERFACE =====
@@ -3630,6 +3865,132 @@ Between 2000 and 2021, on the one basis that allows countries to be compared at 
 - [The suicide comparison chart](/data)
 
 *The chart carries the per-country method, caveats and source behind each line.*
+
+
+===== FILE: concepts/IS_CON_what-can-a-household-do.md · ID: IS-CON-WHAT-CAN-A-HOUSEHOLD-DO =====
+
+```yaml
+id: IS-CON-WHAT-CAN-A-HOUSEHOLD-DO
+title: Concept — What can a household do to protect itself?
+collection: concepts
+doc_type: concept
+basis: pattern
+origin: author
+theme: experience
+audience: [household]
+topics: [harassment, proposed-solutions, euthanization]
+verification: unverified
+generated_by: scripts/export_concepts_md.mjs
+word_count: 1285
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# What can a household do to protect itself?
+
+*Independent research compiled from public records for informational purposes only. Not legal, medical, or investment advice. Every concept states its BASIS, its ORIGIN, its THEME and the readers it was written for. The basis tiers are ranked, and never blended inside a single concept: a reader who accepts only `documented` entries can still rely on every one of those and discard the rest without unpicking anything. `testimony` is a dated first-person report, verified by nobody, and says so on its own face wherever it appears. Causes are reported as attributed, never asserted. See `meta/IS_META_terms.md`.*
+
+**Basis: pattern.** An observation drawn from experience, offered as an observation.  
+**Origin: author.** The author's own observation, from experience.  
+**Theme: Reported experience.**  
+**Written for: Households and individuals.**
+
+**Not independently verified.**
+
+> **Content warning:** this concept contains sensitive and potentially disturbing material, including references to harassment, coercion, drug use, self-harm and euthanasia. If you need support, call or text 988.
+
+*This concept is the author's observation, drawn from his own experience and the statements recorded in the journal. The families in it are illustrations, not real people. It is not medical, legal or psychological advice, and nobody here can tell you what is happening to you or anyone you live with.*
+
+When communication like this reaches one person, it rarely stays with one person. It reaches the people they live with, through what they hear, what they're told, and what it does to the trust between them. This concept asks what a household can do together, before anything else.
+
+## What might the harassment of a household look like?
+
+*It often starts by singling out one person.*
+
+In the author's experience, and in the statements recorded in the journal, one person in a group may be picked out and targeted, while the people around them may or may not hear it. The aim, in the author's view, is to divide: to turn one person into the problem, and the others against them.
+
+### Imagine a family
+
+A mother, a father, a 14-year-old son and his sister. The father goes out to buy dinner. While he's gone, the son is singled out: the communication accuses him of smoking fentanyl, and tells him his father is going to poison his food.
+
+He calls his father right away. "Dad, they said you're going to poison my food."
+
+"I understand. We're being harassed as a family, son. I love you. Would you like me to Cash App you some money so you can order your own food?"
+
+"No, Dad, it's okay. I trust you. I love you too, Dad."
+
+He told his father immediately. His father believed him and took the pressure off. And the trust held.
+
+The author isn't a psychiatrist, but that's the kind of response he suggests: calm, believing, and practical.
+
+### Imagine what the parents might go through
+
+The same communication could turn on them: accusations of cheating and infidelity, pressure about money and debts, each partner told something different about the other. A couple who can't trust what they hear about each other may stop trusting each other at all. That is why the household has to talk about it together.
+
+### Imagine a single mother
+
+She works two jobs and cares for several children alone. There's no second adult to check in with, little time, no money to spare, and children who may hear things she can't explain. She may be the most vulnerable of all, and the least likely to be believed.
+
+### Imagine a shelter
+
+The author stayed in a large shelter in Denver: three dormitories, each one open room with rows of beds under a 30-foot ceiling, about 300 people including staff. In the author's experience, in each dormitory someone was singled out. What he heard, which in his view may have been a [long-range acoustic device](/glossary/long-range-acoustic-device), echoed through the building day and night, and people were asked to put their hands up for euthanization.
+
+### Just how bad could it be?
+
+The more people share a space, a home, a shelter or a workplace, the more people may hear it, and the easier it may be to turn one person into the problem. Without a public explanation, everyone is left to make sense of it alone. Singling out a person to isolate and discredit them is a known tactic, with a name and a history (see [Zersetzung's methods are crimes](/concepts/zersetzung-methods-are-crimes)).
+
+## Talk about it together, privately
+
+The first thing a household can do costs nothing: sit down together, at dinner if that's easiest, and talk about it. Not to decide what it is, but to agree how you'll handle it if it happens to any of you.
+
+- Say plainly that it may happen, and that it may single one of you out.
+- Agree that whoever it singles out will be believed, not blamed.
+- Agree the house rules below, and come back to them often.
+
+## House rules
+
+- **Nobody speaks for another member's experience outside the home.** Describing what someone else is going through can get them labelled with a diagnosis they never had a say in, and in the author's view it can put them in danger. Each of you can still call 911 or 988, and you decide together who you trust: a lawyer, a doctor you trust.
+- **Nobody opens the door or lets anyone in** because of something they hear or are promised, whether money, drugs, intimacy or relief from suffering. Never, for any reason. Recorded statements describe offers like these as a [military "ugly workflow"](/glossary/military-ugly-workflow).
+- **Nobody goes outside to meet someone** because they were asked to.
+- **Tell each other immediately** when something happens, the way the son called his father.
+- **Never reward the communication,** and never break the law because someone suggests it or pressures you to.
+
+## Documenting it as a household
+
+- **One shared log:** the date, the time, who heard what, and what was said, kept somewhere only the household controls.
+- **Each person records their own experience,** labelled "From the distance". Nobody records for someone else.
+- **A camera at the door,** since so much of what's described involves the door.
+- **A quick check-in each day:** did anyone hear anything?
+- **Copies in more than one place.**
+
+The tools, from a handheld recorder to a doorbell camera, and what they cost, are in [Who protects you?](/concepts/personal-protection-plan).
+
+## The hard reality
+
+Without a public explanation, anyone in a household could stop taking part. Someone may come to believe it's spiritual, lose hope, and open the door at 3 a.m. to a stranger (see [Do Not Choose Yourself](/concepts/do-not-choose-yourself)). That's the hardest truth of all of this: the threat may come through the people you love, not just from outside.
+
+That's why the conversation has to happen early, and keep happening.
+
+## How to keep a household together
+
+- **Check in often,** even when nothing has happened.
+- **Never blame the person being singled out.** Being singled out is not something they did.
+- **Remember that hope matters.** You may not be the only household this is happening to.
+- **Look after each other,** and if anyone is struggling, call or text 988.
+
+---
+
+*Until the news media acknowledges it, or someone explains the neurotech bullhorn, households are largely on their own. Be careful, and look after each other. The author wishes you and your family the best that life has to offer.*
+
+## References
+
+- [Invisible Ships — Who protects you? (tools, costs and the law)](/concepts/personal-protection-plan)
+- [Invisible Ships — Zersetzung's methods are crimes](/concepts/zersetzung-methods-are-crimes)
+- [Invisible Ships — Do Not Choose Yourself](/concepts/do-not-choose-yourself)
+
+## Scope
+
+This concept is the author's observation and guidance. Its families are illustrations, not real people. It is not medical, legal or psychological advice, and it does not diagnose anyone.
 
 
 ===== FILE: concepts/IS_CON_what-children-are-subject-to.md · ID: IS-CON-WHAT-CHILDREN-ARE-SUBJECT-TO =====
@@ -5090,10 +5451,39 @@ disclaimer: meta/IS_META_terms.md
 
 # Site-authored glossary
 
-68 terms written for invisibleships.com to explain the work.
+69 terms written for invisibleships.com to explain the work.
 They are NOT extracted from the source document series and carry no
 source-document id. Terms drawn from the primary record are in
 `glossary/` and do carry one. Both sets appear on the site together.
+
+
+===== FILE: glossary-site/IS_GLO_SITE_assistance.md · ID: IS-GLO-SITE-ASSISTANCE =====
+
+```yaml
+id: IS-GLO-SITE-ASSISTANCE
+title: Glossary — assistance
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: assistance
+categories: [glossary, reference, glossary-ethics-human-rights]
+word_count: 215
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# assistance
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+Help given to a person: support or aid. Merriam-Webster defines to assist as to “give usually supplementary support or aid to” someone. In health care, social services and everyday life, assistance means things like care and treatment, financial support, a safe place to stay, and an explanation of what is happening.
+
+Why it matters here: statements recorded in the journal ask, again and again, “Do you accept assistance?” while what they offer is euthanization. Ending a person's life is not assistance in the ordinary meaning of the word. Where the law allows medical aid in dying, as Colorado does, it is a narrow medical process that a person with a terminal illness must ask for themselves; it is never offered by a voice or a stranger, and nobody can be held until they agree to it.
+
+Related terms: [euthanasia outside legitimate health care](/glossary/euthanasia-outside-health-care), [self-elected suicide](/glossary/self-elected-suicide), [military ugly workflow](/glossary/military-ugly-workflow)
+
+Sources: [assist — Merriam-Webster](https://www.merriam-webster.com/dictionary/assist) · [What does safe sharing look like?](/concepts/safe-sharing)
 
 
 ===== FILE: glossary-site/IS_GLO_SITE_atrocities.md · ID: IS-GLO-SITE-ATROCITIES =====
