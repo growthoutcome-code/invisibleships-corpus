@@ -59,7 +59,7 @@ This file joins 32 files from the Invisible Ships archive so it can be uploaded 
 
 # Invisible Ships — start here
 
-*The research archive behind invisibleships.com, compiled by Sean C. Harris · generated 2026-10-27 · 1,311 files · about 1,240,000 words*
+*The research archive behind invisibleships.com, compiled by Sean C. Harris · generated 2026-11-09 · 1,425 files · about 1,278,000 words*
 
 This is the first file to read, for a person or for an AI assistant. It covers:
 1. Instructions for an AI assistant that has been given this archive
@@ -147,7 +147,7 @@ Use these formats:
 | **Concepts** | The archive's arguments and headline findings | 60 | 107,000 | `summaries/IS_SUM_concepts.md` |
 | **Glossary** | Terms from the source series and terms written for the site | 88 | 38,000 | `summaries/IS_SUM_glossary.md` |
 | **Research** | Crime, public health, government cloud: briefs and row data | 148 | 254,000 | `summaries/IS_SUM_research.md` |
-| **News** | Official releases and outside reporting, summarised and linked | 300 | 123,000 | `summaries/IS_SUM_news.md` |
+| **News** | Official releases and outside reporting, summarised and linked | 414 | 186,000 | `summaries/IS_SUM_news.md` |
 | **Terms** | Disclaimer, copyright, content warning, vocabulary | 10 | 6,000 | `summaries/IS_SUM_terms.md` |
 | **Recaps** | Short recaps of every part and month (AI-assisted) | 31 | 34,000 | `summaries/IS_SUM_00_overview.md` |
 
@@ -177,9 +177,9 @@ The archive is also provided as 9 large files, one per part, so you never have t
 | 04 | `bundles/IS_BUNDLE_04_journal-part-03.md` | Journal Part 03 (29 Sep – 8 Nov 2025) | 57 | 210,000 | 0.8 MB |
 | 05 | `bundles/IS_BUNDLE_05_journal-part-04-and-discovery-notes.md` | Journal Part 04 (9 Nov 2025 – 2026) and Discovery Notes | 105 | 282,000 | 1.1 MB |
 | 06 | `bundles/IS_BUNDLE_06_documents.md` | Documents | 243 | 160,000 | 0.6 MB |
-| 07 | `bundles/IS_BUNDLE_07_concepts-glossary-terms.md` | Concepts, glossary and terms | 153 | 155,000 | 0.6 MB |
+| 07 | `bundles/IS_BUNDLE_07_concepts-glossary-terms.md` | Concepts, glossary and terms | 153 | 156,000 | 0.6 MB |
 | 08 | `bundles/IS_BUNDLE_08_research.md` | Research: crime, public health, government cloud | 76 | 257,000 | 1.0 MB |
-| 09 | `bundles/IS_BUNDLE_09_news.md` | News | 299 | 150,000 | 0.6 MB |
+| 09 | `bundles/IS_BUNDLE_09_news.md` | News | 413 | 224,000 | 0.9 MB |
 
 Smaller downloads are in the `editions/` folder and on https://github.com/growthoutcome-code/invisibleships-corpus: **the brief** (under 20,000 tokens, for free plans) and **the study edition** (about 100,000 tokens: every recap, a catalogue of every journal file, a concordance and the headline findings — one file an AI can read completely). Start with one of those, or with **bundle 01** (this file, plus every recap). Then add the bundle for the part you want to ask about. The individual files in the other folders are the same content, kept separate for citing and for code.
 
@@ -312,7 +312,7 @@ The Journal, Concepts, Research and Glossary pages on **invisibleships.com** are
 | Folder | Files | What it is |
 |---|---|---|
 | `journal/` | 428 | The primary record — dated entries and verbatim transcripts. |
-| `news/` | 300 | Official releases and outside reporting, each summarised and linked to the original. |
+| `news/` | 414 | Official releases and outside reporting, each summarised and linked to the original. |
 | `references/` | 242 | The analysis and reference documents, chunked by section. |
 | `glossary-site/` | 70 | Terms written for the site to explain the work. |
 | `concepts/` | 60 | The archive's arguments, each labelled by basis, origin, theme and reader. |

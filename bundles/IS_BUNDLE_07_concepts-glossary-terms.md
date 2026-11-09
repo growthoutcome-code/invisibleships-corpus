@@ -4,7 +4,7 @@ title: "Concepts, glossary and terms"
 collection: bundles
 doc_type: bundle
 files: 153
-approx_tokens: 151,654
+approx_tokens: 151,750
 contains: [concepts, glossary, glossary-site, meta]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -3359,7 +3359,7 @@ audience: [household, investigators, press]
 topics: [harassment, proposed-solutions, law-government, euthanization]
 verification: unverified
 generated_by: scripts/export_concepts_md.mjs
-word_count: 3202
+word_count: 3268
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -3510,6 +3510,8 @@ If you live with others, see also [What can a household do to protect itself?](/
 > "Emergency Alert: Life-threatening LRAD (long-range acoustic device) technology has been detected in your area. It is used for severe criminal harassment. Do not respond to anyone trying to communicate with you or offering assistance. Do not let anyone into your home. Do not go outside looking for them. An official address is coming. In danger, call 911."
 
 *This is an example emergency alert message, written for this concept. No such alert has been issued. A phone alert is limited to 360 characters.*
+
+Send it every day, to every affected ZIP code, until the life-threatening LRAD harassment stops. Once everyone in an area knows what it is, a voice at night loses much of its power: people stop opening their doors, stop following instructions, and start writing things down. How long might it take before the harassment stopped, and what would that tell us about who was behind it?
 
 - **It isn't only about the person being targeted.** Acknowledgement could stop this from spreading to people who are asked to harm others while believing they're dealing with the spirit world.
 

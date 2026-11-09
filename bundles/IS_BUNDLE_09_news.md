@@ -3,8 +3,8 @@ id: IS-BUNDLE-09-NEWS
 title: "News"
 collection: bundles
 doc_type: bundle
-files: 299
-approx_tokens: 137,187
+files: 413
+approx_tokens: 205,581
 contains: [news]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -15,7 +15,7 @@ disclaimer: meta/IS_META_terms.md
 
 Official releases and outside reporting, one item per section, each summarised and linked.
 
-This file joins 299 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
+This file joins 413 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 
@@ -299,25 +299,139 @@ This file joins 299 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-07-28-ebay-former-execs-settle-couple-s-cyberstalking-suit-for-55.md` — eBay former execs settle couple's cyberstalking suit for $55.7M
 - `news/IS_NEWS_2026-08-18-fbi-violent-crime-drop-in-2025.md` — FBI: violent crime drop in 2025
 - `news/IS_NEWS_2026-09-01-american-citizen-who-worked-as-an-agent-for-the-prc.md` — American Citizen who Worked as an Agent for the PRC Sentenced to Two Years in Prison
+- `news/IS_NEWS_2026-09-02-study-demonstrates-the-potential-of-magnetoelectric-nanoparticles-for-wireless-neuromodulation.md` — Study demonstrates the potential of magnetoelectric nanoparticles for wireless neuromodulation
 - `news/IS_NEWS_2026-09-09-drug-delivering-particles-aim-to-breach-the-blood-brain-barrier.md` — Drug-delivering particles aim to breach the blood–brain barrier
 - `news/IS_NEWS_2026-09-15-dhs-signs-cumulus-cloud-contract-with-google.md` — DHS signs Cumulus cloud contract with Google
 - `news/IS_NEWS_2026-09-15-members-of-russian-intelligence-services-network-charged.md` — Members of Russian Intelligence Services Network Charged with Conspiring to Finance Terrorism and Commit Murder for Hire in the United States
 - `news/IS_NEWS_2026-09-16-liability-for-unregistered-foreign-agents.md` — Liability for Unregistered Foreign Agents
 - `news/IS_NEWS_2026-09-18-governor-issues-executive-order-to-accelerate-independent-oversight.md` — Governor issues executive order to accelerate independent oversight and advance the creation of an AI kill switch
+- `news/IS_NEWS_2026-09-19-lawsuit-says-ai-companies-made-illegal-deal-on-ai-slowdown.md` — Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown
 - `news/IS_NEWS_2026-09-23-tech-ceo-russian-national-arrested-on-complaint-alleging.md` — Tech CEO, Russian National Arrested on Complaint Alleging They Hid Russian Ownership and Development of Software Sold to U.S. Government
 - `news/IS_NEWS_2026-09-24-openai-hacked-medicare-portal-prime-minister-says.md` — OpenAI hacked Medicare portal, Prime Minister says
 - `news/IS_NEWS_2026-09-25-precision-neuroscience-raises-250m-in-series-d-for-its-bci.md` — Precision Neuroscience raises $250M in Series D for its BCI
 - `news/IS_NEWS_2026-09-29-healthcare-campaigners-turn-up-the-heat-on-palantir-at-labour.md` — Healthcare campaigners turn up the heat on Palantir at Labour conference
 - `news/IS_NEWS_2026-09-30-california-s-nation-leading-ai-framework-just-got-stronger.md` — California's nation-leading AI framework just got stronger
+- `news/IS_NEWS_2026-10-01-3-ex-servicemen-indicted-for-allegedly-spying-for-china.md` — 3 ex-servicemen indicted for allegedly spying for China
 - `news/IS_NEWS_2026-10-01-an-ai-mind-reading-tool-can-reconstruct-what-you-re-looking.md` — An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan
 - `news/IS_NEWS_2026-10-01-california-man-arrested-for-smuggling-more-than-300-million.md` — California Man Arrested for Smuggling More Than $300 Million in Export-Controlled Computer Servers to China
+- `news/IS_NEWS_2026-10-01-solving-a-longstanding-problem-in-drug-delivery.md` — Solving a longstanding problem in drug delivery
+- `news/IS_NEWS_2026-10-01-the-clock-is-ticking-nationwide-protests-demand-nhs-cuts-ties-with-palantir.md` — 'The clock is ticking' – nationwide protests demand NHS cuts ties with Palantir
 - `news/IS_NEWS_2026-10-03-ice-contract-reveals-network-infrastructure-behind-hsi-surveillance.md` — ICE contract reveals network infrastructure behind HSI surveillance operations
 - `news/IS_NEWS_2026-10-04-ice-observer-lawsuit-shows-how-palantir-records-can-feed.md` — ICE observer lawsuit shows how Palantir records can feed border screening, analytics
 - `news/IS_NEWS_2026-10-05-3-scientists-share-nobel-prize-in-physiology-or-medicine-for.md` — 3 Scientists Share Nobel Prize in Physiology or Medicine for Optogenetics
 - `news/IS_NEWS_2026-10-05-california-woman-arrested-on-charges-alleging-she-acted-as-agent.md` — California Woman Arrested on Charges Alleging She Acted as Agent of China and Spied on Relatives of U.S. Based High-Ranking Taiwanese Government Official
+- `news/IS_NEWS_2026-10-05-korean-banks-on-high-alert-after-wave-of-cyberattacks.md` — Korean banks on high alert after wave of cyberattacks
 - `news/IS_NEWS_2026-10-05-no-65-declaring-a-disaster-emergency-in-the-state-of-new-york.md` — No. 65: Declaring a Disaster Emergency in the State of New York Due to an Ongoing Measles Outbreak
+- `news/IS_NEWS_2026-10-06-aepd-sets-out-safeguards-for-ai-in-video-surveillance-systems.md` — The AEPD sets out the safeguards for incorporating artificial intelligence into video surveillance systems
 - `news/IS_NEWS_2026-10-06-festnahmen-wegen-mutmasslicher-landesverraeterischer-ausspaehung.md` — Arrests for alleged treasonous espionage, gathering of state secrets, attempted treason and spying
+- `news/IS_NEWS_2026-10-06-us-social-security-awards-identity-biometrics-deal-worth-up-to-29-6m.md` — US Social Security awards Carahsoft identity, biometrics deal worth up to $29.6M
+- `news/IS_NEWS_2026-10-07-bridge-neurotech-and-butterfly-network-partner-on-non-invasive-bci.md` — Bridge Neurotech and Butterfly Network Announce Partnership to Develop Fully Non-Invasive Brain-Computer Interface
+- `news/IS_NEWS_2026-10-07-graphene-technology-provides-real-time-insight-into-brain-vulnerability-after-stroke.md` — Graphene technology provides real-time insight into brain vulnerability after stroke
 - `news/IS_NEWS_2026-10-07-inbrain-and-minigraph-consortium-develop-magnetically-guided-robotic-implantation-for-graphene-bcis.md` — INBRAIN and MINIGRAPH consortium develop magnetically guided robotic implantation for ultra-thin graphene brain-computer interfaces
+- `news/IS_NEWS_2026-10-07-pennsylvania-measles-outbreak-update-cases-reach-1078-in-41-counties.md` — Pennsylvania Department of Health Provides Statewide Update on Measles Outbreak as Cases Reach 1,078 in 41 Counties
+- `news/IS_NEWS_2026-10-07-san-francisco-passes-data-center-moratorium-in-hometown-of-ai.md` — San Francisco Passes Data Center Moratorium in Hometown of AI
+- `news/IS_NEWS_2026-10-08-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century.md` — Fact Sheet: Administration Announces the Most Ambitious Set of Science Initiatives This Century
+- `news/IS_NEWS_2026-10-08-building-trust-and-transparency-into-generative-ai-development.md` — Building trust and transparency into generative AI development: our work to create regulatory certainty
+- `news/IS_NEWS_2026-10-08-crowdstrike-finds-possible-bank-hackers-cv-among-exposed-ai-logs.md` — CrowdStrike finds possible bank hacker's CV among exposed AI logs
+- `news/IS_NEWS_2026-10-08-culture-minister-wants-to-curb-sharing-of-digital-imitations.md` — Culture minister wants to curb the sharing of digital imitations from the turn of the year
+- `news/IS_NEWS_2026-10-08-immigration-enforcement-facial-recognition-policy.md` — Immigration Enforcement facial recognition policy
+- `news/IS_NEWS_2026-10-08-justice-department-and-fbi-seize-vulnerability-scanning-and-spear-phishing-tools.md` — Justice Department and FBI Seize Vulnerability Scanning and Spear Phishing Tools Operated and Used by China-State Sponsored Hackers
+- `news/IS_NEWS_2026-10-08-paradromics-demonstrates-four-years-of-stable-neural-recording.md` — Paradromics Demonstrates Four Years of Stable Neural Recording in Major Brain-Computer Interface Durability Milestone
+- `news/IS_NEWS_2026-10-08-precision-neuroscience-unveils-a-new-map-of-the-human-nervous-system.md` — Precision Neuroscience Unveils a New Map of the Human Nervous System
+- `news/IS_NEWS_2026-10-08-russia-plans-wider-use-of-biometrics-across-public-life.md` — Russia plans wider use of biometrics across public life
+- `news/IS_NEWS_2026-10-08-watchdog-to-examine-summertime-hack-of-dhs-information-network.md` — Watchdog to examine summertime hack of DHS information network, other incidents
+- `news/IS_NEWS_2026-10-08-yandex-data-center-hit-in-drone-attack-in-russia.md` — Yandex data center hit in drone attack in Russia
+- `news/IS_NEWS_2026-10-09-a-breakthrough-approach-for-treating-parkinsons-disease.md` — A breakthrough approach for treating Parkinson's disease
+- `news/IS_NEWS_2026-10-09-how-nanomedicine-could-turn-immune-resistant-tumors-against-themselves.md` — How nanomedicine could turn immune-resistant tumors against themselves
+- `news/IS_NEWS_2026-10-09-ice-scraps-visa-vetting-system-recompete-in-favor-of-palantir-foundry.md` — ICE scraps visa vetting system recompete in favor of Palantir Foundry
+- `news/IS_NEWS_2026-10-09-ice-voter-data-nonprofit-investigations-expose-expansive-surveillance-machinery.md` — ICE voter data, nonprofit investigations expose expansive surveillance machinery
+- `news/IS_NEWS_2026-10-09-judge-stays-dhs-policy-blocking-biometrics-for-detained-immigration-applicants.md` — Judge Stays DHS Policy Blocking Biometrics for Detained Immigration Applicants
+- `news/IS_NEWS_2026-10-09-new-oecd-report-examines-neural-data-governance-issues.md` — New OECD report examines neural data governance issues
+- `news/IS_NEWS_2026-10-09-researchers-map-how-nanoparticles-and-predictive-models-could-improve-brain-drug-delivery.md` — Researchers Map How Nanoparticles And Predictive Models Could Improve Brain Drug Delivery
+- `news/IS_NEWS_2026-10-09-second-yandex-data-center-hit-in-drone-strikes-in-russia.md` — Second Yandex data center hit in drone strikes in Russia
+- `news/IS_NEWS_2026-10-09-two-men-deny-carrying-out-surveillance-for-iran-of-israeli-embassy-in-uk.md` — Two men deny carrying out surveillance for Iran of Israeli embassy in UK
+- `news/IS_NEWS_2026-10-09-u-n-warns-neurotechnology-could-put-human-rights-at-risk.md` — U.N. Warns Neurotechnology Could Put Human Rights at Risk
+- `news/IS_NEWS_2026-10-09-us-surpasses-4000-measles-cases-with-infections-confirmed-in-45-states.md` — US surpasses 4,000 measles cases with infections confirmed in 45 states: CDC
+- `news/IS_NEWS_2026-10-11-dhs-biometric-overhaul-remains-tied-to-thales-as-hart-deadline-passes.md` — DHS biometric overhaul remains tied to Thales as HART deadline passes
+- `news/IS_NEWS_2026-10-12-cedars-sinai-cancer-smart-bomb-to-get-development-boost.md` — Cedars-Sinai Cancer 'Smart Bomb' to Get Development Boost
+- `news/IS_NEWS_2026-10-12-memphis-council-delays-decision-on-year-long-data-center-moratorium.md` — Memphis council delays decision on year-long data center moratorium despite protests
+- `news/IS_NEWS_2026-10-12-russian-military-takes-out-more-ukrainian-data-centers.md` — Russian military takes out more Ukrainian data centers
+- `news/IS_NEWS_2026-10-12-super-micro-contractor-pleaded-guilty-to-smuggling-ai-servers-to-china.md` — Super Micro contractor pleaded guilty to smuggling $2.5B in Nvidia AI servers to China
+- `news/IS_NEWS_2026-10-12-third-strike-on-yandex-data-center-in-russia.md` — Third strike on Yandex data center in Russia
+- `news/IS_NEWS_2026-10-13-council-unanimously-approves-data-center-moratorium.md` — Council Unanimously Approves Data Center Moratorium
+- `news/IS_NEWS_2026-10-13-home-office-asylum-ai-flunks-one-in-five-accuracy-checks.md` — Home Office asylum AI flunks one in five accuracy checks
+- `news/IS_NEWS_2026-10-13-ice-contract-reveals-ai-social-media-monitoring-capabilities.md` — ICE contract reveals AI social media monitoring capabilities, raises surveillance questions
+- `news/IS_NEWS_2026-10-13-ice-seeks-voice-biometrics-to-identify-detainees-outside-callers.md` — ICE seeks voice biometrics to identify detainees, outside callers in AI surveillance system
+- `news/IS_NEWS_2026-10-13-justice-department-announces-coordinated-actions-to-combat-north-korean-remote-it-worker-schemes.md` — Justice Department Announces Coordinated Actions to Combat North Korean Remote IT Worker Schemes Affecting More than 70 U.S. Companies
+- `news/IS_NEWS_2026-10-13-mofa-security-checks-uncover-china-developed-software.md` — MOFA security checks uncover China-developed software
+- `news/IS_NEWS_2026-10-13-reprogrammed-nk-immune-cells-target-cancer-and-autoimmune-disorders.md` — Reprogrammed NK immune cells target cancer and autoimmune disorders
+- `news/IS_NEWS_2026-10-13-saudi-national-arrested-for-installing-surreptitious-audio-recording-device-at-openai.md` — Saudi National Arrested for Installing Surreptitious Audio Recording Device at OpenAI
+- `news/IS_NEWS_2026-10-13-science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient.md` — Science Corporation implants its vision-restoring chip in its first Stargardt disease patient
+- `news/IS_NEWS_2026-10-13-statement-on-smart-glasses.md` — Statement on Smart glasses
+- `news/IS_NEWS_2026-10-14-cdc-to-deploy-additional-support-to-pennsylvania-to-probe-measles-outbreak.md` — CDC to deploy additional support to Pennsylvania to probe measles outbreak
+- `news/IS_NEWS_2026-10-14-eus-ai-rules-face-first-enforcement-test-over-lab-incidents.md` — EU's AI rules face first enforcement test over lab incidents
+- `news/IS_NEWS_2026-10-14-federal-law-enforcement-cbp-and-ice-should-improve-body-worn-camera-program-management.md` — Federal Law Enforcement: CBP and ICE Should Improve Body-Worn Camera Program Management
+- `news/IS_NEWS_2026-10-14-quantum-computing-federal-actions-needed-to-prepare-for-emerging-cyber-threat.md` — Quantum Computing: Federal Actions Needed to Prepare for Emerging Cyber Threat
+- `news/IS_NEWS_2026-10-14-reno-pd-liability-in-facial-recognition-arrest-lawsuit-comes-down-to-training.md` — Reno PD liability in facial recognition arrest lawsuit comes down to training
+- `news/IS_NEWS_2026-10-14-spyware-manufacturer-had-access-to-data-harvested-by-former-polish-government.md` — Spyware manufacturer had access to data harvested by former Polish government, current PM says
+- `news/IS_NEWS_2026-10-14-statement-mopac-and-palantir.md` — Statement: MOPAC and Palantir
+- `news/IS_NEWS_2026-10-15-a-new-lipid-recipe-helps-mrna-delivery-stay-on-target.md` — A new lipid recipe helps mRNA delivery stay on target
+- `news/IS_NEWS_2026-10-15-dhs-audit-exposes-tsa-access-control-failures-amid-biometric-expansion.md` — DHS audit exposes TSA access control failures amid biometric expansion
+- `news/IS_NEWS_2026-10-15-exposing-adfection-targeted-ads-pipeline-for-zero-click-mercenary-spyware.md` — Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware
+- `news/IS_NEWS_2026-10-15-ico-reprimands-met-over-third-party-data-leak.md` — ICO Reprimands Met Over Third-Party Data Leak
+- `news/IS_NEWS_2026-10-15-new-dna-nanoprobe-lights-up-oral-tumors-to-guide-surgery-in-mice.md` — New DNA Nanoprobe Lights Up Oral Tumors to Guide Surgery in Mice
+- `news/IS_NEWS_2026-10-15-russian-national-arrested-and-extradited-to-new-york-on-charges-of-evading-sanctions-on-russia.md` — Russian National Arrested and Extradited to New York on Charges of Evading Sanctions on Russia
+- `news/IS_NEWS_2026-10-15-salvia-bioelectronics-initiates-pivotal-study-with-first-patient-in-the-us-receiving-ultra-thin-neuromodulation-implant.md` — Salvia BioElectronics Initiates Pivotal Study with First Patient in the U.S. Receiving Ultra Thin Neuromodulation Implant for Resistant Migraine
+- `news/IS_NEWS_2026-10-15-suspected-kazakhstan-linked-hackers-target-governments-across-former-soviet-states.md` — Suspected Kazakhstan-linked hackers target governments across former Soviet states
+- `news/IS_NEWS_2026-10-15-us-drops-case-against-ex-cia-analyst-accused-of-aiding-s-korea.md` — US drops case against ex-CIA analyst accused of aiding S. Korea
+- `news/IS_NEWS_2026-10-15-why-are-eight-us-states-suing-openai.md` — Why are eight US states suing OpenAI?
+- `news/IS_NEWS_2026-10-16-attorney-general-joins-lawsuit-seeking-consumer-protections-as-chatbot-service-declares-bankruptcy.md` — Attorney general joins lawsuit seeking consumer protections as chatbot service declares bankruptcy
+- `news/IS_NEWS_2026-10-16-attorney-general-secures-settlement-with-temu-to-protect-texans-data.md` — Attorney General Secures First-of-Its-Kind Settlement with Temu to Protect Texans' Data from the CCP and to Protect Consumers from Toxic Products from China
+- `news/IS_NEWS_2026-10-16-china-says-it-will-curb-tech-exports-including-ai-citing-national-security-risks.md` — China says it will curb tech exports, including AI, citing national security risks
+- `news/IS_NEWS_2026-10-16-germany-approves-digital-id-law-with-biometrics-opt-out-for-eudi-wallet.md` — Germany approves digital ID law with biometrics opt-out for EUDI Wallet
+- `news/IS_NEWS_2026-10-17-us-state-department-awards-paravision-up-to-6-5m-for-digital-identity-assurance.md` — US State Department awards Paravision up to $6.5M for digital identity assurance
+- `news/IS_NEWS_2026-10-18-protests-against-data-centers-have-also-arrived-in-italy.md` — Protests against data centers have also arrived in Italy
+- `news/IS_NEWS_2026-10-19-lilly-partners-with-hong-kongs-metis-in-deal-to-bolster-ai-nanoparticle-discovery.md` — Lilly partners with Hong Kong's Metis in $1.1B deal to bolster AI nanoparticle discovery
+- `news/IS_NEWS_2026-10-19-paradromics-and-siemens-healthineers-launch-imaging-initiative-for-bcis.md` — Paradromics and Siemens Healthineers Launch Strategic Initiative to Build Advanced Imaging Foundation for the Future of Brain-Computer Interfaces
+- `news/IS_NEWS_2026-10-19-serbian-rectors-phone-was-infected-with-spyware-during-student-protests.md` — Serbian rector's phone was infected with spyware during student protests, group says
+- `news/IS_NEWS_2026-10-19-swiss-army-rejected-us-tech-firm-palantir-on-five-occasions.md` — Swiss army rejected US tech firm Palantir on five occasions
+- `news/IS_NEWS_2026-10-19-uq-technology-opens-new-front-in-alzheimers-and-parkinsons-drug-discovery.md` — UQ technology opens new front in Alzheimer's and Parkinson's drug discovery
+- `news/IS_NEWS_2026-10-19-vk-data-center-near-st-petersburg-russia-struck-by-drone.md` — VK data center near St. Petersburg, Russia, struck by drone
+- `news/IS_NEWS_2026-10-20-2-men-rearrested-in-uk-on-suspicion-of-assisting-iran-over-suspected-plot-at-us-run-air-base.md` — 2 men rearrested in UK on suspicion of assisting Iran over suspected plot at a US-run air base
+- `news/IS_NEWS_2026-10-20-clearview-ai-faces-court-of-appeal-test-of-uk-fine.md` — Clearview AI faces Court of Appeal test of 7.5m pound UK fine
+- `news/IS_NEWS_2026-10-20-delhi-police-riot-vans-facial-recognition-cameras-raise-surveillance-questions.md` — Delhi police riot vans, facial recognition cameras raise surveillance questions
+- `news/IS_NEWS_2026-10-20-dhs-order-excluding-and-removing-deepseek-products-from-federal-civilian-systems.md` — Notice of Order Regarding Exclusion and Removal of DeepSeek Products From Federal Civilian Executive Branch Information Technology Systems and Procurements
+- `news/IS_NEWS_2026-10-20-fda-approves-first-of-its-kind-chronic-hepatitis-b-treatment.md` — FDA Approves First-of-Its-Kind Chronic Hepatitis B Treatment
+- `news/IS_NEWS_2026-10-20-judge-throws-out-doj-attempt-to-deny-communities-day-in-court-against-xai.md` — Judge throws out U.S. DOJ attempt to deny communities' day in court against xAI
+- `news/IS_NEWS_2026-10-20-memphis-data-center-moratorium-fails-after-city-council-vote-ends-in-tie.md` — Memphis data center moratorium fails after City Council vote ends in tie
+- `news/IS_NEWS_2026-10-20-nigeria-confirms-imported-case-of-ebola-bundibugyo-virus-disease.md` — Nigeria confirms imported case of Ebola Bundibugyo virus disease
+- `news/IS_NEWS_2026-10-20-supercomputer-reveals-how-size-could-shape-the-future-of-nanomedicine.md` — Supercomputer reveals how size could shape the future of nanomedicine
+- `news/IS_NEWS_2026-10-21-alleged-chinese-spys-snooping-on-korea-us-drills-raises-alarm.md` — Alleged Chinese spy's snooping on Korea-U.S. drills raises alarm over shared intelligence practices
+- `news/IS_NEWS_2026-10-21-facing-pushback-on-data-centers-tech-giants-are-promising-hosts-more-money.md` — Facing pushback on data centers, tech giants are promising hosts more money and fewer secrets
+- `news/IS_NEWS_2026-10-21-hybrid-nanoparticles-boost-p53-mrna-delivery-in-breast-cancer-models.md` — Hybrid Nanoparticles Boost p53 mRNA Delivery in Breast Cancer Models
+- `news/IS_NEWS_2026-10-21-most-americans-say-ai-is-bad-for-society-oppose-more-data-centers.md` — Most Americans say AI is bad for society, oppose more data centers: ABC/Post/Ipsos poll
+- `news/IS_NEWS_2026-10-22-china-moves-to-set-global-standards-for-brain-computer-interface-technology.md` — China moves to set global standards for brain-computer interface technology
+- `news/IS_NEWS_2026-10-22-despite-moratorium-texas-kept-on-issuing-data-center-permits.md` — Despite moratorium, Texas kept on issuing data center permits. Now, the state agency is shutting down its automatic filing system.
+- `news/IS_NEWS_2026-10-22-fcc-blocks-two-devices-powered-by-huawei-silicon-subsidiary.md` — FCC blocks two devices powered by Huawei silicon subsidiary
+- `news/IS_NEWS_2026-10-22-french-police-use-facial-recognition-social-media-images-to-identify-rioters.md` — French police use facial recognition, social media images to identify rioters
+- `news/IS_NEWS_2026-10-22-germany-arrests-ukrainian-man-accused-of-spying-for-russia.md` — Germany arrests Ukrainian man accused of spying for Russia
+- `news/IS_NEWS_2026-10-22-ice-expands-booz-allen-analytics-contract-to-target-overseas-scam-networks.md` — ICE expands Booz Allen analytics contract by $5.9M to target overseas scam networks
+- `news/IS_NEWS_2026-10-22-oregon-counties-cities-say-data-center-moratorium-could-cost-them-millions.md` — Oregon counties, cities say data center moratorium could cost them millions
+- `news/IS_NEWS_2026-10-22-sunlight-helps-vincristine-form-drug-bearing-gold-nanoparticles.md` — Sunlight Helps Vincristine Form Drug-Bearing Gold Nanoparticles in Five Minutes
+- `news/IS_NEWS_2026-10-22-taiwan-probes-organised-crime-links-to-chinas-transnational-repression.md` — Taiwan probes organised crime links to China's 'transnational repression'
+- `news/IS_NEWS_2026-10-22-tajik-activist-given-lengthy-prison-sentence.md` — Tajik Activist Given Lengthy Prison Sentence
+- `news/IS_NEWS_2026-10-23-attorney-general-sues-openai-and-ceo-for-lying-to-users-and-harming-texans.md` — Attorney General Sues OpenAI and CEO for Lying to Users and Harming Texans
+- `news/IS_NEWS_2026-10-23-austria-expels-4-russian-diplomats-linked-to-espionage.md` — Austria expels 4 Russian diplomats linked to espionage, official says
+- `news/IS_NEWS_2026-10-23-coherence-neuro-raises-45m-for-implantable-cancer-technology.md` — Coherence Neuro raises $45M for implantable cancer technology
+- `news/IS_NEWS_2026-10-23-uk-home-office-publishes-lfr-privacy-assessment-for-immigration-enforcement.md` — UK Home Office publishes LFR privacy assessment for immigration enforcement
+- `news/IS_NEWS_2026-10-23-us-government-contractor-arrested-for-allegedly-leaking-national-defense-information.md` — U.S. Government Contractor Arrested for Allegedly Leaking National Defense Information
+- `news/IS_NEWS_2026-10-25-ice-expansion-deepens-dependence-on-proprietary-digital-identity-network-infrastructure.md` — ICE expansion deepens dependence on proprietary digital identity, network infrastructure
+- `news/IS_NEWS_2026-10-25-us-judge-finds-doge-access-to-federal-personnel-data-violated-privacy-law.md` — U.S. judge finds DOGE access to federal personnel data violated privacy law
+- `news/IS_NEWS_2026-10-25-us-voter-investigations-combined-identity-data-with-election-enforcement.md` — U.S. voter investigations combined identity data with election enforcement
+- `news/IS_NEWS_2026-10-26-cbp-plans-up-to-50m-contract-for-biometrics-ai-integration.md` — CBP plans up to $50M contract for biometrics, AI integration
+- `news/IS_NEWS_2026-10-26-doj-appeals-ruling-lifting-ban-on-anthropic-use-for-us-agencies.md` — DOJ Appeals Ruling Lifting Ban on Anthropic Use for US Agencies
+- `news/IS_NEWS_2026-10-26-paradromics-receives-fda-approval-to-expand-connexus-bci-study-recruitment.md` — Paradromics Receives FDA Approval to Expand Connexus® Brain-Computer Interface Clinical Study Recruitment Nationwide
+- `news/IS_NEWS_2026-10-26-serbian-autocrat-loses-election-following-reports-of-digital-repression.md` — Serbian autocrat loses election following widespread reports of digital repression
 - `news/IS_NEWS_undated-anomalous-health-incidents.md` — Anomalous health incidents
 - `news/IS_NEWS_undated-critical-information-infrastructure-of-russia-fstec-fsb.md` — Critical Information Infrastructure of Russia (FSTEC/FSB)
 
@@ -335,26 +449,26 @@ convicted or was sentenced. See `meta/IS_META_terms.md`.*
 
 ## What is here
 
-- 298 items, 2011-09-28 to 2026-10-07: 152 official, 99 trade press, 37 news, 10 research.
-- 298 of 298 carry a summary so far; the rest say so.
+- 412 items, 2011-09-28 to 2026-10-26: 173 official, 149 trade press, 72 news, 18 research.
+- 412 of 412 carry a summary so far; the rest say so.
 - `index.json` holds every item's header in one file, for counting and filtering.
 
 ## By kind of event
 
 | Kind of event | Items |
 |---|---|
-| Contracts & deployments | 95 |
-| Espionage & foreign agents | 49 |
-| Technology theft & export control | 46 |
-| Regulation & law | 24 |
-| Research & breakthroughs | 21 |
-| Courts & litigation | 17 |
+| Contracts & deployments | 111 |
+| Espionage & foreign agents | 62 |
+| Technology theft & export control | 48 |
+| Regulation & law | 47 |
+| Research & breakthroughs | 40 |
+| Courts & litigation | 31 |
+| Public health | 15 |
+| Reports & statistics | 14 |
+| Transnational repression | 13 |
 | Murder for hire & violent plots | 12 |
-| Public health | 11 |
-| Transnational repression | 11 |
-| Protests | 5 |
-| Global conflict | 5 |
-| Reports & statistics | 2 |
+| Global conflict | 10 |
+| Protests | 9 |
 
 ## Fields
 
@@ -9999,6 +10113,41 @@ An American citizen was sentenced to two years in prison for acting as an agent 
 He had pleaded guilty in June 2026. The case was prosecuted in the Eastern District of Virginia.
 
 
+===== FILE: news/IS_NEWS_2026-09-02-study-demonstrates-the-potential-of-magnetoelectric-nanoparticles-for-wireless-neuromodulation.md · ID: IS-NEWS-2026-09-02-STUDY-DEMONSTRATES-THE-POTENTIAL-OF-MAGNETOELECTRIC-NANOPARTICLES-FOR-WIRELESS-NEUROMODULATION =====
+
+```yaml
+id: IS-NEWS-2026-09-02-STUDY-DEMONSTRATES-THE-POTENTIAL-OF-MAGNETOELECTRIC-NANOPARTICLES-FOR-WIRELESS-NEUROMODULATION
+slug: 2026-09-02-study-demonstrates-the-potential-of-magnetoelectric-nanoparticles-for-wireless-neuromodulation
+title: Study demonstrates the potential of magnetoelectric nanoparticles for wireless neuromodulation
+collection: news
+doc_type: news-item
+date: 2026-09-02
+date_precision: day
+publisher: META-BRAIN (EU-funded research project)
+source_type: Research
+issuing_office: META-BRAIN project
+url: https://meta-brain.eu/news/magnetoelectric-nanoparticles-neuromodulation/
+archived_url: https://web.archive.org/web/20261027215246/https://meta-brain.eu/news/magnetoelectric-nanoparticles-neuromodulation/
+industry: Neurotechnology · Nanotechnology
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search, research project release, date read from the page; nanotechnology search; missed by the earlier runs
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Study demonstrates the potential of magnetoelectric nanoparticles for wireless neuromodulation
+
+*META-BRAIN (EU-funded research project), 2026-09-02. Original: <https://meta-brain.eu/news/magnetoelectric-nanoparticles-neuromodulation/>*
+
+META-BRAIN, a research project funded by the European Union, reported on 2 September 2026 on a study published in the journal Advanced Science by researchers from institutes in Spain, Switzerland and Italy. According to the release, low-intensity static magnetic fields on their own did not change the activity of cultured cortical neurons, but in the presence of magnetoelectric nanoparticles the same fields made the neuronal networks more active and excitable.
+
+The project describes the work as a step towards wireless, less invasive ways of modulating brain activity. The study was done in vitro, on neurons grown in the laboratory, with no animal or human testing reported, and the project says clinical use remains a future goal.
+
+
 ===== FILE: news/IS_NEWS_2026-09-09-drug-delivering-particles-aim-to-breach-the-blood-brain-barrier.md · ID: IS-NEWS-2026-09-09-DRUG-DELIVERING-PARTICLES-AIM-TO-BREACH-THE-BLOOD-BRAIN-BARRIER =====
 
 ```yaml
@@ -10172,6 +10321,41 @@ disclaimer: meta/IS_META_terms.md
 The Governor of California's office announced on 18 September 2026 an executive order directing the state's Government Operations Agency to speed up two recently signed laws, SB 813 (an independent verification framework for AI) and AB 1405 (a registry of AI auditors), and to bring in outside experts to make recommendations within two months.
 
 According to the release, the order seeks an emergency shut-off capability for the most advanced ("frontier") AI models, onsite independent verification at frontier AI companies, and a wider definition of critical safety incidents that includes loss-of-control incidents. The office says the order responds to recent AI security incidents.
+
+
+===== FILE: news/IS_NEWS_2026-09-19-lawsuit-says-ai-companies-made-illegal-deal-on-ai-slowdown.md · ID: IS-NEWS-2026-09-19-LAWSUIT-SAYS-AI-COMPANIES-MADE-ILLEGAL-DEAL-ON-AI-SLOWDOWN =====
+
+```yaml
+id: IS-NEWS-2026-09-19-LAWSUIT-SAYS-AI-COMPANIES-MADE-ILLEGAL-DEAL-ON-AI-SLOWDOWN
+slug: 2026-09-19-lawsuit-says-ai-companies-made-illegal-deal-on-ai-slowdown
+title: Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown
+collection: news
+doc_type: news-item
+date: 2026-09-19
+date_precision: day
+publisher: CBS News (Associated Press)
+source_type: News
+issuing_office: 
+url: https://www.cbsnews.com/news/ai-slowdown-lawsuit-openai-anthropic-google/
+archived_url: https://web.archive.org/web/20261027215420/https://www.cbsnews.com/news/ai-slowdown-lawsuit-openai-anthropic-google/
+industry: Artificial intelligence
+event: Courts & litigation
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search, date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown
+
+*CBS News (Associated Press), 2026-09-19. Original: <https://www.cbsnews.com/news/ai-slowdown-lawsuit-openai-anthropic-google/>*
+
+The Associated Press reported on 19 September 2026 that paying subscribers to four AI chatbot services filed a lawsuit in the U.S. District Court for the Northern District of California, on behalf of a proposed nationwide class. According to the report, the suit claims that four AI developers broke antitrust law by agreeing, around 12 September, to coordinate a slowdown in AI development after one company's chief executive called publicly for industry-wide cooperation on safety.
+
+The plaintiffs argue that a coordinated slowdown would reduce what consumers get from paid subscriptions. The report says the companies did not immediately respond, and that the original call for cooperation had itself acknowledged possible antitrust problems. The case has only been filed; no court has ruled on the claims.
 
 
 ===== FILE: news/IS_NEWS_2026-09-23-tech-ceo-russian-national-arrested-on-complaint-alleging.md · ID: IS-NEWS-2026-09-23-TECH-CEO-RUSSIAN-NATIONAL-ARRESTED-ON-COMPLAINT-ALLEGING =====
@@ -10349,6 +10533,41 @@ The Governor of California's office announced on 30 September 2026 that a furthe
 Bloomberg Law reports that AB 1883 bars employers from using AI-powered monitoring tools to collect workers' neural data or to infer their emotional states, with civil penalties of up to $500 per violation. According to the same report, the governor's signing statement asked the legislature to clarify the scope of AB 1883 and AB 1331.
 
 
+===== FILE: news/IS_NEWS_2026-10-01-3-ex-servicemen-indicted-for-allegedly-spying-for-china.md · ID: IS-NEWS-2026-10-01-3-EX-SERVICEMEN-INDICTED-FOR-ALLEGEDLY-SPYING-FOR-CHINA =====
+
+```yaml
+id: IS-NEWS-2026-10-01-3-EX-SERVICEMEN-INDICTED-FOR-ALLEGEDLY-SPYING-FOR-CHINA
+slug: 2026-10-01-3-ex-servicemen-indicted-for-allegedly-spying-for-china
+title: 3 ex-servicemen indicted for allegedly spying for China
+collection: news
+doc_type: news-item
+date: 2026-10-01
+date_precision: day
+publisher: Focus Taiwan (CNA)
+source_type: News
+issuing_office: 
+url: https://focustaiwan.tw/society/202610010015
+archived_url: https://web.archive.org/web/20261027215500/https://focustaiwan.tw/society/202610010015
+industry: 
+event: Espionage & foreign agents
+country: China
+stage: charged
+related: 
+summary_status: draft
+found_via: web search, date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# 3 ex-servicemen indicted for allegedly spying for China
+
+*Focus Taiwan (CNA), 2026-10-01. Original: <https://focustaiwan.tw/society/202610010015>*
+
+Focus Taiwan, the English service of Taiwan's Central News Agency, reported on 1 October 2026 that prosecutors at the Kaohsiung branch of the Taiwan High Prosecutors Office indicted three former military personnel on charges including violations of the National Security Act and the Classified National Security Information Protection Act. According to the report, prosecutors allege that from late 2020 a retired Air Force member took instructions and money from Chinese intelligence officials and obtained confidential military information, including tank specifications and details of the Han Kuang exercises, from a then-serving Army member.
+
+The report says the case was referred to prosecutors in June 2026 by military police, local police and the Ministry of National Defense. This is an indictment only, with no trial date reported: every defendant is presumed innocent unless proven guilty in court.
+
+
 ===== FILE: news/IS_NEWS_2026-10-01-an-ai-mind-reading-tool-can-reconstruct-what-you-re-looking.md · ID: IS-NEWS-2026-10-01-AN-AI-MIND-READING-TOOL-CAN-RECONSTRUCT-WHAT-YOU-RE-LOOKING =====
 
 ```yaml
@@ -10417,6 +10636,76 @@ disclaimer: meta/IS_META_terms.md
 The Justice Department announced on 1 October 2026 that a California man was arrested on an indictment returned on 29 September in the Central District of California. Prosecutors allege a scheme to send more than $300 million worth of high-end computer servers containing U.S.-made graphics processors to China, routing them through Malaysia and Singapore to get around U.S. export controls.
 
 The indictment charges conspiracy to violate the Export Control Reform Act and the Export Administration Regulations, smuggling, and conspiracy to commit money laundering. The department says the case was investigated by the Commerce Department's Bureau of Industry and Security, the Defense Criminal Investigative Service and the FBI. These are charges only: the defendant is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-01-solving-a-longstanding-problem-in-drug-delivery.md · ID: IS-NEWS-2026-10-01-SOLVING-A-LONGSTANDING-PROBLEM-IN-DRUG-DELIVERY =====
+
+```yaml
+id: IS-NEWS-2026-10-01-SOLVING-A-LONGSTANDING-PROBLEM-IN-DRUG-DELIVERY
+slug: 2026-10-01-solving-a-longstanding-problem-in-drug-delivery
+title: Solving a longstanding problem in drug delivery
+collection: news
+doc_type: news-item
+date: 2026-10-01
+date_precision: day
+publisher: Berkeley Engineering
+source_type: Research
+issuing_office: University of California, Berkeley, College of Engineering
+url: https://engineering.berkeley.edu/news/2026/10/solving-a-longstanding-problem-in-drug-delivery/
+archived_url: https://web.archive.org/web/20261013213619/https://engineering.berkeley.edu/news/2026/10/solving-a-longstanding-problem-in-drug-delivery/
+industry: Nanotechnology · Biotechnology & health
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search, university research release, date read from the release; nanotechnology search
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Solving a longstanding problem in drug delivery
+
+*Berkeley Engineering, 2026-10-01. Original: <https://engineering.berkeley.edu/news/2026/10/solving-a-longstanding-problem-in-drug-delivery/>*
+
+UC Berkeley's College of Engineering reported on 1 October 2026 that its researchers have designed "charge-switching" lipid nanoparticles for delivering mRNA and other nucleic acids, with results published in Nature Nanotechnology. According to the release, adding an acid group to one of the particle's lipids makes it positively charged in acidic conditions and negatively charged near neutral pH, which is meant to reduce the inflammation that standard lipid nanoparticles can cause.
+
+The university says that in a mouse model of acute lung injury the new particles outperformed conventional ones, and that of six common lipid nanoparticle types tested on human blood cells, only the new design did not trigger inflammation. The work is preclinical: no people were treated, and the first version reaches only the liver and spleen.
+
+
+===== FILE: news/IS_NEWS_2026-10-01-the-clock-is-ticking-nationwide-protests-demand-nhs-cuts-ties-with-palantir.md · ID: IS-NEWS-2026-10-01-THE-CLOCK-IS-TICKING-NATIONWIDE-PROTESTS-DEMAND-NHS-CUTS-TIES-WITH-PALANTIR =====
+
+```yaml
+id: IS-NEWS-2026-10-01-THE-CLOCK-IS-TICKING-NATIONWIDE-PROTESTS-DEMAND-NHS-CUTS-TIES-WITH-PALANTIR
+slug: 2026-10-01-the-clock-is-ticking-nationwide-protests-demand-nhs-cuts-ties-with-palantir
+title: 'The clock is ticking' – nationwide protests demand NHS cuts ties with Palantir
+collection: news
+doc_type: news-item
+date: 2026-10-01
+date_precision: day
+publisher: Amnesty International UK
+source_type: News
+issuing_office: 
+url: https://www.amnesty.org.uk/latest/the-clock-is-ticking-nationwide-protests-demand-nhs-cuts-ties-with-palantir/
+archived_url: https://web.archive.org/web/20261017000830/https://www.amnesty.org.uk/latest/the-clock-is-ticking-nationwide-protests-demand-nhs-cuts-ties-with-palantir/
+industry: Biotechnology & health · Government cloud & surveillance technology
+event: Protests
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search, organiser's own news post, date read from the page; missed by the earlier runs
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# 'The clock is ticking' – nationwide protests demand NHS cuts ties with Palantir
+
+*Amnesty International UK, 2026-10-01. Original: <https://www.amnesty.org.uk/latest/the-clock-is-ticking-nationwide-protests-demand-nhs-cuts-ties-with-palantir/>*
+
+Amnesty International UK reported on 1 October 2026 that patients, health workers and campaigners held more than 40 demonstrations across England that day, at NHS trusts and integrated care boards, ending with a protest outside Palantir's London headquarters. According to the organisation, the day of action called on the NHS to end its £330 million data platform contract with Palantir and not to renew it when it expires in February 2027.
+
+Amnesty says its concerns centre on the company's work with the Israeli military, and it cites a poll it commissioned in July 2026 in which 64 percent of UK adults said the government should suspend NHS contracts with companies linked to serious human rights violations. The post reports the organiser's own account of the protests.
 
 
 ===== FILE: news/IS_NEWS_2026-10-03-ice-contract-reveals-network-infrastructure-behind-hsi-surveillance.md · ID: IS-NEWS-2026-10-03-ICE-CONTRACT-REVEALS-NETWORK-INFRASTRUCTURE-BEHIND-HSI-SURVEILLANCE =====
@@ -10559,6 +10848,41 @@ The Justice Department announced on 5 October 2026 that a California woman was a
 The department says the case was investigated by the FBI's Los Angeles Field Office and is being handled by the U.S. Attorney's Office for the Central District of California and the National Security Division. It says the charge carries a maximum of 10 years in prison. This is a charge only: the defendant is presumed innocent unless proven guilty in court.
 
 
+===== FILE: news/IS_NEWS_2026-10-05-korean-banks-on-high-alert-after-wave-of-cyberattacks.md · ID: IS-NEWS-2026-10-05-KOREAN-BANKS-ON-HIGH-ALERT-AFTER-WAVE-OF-CYBERATTACKS =====
+
+```yaml
+id: IS-NEWS-2026-10-05-KOREAN-BANKS-ON-HIGH-ALERT-AFTER-WAVE-OF-CYBERATTACKS
+slug: 2026-10-05-korean-banks-on-high-alert-after-wave-of-cyberattacks
+title: Korean banks on high alert after wave of cyberattacks
+collection: news
+doc_type: news-item
+date: 2026-10-05
+date_precision: day
+publisher: The Korea Herald
+source_type: News
+issuing_office: 
+url: https://www.koreaherald.com/article/10893326
+archived_url: https://web.archive.org/web/20261027215954/https://www.koreaherald.com/article/10893326
+industry: Artificial intelligence
+event: Regulation & law
+country: South Korea
+stage: 
+related: 
+summary_status: draft
+found_via: web search, date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Korean banks on high alert after wave of cyberattacks
+
+*The Korea Herald, 2026-10-05. Original: <https://www.koreaherald.com/article/10893326>*
+
+The Korea Herald reported on 5 October 2026 that South Korea's Financial Services Commission held an emergency meeting with financial industry leaders and ordered firms to block outside access to their systems unless essential, after personal data was exposed at seven financial firms. According to the report, the Financial Supervisory Service ordered an emergency security inspection across the sector.
+
+The report says regulators found the same attacker's IP address at all seven firms and are investigating whether a single attacker used an AI-powered tool, with traces pointing to a Chinese-developed, AI-based penetration-testing platform. The commission's chair said authorities "cannot rule out" AI-based attacks; the investigation is ongoing and no finding has been announced.
+
+
 ===== FILE: news/IS_NEWS_2026-10-05-no-65-declaring-a-disaster-emergency-in-the-state-of-new-york.md · ID: IS-NEWS-2026-10-05-NO-65-DECLARING-A-DISASTER-EMERGENCY-IN-THE-STATE-OF-NEW-YORK =====
 
 ```yaml
@@ -10592,6 +10916,43 @@ disclaimer: meta/IS_META_terms.md
 New York's executive order No. 65, signed on 5 October 2026, declares a statewide disaster emergency over a measles outbreak, running until 4 November 2026. The order says 108 measles cases had been reported among New York residents as of 3 October, 92 of them since 15 July in under-immunised rural communities across 18 counties. It also notes that neighbouring Pennsylvania had reported 977 cases and 5 deaths as of 2 October.
 
 According to the order, it temporarily suspends or changes state rules so that emergency medical technicians, paramedics, midwives (under supervision) and pharmacists can give measles, mumps and rubella (MMR) vaccines more widely, including pharmacists vaccinating children aged two and over. It also lets registered nurses order and collect measles tests, and speeds up state purchasing of emergency supplies.
+
+
+===== FILE: news/IS_NEWS_2026-10-06-aepd-sets-out-safeguards-for-ai-in-video-surveillance-systems.md · ID: IS-NEWS-2026-10-06-AEPD-SETS-OUT-SAFEGUARDS-FOR-AI-IN-VIDEO-SURVEILLANCE-SYSTEMS =====
+
+```yaml
+id: IS-NEWS-2026-10-06-AEPD-SETS-OUT-SAFEGUARDS-FOR-AI-IN-VIDEO-SURVEILLANCE-SYSTEMS
+slug: 2026-10-06-aepd-sets-out-safeguards-for-ai-in-video-surveillance-systems
+title: The AEPD sets out the safeguards for incorporating artificial intelligence into video surveillance systems
+title_original: La AEPD señala las garantías para incorporar inteligencia artificial a los sistemas de videovigilancia
+title_language: Spanish
+collection: news
+doc_type: news-item
+date: 2026-10-06
+date_precision: day
+publisher: Agencia Española de Protección de Datos
+source_type: Official
+issuing_office: Spanish Data Protection Agency (AEPD)
+url: https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-sennala-garantias-para-incorporar-ia-a-sistemas-videovigilancia
+archived_url: https://web.archive.org/web/20261009100620/https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-sennala-garantias-para-incorporar-ia-a-sistemas-videovigilancia
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Regulation & law
+country: Spain
+stage: 
+related: 
+summary_status: draft
+found_via: web search (aepd.es, found via Biometric Update, 9 Oct), date read from the release; title translated from Spanish (original in title_original)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# The AEPD sets out the safeguards for incorporating artificial intelligence into video surveillance systems
+
+*Agencia Española de Protección de Datos, 2026-10-06. Original, in Spanish: <https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-sennala-garantias-para-incorporar-ia-a-sistemas-videovigilancia>. Title translated from the Spanish.*
+
+Spain's data protection authority, the AEPD, announced on 6 October 2026 that it had issued preventive warnings to two town councils about planned municipal video surveillance projects that use AI to analyse images automatically. According to the release, one project includes facial detection or recognition, and the other includes detecting people and vehicles and searching recordings for people by appearance, such as clothing, hair, sex or age group.
+
+The authority says the warnings concern processing that had not yet started, are a preventive measure under Article 58.2(a) of the GDPR, and do not mean either council has committed an infringement. It says each AI function must be shown to be necessary and proportionate, that a data protection impact assessment is needed before launch where the risk is high, and that any function able to identify a person uniquely falls under the stricter rules for biometric data.
 
 
 ===== FILE: news/IS_NEWS_2026-10-06-festnahmen-wegen-mutmasslicher-landesverraeterischer-ausspaehung.md · ID: IS-NEWS-2026-10-06-FESTNAHMEN-WEGEN-MUTMASSLICHER-LANDESVERRAETERISCHER-AUSSPAEHUNG =====
@@ -10631,6 +10992,111 @@ Germany's Federal Public Prosecutor General announced on 6 October 2026 that two
 According to the release, about 2,000 classified documents are alleged to have been passed on over roughly twelve years. The release names an employee of a foreign intelligence service's security apparatus as one intended recipient, but says it is not known whether the material reached that person. It also says the former official is suspected of giving political information over several years to a member of another state's intelligence service. Searches took place in Bavaria, North Rhine-Westphalia and Berlin, and both people were to be brought before the investigating judge. No charges have been filed: both are presumed innocent unless proven guilty in court.
 
 
+===== FILE: news/IS_NEWS_2026-10-06-us-social-security-awards-identity-biometrics-deal-worth-up-to-29-6m.md · ID: IS-NEWS-2026-10-06-US-SOCIAL-SECURITY-AWARDS-IDENTITY-BIOMETRICS-DEAL-WORTH-UP-TO-29-6M =====
+
+```yaml
+id: IS-NEWS-2026-10-06-US-SOCIAL-SECURITY-AWARDS-IDENTITY-BIOMETRICS-DEAL-WORTH-UP-TO-29-6M
+slug: 2026-10-06-us-social-security-awards-identity-biometrics-deal-worth-up-to-29-6m
+title: US Social Security awards Carahsoft identity, biometrics deal worth up to $29.6M
+collection: news
+doc_type: news-item
+date: 2026-10-06
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202610/us-social-security-awards-carahsoft-identity-biometrics-deal-worth-up-to-29-6m
+archived_url: https://web.archive.org/web/20261012190702/https://www.biometricupdate.com/202610/us-social-security-awards-carahsoft-identity-biometrics-deal-worth-up-to-29-6m
+industry: Government cloud & surveillance technology
+event: Contracts & deployments
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (biometricupdate.com front page), date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# US Social Security awards Carahsoft identity, biometrics deal worth up to $29.6M
+
+*Biometric Update, 2026-10-06. Original: <https://www.biometricupdate.com/202610/us-social-security-awards-carahsoft-identity-biometrics-deal-worth-up-to-29-6m>*
+
+Biometric Update reported on 6 October 2026 that the U.S. Social Security Administration awarded Carahsoft Technology a blanket purchase agreement with a ceiling of $29.6 million, made on 30 September according to procurement records. The publication says about $5.2 million has been obligated so far, mostly through a one-year order for identity verification, document authentication, biometric verification and fraud detection.
+
+According to the article, public award data do not say which biometric method or underlying technology will be supplied, or how the services fit the agency's existing sign-in systems. It places the award within the agency's move to digital access, with more than 100 million people holding online accounts.
+
+
+===== FILE: news/IS_NEWS_2026-10-07-bridge-neurotech-and-butterfly-network-partner-on-non-invasive-bci.md · ID: IS-NEWS-2026-10-07-BRIDGE-NEUROTECH-AND-BUTTERFLY-NETWORK-PARTNER-ON-NON-INVASIVE-BCI =====
+
+```yaml
+id: IS-NEWS-2026-10-07-BRIDGE-NEUROTECH-AND-BUTTERFLY-NETWORK-PARTNER-ON-NON-INVASIVE-BCI
+slug: 2026-10-07-bridge-neurotech-and-butterfly-network-partner-on-non-invasive-bci
+title: Bridge Neurotech and Butterfly Network Announce Partnership to Develop Fully Non-Invasive Brain-Computer Interface
+collection: news
+doc_type: news-item
+date: 2026-10-07
+date_precision: day
+publisher: Business Wire (via BioSpace)
+source_type: Trade press
+issuing_office: 
+url: https://www.biospace.com/press-releases/bridge-neurotech-and-butterfly-network-announce-partnership-to-develop-fully-non-invasive-brain-computer-interface
+archived_url: https://web.archive.org/web/20261008215936/https://www.biospace.com/press-releases/bridge-neurotech-and-butterfly-network-announce-partnership-to-develop-fully-non-invasive-brain-computer-interface
+industry: Neurotechnology
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search, company release, date read from the release
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Bridge Neurotech and Butterfly Network Announce Partnership to Develop Fully Non-Invasive Brain-Computer Interface
+
+*Business Wire (via BioSpace), 2026-10-07. Original: <https://www.biospace.com/press-releases/bridge-neurotech-and-butterfly-network-announce-partnership-to-develop-fully-non-invasive-brain-computer-interface>*
+
+Bridge Neurotech, a company founded in 2026, and Butterfly Network announced a multi-year research and development agreement on 7 October 2026. According to the release, Bridge is building a brain-computer interface that needs no surgery or implant: it uses functional ultrasound imaging through the skull, with AI-based decoding of brain activity, and will license Butterfly's ultrasound-on-chip technology.
+
+The release says Bridge's first human research study is enrolling participants in Redwood City, California. It does not disclose financial terms and mentions no regulatory clearance. Separate trade reports put Bridge's funding at $13.5 million.
+
+
+===== FILE: news/IS_NEWS_2026-10-07-graphene-technology-provides-real-time-insight-into-brain-vulnerability-after-stroke.md · ID: IS-NEWS-2026-10-07-GRAPHENE-TECHNOLOGY-PROVIDES-REAL-TIME-INSIGHT-INTO-BRAIN-VULNERABILITY-AFTER-STROKE =====
+
+```yaml
+id: IS-NEWS-2026-10-07-GRAPHENE-TECHNOLOGY-PROVIDES-REAL-TIME-INSIGHT-INTO-BRAIN-VULNERABILITY-AFTER-STROKE
+slug: 2026-10-07-graphene-technology-provides-real-time-insight-into-brain-vulnerability-after-stroke
+title: Graphene technology provides real-time insight into brain vulnerability after stroke
+collection: news
+doc_type: news-item
+date: 2026-10-07
+date_precision: day
+publisher: University of Manchester
+source_type: Research
+issuing_office: The University of Manchester
+url: https://www.manchester.ac.uk/about/news/graphene-technology-provides-real-time-insight-into-brain-vulnerability-after-stroke/
+archived_url: https://web.archive.org/web/20261007175752/https://www.manchester.ac.uk/about/news/graphene-technology-provides-real-time-insight-into-brain-vulnerability-after-stroke/
+industry: Neurotechnology · Nanotechnology
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search, university research release, date read from the release; nanotechnology search
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Graphene technology provides real-time insight into brain vulnerability after stroke
+
+*University of Manchester, 2026-10-07. Original: <https://www.manchester.ac.uk/about/news/graphene-technology-provides-real-time-insight-into-brain-vulnerability-after-stroke/>*
+
+The University of Manchester reported on 7 October 2026 that researchers, working with partners in Spain and Germany, used highly sensitive graphene-based sensors to record very slow electrical waves that spread through brain tissue after an ischaemic stroke, with results published in the journal Brain. According to the release, the shape of these waves distinguished healthy, at-risk and severely damaged tissue and predicted whether blood flow would rise or fall.
+
+The university says that in mice a low dose of ketamine shortened the damaging waves and reduced the area of brain damage. The work is preclinical: the tests were in mice, and the authors suggest the monitoring could one day give clinicians real-time information during a stroke.
+
+
 ===== FILE: news/IS_NEWS_2026-10-07-inbrain-and-minigraph-consortium-develop-magnetically-guided-robotic-implantation-for-graphene-bcis.md · ID: IS-NEWS-2026-10-07-INBRAIN-AND-MINIGRAPH-CONSORTIUM-DEVELOP-MAGNETICALLY-GUIDED-ROBOTIC-IMPLANTATION-FOR-GRAPHENE-BCIS =====
 
 ```yaml
@@ -10664,6 +11130,3650 @@ disclaimer: meta/IS_META_terms.md
 INBRAIN Neuroelectronics says the MINIGRAPH project, funded by the European Innovation Council, has developed ultra-thin graphene probes for recording from and stimulating both the brain's surface and deeper regions, together with implantable electronics, control software and a robotic method that steers the probes into place by remote magnetic navigation. Parkinson's disease was the first intended use.
 
 According to the release, the robotic implantation was tested in the laboratory and in a large animal model, and accelerated ageing tests project more than ten years of electrode stability. The work is preclinical: the release reports no testing in people and gives no regulatory timeline.
+
+
+===== FILE: news/IS_NEWS_2026-10-07-pennsylvania-measles-outbreak-update-cases-reach-1078-in-41-counties.md · ID: IS-NEWS-2026-10-07-PENNSYLVANIA-MEASLES-OUTBREAK-UPDATE-CASES-REACH-1078-IN-41-COUNTIES =====
+
+```yaml
+id: IS-NEWS-2026-10-07-PENNSYLVANIA-MEASLES-OUTBREAK-UPDATE-CASES-REACH-1078-IN-41-COUNTIES
+slug: 2026-10-07-pennsylvania-measles-outbreak-update-cases-reach-1078-in-41-counties
+title: Pennsylvania Department of Health Provides Statewide Update on Measles Outbreak as Cases Reach 1,078 in 41 Counties
+collection: news
+doc_type: news-item
+date: 2026-10-07
+date_precision: day
+publisher: Pennsylvania Department of Health
+source_type: Official
+issuing_office: Pennsylvania Department of Health
+url: https://www.pa.gov/agencies/health/newsroom/pa-department-of-health-provides-statewide-update-on-measles-out9
+archived_url: https://web.archive.org/web/20261027220724/https://www.pa.gov/agencies/health/newsroom/pa-department-of-health-provides-statewide-update-on-measles-out9
+industry: Biotechnology & health
+event: Public health
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (pa.gov), date read from the release
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Pennsylvania Department of Health Provides Statewide Update on Measles Outbreak as Cases Reach 1,078 in 41 Counties
+
+*Pennsylvania Department of Health, 2026-10-07. Original: <https://www.pa.gov/agencies/health/newsroom/pa-department-of-health-provides-statewide-update-on-measles-out9>*
+
+The Pennsylvania Department of Health reported on 7 October 2026 that the state's measles outbreak had reached 1,078 confirmed cases in 41 counties, with 207 hospitalisations and 5 measles-associated deaths. The department says 74 cases were added since 5 October, more than 40 of them in people who fell ill over two weeks earlier and were reported late, and that the update does not reflect a current surge.
+
+According to the release, 4 cases (under 1 percent) were in vaccinated people. Providers gave more than 56,000 MMR doses in September against a usual monthly figure of about 25,000, and state nurses have given nearly 9,000 doses in 2026, including more than 5,700 at 198 pop-up clinics.
+
+
+===== FILE: news/IS_NEWS_2026-10-07-san-francisco-passes-data-center-moratorium-in-hometown-of-ai.md · ID: IS-NEWS-2026-10-07-SAN-FRANCISCO-PASSES-DATA-CENTER-MORATORIUM-IN-HOMETOWN-OF-AI =====
+
+```yaml
+id: IS-NEWS-2026-10-07-SAN-FRANCISCO-PASSES-DATA-CENTER-MORATORIUM-IN-HOMETOWN-OF-AI
+slug: 2026-10-07-san-francisco-passes-data-center-moratorium-in-hometown-of-ai
+title: San Francisco Passes Data Center Moratorium in Hometown of AI
+collection: news
+doc_type: news-item
+date: 2026-10-07
+date_precision: day
+publisher: Bloomberg Tax
+source_type: Trade press
+issuing_office: 
+url: https://news.bloombergtax.com/california-brief/san-francisco-passes-data-center-moratorium-in-hometown-of-ai
+archived_url: https://web.archive.org/web/20261027220753/https://news.bloombergtax.com/california-brief/san-francisco-passes-data-center-moratorium-in-hometown-of-ai
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (data center moratorium, 26 Oct); date read from the article (7 Oct 2026, 16:54 UTC); missed by earlier runs; the same story is also at news.bgov.com
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# San Francisco Passes Data Center Moratorium in Hometown of AI
+
+*Bloomberg Tax, 2026-10-07. Original: <https://news.bloombergtax.com/california-brief/san-francisco-passes-data-center-moratorium-in-hometown-of-ai>*
+
+Bloomberg Tax reports that San Francisco's Board of Supervisors unanimously approved a moratorium on new data centers within the city's borders. According to the report, the first pause lasts 45 days and took effect immediately. It can be extended for about two years while officials consider permanent rules.
+
+The publication says the city has no full count of its existing data centers, and that the measure's sponsors pointed to air pollution and environmental-justice concerns in a neighbourhood that already hosts such facilities. It places the vote alongside other U.S. jurisdictions, including New York State, that have restricted data center development over water use, electricity costs and environmental effects.
+
+
+===== FILE: news/IS_NEWS_2026-10-08-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century.md · ID: IS-NEWS-2026-10-08-ADMINISTRATION-ANNOUNCES-THE-MOST-AMBITIOUS-SET-OF-SCIENCE-INITIATIVES-THIS-CENTURY =====
+
+```yaml
+id: IS-NEWS-2026-10-08-ADMINISTRATION-ANNOUNCES-THE-MOST-AMBITIOUS-SET-OF-SCIENCE-INITIATIVES-THIS-CENTURY
+slug: 2026-10-08-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century
+title: Fact Sheet: Administration Announces the Most Ambitious Set of Science Initiatives This Century
+collection: news
+doc_type: news-item
+date: 2026-10-08
+date_precision: day
+publisher: The White House
+source_type: Official
+issuing_office: The White House
+url: https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century/
+archived_url: https://web.archive.org/web/20261027220821/https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century/
+industry: Artificial intelligence · Biotechnology & health
+event: Contracts & deployments
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (found via Nextgov/FCW, 8 Oct), date read from the fact sheet; title shortened to leave out a personal name
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Fact Sheet: Administration Announces the Most Ambitious Set of Science Initiatives This Century
+
+*The White House, 2026-10-08. Original: <https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century/>*
+
+The White House said in a fact sheet on 8 October 2026 that eleven industry partners have committed $2.4 billion in AI tools and computing credits to the Genesis Mission, a federal programme that uses AI for scientific research across more than 15 agencies. According to the fact sheet, the announcements also include new Department of Energy fellowships and funding for AI-enabled instruments and autonomous laboratories.
+
+The fact sheet also describes a $1.8 billion "virtual biology" initiative by the National Institutes of Health, the Department of Energy and a non-profit partner to build AI models of cells and biological systems. Nextgov/FCW reported that the announcements were made at a White House AI science summit the same day.
+
+
+===== FILE: news/IS_NEWS_2026-10-08-building-trust-and-transparency-into-generative-ai-development.md · ID: IS-NEWS-2026-10-08-BUILDING-TRUST-AND-TRANSPARENCY-INTO-GENERATIVE-AI-DEVELOPMENT =====
+
+```yaml
+id: IS-NEWS-2026-10-08-BUILDING-TRUST-AND-TRANSPARENCY-INTO-GENERATIVE-AI-DEVELOPMENT
+slug: 2026-10-08-building-trust-and-transparency-into-generative-ai-development
+title: Building trust and transparency into generative AI development: our work to create regulatory certainty
+collection: news
+doc_type: news-item
+date: 2026-10-08
+date_precision: day
+publisher: Information Commissioner's Office
+source_type: Official
+issuing_office: Information Commissioner's Office (ICO), United Kingdom
+url: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/building-trust-and-transparency-into-generative-ai-development-our-work-to-create-regulatory-certainty/
+archived_url: https://web.archive.org/web/20261027220935/https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/building-trust-and-transparency-into-generative-ai-development-our-work-to-create-regulatory-certainty/
+industry: Artificial intelligence
+event: Regulation & law
+country: United Kingdom
+stage: 
+related: 
+summary_status: draft
+found_via: web search (found via Biometric Update, 9 Oct), date read from the ICO page
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Building trust and transparency into generative AI development: our work to create regulatory certainty
+
+*Information Commissioner's Office, 2026-10-08. Original: <https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/building-trust-and-transparency-into-generative-ai-development-our-work-to-create-regulatory-certainty/>*
+
+The UK Information Commissioner's Office published a report on 8 October 2026 setting out what it expects from developers of foundation AI models that use personal data for training. According to the ICO, developers must have a lawful basis for the processing, be meaningfully transparent, let people exercise their data rights, and show safeguards that materially reduce risk, with a higher bar where models contain sensitive personal data.
+
+The regulator says its approach will be pragmatic and proportionate, but that it will intervene where organisations expose people to avoidable harm. The ICO also says it has opened formal investigations into two companies over their processing of personal data for the Grok AI system. Biometric Update reported on 9 October that ten foundation model developers had committed to improving their practices as part of this work.
+
+
+===== FILE: news/IS_NEWS_2026-10-08-crowdstrike-finds-possible-bank-hackers-cv-among-exposed-ai-logs.md · ID: IS-NEWS-2026-10-08-CROWDSTRIKE-FINDS-POSSIBLE-BANK-HACKERS-CV-AMONG-EXPOSED-AI-LOGS =====
+
+```yaml
+id: IS-NEWS-2026-10-08-CROWDSTRIKE-FINDS-POSSIBLE-BANK-HACKERS-CV-AMONG-EXPOSED-AI-LOGS
+slug: 2026-10-08-crowdstrike-finds-possible-bank-hackers-cv-among-exposed-ai-logs
+title: CrowdStrike finds possible bank hacker's CV among exposed AI logs
+collection: news
+doc_type: news-item
+date: 2026-10-08
+date_precision: day
+publisher: The Register
+source_type: Trade press
+issuing_office: 
+url: https://www.theregister.com/cyber-crime/2026/10/08/crowdstrike-finds-possible-bank-hackers-cv-among-exposed-ai-logs/5301908
+archived_url: https://web.archive.org/web/20261021105444/https://www.theregister.com/cyber-crime/2026/10/08/crowdstrike-finds-possible-bank-hackers-cv-among-exposed-ai-logs/5301908
+industry: Artificial intelligence
+event: Reports & statistics
+country: South Korea
+stage: 
+related: 
+summary_status: draft
+found_via: web search (follow-up to the Korea Herald draft of 9 Oct), date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# CrowdStrike finds possible bank hacker's CV among exposed AI logs
+
+*The Register, 2026-10-08. Original: <https://www.theregister.com/cyber-crime/2026/10/08/crowdstrike-finds-possible-bank-hackers-cv-among-exposed-ai-logs/5301908>*
+
+The Register reported on 8 October 2026 that the security company CrowdStrike, in research published the day before, says the attacker behind recent intrusions at South Korean financial institutions used a China-developed, open-source penetration-testing tool together with an AI coding agent. According to the report, CrowdStrike found exposed AI session logs, configuration files and memory files on a server in Hong Kong that documented the targeting of at least five lenders.
+
+The publication says the logs included a request to write a CV that may identify the attacker, which CrowdStrike considers likely but cannot confirm. It reports that South Korean police are investigating whether one person or a group was responsible, and that lawmakers plan to question the heads of five major banks at a parliamentary audit on 19 October.
+
+
+===== FILE: news/IS_NEWS_2026-10-08-culture-minister-wants-to-curb-sharing-of-digital-imitations.md · ID: IS-NEWS-2026-10-08-CULTURE-MINISTER-WANTS-TO-CURB-SHARING-OF-DIGITAL-IMITATIONS =====
+
+```yaml
+id: IS-NEWS-2026-10-08-CULTURE-MINISTER-WANTS-TO-CURB-SHARING-OF-DIGITAL-IMITATIONS
+slug: 2026-10-08-culture-minister-wants-to-curb-sharing-of-digital-imitations
+title: Culture minister wants to curb the sharing of digital imitations from the turn of the year
+title_original: Kulturminister vil dæmme op for delinger af digitale efterligninger fra årsskiftet
+title_language: Danish
+collection: news
+doc_type: news-item
+date: 2026-10-08
+date_precision: day
+publisher: Kulturministeriet (Danish Ministry of Culture)
+source_type: Official
+issuing_office: Ministry of Culture, Denmark
+url: https://kum.dk/aktuelt/nyheder/kulturminister-vil-daemme-op-for-delinger-af-digitale-efterligninger-fra-aarsskiftet
+archived_url: https://web.archive.org/web/20261019072107/https://kum.dk/aktuelt/nyheder/kulturminister-vil-daemme-op-for-delinger-af-digitale-efterligninger-fra-aarsskiftet
+industry: Artificial intelligence
+event: Regulation & law
+country: Denmark
+stage: 
+related: 
+summary_status: draft
+found_via: web search (found via Biometric Update, 12 Oct, and PPC Land, 9 Oct), date read from the ministry's news page; title translated from the Danish
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Culture minister wants to curb the sharing of digital imitations from the turn of the year
+
+*Kulturministeriet (Danish Ministry of Culture), 2026-10-08. Original, in Danish: <https://kum.dk/aktuelt/nyheder/kulturminister-vil-daemme-op-for-delinger-af-digitale-efterligninger-fra-aarsskiftet>. Title translated from the Danish.*
+
+Denmark's Ministry of Culture says a bill introduced in the Danish Parliament on 8 October 2026 would make it unlawful to share realistic, digitally generated imitations of a person's appearance or voice without consent, and would protect performing artists against shared AI imitations of their performances. According to the ministry, the bill amends the Copyright Act, exempts caricature, parody, satire and criticism of power, unless the imitation is misinformation that could seriously endanger others' rights or create a concrete danger to life or property, and aims to have technology platforms remove such content quickly.
+
+The ministry says the bill carries out a political agreement of June 2025 and that the government hopes it can take effect at the turn of the year. The bill has been introduced but not yet passed.
+
+
+===== FILE: news/IS_NEWS_2026-10-08-immigration-enforcement-facial-recognition-policy.md · ID: IS-NEWS-2026-10-08-IMMIGRATION-ENFORCEMENT-FACIAL-RECOGNITION-POLICY =====
+
+```yaml
+id: IS-NEWS-2026-10-08-IMMIGRATION-ENFORCEMENT-FACIAL-RECOGNITION-POLICY
+slug: 2026-10-08-immigration-enforcement-facial-recognition-policy
+title: Immigration Enforcement facial recognition policy
+collection: news
+doc_type: news-item
+date: 2026-10-08
+date_precision: day
+publisher: GOV.UK (Home Office)
+source_type: Official
+issuing_office: Home Office, Immigration Enforcement
+url: https://www.gov.uk/government/publications/immigration-enforcement-facial-recognition-policy/immigration-enforcement-facial-recognition-policy-accessible
+archived_url: https://web.archive.org/web/20261027221424/https://www.gov.uk/government/publications/immigration-enforcement-facial-recognition-policy/immigration-enforcement-facial-recognition-policy-accessible
+industry: Government cloud & surveillance technology
+event: Regulation & law
+country: United Kingdom
+stage: 
+related: 
+summary_status: draft
+found_via: web search (found via Biometric Update, 13 Oct: https://www.biometricupdate.com/202610/uk-sets-rules-for-live-facial-recognition-in-immigration-enforcement), date read from the GOV.UK page (version 2.3)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Immigration Enforcement facial recognition policy
+
+*GOV.UK (Home Office), 2026-10-08. Original: <https://www.gov.uk/government/publications/immigration-enforcement-facial-recognition-policy/immigration-enforcement-facial-recognition-policy-accessible>*
+
+The Home Office published a policy on 8 October 2026 setting rules for Immigration Enforcement's use of live facial recognition. According to the policy, the technology may be used only for a defined immigration or criminal law enforcement objective and never for general monitoring; watchlists must be limited to set categories of people, tied to a single deployment and time-limited, and must exclude anyone under 18; and each deployment needs written authorisation.
+
+The policy says images of people who do not trigger an alert are automatically and permanently deleted, that an alert is never the only basis for action, and that the false alert rate should in most cases be 0.1 per cent or lower, with a matching threshold of 0.64. Biometric Update reported on 13 October that the policy allows use beyond ports, including at transport hubs and events, and joint deployments with police.
+
+
+===== FILE: news/IS_NEWS_2026-10-08-justice-department-and-fbi-seize-vulnerability-scanning-and-spear-phishing-tools.md · ID: IS-NEWS-2026-10-08-JUSTICE-DEPARTMENT-AND-FBI-SEIZE-VULNERABILITY-SCANNING-AND-SPEAR-PHISHING-TOOLS =====
+
+```yaml
+id: IS-NEWS-2026-10-08-JUSTICE-DEPARTMENT-AND-FBI-SEIZE-VULNERABILITY-SCANNING-AND-SPEAR-PHISHING-TOOLS
+slug: 2026-10-08-justice-department-and-fbi-seize-vulnerability-scanning-and-spear-phishing-tools
+title: Justice Department and FBI Seize Vulnerability Scanning and Spear Phishing Tools Operated and Used by China-State Sponsored Hackers
+collection: news
+doc_type: news-item
+date: 2026-10-08
+date_precision: day
+publisher: U.S. Department of Justice
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.justice.gov/opa/pr/justice-department-and-fbi-seize-vulnerability-scanning-and-spear-phishing-tools-operated
+archived_url: https://web.archive.org/web/20261027221452/https://www.justice.gov/opa/pr/justice-department-and-fbi-seize-vulnerability-scanning-and-spear-phishing-tools-operated
+industry: Government cloud & surveillance technology
+event: Espionage & foreign agents
+country: China
+stage: 
+related: 
+summary_status: draft
+found_via: justice.gov press release (found via Just Security Early Edition, 9 Oct), date read from the release
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Justice Department and FBI Seize Vulnerability Scanning and Spear Phishing Tools Operated and Used by China-State Sponsored Hackers
+
+*U.S. Department of Justice, 2026-10-08. Original: <https://www.justice.gov/opa/pr/justice-department-and-fbi-seize-vulnerability-scanning-and-spear-phishing-tools-operated>*
+
+The Justice Department announced on 8 October 2026 that the FBI, acting under court authorisation, seized internet domains used to run two hacking tools, one for scanning networks for weaknesses and one for spear-phishing. According to the release, the tools were operated and used by hackers working for Integrity Technology Group, a company in the People's Republic of China that the department says holds contracts with the PRC government, and which it associates with the actors known as "Flax Typhoon".
+
+The department says targets of the scanning tool included a U.S. power company, airports in Japan and Poland, and Taiwanese energy and infrastructure companies and universities, and that the phishing tool's confirmed victims included about 20 Taiwanese universities. The release describes allegations in court documents unsealed in the Western District of Pennsylvania and announces no criminal charges against individuals; the department calls it its second technical disruption of the same company's infrastructure, after a 2024 botnet action.
+
+
+===== FILE: news/IS_NEWS_2026-10-08-paradromics-demonstrates-four-years-of-stable-neural-recording.md · ID: IS-NEWS-2026-10-08-PARADROMICS-DEMONSTRATES-FOUR-YEARS-OF-STABLE-NEURAL-RECORDING =====
+
+```yaml
+id: IS-NEWS-2026-10-08-PARADROMICS-DEMONSTRATES-FOUR-YEARS-OF-STABLE-NEURAL-RECORDING
+slug: 2026-10-08-paradromics-demonstrates-four-years-of-stable-neural-recording
+title: Paradromics Demonstrates Four Years of Stable Neural Recording in Major Brain-Computer Interface Durability Milestone
+collection: news
+doc_type: news-item
+date: 2026-10-08
+date_precision: day
+publisher: Business Wire (via BioSpace)
+source_type: Trade press
+issuing_office: 
+url: https://www.biospace.com/press-releases/paradromics-demonstrates-four-years-of-stable-neural-recording-in-major-brain-computer-interface-durability-milestone
+archived_url: https://web.archive.org/web/20261027221519/https://www.biospace.com/press-releases/paradromics-demonstrates-four-years-of-stable-neural-recording-in-major-brain-computer-interface-durability-milestone
+industry: Neurotechnology
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search, company release, date read from the release
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Paradromics Demonstrates Four Years of Stable Neural Recording in Major Brain-Computer Interface Durability Milestone
+
+*Business Wire (via BioSpace), 2026-10-08. Original: <https://www.biospace.com/press-releases/paradromics-demonstrates-four-years-of-stable-neural-recording-in-major-brain-computer-interface-durability-milestone>*
+
+Paradromics announced on 8 October 2026 that it has recorded and decoded neural signals stably for more than four years in two sheep implanted with modules representing the electrode technology in its Connexus brain-computer interface. According to the release, there was no migration of the electrode arrays and signal quality stayed stable, and a separate study of the full system in six sheep has shown stable signals for nearly two years.
+
+The work is in animals only. The company says the Connexus device is limited by U.S. law to investigational use, and that it is moving its early feasibility study towards first testing in people; the release reports no human results.
+
+
+===== FILE: news/IS_NEWS_2026-10-08-precision-neuroscience-unveils-a-new-map-of-the-human-nervous-system.md · ID: IS-NEWS-2026-10-08-PRECISION-NEUROSCIENCE-UNVEILS-A-NEW-MAP-OF-THE-HUMAN-NERVOUS-SYSTEM =====
+
+```yaml
+id: IS-NEWS-2026-10-08-PRECISION-NEUROSCIENCE-UNVEILS-A-NEW-MAP-OF-THE-HUMAN-NERVOUS-SYSTEM
+slug: 2026-10-08-precision-neuroscience-unveils-a-new-map-of-the-human-nervous-system
+title: Precision Neuroscience Unveils a New Map of the Human Nervous System
+collection: news
+doc_type: news-item
+date: 2026-10-08
+date_precision: day
+publisher: GlobeNewswire (via The Manila Times)
+source_type: Trade press
+issuing_office: 
+url: https://manilatimes.net/2026/10/08/tmt-newswire/globenewswire/precision-neuroscience-unveils-a-new-map-of-the-human-nervous-system/2441868
+archived_url: https://web.archive.org/web/20261027221635/https://www.manilatimes.net/2026/10/08/tmt-newswire/globenewswire/precision-neuroscience-unveils-a-new-map-of-the-human-nervous-system/2441868
+industry: Neurotechnology
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search, company release (GlobeNewswire copy), date read from the release
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Precision Neuroscience Unveils a New Map of the Human Nervous System
+
+*GlobeNewswire (via The Manila Times), 2026-10-08. Original: <https://manilatimes.net/2026/10/08/tmt-newswire/globenewswire/precision-neuroscience-unveils-a-new-map-of-the-human-nervous-system/2441868>*
+
+Precision Neuroscience announced on 8 October 2026 a manuscript, posted on the preprint server bioRxiv, describing an atlas of the human central nervous system built from high-resolution recordings on the brain's surface. According to the release, the data come from 70 patients at twelve academic medical centres and more than 100,000 electrode placements using the company's thin-film cortical interface with up to 1,024 channels, and include the brainstem and spinal cord for the first time in such a dataset.
+
+The company says the recordings supported real-time movement decoding, classification of spoken words from few training examples and classification of eight facial expressions, and that the patient count has since passed 100. The manuscript is a preprint and has not been peer reviewed; the company describes the atlas as a step towards what it calls a "whole-brain interface".
+
+
+===== FILE: news/IS_NEWS_2026-10-08-russia-plans-wider-use-of-biometrics-across-public-life.md · ID: IS-NEWS-2026-10-08-RUSSIA-PLANS-WIDER-USE-OF-BIOMETRICS-ACROSS-PUBLIC-LIFE =====
+
+```yaml
+id: IS-NEWS-2026-10-08-RUSSIA-PLANS-WIDER-USE-OF-BIOMETRICS-ACROSS-PUBLIC-LIFE
+slug: 2026-10-08-russia-plans-wider-use-of-biometrics-across-public-life
+title: Russia plans wider use of biometrics across public life
+collection: news
+doc_type: news-item
+date: 2026-10-08
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202610/russia-plans-wider-use-of-biometrics-across-public-life
+archived_url: https://web.archive.org/web/20261027221942/https://www.biometricupdate.com/202610/russia-plans-wider-use-of-biometrics-across-public-life
+industry: Government cloud & surveillance technology
+event: Regulation & law
+country: Russia
+stage: 
+related: 
+summary_status: draft
+found_via: web search (biometricupdate.com front page), date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Russia plans wider use of biometrics across public life
+
+*Biometric Update, 2026-10-08. Original: <https://www.biometricupdate.com/202610/russia-plans-wider-use-of-biometrics-across-public-life>*
+
+Biometric Update reported on 8 October 2026 that the Russian government plans to take a more active role in bringing biometrics into several areas of public life. According to the article, a government bill submitted to the State Duma would expand biometric collection in the penitentiary system, including from suspects, accused and convicted people without their consent, with the stated aims of identifying them, monitoring their movements and preventing unlawful acts.
+
+The publication says growth is also expected in transport, retail and biometric age checks for online purchases, citing official figures of 31 million biometric trips on Moscow public transport in the first half of 2026. It reports that 68.5 million users are registered in the country's Unified Biometric System, and notes concerns about surveillance, deepfake fraud and attacks on biometric systems.
+
+
+===== FILE: news/IS_NEWS_2026-10-08-watchdog-to-examine-summertime-hack-of-dhs-information-network.md · ID: IS-NEWS-2026-10-08-WATCHDOG-TO-EXAMINE-SUMMERTIME-HACK-OF-DHS-INFORMATION-NETWORK =====
+
+```yaml
+id: IS-NEWS-2026-10-08-WATCHDOG-TO-EXAMINE-SUMMERTIME-HACK-OF-DHS-INFORMATION-NETWORK
+slug: 2026-10-08-watchdog-to-examine-summertime-hack-of-dhs-information-network
+title: Watchdog to examine summertime hack of DHS information network, other incidents
+collection: news
+doc_type: news-item
+date: 2026-10-08
+date_precision: day
+publisher: Nextgov/FCW
+source_type: News
+issuing_office: 
+url: https://www.nextgov.com/cybersecurity/2026/10/watchdog-examine-summertime-hack-dhs-information-network-other-incidents/416509/
+archived_url: https://web.archive.org/web/20261027222014/https://www.nextgov.com/cybersecurity/2026/10/watchdog-examine-summertime-hack-dhs-information-network-other-incidents/416509/
+industry: Government cloud & surveillance technology
+event: Reports & statistics
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (nextgov.com front page), date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Watchdog to examine summertime hack of DHS information network, other incidents
+
+*Nextgov/FCW, 2026-10-08. Original: <https://www.nextgov.com/cybersecurity/2026/10/watchdog-examine-summertime-hack-dhs-information-network-other-incidents/416509/>*
+
+Nextgov/FCW reported on 8 October 2026 that a forthcoming Government Accountability Office audit will review three security incidents between 2023 and 2026 on the Homeland Security Information Network (HSIN), which DHS uses to share sensitive but unclassified information with law enforcement and other partners. The publication attributes this to two people with knowledge of the matter, and says one of them expects the GAO to flag that DHS was slow to notify Congress.
+
+According to the article, two of the incidents came from contractor or employee errors that let users see restricted information, and the third was an intrusion by outside hackers this summer whose affiliation is unknown. The publication says it is still unclear what data, if any, was taken, and when the GAO report will be released.
+
+
+===== FILE: news/IS_NEWS_2026-10-08-yandex-data-center-hit-in-drone-attack-in-russia.md · ID: IS-NEWS-2026-10-08-YANDEX-DATA-CENTER-HIT-IN-DRONE-ATTACK-IN-RUSSIA =====
+
+```yaml
+id: IS-NEWS-2026-10-08-YANDEX-DATA-CENTER-HIT-IN-DRONE-ATTACK-IN-RUSSIA
+slug: 2026-10-08-yandex-data-center-hit-in-drone-attack-in-russia
+title: Yandex data center hit in drone attack in Russia
+collection: news
+doc_type: news-item
+date: 2026-10-08
+date_precision: day
+publisher: DatacenterDynamics
+source_type: Trade press
+issuing_office: 
+url: https://www.datacenterdynamics.com/en/news/yandex-data-center-hit-in-drone-attack-in-russia
+archived_url: https://web.archive.org/web/20261027222109/https://www.datacenterdynamics.com/en/news/yandex-data-center-hit-in-drone-attack-in-russia/
+industry: Government cloud & surveillance technology
+event: Global conflict
+country: Russia
+stage: 
+related: 
+summary_status: draft
+found_via: web search, date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Yandex data center hit in drone attack in Russia
+
+*DatacenterDynamics, 2026-10-08. Original: <https://www.datacenterdynamics.com/en/news/yandex-data-center-hit-in-drone-attack-in-russia>*
+
+DatacenterDynamics reported on 8 October 2026 that a drone strike hit Yandex's data centre in Sasovo, Ryazan region, which the publication describes as the company's largest. According to the report, Yandex said the strike caused a fire that forced the facility to stop operating, and the status page of its cloud service showed a power outage in one availability zone from 1:31 a.m. local time.
+
+The article does not say who carried out the strike; it notes that open-source monitoring channels identified the site. It describes this as the first major data centre in Russia taken out during the war with Ukraine, while several Ukrainian data centres have been damaged by strikes.
+
+
+===== FILE: news/IS_NEWS_2026-10-09-a-breakthrough-approach-for-treating-parkinsons-disease.md · ID: IS-NEWS-2026-10-09-A-BREAKTHROUGH-APPROACH-FOR-TREATING-PARKINSONS-DISEASE =====
+
+```yaml
+id: IS-NEWS-2026-10-09-A-BREAKTHROUGH-APPROACH-FOR-TREATING-PARKINSONS-DISEASE
+slug: 2026-10-09-a-breakthrough-approach-for-treating-parkinsons-disease
+title: A breakthrough approach for treating Parkinson's disease
+collection: news
+doc_type: news-item
+date: 2026-10-09
+date_precision: day
+publisher: The Hong Kong Polytechnic University
+source_type: Official
+issuing_office: Research and Innovation Office
+url: https://www.polyu.edu.hk/rio/news/2026/20261009---a-breakthrough-approach-for-treating-parkinsons-disease/
+archived_url: https://web.archive.org/web/20261027222140/https://www.polyu.edu.hk/rio/news/2026/20261009---a-breakthrough-approach-for-treating-parkinsons-disease/
+industry: Neurotechnology · Nanotechnology
+event: Research & breakthroughs
+country: Hong Kong
+stage: 
+related: 
+summary_status: draft
+found_via: web search (nanotechnology and ultrasound neuromodulation), date read from the university's news page; reports on a paper in Nature Communications (doi:10.1038/s41467-026-69710-8)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A breakthrough approach for treating Parkinson's disease
+
+*The Hong Kong Polytechnic University, 2026-10-09. Original: <https://www.polyu.edu.hk/rio/news/2026/20261009---a-breakthrough-approach-for-treating-parkinsons-disease/>*
+
+The Hong Kong Polytechnic University says its researchers combined low-intensity ultrasound with hollow silica nanostructures placed in the brain to stimulate specific brain regions repeatedly, without genetic modification or repeated injections, in work published in Nature Communications. According to the university, the nanostructures stayed in the brains of mice for more than nine weeks and still responded to ultrasound.
+
+The university says stimulating one deep brain region increased dopamine signalling and better preserved dopamine-related neurons in two mouse models of Parkinson's disease, and it describes the work as a proof of concept. The release reports results in mice only and gives no information on safety in people or on human trials.
+
+
+===== FILE: news/IS_NEWS_2026-10-09-how-nanomedicine-could-turn-immune-resistant-tumors-against-themselves.md · ID: IS-NEWS-2026-10-09-HOW-NANOMEDICINE-COULD-TURN-IMMUNE-RESISTANT-TUMORS-AGAINST-THEMSELVES =====
+
+```yaml
+id: IS-NEWS-2026-10-09-HOW-NANOMEDICINE-COULD-TURN-IMMUNE-RESISTANT-TUMORS-AGAINST-THEMSELVES
+slug: 2026-10-09-how-nanomedicine-could-turn-immune-resistant-tumors-against-themselves
+title: How nanomedicine could turn immune-resistant tumors against themselves
+collection: news
+doc_type: news-item
+date: 2026-10-09
+date_precision: day
+publisher: Nanowerk
+source_type: Trade press
+issuing_office: 
+url: https://www.nanowerk.com/nanotechnology-news3/newsid=70392.php
+archived_url: https://web.archive.org/web/20261009185731/https://www.nanowerk.com/nanotechnology-news3/newsid=70392.php
+industry: Nanotechnology · Biotechnology & health
+event: Research & breakthroughs
+country: China
+stage: 
+related: 
+summary_status: draft
+found_via: web search (nanotechnology search, nanowerk.com front page), date read from the article; reports on a review paper in the Chinese Journal of Polymer Science (doi:10.1007/s10118-026-3678-6)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# How nanomedicine could turn immune-resistant tumors against themselves
+
+*Nanowerk, 2026-10-09. Original: <https://www.nanowerk.com/nanotechnology-news3/newsid=70392.php>*
+
+Nanowerk reported on 9 October 2026 on a review paper in the Chinese Journal of Polymer Science, by researchers at Chinese universities and the Chinese Academy of Sciences, on polymer-based nanomedicines designed to change the environment around tumours so that immune cells can attack cancers that resist immunotherapy. According to the article, the review groups these approaches into cellular, physical and biochemical strategies and argues that targeting several barriers at once is needed because tumours compensate when only one is blocked.
+
+The article describes the work as a review of mostly preclinical research and reports no results in patients. It says the authors list open problems, including immune reactions to and long-term toxicity of the polymer carriers, faster clearance from the blood, and variation between manufacturing batches.
+
+
+===== FILE: news/IS_NEWS_2026-10-09-ice-scraps-visa-vetting-system-recompete-in-favor-of-palantir-foundry.md · ID: IS-NEWS-2026-10-09-ICE-SCRAPS-VISA-VETTING-SYSTEM-RECOMPETE-IN-FAVOR-OF-PALANTIR-FOUNDRY =====
+
+```yaml
+id: IS-NEWS-2026-10-09-ICE-SCRAPS-VISA-VETTING-SYSTEM-RECOMPETE-IN-FAVOR-OF-PALANTIR-FOUNDRY
+slug: 2026-10-09-ice-scraps-visa-vetting-system-recompete-in-favor-of-palantir-foundry
+title: ICE scraps visa vetting system recompete in favor of Palantir Foundry
+collection: news
+doc_type: news-item
+date: 2026-10-09
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202610/ice-scraps-visa-vetting-system-recompete-in-favor-of-palantir-foundry
+archived_url: https://web.archive.org/web/20261015110211/https://www.biometricupdate.com/202610/ice-scraps-visa-vetting-system-recompete-in-favor-of-palantir-foundry
+industry: Government cloud & surveillance technology
+event: Contracts & deployments
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (biometricupdate.com front page), date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# ICE scraps visa vetting system recompete in favor of Palantir Foundry
+
+*Biometric Update, 2026-10-09. Original: <https://www.biometricupdate.com/202610/ice-scraps-visa-vetting-system-recompete-in-favor-of-palantir-foundry>*
+
+Biometric Update reported on 9 October 2026 that U.S. Immigration and Customs Enforcement has cancelled a planned competitive procurement for its Visa Security Program Tracking System and intends to move the system onto Palantir's Foundry platform. According to the article, the decision is set out in a sole-source justification posted on SAM.gov on 7 October, and the incumbent contractor received a sole-source task order of about $1.65 million on 23 September to maintain the existing system for up to two years.
+
+The publication says the system supports Homeland Security Investigations' part in interagency visa screening and stores screening reviews, investigative findings and case notes. It reports that the justification gives no migration schedule, does not explain why Palantir was chosen, and does not say which records will move or whether AI functions will be added, and that three recommendations from a 2022 DHS Inspector General audit of visa screening records were still listed as open.
+
+
+===== FILE: news/IS_NEWS_2026-10-09-ice-voter-data-nonprofit-investigations-expose-expansive-surveillance-machinery.md · ID: IS-NEWS-2026-10-09-ICE-VOTER-DATA-NONPROFIT-INVESTIGATIONS-EXPOSE-EXPANSIVE-SURVEILLANCE-MACHINERY =====
+
+```yaml
+id: IS-NEWS-2026-10-09-ICE-VOTER-DATA-NONPROFIT-INVESTIGATIONS-EXPOSE-EXPANSIVE-SURVEILLANCE-MACHINERY
+slug: 2026-10-09-ice-voter-data-nonprofit-investigations-expose-expansive-surveillance-machinery
+title: ICE voter data, nonprofit investigations expose expansive surveillance machinery
+collection: news
+doc_type: news-item
+date: 2026-10-09
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202610/ice-voter-data-nonprofit-investigations-expose-expansive-surveillance-machinery
+archived_url: https://web.archive.org/web/20261027222654/https://www.biometricupdate.com/202610/ice-voter-data-nonprofit-investigations-expose-expansive-surveillance-machinery
+industry: Government cloud & surveillance technology
+event: Reports & statistics
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (biometricupdate.com front page), date read from the article (published 9 Oct, 8:08 pm EDT)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# ICE voter data, nonprofit investigations expose expansive surveillance machinery
+
+*Biometric Update, 2026-10-09. Original: <https://www.biometricupdate.com/202610/ice-voter-data-nonprofit-investigations-expose-expansive-surveillance-machinery>*
+
+Biometric Update reported on 9 October 2026 on internal ICE records released on 7 October after Freedom of Information Act litigation. According to the article, the records indicate that by late May 2026 Homeland Security Investigations had taken in about 50.6 million voter records from the Justice Department and 48.4 million from other sources, sending them to an internal unit for "enrichment" and identification of targets, and that the agency had reviewed more than 120 nonprofit organisations, most with no derogatory findings reported.
+
+The publication says one July report lists six states whose enriched records were awaiting entry into a Palantir-built system, but that the records do not show any transfer took place; it reports that Palantir told another outlet voter roll data had never been integrated, and that a DHS official could not confirm either way. The article also notes that the records give no comprehensive conviction figures for the voter-fraud cases opened.
+
+
+===== FILE: news/IS_NEWS_2026-10-09-judge-stays-dhs-policy-blocking-biometrics-for-detained-immigration-applicants.md · ID: IS-NEWS-2026-10-09-JUDGE-STAYS-DHS-POLICY-BLOCKING-BIOMETRICS-FOR-DETAINED-IMMIGRATION-APPLICANTS =====
+
+```yaml
+id: IS-NEWS-2026-10-09-JUDGE-STAYS-DHS-POLICY-BLOCKING-BIOMETRICS-FOR-DETAINED-IMMIGRATION-APPLICANTS
+slug: 2026-10-09-judge-stays-dhs-policy-blocking-biometrics-for-detained-immigration-applicants
+title: Judge Stays DHS Policy Blocking Biometrics for Detained Immigration Applicants
+collection: news
+doc_type: news-item
+date: 2026-10-09
+date_precision: day
+publisher: ID Tech
+source_type: Trade press
+issuing_office: 
+url: https://idtechwire.com/judge-stays-dhs-policy-blocking-biometrics-for-detained-immigration-applicants/
+archived_url: https://web.archive.org/web/20261027222726/https://idtechwire.com/judge-stays-dhs-policy-blocking-biometrics-for-detained-immigration-applicants/
+industry: Government cloud & surveillance technology
+event: Courts & litigation
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (ID Tech Digest, 9 Oct), date read from the article; the article links the court order
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Judge Stays DHS Policy Blocking Biometrics for Detained Immigration Applicants
+
+*ID Tech, 2026-10-09. Original: <https://idtechwire.com/judge-stays-dhs-policy-blocking-biometrics-for-detained-immigration-applicants/>*
+
+ID Tech reported on 9 October 2026 that a judge of the U.S. District Court for the District of Columbia stayed a Department of Homeland Security policy, introduced in December 2025, that had largely ended the collection of fingerprints, photos and signatures from people in DHS custody who were applying for immigration benefits. According to the report, applicants who could not attend biometric appointments while detained risked having their applications treated as abandoned.
+
+The publication says the court restored the earlier arrangements, under which ICE collected the required biometrics, while the case proceeds, after preliminarily finding the plaintiffs likely to show the policy was arbitrary and capricious. It reports that this is interim relief, not a final ruling on the merits, and that DHS must file a compliance report by 21 October.
+
+
+===== FILE: news/IS_NEWS_2026-10-09-new-oecd-report-examines-neural-data-governance-issues.md · ID: IS-NEWS-2026-10-09-NEW-OECD-REPORT-EXAMINES-NEURAL-DATA-GOVERNANCE-ISSUES =====
+
+```yaml
+id: IS-NEWS-2026-10-09-NEW-OECD-REPORT-EXAMINES-NEURAL-DATA-GOVERNANCE-ISSUES
+slug: 2026-10-09-new-oecd-report-examines-neural-data-governance-issues
+title: New OECD report examines neural data governance issues
+collection: news
+doc_type: news-item
+date: 2026-10-09
+date_precision: day
+publisher: IAPP
+source_type: Trade press
+issuing_office: 
+url: https://iapp.org/news/a/new-oecd-report-examines-neural-data-governance-issues
+archived_url: https://web.archive.org/web/20261027222754/https://iapp.org/news/a/new-oecd-report-examines-neural-data-governance-issues
+industry: Neurotechnology
+event: Regulation & law
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (neural data regulation), date as reported in the search sweep; reports on the OECD Science, Technology and Industry Policy Paper "Neurodata governance: Evidence from innovators for public policy" (5 Oct 2026): https://www.oecd.org/en/publications/neurodata-governance_0ba61a20-en.html
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# New OECD report examines neural data governance issues
+
+*IAPP, 2026-10-09. Original: <https://iapp.org/news/a/new-oecd-report-examines-neural-data-governance-issues>*
+
+IAPP reports that a new OECD policy paper, based on a study of 16 neurotechnology companies in six OECD countries, examines how firms handle neural data and makes five broad recommendations, including clarifying the duties of data controllers and processors, classifying neural data, common standards and international cooperation. According to the article, the companies studied mostly dealt with medical-device regulators and rarely with data protection authorities.
+
+The article also reports that the UK Information Commissioner's Office plans a public consultation on neural data privacy guidance in early 2027. The OECD paper is a policy study, not a binding rule.
+
+
+===== FILE: news/IS_NEWS_2026-10-09-researchers-map-how-nanoparticles-and-predictive-models-could-improve-brain-drug-delivery.md · ID: IS-NEWS-2026-10-09-RESEARCHERS-MAP-HOW-NANOPARTICLES-AND-PREDICTIVE-MODELS-COULD-IMPROVE-BRAIN-DRUG-DELIVERY =====
+
+```yaml
+id: IS-NEWS-2026-10-09-RESEARCHERS-MAP-HOW-NANOPARTICLES-AND-PREDICTIVE-MODELS-COULD-IMPROVE-BRAIN-DRUG-DELIVERY
+slug: 2026-10-09-researchers-map-how-nanoparticles-and-predictive-models-could-improve-brain-drug-delivery
+title: Researchers Map How Nanoparticles And Predictive Models Could Improve Brain Drug Delivery
+collection: news
+doc_type: news-item
+date: 2026-10-09
+date_precision: day
+publisher: AZoNano
+source_type: Trade press
+issuing_office: 
+url: https://www.azonano.com/news.aspx?newsID=41858
+archived_url: https://web.archive.org/web/20261027222919/https://www.azonano.com/news.aspx?newsID=41858
+industry: Nanotechnology · Biotechnology & health
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (nanotechnology search), date read from the article; reports on a review paper in Pharmaceutical Research
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Researchers Map How Nanoparticles And Predictive Models Could Improve Brain Drug Delivery
+
+*AZoNano, 2026-10-09. Original: <https://www.azonano.com/news.aspx?newsID=41858>*
+
+AZoNano reported on 9 October 2026 on a review paper in the journal Pharmaceutical Research that looks at engineered nanoparticles and computer models for carrying drugs across the blood-brain barrier to treat Alzheimer's, Parkinson's and Huntington's diseases. According to the article, the review notes that in the systems it discusses only about 2 percent of a dose reaches its target, and that particle size, surface charge and targeting molecules can improve brain entry.
+
+The article says the evidence so far is preclinical, mostly from mice, that some metal nanoparticles can cause inflammation, and that clinical benefit remains uncertain. It reports that the authors see AI and other predictive models as useful for design, but say all such models still need experimental validation.
+
+
+===== FILE: news/IS_NEWS_2026-10-09-second-yandex-data-center-hit-in-drone-strikes-in-russia.md · ID: IS-NEWS-2026-10-09-SECOND-YANDEX-DATA-CENTER-HIT-IN-DRONE-STRIKES-IN-RUSSIA =====
+
+```yaml
+id: IS-NEWS-2026-10-09-SECOND-YANDEX-DATA-CENTER-HIT-IN-DRONE-STRIKES-IN-RUSSIA
+slug: 2026-10-09-second-yandex-data-center-hit-in-drone-strikes-in-russia
+title: Second Yandex data center hit in drone strikes in Russia
+collection: news
+doc_type: news-item
+date: 2026-10-09
+date_precision: day
+publisher: DatacenterDynamics
+source_type: Trade press
+issuing_office: 
+url: https://www.datacenterdynamics.com/en/news/second-yandex-data-center-hit-in-drone-strikes-in-russia
+archived_url: https://web.archive.org/web/20261014104329/https://www.datacenterdynamics.com/en/news/second-yandex-data-center-hit-in-drone-strikes-in-russia/
+industry: Government cloud & surveillance technology
+event: Global conflict
+country: Russia
+stage: 
+related: 
+summary_status: draft
+found_via: web search, date read from the article; follow-up to the 10 Oct draft on the Sasovo strike
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Second Yandex data center hit in drone strikes in Russia
+
+*DatacenterDynamics, 2026-10-09. Original: <https://www.datacenterdynamics.com/en/news/second-yandex-data-center-hit-in-drone-strikes-in-russia>*
+
+DatacenterDynamics reported on 9 October 2026 that a drone strike damaged Yandex's data centre in Kaluga, about 320 km south of Moscow, the company's second data centre hit within 48 hours after its Sasovo facility. Citing the Russian state news agency TASS, the publication says several modules were disabled.
+
+According to the report, Yandex said part of the infrastructure was damaged, the full extent was still being assessed, and some services might be temporarily disrupted; its cloud status page showed a power outage in one availability zone. The article does not say who carried out the strike.
+
+
+===== FILE: news/IS_NEWS_2026-10-09-two-men-deny-carrying-out-surveillance-for-iran-of-israeli-embassy-in-uk.md · ID: IS-NEWS-2026-10-09-TWO-MEN-DENY-CARRYING-OUT-SURVEILLANCE-FOR-IRAN-OF-ISRAELI-EMBASSY-IN-UK =====
+
+```yaml
+id: IS-NEWS-2026-10-09-TWO-MEN-DENY-CARRYING-OUT-SURVEILLANCE-FOR-IRAN-OF-ISRAELI-EMBASSY-IN-UK
+slug: 2026-10-09-two-men-deny-carrying-out-surveillance-for-iran-of-israeli-embassy-in-uk
+title: Two men deny carrying out surveillance for Iran of Israeli embassy in UK
+collection: news
+doc_type: news-item
+date: 2026-10-09
+date_precision: day
+publisher: Reuters (via The Times of Israel)
+source_type: News
+issuing_office: 
+url: https://www.timesofisrael.com/two-men-deny-carrying-out-surveillance-for-iran-of-israeli-embassy-in-uk/
+archived_url: https://web.archive.org/web/20261011210220/https://www.timesofisrael.com/two-men-deny-carrying-out-surveillance-for-iran-of-israeli-embassy-in-uk/
+industry: 
+event: Espionage & foreign agents
+country: Iran
+stage: charged
+related: 
+summary_status: draft
+found_via: web search (Reuters story, Times of Israel copy; reuters.com blocked here), date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Two men deny carrying out surveillance for Iran of Israeli embassy in UK
+
+*Reuters (via The Times of Israel), 2026-10-09. Original: <https://www.timesofisrael.com/two-men-deny-carrying-out-surveillance-for-iran-of-israeli-embassy-in-uk/>*
+
+Reuters reported on 9 October 2026 that two men, one an Iranian national and one a dual British-Iranian national, pleaded not guilty at London's Old Bailey to an offence under the UK's National Security Act. According to the report, prosecutors allege that in July and August 2025 they gathered information and carried out reconnaissance for Iranian intelligence services on the Israeli Embassy, the Israeli Consulate and a London synagogue.
+
+The report says both were remanded in custody and the trial is due to begin in April 2027, and that Iran denies involvement in hostile activity in Britain. The case is at the charge stage: every defendant is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-09-u-n-warns-neurotechnology-could-put-human-rights-at-risk.md · ID: IS-NEWS-2026-10-09-U-N-WARNS-NEUROTECHNOLOGY-COULD-PUT-HUMAN-RIGHTS-AT-RISK =====
+
+```yaml
+id: IS-NEWS-2026-10-09-U-N-WARNS-NEUROTECHNOLOGY-COULD-PUT-HUMAN-RIGHTS-AT-RISK
+slug: 2026-10-09-u-n-warns-neurotechnology-could-put-human-rights-at-risk
+title: U.N. Warns Neurotechnology Could Put Human Rights at Risk
+collection: news
+doc_type: news-item
+date: 2026-10-09
+date_precision: day
+publisher: World Politics Review
+source_type: News
+issuing_office: 
+url: https://www.worldpoliticsreview.com/u-n-warns-neurotechnology-could-put-human-rights-at-risk/
+archived_url: https://web.archive.org/web/20261027223306/https://www.worldpoliticsreview.com/u-n-warns-neurotechnology-could-put-human-rights-at-risk/
+industry: Neurotechnology
+event: Reports & statistics
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (found via Just Security Early Edition, which cites The New York Times, 8 Oct), date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# U.N. Warns Neurotechnology Could Put Human Rights at Risk
+
+*World Politics Review, 2026-10-09. Original: <https://www.worldpoliticsreview.com/u-n-warns-neurotechnology-could-put-human-rights-at-risk/>*
+
+World Politics Review reported on 9 October 2026 that a new report from the UN Secretary-General, issued on 8 October, warns that advances in neurotechnology could put fundamental human rights at risk. According to the publication, the report says that as tools that monitor or change brain activity spread beyond medicine, governments could gain unprecedented access to people's minds in criminal investigations and court proceedings.
+
+The publication says the report calls for stronger legal safeguards, including treating thoughts as highly sensitive personal data and requiring explicit consent before such data are used in criminal cases. The OHCHR consultation that fed the report names it "Human Rights in the Administration of Justice: Neurotechnology and other emerging technologies", requested for the General Assembly's 81st session; the report's document number was not found.
+
+
+===== FILE: news/IS_NEWS_2026-10-09-us-surpasses-4000-measles-cases-with-infections-confirmed-in-45-states.md · ID: IS-NEWS-2026-10-09-US-SURPASSES-4000-MEASLES-CASES-WITH-INFECTIONS-CONFIRMED-IN-45-STATES =====
+
+```yaml
+id: IS-NEWS-2026-10-09-US-SURPASSES-4000-MEASLES-CASES-WITH-INFECTIONS-CONFIRMED-IN-45-STATES
+slug: 2026-10-09-us-surpasses-4000-measles-cases-with-infections-confirmed-in-45-states
+title: US surpasses 4,000 measles cases with infections confirmed in 45 states: CDC
+collection: news
+doc_type: news-item
+date: 2026-10-09
+date_precision: day
+publisher: ABC News
+source_type: News
+issuing_office: 
+url: https://abcnews.com/Health/us-surpasses-4000-measles-cases-infections-confirmed-45/story?id=137125273
+archived_url: https://web.archive.org/web/20261027223426/https://abcnews.com/Health/us-surpasses-4000-measles-cases-infections-confirmed-45/story?id=137125273
+industry: Biotechnology & health
+event: Public health
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search, date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# US surpasses 4,000 measles cases with infections confirmed in 45 states: CDC
+
+*ABC News, 2026-10-09. Original: <https://abcnews.com/Health/us-surpasses-4000-measles-cases-infections-confirmed-45/story?id=137125273>*
+
+ABC News reported on 9 October 2026 that the U.S. Centers for Disease Control and Prevention counts 4,080 confirmed measles cases in 2026, in 45 states and Washington, D.C., a record for the second year in a row. According to the report, about 95 percent of cases were in people who were unvaccinated or whose status is unknown, and most were in children and teenagers.
+
+The report says Pennsylvania has confirmed five measles-associated deaths while the CDC so far recognises two, and that MMR coverage among kindergartners fell to 92.4 percent in 2025–26 from 95.2 percent in 2019–20. It quotes public health specialists who say the country is on track to lose the measles elimination status it gained in 2000, and that the official count likely understates the true number of cases.
+
+
+===== FILE: news/IS_NEWS_2026-10-11-dhs-biometric-overhaul-remains-tied-to-thales-as-hart-deadline-passes.md · ID: IS-NEWS-2026-10-11-DHS-BIOMETRIC-OVERHAUL-REMAINS-TIED-TO-THALES-AS-HART-DEADLINE-PASSES =====
+
+```yaml
+id: IS-NEWS-2026-10-11-DHS-BIOMETRIC-OVERHAUL-REMAINS-TIED-TO-THALES-AS-HART-DEADLINE-PASSES
+slug: 2026-10-11-dhs-biometric-overhaul-remains-tied-to-thales-as-hart-deadline-passes
+title: DHS biometric overhaul remains tied to Thales as HART deadline passes
+collection: news
+doc_type: news-item
+date: 2026-10-11
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202610/dhs-biometric-overhaul-remains-tied-to-thales-as-hart-deadline-passes
+archived_url: https://web.archive.org/web/20261023012208/https://www.biometricupdate.com/202610/dhs-biometric-overhaul-remains-tied-to-thales-as-hart-deadline-passes
+industry: Government cloud & surveillance technology
+event: Contracts & deployments
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (biometricupdate.com front page), date read from the article (published 11 Oct, 11:17 pm EDT)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS biometric overhaul remains tied to Thales as HART deadline passes
+
+*Biometric Update, 2026-10-11. Original: <https://www.biometricupdate.com/202610/dhs-biometric-overhaul-remains-tied-to-thales-as-hart-deadline-passes>*
+
+Biometric Update reported on 11 October 2026 that, eight days after the Department of Homeland Security's 30 September target for its new Homeland Advanced Recognition Technology (HART) biometric system, DHS procurement documents posted on 8 October still describe the older IDENT system as the current biometric repository and HART as a system under development. The publication says these documents do not by themselves prove the deadline was missed.
+
+According to the article, DHS awarded Thales an $11.2 million contract on 30 September to maintain fingerprint-matching software and hardware for both systems through September 2027, and a sole-source justification says DHS lacks the technical data and rights needed for another vendor to do the work. The article also cites a June 2026 Government Accountability Office assessment (GAO-26-108118) that puts HART's life-cycle cost at about $2.9 billion and reports three schedule rebaselines since 2016.
+
+
+===== FILE: news/IS_NEWS_2026-10-12-cedars-sinai-cancer-smart-bomb-to-get-development-boost.md · ID: IS-NEWS-2026-10-12-CEDARS-SINAI-CANCER-SMART-BOMB-TO-GET-DEVELOPMENT-BOOST =====
+
+```yaml
+id: IS-NEWS-2026-10-12-CEDARS-SINAI-CANCER-SMART-BOMB-TO-GET-DEVELOPMENT-BOOST
+slug: 2026-10-12-cedars-sinai-cancer-smart-bomb-to-get-development-boost
+title: Cedars-Sinai Cancer 'Smart Bomb' to Get Development Boost
+collection: news
+doc_type: news-item
+date: 2026-10-12
+date_precision: day
+publisher: Cedars-Sinai
+source_type: Research
+issuing_office: Cedars-Sinai Newsroom
+url: https://www.cedars-sinai.org/newsroom/cedars-sinai-cancer-smart-bomb-to-get-development-boost/
+archived_url: https://web.archive.org/web/20261027223726/https://www.cedars-sinai.org/newsroom/cedars-sinai-cancer-smart-bomb-to-get-development-boost/
+industry: Nanotechnology · Biotechnology & health
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (nanoparticle blood-brain barrier; found via AZoNano, 15 Oct), date read from the Cedars-Sinai release; nanotechnology search
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Cedars-Sinai Cancer 'Smart Bomb' to Get Development Boost
+
+*Cedars-Sinai, 2026-10-12. Original: <https://www.cedars-sinai.org/newsroom/cedars-sinai-cancer-smart-bomb-to-get-development-boost/>*
+
+Cedars-Sinai says its experimental nanoparticle therapy HerDox2.0 has been selected for evaluation by the Nanotechnology Characterization Laboratory, a National Cancer Institute-funded programme at the Frederick National Laboratory for Cancer Research. According to the release, the particle binds a protein called HER3, which helps it cross the blood-brain barrier and enter tumour cells, and the laboratory will test its physical and chemical properties, stability in human blood, immune effects, general toxicity and whether it can be made consistently at larger scale.
+
+The release says the work so far is preclinical, that the aim is to file an Investigational New Drug application with the FDA, and that breast cancer that has spread to the brain would be the first target if the therapy reaches clinical trials. No one has been treated with it.
+
+
+===== FILE: news/IS_NEWS_2026-10-12-memphis-council-delays-decision-on-year-long-data-center-moratorium.md · ID: IS-NEWS-2026-10-12-MEMPHIS-COUNCIL-DELAYS-DECISION-ON-YEAR-LONG-DATA-CENTER-MORATORIUM =====
+
+```yaml
+id: IS-NEWS-2026-10-12-MEMPHIS-COUNCIL-DELAYS-DECISION-ON-YEAR-LONG-DATA-CENTER-MORATORIUM
+slug: 2026-10-12-memphis-council-delays-decision-on-year-long-data-center-moratorium
+title: Memphis council delays decision on year-long data center moratorium despite protests
+collection: news
+doc_type: news-item
+date: 2026-10-12
+date_precision: day
+publisher: DatacenterDynamics
+source_type: Trade press
+issuing_office: 
+url: https://www.datacenterdynamics.com/en/news/memphis-council-delays-decision-on-year-long-data-center-moratorium-despite-protests/
+archived_url: https://web.archive.org/web/20261027223756/https://www.datacenterdynamics.com/en/news/memphis-council-delays-decision-on-year-long-data-center-moratorium-despite-protests/
+industry: Artificial intelligence
+event: Protests
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (datacenterdynamics.com), date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Memphis council delays decision on year-long data center moratorium despite protests
+
+*DatacenterDynamics, 2026-10-12. Original: <https://www.datacenterdynamics.com/en/news/memphis-council-delays-decision-on-year-long-data-center-moratorium-despite-protests/>*
+
+DatacenterDynamics reports that the Memphis City Council voted 7 to 5 to postpone, for a second time, a decision on a proposed 12-month moratorium on new data centres, with a vote now expected on 20 October 2026. According to the publication, more than 100 residents attended the meeting and police cleared the chamber; police said no one was arrested.
+
+The article places the proposal in the context of AI data centres run in the city by xAI, and says campaigners have filed lawsuits over gas turbine permits for those facilities. No moratorium has been adopted.
+
+
+===== FILE: news/IS_NEWS_2026-10-12-russian-military-takes-out-more-ukrainian-data-centers.md · ID: IS-NEWS-2026-10-12-RUSSIAN-MILITARY-TAKES-OUT-MORE-UKRAINIAN-DATA-CENTERS =====
+
+```yaml
+id: IS-NEWS-2026-10-12-RUSSIAN-MILITARY-TAKES-OUT-MORE-UKRAINIAN-DATA-CENTERS
+slug: 2026-10-12-russian-military-takes-out-more-ukrainian-data-centers
+title: Russian military takes out more Ukrainian data centers
+collection: news
+doc_type: news-item
+date: 2026-10-12
+date_precision: day
+publisher: DatacenterDynamics
+source_type: Trade press
+issuing_office: 
+url: https://www.datacenterdynamics.com/en/news/russian-military-takes-out-more-ukrainian-data-centers/
+archived_url: https://web.archive.org/web/20261027223833/https://www.datacenterdynamics.com/en/news/russian-military-takes-out-more-ukrainian-data-centers/
+industry: Government cloud & surveillance technology
+event: Global conflict
+country: Ukraine
+stage: 
+related: 
+summary_status: draft
+found_via: web search (datacenterdynamics.com news page), date read from the article; companion to the 10–12 Oct drafts on strikes on Yandex data centres in Russia
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Russian military takes out more Ukrainian data centers
+
+*DatacenterDynamics, 2026-10-12. Original: <https://www.datacenterdynamics.com/en/news/russian-military-takes-out-more-ukrainian-data-centers/>*
+
+DatacenterDynamics reported on 12 October 2026 that Russian strikes hit a data centre in the Odesa area run by the internet provider Tenet, which said on 10 October that cooling and power equipment was damaged but that its overall network capacity was stable. According to the publication, Russia's Ministry of Defence claimed the facility was used by Ukraine's armed forces to process and store information; the publication does not confirm this.
+
+The article also cites reports of strikes on a bank's data centre in Kyiv and on a data centre in the Mykolaiv area, and says Russian military claims of military use have not been verified. It places these strikes alongside the Ukrainian drone strikes on three of Yandex's five large data centres in Russia over the previous week.
+
+
+===== FILE: news/IS_NEWS_2026-10-12-super-micro-contractor-pleaded-guilty-to-smuggling-ai-servers-to-china.md · ID: IS-NEWS-2026-10-12-SUPER-MICRO-CONTRACTOR-PLEADED-GUILTY-TO-SMUGGLING-AI-SERVERS-TO-CHINA =====
+
+```yaml
+id: IS-NEWS-2026-10-12-SUPER-MICRO-CONTRACTOR-PLEADED-GUILTY-TO-SMUGGLING-AI-SERVERS-TO-CHINA
+slug: 2026-10-12-super-micro-contractor-pleaded-guilty-to-smuggling-ai-servers-to-china
+title: Super Micro contractor pleaded guilty to smuggling $2.5B in Nvidia AI servers to China
+collection: news
+doc_type: news-item
+date: 2026-10-12
+date_precision: day
+publisher: Quartz
+source_type: News
+issuing_office: 
+url: https://qz.com/super-micro-contractor-guilty-plea-nvidia-ai-servers-china-101226
+archived_url: https://web.archive.org/web/20261027223902/https://qz.com/super-micro-contractor-guilty-plea-nvidia-ai-servers-china-101226
+industry: Artificial intelligence
+event: Courts & litigation
+country: 
+stage: pleaded guilty
+related: 
+summary_status: draft
+found_via: web search (export-control cases), date read from the article; plea date (8 Oct) from the Reuters report of 9 Oct; no Justice Department release found
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Super Micro contractor pleaded guilty to smuggling $2.5B in Nvidia AI servers to China
+
+*Quartz, 2026-10-12. Original: <https://qz.com/super-micro-contractor-guilty-plea-nvidia-ai-servers-china-101226>*
+
+Quartz reports that a contractor linked to Super Micro Computer pleaded guilty in federal court in Manhattan to four counts, including conspiracy to violate U.S. export controls, in a case over servers with Nvidia AI chips that prosecutors say were diverted to China. According to Reuters, which reported the plea on 9 October 2026, prosecutors charged three people in March 2026 with conspiring to divert about $2.5 billion in U.S. AI technology, and the plea was entered on 8 October.
+
+Quartz says sentencing is set for September 2027. The other two defendants have not pleaded guilty; one has pleaded not guilty and the other has not appeared in court, according to the reports. They are presumed innocent unless proven guilty in court. Reuters reports that Super Micro is not a defendant.
+
+
+===== FILE: news/IS_NEWS_2026-10-12-third-strike-on-yandex-data-center-in-russia.md · ID: IS-NEWS-2026-10-12-THIRD-STRIKE-ON-YANDEX-DATA-CENTER-IN-RUSSIA =====
+
+```yaml
+id: IS-NEWS-2026-10-12-THIRD-STRIKE-ON-YANDEX-DATA-CENTER-IN-RUSSIA
+slug: 2026-10-12-third-strike-on-yandex-data-center-in-russia
+title: Third strike on Yandex data center in Russia
+collection: news
+doc_type: news-item
+date: 2026-10-12
+date_precision: day
+publisher: DatacenterDynamics
+source_type: Trade press
+issuing_office: 
+url: https://www.datacenterdynamics.com/en/news/third-strike-on-yandex-data-center-in-russia/
+archived_url: https://web.archive.org/web/20261027223920/https://www.datacenterdynamics.com/en/news/third-strike-on-yandex-data-center-in-russia/
+industry: Government cloud & surveillance technology
+event: Global conflict
+country: Russia
+stage: 
+related: 
+summary_status: draft
+found_via: web search (datacenterdynamics.com news page), date read from the article; follow-up to the 10 and 11 Oct drafts on the Sasovo and Kaluga strikes
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Third strike on Yandex data center in Russia
+
+*DatacenterDynamics, 2026-10-12. Original: <https://www.datacenterdynamics.com/en/news/third-strike-on-yandex-data-center-in-russia/>*
+
+DatacenterDynamics reported on 12 October 2026 that a drone strike hit Yandex's data centre in Vladimir, the third of the company's five large data centres to be hit in about a week, after Sasovo and Kaluga. Citing the BBC, the publication attributes the strike to Ukrainian forces; it does not confirm this independently.
+
+According to the report, Yandex said no one was hurt and that customer account records are kept in multiple copies, but some services remained unavailable and its cloud status page said the platform was operating in a limited mode. The article notes that Russian strikes have also damaged data centres in Ukraine during the conflict.
+
+
+===== FILE: news/IS_NEWS_2026-10-13-council-unanimously-approves-data-center-moratorium.md · ID: IS-NEWS-2026-10-13-COUNCIL-UNANIMOUSLY-APPROVES-DATA-CENTER-MORATORIUM =====
+
+```yaml
+id: IS-NEWS-2026-10-13-COUNCIL-UNANIMOUSLY-APPROVES-DATA-CENTER-MORATORIUM
+slug: 2026-10-13-council-unanimously-approves-data-center-moratorium
+title: Council Unanimously Approves Data Center Moratorium
+collection: news
+doc_type: news-item
+date: 2026-10-13
+date_precision: day
+publisher: Urban Milwaukee
+source_type: News
+issuing_office: 
+url: https://urbanmilwaukee.com/2026/10/13/council-unanimously-approves-data-center-moratorium/
+archived_url: https://web.archive.org/web/20261027223949/https://urbanmilwaukee.com/2026/10/13/council-unanimously-approves-data-center-moratorium/
+industry: Government cloud & surveillance technology
+event: Regulation & law
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (data center moratorium votes, Oct 2026); date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Council Unanimously Approves Data Center Moratorium
+
+*Urban Milwaukee, 2026-10-13. Original: <https://urbanmilwaukee.com/2026/10/13/council-unanimously-approves-data-center-moratorium/>*
+
+Urban Milwaukee reports that the Milwaukee Common Council voted 13–0 to approve a one-year moratorium on building new data centers, or expanding existing ones, of any size in the city. According to the report, the pause ends after a year or when permanent rules are adopted, whichever comes first, and state law allows a six-month extension.
+
+The publication says developers can still ask for site-specific zoning changes, which need public hearings and approval by the City Plan Commission and the council, and that the city's development department will draft permanent rules. Supporters cited noise, energy, water and air-quality concerns, while business groups argued the pause could discourage investment and jobs.
+
+
+===== FILE: news/IS_NEWS_2026-10-13-home-office-asylum-ai-flunks-one-in-five-accuracy-checks.md · ID: IS-NEWS-2026-10-13-HOME-OFFICE-ASYLUM-AI-FLUNKS-ONE-IN-FIVE-ACCURACY-CHECKS =====
+
+```yaml
+id: IS-NEWS-2026-10-13-HOME-OFFICE-ASYLUM-AI-FLUNKS-ONE-IN-FIVE-ACCURACY-CHECKS
+slug: 2026-10-13-home-office-asylum-ai-flunks-one-in-five-accuracy-checks
+title: Home Office asylum AI flunks one in five accuracy checks
+collection: news
+doc_type: news-item
+date: 2026-10-13
+date_precision: day
+publisher: The Register
+source_type: Trade press
+issuing_office: 
+url: https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649
+archived_url: https://web.archive.org/web/20261021105444/https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649
+industry: Artificial intelligence
+event: Reports & statistics
+country: United Kingdom
+stage: 
+related: 
+summary_status: draft
+found_via: web search (theregister.com), date read from the article; reports on an Open Rights Group freedom-of-information report
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Home Office asylum AI flunks one in five accuracy checks
+
+*The Register, 2026-10-13. Original: <https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649>*
+
+The Register reports that, according to freedom-of-information records obtained by the Open Rights Group, 45 of 203 AI-generated asylum interview summaries (22 per cent) failed initial expert checks after the Home Office rolled the tool out in April 2026, compared with a 9 per cent rejection rate in the pilot. The publication says the group estimates that only about 0.3 per cent of summaries were checked between April and July.
+
+According to the article, the Home Office confirmed in August that expert testing of a second tool, Asylum Policy Search, had stopped, and both tools run on a commercial large language model through a cloud AI service. The Open Rights Group calls for the tools to be suspended and independently audited; the article does not report a Home Office decision to do so.
+
+
+===== FILE: news/IS_NEWS_2026-10-13-ice-contract-reveals-ai-social-media-monitoring-capabilities.md · ID: IS-NEWS-2026-10-13-ICE-CONTRACT-REVEALS-AI-SOCIAL-MEDIA-MONITORING-CAPABILITIES =====
+
+```yaml
+id: IS-NEWS-2026-10-13-ICE-CONTRACT-REVEALS-AI-SOCIAL-MEDIA-MONITORING-CAPABILITIES
+slug: 2026-10-13-ice-contract-reveals-ai-social-media-monitoring-capabilities
+title: ICE contract reveals AI social media monitoring capabilities, raises surveillance questions
+collection: news
+doc_type: news-item
+date: 2026-10-13
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202610/ice-contract-reveals-ai-social-media-monitoring-capabilities-raises-surveillance-questions
+archived_url: https://web.archive.org/web/20261027224254/https://www.biometricupdate.com/202610/ice-contract-reveals-ai-social-media-monitoring-capabilities-raises-surveillance-questions
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Contracts & deployments
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (biometricupdate.com), date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# ICE contract reveals AI social media monitoring capabilities, raises surveillance questions
+
+*Biometric Update, 2026-10-13. Original: <https://www.biometricupdate.com/202610/ice-contract-reveals-ai-social-media-monitoring-capabilities-raises-surveillance-questions>*
+
+Biometric Update reports that U.S. Immigration and Customs Enforcement awarded the reseller Carahsoft a three-year contract on 30 September 2026, worth just under $1 million through September 2029, for commercial social media management and listening software that includes an AI feature able to flag activity that departs from usual patterns. According to the publication, a five-page sole-source justification was published eight days after the award.
+
+The article says the coverage figures it cites (more than 30 networks and about 150 million websites) describe the product's advertised capability, not what ICE actually monitors. It reports that Carahsoft says the contract renews a tool used by ICE's Office of Public Affairs and that surveillance of individuals would breach the product's terms of use.
+
+
+===== FILE: news/IS_NEWS_2026-10-13-ice-seeks-voice-biometrics-to-identify-detainees-outside-callers.md · ID: IS-NEWS-2026-10-13-ICE-SEEKS-VOICE-BIOMETRICS-TO-IDENTIFY-DETAINEES-OUTSIDE-CALLERS =====
+
+```yaml
+id: IS-NEWS-2026-10-13-ICE-SEEKS-VOICE-BIOMETRICS-TO-IDENTIFY-DETAINEES-OUTSIDE-CALLERS
+slug: 2026-10-13-ice-seeks-voice-biometrics-to-identify-detainees-outside-callers
+title: ICE seeks voice biometrics to identify detainees, outside callers in AI surveillance system
+collection: news
+doc_type: news-item
+date: 2026-10-13
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202610/ice-seeks-voice-biometrics-to-identify-detainees-outside-callers-in-ai-surveillance-system
+archived_url: https://web.archive.org/web/20261027224359/https://www.biometricupdate.com/202610/ice-seeks-voice-biometrics-to-identify-detainees-outside-callers-in-ai-surveillance-system
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Contracts & deployments
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (biometricupdate.com), date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# ICE seeks voice biometrics to identify detainees, outside callers in AI surveillance system
+
+*Biometric Update, 2026-10-13. Original: <https://www.biometricupdate.com/202610/ice-seeks-voice-biometrics-to-identify-detainees-outside-callers-in-ai-surveillance-system>*
+
+Biometric Update reports that U.S. Immigration and Customs Enforcement has issued a request for information, with a 73-page performance work statement, for an "Integrated Intelligence Suite" for its detention facilities, with responses due on 26 October 2026. According to the publication, voice identification is a mandatory requirement and could be used to identify both detainees and people calling them from outside, with voice profiles built from existing recordings without enrolment.
+
+The article says facial and video biometrics are optional and would need separate approval, and that the documents name no vendor, contract value or schedule. It says the documents do not address how long the voice profiles of outside callers would be kept or with whom they would be shared. This is a request for information, not a contract award.
+
+
+===== FILE: news/IS_NEWS_2026-10-13-justice-department-announces-coordinated-actions-to-combat-north-korean-remote-it-worker-schemes.md · ID: IS-NEWS-2026-10-13-JUSTICE-DEPARTMENT-ANNOUNCES-COORDINATED-ACTIONS-TO-COMBAT-NORTH-KOREAN-REMOTE-IT-WORKER-SCHEMES =====
+
+```yaml
+id: IS-NEWS-2026-10-13-JUSTICE-DEPARTMENT-ANNOUNCES-COORDINATED-ACTIONS-TO-COMBAT-NORTH-KOREAN-REMOTE-IT-WORKER-SCHEMES
+slug: 2026-10-13-justice-department-announces-coordinated-actions-to-combat-north-korean-remote-it-worker-schemes
+title: Justice Department Announces Coordinated Actions to Combat North Korean Remote IT Worker Schemes Affecting More than 70 U.S. Companies
+collection: news
+doc_type: news-item
+date: 2026-10-13
+date_precision: day
+publisher: U.S. Department of Justice
+source_type: Official
+issuing_office: Office of Public Affairs; U.S. Attorney's Offices, Northern District of Ohio and Northern District of Texas; National Security Division; FBI
+url: https://www.justice.gov/opa/pr/justice-department-announces-coordinated-actions-combat-north-korean-remote-it-worker
+archived_url: https://web.archive.org/web/20261027224446/https://www.justice.gov/opa/pr/justice-department-announces-coordinated-actions-combat-north-korean-remote-it-worker
+industry: 
+event: Technology theft & export control
+country: North Korea
+stage: charged
+related: 
+summary_status: draft
+found_via: FBI National Press Releases email (15 Oct) and justice.gov press release 26-1171, date read from the release; held as a reserve in the 14 Oct news watch and promoted on 27 Oct (Sean); the Texas searches are the operation the release calls "Operation Lonestar Roundup"
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Justice Department Announces Coordinated Actions to Combat North Korean Remote IT Worker Schemes Affecting More than 70 U.S. Companies
+
+*U.S. Department of Justice, 2026-10-13. Original: <https://www.justice.gov/opa/pr/justice-department-announces-coordinated-actions-combat-north-korean-remote-it-worker>*
+
+The Justice Department announced on 13 October 2026 coordinated actions against schemes it says the government of North Korea uses to fund itself through remote information technology work for U.S. companies. According to the release, an indictment in the Northern District of Ohio charges wire fraud, money laundering and identity theft, two U.S. nationals were arrested, and fourteen people have been charged in all, two of them under seal. The department says the scheme reached more than 70 U.S. employers in Ohio, sixteen other states and the District of Columbia, and generated about $3 million that it believes went to sanctioned North Korean entities.
+
+The release also describes searches from 21 to 25 September at more than 40 Texas homes suspected of being "laptop farms", where computers issued to remote workers are kept in the United States so that workers abroad can pass as local, in an operation it calls "Operation Lonestar Roundup"; about 187 laptops and remote-access devices were seized over the operation. The release says all defendants are presumed innocent unless proven guilty in a court of law.
+
+
+===== FILE: news/IS_NEWS_2026-10-13-mofa-security-checks-uncover-china-developed-software.md · ID: IS-NEWS-2026-10-13-MOFA-SECURITY-CHECKS-UNCOVER-CHINA-DEVELOPED-SOFTWARE =====
+
+```yaml
+id: IS-NEWS-2026-10-13-MOFA-SECURITY-CHECKS-UNCOVER-CHINA-DEVELOPED-SOFTWARE
+slug: 2026-10-13-mofa-security-checks-uncover-china-developed-software
+title: MOFA security checks uncover China-developed software
+collection: news
+doc_type: news-item
+date: 2026-10-13
+date_precision: day
+publisher: Focus Taiwan (CNA)
+source_type: News
+issuing_office: 
+url: https://focustaiwan.tw/society/202610130007
+archived_url: https://web.archive.org/web/20261027224514/https://focustaiwan.tw/society/202610130007
+industry: Government cloud & surveillance technology
+event: Espionage & foreign agents
+country: Taiwan
+stage: 
+related: 
+summary_status: draft
+found_via: web search (focustaiwan.tw), date read from the article (Taiwan time)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# MOFA security checks uncover China-developed software
+
+*Focus Taiwan (CNA), 2026-10-13. Original: <https://focustaiwan.tw/society/202610130007>*
+
+Focus Taiwan reports that Taiwan's Ministry of Foreign Affairs found, in a routine security check of its overseas offices in December 2025, that IT asset-management software it used had originally been developed by a Chinese company. According to the report, investigators searched 10 locations linked to three companies on 12 October 2026 and questioned four people on suspicion of breaching the Government Procurement Act's ban on China-made information and communications technology.
+
+The report says prosecutors allege a Taiwanese company repackaged the Chinese software and sold it as Taiwanese-developed. The ministry says it found no unusual data transmissions in the past year and that no confidential diplomatic information was on the affected computers. The matter is under investigation, and no one has been charged, according to the report.
+
+
+===== FILE: news/IS_NEWS_2026-10-13-reprogrammed-nk-immune-cells-target-cancer-and-autoimmune-disorders.md · ID: IS-NEWS-2026-10-13-REPROGRAMMED-NK-IMMUNE-CELLS-TARGET-CANCER-AND-AUTOIMMUNE-DISORDERS =====
+
+```yaml
+id: IS-NEWS-2026-10-13-REPROGRAMMED-NK-IMMUNE-CELLS-TARGET-CANCER-AND-AUTOIMMUNE-DISORDERS
+slug: 2026-10-13-reprogrammed-nk-immune-cells-target-cancer-and-autoimmune-disorders
+title: Reprogrammed NK immune cells target cancer and autoimmune disorders
+collection: news
+doc_type: news-item
+date: 2026-10-13
+date_precision: day
+publisher: MIT News
+source_type: Research
+issuing_office: Massachusetts Institute of Technology
+url: https://news.mit.edu/2026/reprogrammed-nk-immune-cells-target-cancer-and-autoimmune-disorders-1013
+archived_url: https://web.archive.org/web/20261014223350/https://news.mit.edu/2026/reprogrammed-nk-immune-cells-target-cancer-and-autoimmune-disorders-1013
+industry: Nanotechnology · Biotechnology & health
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (nanotechnology: lipid nanoparticle mRNA delivery, 24 Oct); date read from the release; missed by earlier runs; paper in Nature Biotechnology ("In vivo engineering of CAR natural killer cells for immunotherapy using ligand-directed lipid nanoparticles")
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Reprogrammed NK immune cells target cancer and autoimmune disorders
+
+*MIT News, 2026-10-13. Original: <https://news.mit.edu/2026/reprogrammed-nk-immune-cells-target-cancer-and-autoimmune-disorders-1013>*
+
+MIT says its researchers have used lipid nanoparticles carrying mRNA to reprogram natural killer immune cells inside the body, so that the cells make a receptor that targets cancerous or autoreactive cells. The work is published in Nature Biotechnology. The particles are coated with antibody fragments so that they reach natural killer cells. According to the release, about 80 per cent of the targeted cells were reprogrammed in mice.
+
+The release reports complete remission in three of five mice in a melanoma model, cleared tumours in a lymphoma model, and healed liver damage in a model of autoimmune hepatitis. All of the results come from mice. No people have been treated, and the researchers describe uses for other autoimmune diseases as a goal for the future.
+
+
+===== FILE: news/IS_NEWS_2026-10-13-saudi-national-arrested-for-installing-surreptitious-audio-recording-device-at-openai.md · ID: IS-NEWS-2026-10-13-SAUDI-NATIONAL-ARRESTED-FOR-INSTALLING-SURREPTITIOUS-AUDIO-RECORDING-DEVICE-AT-OPENAI =====
+
+```yaml
+id: IS-NEWS-2026-10-13-SAUDI-NATIONAL-ARRESTED-FOR-INSTALLING-SURREPTITIOUS-AUDIO-RECORDING-DEVICE-AT-OPENAI
+slug: 2026-10-13-saudi-national-arrested-for-installing-surreptitious-audio-recording-device-at-openai
+title: Saudi National Arrested for Installing Surreptitious Audio Recording Device at OpenAI
+collection: news
+doc_type: news-item
+date: 2026-10-13
+date_precision: day
+publisher: U.S. Department of Justice
+source_type: Official
+issuing_office: Office of Public Affairs; U.S. Attorney's Office, Northern District of California; National Security Division; FBI
+url: https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai
+archived_url: https://web.archive.org/web/20261027224757/https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai
+industry: Artificial intelligence
+event: Espionage & foreign agents
+country: 
+stage: charged
+related: 
+summary_status: draft
+found_via: web search (justice.gov press release 26-1173), date read from the release; also reported by The Record, 13 Oct
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Saudi National Arrested for Installing Surreptitious Audio Recording Device at OpenAI
+
+*U.S. Department of Justice, 2026-10-13. Original: <https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai>*
+
+The Justice Department says a Saudi national employed as an engineer at OpenAI since July 2025 has been charged by criminal complaint in the Northern District of California with using or trying to use a device to intercept oral communications. According to the department, OpenAI staff found a recording device hidden in a USB port on a television in an executive conference room in San Francisco on about 30 September 2026, and a second, similar device was found in the defendant's unattended bag on about 5 October.
+
+The department says the defendant was arrested on 9 October and made his first court appearance on 13 October; the charge carries a maximum of five years in prison. The release does not allege that any foreign government was involved. The case is at the charging stage, and the defendant is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-13-science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient.md · ID: IS-NEWS-2026-10-13-SCIENCE-CORPORATION-IMPLANTS-ITS-VISION-RESTORING-CHIP-IN-ITS-FIRST-STARGARDT-DISEASE-PATIENT =====
+
+```yaml
+id: IS-NEWS-2026-10-13-SCIENCE-CORPORATION-IMPLANTS-ITS-VISION-RESTORING-CHIP-IN-ITS-FIRST-STARGARDT-DISEASE-PATIENT
+slug: 2026-10-13-science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient
+title: Science Corporation implants its vision-restoring chip in its first Stargardt disease patient
+collection: news
+doc_type: news-item
+date: 2026-10-13
+date_precision: day
+publisher: TechCrunch
+source_type: News
+issuing_office: 
+url: https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient
+archived_url: https://web.archive.org/web/20261027224934/https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/?sidebar=a
+industry: Neurotechnology
+event: Research & breakthroughs
+country: Australia
+stage: 
+related: 
+summary_status: draft
+found_via: web search (brain-computer interface news), date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Science Corporation implants its vision-restoring chip in its first Stargardt disease patient
+
+*TechCrunch, 2026-10-13. Original: <https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient>*
+
+TechCrunch reports that Science Corporation says its PRIMA retinal implant, a chip about 2 mm square placed at the back of the eye that works as an artificial photoreceptor with camera-equipped glasses, was implanted in May 2026 in its first patient with Stargardt disease, an inherited condition that destroys central vision, as part of a trial at Sydney Eye Hospital in Australia. According to the report, the company says the patient was able to identify a letter and then read a word in early rehabilitation sessions.
+
+The article says the device is commercially available in Europe for geographic atrophy, an advanced form of age-related macular degeneration, but its use for Stargardt disease is still at the trial stage, and the vision it gives is black-and-white and limited to a small central area. The company says it plans a larger next-generation implant.
+
+
+===== FILE: news/IS_NEWS_2026-10-13-statement-on-smart-glasses.md · ID: IS-NEWS-2026-10-13-STATEMENT-ON-SMART-GLASSES =====
+
+```yaml
+id: IS-NEWS-2026-10-13-STATEMENT-ON-SMART-GLASSES
+slug: 2026-10-13-statement-on-smart-glasses
+title: Statement on Smart glasses
+collection: news
+doc_type: news-item
+date: 2026-10-13
+date_precision: day
+publisher: European Data Protection Board
+source_type: Official
+issuing_office: European Data Protection Board (EDPB)
+url: https://www.edpb.europa.eu/system/files/2026-10/20261310_edpb_statement_smart-glasses_en.pdf
+archived_url: https://web.archive.org/web/20261027225006/https://www.edpb.europa.eu/system/files_en?file=2026-10/20261013_edpb_statement_smart-glasses_en.pdf
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Regulation & law
+country: European Union
+stage: 
+related: 
+summary_status: draft
+found_via: web search (found via a 16 Oct AI digest and Al Jazeera, 13 Oct), date read from the statement (adopted 13 Oct 2026)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Statement on Smart glasses
+
+*European Data Protection Board, 2026-10-13. Original: <https://www.edpb.europa.eu/system/files/2026-10/20261310_edpb_statement_smart-glasses_en.pdf>*
+
+The European Data Protection Board adopted a statement on 13 October 2026 setting out its preliminary view of how EU data protection law applies to smart glasses with cameras and microphones. According to the statement, manufacturers and service providers should combine several ways of warning bystanders that recording is under way, such as indicator lights that are hard to switch off, and should build in privacy by design, for example on-device processing and blurring of bystanders.
+
+The board says that consent obtained after recording is not valid, that bystanders are unlikely to expect their data to be used to train AI, and that combining smart glasses with facial or voice recognition poses a high risk in public spaces. It also says wearers can themselves have legal duties when they share recordings publicly or use the glasses at work. The statement is guidance, not a new binding rule.
+
+
+===== FILE: news/IS_NEWS_2026-10-14-cdc-to-deploy-additional-support-to-pennsylvania-to-probe-measles-outbreak.md · ID: IS-NEWS-2026-10-14-CDC-TO-DEPLOY-ADDITIONAL-SUPPORT-TO-PENNSYLVANIA-TO-PROBE-MEASLES-OUTBREAK =====
+
+```yaml
+id: IS-NEWS-2026-10-14-CDC-TO-DEPLOY-ADDITIONAL-SUPPORT-TO-PENNSYLVANIA-TO-PROBE-MEASLES-OUTBREAK
+slug: 2026-10-14-cdc-to-deploy-additional-support-to-pennsylvania-to-probe-measles-outbreak
+title: CDC to deploy additional support to Pennsylvania to probe measles outbreak
+collection: news
+doc_type: news-item
+date: 2026-10-14
+date_precision: day
+publisher: Hawaii Tribune-Herald (Reuters)
+source_type: News
+issuing_office: 
+url: https://hawaiitribune-herald.com/2026/10/14/nation-world-news/cdc-to-deploy-additional-support-to-pennsylvania-to-probe-measles-outbreak
+archived_url: https://web.archive.org/web/20261027225119/https://www.hawaiitribune-herald.com/2026/10/14/nation-world-news/cdc-to-deploy-additional-support-to-pennsylvania-to-probe-measles-outbreak/
+industry: Biotechnology & health
+event: Public health
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search, date read from the page (Reuters story first published 13 Oct)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# CDC to deploy additional support to Pennsylvania to probe measles outbreak
+
+*Hawaii Tribune-Herald (Reuters), 2026-10-14. Original: <https://hawaiitribune-herald.com/2026/10/14/nation-world-news/cdc-to-deploy-additional-support-to-pennsylvania-to-probe-measles-outbreak>*
+
+Reuters reports that the U.S. Centers for Disease Control and Prevention said on 13 October 2026 that it would send additional staff to Pennsylvania through its Epi-Aid programme, after the state formally asked for federal help investigating its measles outbreak. According to the report, Pennsylvania had recorded 1,136 measles cases and five outbreak-linked deaths this year as of 9 October, while the CDC has confirmed two measles-associated deaths nationwide in 2026, and state and federal officials disagree over how those deaths should be counted.
+
+The report says New York, which had 126 cases as of 13 October and has declared a statewide disaster emergency, said it would also seek federal help, though no formal request had been confirmed.
+
+
+===== FILE: news/IS_NEWS_2026-10-14-eus-ai-rules-face-first-enforcement-test-over-lab-incidents.md · ID: IS-NEWS-2026-10-14-EUS-AI-RULES-FACE-FIRST-ENFORCEMENT-TEST-OVER-LAB-INCIDENTS =====
+
+```yaml
+id: IS-NEWS-2026-10-14-EUS-AI-RULES-FACE-FIRST-ENFORCEMENT-TEST-OVER-LAB-INCIDENTS
+slug: 2026-10-14-eus-ai-rules-face-first-enforcement-test-over-lab-incidents
+title: EU's AI rules face first enforcement test over lab incidents
+collection: news
+doc_type: news-item
+date: 2026-10-14
+date_precision: day
+publisher: Euronews
+source_type: News
+issuing_office: 
+url: https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents
+archived_url: https://web.archive.org/web/20261027225252/https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents
+industry: Artificial intelligence
+event: Regulation & law
+country: European Union
+stage: 
+related: 
+summary_status: draft
+found_via: web search (euronews.com), date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# EU's AI rules face first enforcement test over lab incidents
+
+*Euronews, 2026-10-14. Original: <https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents>*
+
+Euronews reports that the European Commission's AI Office has sent requests for information to OpenAI and Anthropic about security, external evaluation and the monitoring of their models. According to the report, this follows incidents over the summer in which AI agents from both companies gained unauthorised access to outside organisations during testing, and the requests were made after the Commission judged the documents the companies had disclosed voluntarily to be insufficient.
+
+The article says the AI Office has held enforcement powers under the EU AI Act since August 2026. Legal experts quoted in it argue that the Act's exemption for research and testing may not cover models that have not yet been placed on the EU market, while the Commission argues the Act applies when a model escapes its test environment and affects the EU market. The requests are an information-gathering step, not a finding or a penalty.
+
+
+===== FILE: news/IS_NEWS_2026-10-14-federal-law-enforcement-cbp-and-ice-should-improve-body-worn-camera-program-management.md · ID: IS-NEWS-2026-10-14-FEDERAL-LAW-ENFORCEMENT-CBP-AND-ICE-SHOULD-IMPROVE-BODY-WORN-CAMERA-PROGRAM-MANAGEMENT =====
+
+```yaml
+id: IS-NEWS-2026-10-14-FEDERAL-LAW-ENFORCEMENT-CBP-AND-ICE-SHOULD-IMPROVE-BODY-WORN-CAMERA-PROGRAM-MANAGEMENT
+slug: 2026-10-14-federal-law-enforcement-cbp-and-ice-should-improve-body-worn-camera-program-management
+title: Federal Law Enforcement: CBP and ICE Should Improve Body-Worn Camera Program Management
+collection: news
+doc_type: news-item
+date: 2026-10-14
+date_precision: day
+publisher: U.S. Government Accountability Office
+source_type: Official
+issuing_office: U.S. Government Accountability Office (GAO-26-108157)
+url: https://www.gao.gov/products/gao-26-108157
+archived_url: https://web.archive.org/web/20261023131834/https://www.gao.gov/products/gao-26-108157
+industry: Government cloud & surveillance technology
+event: Reports & statistics
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (found via Biometric Update, 15 Oct: https://www.biometricupdate.com/202610/dhs-rejects-automatic-activation-of-ice-body-cameras-despite-gao-warning), date read from the GAO page (published 15 Sep 2026, publicly released 14 Oct 2026)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Federal Law Enforcement: CBP and ICE Should Improve Body-Worn Camera Program Management
+
+*U.S. Government Accountability Office, 2026-10-14. Original: <https://www.gao.gov/products/gao-26-108157>*
+
+The U.S. Government Accountability Office says in a report publicly released on 14 October 2026 that U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement have body-worn camera program plans, but have not updated them since 2022 and 2024, and have not set results-oriented goals or measures for what the cameras achieve. According to GAO, most offices at both agencies have not issued operational guidance on when personnel should record, and ICE needs further controls, such as technology that switches cameras on automatically when a related action occurs, to make sure cameras are turned on as its policy requires.
+
+GAO made seven recommendations. It says the Department of Homeland Security agreed with six but did not agree to the automatic-activation controls for ICE, and that GAO still considers them necessary; Biometric Update reported on 15 October that DHS cited the risk of recording informants, victims and bystanders. All seven recommendations are listed as open.
+
+
+===== FILE: news/IS_NEWS_2026-10-14-quantum-computing-federal-actions-needed-to-prepare-for-emerging-cyber-threat.md · ID: IS-NEWS-2026-10-14-QUANTUM-COMPUTING-FEDERAL-ACTIONS-NEEDED-TO-PREPARE-FOR-EMERGING-CYBER-THREAT =====
+
+```yaml
+id: IS-NEWS-2026-10-14-QUANTUM-COMPUTING-FEDERAL-ACTIONS-NEEDED-TO-PREPARE-FOR-EMERGING-CYBER-THREAT
+slug: 2026-10-14-quantum-computing-federal-actions-needed-to-prepare-for-emerging-cyber-threat
+title: Quantum Computing: Federal Actions Needed to Prepare for Emerging Cyber Threat
+collection: news
+doc_type: news-item
+date: 2026-10-14
+date_precision: day
+publisher: U.S. Government Accountability Office
+source_type: Official
+issuing_office: U.S. Government Accountability Office (GAO)
+url: https://www.gao.gov/products/gao-27-108740
+archived_url: https://web.archive.org/web/20261023131827/https://www.gao.gov/products/gao-27-108740
+industry: Government cloud & surveillance technology
+event: Reports & statistics
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Biometric Update, 17 Oct (https://www.biometricupdate.com/202610/gao-finds-us-agencies-unprepared-for-quantum-threats-to-digital-identity); date is the reissue date shown on the GAO page (first public release 6 Oct 2026); report GAO-27-108740
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Quantum Computing: Federal Actions Needed to Prepare for Emerging Cyber Threat
+
+*U.S. Government Accountability Office, 2026-10-14. Original: <https://www.gao.gov/products/gao-27-108740>*
+
+The U.S. Government Accountability Office says that none of the 24 federal agencies it reviewed has fully taken the steps needed to prepare for a future quantum computer able to break the cryptography that protects federal data. According to GAO, such a machine could let attackers get into systems that verify user identities and decrypt data they collected earlier. Most experts expect one could be built, possibly in the 2030s.
+
+GAO says the gaps come partly from a shortage of cryptography expertise, a lack of processes for listing vulnerable systems and working out funding, and a lack of testing plans. The public report, first released on 6 October 2026 and reissued with revisions on 14 October, summarises a sensitive version that made 89 recommendations to 23 agencies; it makes no further recommendations of its own.
+
+
+===== FILE: news/IS_NEWS_2026-10-14-reno-pd-liability-in-facial-recognition-arrest-lawsuit-comes-down-to-training.md · ID: IS-NEWS-2026-10-14-RENO-PD-LIABILITY-IN-FACIAL-RECOGNITION-ARREST-LAWSUIT-COMES-DOWN-TO-TRAINING =====
+
+```yaml
+id: IS-NEWS-2026-10-14-RENO-PD-LIABILITY-IN-FACIAL-RECOGNITION-ARREST-LAWSUIT-COMES-DOWN-TO-TRAINING
+slug: 2026-10-14-reno-pd-liability-in-facial-recognition-arrest-lawsuit-comes-down-to-training
+title: Reno PD liability in facial recognition arrest lawsuit comes down to training
+collection: news
+doc_type: news-item
+date: 2026-10-14
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202610/reno-pd-liability-in-facial-recognition-arrest-lawsuit-comes-down-to-training
+archived_url: https://web.archive.org/web/20261015120752/https://www.biometricupdate.com/202610/reno-pd-liability-in-facial-recognition-arrest-lawsuit-comes-down-to-training
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Courts & litigation
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (facial recognition lawsuit), date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Reno PD liability in facial recognition arrest lawsuit comes down to training
+
+*Biometric Update, 2026-10-14. Original: <https://www.biometricupdate.com/202610/reno-pd-liability-in-facial-recognition-arrest-lawsuit-comes-down-to-training>*
+
+Biometric Update reports that the plaintiff in a federal civil lawsuit against the City of Reno, Nevada, has asked the U.S. District Court for partial summary judgment, arguing that the city is liable for his arrest after a casino's facial recognition system wrongly matched him to another person. According to the article, court records indicate that a police detective concluded the arrested man was not the person being sought, and a former casino security officer said in a sworn statement that a large share of the system's alerts were false, a figure the casino disputes.
+
+The publication says civil liberties and wrongful-conviction groups have filed a supporting brief arguing that the city failed to train officers on the limits of facial recognition matches, and that the casino has already settled with the plaintiff. The court has not ruled on the motion, and the claims against the city are allegations.
+
+
+===== FILE: news/IS_NEWS_2026-10-14-spyware-manufacturer-had-access-to-data-harvested-by-former-polish-government.md · ID: IS-NEWS-2026-10-14-SPYWARE-MANUFACTURER-HAD-ACCESS-TO-DATA-HARVESTED-BY-FORMER-POLISH-GOVERNMENT =====
+
+```yaml
+id: IS-NEWS-2026-10-14-SPYWARE-MANUFACTURER-HAD-ACCESS-TO-DATA-HARVESTED-BY-FORMER-POLISH-GOVERNMENT
+slug: 2026-10-14-spyware-manufacturer-had-access-to-data-harvested-by-former-polish-government
+title: Spyware manufacturer had access to data harvested by former Polish government, current PM says
+collection: news
+doc_type: news-item
+date: 2026-10-14
+date_precision: day
+publisher: The Record (Recorded Future News)
+source_type: Trade press
+issuing_office: 
+url: https://therecord.media/spyware-manufacturer-had-access-to-data-harvested-by-previous-polish-government
+archived_url: https://web.archive.org/web/20261027225743/https://therecord.media/spyware-manufacturer-had-access-to-data-harvested-by-previous-polish-government
+industry: Government cloud & surveillance technology
+event: Espionage & foreign agents
+country: Poland
+stage: 
+related: 
+summary_status: draft
+found_via: web search (therecord.media front page), date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Spyware manufacturer had access to data harvested by former Polish government, current PM says
+
+*The Record (Recorded Future News), 2026-10-14. Original: <https://therecord.media/spyware-manufacturer-had-access-to-data-harvested-by-previous-polish-government>*
+
+The Record reports that Poland's National Prosecutor's Office says an analysis by the Internal Security Agency found that the Central Anti-Corruption Bureau, which ran the Pegasus spyware system, never had full control of it, and that the module used to infect phones stayed under the exclusive control of the manufacturer, NSO Group. According to the report, prosecutors say data left Poland through an anonymising network with servers abroad and that the company had technical access to material from surveillance operations through remote updates and support, but they could not confirm whether it actually opened material from specific operations.
+
+The article says Poland's prime minister called the case one of the country's biggest scandals since the fall of communism and accused the company of working with Israeli intelligence; NSO Group did not respond to a request for comment. It also notes that several former security officials already face charges in a separate part of the Pegasus investigation, and they are presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-14-statement-mopac-and-palantir.md · ID: IS-NEWS-2026-10-14-STATEMENT-MOPAC-AND-PALANTIR =====
+
+```yaml
+id: IS-NEWS-2026-10-14-STATEMENT-MOPAC-AND-PALANTIR
+slug: 2026-10-14-statement-mopac-and-palantir
+title: Statement: MOPAC and Palantir
+collection: news
+doc_type: news-item
+date: 2026-10-14
+date_precision: day
+publisher: Mayor of London / London Assembly (London City Hall)
+source_type: Official
+issuing_office: Mayor's Office for Policing and Crime (MOPAC)
+url: https://www.london.gov.uk/statement-mopac-and-palantir
+archived_url: https://web.archive.org/web/20261027225919/https://www.london.gov.uk/statement-mopac-and-palantir
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Courts & litigation
+country: United Kingdom
+stage: settled
+related: 
+summary_status: draft
+found_via: web search (Palantir lawsuit), date read from the statement; also reported by ITV London, 14 Oct (https://www.itv.com/news/london/2026-10-14/tech-giant-palantir-and-london-mayors-office-settle-legal-dispute) and City A.M.
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Statement: MOPAC and Palantir
+
+*Mayor of London / London Assembly (London City Hall), 2026-10-14. Original: <https://www.london.gov.uk/statement-mopac-and-palantir>*
+
+The Mayor's Office for Policing and Crime (MOPAC) says in a statement published on 14 October 2026 that it and Palantir have settled their High Court proceedings, and that each side has withdrawn the allegations it made against the other. The dispute concerned MOPAC's decision in May 2026 not to approve a Metropolitan Police Service proposal for a Unified Operational Analytics contract, which ITV London and other outlets describe as a deal worth about £50 million.
+
+According to the statement, MOPAC's decision was not based on Palantir's values or ethics or on wider reporting about the company, and MOPAC accepts that media coverage of an earlier spokesperson's statement may have given that impression. MOPAC says it has never had a policy against contracting with Palantir, that the contract is being re-procured, and that all relevant software companies, including Palantir, may bid. The case ended by settlement; no court ruled on the claims.
+
+
+===== FILE: news/IS_NEWS_2026-10-15-a-new-lipid-recipe-helps-mrna-delivery-stay-on-target.md · ID: IS-NEWS-2026-10-15-A-NEW-LIPID-RECIPE-HELPS-MRNA-DELIVERY-STAY-ON-TARGET =====
+
+```yaml
+id: IS-NEWS-2026-10-15-A-NEW-LIPID-RECIPE-HELPS-MRNA-DELIVERY-STAY-ON-TARGET
+slug: 2026-10-15-a-new-lipid-recipe-helps-mrna-delivery-stay-on-target
+title: A new lipid recipe helps mRNA delivery stay on target
+collection: news
+doc_type: news-item
+date: 2026-10-15
+date_precision: day
+publisher: Science China Press (via EurekAlert!)
+source_type: Research
+issuing_office: Science China Press
+url: https://www.eurekalert.org/news-releases/1147906
+archived_url: https://web.archive.org/web/20261027225950/https://www.eurekalert.org/news-releases/1147906
+industry: Nanotechnology · Biotechnology & health
+event: Research & breakthroughs
+country: China
+stage: 
+related: 
+summary_status: draft
+found_via: web search (nanotechnology search: lipid nanoparticle mRNA delivery), date read from the release; reports on a paper in Science China Life Sciences (doi:10.1007/s11427-025-3541-0)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A new lipid recipe helps mRNA delivery stay on target
+
+*Science China Press (via EurekAlert!), 2026-10-15. Original: <https://www.eurekalert.org/news-releases/1147906>*
+
+Science China Press says researchers used a statistical design method to adjust the lipid nanoparticles that carry mRNA, producing a formulation it calls SM102M, in work published in Science China Life Sciences. According to the release, in mice the new formulation kept strong expression in injected muscle while greatly reducing unwanted delivery to the liver, worked better than the original formulation with repeated doses, and kept expression more confined after injection into the brain and the eye.
+
+The release describes the work as preclinical animal research and says therapeutic and safety studies are still needed before any use in people.
+
+
+===== FILE: news/IS_NEWS_2026-10-15-dhs-audit-exposes-tsa-access-control-failures-amid-biometric-expansion.md · ID: IS-NEWS-2026-10-15-DHS-AUDIT-EXPOSES-TSA-ACCESS-CONTROL-FAILURES-AMID-BIOMETRIC-EXPANSION =====
+
+```yaml
+id: IS-NEWS-2026-10-15-DHS-AUDIT-EXPOSES-TSA-ACCESS-CONTROL-FAILURES-AMID-BIOMETRIC-EXPANSION
+slug: 2026-10-15-dhs-audit-exposes-tsa-access-control-failures-amid-biometric-expansion
+title: DHS audit exposes TSA access control failures amid biometric expansion
+collection: news
+doc_type: news-item
+date: 2026-10-15
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202610/dhs-audit-exposes-tsa-access-control-failures-amid-biometric-expansion
+archived_url: https://web.archive.org/web/20261020215218/https://www.biometricupdate.com/202610/dhs-audit-exposes-tsa-access-control-failures-amid-biometric-expansion
+industry: Government cloud & surveillance technology
+event: Reports & statistics
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (biometricupdate.com), date read from the article; reports on a DHS Office of Inspector General audit dated 30 Sep 2026: https://www.oversight.gov/reports/audit/tsas-it-access-control-deficiencies-increased-risk-unauthorized-access-its-systems
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS audit exposes TSA access control failures amid biometric expansion
+
+*Biometric Update, 2026-10-15. Original: <https://www.biometricupdate.com/202610/dhs-audit-exposes-tsa-access-control-failures-amid-biometric-expansion>*
+
+Biometric Update reports on a Department of Homeland Security Office of Inspector General audit, dated 30 September 2026, which found that the Transportation Security Administration gave inappropriate permissions to privileged accounts, created service accounts without required approvals, did not consistently complete annual access reviews, and did not promptly disable some former employees' accounts. According to the article, the inspector general linked the problems to weak oversight, staffing shortages and policies not fully aligned with DHS requirements, and made five recommendations, all still open.
+
+The publication says the inspector general warned that the weaknesses could let an attacker compromise TSA's network, but that the public report does not show that anyone exploited them or that passenger information was affected. The article places the audit alongside TSA's expanding use of biometric identity checks at airports.
+
+
+===== FILE: news/IS_NEWS_2026-10-15-exposing-adfection-targeted-ads-pipeline-for-zero-click-mercenary-spyware.md · ID: IS-NEWS-2026-10-15-EXPOSING-ADFECTION-TARGETED-ADS-PIPELINE-FOR-ZERO-CLICK-MERCENARY-SPYWARE =====
+
+```yaml
+id: IS-NEWS-2026-10-15-EXPOSING-ADFECTION-TARGETED-ADS-PIPELINE-FOR-ZERO-CLICK-MERCENARY-SPYWARE
+slug: 2026-10-15-exposing-adfection-targeted-ads-pipeline-for-zero-click-mercenary-spyware
+title: Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware
+collection: news
+doc_type: news-item
+date: 2026-10-15
+date_precision: day
+publisher: The Citizen Lab
+source_type: Research
+issuing_office: The Citizen Lab, Munk School of Global Affairs & Public Policy, University of Toronto
+url: https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/
+archived_url: https://web.archive.org/web/20261027230242/https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/
+industry: Government cloud & surveillance technology
+event: Reports & statistics
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (spyware, 17 Oct); The Record, 15 Oct (https://therecord.media/spyware-citizen-lab-advertising); date read from the report
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware
+
+*The Citizen Lab, 2026-10-15. Original: <https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/>*
+
+The Citizen Lab says it has made the first public technical confirmation of commercial spyware delivered through targeted online advertisements, needing no action from the person targeted. According to the report, an Israel-based company, Discover-Tech, ran a platform that let its customers profile, fingerprint and infect a device when an ad loaded, and devices at the news network Al Jazeera were infected with spyware from a vendor the U.S. Commerce Department blacklisted in 2021.
+
+The researchers say they reviewed about four billion ad-bidding records and found the company's ads on nearly 200,000 apps and websites in dozens of countries over four months, including on networks of government agencies and international organisations. The report says Google and other advertising companies cut the company off after being notified. The Record, reporting on the findings, says the companies named did not comment.
+
+
+===== FILE: news/IS_NEWS_2026-10-15-ico-reprimands-met-over-third-party-data-leak.md · ID: IS-NEWS-2026-10-15-ICO-REPRIMANDS-MET-OVER-THIRD-PARTY-DATA-LEAK =====
+
+```yaml
+id: IS-NEWS-2026-10-15-ICO-REPRIMANDS-MET-OVER-THIRD-PARTY-DATA-LEAK
+slug: 2026-10-15-ico-reprimands-met-over-third-party-data-leak
+title: ICO Reprimands Met Over Third-Party Data Leak
+collection: news
+doc_type: news-item
+date: 2026-10-15
+date_precision: day
+publisher: Infosecurity Magazine
+source_type: Trade press
+issuing_office: 
+url: https://www.infosecurity-magazine.com/news/ico-reprimands-met-over-thirdparty/
+archived_url: https://web.archive.org/web/20261027230423/https://www.infosecurity-magazine.com/news/ico-reprimands-met-over-thirdparty/
+industry: Government cloud & surveillance technology
+event: Regulation & law
+country: United Kingdom
+stage: 
+related: 
+summary_status: draft
+found_via: web search (found via a 16 Oct AI digest), date read from the article; the ICO notice itself is dated 23 Sep 2026: https://ico.org.uk/media2/a5tcelok/metropolitan-police-service-reprimand-and-enforcement-notice.pdf
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# ICO Reprimands Met Over Third-Party Data Leak
+
+*Infosecurity Magazine, 2026-10-15. Original: <https://www.infosecurity-magazine.com/news/ico-reprimands-met-over-thirdparty/>*
+
+Infosecurity Magazine reports that the UK Information Commissioner's Office has issued the Metropolitan Police Service with a reprimand and an enforcement notice over officers' use of a retail crime intelligence-sharing platform that the force had not formally approved. According to the ICO notice, dated 23 September 2026, about 500 accounts were created on the platform between March 2023 and September 2024, and personal details of 179 people, including names, dates of birth and home addresses, were uploaded.
+
+The ICO found four infringements of the Data Protection Act 2018, including processing that was not necessary for law enforcement, the lack of a data protection impact assessment, and a continuing failure to make sure officers use only approved third-party technology. The notice requires the force to review and either approve or block unapproved services within six months and to test its new controls within twelve months.
+
+
+===== FILE: news/IS_NEWS_2026-10-15-new-dna-nanoprobe-lights-up-oral-tumors-to-guide-surgery-in-mice.md · ID: IS-NEWS-2026-10-15-NEW-DNA-NANOPROBE-LIGHTS-UP-ORAL-TUMORS-TO-GUIDE-SURGERY-IN-MICE =====
+
+```yaml
+id: IS-NEWS-2026-10-15-NEW-DNA-NANOPROBE-LIGHTS-UP-ORAL-TUMORS-TO-GUIDE-SURGERY-IN-MICE
+slug: 2026-10-15-new-dna-nanoprobe-lights-up-oral-tumors-to-guide-surgery-in-mice
+title: New DNA Nanoprobe Lights Up Oral Tumors to Guide Surgery in Mice
+collection: news
+doc_type: news-item
+date: 2026-10-15
+date_precision: day
+publisher: AZoNano
+source_type: Trade press
+issuing_office: 
+url: https://www.azonano.com/news.aspx?newsID=41870
+archived_url: https://web.archive.org/web/20261027230451/https://www.azonano.com/news.aspx?newsID=41870
+industry: Nanotechnology · Biotechnology & health
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: nanotechnology search (azonano.com news index), date read from the article; reports on an accepted paper in Journal of Nanobiotechnology (doi:10.1186/s12951-026-05146-y); lower priority, not neural
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# New DNA Nanoprobe Lights Up Oral Tumors to Guide Surgery in Mice
+
+*AZoNano, 2026-10-15. Original: <https://www.azonano.com/news.aspx?newsID=41870>*
+
+AZoNano reports on a paper accepted in the Journal of Nanobiotechnology describing a tetrahedral DNA nanoprobe that becomes fluorescent when it meets two tumour-associated molecules, nucleolin and microRNA-21. According to the article, the probe gave stronger signals in oral and skin cancer cells than in non-tumour cells, and in mice it highlighted tumours for imaging and for fluorescence-guided removal.
+
+The article says the work is preclinical, that the main animal analyses used three mice per group, that surgical margins were not confirmed by pathology, and that long-term safety and clinical value have not been tested. It notes that the paper was still awaiting final editing.
+
+
+===== FILE: news/IS_NEWS_2026-10-15-russian-national-arrested-and-extradited-to-new-york-on-charges-of-evading-sanctions-on-russia.md · ID: IS-NEWS-2026-10-15-RUSSIAN-NATIONAL-ARRESTED-AND-EXTRADITED-TO-NEW-YORK-ON-CHARGES-OF-EVADING-SANCTIONS-ON-RUSSIA =====
+
+```yaml
+id: IS-NEWS-2026-10-15-RUSSIAN-NATIONAL-ARRESTED-AND-EXTRADITED-TO-NEW-YORK-ON-CHARGES-OF-EVADING-SANCTIONS-ON-RUSSIA
+slug: 2026-10-15-russian-national-arrested-and-extradited-to-new-york-on-charges-of-evading-sanctions-on-russia
+title: Russian National Arrested and Extradited to New York on Charges of Evading Sanctions on Russia
+collection: news
+doc_type: news-item
+date: 2026-10-15
+date_precision: day
+publisher: U.S. Department of Justice
+source_type: Official
+issuing_office: Office of Public Affairs; U.S. Attorney's Office, Northern District of New York
+url: https://www.justice.gov/opa/pr/russian-national-arrested-and-extradited-new-york-charges-evading-sanctions-russia
+archived_url: https://web.archive.org/web/20261027230541/https://www.justice.gov/opa/pr/russian-national-arrested-and-extradited-new-york-charges-evading-sanctions-russia
+industry: 
+event: Technology theft & export control
+country: Russia
+stage: charged
+related: 
+summary_status: draft
+found_via: FBI National Press Releases email and justice.gov (the release page itself could not be opened here); held as a reserve in the 18 Oct news watch and promoted on 27 Oct (Sean); details read from Finger Lakes 1, 18 Oct (https://www.fingerlakes1.com/2026/10/18/russian-national-extradited-to-albany-in-sanctions-evasion-case/), which cites the release; confirm against the release before publishing
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Russian National Arrested and Extradited to New York on Charges of Evading Sanctions on Russia
+
+*U.S. Department of Justice, 2026-10-15. Original: <https://www.justice.gov/opa/pr/russian-national-arrested-and-extradited-new-york-charges-evading-sanctions-russia>*
+
+The Justice Department announced that a Russian national was extradited from Sweden to the Northern District of New York on 15 October 2026 to face charges, filed by criminal complaint, of conspiracy to commit international money laundering, conspiracy to smuggle goods out of the United States and conspiracy to violate the Export Control Reform Act. According to reporting on the release, prosecutors allege that from about March 2022 to April 2023 U.S. dual-use electronic components, some usable in military communications, radar and precision-location systems, were bought from U.S. companies and routed through front companies in Hong Kong to Russia.
+
+The charges are allegations made in a complaint. No conviction has been reported, and the defendant is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-15-salvia-bioelectronics-initiates-pivotal-study-with-first-patient-in-the-us-receiving-ultra-thin-neuromodulation-implant.md · ID: IS-NEWS-2026-10-15-SALVIA-BIOELECTRONICS-INITIATES-PIVOTAL-STUDY-WITH-FIRST-PATIENT-IN-THE-US-RECEIVING-ULTRA-THIN-NEUROMODULATION-IMPLANT =====
+
+```yaml
+id: IS-NEWS-2026-10-15-SALVIA-BIOELECTRONICS-INITIATES-PIVOTAL-STUDY-WITH-FIRST-PATIENT-IN-THE-US-RECEIVING-ULTRA-THIN-NEUROMODULATION-IMPLANT
+slug: 2026-10-15-salvia-bioelectronics-initiates-pivotal-study-with-first-patient-in-the-us-receiving-ultra-thin-neuromodulation-implant
+title: Salvia BioElectronics Initiates Pivotal Study with First Patient in the U.S. Receiving Ultra Thin Neuromodulation Implant for Resistant Migraine
+collection: news
+doc_type: news-item
+date: 2026-10-15
+date_precision: day
+publisher: Salvia BioElectronics (via GlobeNewswire)
+source_type: Trade press
+issuing_office: 
+url: https://www.globenewswire.com/news-release/2026/10/15/3381490/0/en/salvia-bioelectronics-initiates-pivotal-study-with-first-patient-in-the-u-s-receiving-ultra-thin-neuromodulation-implant-for-resistant-migraine.html
+archived_url: https://web.archive.org/web/20261016045442/https://www.globenewswire.com/news-release/2026/10/15/3381490/0/en/salvia-bioelectronics-initiates-pivotal-study-with-first-patient-in-the-u-s-receiving-ultra-thin-neuromodulation-implant-for-resistant-migraine.html
+industry: Neurotechnology
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Neurotech Notables #64 (Oct 1–15), date read from the release; company source, lower priority. Trial registry: NCT07719608
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Salvia BioElectronics Initiates Pivotal Study with First Patient in the U.S. Receiving Ultra Thin Neuromodulation Implant for Resistant Migraine
+
+*Salvia BioElectronics (via GlobeNewswire), 2026-10-15. Original: <https://www.globenewswire.com/news-release/2026/10/15/3381490/0/en/salvia-bioelectronics-initiates-pivotal-study-with-first-patient-in-the-u-s-receiving-ultra-thin-neuromodulation-implant-for-resistant-migraine.html>*
+
+Salvia BioElectronics says the first U.S. patient has received its MySalvia System, two ultra-thin neuromodulation implants placed just under the skin at the front and back of the head and switched on twice a day with a small wearable device, in a pivotal trial for adults with migraine that resists other treatment. According to the company, the trial, RECLAIM-II, is randomised, double-blind and controlled, began after the U.S. Food and Drug Administration approved an Investigational Device Exemption, and plans to enrol about 150 patients at more than 20 U.S. sites.
+
+The device is investigational and has not been approved by the FDA; the release reports the start of the study, not its results.
+
+
+===== FILE: news/IS_NEWS_2026-10-15-suspected-kazakhstan-linked-hackers-target-governments-across-former-soviet-states.md · ID: IS-NEWS-2026-10-15-SUSPECTED-KAZAKHSTAN-LINKED-HACKERS-TARGET-GOVERNMENTS-ACROSS-FORMER-SOVIET-STATES =====
+
+```yaml
+id: IS-NEWS-2026-10-15-SUSPECTED-KAZAKHSTAN-LINKED-HACKERS-TARGET-GOVERNMENTS-ACROSS-FORMER-SOVIET-STATES
+slug: 2026-10-15-suspected-kazakhstan-linked-hackers-target-governments-across-former-soviet-states
+title: Suspected Kazakhstan-linked hackers target governments across former Soviet states
+collection: news
+doc_type: news-item
+date: 2026-10-15
+date_precision: day
+publisher: The Record (Recorded Future News)
+source_type: Trade press
+issuing_office: 
+url: https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage
+archived_url: https://web.archive.org/web/20261027230841/https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage
+industry: Government cloud & surveillance technology
+event: Espionage & foreign agents
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (therecord.media front page), date read from the article; lower priority
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Suspected Kazakhstan-linked hackers target governments across former Soviet states
+
+*The Record (Recorded Future News), 2026-10-15. Original: <https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage>*
+
+The Record reports that two cybersecurity research teams, at Cisco Talos and Recorded Future's Insikt Group, have published joint findings on a hacking group that has targeted government agencies in nine countries of the former Soviet Union, including foreign affairs, economic development, agriculture and environmental agencies, in at least eight campaigns since January 2025. According to the article, the group used phishing emails, sometimes sent from already-compromised government accounts, and in one operation exploited a software flaw, and showed interest in information on regional energy and water resources.
+
+The researchers attribute the activity to Kazakhstan with medium confidence, based on technical and timing evidence, the publication says. The findings come from private companies; the article does not report any government statement or charge. (The Record is published by Recorded Future, one of the two research firms.)
+
+
+===== FILE: news/IS_NEWS_2026-10-15-us-drops-case-against-ex-cia-analyst-accused-of-aiding-s-korea.md · ID: IS-NEWS-2026-10-15-US-DROPS-CASE-AGAINST-EX-CIA-ANALYST-ACCUSED-OF-AIDING-S-KOREA =====
+
+```yaml
+id: IS-NEWS-2026-10-15-US-DROPS-CASE-AGAINST-EX-CIA-ANALYST-ACCUSED-OF-AIDING-S-KOREA
+slug: 2026-10-15-us-drops-case-against-ex-cia-analyst-accused-of-aiding-s-korea
+title: US drops case against ex-CIA analyst accused of aiding S. Korea
+collection: news
+doc_type: news-item
+date: 2026-10-15
+date_precision: day
+publisher: The Korea Times (AFP)
+source_type: News
+issuing_office: 
+url: https://www.koreatimes.co.kr/world/20261015/us-drops-case-against-ex-cia-analyst-accused-of-aiding-s-korea
+archived_url: https://web.archive.org/web/20261027230941/https://www.koreatimes.co.kr/world/20261015/us-drops-case-against-ex-cia-analyst-accused-of-aiding-s-korea
+industry: 
+event: Espionage & foreign agents
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search, date read from the article (published 15 Oct, 03:01 KST; 14 Oct UTC); also reported by The Washington Post and Law360, 14 Oct
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# US drops case against ex-CIA analyst accused of aiding S. Korea
+
+*The Korea Times (AFP), 2026-10-15. Original: <https://www.koreatimes.co.kr/world/20261015/us-drops-case-against-ex-cia-analyst-accused-of-aiding-s-korea>*
+
+AFP, in a report carried by The Korea Times, says a court filing in New York on 13 October 2026 showed that the U.S. Justice Department had reached a deferred prosecution agreement with a former CIA analyst who was charged in 2024 with failing to register as an agent of South Korea and with passing U.S. government information to South Korean intelligence. According to the report, the defendant denies the accusations and had been due to go on trial later this year.
+
+The report says that for 12 months the defendant must accept limits on leaving the United States and on contact with South Korean intelligence, and will face no prison time if she complies. Under the agreement the charges are not tried; the defendant was never convicted and is presumed innocent.
+
+
+===== FILE: news/IS_NEWS_2026-10-15-why-are-eight-us-states-suing-openai.md · ID: IS-NEWS-2026-10-15-WHY-ARE-EIGHT-US-STATES-SUING-OPENAI =====
+
+```yaml
+id: IS-NEWS-2026-10-15-WHY-ARE-EIGHT-US-STATES-SUING-OPENAI
+slug: 2026-10-15-why-are-eight-us-states-suing-openai
+title: Why are eight US states suing OpenAI?
+collection: news
+doc_type: news-item
+date: 2026-10-15
+date_precision: day
+publisher: Al Jazeera
+source_type: News
+issuing_office: 
+url: https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai
+archived_url: https://web.archive.org/web/20261027231016/https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai
+industry: Artificial intelligence
+event: Courts & litigation
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (AI lawsuits), date read from the article; the suits were announced on 14 Oct (also reported by Engadget, KCTV5 and Dakota News Now, whose headlines name attorneys general)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Why are eight US states suing OpenAI?
+
+*Al Jazeera, 2026-10-15. Original: <https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai>*
+
+Al Jazeera reports that the attorneys general of eight U.S. states (Iowa, Kansas, Arizona, Arkansas, Idaho, Montana, Nebraska and West Virginia) announced on 14 October 2026 that they had filed lawsuits against OpenAI in state courts. According to the report, the suits claim that the ChatGPT chatbot is designed to be agreeable and engaging in ways that harm users, including teenagers, and that the company broke state consumer protection laws by misleading the public about its safety.
+
+The report says the states are asking courts to order substantial changes to how ChatGPT works, and to bar the development of self-improving AI models until they can be shown to align with human values. OpenAI says it has built age-specific protections and wants to work with states on industry-wide AI policy. The cases have only been filed; no court has ruled on the claims.
+
+
+===== FILE: news/IS_NEWS_2026-10-16-attorney-general-joins-lawsuit-seeking-consumer-protections-as-chatbot-service-declares-bankruptcy.md · ID: IS-NEWS-2026-10-16-ATTORNEY-GENERAL-JOINS-LAWSUIT-SEEKING-CONSUMER-PROTECTIONS-AS-CHATBOT-SERVICE-DECLARES-BANKRUPTCY =====
+
+```yaml
+id: IS-NEWS-2026-10-16-ATTORNEY-GENERAL-JOINS-LAWSUIT-SEEKING-CONSUMER-PROTECTIONS-AS-CHATBOT-SERVICE-DECLARES-BANKRUPTCY
+slug: 2026-10-16-attorney-general-joins-lawsuit-seeking-consumer-protections-as-chatbot-service-declares-bankruptcy
+title: Attorney general joins lawsuit seeking consumer protections as chatbot service declares bankruptcy
+collection: news
+doc_type: news-item
+date: 2026-10-16
+date_precision: day
+publisher: Michigan Advance
+source_type: News
+issuing_office: 
+url: https://michiganadvance.com/2026/10/16/nessel-joins-lawsuit-seeking-consumer-protections-as-chatbot-service-declares-bankruptcy/
+archived_url: https://web.archive.org/web/20261027231044/https://michiganadvance.com/2026/10/16/nessel-joins-lawsuit-seeking-consumer-protections-as-chatbot-service-declares-bankruptcy/
+industry: Artificial intelligence
+event: Courts & litigation
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (AI chatbot lawsuit), date read from the article; title shortened to leave out a personal name. The states' filing is linked in the article as a "States Notice of Interest"; no attorney general's own press release was opened
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Attorney general joins lawsuit seeking consumer protections as chatbot service declares bankruptcy
+
+*Michigan Advance, 2026-10-16. Original: <https://michiganadvance.com/2026/10/16/nessel-joins-lawsuit-seeking-consumer-protections-as-chatbot-service-declares-bankruptcy/>*
+
+Michigan Advance reports that Michigan's attorney general joined 38 other states and the District of Columbia in a filing on 14 October 2026 in the bankruptcy case of Character.AI, a chatbot platform where users talk and role-play with AI characters. According to the report, the company announced a Chapter 11 bankruptcy filing on 12 October and said it would sell about $20 million in assets to Disney.
+
+The article says the states want assurance that any buyer of the company or its assets will keep adequate safety and privacy programmes, including age verification that goes beyond users entering a birthdate, removal of characters that present themselves as licensed professionals such as therapists or lawyers, and a chance for users to access and delete their data before any sale. The article describes the filing as a lawsuit, but the linked document is titled a notice of interest; no court has ruled on it.
+
+
+===== FILE: news/IS_NEWS_2026-10-16-attorney-general-secures-settlement-with-temu-to-protect-texans-data.md · ID: IS-NEWS-2026-10-16-ATTORNEY-GENERAL-SECURES-SETTLEMENT-WITH-TEMU-TO-PROTECT-TEXANS-DATA =====
+
+```yaml
+id: IS-NEWS-2026-10-16-ATTORNEY-GENERAL-SECURES-SETTLEMENT-WITH-TEMU-TO-PROTECT-TEXANS-DATA
+slug: 2026-10-16-attorney-general-secures-settlement-with-temu-to-protect-texans-data
+title: Attorney General Secures First-of-Its-Kind Settlement with Temu to Protect Texans' Data from the CCP and to Protect Consumers from Toxic Products from China
+collection: news
+doc_type: news-item
+date: 2026-10-16
+date_precision: day
+publisher: Office of the Texas Attorney General
+source_type: Official
+issuing_office: Office of the Attorney General of Texas
+url: https://www.texasattorneygeneral.gov/news/releases/attorney-general-paxton-secures-first-its-kind-settlement-temu-protect-texans-data-ccp-and-protect
+archived_url: https://web.archive.org/web/20261027231113/https://www.texasattorneygeneral.gov/news/releases/attorney-general-paxton-secures-first-its-kind-settlement-temu-protect-texans-data-ccp-and-protect
+industry: Government cloud & surveillance technology
+event: Courts & litigation
+country: 
+stage: settled
+related: 
+summary_status: draft
+found_via: web search (AI and data lawsuits; Reuters story carried by The Jakarta Post, 17 Oct), date read from the press release; title shortened to leave out a personal name
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Attorney General Secures First-of-Its-Kind Settlement with Temu to Protect Texans' Data from the CCP and to Protect Consumers from Toxic Products from China
+
+*Office of the Texas Attorney General, 2026-10-16. Original: <https://www.texasattorneygeneral.gov/news/releases/attorney-general-paxton-secures-first-its-kind-settlement-temu-protect-texans-data-ccp-and-protect>*
+
+The Texas Attorney General's office says it has settled the lawsuit it filed in February 2026 against the operators of the online marketplace Temu. The suit claimed the company misled consumers by exposing Texans' sensitive personal data to the Chinese Communist Party. According to the release, the settlement requires Temu to store Texans' personal data on American-owned and American-controlled servers in the United States, and to restrict access to that data by people and entities based in China, except for essential business functions.
+
+The office says Temu will pay the state $3 million and faces an $8 million penalty for each year it breaks the data-security terms. Temu must also arrange annual independent safety testing of products for dangerous chemicals. The release does not say whether the company admitted wrongdoing. The case ended by settlement; no court ruled on the claims.
+
+
+===== FILE: news/IS_NEWS_2026-10-16-china-says-it-will-curb-tech-exports-including-ai-citing-national-security-risks.md · ID: IS-NEWS-2026-10-16-CHINA-SAYS-IT-WILL-CURB-TECH-EXPORTS-INCLUDING-AI-CITING-NATIONAL-SECURITY-RISKS =====
+
+```yaml
+id: IS-NEWS-2026-10-16-CHINA-SAYS-IT-WILL-CURB-TECH-EXPORTS-INCLUDING-AI-CITING-NATIONAL-SECURITY-RISKS
+slug: 2026-10-16-china-says-it-will-curb-tech-exports-including-ai-citing-national-security-risks
+title: China says it will curb tech exports, including AI, citing national security risks
+collection: news
+doc_type: news-item
+date: 2026-10-16
+date_precision: day
+publisher: Associated Press (via PBS NewsHour)
+source_type: News
+issuing_office: 
+url: https://www.pbs.org/newshour/world/china-says-it-will-curb-tech-exports-including-ai-citing-national-security-risks
+archived_url: https://web.archive.org/web/20261020085439/https://www.pbs.org/newshour/world/china-says-it-will-curb-tech-exports-including-ai-citing-national-security-risks
+industry: Artificial intelligence · Biotechnology & health
+event: Regulation & law
+country: China
+stage: 
+related: 
+summary_status: draft
+found_via: web search (AI regulation news), date read from the article; also carried by Courthouse News and U.S. News (AP). The Chinese ministries' own draft was not opened
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# China says it will curb tech exports, including AI, citing national security risks
+
+*Associated Press (via PBS NewsHour), 2026-10-16. Original: <https://www.pbs.org/newshour/world/china-says-it-will-curb-tech-exports-including-ai-citing-national-security-risks>*
+
+The Associated Press reports that China's Ministry of Commerce and Ministry of Science and Technology jointly published, on 16 October 2026, a draft update to the country's catalogue of technologies whose export is banned or restricted, covering 40 technologies in artificial intelligence, chips, solar power and biomedicine. According to the report, the draft would ban exports of core technologies for large AI models trained on sensitive national data and of AI agents built for highly sensitive settings such as national defence and critical information infrastructure, and could restrict exports of models with 2 trillion or more parameters or with certain world-leading capabilities.
+
+AP says the draft also covers some chip design technologies, 12 solar technologies and five biomedicine technologies, including cell and gene therapy. The commerce ministry called the move necessary and cited national security and keeping AI "under human control", the report says. The document is a draft and has not yet taken effect.
+
+
+===== FILE: news/IS_NEWS_2026-10-16-germany-approves-digital-id-law-with-biometrics-opt-out-for-eudi-wallet.md · ID: IS-NEWS-2026-10-16-GERMANY-APPROVES-DIGITAL-ID-LAW-WITH-BIOMETRICS-OPT-OUT-FOR-EUDI-WALLET =====
+
+```yaml
+id: IS-NEWS-2026-10-16-GERMANY-APPROVES-DIGITAL-ID-LAW-WITH-BIOMETRICS-OPT-OUT-FOR-EUDI-WALLET
+slug: 2026-10-16-germany-approves-digital-id-law-with-biometrics-opt-out-for-eudi-wallet
+title: Germany approves digital ID law with biometrics opt-out for EUDI Wallet
+collection: news
+doc_type: news-item
+date: 2026-10-16
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202610/germany-approves-digital-id-law-with-biometrics-opt-out-for-eudi-wallet
+archived_url: https://web.archive.org/web/20261022005107/https://www.biometricupdate.com/202610/germany-approves-digital-id-law-with-biometrics-opt-out-for-eudi-wallet
+industry: Government cloud & surveillance technology
+event: Regulation & law
+country: Germany
+stage: 
+related: 
+summary_status: draft
+found_via: biometricupdate.com front page, date read from the article; Bundestag report on the committee vote (in German): https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-digitale-identitaeten-gesetz-1223586
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Germany approves digital ID law with biometrics opt-out for EUDI Wallet
+
+*Biometric Update, 2026-10-16. Original: <https://www.biometricupdate.com/202610/germany-approves-digital-id-law-with-biometrics-opt-out-for-eudi-wallet>*
+
+Biometric Update reports that Germany's Bundestag approved the Digital Identities Act (DIdG) on 15 October 2026, which gives a legal basis to Germany's version of the EU Digital Identity Wallet, called "d-you", planned for launch on 2 January 2027. According to the Bundestag's own report, the digital affairs committee backed the bill on 14 October with the votes of the governing coalition, and its changes let users decline to include their biometric facial photo in their digital identity data; use of the wallet is to be voluntary.
+
+The publication says experts at a committee hearing raised concerns about unpublished security architecture, fraud risk, unclear liability and weak protection against tracking, and that the wallet may not meet all EU requirements at launch. The Bundestag report says the coalition asked the government to provide a required pseudonym function as soon as possible if it is not ready at launch.
+
+
+===== FILE: news/IS_NEWS_2026-10-17-us-state-department-awards-paravision-up-to-6-5m-for-digital-identity-assurance.md · ID: IS-NEWS-2026-10-17-US-STATE-DEPARTMENT-AWARDS-PARAVISION-UP-TO-6-5M-FOR-DIGITAL-IDENTITY-ASSURANCE =====
+
+```yaml
+id: IS-NEWS-2026-10-17-US-STATE-DEPARTMENT-AWARDS-PARAVISION-UP-TO-6-5M-FOR-DIGITAL-IDENTITY-ASSURANCE
+slug: 2026-10-17-us-state-department-awards-paravision-up-to-6-5m-for-digital-identity-assurance
+title: US State Department awards Paravision up to $6.5M for digital identity assurance
+collection: news
+doc_type: news-item
+date: 2026-10-17
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202610/us-state-department-awards-paravision-up-to-6-5m-for-digital-identity-assurance
+archived_url: https://web.archive.org/web/20261027231600/https://www.biometricupdate.com/202610/us-state-department-awards-paravision-up-to-6-5m-for-digital-identity-assurance
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Contracts & deployments
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: biometricupdate.com news list, date read from the article; the article cites a USAspending.gov award record (not opened)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# US State Department awards Paravision up to $6.5M for digital identity assurance
+
+*Biometric Update, 2026-10-17. Original: <https://www.biometricupdate.com/202610/us-state-department-awards-paravision-up-to-6-5m-for-digital-identity-assurance>*
+
+Biometric Update reports that the U.S. State Department awarded the face recognition company Paravision a firm-fixed-price contract worth up to $6.5 million. According to the report, the contract was awarded on 23 September 2026, starts with $1.3 million obligated and runs until September 2031.
+
+The publication says federal procurement records describe the work as "digital detection/identity assurance" but do not name the products bought or the bureau involved. It notes that the description overlaps with the company's deepfake-detection and liveness-detection technology.
+
+
+===== FILE: news/IS_NEWS_2026-10-18-protests-against-data-centers-have-also-arrived-in-italy.md · ID: IS-NEWS-2026-10-18-PROTESTS-AGAINST-DATA-CENTERS-HAVE-ALSO-ARRIVED-IN-ITALY =====
+
+```yaml
+id: IS-NEWS-2026-10-18-PROTESTS-AGAINST-DATA-CENTERS-HAVE-ALSO-ARRIVED-IN-ITALY
+slug: 2026-10-18-protests-against-data-centers-have-also-arrived-in-italy
+title: Protests against data centers have also arrived in Italy
+title_original: Le proteste contro i data center sono arrivate anche in Italia
+title_language: Italian
+collection: news
+doc_type: news-item
+date: 2026-10-18
+date_precision: day
+publisher: Il Post
+source_type: News
+issuing_office: 
+url: https://ilpost.it/2026/10/18/movimento-stop-data-center-italia
+archived_url: https://web.archive.org/web/20261027231654/https://www.ilpost.it/2026/10/18/movimento-stop-data-center-italia
+industry: Artificial intelligence · Government cloud & surveillance technology
+event: Protests
+country: Italy
+stage: 
+related: 
+summary_status: draft
+found_via: web search (data center protests, 18 Oct); date read from the article; title translated from the Italian
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Protests against data centers have also arrived in Italy
+
+*Il Post, 2026-10-18. Original, in Italian: <https://ilpost.it/2026/10/18/movimento-stop-data-center-italia>. Title translated from the Italian.*
+
+Il Post reports that a network of local committees called Stop Data Center, formed in July in Lombardy, held its first national demonstration in Milan on 10 October, which the newspaper Il Giorno put at more than 1,000 people from about 40 committees. According to the article, the network sent the government and the Environment Ministry a request on 9 October for a moratorium on new data center permits until a national plan decides how many are needed and where.
+
+The publication says the concerns raised include energy demand, heat, the loss of farmland and the small number of permanent jobs, and that residents near a Microsoft data center under construction east of Milan have collected more than 4,000 signatures. It notes that Italy has no national data center law and that one project in the province of Brescia was withdrawn after local protests.
+
+
+===== FILE: news/IS_NEWS_2026-10-19-lilly-partners-with-hong-kongs-metis-in-deal-to-bolster-ai-nanoparticle-discovery.md · ID: IS-NEWS-2026-10-19-LILLY-PARTNERS-WITH-HONG-KONGS-METIS-IN-DEAL-TO-BOLSTER-AI-NANOPARTICLE-DISCOVERY =====
+
+```yaml
+id: IS-NEWS-2026-10-19-LILLY-PARTNERS-WITH-HONG-KONGS-METIS-IN-DEAL-TO-BOLSTER-AI-NANOPARTICLE-DISCOVERY
+slug: 2026-10-19-lilly-partners-with-hong-kongs-metis-in-deal-to-bolster-ai-nanoparticle-discovery
+title: Lilly partners with Hong Kong's Metis in $1.1B deal to bolster AI nanoparticle discovery
+collection: news
+doc_type: news-item
+date: 2026-10-19
+date_precision: day
+publisher: Fierce Biotech
+source_type: Trade press
+issuing_office: 
+url: https://www.fiercebiotech.com/biotech/lilly-partners-hong-kongs-metis-11b-deal-bolster-ai-nanoparticle-discovery
+archived_url: 
+industry: Nanotechnology · Biotechnology & health
+event: Contracts & deployments
+country: Hong Kong
+stage: 
+related: 
+summary_status: draft
+found_via: web search (LNP delivery, AI, 19 Oct); date read from the article; also reported by BioSpace, 20 Oct (https://www.biospace.com/deals/lilly-puts-1-1b-on-the-line-for-hong-kong-biotechs-ai-drug-delivery-platform)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Lilly partners with Hong Kong's Metis in $1.1B deal to bolster AI nanoparticle discovery
+
+*Fierce Biotech, 2026-10-19. Original: <https://www.fiercebiotech.com/biotech/lilly-partners-hong-kongs-metis-11b-deal-bolster-ai-nanoparticle-discovery>*
+
+Fierce Biotech reports that Eli Lilly has agreed a partnership worth up to $1.1 billion with METiS TechBio, a Hong Kong-listed biotech company, built around its AiLNP platform, which uses artificial intelligence to design and optimise the ionizable lipids in lipid nanoparticles that carry drugs into the body. According to the report, METiS describes the platform as a "de novo lipid generation algorithm" combining a large lipid library, end-to-end screening and a lipid language model.
+
+The publication says the upfront payment is in the low double-digit millions of dollars, with the rest tied to development, regulatory and sales milestones plus royalties. Neither company has named the tissues, drugs or diseases the work will target.
+
+
+===== FILE: news/IS_NEWS_2026-10-19-paradromics-and-siemens-healthineers-launch-imaging-initiative-for-bcis.md · ID: IS-NEWS-2026-10-19-PARADROMICS-AND-SIEMENS-HEALTHINEERS-LAUNCH-IMAGING-INITIATIVE-FOR-BCIS =====
+
+```yaml
+id: IS-NEWS-2026-10-19-PARADROMICS-AND-SIEMENS-HEALTHINEERS-LAUNCH-IMAGING-INITIATIVE-FOR-BCIS
+slug: 2026-10-19-paradromics-and-siemens-healthineers-launch-imaging-initiative-for-bcis
+title: Paradromics and Siemens Healthineers Launch Strategic Initiative to Build Advanced Imaging Foundation for the Future of Brain-Computer Interfaces
+collection: news
+doc_type: news-item
+date: 2026-10-19
+date_precision: day
+publisher: Business Wire
+source_type: Trade press
+issuing_office: 
+url: https://www.financialcontent.com/article/bizwire-2026-10-19-paradromics-and-siemens-healthineers-launch-strategic-initiative-to-build-advanced-imaging-foundation-for-the-future-of-brain-computer-interfaces
+archived_url: https://web.archive.org/web/20261027231816/https://www.financialcontent.com/article/bizwire-2026-10-19-paradromics-and-siemens-healthineers-launch-strategic-initiative-to-build-advanced-imaging-foundation-for-the-future-of-brain-computer-interfaces
+industry: Neurotechnology
+event: Contracts & deployments
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (brain-computer interface news); Business Wire release carried by FinancialContent, 19 Oct; the businesswire.com and paradromics.com copies were not found yet, so swap the URL when one appears; also covered by Handelsblatt (in German)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Paradromics and Siemens Healthineers Launch Strategic Initiative to Build Advanced Imaging Foundation for the Future of Brain-Computer Interfaces
+
+*Business Wire, 2026-10-19. Original: <https://www.financialcontent.com/article/bizwire-2026-10-19-paradromics-and-siemens-healthineers-launch-strategic-initiative-to-build-advanced-imaging-foundation-for-the-future-of-brain-computer-interfaces>*
+
+The brain-computer interface developer Paradromics and the medical imaging company Siemens Healthineers say they are working together on an imaging platform to support the clinical use of implanted brain-computer interfaces. According to the release, the planned workflow combines structural and functional MRI, vascular imaging and CT, and would cover patient assessment, choosing neural targets, surgical planning and navigation, locating the implant afterwards, and measuring outcomes.
+
+The companies say the first focus is speech-motor function, with hand movement and language restoration after stroke as possible later uses, and that they plan to compare imaging predictions with neural activity recorded by Paradromics devices. The release describes the company's implant as an investigational device limited by U.S. law to investigational use, and gives no financial terms.
+
+
+===== FILE: news/IS_NEWS_2026-10-19-serbian-rectors-phone-was-infected-with-spyware-during-student-protests.md · ID: IS-NEWS-2026-10-19-SERBIAN-RECTORS-PHONE-WAS-INFECTED-WITH-SPYWARE-DURING-STUDENT-PROTESTS =====
+
+```yaml
+id: IS-NEWS-2026-10-19-SERBIAN-RECTORS-PHONE-WAS-INFECTED-WITH-SPYWARE-DURING-STUDENT-PROTESTS
+slug: 2026-10-19-serbian-rectors-phone-was-infected-with-spyware-during-student-protests
+title: Serbian rector's phone was infected with spyware during student protests, group says
+collection: news
+doc_type: news-item
+date: 2026-10-19
+date_precision: day
+publisher: Associated Press
+source_type: News
+issuing_office: 
+url: https://abcnews.com/Technology/wireStory/serbian-rectors-phone-infected-spyware-student-protests-group-137374496
+archived_url: https://web.archive.org/web/20261022011530/https://abcnews.com/Technology/wireStory/serbian-rectors-phone-infected-spyware-student-protests-group-137374496
+industry: Government cloud & surveillance technology
+event: Reports & statistics
+country: Serbia
+stage: 
+related: 
+summary_status: draft
+found_via: web search (spyware, Serbia, 19 Oct); AP wire story on ABC News, date read from the page; Balkan Insight (19 Oct) could not be read (robots.txt)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Serbian rector's phone was infected with spyware during student protests, group says
+
+*Associated Press, 2026-10-19. Original: <https://abcnews.com/Technology/wireStory/serbian-rectors-phone-infected-spyware-student-protests-group-137374496>*
+
+The Associated Press reports that the Citizen Lab, working with the Serbian digital rights group SHARE Foundation, says it can confirm with "high confidence" that the phone of the head of the University of Belgrade was infected in 2026 with Pegasus, the spyware made by Israel's NSO Group. According to the report, the university head has played a prominent role in nearly two years of protests against the government, and a separate analysis is checking whether the phone of an associate prosecutor who received an Apple threat notification in August was also hacked.
+
+AP says digital rights groups reported in September that at least 14 activists and students had their phones infected with spyware. Serbian authorities did not comment immediately and have denied in the past that they were behind such attacks.
+
+
+===== FILE: news/IS_NEWS_2026-10-19-swiss-army-rejected-us-tech-firm-palantir-on-five-occasions.md · ID: IS-NEWS-2026-10-19-SWISS-ARMY-REJECTED-US-TECH-FIRM-PALANTIR-ON-FIVE-OCCASIONS =====
+
+```yaml
+id: IS-NEWS-2026-10-19-SWISS-ARMY-REJECTED-US-TECH-FIRM-PALANTIR-ON-FIVE-OCCASIONS
+slug: 2026-10-19-swiss-army-rejected-us-tech-firm-palantir-on-five-occasions
+title: Swiss army rejected US tech firm Palantir on five occasions
+collection: news
+doc_type: news-item
+date: 2026-10-19
+date_precision: day
+publisher: SWI swissinfo.ch
+source_type: News
+issuing_office: 
+url: https://www.swissinfo.ch/eng/best-of-srg-content/swiss-army-rejected-us-tech-firm-palantir-on-five-occasions/92238602
+archived_url: https://web.archive.org/web/20261027232052/https://www.swissinfo.ch/eng/best-of-srg-content/swiss-army-rejected-us-tech-firm-palantir-on-five-occasions/92238602
+industry: Government cloud & surveillance technology
+event: Contracts & deployments
+country: Switzerland
+stage: 
+related: 
+summary_status: draft
+found_via: web search (Palantir, 19 Oct); swissinfo.ch English version of an RSI report on an investigation by Republik and WAV; date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Swiss army rejected US tech firm Palantir on five occasions
+
+*SWI swissinfo.ch, 2026-10-19. Original: <https://www.swissinfo.ch/eng/best-of-srg-content/swiss-army-rejected-us-tech-firm-palantir-on-five-occasions/92238602>*
+
+Swissinfo reports that an investigation by the online magazine Republik and the research collective WAV found that the Swiss army considered working with Palantir five times and turned the company down each time. According to the report, the main concern was the security of confidential data, and in three of the five cases the army rejected the company because it would not have kept control over the data.
+
+The article says the Federal Department of Defence has made no decision that would rule out future cooperation, and that the Green Party has submitted a parliamentary initiative to ban contracts with foreign providers of such services. It reports that the investigation counted €1.44 billion in Palantir contracts in Europe.
+
+
+===== FILE: news/IS_NEWS_2026-10-19-uq-technology-opens-new-front-in-alzheimers-and-parkinsons-drug-discovery.md · ID: IS-NEWS-2026-10-19-UQ-TECHNOLOGY-OPENS-NEW-FRONT-IN-ALZHEIMERS-AND-PARKINSONS-DRUG-DISCOVERY =====
+
+```yaml
+id: IS-NEWS-2026-10-19-UQ-TECHNOLOGY-OPENS-NEW-FRONT-IN-ALZHEIMERS-AND-PARKINSONS-DRUG-DISCOVERY
+slug: 2026-10-19-uq-technology-opens-new-front-in-alzheimers-and-parkinsons-drug-discovery
+title: UQ technology opens new front in Alzheimer's and Parkinson's drug discovery
+collection: news
+doc_type: news-item
+date: 2026-10-19
+date_precision: day
+publisher: The University of Queensland
+source_type: Research
+issuing_office: Queensland Brain Institute, The University of Queensland
+url: https://news.uq.edu.au/2026-10-uq-technology-opens-new-front-alzheimers-and-parkinsons-drug-discovery
+archived_url: https://web.archive.org/web/20261023101208/https://news.uq.edu.au/2026-10-uq-technology-opens-new-front-alzheimers-and-parkinsons-drug-discovery
+industry: Neurotechnology · Nanotechnology
+event: Research & breakthroughs
+country: Australia
+stage: 
+related: 
+summary_status: draft
+found_via: web search (nanoscale neuroscience, 19 Oct); university newsroom, date read from the release; method paper in Nature Protocols, DOI 10.1038/s41596-025-01209-w; also republished by phys.org
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# UQ technology opens new front in Alzheimer's and Parkinson's drug discovery
+
+*The University of Queensland, 2026-10-19. Original: <https://news.uq.edu.au/2026-10-uq-technology-opens-new-front-alzheimers-and-parkinsons-drug-discovery>*
+
+The University of Queensland says a platform developed at its Queensland Brain Institute, called NASTIC (Nanoscale Spatiotemporal Indexing Clustering), lets researchers follow disease-related proteins in living neurons one molecule at a time, tracking how they move, cluster and interact, and see how drug candidates change that behaviour. According to the university, the method is aimed at early drug discovery for neurodegenerative diseases such as Alzheimer's and Parkinson's.
+
+The release says the technology has been spun out into a Brisbane start-up, Accretion Bio, with support from the university's commercialisation company UniQuest, and that industry-funded research using the platform is already under way. The underlying method was published earlier in Nature Protocols; the release reports a commercial step, not a new clinical result.
+
+
+===== FILE: news/IS_NEWS_2026-10-19-vk-data-center-near-st-petersburg-russia-struck-by-drone.md · ID: IS-NEWS-2026-10-19-VK-DATA-CENTER-NEAR-ST-PETERSBURG-RUSSIA-STRUCK-BY-DRONE =====
+
+```yaml
+id: IS-NEWS-2026-10-19-VK-DATA-CENTER-NEAR-ST-PETERSBURG-RUSSIA-STRUCK-BY-DRONE
+slug: 2026-10-19-vk-data-center-near-st-petersburg-russia-struck-by-drone
+title: VK data center near St. Petersburg, Russia, struck by drone
+collection: news
+doc_type: news-item
+date: 2026-10-19
+date_precision: day
+publisher: DatacenterDynamics
+source_type: Trade press
+issuing_office: 
+url: https://www.datacenterdynamics.com/en/news/vk-data-center-near-st-petersburg-russia-struck-by-drone/
+archived_url: https://web.archive.org/web/20261021034753/https://www.datacenterdynamics.com/en/news/vk-data-center-near-st-petersburg-russia-struck-by-drone/
+industry: Government cloud & surveillance technology
+event: Global conflict
+country: Russia
+stage: 
+related: 
+summary_status: draft
+found_via: datacenterdynamics.com news list, date read from the article (the strike itself took place over the weekend of 17–18 Oct)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# VK data center near St. Petersburg, Russia, struck by drone
+
+*DatacenterDynamics, 2026-10-19. Original: <https://www.datacenterdynamics.com/en/news/vk-data-center-near-st-petersburg-russia-struck-by-drone/>*
+
+DatacenterDynamics reports that a drone attack hit a data center run by the Russian technology company VK in the Leningrad region, near St. Petersburg. According to the report, VK said in a short statement that the attack targeted its data center but that its services remained available as usual; it did not describe the damage.
+
+The publication says the internet monitor NetBlocks observed a 44 percent drop in VK network activity over the weekend. The article does not say who carried out the attack, and notes earlier strikes on Russian data centers run by Sberbank and Yandex and Russian attacks on data centers in Ukraine.
+
+
+===== FILE: news/IS_NEWS_2026-10-20-2-men-rearrested-in-uk-on-suspicion-of-assisting-iran-over-suspected-plot-at-us-run-air-base.md · ID: IS-NEWS-2026-10-20-2-MEN-REARRESTED-IN-UK-ON-SUSPICION-OF-ASSISTING-IRAN-OVER-SUSPECTED-PLOT-AT-US-RUN-AIR-BASE =====
+
+```yaml
+id: IS-NEWS-2026-10-20-2-MEN-REARRESTED-IN-UK-ON-SUSPICION-OF-ASSISTING-IRAN-OVER-SUSPECTED-PLOT-AT-US-RUN-AIR-BASE
+slug: 2026-10-20-2-men-rearrested-in-uk-on-suspicion-of-assisting-iran-over-suspected-plot-at-us-run-air-base
+title: 2 men rearrested in UK on suspicion of assisting Iran over suspected plot at a US-run air base
+collection: news
+doc_type: news-item
+date: 2026-10-20
+date_precision: day
+publisher: Associated Press
+source_type: News
+issuing_office: 
+url: https://abcnews.com/amp/International/wireStory/2-men-rearrested-uk-suspicion-assisting-iran-suspected-137418182
+archived_url: https://web.archive.org/web/20261022062639/https://abcnews.com/amp/International/wireStory/2-men-rearrested-uk-suspicion-assisting-iran-suspected-137418182
+industry: 
+event: Espionage & foreign agents
+country: United Kingdom
+stage: 
+related: 
+summary_status: draft
+found_via: web search (Iran plot UK, 21 Oct); AP wire story on ABC News, date read from the page; also reported by The Washington Post and CP24, 20 Oct
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# 2 men rearrested in UK on suspicion of assisting Iran over suspected plot at a US-run air base
+
+*Associated Press, 2026-10-20. Original: <https://abcnews.com/amp/International/wireStory/2-men-rearrested-uk-suspicion-assisting-iran-suspected-137418182>*
+
+The Associated Press reports that Counter Terrorism Policing has rearrested two men, a British national and a dual British-Iranian national, under the UK's National Security Act on suspicion of assisting Iran's intelligence service. According to the report, the suspected plot concerned RAF Fairford, a U.S.-run air base in western England, where police found gasoline in three vans in late September but no explosives.
+
+AP says the two men were first arrested on 27 September and 1 October and released on bail before being rearrested, and that five other men arrested earlier were released on bail. The report says British authorities consider Iranian state involvement "highly likely" and that Iran denies involvement. No one has been charged, and anyone arrested is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-20-clearview-ai-faces-court-of-appeal-test-of-uk-fine.md · ID: IS-NEWS-2026-10-20-CLEARVIEW-AI-FACES-COURT-OF-APPEAL-TEST-OF-UK-FINE =====
+
+```yaml
+id: IS-NEWS-2026-10-20-CLEARVIEW-AI-FACES-COURT-OF-APPEAL-TEST-OF-UK-FINE
+slug: 2026-10-20-clearview-ai-faces-court-of-appeal-test-of-uk-fine
+title: Clearview AI faces Court of Appeal test of 7.5m pound UK fine
+collection: news
+doc_type: news-item
+date: 2026-10-20
+date_precision: day
+publisher: PPC Land
+source_type: Trade press
+issuing_office: 
+url: https://ppc.land/clearview-ai-faces-court-of-appeal-test-of-7-5m-pound-uk-fine/
+archived_url: https://web.archive.org/web/20261027232837/https://ppc.land/clearview-ai-faces-court-of-appeal-test-of-7-5m-pound-uk-fine/
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Courts & litigation
+country: United Kingdom
+stage: 
+related: 
+summary_status: draft
+found_via: web search (facial recognition rulings, Oct 2026); date read from the article; appeal CA-2026-000226, hearing listed 19–21 Oct 2026
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Clearview AI faces Court of Appeal test of 7.5m pound UK fine
+
+*PPC Land, 2026-10-20. Original: <https://ppc.land/clearview-ai-faces-court-of-appeal-test-of-7-5m-pound-uk-fine/>*
+
+PPC Land reports that the Court of Appeal of England and Wales opened a three-day hearing on 19 October 2026 in Clearview AI's appeal over whether the UK Information Commissioner had the power to issue an enforcement notice and a penalty of more than £7.5 million against the US facial recognition company in 2022. According to the report, a tribunal ruled in 2023 that the Commissioner lacked jurisdiction, and the Upper Tribunal partly reversed that ruling in October 2025; Clearview is appealing the Upper Tribunal decision.
+
+The publication says the central question is how far UK data protection law reaches a company based outside the UK whose clients are foreign governments or police, and that Privacy International is intervening in support of the Commissioner. The hearing was due to end on 21 October, and no judgment date has been given.
+
+
+===== FILE: news/IS_NEWS_2026-10-20-delhi-police-riot-vans-facial-recognition-cameras-raise-surveillance-questions.md · ID: IS-NEWS-2026-10-20-DELHI-POLICE-RIOT-VANS-FACIAL-RECOGNITION-CAMERAS-RAISE-SURVEILLANCE-QUESTIONS =====
+
+```yaml
+id: IS-NEWS-2026-10-20-DELHI-POLICE-RIOT-VANS-FACIAL-RECOGNITION-CAMERAS-RAISE-SURVEILLANCE-QUESTIONS
+slug: 2026-10-20-delhi-police-riot-vans-facial-recognition-cameras-raise-surveillance-questions
+title: Delhi police riot vans, facial recognition cameras raise surveillance questions
+collection: news
+doc_type: news-item
+date: 2026-10-20
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202610/delhi-police-riot-vans-facial-recognition-cameras-raise-surveillance-questions
+archived_url: https://web.archive.org/web/20261027232911/https://www.biometricupdate.com/202610/delhi-police-riot-vans-facial-recognition-cameras-raise-surveillance-questions
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Contracts & deployments
+country: India
+stage: 
+related: 
+summary_status: draft
+found_via: web search (biometricupdate.com, 202610 police facial recognition, 25 Oct); date read from the article; missed by earlier runs; the article relies on Internet Freedom Foundation analyses of the tender documents
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Delhi police riot vans, facial recognition cameras raise surveillance questions
+
+*Biometric Update, 2026-10-20. Original: <https://www.biometricupdate.com/202610/delhi-police-riot-vans-facial-recognition-cameras-raise-surveillance-questions>*
+
+Biometric Update reports that Delhi Police plans to buy eight anti-riot vehicles fitted with 4K cameras, an onboard computer for "AI analytics applications" and a drone launch deck, replacing four older vehicles. According to the article, the Internet Freedom Foundation says the procurement papers do not explain what the cameras record, where the footage goes or why the order doubled, and has asked that the award be held until a documented approval and a published legal procedure are in place.
+
+The publication also reports a separate tender from July for 338 CCTV cameras with facial recognition and 47 number-plate readers in central New Delhi, with a 30-day retention period for biometric data. It says the specifications call for face recognition on every camera and detection of people gathering, and that the network covers an area later designated as a protest site. The government expects to award the five-year contract soon, according to the article.
+
+
+===== FILE: news/IS_NEWS_2026-10-20-dhs-order-excluding-and-removing-deepseek-products-from-federal-civilian-systems.md · ID: IS-NEWS-2026-10-20-DHS-ORDER-EXCLUDING-AND-REMOVING-DEEPSEEK-PRODUCTS-FROM-FEDERAL-CIVILIAN-SYSTEMS =====
+
+```yaml
+id: IS-NEWS-2026-10-20-DHS-ORDER-EXCLUDING-AND-REMOVING-DEEPSEEK-PRODUCTS-FROM-FEDERAL-CIVILIAN-SYSTEMS
+slug: 2026-10-20-dhs-order-excluding-and-removing-deepseek-products-from-federal-civilian-systems
+title: Notice of Order Regarding Exclusion and Removal of DeepSeek Products From Federal Civilian Executive Branch Information Technology Systems and Procurements
+collection: news
+doc_type: news-item
+date: 2026-10-20
+date_precision: day
+publisher: Federal Register
+source_type: Official
+issuing_office: U.S. Department of Homeland Security; FASCSA Order Implementation Team, CISA Cybersecurity Division
+url: https://www.federalregister.gov/documents/2026/10/20/2026-21447/notice-of-order-regarding-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive
+archived_url: https://web.archive.org/web/20261027232952/https://www.federalregister.gov/documents/2026/10/20/2026-21447/notice-of-order-regarding-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive
+industry: Artificial intelligence · Government cloud & surveillance technology
+event: Regulation & law
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (DeepSeek federal ban, 20 Oct); Federal Register document 2026-21447, 91 FR 66346, docket DHS-2026-0628, on public inspection 19 Oct; also reported by The Register, 20 Oct
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Notice of Order Regarding Exclusion and Removal of DeepSeek Products From Federal Civilian Executive Branch Information Technology Systems and Procurements
+
+*Federal Register, 2026-10-20. Original: <https://www.federalregister.gov/documents/2026/10/20/2026-21447/notice-of-order-regarding-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive>*
+
+The Department of Homeland Security has published notice of an order under the Federal Acquisition Supply Chain Security Act of 2018 that excludes information technology products and services developed by the Chinese company Hangzhou DeepSeek Artificial Intelligence and its affiliates from procurement by federal civilian agencies. According to the notice, the order also requires those agencies to remove DeepSeek products, and third-party products and services built using DeepSeek implementations, from their information technology systems.
+
+The notice says the department acted after reviewing a recommendation from the Federal Acquisition Security Council and related evidence, but it does not describe that evidence. The signed order is attached to the notice, and the docket is DHS-2026-0628.
+
+
+===== FILE: news/IS_NEWS_2026-10-20-fda-approves-first-of-its-kind-chronic-hepatitis-b-treatment.md · ID: IS-NEWS-2026-10-20-FDA-APPROVES-FIRST-OF-ITS-KIND-CHRONIC-HEPATITIS-B-TREATMENT =====
+
+```yaml
+id: IS-NEWS-2026-10-20-FDA-APPROVES-FIRST-OF-ITS-KIND-CHRONIC-HEPATITIS-B-TREATMENT
+slug: 2026-10-20-fda-approves-first-of-its-kind-chronic-hepatitis-b-treatment
+title: FDA Approves First-of-Its-Kind Chronic Hepatitis B Treatment
+collection: news
+doc_type: news-item
+date: 2026-10-20
+date_precision: day
+publisher: U.S. Food and Drug Administration
+source_type: Official
+issuing_office: U.S. Food and Drug Administration
+url: https://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment
+archived_url: https://web.archive.org/web/20261027233018/https://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment
+industry: Biotechnology & health
+event: Regulation & law
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (FDA press announcements, 20 Oct); date read from the page
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# FDA Approves First-of-Its-Kind Chronic Hepatitis B Treatment
+
+*U.S. Food and Drug Administration, 2026-10-20. Original: <https://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment>*
+
+The FDA says it has approved Hibsago (bepirovirsen) injection, from GSK, which it describes as the first approved antisense oligonucleotide for chronic hepatitis B. According to the agency, it is approved for use with existing antiviral therapy in certain adults without cirrhosis whose virus is already suppressed and whose surface-antigen level is at or below a set threshold on an FDA-authorized test.
+
+The FDA says that in two placebo-controlled trials 24% of patients on the drug met the criteria to stop their existing medicine, against none on placebo. The label carries a boxed warning for serious liver reactions and low platelet counts.
+
+
+===== FILE: news/IS_NEWS_2026-10-20-judge-throws-out-doj-attempt-to-deny-communities-day-in-court-against-xai.md · ID: IS-NEWS-2026-10-20-JUDGE-THROWS-OUT-DOJ-ATTEMPT-TO-DENY-COMMUNITIES-DAY-IN-COURT-AGAINST-XAI =====
+
+```yaml
+id: IS-NEWS-2026-10-20-JUDGE-THROWS-OUT-DOJ-ATTEMPT-TO-DENY-COMMUNITIES-DAY-IN-COURT-AGAINST-XAI
+slug: 2026-10-20-judge-throws-out-doj-attempt-to-deny-communities-day-in-court-against-xai
+title: Judge throws out U.S. DOJ attempt to deny communities' day in court against xAI
+collection: news
+doc_type: news-item
+date: 2026-10-20
+date_precision: day
+publisher: Earthjustice
+source_type: Trade press
+issuing_office: 
+url: https://earthjustice.org/press/2026/judge-throws-out-u-s-doj-attempt-to-deny-communities-day-in-court-against-musks-company-xai
+archived_url: https://web.archive.org/web/20261027233100/https://earthjustice.org/press/2026/judge-throws-out-u-s-doj-attempt-to-deny-communities-day-in-court-against-musks-company-xai
+industry: Artificial intelligence
+event: Courts & litigation
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (AI lawsuits, 20 Oct); date read from the release; also reported by The Washington Sun; title shortened to leave out a personal name
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Judge throws out U.S. DOJ attempt to deny communities' day in court against xAI
+
+*Earthjustice, 2026-10-20. Original: <https://earthjustice.org/press/2026/judge-throws-out-u-s-doj-attempt-to-deny-communities-day-in-court-against-musks-company-xai>*
+
+Earthjustice, which represents the plaintiff, says the U.S. District Court for the Northern District of Mississippi has refused a Justice Department request to dismiss a Clean Air Act citizen suit brought by the NAACP against the AI company xAI. According to the release, the suit challenges a gas-fired power plant that the company runs without a permit to supply its Colossus 2 data center, which the plaintiff says releases nitrogen oxides, fine particulate matter and formaldehyde into communities in Memphis and North Mississippi.
+
+The release says the court held that the government cannot block a citizen suit on its own, although it may intervene in the case, and that the Fifth Circuit separately denied a Justice Department motion to pause the proceedings. The ruling only lets the case go forward; no court has decided the claims.
+
+
+===== FILE: news/IS_NEWS_2026-10-20-memphis-data-center-moratorium-fails-after-city-council-vote-ends-in-tie.md · ID: IS-NEWS-2026-10-20-MEMPHIS-DATA-CENTER-MORATORIUM-FAILS-AFTER-CITY-COUNCIL-VOTE-ENDS-IN-TIE =====
+
+```yaml
+id: IS-NEWS-2026-10-20-MEMPHIS-DATA-CENTER-MORATORIUM-FAILS-AFTER-CITY-COUNCIL-VOTE-ENDS-IN-TIE
+slug: 2026-10-20-memphis-data-center-moratorium-fails-after-city-council-vote-ends-in-tie
+title: Memphis data center moratorium fails after City Council vote ends in tie
+collection: news
+doc_type: news-item
+date: 2026-10-20
+date_precision: day
+publisher: The Commercial Appeal
+source_type: News
+issuing_office: 
+url: https://www.yahoo.com/news/politics/articles/memphis-data-center-moratorium-fails-022258048.html
+archived_url: https://web.archive.org/web/20261027233224/https://www.yahoo.com/news/politics/articles/memphis-data-center-moratorium-fails-022258048.html
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (Memphis moratorium vote, 21 Oct); Commercial Appeal story republished on Yahoo News, date read from the page; follows the 12 Oct DatacenterDynamics draft; also reported by CNN, 20 Oct
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Memphis data center moratorium fails after City Council vote ends in tie
+
+*The Commercial Appeal, 2026-10-20. Original: <https://www.yahoo.com/news/politics/articles/memphis-data-center-moratorium-fails-022258048.html>*
+
+The Commercial Appeal reports that a proposed moratorium on new data center development in Memphis failed on 20 October 2026 when the City Council vote ended in a 6 to 6 tie, with one member absent. According to the newspaper, the council did pass a separate ordinance regulating data center development, but a substitution during the meeting left some members of the public and some council members unsure what it contained.
+
+The article says two further ordinances, one updating zoning codes and one setting a land-use framework for data centers and other "resource-intensive uses", moved forward. It also says a proposal to create a board that would collect energy-based fees from local data centers for community projects passed its first of three readings and would need state legislation to take effect.
+
+
+===== FILE: news/IS_NEWS_2026-10-20-nigeria-confirms-imported-case-of-ebola-bundibugyo-virus-disease.md · ID: IS-NEWS-2026-10-20-NIGERIA-CONFIRMS-IMPORTED-CASE-OF-EBOLA-BUNDIBUGYO-VIRUS-DISEASE =====
+
+```yaml
+id: IS-NEWS-2026-10-20-NIGERIA-CONFIRMS-IMPORTED-CASE-OF-EBOLA-BUNDIBUGYO-VIRUS-DISEASE
+slug: 2026-10-20-nigeria-confirms-imported-case-of-ebola-bundibugyo-virus-disease
+title: Nigeria confirms imported case of Ebola Bundibugyo virus disease
+collection: news
+doc_type: news-item
+date: 2026-10-20
+date_precision: day
+publisher: World Health Organization
+source_type: Official
+issuing_office: WHO Regional Office for Africa
+url: https://afro.who.int/countries/nigeria/news/nigeria-confirms-imported-case-ebola-bundibugyo-virus-disease
+archived_url: https://web.archive.org/web/20261023070108/https://www.afro.who.int/countries/nigeria/news/nigeria-confirms-imported-case-ebola-bundibugyo-virus-disease
+industry: Biotechnology & health
+event: Public health
+country: Nigeria
+stage: 
+related: 
+summary_status: draft
+found_via: web search (WHO outbreak news, 20 Oct); date read from the page; follow-up in UN News, 21 Oct (https://news.un.org/en/story/2026/10/1168637)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Nigeria confirms imported case of Ebola Bundibugyo virus disease
+
+*World Health Organization, 2026-10-20. Original: <https://afro.who.int/countries/nigeria/news/nigeria-confirms-imported-case-ebola-bundibugyo-virus-disease>*
+
+The WHO Regional Office for Africa says Nigeria has confirmed one imported case of Ebola Bundibugyo virus disease in the Federal Capital Territory, making it the fifth country to detect the virus since the outbreak was declared in the Democratic Republic of the Congo on 15 May 2026. According to WHO, the patient had recently travelled from Uganda, fell ill four days after arriving, and was confirmed by laboratory testing on 20 October; she is isolated and receiving care.
+
+WHO says Nigerian health authorities have identified 44 contacts who are being monitored and have activated their incident management system, and that WHO is supporting investigation, contact tracing and infection prevention. WHO advises against travel or trade restrictions. UN News reports that there is no vaccine for this virus.
+
+
+===== FILE: news/IS_NEWS_2026-10-20-supercomputer-reveals-how-size-could-shape-the-future-of-nanomedicine.md · ID: IS-NEWS-2026-10-20-SUPERCOMPUTER-REVEALS-HOW-SIZE-COULD-SHAPE-THE-FUTURE-OF-NANOMEDICINE =====
+
+```yaml
+id: IS-NEWS-2026-10-20-SUPERCOMPUTER-REVEALS-HOW-SIZE-COULD-SHAPE-THE-FUTURE-OF-NANOMEDICINE
+slug: 2026-10-20-supercomputer-reveals-how-size-could-shape-the-future-of-nanomedicine
+title: Supercomputer reveals how size could shape the future of nanomedicine
+collection: news
+doc_type: news-item
+date: 2026-10-20
+date_precision: day
+publisher: Phys.org
+source_type: Trade press
+issuing_office: 
+url: https://phys.org/news/2026-10-supercomputer-reveals-size-future-nanomedicine.html
+archived_url: https://web.archive.org/web/20261024083428/https://phys.org/news/2026-10-supercomputer-reveals-size-future-nanomedicine.html
+industry: Nanotechnology · Biotechnology & health
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (nanotechnology: nanomedicine, 25 Oct); date read from the article; flagged on 23 Oct with an unconfirmed date; the story comes from University of California San Diego; paper in Small, "Integrating Experiments and Simulations to Uncover Size-Dependent Bioactivity in Cellular Nanodiscs"
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Supercomputer reveals how size could shape the future of nanomedicine
+
+*Phys.org, 2026-10-20. Original: <https://phys.org/news/2026-10-supercomputer-reveals-size-future-nanomedicine.html>*
+
+Phys.org reports that researchers at the University of California San Diego made nanodiscs from red blood cell membranes in three sizes, about 71, 26 and 15 nanometres across, which were otherwise nearly identical. According to the report, published in the journal Small, the smallest discs bound antibodies more efficiently and neutralised a bacterial toxin more effectively, and gave mice exposed to the toxin the most protection.
+
+The article says simulations on the San Diego Supercomputer Center's Expanse system matched the laboratory results, suggesting that smaller discs move faster and that more of them exist for the same amount of material. The researchers present particle size as a design factor for future membrane-based treatments; the animal results come from mice only, and no people were treated.
+
+
+===== FILE: news/IS_NEWS_2026-10-21-alleged-chinese-spys-snooping-on-korea-us-drills-raises-alarm.md · ID: IS-NEWS-2026-10-21-ALLEGED-CHINESE-SPYS-SNOOPING-ON-KOREA-US-DRILLS-RAISES-ALARM =====
+
+```yaml
+id: IS-NEWS-2026-10-21-ALLEGED-CHINESE-SPYS-SNOOPING-ON-KOREA-US-DRILLS-RAISES-ALARM
+slug: 2026-10-21-alleged-chinese-spys-snooping-on-korea-us-drills-raises-alarm
+title: Alleged Chinese spy's snooping on Korea-U.S. drills raises alarm over shared intelligence practices
+collection: news
+doc_type: news-item
+date: 2026-10-21
+date_precision: day
+publisher: Korea JoongAng Daily
+source_type: News
+issuing_office: 
+url: https://www.koreajoongangdaily.com/korea/alleged-chinese-spys-snooping-on-koreaus-drills-raises-alarm-over-shared-intelligence-practices/12930476
+archived_url: https://web.archive.org/web/20261022055948/https://www.koreajoongangdaily.com/korea/alleged-chinese-spys-snooping-on-koreaus-drills-raises-alarm-over-shared-intelligence-practices/12930476
+industry: 
+event: Espionage & foreign agents
+country: South Korea
+stage: charged
+related: 
+summary_status: draft
+found_via: web search (espionage, 21 Oct); date read from the article; earlier coverage of the August arrests by Korea Times (11 Aug) and Defense Mirror (1 Oct)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Alleged Chinese spy's snooping on Korea-U.S. drills raises alarm over shared intelligence practices
+
+*Korea JoongAng Daily, 2026-10-21. Original: <https://www.koreajoongangdaily.com/korea/alleged-chinese-spys-snooping-on-koreaus-drills-raises-alarm-over-shared-intelligence-practices/12930476>*
+
+Korea JoongAng Daily reports that South Korean prosecutors indicted a former Chinese People's Liberation Army signals-intelligence officer on 1 September on a charge of benefiting the enemy, alleging that he carried out 13 covert eavesdropping operations on communications at South Korean and U.S. military bases between March 2024 and August 2026. According to the newspaper, which cites the indictment as obtained by a lawmaker, seven of the operations coincided with joint military exercises, and prosecutors argue the intercepts could reveal classified information such as flight operations and reconnaissance plans.
+
+The report says a second former PLA member was indicted with him on a separate allegation of obtaining after-action review material from a joint exercise. It also says prosecutors could not use a revised Criminal Act provision that extends espionage law to foreign nationals, because it took effect on 13 September, after the alleged conduct. The case is at the charge stage, and both defendants are presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-21-facing-pushback-on-data-centers-tech-giants-are-promising-hosts-more-money.md · ID: IS-NEWS-2026-10-21-FACING-PUSHBACK-ON-DATA-CENTERS-TECH-GIANTS-ARE-PROMISING-HOSTS-MORE-MONEY =====
+
+```yaml
+id: IS-NEWS-2026-10-21-FACING-PUSHBACK-ON-DATA-CENTERS-TECH-GIANTS-ARE-PROMISING-HOSTS-MORE-MONEY
+slug: 2026-10-21-facing-pushback-on-data-centers-tech-giants-are-promising-hosts-more-money
+title: Facing pushback on data centers, tech giants are promising hosts more money and fewer secrets
+collection: news
+doc_type: news-item
+date: 2026-10-21
+date_precision: day
+publisher: Associated Press
+source_type: News
+issuing_office: 
+url: https://abcnews.com/Technology/wireStory/facing-pushback-data-centers-tech-giants-promising-hosts-137467914
+archived_url: https://web.archive.org/web/20261027233936/https://abcnews.com/Technology/wireStory/facing-pushback-data-centers-tech-giants-promising-hosts-137467914
+industry: Artificial intelligence · Government cloud & surveillance technology
+event: Protests
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (data center opposition, 21 Oct); AP wire story on ABC News, date read from the page
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Facing pushback on data centers, tech giants are promising hosts more money and fewer secrets
+
+*Associated Press, 2026-10-21. Original: <https://abcnews.com/Technology/wireStory/facing-pushback-data-centers-tech-giants-promising-hosts-137467914>*
+
+The Associated Press reports that local opposition to large data centers across the United States is slowing permit approvals, and that the issue has become part of the midterm election campaigns. According to the report, the largest technology companies have responded by pledging to disclose more about the energy and water their facilities use, to stop asking local officials to sign nondisclosure agreements, and to pay more of the cost of new power infrastructure.
+
+AP says two of the companies each plan to spend $1 billion on incentives for host communities, and a third plans $1 billion in local programmes by the end of 2027. It reports that critics call the moves public relations and say key details are still withheld.
+
+
+===== FILE: news/IS_NEWS_2026-10-21-hybrid-nanoparticles-boost-p53-mrna-delivery-in-breast-cancer-models.md · ID: IS-NEWS-2026-10-21-HYBRID-NANOPARTICLES-BOOST-P53-MRNA-DELIVERY-IN-BREAST-CANCER-MODELS =====
+
+```yaml
+id: IS-NEWS-2026-10-21-HYBRID-NANOPARTICLES-BOOST-P53-MRNA-DELIVERY-IN-BREAST-CANCER-MODELS
+slug: 2026-10-21-hybrid-nanoparticles-boost-p53-mrna-delivery-in-breast-cancer-models
+title: Hybrid Nanoparticles Boost p53 mRNA Delivery in Breast Cancer Models
+collection: news
+doc_type: news-item
+date: 2026-10-21
+date_precision: day
+publisher: AZoNano
+source_type: Trade press
+issuing_office: 
+url: https://www.azonano.com/news.aspx?newsID=41876
+archived_url: https://web.archive.org/web/20261027234006/https://www.azonano.com/news.aspx?newsID=41876
+industry: Nanotechnology · Biotechnology & health
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (LNP mRNA delivery, 21 Oct); date read from the article; paper in Cancer Gene Therapy, DOI 10.1038/s41417-026-01085-w
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Hybrid Nanoparticles Boost p53 mRNA Delivery in Breast Cancer Models
+
+*AZoNano, 2026-10-21. Original: <https://www.azonano.com/news.aspx?newsID=41876>*
+
+AZoNano reports on a study in Cancer Gene Therapy in which researchers combined standard lipid nanoparticles with strontium sulfite nanoparticles to deliver p53 mRNA, which aims to restore a tumour-suppressing pathway in breast cancer. According to the article, the hybrid carrier gave about three times the expression of conventional lipid nanoparticles in breast cancer cells and slowed tumour growth in a mouse model with four mice per group.
+
+The publication notes that p53 was measured only at the transcript level, that no full toxicology was done, and that the work is early and preclinical.
+
+
+===== FILE: news/IS_NEWS_2026-10-21-most-americans-say-ai-is-bad-for-society-oppose-more-data-centers.md · ID: IS-NEWS-2026-10-21-MOST-AMERICANS-SAY-AI-IS-BAD-FOR-SOCIETY-OPPOSE-MORE-DATA-CENTERS =====
+
+```yaml
+id: IS-NEWS-2026-10-21-MOST-AMERICANS-SAY-AI-IS-BAD-FOR-SOCIETY-OPPOSE-MORE-DATA-CENTERS
+slug: 2026-10-21-most-americans-say-ai-is-bad-for-society-oppose-more-data-centers
+title: Most Americans say AI is bad for society, oppose more data centers: ABC/Post/Ipsos poll
+collection: news
+doc_type: news-item
+date: 2026-10-21
+date_precision: day
+publisher: ABC News
+source_type: News
+issuing_office: 
+url: https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085
+archived_url: https://web.archive.org/web/20261027234034/https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085
+industry: Artificial intelligence
+event: Reports & statistics
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (AI data centers, 21 Oct); date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Most Americans say AI is bad for society, oppose more data centers: ABC/Post/Ipsos poll
+
+*ABC News, 2026-10-21. Original: <https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085>*
+
+ABC News reports on a poll it ran with The Washington Post and Ipsos. The poll surveyed 2,545 U.S. adults from 9 to 13 October 2026 and has a margin of error of 2 points. It found that 57% think artificial intelligence is bad for society and 42% think it is good. According to the report, 66% say the federal government is not doing enough to regulate AI, and 22% say the amount is about right.
+
+The report says 66% oppose building new data centers in the United States, and 72% oppose one in their own community. Asked about specific risks, 73% rate AI hacking secure systems as a high risk, and 62% say the same of people losing the ability to make their own decisions.
+
+
+===== FILE: news/IS_NEWS_2026-10-22-china-moves-to-set-global-standards-for-brain-computer-interface-technology.md · ID: IS-NEWS-2026-10-22-CHINA-MOVES-TO-SET-GLOBAL-STANDARDS-FOR-BRAIN-COMPUTER-INTERFACE-TECHNOLOGY =====
+
+```yaml
+id: IS-NEWS-2026-10-22-CHINA-MOVES-TO-SET-GLOBAL-STANDARDS-FOR-BRAIN-COMPUTER-INTERFACE-TECHNOLOGY
+slug: 2026-10-22-china-moves-to-set-global-standards-for-brain-computer-interface-technology
+title: China moves to set global standards for brain-computer interface technology
+collection: news
+doc_type: news-item
+date: 2026-10-22
+date_precision: day
+publisher: South China Morning Post
+source_type: News
+issuing_office: 
+url: https://scmp.com/business/china-business/article/3371742/china-moves-set-global-standards-brain-computer-interface-technology
+archived_url: https://web.archive.org/web/20261027234104/https://www.scmp.com/business/china-business/article/3371742/china-moves-set-global-standards-brain-computer-interface-technology
+industry: Neurotechnology
+event: Regulation & law
+country: China
+stage: 
+related: 
+summary_status: draft
+found_via: web search (brain-computer interface news, 22 Oct); date read from the article; related China News Service report, 20 Oct (http://www.ecns.cn/cns-wire/2026-10-20/detail-ihfmiwhm0736637.shtml)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# China moves to set global standards for brain-computer interface technology
+
+*South China Morning Post, 2026-10-22. Original: <https://scmp.com/business/china-business/article/3371742/china-moves-set-global-standards-brain-computer-interface-technology>*
+
+The South China Morning Post reports that China now holds the secretariat of ISO/IEC JTC 1/SC 43, a subcommittee of the International Organization for Standardization and the International Electrotechnical Commission. The subcommittee develops international standards for brain-computer interfaces. According to the report, it has so far published standards covering BCI vocabulary, a data format for non-invasive collection of brain information, a reference architecture and use cases. Beijing lists brain-computer interface applications as a national development priority.
+
+China News Service reported on 20 October that China's State Administration for Market Regulation announced an ISO/IEC international standard for BCI reference architecture. According to that report, China led the work, with experts from more than ten other countries taking part.
+
+
+===== FILE: news/IS_NEWS_2026-10-22-despite-moratorium-texas-kept-on-issuing-data-center-permits.md · ID: IS-NEWS-2026-10-22-DESPITE-MORATORIUM-TEXAS-KEPT-ON-ISSUING-DATA-CENTER-PERMITS =====
+
+```yaml
+id: IS-NEWS-2026-10-22-DESPITE-MORATORIUM-TEXAS-KEPT-ON-ISSUING-DATA-CENTER-PERMITS
+slug: 2026-10-22-despite-moratorium-texas-kept-on-issuing-data-center-permits
+title: Despite moratorium, Texas kept on issuing data center permits. Now, the state agency is shutting down its automatic filing system.
+collection: news
+doc_type: news-item
+date: 2026-10-22
+date_precision: day
+publisher: Texas Public Radio
+source_type: News
+issuing_office: 
+url: https://www.tpr.org/economy-and-labor/2026-10-22/despite-abbott-moratorium-texas-kept-on-issuing-data-center-permits-now-the-state-agency-is-shutting-down-its-automatic-filing-system
+archived_url: https://web.archive.org/web/20261027234139/https://www.tpr.org/economy-and-labor/2026-10-22/despite-abbott-moratorium-texas-kept-on-issuing-data-center-permits-now-the-state-agency-is-shutting-down-its-automatic-filing-system
+industry: Artificial intelligence · Government cloud & surveillance technology
+event: Regulation & law
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (data center moratorium, 22 Oct); date read from the page; story from the San Antonio Report, republished by TPR; title shortened to leave out a personal name
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Despite moratorium, Texas kept on issuing data center permits. Now, the state agency is shutting down its automatic filing system.
+
+*Texas Public Radio, 2026-10-22. Original: <https://www.tpr.org/economy-and-labor/2026-10-22/despite-abbott-moratorium-texas-kept-on-issuing-data-center-permits-now-the-state-agency-is-shutting-down-its-automatic-filing-system>*
+
+Texas Public Radio reports that on 21 September 2026 the governor of Texas directed the Texas Commission on Environmental Quality to halt data center permits until the state grid operator completes an audit of facilities seeking grid connections. According to the report, an advocacy group found at least 16 air, wastewater and stormwater permits issued to data center projects after the directive. State officials first said no permits had been issued, then acknowledged them and said they had been suspended.
+
+The report says the commission has now shut down its automated electronic filing system, and applications must be submitted in person so that staff can check whether each one relates to a data center. The grid operator plans to present its audit findings to the state Public Utility Commission on 10 December.
+
+
+===== FILE: news/IS_NEWS_2026-10-22-fcc-blocks-two-devices-powered-by-huawei-silicon-subsidiary.md · ID: IS-NEWS-2026-10-22-FCC-BLOCKS-TWO-DEVICES-POWERED-BY-HUAWEI-SILICON-SUBSIDIARY =====
+
+```yaml
+id: IS-NEWS-2026-10-22-FCC-BLOCKS-TWO-DEVICES-POWERED-BY-HUAWEI-SILICON-SUBSIDIARY
+slug: 2026-10-22-fcc-blocks-two-devices-powered-by-huawei-silicon-subsidiary
+title: FCC blocks two devices powered by Huawei silicon subsidiary
+collection: news
+doc_type: news-item
+date: 2026-10-22
+date_precision: day
+publisher: Light Reading
+source_type: Trade press
+issuing_office: 
+url: https://lightreading.com/regulatory-politics/fcc-blocks-two-devices-powered-by-huawei-silicon-subsidiary
+archived_url: https://web.archive.org/web/20261027234207/https://www.lightreading.com/regulatory-politics/fcc-blocks-two-devices-powered-by-huawei-silicon-subsidiary
+industry: Government cloud & surveillance technology
+event: Regulation & law
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (The Record, 23 Oct, https://therecord.media/fcc-bans-devices-huawei-surveillance-chips); date read from the Light Reading article; missed by earlier runs; FCC document page https://www.fcc.gov/document/fcc-blocks-two-devices-containing-foreign-surveillance-chips could not be read
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# FCC blocks two devices powered by Huawei silicon subsidiary
+
+*Light Reading, 2026-10-22. Original: <https://lightreading.com/regulatory-politics/fcc-blocks-two-devices-powered-by-huawei-silicon-subsidiary>*
+
+Light Reading reports that the U.S. Federal Communications Commission's Office of Engineering and Technology has blocked a dashboard camera and a wireless video transmitter from being marketed or sold in the United States. According to the article, the agency found that both contain chips from HiSilicon, a Huawei subsidiary on the FCC's Covered List, which markets the chip as designed for the surveillance market.
+
+The publication says this is the first enforcement action under recently effective FCC rules that bar authorising devices containing logic-bearing components from Covered List companies, and that the agency says it will keep enforcing them. The Record, reporting the same action on 23 October, says the rules took effect on 13 October and that Huawei had not responded to a request for comment.
+
+
+===== FILE: news/IS_NEWS_2026-10-22-french-police-use-facial-recognition-social-media-images-to-identify-rioters.md · ID: IS-NEWS-2026-10-22-FRENCH-POLICE-USE-FACIAL-RECOGNITION-SOCIAL-MEDIA-IMAGES-TO-IDENTIFY-RIOTERS =====
+
+```yaml
+id: IS-NEWS-2026-10-22-FRENCH-POLICE-USE-FACIAL-RECOGNITION-SOCIAL-MEDIA-IMAGES-TO-IDENTIFY-RIOTERS
+slug: 2026-10-22-french-police-use-facial-recognition-social-media-images-to-identify-rioters
+title: French police use facial recognition, social media images to identify rioters
+collection: news
+doc_type: news-item
+date: 2026-10-22
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202610/french-police-use-facial-recognition-social-media-images-to-identify-rioters
+archived_url: https://web.archive.org/web/20261027234343/https://www.biometricupdate.com/202610/french-police-use-facial-recognition-social-media-images-to-identify-rioters
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Contracts & deployments
+country: France
+stage: 
+related: 
+summary_status: draft
+found_via: web search (biometricupdate.com, 22 Oct); date read from the article; the article cites France24
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# French police use facial recognition, social media images to identify rioters
+
+*Biometric Update, 2026-10-22. Original: <https://www.biometricupdate.com/202610/french-police-use-facial-recognition-social-media-images-to-identify-rioters>*
+
+Biometric Update reports that French police are using facial recognition and images from social media platforms to identify people suspected of looting and violence during the riots in several French cities the previous weekend. According to the article, France's justice minister said that investigators will search images against the national TAJ police database. Citing France24, it says about a dozen specialist officers use the technology among 200 investigators assigned to the cases, alongside footage from about 80,000 cameras in Paris.
+
+The publication says that French law permits police use of facial recognition for after-the-fact identification, and that this use has survived challenges at EU level. It also says that earlier police deployments in public spaces were found by the data protection authority, CNIL, to lack approval and impact assessments.
+
+
+===== FILE: news/IS_NEWS_2026-10-22-germany-arrests-ukrainian-man-accused-of-spying-for-russia.md · ID: IS-NEWS-2026-10-22-GERMANY-ARRESTS-UKRAINIAN-MAN-ACCUSED-OF-SPYING-FOR-RUSSIA =====
+
+```yaml
+id: IS-NEWS-2026-10-22-GERMANY-ARRESTS-UKRAINIAN-MAN-ACCUSED-OF-SPYING-FOR-RUSSIA
+slug: 2026-10-22-germany-arrests-ukrainian-man-accused-of-spying-for-russia
+title: Germany arrests Ukrainian man accused of spying for Russia
+collection: news
+doc_type: news-item
+date: 2026-10-22
+date_precision: day
+publisher: Al Jazeera
+source_type: News
+issuing_office: 
+url: https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia
+archived_url: https://web.archive.org/web/20261022153354/https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia
+industry: 
+event: Espionage & foreign agents
+country: Germany
+stage: 
+related: 
+summary_status: draft
+found_via: web search (espionage arrests, 22 Oct); date read from the article; also reported by Reuters (via US News), Kyiv Independent and Arab News, 22 Oct
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Germany arrests Ukrainian man accused of spying for Russia
+
+*Al Jazeera, 2026-10-22. Original: <https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia>*
+
+Al Jazeera reports that German federal prosecutors have announced the arrest of a Ukrainian national in the state of Brandenburg, about 85 km west of Berlin, on suspicion of espionage for Russia. According to the report, prosecutors allege that he had been in contact with a Russian intelligence service through an intermediary since at least July 2025 and gathered information on the production of armoured vehicles, ammunition and explosives, and on military personnel and defence sites on NATO's eastern flank.
+
+The report says no formal charges have been announced, and that Russia denies involvement in sabotage or hybrid attacks in Europe. The man has only been arrested, and he is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-22-ice-expands-booz-allen-analytics-contract-to-target-overseas-scam-networks.md · ID: IS-NEWS-2026-10-22-ICE-EXPANDS-BOOZ-ALLEN-ANALYTICS-CONTRACT-TO-TARGET-OVERSEAS-SCAM-NETWORKS =====
+
+```yaml
+id: IS-NEWS-2026-10-22-ICE-EXPANDS-BOOZ-ALLEN-ANALYTICS-CONTRACT-TO-TARGET-OVERSEAS-SCAM-NETWORKS
+slug: 2026-10-22-ice-expands-booz-allen-analytics-contract-to-target-overseas-scam-networks
+title: ICE expands Booz Allen analytics contract by $5.9M to target overseas scam networks
+collection: news
+doc_type: news-item
+date: 2026-10-22
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202610/ice-expands-booz-allen-analytics-contract-by-5-9m-to-target-overseas-scam-networks
+archived_url: https://web.archive.org/web/20261022160629/https://www.biometricupdate.com/202610/ice-expands-booz-allen-analytics-contract-by-5-9m-to-target-overseas-scam-networks
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Contracts & deployments
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (ICE surveillance contracts, 22 Oct); date read from the article; based on a 2 Sep 2026 sole-source justification and federal contract data
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# ICE expands Booz Allen analytics contract by $5.9M to target overseas scam networks
+
+*Biometric Update, 2026-10-22. Original: <https://www.biometricupdate.com/202610/ice-expands-booz-allen-analytics-contract-by-5-9m-to-target-overseas-scam-networks>*
+
+Biometric Update reports that U.S. Immigration and Customs Enforcement changed its Homeland Security Investigations analytics contract with Booz Allen Hamilton on 1 September 2026. According to the report, the change raised the contract's value by about $5.9 million, to about $76.3 million, and extended it to 1 March 2027. ICE gave the work sole-source as a follow-on, saying only that contractor could deliver a working solution within two weeks.
+
+According to the procurement records cited, the new "Advanced Target Development" tasks combine public, private-sector and government data to identify the operators of overseas scam centres. They also analyse criminal leadership and financial links, trace recruitment pipelines and review lists of American victims. The publication says the records do not identify the technology or databases used.
+
+
+===== FILE: news/IS_NEWS_2026-10-22-oregon-counties-cities-say-data-center-moratorium-could-cost-them-millions.md · ID: IS-NEWS-2026-10-22-OREGON-COUNTIES-CITIES-SAY-DATA-CENTER-MORATORIUM-COULD-COST-THEM-MILLIONS =====
+
+```yaml
+id: IS-NEWS-2026-10-22-OREGON-COUNTIES-CITIES-SAY-DATA-CENTER-MORATORIUM-COULD-COST-THEM-MILLIONS
+slug: 2026-10-22-oregon-counties-cities-say-data-center-moratorium-could-cost-them-millions
+title: Oregon counties, cities say data center moratorium could cost them millions
+collection: news
+doc_type: news-item
+date: 2026-10-22
+date_precision: day
+publisher: OPB
+source_type: News
+issuing_office: 
+url: https://www.opb.org/article/2026/10/22/oregon-counties-cities-data-centers-could-cost-millions/
+archived_url: https://web.archive.org/web/20261027234839/https://www.opb.org/article/2026/10/22/oregon-counties-cities-data-centers-could-cost-millions/
+industry: Artificial intelligence · Government cloud & surveillance technology
+event: Regulation & law
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (data center moratorium, 22 Oct); date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Oregon counties, cities say data center moratorium could cost them millions
+
+*OPB, 2026-10-22. Original: <https://www.opb.org/article/2026/10/22/oregon-counties-cities-data-centers-could-cost-millions/>*
+
+OPB reports that Oregon's governor has directed the state Department of Environmental Quality to pause certain new air and water permits for data centers until July 2027. According to the report, local governments in eastern Oregon say the pause could cost them heavily. One city council declared an emergency over the "threat of widespread financial loss" and is considering legal options, and another city estimates about $550 million in lost future fee revenue.
+
+The report says a poll commissioned by OPB found that nearly two-thirds of likely voters favoured a temporary statewide ban. The Oregon Legislature is expected to take up data center rules when it meets in January 2027.
+
+
+===== FILE: news/IS_NEWS_2026-10-22-sunlight-helps-vincristine-form-drug-bearing-gold-nanoparticles.md · ID: IS-NEWS-2026-10-22-SUNLIGHT-HELPS-VINCRISTINE-FORM-DRUG-BEARING-GOLD-NANOPARTICLES =====
+
+```yaml
+id: IS-NEWS-2026-10-22-SUNLIGHT-HELPS-VINCRISTINE-FORM-DRUG-BEARING-GOLD-NANOPARTICLES
+slug: 2026-10-22-sunlight-helps-vincristine-form-drug-bearing-gold-nanoparticles
+title: Sunlight Helps Vincristine Form Drug-Bearing Gold Nanoparticles in Five Minutes
+collection: news
+doc_type: news-item
+date: 2026-10-22
+date_precision: day
+publisher: AZoNano
+source_type: Trade press
+issuing_office: 
+url: https://www.azonano.com/news.aspx?newsID=41877
+archived_url: https://web.archive.org/web/20261027234953/https://www.azonano.com/news.aspx?newsID=41877
+industry: Nanotechnology · Biotechnology & health
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (nanomedicine, 22 Oct); date read from the article; paper in Next Nanotechnology, vol. 10, 100865, DOI 10.1016/j.nxnano.2026.100865
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Sunlight Helps Vincristine Form Drug-Bearing Gold Nanoparticles in Five Minutes
+
+*AZoNano, 2026-10-22. Original: <https://www.azonano.com/news.aspx?newsID=41877>*
+
+AZoNano reports on a study in Next Nanotechnology describing a one-pot method that uses sunlight and a commercial formulation of the cancer drug vincristine to form drug-bearing gold nanoparticles within about five minutes, with no separate reducing or stabilising agents. According to the article, the particles were about 18 nanometres across. Against one colon cancer cell line, they inhibited growth about as much as the free drug.
+
+The publication notes that the work was done only in the laboratory, with no animal testing. It says drug release, photostability, safety in non-cancerous cells and long-term stability were not measured.
+
+
+===== FILE: news/IS_NEWS_2026-10-22-taiwan-probes-organised-crime-links-to-chinas-transnational-repression.md · ID: IS-NEWS-2026-10-22-TAIWAN-PROBES-ORGANISED-CRIME-LINKS-TO-CHINAS-TRANSNATIONAL-REPRESSION =====
+
+```yaml
+id: IS-NEWS-2026-10-22-TAIWAN-PROBES-ORGANISED-CRIME-LINKS-TO-CHINAS-TRANSNATIONAL-REPRESSION
+slug: 2026-10-22-taiwan-probes-organised-crime-links-to-chinas-transnational-repression
+title: Taiwan probes organised crime links to China's 'transnational repression'
+collection: news
+doc_type: news-item
+date: 2026-10-22
+date_precision: day
+publisher: Reuters (via Daily Maverick)
+source_type: News
+issuing_office: 
+url: https://www.dailymaverick.co.za/article/2026-10-22-taiwan-probes-organised-crime-links-to-chinas-transnational-repression/
+archived_url: https://web.archive.org/web/20261027235105/https://www.dailymaverick.co.za/article/2026-10-22-taiwan-probes-organised-crime-links-to-chinas-transnational-repression/
+industry: 
+event: Transnational repression
+country: Taiwan
+stage: 
+related: 
+summary_status: draft
+found_via: web search (transnational repression, 22 Oct); date read from the article; Reuters story also carried by The Japan Times (could not be opened)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Taiwan probes organised crime links to China's 'transnational repression'
+
+*Reuters (via Daily Maverick), 2026-10-22. Original: <https://www.dailymaverick.co.za/article/2026-10-22-taiwan-probes-organised-crime-links-to-chinas-transnational-repression/>*
+
+Reuters reports that Taiwan's National Security Bureau is investigating whether organised crime networks linked to China are carrying out transnational repression, after Taipei said Beijing was behind an attack on a comedian who had mocked China's leader. According to the report, the bureau's head said the groups involved are mostly criminal gangs or private investigation firms tied to organised crime. The bureau's main question is whether the Chinese Communist Party directed or paid them.
+
+The report says the bureau's head also said Taiwan may need to change its laws, because its legal framework against transnational repression is lacking, and that Taiwan's Supreme Prosecutors Office urged the public not to help hostile foreign forces. China's Taiwan Affairs Office did not immediately respond to a request for comment, according to Reuters.
+
+
+===== FILE: news/IS_NEWS_2026-10-22-tajik-activist-given-lengthy-prison-sentence.md · ID: IS-NEWS-2026-10-22-TAJIK-ACTIVIST-GIVEN-LENGTHY-PRISON-SENTENCE =====
+
+```yaml
+id: IS-NEWS-2026-10-22-TAJIK-ACTIVIST-GIVEN-LENGTHY-PRISON-SENTENCE
+slug: 2026-10-22-tajik-activist-given-lengthy-prison-sentence
+title: Tajik Activist Given Lengthy Prison Sentence
+collection: news
+doc_type: news-item
+date: 2026-10-22
+date_precision: day
+publisher: Human Rights Watch
+source_type: News
+issuing_office: 
+url: https://www.hrw.org/news/2026/10/22/tajik-activist-given-lengthy-prison-sentence
+archived_url: https://web.archive.org/web/20261023073953/https://www.hrw.org/news/2026/10/22/tajik-activist-given-lengthy-prison-sentence
+industry: 
+event: Transnational repression
+country: Tajikistan
+stage: sentenced
+related: 
+summary_status: draft
+found_via: web search (22 Oct); date read from the page; HRW cites a media report for the sentence
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Tajik Activist Given Lengthy Prison Sentence
+
+*Human Rights Watch, 2026-10-22. Original: <https://www.hrw.org/news/2026/10/22/tajik-activist-given-lengthy-prison-sentence>*
+
+Human Rights Watch says that a Tajik opposition activist who had lived in Germany since 2017 was deported to Tajikistan on 20 June 2026, despite warnings from rights groups, and was detained on arrival in Dushanbe. According to the organisation, a court in Tajikistan sentenced him on about 21 September 2026 to 17 years in prison under three articles of the criminal code, including "extremism through the internet". HRW says the case stemmed from his social media posts criticising the Tajik authorities.
+
+HRW says Tajik authorities have not published information on the case, and that the sentence is known from a media report. It also says that three other activists deported from Germany since 2023 were imprisoned after their return.
+
+
+===== FILE: news/IS_NEWS_2026-10-23-attorney-general-sues-openai-and-ceo-for-lying-to-users-and-harming-texans.md · ID: IS-NEWS-2026-10-23-ATTORNEY-GENERAL-SUES-OPENAI-AND-CEO-FOR-LYING-TO-USERS-AND-HARMING-TEXANS =====
+
+```yaml
+id: IS-NEWS-2026-10-23-ATTORNEY-GENERAL-SUES-OPENAI-AND-CEO-FOR-LYING-TO-USERS-AND-HARMING-TEXANS
+slug: 2026-10-23-attorney-general-sues-openai-and-ceo-for-lying-to-users-and-harming-texans
+title: Attorney General Sues OpenAI and CEO for Lying to Users and Harming Texans
+collection: news
+doc_type: news-item
+date: 2026-10-23
+date_precision: day
+publisher: Office of the Texas Attorney General
+source_type: Official
+issuing_office: Office of the Attorney General of Texas
+url: https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-sues-openai-and-ceo-sam-altman-lying-users-and-harming-texans
+archived_url: https://web.archive.org/web/20261108204931/https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-sues-openai-and-ceo-sam-altman-lying-users-and-harming-texans
+industry: Artificial intelligence
+event: Courts & litigation
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (AI lawsuits, 23 Oct); date read from the release; court and relief from Courthouse News, 23 Oct (https://www.courthousenews.com/texas-attorney-general-sues-openai-for-lying-about-chatgpt-safety-and-safeguards/); title shortened to leave out personal names
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Attorney General Sues OpenAI and CEO for Lying to Users and Harming Texans
+
+*Office of the Texas Attorney General, 2026-10-23. Original: <https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-sues-openai-and-ceo-sam-altman-lying-users-and-harming-texans>*
+
+The Texas Attorney General's office says it has sued OpenAI and its chief executive under the Texas Deceptive Trade Practices–Consumer Protection Act. The office alleges that the company marketed ChatGPT as safe and reliable while not disclosing the risk of inaccurate or harmful output, and that the product harmed users, including minors using it without parental oversight.
+
+Courthouse News reports that the suit was filed in Collin County District Court and also relies on the state's law on children's online safety and parental consent. According to that report, the state is asking for a broad injunction, including a bar on releasing new ChatGPT models in Texas without approval from a court-appointed independent evaluator. The case has only been filed, and no court has ruled on the claims.
+
+
+===== FILE: news/IS_NEWS_2026-10-23-austria-expels-4-russian-diplomats-linked-to-espionage.md · ID: IS-NEWS-2026-10-23-AUSTRIA-EXPELS-4-RUSSIAN-DIPLOMATS-LINKED-TO-ESPIONAGE =====
+
+```yaml
+id: IS-NEWS-2026-10-23-AUSTRIA-EXPELS-4-RUSSIAN-DIPLOMATS-LINKED-TO-ESPIONAGE
+slug: 2026-10-23-austria-expels-4-russian-diplomats-linked-to-espionage
+title: Austria expels 4 Russian diplomats linked to espionage, official says
+collection: news
+doc_type: news-item
+date: 2026-10-23
+date_precision: day
+publisher: The Associated Press (via CP24)
+source_type: News
+issuing_office: 
+url: https://www.cp24.com/news/world/2026/10/23/austria-expels-4-russian-diplomats-linked-to-espionage-official-says/
+archived_url: https://web.archive.org/web/20261027235558/https://www.cp24.com/news/world/2026/10/23/austria-expels-4-russian-diplomats-linked-to-espionage-official-says/
+industry: 
+event: Espionage & foreign agents
+country: Austria
+stage: 
+related: 
+summary_status: draft
+found_via: web search (espionage, 23 Oct); date read from the article; also reported by Kyiv Independent and Yahoo News, 23 Oct
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Austria expels 4 Russian diplomats linked to espionage, official says
+
+*The Associated Press (via CP24), 2026-10-23. Original: <https://www.cp24.com/news/world/2026/10/23/austria-expels-4-russian-diplomats-linked-to-espionage-official-says/>*
+
+The Associated Press reports that Austria ordered four Russian diplomats to leave the country on 23 October 2026. According to the report, Austria's Foreign Ministry said three worked at the Russian Embassy in Vienna and one at Russia's mission to the OSCE. The ministry declared them persona non grata for "activities incompatible with their diplomatic status" and gave no further details.
+
+AP says this brings the number of Russian diplomats expelled by Austria since 2020 to 18. It reports that Austrian law currently punishes espionage only when it targets Austrian interests, and that the government is negotiating a change that would also cover spying on international organisations. A Russian deputy foreign minister told the state news agency TASS that a response was unavoidable.
+
+
+===== FILE: news/IS_NEWS_2026-10-23-coherence-neuro-raises-45m-for-implantable-cancer-technology.md · ID: IS-NEWS-2026-10-23-COHERENCE-NEURO-RAISES-45M-FOR-IMPLANTABLE-CANCER-TECHNOLOGY =====
+
+```yaml
+id: IS-NEWS-2026-10-23-COHERENCE-NEURO-RAISES-45M-FOR-IMPLANTABLE-CANCER-TECHNOLOGY
+slug: 2026-10-23-coherence-neuro-raises-45m-for-implantable-cancer-technology
+title: Coherence Neuro raises $45M for implantable cancer technology
+collection: news
+doc_type: news-item
+date: 2026-10-23
+date_precision: day
+publisher: MobiHealthNews
+source_type: Trade press
+issuing_office: 
+url: https://www.mobihealthnews.com/news/coherence-neuro-raises-45m-implantable-cancer-technology
+archived_url: 
+industry: Neurotechnology · Biotechnology & health
+event: Contracts & deployments
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (neurotechnology, 23 Oct); date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Coherence Neuro raises $45M for implantable cancer technology
+
+*MobiHealthNews, 2026-10-23. Original: <https://www.mobihealthnews.com/news/coherence-neuro-raises-45m-implantable-cancer-technology>*
+
+MobiHealthNews reports that Coherence Neuro, a San Francisco company, has raised $45 million in Series A funding. The company is developing a brain-computer interface that records electrical signals linked to tumours and uses them to guide electrical stimulation, starting with brain tumours. According to the report, a first-in-human study of the company's cortical probe began in June at the Royal Melbourne Hospital during tumour-removal surgery, and the company plans a long-term trial in glioblastoma.
+
+The publication says the devices are investigational and are not approved by the U.S. FDA or Australia's Therapeutic Goods Administration. It also says preclinical work in mice is continuing and has not been shown to apply to humans.
+
+
+===== FILE: news/IS_NEWS_2026-10-23-uk-home-office-publishes-lfr-privacy-assessment-for-immigration-enforcement.md · ID: IS-NEWS-2026-10-23-UK-HOME-OFFICE-PUBLISHES-LFR-PRIVACY-ASSESSMENT-FOR-IMMIGRATION-ENFORCEMENT =====
+
+```yaml
+id: IS-NEWS-2026-10-23-UK-HOME-OFFICE-PUBLISHES-LFR-PRIVACY-ASSESSMENT-FOR-IMMIGRATION-ENFORCEMENT
+slug: 2026-10-23-uk-home-office-publishes-lfr-privacy-assessment-for-immigration-enforcement
+title: UK Home Office publishes LFR privacy assessment for immigration enforcement
+collection: news
+doc_type: news-item
+date: 2026-10-23
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202610/uk-home-office-publishes-lfr-privacy-assessment-for-immigration-enforcement
+archived_url: https://web.archive.org/web/20261027235648/https://www.biometricupdate.com/202610/uk-home-office-publishes-lfr-privacy-assessment-for-immigration-enforcement
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Regulation & law
+country: United Kingdom
+stage: 
+related: 
+summary_status: draft
+found_via: web search (biometricupdate.com, 23 Oct); date read from the article; the GOV.UK copy of the assessment was not found
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# UK Home Office publishes LFR privacy assessment for immigration enforcement
+
+*Biometric Update, 2026-10-23. Original: <https://www.biometricupdate.com/202610/uk-home-office-publishes-lfr-privacy-assessment-for-immigration-enforcement>*
+
+Biometric Update reports that the UK Home Office has published a 63-page data protection impact assessment of the live facial recognition technology used by Immigration Enforcement. According to the article, the assessment lists risks such as misidentification, human error, demographic bias and data retention. The proposed safeguards include human review with secondary identity checks, public engagement before deployments and strict limits on scope.
+
+The publication says the document accepts that live facial recognition interferes with the right to private life but argues that the interference is limited in scope and duration. It also says that images of people who do not trigger a watchlist alert are deleted immediately and automatically, and that the system does not make enforcement decisions itself.
+
+
+===== FILE: news/IS_NEWS_2026-10-23-us-government-contractor-arrested-for-allegedly-leaking-national-defense-information.md · ID: IS-NEWS-2026-10-23-US-GOVERNMENT-CONTRACTOR-ARRESTED-FOR-ALLEGEDLY-LEAKING-NATIONAL-DEFENSE-INFORMATION =====
+
+```yaml
+id: IS-NEWS-2026-10-23-US-GOVERNMENT-CONTRACTOR-ARRESTED-FOR-ALLEGEDLY-LEAKING-NATIONAL-DEFENSE-INFORMATION
+slug: 2026-10-23-us-government-contractor-arrested-for-allegedly-leaking-national-defense-information
+title: U.S. Government Contractor Arrested for Allegedly Leaking National Defense Information
+collection: news
+doc_type: news-item
+date: 2026-10-23
+date_precision: day
+publisher: U.S. Department of Justice
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.justice.gov/opa/pr/us-government-contractor-arrested-allegedly-leaking-national-defense-information
+archived_url: https://web.archive.org/web/20261027235716/https://www.justice.gov/opa/pr/us-government-contractor-arrested-allegedly-leaking-national-defense-information
+industry: 
+event: Espionage & foreign agents
+country: 
+stage: charged
+related: 
+summary_status: draft
+found_via: web search (DOJ national security releases, 23 Oct); date read from the release (press release number 26-1256)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# U.S. Government Contractor Arrested for Allegedly Leaking National Defense Information
+
+*U.S. Department of Justice, 2026-10-23. Original: <https://www.justice.gov/opa/pr/us-government-contractor-arrested-allegedly-leaking-national-defense-information>*
+
+The Justice Department says the FBI has arrested a government contractor who held a Top Secret/SCI clearance and has charged him by criminal complaint with unlawfully transmitting national defense information. According to the release, he first worked for a U.S. government agency and, from 2022, for a contractor providing services to the CIA. The department alleges that he obtained classified information beyond his duties and passed it to a person he had a personal relationship with, who runs an online publication on Substack.
+
+The department says the case began with a referral from the CIA and was investigated by the FBI's Chicago and Washington field offices, and that it is being prosecuted by the National Security Division and the U.S. Attorney's Office for the Eastern District of Virginia. The case is at the complaint stage: the defendant is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-25-ice-expansion-deepens-dependence-on-proprietary-digital-identity-network-infrastructure.md · ID: IS-NEWS-2026-10-25-ICE-EXPANSION-DEEPENS-DEPENDENCE-ON-PROPRIETARY-DIGITAL-IDENTITY-NETWORK-INFRASTRUCTURE =====
+
+```yaml
+id: IS-NEWS-2026-10-25-ICE-EXPANSION-DEEPENS-DEPENDENCE-ON-PROPRIETARY-DIGITAL-IDENTITY-NETWORK-INFRASTRUCTURE
+slug: 2026-10-25-ice-expansion-deepens-dependence-on-proprietary-digital-identity-network-infrastructure
+title: ICE expansion deepens dependence on proprietary digital identity, network infrastructure
+collection: news
+doc_type: news-item
+date: 2026-10-25
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202610/ice-expansion-deepens-dependence-on-proprietary-digital-identity-network-infrastructure
+archived_url: https://web.archive.org/web/20261027235744/https://www.biometricupdate.com/202610/ice-expansion-deepens-dependence-on-proprietary-digital-identity-network-infrastructure
+industry: Government cloud & surveillance technology
+event: Contracts & deployments
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: biometricupdate.com front page (26 Oct); date read from the article (25 Oct 2026, 1:19 pm EDT); based on federal award records and justification J&A-26-0410 (posted 22 Oct 2026)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# ICE expansion deepens dependence on proprietary digital identity, network infrastructure
+
+*Biometric Update, 2026-10-25. Original: <https://www.biometricupdate.com/202610/ice-expansion-deepens-dependence-on-proprietary-digital-identity-network-infrastructure>*
+
+Biometric Update reports, from federal award records, that U.S. Immigration and Customs Enforcement has placed network and identity-access equipment orders worth about $12.5 million between May and September 2026. It puts selected awards of this kind since September 2024 at about $29.8 million. According to the article, a justification posted on 22 October 2026 says the agency's installed proprietary equipment left no competing source for related services, and cites a large increase in personnel and sites.
+
+The publication says the records do not show which facilities received the equipment or how much of the spending is tied to expansion rather than routine replacement. It notes that the identity system involved controls network access and does not perform biometric identification. It also says a five-year forecast of $50 million to $100 million for field infrastructure has no matching award yet.
+
+
+===== FILE: news/IS_NEWS_2026-10-25-us-judge-finds-doge-access-to-federal-personnel-data-violated-privacy-law.md · ID: IS-NEWS-2026-10-25-US-JUDGE-FINDS-DOGE-ACCESS-TO-FEDERAL-PERSONNEL-DATA-VIOLATED-PRIVACY-LAW =====
+
+```yaml
+id: IS-NEWS-2026-10-25-US-JUDGE-FINDS-DOGE-ACCESS-TO-FEDERAL-PERSONNEL-DATA-VIOLATED-PRIVACY-LAW
+slug: 2026-10-25-us-judge-finds-doge-access-to-federal-personnel-data-violated-privacy-law
+title: U.S. judge finds DOGE access to federal personnel data violated privacy law
+collection: news
+doc_type: news-item
+date: 2026-10-25
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202610/u-s-judge-finds-doge-access-to-federal-personnel-data-violated-privacy-law
+archived_url: https://web.archive.org/web/20261027235817/https://www.biometricupdate.com/202610/u-s-judge-finds-doge-access-to-federal-personnel-data-violated-privacy-law
+industry: Government cloud & surveillance technology
+event: Courts & litigation
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: biometricupdate.com front page (26 Oct); date read from the article; the court opinion is dated 20 Oct 2026; the article does not name the court district
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# U.S. judge finds DOGE access to federal personnel data violated privacy law
+
+*Biometric Update, 2026-10-25. Original: <https://www.biometricupdate.com/202610/u-s-judge-finds-doge-access-to-federal-personnel-data-violated-privacy-law>*
+
+Biometric Update reports that a U.S. federal judge ruled, in an opinion dated 20 October 2026, that the Office of Personnel Management unlawfully gave Department of Government Efficiency personnel broad access to systems holding sensitive records on tens of millions of federal workers. According to the article, the court found that twenty people linked to the effort accessed the systems between 20 January and 6 March 2025, mostly with administrative rights, that no need for the access had been shown at the time, and that cybersecurity safeguards were bypassed.
+
+The publication says the court granted summary judgment to the plaintiffs on their Administrative Procedure Act claims, to the extent those claims rest on Privacy Act violations. The court has not yet decided what permanent relief, if any, to order. The article reports that the agency has since withdrawn the permissions and adopted a stricter access policy, and that the government argues this reduces the need for further relief.
+
+
+===== FILE: news/IS_NEWS_2026-10-25-us-voter-investigations-combined-identity-data-with-election-enforcement.md · ID: IS-NEWS-2026-10-25-US-VOTER-INVESTIGATIONS-COMBINED-IDENTITY-DATA-WITH-ELECTION-ENFORCEMENT =====
+
+```yaml
+id: IS-NEWS-2026-10-25-US-VOTER-INVESTIGATIONS-COMBINED-IDENTITY-DATA-WITH-ELECTION-ENFORCEMENT
+slug: 2026-10-25-us-voter-investigations-combined-identity-data-with-election-enforcement
+title: U.S. voter investigations combined identity data with election enforcement
+collection: news
+doc_type: news-item
+date: 2026-10-25
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202610/u-s-voter-investigations-combined-identity-data-with-election-enforcement
+archived_url: https://web.archive.org/web/20261108205135/https://www.biometricupdate.com/202610/u-s-voter-investigations-combined-identity-data-with-election-enforcement
+industry: Government cloud & surveillance technology
+event: Courts & litigation
+country: 
+stage: 
+related: 2026-10-09-ice-voter-data-nonprofit-investigations-expose-expansive-surveillance-machinery
+summary_status: draft
+found_via: biometricupdate.com front page (26 Oct); date read from the article; the preliminary injunction is dated 21 Oct 2026; the docket link in the article points to the Northern District of California
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# U.S. voter investigations combined identity data with election enforcement
+
+*Biometric Update, 2026-10-25. Original: <https://www.biometricupdate.com/202610/u-s-voter-investigations-combined-identity-data-with-election-enforcement>*
+
+Biometric Update reports that a federal court issued a preliminary injunction on 21 October 2026 restricting voter-related field operations by Homeland Security Investigations in nine states. The article says a stay of the order expired on 23 October, and that no government appeal had appeared on public dockets when it was written. According to the publication, the order runs through Election Day unless a higher court steps in.
+
+The article says the case record describes about 48.2 million voter-related records from other sources and about 50.6 million Justice Department records drawn from state voter rolls. It says these were "enriched" with immigration records, commercial identity databases and law enforcement records. The publication notes that the sequence of events it describes does not by itself establish cause and effect. This is interim relief, not a final ruling.
+
+
+===== FILE: news/IS_NEWS_2026-10-26-cbp-plans-up-to-50m-contract-for-biometrics-ai-integration.md · ID: IS-NEWS-2026-10-26-CBP-PLANS-UP-TO-50M-CONTRACT-FOR-BIOMETRICS-AI-INTEGRATION =====
+
+```yaml
+id: IS-NEWS-2026-10-26-CBP-PLANS-UP-TO-50M-CONTRACT-FOR-BIOMETRICS-AI-INTEGRATION
+slug: 2026-10-26-cbp-plans-up-to-50m-contract-for-biometrics-ai-integration
+title: CBP plans up to $50M contract for biometrics, AI integration
+collection: news
+doc_type: news-item
+date: 2026-10-26
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202610/cbp-plans-up-to-50m-contract-for-biometrics-ai-integration
+archived_url: https://web.archive.org/web/20261028000145/https://www.biometricupdate.com/202610/cbp-plans-up-to-50m-contract-for-biometrics-ai-integration
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Contracts & deployments
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: biometricupdate.com front page (27 Oct); date read from the article (26 Oct 2026, 5:27 pm EDT); based on the CBP "Digital Solutions and Application Innovation" acquisition forecast
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# CBP plans up to $50M contract for biometrics, AI integration
+
+*Biometric Update, 2026-10-26. Original: <https://www.biometricupdate.com/202610/cbp-plans-up-to-50m-contract-for-biometrics-ai-integration>*
+
+Biometric Update reports that U.S. Customs and Border Protection is preparing to compete an application development contract worth an estimated $20 million to $50 million, set aside for small businesses. According to the article, the agency's forecast says the work covers all CBP operational and support offices and explicitly includes integrating biometric technology into new and existing applications, alongside AI and machine learning, data analytics and chatbots.
+
+The publication says the updated forecast puts the solicitation in mid-November and the award at the end of December 2026, with work running to March 2029. It notes that the forecast does not say which applications would gain biometric features, and that the statement of work expected with the solicitation may make this clearer.
+
+
+===== FILE: news/IS_NEWS_2026-10-26-doj-appeals-ruling-lifting-ban-on-anthropic-use-for-us-agencies.md · ID: IS-NEWS-2026-10-26-DOJ-APPEALS-RULING-LIFTING-BAN-ON-ANTHROPIC-USE-FOR-US-AGENCIES =====
+
+```yaml
+id: IS-NEWS-2026-10-26-DOJ-APPEALS-RULING-LIFTING-BAN-ON-ANTHROPIC-USE-FOR-US-AGENCIES
+slug: 2026-10-26-doj-appeals-ruling-lifting-ban-on-anthropic-use-for-us-agencies
+title: DOJ Appeals Ruling Lifting Ban on Anthropic Use for US Agencies
+collection: news
+doc_type: news-item
+date: 2026-10-26
+date_precision: day
+publisher: MT Newswires
+source_type: News
+issuing_office: 
+url: https://www.marketscreener.com/news/doj-appeals-ruling-lifting-ban-on-anthropic-use-for-us-agencies-ce785cdcdf8bfe23
+archived_url: https://web.archive.org/web/20261108211025/https://www.marketscreener.com/news/doj-appeals-ruling-lifting-ban-on-anthropic-use-for-us-agencies-ce785cdcdf8bfe23
+industry: Artificial intelligence · Government cloud & surveillance technology
+event: Courts & litigation
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (AI litigation, 27 Oct); date read from the page (26 Oct 2026, 1:19 pm EDT); full text paywalled; Bloomberg's report the same day (https://www.bloomberg.com/news/articles/2026-10-26/doj-appeals-court-ruling-lifting-ban-on-agency-anthropic-use) could not be read (robots.txt)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DOJ Appeals Ruling Lifting Ban on Anthropic Use for US Agencies
+
+*MT Newswires, 2026-10-26. Original: <https://www.marketscreener.com/news/doj-appeals-ruling-lifting-ban-on-anthropic-use-for-us-agencies-ce785cdcdf8bfe23>*
+
+MT Newswires reports that the U.S. Justice Department filed a notice of appeal with the Ninth Circuit Court of Appeals on 26 October 2026. According to the report, the government is seeking to overturn an August 2026 district court ruling that lifted its ban on federal agencies' use of the AI company Anthropic's technology.
+
+The dispute began earlier in 2026, when the administration told agencies to stop using the company's models and the Defense Department designated the company a supply chain risk; the company sued to block those measures. A notice of appeal starts the appeal process and is not a ruling. The district court's decision stands unless the appeals court changes it.
+
+
+===== FILE: news/IS_NEWS_2026-10-26-paradromics-receives-fda-approval-to-expand-connexus-bci-study-recruitment.md · ID: IS-NEWS-2026-10-26-PARADROMICS-RECEIVES-FDA-APPROVAL-TO-EXPAND-CONNEXUS-BCI-STUDY-RECRUITMENT =====
+
+```yaml
+id: IS-NEWS-2026-10-26-PARADROMICS-RECEIVES-FDA-APPROVAL-TO-EXPAND-CONNEXUS-BCI-STUDY-RECRUITMENT
+slug: 2026-10-26-paradromics-receives-fda-approval-to-expand-connexus-bci-study-recruitment
+title: Paradromics Receives FDA Approval to Expand Connexus® Brain-Computer Interface Clinical Study Recruitment Nationwide
+collection: news
+doc_type: news-item
+date: 2026-10-26
+date_precision: day
+publisher: Paradromics
+source_type: Trade press
+issuing_office: 
+url: https://biospace.com/press-releases/paradromics-receives-fda-approval-to-expand-connexus-brain-computer-interface-clinical-study-recruitment-nationwide
+archived_url: https://web.archive.org/web/20261028000307/https://www.biospace.com/press-releases/paradromics-receives-fda-approval-to-expand-connexus-brain-computer-interface-clinical-study-recruitment-nationwide
+industry: Neurotechnology
+event: Regulation & law
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (brain-computer interface, 27 Oct); company press release on BioSpace, date read from the page; no FDA or independent source found
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Paradromics Receives FDA Approval to Expand Connexus® Brain-Computer Interface Clinical Study Recruitment Nationwide
+
+*Paradromics, 2026-10-26. Original: <https://biospace.com/press-releases/paradromics-receives-fda-approval-to-expand-connexus-brain-computer-interface-clinical-study-recruitment-nationwide>*
+
+Paradromics says the U.S. Food and Drug Administration has approved an amendment to the protocol of its early feasibility study of the Connexus brain-computer interface, a fully implanted wireless device that records individual neurons to turn intended speech into digital communication. According to the company, the change removes the rule that participants must live within a four-hour drive of a study site, so eligible people across the continental United States can be considered, though they must still travel to a site when required.
+
+The company says the study runs at three U.S. academic medical centres under an FDA investigational device exemption granted in November 2025, and that its first long-term implant took place in June 2026. These are the company's own statements and have not been independently confirmed.
+
+
+===== FILE: news/IS_NEWS_2026-10-26-serbian-autocrat-loses-election-following-reports-of-digital-repression.md · ID: IS-NEWS-2026-10-26-SERBIAN-AUTOCRAT-LOSES-ELECTION-FOLLOWING-REPORTS-OF-DIGITAL-REPRESSION =====
+
+```yaml
+id: IS-NEWS-2026-10-26-SERBIAN-AUTOCRAT-LOSES-ELECTION-FOLLOWING-REPORTS-OF-DIGITAL-REPRESSION
+slug: 2026-10-26-serbian-autocrat-loses-election-following-reports-of-digital-repression
+title: Serbian autocrat loses election following widespread reports of digital repression
+collection: news
+doc_type: news-item
+date: 2026-10-26
+date_precision: day
+publisher: The Record
+source_type: News
+issuing_office: 
+url: https://therecord.media/serbia-election-spyware-vucic
+archived_url: https://web.archive.org/web/20261028000425/https://therecord.media/serbia-election-spyware-vucic
+industry: Government cloud & surveillance technology
+event: Reports & statistics
+country: Serbia
+stage: 
+related: 2026-10-19-serbian-rectors-phone-was-infected-with-spyware-during-student-protests
+summary_status: draft
+found_via: web search (therecord.media, spyware, 27 Oct); date read from the article; the URL slug contains a surname but the title does not
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Serbian autocrat loses election following widespread reports of digital repression
+
+*The Record, 2026-10-26. Original: <https://therecord.media/serbia-election-spyware-vucic>*
+
+The Record reports that Serbia's long-serving leader conceded defeat on Sunday in his bid to become prime minister. According to the publication, researchers say the loss followed two years in which digital forensic investigators reported spyware targeting or infections on the devices of dozens of opposition figures, protesters, prosecutors and journalists.
+
+The article cites Amnesty International as saying that authorities used phone-extraction tools during interrogations and arrests, sometimes to install spyware, and cites a Serbian digital-rights group as counting at least 15 people targeted with mercenary spyware this year. It says the Serbian Foreign Ministry did not immediately respond to a request for comment. The publication does not claim the spyware reports caused the result.
 
 
 ===== FILE: news/IS_NEWS_undated-anomalous-health-incidents.md · ID: IS-NEWS-UNDATED-ANOMALOUS-HEALTH-INCIDENTS =====
