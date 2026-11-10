@@ -39,7 +39,7 @@ You have been given files from the Invisible Ships archive (invisibleships.com),
 | Documents |  | 242 | `bundles/IS_BUNDLE_06_*.md` |
 | Concepts, glossary, terms |  | 60 | `bundles/IS_BUNDLE_07_*.md` |
 | Research |  | 55 | `bundles/IS_BUNDLE_08_*.md` |
-| News |  | 414 | `bundles/IS_BUNDLE_09_*.md` |
+| News |  | 416 | `bundles/IS_BUNDLE_09_*.md` |
 
 ## Recaps of each Part and section
 
@@ -1928,11 +1928,11 @@ IS-JDN-20260420-1408 (2), IS-JDN-20260501-1016, IS-JDN-20260501-1030 (4), IS-JDN
 
 ## News catalogue
 
-412 items: official releases and outside reporting. Each links to the original, which belongs to its publisher. Summaries are in `bundles/IS_BUNDLE_09_news.md`.
+414 items: official releases and outside reporting. Each links to the original, which belongs to its publisher. Summaries are in `bundles/IS_BUNDLE_09_news.md`.
 
-**By event type:** Contracts & deployments 111 · Espionage & foreign agents 62 · Technology theft & export control 48 · Regulation & law 47 · Research & breakthroughs 40 · Courts & litigation 31 · Public health 15 · Reports & statistics 14 · Transnational repression 13 · Murder for hire & violent plots 12 · Global conflict 10 · Protests 9
+**By event type:** Contracts & deployments 112 · Espionage & foreign agents 63 · Technology theft & export control 48 · Regulation & law 47 · Research & breakthroughs 40 · Courts & litigation 31 · Public health 15 · Reports & statistics 14 · Transnational repression 13 · Murder for hire & violent plots 12 · Global conflict 10 · Protests 9
 
-**By year:** 2011 1 · 2013 1 · 2014 1 · 2016 2 · 2017 2 · 2018 5 · 2019 19 · 2020 46 · 2021 26 · 2022 33 · 2023 24 · 2024 37 · 2025 59 · 2026 154 · ???? 2
+**By year:** 2011 1 · 2013 1 · 2014 1 · 2016 2 · 2017 2 · 2018 5 · 2019 19 · 2020 46 · 2021 26 · 2022 33 · 2023 24 · 2024 37 · 2025 59 · 2026 156 · ???? 2
 
 - Anomalous health incidents · Official · Neurotechnology · Biotechnology & health · Public health · https://www.health.mil/Military-Health-Topics/Warfighter-Brain-Health/Brain-Health-Topics/Anomalous-Health-Incidents
 - Critical Information Infrastructure of Russia (FSTEC/FSB) · Trade press · Government cloud & surveillance technology · Contracts & deployments · https://tadviser.com/index.php/Article:Critical_Information_Infrastructure_of_Russia
@@ -2346,6 +2346,8 @@ IS-JDN-20260420-1408 (2), IS-JDN-20260501-1016, IS-JDN-20260501-1030 (4), IS-JDN
 - 2026-10-26 · DOJ Appeals Ruling Lifting Ban on Anthropic Use for US Agencies · News · Artificial intelligence · Government cloud & surveillance technology · Courts & litigation · https://www.marketscreener.com/news/doj-appeals-ruling-lifting-ban-on-anthropic-use-for-us-agencies-ce785cdcdf8bfe23
 - 2026-10-26 · Paradromics Receives FDA Approval to Expand Connexus® Brain-Computer Interface Clinical Study Recruitment Nationwide · Trade press · Neurotechnology · Regulation & law · https://biospace.com/press-releases/paradromics-receives-fda-approval-to-expand-connexus-brain-computer-interface-clinical-study-recruitment-nationwide
 - 2026-10-26 · Serbian autocrat loses election following widespread reports of digital repression · News · Government cloud & surveillance technology · Reports & statistics · https://therecord.media/serbia-election-spyware-vucic
+- 2026-11-03 · Former U.S. Government Contractor Pleads Guilty to Spying for Ethiopia · Official · Espionage & foreign agents · https://www.justice.gov/opa/pr/former-us-government-contractor-pleads-guilty-spying-ethiopia
+- 2026-11-06 · Hong Kong police to add AI facial recognition to SmartView CCTV network · News · Government cloud & surveillance technology · Artificial intelligence · Contracts & deployments · https://www.thestandard.com.hk/news/article/347690/Police-to-add-AI-facial-recognition-to-Smart-View-CCTV-system-this-month-targeting-60000-cameras-by-2028
 
 ## Headline findings, and what the archive does not establish
 

@@ -1,5 +1,44 @@
 [
 {
+"slug": "2026-11-06-hong-kong-police-to-add-ai-facial-recognition-to-smartview-cctv-network",
+"file": "IS_NEWS_2026-11-06-hong-kong-police-to-add-ai-facial-recognition-to-smartview-cctv-network.md",
+"title": "Hong Kong police to add AI facial recognition to SmartView CCTV network",
+"date": "2026-11-06",
+"precision": "day",
+"publisher": "The Standard (Hong Kong)",
+"sourceType": "News",
+"office": "",
+"url": "https://www.thestandard.com.hk/news/article/347690/Police-to-add-AI-facial-recognition-to-Smart-View-CCTV-system-this-month-targeting-60000-cameras-by-2028",
+"archivedUrl": "https://web.archive.org/web/20261109071705/https://www.thestandard.com.hk/news/article/347690/Police-to-add-AI-facial-recognition-to-Smart-View-CCTV-system-this-month-targeting-60000-cameras-by-2028",
+"industry": [
+"Government cloud & surveillance technology",
+"Artificial intelligence"
+],
+"event": "Contracts & deployments",
+"country": "Hong Kong",
+"stage": "",
+"related": [],
+"hasSummary": true
+},
+{
+"slug": "2026-11-03-former-us-government-contractor-pleads-guilty-to-spying-for-ethiopia",
+"file": "IS_NEWS_2026-11-03-former-us-government-contractor-pleads-guilty-to-spying-for-ethiopia.md",
+"title": "Former U.S. Government Contractor Pleads Guilty to Spying for Ethiopia",
+"date": "2026-11-03",
+"precision": "day",
+"publisher": "U.S. Department of Justice",
+"sourceType": "Official",
+"office": "Office of Public Affairs",
+"url": "https://www.justice.gov/opa/pr/former-us-government-contractor-pleads-guilty-spying-ethiopia",
+"archivedUrl": "https://web.archive.org/web/20261109012348/https://www.justice.gov/opa/pr/former-us-government-contractor-pleads-guilty-spying-ethiopia",
+"industry": [],
+"event": "Espionage & foreign agents",
+"country": "Ethiopia",
+"stage": "pleaded guilty",
+"related": [],
+"hasSummary": true
+},
+{
 "slug": "2026-10-26-serbian-autocrat-loses-election-following-reports-of-digital-repression",
 "file": "IS_NEWS_2026-10-26-serbian-autocrat-loses-election-following-reports-of-digital-repression.md",
 "title": "Serbian autocrat loses election following widespread reports of digital repression",

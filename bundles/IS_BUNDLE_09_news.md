@@ -3,8 +3,8 @@ id: IS-BUNDLE-09-NEWS
 title: "News"
 collection: bundles
 doc_type: bundle
-files: 413
-approx_tokens: 205,581
+files: 415
+approx_tokens: 206,831
 contains: [news]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -15,7 +15,7 @@ disclaimer: meta/IS_META_terms.md
 
 Official releases and outside reporting, one item per section, each summarised and linked.
 
-This file joins 413 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
+This file joins 415 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 
@@ -432,6 +432,8 @@ This file joins 413 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-10-26-doj-appeals-ruling-lifting-ban-on-anthropic-use-for-us-agencies.md` — DOJ Appeals Ruling Lifting Ban on Anthropic Use for US Agencies
 - `news/IS_NEWS_2026-10-26-paradromics-receives-fda-approval-to-expand-connexus-bci-study-recruitment.md` — Paradromics Receives FDA Approval to Expand Connexus® Brain-Computer Interface Clinical Study Recruitment Nationwide
 - `news/IS_NEWS_2026-10-26-serbian-autocrat-loses-election-following-reports-of-digital-repression.md` — Serbian autocrat loses election following widespread reports of digital repression
+- `news/IS_NEWS_2026-11-03-former-us-government-contractor-pleads-guilty-to-spying-for-ethiopia.md` — Former U.S. Government Contractor Pleads Guilty to Spying for Ethiopia
+- `news/IS_NEWS_2026-11-06-hong-kong-police-to-add-ai-facial-recognition-to-smartview-cctv-network.md` — Hong Kong police to add AI facial recognition to SmartView CCTV network
 - `news/IS_NEWS_undated-anomalous-health-incidents.md` — Anomalous health incidents
 - `news/IS_NEWS_undated-critical-information-infrastructure-of-russia-fstec-fsb.md` — Critical Information Infrastructure of Russia (FSTEC/FSB)
 
@@ -449,16 +451,16 @@ convicted or was sentenced. See `meta/IS_META_terms.md`.*
 
 ## What is here
 
-- 412 items, 2011-09-28 to 2026-10-26: 173 official, 149 trade press, 72 news, 18 research.
-- 412 of 412 carry a summary so far; the rest say so.
+- 414 items, 2011-09-28 to 2026-11-06: 174 official, 149 trade press, 73 news, 18 research.
+- 414 of 414 carry a summary so far; the rest say so.
 - `index.json` holds every item's header in one file, for counting and filtering.
 
 ## By kind of event
 
 | Kind of event | Items |
 |---|---|
-| Contracts & deployments | 111 |
-| Espionage & foreign agents | 62 |
+| Contracts & deployments | 112 |
+| Espionage & foreign agents | 63 |
 | Technology theft & export control | 48 |
 | Regulation & law | 47 |
 | Research & breakthroughs | 40 |
@@ -14774,6 +14776,76 @@ disclaimer: meta/IS_META_terms.md
 The Record reports that Serbia's long-serving leader conceded defeat on Sunday in his bid to become prime minister. According to the publication, researchers say the loss followed two years in which digital forensic investigators reported spyware targeting or infections on the devices of dozens of opposition figures, protesters, prosecutors and journalists.
 
 The article cites Amnesty International as saying that authorities used phone-extraction tools during interrogations and arrests, sometimes to install spyware, and cites a Serbian digital-rights group as counting at least 15 people targeted with mercenary spyware this year. It says the Serbian Foreign Ministry did not immediately respond to a request for comment. The publication does not claim the spyware reports caused the result.
+
+
+===== FILE: news/IS_NEWS_2026-11-03-former-us-government-contractor-pleads-guilty-to-spying-for-ethiopia.md · ID: IS-NEWS-2026-11-03-FORMER-US-GOVERNMENT-CONTRACTOR-PLEADS-GUILTY-TO-SPYING-FOR-ETHIOPIA =====
+
+```yaml
+id: IS-NEWS-2026-11-03-FORMER-US-GOVERNMENT-CONTRACTOR-PLEADS-GUILTY-TO-SPYING-FOR-ETHIOPIA
+slug: 2026-11-03-former-us-government-contractor-pleads-guilty-to-spying-for-ethiopia
+title: Former U.S. Government Contractor Pleads Guilty to Spying for Ethiopia
+collection: news
+doc_type: news-item
+date: 2026-11-03
+date_precision: day
+publisher: U.S. Department of Justice
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.justice.gov/opa/pr/former-us-government-contractor-pleads-guilty-spying-ethiopia
+archived_url: https://web.archive.org/web/20261109012348/https://www.justice.gov/opa/pr/former-us-government-contractor-pleads-guilty-spying-ethiopia
+industry: 
+event: Espionage & foreign agents
+country: Ethiopia
+stage: pleaded guilty
+related: 
+summary_status: draft
+found_via: web search (DOJ national security releases, 9 Nov); read from the release (press release number 26-1314, dated 3 Nov, updated 5 Nov); the defendant is not named here
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Former U.S. Government Contractor Pleads Guilty to Spying for Ethiopia
+
+*U.S. Department of Justice, 2026-11-03. Original: <https://www.justice.gov/opa/pr/former-us-government-contractor-pleads-guilty-spying-ethiopia>*
+
+The Justice Department says a former IT contractor who held a Top Secret clearance has pleaded guilty to conspiring to transmit national defense information to a foreign government. According to the release, he admitted that from 2021 until his arrest in August 2023 he worked with senior Ethiopian officials to collect and pass on dozens of classified items, some at the TS/SCI level, much of it about an armed conflict in Ethiopia, and that he took the material out of secure facilities.
+
+The department says that under the plea agreement he has agreed to a prison term of 120 to 262 months, subject to the court's acceptance, and that sentencing is set for 14 April 2027. The FBI's Washington Field Office led the investigation, with help from the State Department's Diplomatic Security Service, and the U.S. Attorney's Office for the District of Columbia is prosecuting.
+
+
+===== FILE: news/IS_NEWS_2026-11-06-hong-kong-police-to-add-ai-facial-recognition-to-smartview-cctv-network.md · ID: IS-NEWS-2026-11-06-HONG-KONG-POLICE-TO-ADD-AI-FACIAL-RECOGNITION-TO-SMARTVIEW-CCTV-NETWORK =====
+
+```yaml
+id: IS-NEWS-2026-11-06-HONG-KONG-POLICE-TO-ADD-AI-FACIAL-RECOGNITION-TO-SMARTVIEW-CCTV-NETWORK
+slug: 2026-11-06-hong-kong-police-to-add-ai-facial-recognition-to-smartview-cctv-network
+title: Hong Kong police to add AI facial recognition to SmartView CCTV network
+collection: news
+doc_type: news-item
+date: 2026-11-06
+date_precision: day
+publisher: The Standard (Hong Kong)
+source_type: News
+issuing_office: 
+url: https://www.thestandard.com.hk/news/article/347690/Police-to-add-AI-facial-recognition-to-Smart-View-CCTV-system-this-month-targeting-60000-cameras-by-2028
+archived_url: https://web.archive.org/web/20261109071705/https://www.thestandard.com.hk/news/article/347690/Police-to-add-AI-facial-recognition-to-Smart-View-CCTV-system-this-month-targeting-60000-cameras-by-2028
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Contracts & deployments
+country: Hong Kong
+stage: 
+related: 
+summary_status: draft
+found_via: web search (6-9 Nov 2026 window); date and details read from the article itself; other outlets report the same announcement
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Hong Kong police to add AI facial recognition to SmartView CCTV network
+
+*The Standard (Hong Kong), 2026-11-06. Original: <https://www.thestandard.com.hk/news/article/347690/Police-to-add-AI-facial-recognition-to-Smart-View-CCTV-system-this-month-targeting-60000-cameras-by-2028>*
+
+The Standard reports that Hong Kong police say they will add AI facial recognition to the SmartView CCTV system this month, to detect crime and find missing people faster. According to the article, more than 10,000 cameras are installed, police aim to reach about 60,000 by 2028, and talks are under way to connect cameras in shopping malls and other private premises.
+
+The publication says police describe two uses: searching footage for a suspect, and alerting officers when a missing person appears on camera. It reports police saying use is limited to four statutory purposes, including national security, that officers must pass two internal tests before accessing footage, and that facial recognition data will be kept longer than the usual 30 days for footage, with a source putting the figure at about 180 days.
 
 
 ===== FILE: news/IS_NEWS_undated-anomalous-health-incidents.md · ID: IS-NEWS-UNDATED-ANOMALOUS-HEALTH-INCIDENTS =====
