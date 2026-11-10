@@ -43,11 +43,11 @@ Everything an AI needs: the journal in four parts, the documents, the concepts a
 | [⬇ Documents](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_06_documents.md) | The six reference documents, section by section, and the register of the source series. | 210 | 160K |
 | [⬇ Concepts, glossary and terms](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_07_concepts-glossary-terms.md) | The archive's arguments and findings, both glossaries, and the terms, disclaimer and content warning. | 200 | 156K |
 | [⬇ Research: crime, public health, government cloud](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_08_research.md) | The research briefs and their row data (CSV). The JSON copies are in the zip for code. | 330 | 257K |
-| [⬇ News](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_09_news.md) | Official releases and outside reporting, one item per section, each summarised and linked. | 290 | 225K |
+| [⬇ News](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_09_news.md) | Official releases and outside reporting, one item per section, each summarised and linked. | 290 | 229K |
 
 </details>
 
-Need every entry as its own file, for a developer or a records system? Download [the complete archive](https://github.com/growthoutcome-code/invisibleships-corpus/archive/refs/heads/main.zip) (1,427 files).
+Need every entry as its own file, for a developer or a records system? Download [the complete archive](https://github.com/growthoutcome-code/invisibleships-corpus/archive/refs/heads/main.zip) (1,433 files).
 
 ## 4. Upload
 

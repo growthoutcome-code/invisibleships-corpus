@@ -1,5 +1,67 @@
 [
 {
+"slug": "2026-11-10-karnataka-orders-ai-face-scan-attendance-in-government-schools",
+"file": "IS_NEWS_2026-11-10-karnataka-orders-ai-face-scan-attendance-in-government-schools.md",
+"title": "Karnataka orders AI face-scan attendance in government schools",
+"date": "2026-11-10",
+"precision": "day",
+"publisher": "Tech Times",
+"sourceType": "News",
+"office": "",
+"url": "https://www.techtimes.com/articles/330373/20261110/facial-recognition-schools-karnataka-orders-pupil-face-scan-attendance-privacy-map-debuts.htm",
+"archivedUrl": "https://web.archive.org/web/20261110071100/https://www.techtimes.com/articles/330373/20261110/facial-recognition-schools-karnataka-orders-pupil-face-scan-attendance-privacy-map-debuts.htm#google_vignette",
+"industry": [
+"Government cloud & surveillance technology",
+"Artificial intelligence"
+],
+"event": "Contracts & deployments",
+"country": "India",
+"stage": "",
+"related": [],
+"hasSummary": true
+},
+{
+"slug": "2026-11-10-chinese-researchers-report-non-invasive-brain-interface-electrode-for-day-long-use",
+"file": "IS_NEWS_2026-11-10-chinese-researchers-report-non-invasive-brain-interface-electrode-for-day-long-use.md",
+"title": "Chinese researchers report non-invasive brain-interface electrode for day-long use",
+"date": "2026-11-10",
+"precision": "day",
+"publisher": "The Star (Malaysia), from the South China Morning Post",
+"sourceType": "News",
+"office": "",
+"url": "https://www.thestar.com.my/tech/tech-news/2026/11/10/chinas-comfortable-brain-reading-device-achieves-94-mind-typing-accuracy-in-day-long-use",
+"archivedUrl": "https://web.archive.org/web/20261110070902/https://www.thestar.com.my/tech/tech-news/2026/11/10/chinas-comfortable-brain-reading-device-achieves-94-mind-typing-accuracy-in-day-long-use#goog_rewarded",
+"industry": [
+"Neurotechnology"
+],
+"event": "Research & breakthroughs",
+"country": "China",
+"stage": "",
+"related": [],
+"hasSummary": true
+},
+{
+"slug": "2026-11-06-police-scotland-demonstrates-live-facial-recognition",
+"file": "IS_NEWS_2026-11-06-police-scotland-demonstrates-live-facial-recognition.md",
+"title": "Police Scotland demonstrates live facial recognition as calls for legislation grow",
+"date": "2026-11-06",
+"precision": "day",
+"publisher": "Biometric Update",
+"sourceType": "Trade press",
+"office": "",
+"url": "https://www.biometricupdate.com/202611/police-scotland-demonstrates-live-facial-recognition-as-calls-for-legislation-grow",
+"archivedUrl": "https://web.archive.org/web/20261110205153/https://www.biometricupdate.com/202611/police-scotland-demonstrates-live-facial-recognition-as-calls-for-legislation-grow",
+"industry": [
+"Government cloud & surveillance technology",
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United Kingdom",
+"stage": "",
+"related": [],
+"hasSummary": true
+},
+{
 "slug": "2026-11-06-hong-kong-police-to-add-ai-facial-recognition-to-smartview-cctv-network",
 "file": "IS_NEWS_2026-11-06-hong-kong-police-to-add-ai-facial-recognition-to-smartview-cctv-network.md",
 "title": "Hong Kong police to add AI facial recognition to SmartView CCTV network",
@@ -21,6 +83,49 @@
 "hasSummary": true
 },
 {
+"slug": "2026-11-06-facial-recognition-firm-joins-spanish-police-forensic-ai-projects",
+"file": "IS_NEWS_2026-11-06-facial-recognition-firm-joins-spanish-police-forensic-ai-projects.md",
+"title": "Facial recognition firm joins €14M Spanish police forensic AI projects",
+"date": "2026-11-06",
+"precision": "day",
+"publisher": "Biometric Update",
+"sourceType": "Trade press",
+"office": "",
+"url": "https://www.biometricupdate.com/202611/herta-joins-e14m-spanish-police-forensic-ai-projects",
+"archivedUrl": "https://web.archive.org/web/20261110205034/https://www.biometricupdate.com/202611/herta-joins-e14m-spanish-police-forensic-ai-projects",
+"industry": [
+"Artificial intelligence",
+"Government cloud & surveillance technology"
+],
+"event": "Contracts & deployments",
+"country": "Spain",
+"stage": "",
+"related": [],
+"hasSummary": true
+},
+{
+"slug": "2026-11-04-house-committee-chairs-ask-a-us-chipmakers-chief-executive-for-a-closed-door-briefing-on-a-reported-chinese-intelligence-asset",
+"file": "IS_NEWS_2026-11-04-house-committee-chairs-ask-a-us-chipmakers-chief-executive-for-a-closed-door-briefing-on-a-reported-chinese-intelligence-asset.md",
+"title": "House committee chairs ask a U.S. chipmaker's chief executive for a closed-door briefing on a reported Chinese intelligence asset",
+"date": "2026-11-04",
+"precision": "day",
+"publisher": "U.S. House Select Committee on the CCP",
+"sourceType": "Official",
+"office": "",
+"url": "https://chinaselectcommittee.house.gov/sites/evo-subsites/selectcommitteeontheccp.house.gov/files/evo-media-document/nvidia-letter-pdf.pdf",
+"archivedUrl": "https://web.archive.org/web/20261110204930/https://chinaselectcommittee.house.gov/sites/evo-subsites/selectcommitteeontheccp.house.gov/files/evo-media-document/nvidia-letter-pdf.pdf",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Espionage & foreign agents",
+"country": "China",
+"stage": "",
+"related": [
+"2026-10-29-report-says-us-intelligence-linked-a-suspected-chinese-intelligence-source-to-a-us-chipmakers-chief-executive"
+],
+"hasSummary": true
+},
+{
 "slug": "2026-11-03-former-us-government-contractor-pleads-guilty-to-spying-for-ethiopia",
 "file": "IS_NEWS_2026-11-03-former-us-government-contractor-pleads-guilty-to-spying-for-ethiopia.md",
 "title": "Former U.S. Government Contractor Pleads Guilty to Spying for Ethiopia",
@@ -36,6 +141,28 @@
 "country": "Ethiopia",
 "stage": "pleaded guilty",
 "related": [],
+"hasSummary": true
+},
+{
+"slug": "2026-10-29-report-says-us-intelligence-linked-a-suspected-chinese-intelligence-source-to-a-us-chipmakers-chief-executive",
+"file": "IS_NEWS_2026-10-29-report-says-us-intelligence-linked-a-suspected-chinese-intelligence-source-to-a-us-chipmakers-chief-executive.md",
+"title": "Report says U.S. intelligence linked a suspected Chinese intelligence source to a U.S. chipmaker's chief executive; company and China deny",
+"date": "2026-10-29",
+"precision": "day",
+"publisher": "ABC News",
+"sourceType": "News",
+"office": "",
+"url": "https://abc13.com/story/nvidia-denies-report-ceo-was-allegedly-targeted-chinese-spy-plot/20000206/",
+"archivedUrl": "https://web.archive.org/web/20261110204901/https://abc13.com/story/nvidia-denies-report-ceo-was-allegedly-targeted-chinese-spy-plot/20000206/",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Espionage & foreign agents",
+"country": "China",
+"stage": "",
+"related": [
+"2026-11-04-house-committee-chairs-ask-a-us-chipmakers-chief-executive-for-a-closed-door-briefing-on-a-reported-chinese-intelligence-asset"
+],
 "hasSummary": true
 },
 {

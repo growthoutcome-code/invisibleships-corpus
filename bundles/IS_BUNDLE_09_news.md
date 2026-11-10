@@ -3,8 +3,8 @@ id: IS-BUNDLE-09-NEWS
 title: "News"
 collection: bundles
 doc_type: bundle
-files: 415
-approx_tokens: 206,831
+files: 421
+approx_tokens: 210,901
 contains: [news]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -15,7 +15,7 @@ disclaimer: meta/IS_META_terms.md
 
 Official releases and outside reporting, one item per section, each summarised and linked.
 
-This file joins 415 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
+This file joins 421 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 
@@ -432,8 +432,14 @@ This file joins 415 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-10-26-doj-appeals-ruling-lifting-ban-on-anthropic-use-for-us-agencies.md` — DOJ Appeals Ruling Lifting Ban on Anthropic Use for US Agencies
 - `news/IS_NEWS_2026-10-26-paradromics-receives-fda-approval-to-expand-connexus-bci-study-recruitment.md` — Paradromics Receives FDA Approval to Expand Connexus® Brain-Computer Interface Clinical Study Recruitment Nationwide
 - `news/IS_NEWS_2026-10-26-serbian-autocrat-loses-election-following-reports-of-digital-repression.md` — Serbian autocrat loses election following widespread reports of digital repression
+- `news/IS_NEWS_2026-10-29-report-says-us-intelligence-linked-a-suspected-chinese-intelligence-source-to-a-us-chipmakers-chief-executive.md` — Report says U.S. intelligence linked a suspected Chinese intelligence source to a U.S. chipmaker's chief executive; company and China deny
 - `news/IS_NEWS_2026-11-03-former-us-government-contractor-pleads-guilty-to-spying-for-ethiopia.md` — Former U.S. Government Contractor Pleads Guilty to Spying for Ethiopia
+- `news/IS_NEWS_2026-11-04-house-committee-chairs-ask-a-us-chipmakers-chief-executive-for-a-closed-door-briefing-on-a-reported-chinese-intelligence-asset.md` — House committee chairs ask a U.S. chipmaker's chief executive for a closed-door briefing on a reported Chinese intelligence asset
+- `news/IS_NEWS_2026-11-06-facial-recognition-firm-joins-spanish-police-forensic-ai-projects.md` — Facial recognition firm joins €14M Spanish police forensic AI projects
 - `news/IS_NEWS_2026-11-06-hong-kong-police-to-add-ai-facial-recognition-to-smartview-cctv-network.md` — Hong Kong police to add AI facial recognition to SmartView CCTV network
+- `news/IS_NEWS_2026-11-06-police-scotland-demonstrates-live-facial-recognition.md` — Police Scotland demonstrates live facial recognition as calls for legislation grow
+- `news/IS_NEWS_2026-11-10-chinese-researchers-report-non-invasive-brain-interface-electrode-for-day-long-use.md` — Chinese researchers report non-invasive brain-interface electrode for day-long use
+- `news/IS_NEWS_2026-11-10-karnataka-orders-ai-face-scan-attendance-in-government-schools.md` — Karnataka orders AI face-scan attendance in government schools
 - `news/IS_NEWS_undated-anomalous-health-incidents.md` — Anomalous health incidents
 - `news/IS_NEWS_undated-critical-information-infrastructure-of-russia-fstec-fsb.md` — Critical Information Infrastructure of Russia (FSTEC/FSB)
 
@@ -451,19 +457,19 @@ convicted or was sentenced. See `meta/IS_META_terms.md`.*
 
 ## What is here
 
-- 414 items, 2011-09-28 to 2026-11-06: 174 official, 149 trade press, 73 news, 18 research.
-- 414 of 414 carry a summary so far; the rest say so.
+- 420 items, 2011-09-28 to 2026-11-10: 175 official, 151 trade press, 76 news, 18 research.
+- 420 of 420 carry a summary so far; the rest say so.
 - `index.json` holds every item's header in one file, for counting and filtering.
 
 ## By kind of event
 
 | Kind of event | Items |
 |---|---|
-| Contracts & deployments | 112 |
-| Espionage & foreign agents | 63 |
+| Contracts & deployments | 114 |
+| Espionage & foreign agents | 65 |
+| Regulation & law | 48 |
 | Technology theft & export control | 48 |
-| Regulation & law | 47 |
-| Research & breakthroughs | 40 |
+| Research & breakthroughs | 41 |
 | Courts & litigation | 31 |
 | Public health | 15 |
 | Reports & statistics | 14 |
@@ -14778,6 +14784,41 @@ The Record reports that Serbia's long-serving leader conceded defeat on Sunday i
 The article cites Amnesty International as saying that authorities used phone-extraction tools during interrogations and arrests, sometimes to install spyware, and cites a Serbian digital-rights group as counting at least 15 people targeted with mercenary spyware this year. It says the Serbian Foreign Ministry did not immediately respond to a request for comment. The publication does not claim the spyware reports caused the result.
 
 
+===== FILE: news/IS_NEWS_2026-10-29-report-says-us-intelligence-linked-a-suspected-chinese-intelligence-source-to-a-us-chipmakers-chief-executive.md · ID: IS-NEWS-2026-10-29-REPORT-SAYS-US-INTELLIGENCE-LINKED-A-SUSPECTED-CHINESE-INTELLIGENCE-SOURCE-TO-A-US-CHIPMAKERS-CHIEF-EXECUTIVE =====
+
+```yaml
+id: IS-NEWS-2026-10-29-REPORT-SAYS-US-INTELLIGENCE-LINKED-A-SUSPECTED-CHINESE-INTELLIGENCE-SOURCE-TO-A-US-CHIPMAKERS-CHIEF-EXECUTIVE
+slug: 2026-10-29-report-says-us-intelligence-linked-a-suspected-chinese-intelligence-source-to-a-us-chipmakers-chief-executive
+title: Report says U.S. intelligence linked a suspected Chinese intelligence source to a U.S. chipmaker's chief executive; company and China deny
+collection: news
+doc_type: news-item
+date: 2026-10-29
+date_precision: day
+publisher: ABC News
+source_type: News
+issuing_office: 
+url: https://abc13.com/story/nvidia-denies-report-ceo-was-allegedly-targeted-chinese-spy-plot/20000206/
+archived_url: https://web.archive.org/web/20261110204901/https://abc13.com/story/nvidia-denies-report-ceo-was-allegedly-targeted-chinese-spy-plot/20000206/
+industry: Artificial intelligence
+event: Espionage & foreign agents
+country: China
+stage: 
+related: 2026-11-04-house-committee-chairs-ask-a-us-chipmakers-chief-executive-for-a-closed-door-briefing-on-a-reported-chinese-intelligence-asset
+summary_status: draft
+found_via: requested by Sean, 10 Nov 2026; the original is a New York Times report of 29 Oct 2026 (paywalled), read here as reported by ABC News (30 Oct, updated 1 Nov) and The Hill (29 Oct); title written without personal names
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Report says U.S. intelligence linked a suspected Chinese intelligence source to a U.S. chipmaker's chief executive; company and China deny
+
+*ABC News, 2026-10-30, reporting a New York Times article of 2026-10-29. Original: <https://abc13.com/story/nvidia-denies-report-ceo-was-allegedly-targeted-chinese-spy-plot/20000206/>*
+
+ABC News reports that The New York Times reported on 29 October 2026 that U.S. intelligence officials had concluded that a senior executive at a Singapore-based data-center company, who had a close relationship with Nvidia's chief executive, was passing information to officials in Beijing. According to ABC News, the Times also reported that the President was briefed on the findings and took no action. The intelligence conclusions come from the newspaper's unnamed sources.
+
+Nvidia said its chief executive meets thousands of customer executives every year and that such meetings are an ordinary part of the job, and that it would act on any warning from the U.S. government about a party of concern. China's Foreign Ministry called the reports baseless. No charge or official finding has been reported.
+
+
 ===== FILE: news/IS_NEWS_2026-11-03-former-us-government-contractor-pleads-guilty-to-spying-for-ethiopia.md · ID: IS-NEWS-2026-11-03-FORMER-US-GOVERNMENT-CONTRACTOR-PLEADS-GUILTY-TO-SPYING-FOR-ETHIOPIA =====
 
 ```yaml
@@ -14813,6 +14854,76 @@ The Justice Department says a former IT contractor who held a Top Secret clearan
 The department says that under the plea agreement he has agreed to a prison term of 120 to 262 months, subject to the court's acceptance, and that sentencing is set for 14 April 2027. The FBI's Washington Field Office led the investigation, with help from the State Department's Diplomatic Security Service, and the U.S. Attorney's Office for the District of Columbia is prosecuting.
 
 
+===== FILE: news/IS_NEWS_2026-11-04-house-committee-chairs-ask-a-us-chipmakers-chief-executive-for-a-closed-door-briefing-on-a-reported-chinese-intelligence-asset.md · ID: IS-NEWS-2026-11-04-HOUSE-COMMITTEE-CHAIRS-ASK-A-US-CHIPMAKERS-CHIEF-EXECUTIVE-FOR-A-CLOSED-DOOR-BRIEFING-ON-A-REPORTED-CHINESE-INTELLIGENCE-ASSET =====
+
+```yaml
+id: IS-NEWS-2026-11-04-HOUSE-COMMITTEE-CHAIRS-ASK-A-US-CHIPMAKERS-CHIEF-EXECUTIVE-FOR-A-CLOSED-DOOR-BRIEFING-ON-A-REPORTED-CHINESE-INTELLIGENCE-ASSET
+slug: 2026-11-04-house-committee-chairs-ask-a-us-chipmakers-chief-executive-for-a-closed-door-briefing-on-a-reported-chinese-intelligence-asset
+title: House committee chairs ask a U.S. chipmaker's chief executive for a closed-door briefing on a reported Chinese intelligence asset
+collection: news
+doc_type: news-item
+date: 2026-11-04
+date_precision: day
+publisher: U.S. House Select Committee on the CCP
+source_type: Official
+issuing_office: 
+url: https://chinaselectcommittee.house.gov/sites/evo-subsites/selectcommitteeontheccp.house.gov/files/evo-media-document/nvidia-letter-pdf.pdf
+archived_url: https://web.archive.org/web/20261110204930/https://chinaselectcommittee.house.gov/sites/evo-subsites/selectcommitteeontheccp.house.gov/files/evo-media-document/nvidia-letter-pdf.pdf
+industry: Artificial intelligence
+event: Espionage & foreign agents
+country: China
+stage: 
+related: 2026-10-29-report-says-us-intelligence-linked-a-suspected-chinese-intelligence-source-to-a-us-chipmakers-chief-executive
+summary_status: draft
+found_via: requested by Sean, 10 Nov 2026 (follow-up to the 29 Oct report; Axios, 5 and 7 Nov, reported the congressional scrutiny); the official letter, dated 4 Nov 2026, read from the committee's site; the same letter is on the House Foreign Affairs Committee site with its press release of 5 Nov; title written without personal names
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# House committee chairs ask a U.S. chipmaker's chief executive for a closed-door briefing on a reported Chinese intelligence asset
+
+*U.S. House Select Committee on the CCP, 2026-11-04. Original: <https://chinaselectcommittee.house.gov/sites/evo-subsites/selectcommitteeontheccp.house.gov/files/evo-media-document/nvidia-letter-pdf.pdf>*
+
+In a letter dated 4 November 2026, the chairs of three House committees (Foreign Affairs, the Select Committee on the Chinese Communist Party, and the Permanent Select Committee on Intelligence) asked Nvidia's chief executive to attend a joint, closed-door briefing on 18 November 2026. According to the letter, the briefing would cover the company's protections against espionage by foreign adversaries and his contacts with an executive of a Singapore-based data-center company, whom the letter describes as publicly reported to be an intelligence asset of the People's Republic of China.
+
+The chairs asked the company to accept the date or propose another by 11 November. The letter cites press reports and states no official finding of its own, and no charge has been reported. It follows the 29 October newspaper report, which Nvidia and China's Foreign Ministry both denied.
+
+
+===== FILE: news/IS_NEWS_2026-11-06-facial-recognition-firm-joins-spanish-police-forensic-ai-projects.md · ID: IS-NEWS-2026-11-06-FACIAL-RECOGNITION-FIRM-JOINS-SPANISH-POLICE-FORENSIC-AI-PROJECTS =====
+
+```yaml
+id: IS-NEWS-2026-11-06-FACIAL-RECOGNITION-FIRM-JOINS-SPANISH-POLICE-FORENSIC-AI-PROJECTS
+slug: 2026-11-06-facial-recognition-firm-joins-spanish-police-forensic-ai-projects
+title: Facial recognition firm joins €14M Spanish police forensic AI projects
+collection: news
+doc_type: news-item
+date: 2026-11-06
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202611/herta-joins-e14m-spanish-police-forensic-ai-projects
+archived_url: https://web.archive.org/web/20261110205034/https://www.biometricupdate.com/202611/herta-joins-e14m-spanish-police-forensic-ai-projects
+industry: Artificial intelligence · Government cloud & surveillance technology
+event: Contracts & deployments
+country: Spain
+stage: 
+related: 
+summary_status: draft
+found_via: biometricupdate.com front page, 8 Nov 2026 (drafted that day, added at Sean's request 10 Nov); date read from the article; title reworded to describe the company rather than name it (published title: "Herta joins €14M Spanish police forensic AI projects")
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Facial recognition firm joins €14M Spanish police forensic AI projects
+
+*Biometric Update, 2026-11-06. Original: <https://www.biometricupdate.com/202611/herta-joins-e14m-spanish-police-forensic-ai-projects>*
+
+Biometric Update reports that the Spanish facial recognition company Herta Security is part of a group building two AI forensic systems for Spain's National Police, under contracts worth about €14 million including VAT. The contracts are funded through Spain's Center for Technological Development and Innovation with European Union co-financing. According to the article, one system combines facial recognition, large language models and other AI to analyze forensic information from many sources and link cases. The other uses LiDAR and 360-degree photography to make 3D reconstructions of crime scenes.
+
+The publication says both systems are prototypes, with the current phase running until late 2027 and the contracts until September 2028. A final validation phase at police facilities in Castilla-La Mancha depends on a competitive selection.
+
+
 ===== FILE: news/IS_NEWS_2026-11-06-hong-kong-police-to-add-ai-facial-recognition-to-smartview-cctv-network.md · ID: IS-NEWS-2026-11-06-HONG-KONG-POLICE-TO-ADD-AI-FACIAL-RECOGNITION-TO-SMARTVIEW-CCTV-NETWORK =====
 
 ```yaml
@@ -14846,6 +14957,111 @@ disclaimer: meta/IS_META_terms.md
 The Standard reports that Hong Kong police say they will add AI facial recognition to the SmartView CCTV system this month, to detect crime and find missing people faster. According to the article, more than 10,000 cameras are installed, police aim to reach about 60,000 by 2028, and talks are under way to connect cameras in shopping malls and other private premises.
 
 The publication says police describe two uses: searching footage for a suspect, and alerting officers when a missing person appears on camera. It reports police saying use is limited to four statutory purposes, including national security, that officers must pass two internal tests before accessing footage, and that facial recognition data will be kept longer than the usual 30 days for footage, with a source putting the figure at about 180 days.
+
+
+===== FILE: news/IS_NEWS_2026-11-06-police-scotland-demonstrates-live-facial-recognition.md · ID: IS-NEWS-2026-11-06-POLICE-SCOTLAND-DEMONSTRATES-LIVE-FACIAL-RECOGNITION =====
+
+```yaml
+id: IS-NEWS-2026-11-06-POLICE-SCOTLAND-DEMONSTRATES-LIVE-FACIAL-RECOGNITION
+slug: 2026-11-06-police-scotland-demonstrates-live-facial-recognition
+title: Police Scotland demonstrates live facial recognition as calls for legislation grow
+collection: news
+doc_type: news-item
+date: 2026-11-06
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202611/police-scotland-demonstrates-live-facial-recognition-as-calls-for-legislation-grow
+archived_url: https://web.archive.org/web/20261110205153/https://www.biometricupdate.com/202611/police-scotland-demonstrates-live-facial-recognition-as-calls-for-legislation-grow
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Regulation & law
+country: United Kingdom
+stage: 
+related: 
+summary_status: draft
+found_via: biometricupdate.com front page, 8 Nov 2026 (drafted that day, added at Sean's request 10 Nov); date read from the article
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Police Scotland demonstrates live facial recognition as calls for legislation grow
+
+*Biometric Update, 2026-11-06. Original: <https://www.biometricupdate.com/202611/police-scotland-demonstrates-live-facial-recognition-as-calls-for-legislation-grow>*
+
+Biometric Update reports that Police Scotland held a demonstration of live facial recognition at its Tulliallan headquarters as Scotland considers whether to adopt the technology. According to the article, the audience included the Scottish Police Authority, the Scottish Biometrics Commissioner, the Justice Secretary and several human rights, equality and information oversight bodies, and officers from police forces in England showed how they use it.
+
+The publication says the Scottish Biometrics Commissioner has repeatedly called for primary legislation before police use the technology, describing it in his latest annual report as highly intrusive mass public surveillance. It reports that the decision on whether to legislate rests with the Scottish Parliament. Meanwhile, the UK government plans a statutory framework for England and Wales.
+
+
+===== FILE: news/IS_NEWS_2026-11-10-chinese-researchers-report-non-invasive-brain-interface-electrode-for-day-long-use.md · ID: IS-NEWS-2026-11-10-CHINESE-RESEARCHERS-REPORT-NON-INVASIVE-BRAIN-INTERFACE-ELECTRODE-FOR-DAY-LONG-USE =====
+
+```yaml
+id: IS-NEWS-2026-11-10-CHINESE-RESEARCHERS-REPORT-NON-INVASIVE-BRAIN-INTERFACE-ELECTRODE-FOR-DAY-LONG-USE
+slug: 2026-11-10-chinese-researchers-report-non-invasive-brain-interface-electrode-for-day-long-use
+title: Chinese researchers report non-invasive brain-interface electrode for day-long use
+collection: news
+doc_type: news-item
+date: 2026-11-10
+date_precision: day
+publisher: The Star (Malaysia), from the South China Morning Post
+source_type: News
+issuing_office: 
+url: https://www.thestar.com.my/tech/tech-news/2026/11/10/chinas-comfortable-brain-reading-device-achieves-94-mind-typing-accuracy-in-day-long-use
+archived_url: https://web.archive.org/web/20261110070902/https://www.thestar.com.my/tech/tech-news/2026/11/10/chinas-comfortable-brain-reading-device-achieves-94-mind-typing-accuracy-in-day-long-use#goog_rewarded
+industry: Neurotechnology
+event: Research & breakthroughs
+country: China
+stage: 
+related: 
+summary_status: draft
+found_via: web search (8-10 Nov 2026 window); date and details read from the article, which credits the South China Morning Post and a paper in npj Flexible Electronics
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Chinese researchers report non-invasive brain-interface electrode for day-long use
+
+*The Star (Malaysia), from the South China Morning Post, 2026-11-10. Original: <https://www.thestar.com.my/tech/tech-news/2026/11/10/chinas-comfortable-brain-reading-device-achieves-94-mind-typing-accuracy-in-day-long-use>*
+
+The Star, republishing a South China Morning Post report, says researchers at Guangxi University, Guangxi Medical University and Tsinghua University have made a soft, hydrogel-based electrode for non-invasive brain-computer interfaces, described in npj Flexible Electronics. According to the article, in a 14-hour test one subject reached over 94% accuracy on a flickering-keyboard typing task, while commercial gel electrodes became nearly unusable within four to five hours.
+
+The publication reports that an eight-channel cap gave eight hours of stable recordings during walking, eating, reading and sleeping, that tests on mice showed no adverse reactions, and that a batch can yield 300 electrodes. It says the researchers see possible uses in health care, sleep monitoring and epilepsy warnings, which the article describes as potential rather than demonstrated.
+
+
+===== FILE: news/IS_NEWS_2026-11-10-karnataka-orders-ai-face-scan-attendance-in-government-schools.md · ID: IS-NEWS-2026-11-10-KARNATAKA-ORDERS-AI-FACE-SCAN-ATTENDANCE-IN-GOVERNMENT-SCHOOLS =====
+
+```yaml
+id: IS-NEWS-2026-11-10-KARNATAKA-ORDERS-AI-FACE-SCAN-ATTENDANCE-IN-GOVERNMENT-SCHOOLS
+slug: 2026-11-10-karnataka-orders-ai-face-scan-attendance-in-government-schools
+title: Karnataka orders AI face-scan attendance in government schools
+collection: news
+doc_type: news-item
+date: 2026-11-10
+date_precision: day
+publisher: Tech Times
+source_type: News
+issuing_office: 
+url: https://www.techtimes.com/articles/330373/20261110/facial-recognition-schools-karnataka-orders-pupil-face-scan-attendance-privacy-map-debuts.htm
+archived_url: https://web.archive.org/web/20261110071100/https://www.techtimes.com/articles/330373/20261110/facial-recognition-schools-karnataka-orders-pupil-face-scan-attendance-privacy-map-debuts.htm#google_vignette
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Contracts & deployments
+country: India
+stage: 
+related: 
+summary_status: draft
+found_via: web search (9-10 Nov 2026 window); date and details read from the article, which cites Careers360 for the order; the article also reports a Privacy International map of school deployments
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Karnataka orders AI face-scan attendance in government schools
+
+*Tech Times, 2026-11-10. Original: <https://www.techtimes.com/articles/330373/20261110/facial-recognition-schools-karnataka-orders-pupil-face-scan-attendance-privacy-map-debuts.htm>*
+
+Tech Times reports that the Karnataka state government has ordered AI face-scan attendance for students in government and aided schools and pre-university colleges, to begin in the 2026-27 school year. According to the article, the Centre for e-Governance is to run a system called Nirantara at a reported cost of about 2.16 crore rupees, and an earlier plan covered about 52,686 schools and 5.2 million students.
+
+The publication says officials describe the aim as accurate attendance and identifying who receives mid-day meal benefits, and that a 2025 directive said children's photos would not be stored, a claim the article says it found no independent audit of. It reports that a coalition of 31 educators, teachers' unions and parents' groups has warned that children's facial data could be misused if leaked, and that parents fear children wrongly marked absent could lose benefits.
 
 
 ===== FILE: news/IS_NEWS_undated-anomalous-health-incidents.md · ID: IS-NEWS-UNDATED-ANOMALOUS-HEALTH-INCIDENTS =====
