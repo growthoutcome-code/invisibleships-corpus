@@ -39,7 +39,7 @@ You have been given files from the Invisible Ships archive (invisibleships.com),
 | Documents |  | 242 | `bundles/IS_BUNDLE_06_*.md` |
 | Concepts, glossary, terms |  | 60 | `bundles/IS_BUNDLE_07_*.md` |
 | Research |  | 55 | `bundles/IS_BUNDLE_08_*.md` |
-| News |  | 422 | `bundles/IS_BUNDLE_09_*.md` |
+| News |  | 433 | `bundles/IS_BUNDLE_09_*.md` |
 
 ## Recaps
 

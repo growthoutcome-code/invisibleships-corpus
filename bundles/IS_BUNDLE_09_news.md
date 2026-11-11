@@ -3,8 +3,8 @@ id: IS-BUNDLE-09-NEWS
 title: "News"
 collection: bundles
 doc_type: bundle
-files: 421
-approx_tokens: 210,901
+files: 432
+approx_tokens: 217,024
 contains: [news]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -15,7 +15,7 @@ disclaimer: meta/IS_META_terms.md
 
 Official releases and outside reporting, one item per section, each summarised and linked.
 
-This file joins 421 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
+This file joins 432 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 
@@ -188,6 +188,7 @@ This file joins 421 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2024-03-01-microsoft-suspends-access-to-cloud-services-for-russian.md` — Microsoft suspends access to cloud services for Russian companies
 - `news/IS_NEWS_2024-03-04-brazil-has-the-world-most-accessed-online-citizen-services.md` — Brazil Has The World Most Accessed Online Citizen Services Platform
 - `news/IS_NEWS_2024-03-11-eu-use-of-microsoft-365-found-to-breach-data-protection.md` — EU use of Microsoft 365 found to breach data protection rules
+- `news/IS_NEWS_2024-03-20-analysis-latin-america-leads-on-neurorights-starting-with-chile-s-constitution.md` — Latin America leads on neurorights, starting with Chile's constitution
 - `news/IS_NEWS_2024-03-26-army-poised-to-launch-revamped-carmy-cloud-services.md` — Army poised to launch revamped cArmy cloud services environment
 - `news/IS_NEWS_2024-04-01-safeguarding-brain-data-consumer-neurotechnology-report.md` — Safeguarding brain data: consumer neurotechnology report
 - `news/IS_NEWS_2024-04-12-exclusive-google-contract-shows-deal-with-israel-defense.md` — Exclusive: Google Contract Shows Deal With Israel Defense Ministry
@@ -249,12 +250,14 @@ This file joins 421 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2025-06-30-justice-department-charges-two-individuals-with-acting-as.md` — Justice Department Charges Two Individuals with Acting as Agents of the PRC Government
 - `news/IS_NEWS_2025-07-04-australian-dept-of-defence-signs-au-495m-5-year-cloud-deal.md` — Australian Dept of Defence signs AU$495m 5-year cloud deal with Microsoft
 - `news/IS_NEWS_2025-07-04-defence-commits-to-five-more-years-of-azure-worth-495m.md` — Defence commits to five more years of Azure worth $495m
+- `news/IS_NEWS_2025-08-05-analysis-state-neural-data-laws-protect-the-brain-signal-but-not-what-ai-infers-from-it.md` — State neural-data laws protect the brain signal but not what AI infers from it
 - `news/IS_NEWS_2025-08-06-a-mass-surveillance-project-beyond-imagination-microsoft.md` — A mass surveillance project "beyond imagination": Microsoft cloud and Unit 8200 (joint investigation)
 - `news/IS_NEWS_2025-08-06-active-duty-soldier-arrested-and-charged-with-espionage-and.md` — Active-Duty Soldier Arrested and Charged with Espionage and Export Violations
 - `news/IS_NEWS_2025-08-06-woman-wrongly-accused-of-carjacking-loses-lawsuit-against.md` — Woman wrongly accused of carjacking loses lawsuit against Detroit police
 - `news/IS_NEWS_2025-08-07-aws-signs-deal-with-us-govt-for-up-to-1bn-in-cloud-discounts.md` — AWS signs deal with US govt for up to $1bn in cloud discounts
 - `news/IS_NEWS_2025-08-07-israel-s-military-surveillance-agency-stores-masses-of.md` — Israel's military surveillance agency stores masses of intelligence on Palestinians on Microsoft cloud
 - `news/IS_NEWS_2025-08-07-pentagon-officials-gearing-up-for-jwcc-next-solicitation.md` — Pentagon officials gearing up for JWCC Next solicitation
+- `news/IS_NEWS_2025-08-12-analysis-four-states-define-neural-data-four-different-ways.md` — Four states define neural data four different ways
 - `news/IS_NEWS_2025-08-13-israel-amendment-13-privacy-reform.md` — Israel Amendment 13 privacy reform
 - `news/IS_NEWS_2025-08-14-brain-computer-interface-researchers-decode-internal.md` — Brain-computer interface researchers decode internal monologues
 - `news/IS_NEWS_2025-08-14-decoding-inner-speech-from-brain-signals.md` — Decoding inner speech from brain signals
@@ -277,14 +280,20 @@ This file joins 421 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2025-10-29-inside-israel-deal-with-google-and-amazon-project-nimbus.md` — Inside Israel deal with Google and Amazon (Project Nimbus)
 - `news/IS_NEWS_2025-10-30-two-russian-mob-leaders-sentenced-to-25-years-in-prison-for.md` — Two Russian Mob Leaders Sentenced To 25 Years In Prison For Murder-For-Hire Targeting A Journalist On Behalf Of The Iranian Government
 - `news/IS_NEWS_2025-11-01-recommendation-on-the-ethics-of-neurotechnology.md` — Recommendation on the ethics of neurotechnology
+- `news/IS_NEWS_2025-11-12-analysis-how-the-european-union-regulates-ai-and-why-one-system-can-face-many-laws-at-once.md` — How the European Union regulates AI, and why one system can face many laws at once
 - `news/IS_NEWS_2025-11-14-subsense-launches-animal-studies-to-test-nonsurgical-nanoparticle-brain-computer-interface.md` — Subsense launches animal studies to test nonsurgical nanoparticle brain-computer interface
+- `news/IS_NEWS_2025-12-01-analysis-how-china-governs-ai-three-layers-coordinated-agencies-and-a-bid-for-global-rules.md` — How China governs AI: three layers, coordinated agencies and a bid for global rules
+- `news/IS_NEWS_2025-12-12-analysis-the-executive-order-aimed-at-state-ai-laws-and-the-constitutional-questions-it-raises.md` — The executive order aimed at state AI laws, and the constitutional questions it raises
 - `news/IS_NEWS_2026-01-01-gostech-unified-digital-platform-of-the-russian-federation.md` — Gostech (Unified Digital Platform of the Russian Federation)
+- `news/IS_NEWS_2026-01-06-analysis-cognitive-liberty-in-the-age-of-corporate-ai-needs-enforceable-law.md` — Cognitive liberty in the age of corporate AI needs enforceable law
 - `news/IS_NEWS_2026-01-12-former-u-s-navy-sailor-sentenced-to-200-months-for-spying.md` — Former U.S. Navy Sailor Sentenced to 200 Months for Spying for China
 - `news/IS_NEWS_2026-01-27-ice-and-cbp-bought-a-record-140m-in-cloud.md` — ICE and CBP Bought a Record $140M in Cloud
 - `news/IS_NEWS_2026-01-27-judge-holds-norfolk-s-license-plate-reader-use.md` — Judge holds Norfolk's license plate reader use constitutional
 - `news/IS_NEWS_2026-03-06-iranian-intelligence-agent-convicted-of-terrorism-and-murder.md` — Iranian Intelligence Agent Convicted of Terrorism and Murder for Hire in Connection With Foiled Plot to Assassinate U.S. Politicians And Government Officials
 - `news/IS_NEWS_2026-03-24-new-lipid-nanoparticle-design-improves-precision-of-mrna-vaccine-delivery.md` — New lipid nanoparticle design improves precision of mRNA vaccine delivery
 - `news/IS_NEWS_2026-03-25-hmrc-hands-gbp473m-migration-deal-to-aws-after-rivals-walk.md` — HMRC hands GBP473M migration deal to AWS after rivals walk
+- `news/IS_NEWS_2026-03-30-analysis-the-fifth-amendment-protects-thought-not-the-body-neural-devices-blur-the-line.md` — The Fifth Amendment protects thought, not the body; neural devices blur the line
+- `news/IS_NEWS_2026-03-30-analysis-who-owns-digital-thoughts-the-limits-of-property-law-and-unesco-s-neurotechnology-recommen.md` — Who owns digital thoughts? The limits of property law and UNESCO's neurotechnology recommendation
 - `news/IS_NEWS_2026-04-03-us-states-build-patchwork-of-neural-data-privacy-laws.md` — US states build patchwork of neural data privacy laws
 - `news/IS_NEWS_2026-04-20-inbrain-completes-enrolment-of-first-in-human-study-of-graphene-neural-interfaces.md` — INBRAIN completes enrolment of first-in-human study of graphene neural interfaces
 - `news/IS_NEWS_2026-05-11-arcadia-california-mayor-federally-charged-with-acting-as.md` — Arcadia, California, Mayor Federally Charged with Acting as Illegal Agent of the People's Republic of China
@@ -331,6 +340,7 @@ This file joins 421 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-10-07-pennsylvania-measles-outbreak-update-cases-reach-1078-in-41-counties.md` — Pennsylvania Department of Health Provides Statewide Update on Measles Outbreak as Cases Reach 1,078 in 41 Counties
 - `news/IS_NEWS_2026-10-07-san-francisco-passes-data-center-moratorium-in-hometown-of-ai.md` — San Francisco Passes Data Center Moratorium in Hometown of AI
 - `news/IS_NEWS_2026-10-08-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century.md` — Fact Sheet: Administration Announces the Most Ambitious Set of Science Initiatives This Century
+- `news/IS_NEWS_2026-10-08-analysis-protecting-neural-data-is-necessary-but-not-enough-to-protect-privacy-of-the-mind.md` — Protecting neural data is necessary but not enough to protect privacy of the mind
 - `news/IS_NEWS_2026-10-08-building-trust-and-transparency-into-generative-ai-development.md` — Building trust and transparency into generative AI development: our work to create regulatory certainty
 - `news/IS_NEWS_2026-10-08-crowdstrike-finds-possible-bank-hackers-cv-among-exposed-ai-logs.md` — CrowdStrike finds possible bank hacker's CV among exposed AI logs
 - `news/IS_NEWS_2026-10-08-culture-minister-wants-to-curb-sharing-of-digital-imitations.md` — Culture minister wants to curb the sharing of digital imitations from the turn of the year
@@ -428,6 +438,7 @@ This file joins 421 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-10-25-ice-expansion-deepens-dependence-on-proprietary-digital-identity-network-infrastructure.md` — ICE expansion deepens dependence on proprietary digital identity, network infrastructure
 - `news/IS_NEWS_2026-10-25-us-judge-finds-doge-access-to-federal-personnel-data-violated-privacy-law.md` — U.S. judge finds DOGE access to federal personnel data violated privacy law
 - `news/IS_NEWS_2026-10-25-us-voter-investigations-combined-identity-data-with-election-enforcement.md` — U.S. voter investigations combined identity data with election enforcement
+- `news/IS_NEWS_2026-10-26-analysis-how-much-does-ai-raise-the-risk-of-weapons-of-mass-destruction-and-who-gets-watched-to-fin.md` — How much does AI raise the risk of weapons of mass destruction, and who gets watched to find out?
 - `news/IS_NEWS_2026-10-26-cbp-plans-up-to-50m-contract-for-biometrics-ai-integration.md` — CBP plans up to $50M contract for biometrics, AI integration
 - `news/IS_NEWS_2026-10-26-doj-appeals-ruling-lifting-ban-on-anthropic-use-for-us-agencies.md` — DOJ Appeals Ruling Lifting Ban on Anthropic Use for US Agencies
 - `news/IS_NEWS_2026-10-26-paradromics-receives-fda-approval-to-expand-connexus-bci-study-recruitment.md` — Paradromics Receives FDA Approval to Expand Connexus® Brain-Computer Interface Clinical Study Recruitment Nationwide
@@ -457,8 +468,8 @@ convicted or was sentenced. See `meta/IS_META_terms.md`.*
 
 ## What is here
 
-- 420 items, 2011-09-28 to 2026-11-10: 175 official, 151 trade press, 76 news, 18 research.
-- 420 of 420 carry a summary so far; the rest say so.
+- 431 items, 2011-09-28 to 2026-11-10: 175 official, 151 trade press, 76 news, 18 research, 11 analysis.
+- 431 of 431 carry a summary so far; the rest say so.
 - `index.json` holds every item's header in one file, for counting and filtering.
 
 ## By kind of event
@@ -467,10 +478,10 @@ convicted or was sentenced. See `meta/IS_META_terms.md`.*
 |---|---|
 | Contracts & deployments | 114 |
 | Espionage & foreign agents | 65 |
-| Regulation & law | 48 |
+| Regulation & law | 58 |
 | Technology theft & export control | 48 |
 | Research & breakthroughs | 41 |
-| Courts & litigation | 31 |
+| Courts & litigation | 32 |
 | Public health | 15 |
 | Reports & statistics | 14 |
 | Transnational repression | 13 |
@@ -6272,6 +6283,43 @@ The European Data Protection Supervisor found that the European Commission broke
 According to the report, the Commission was ordered by 9 December 2024 to suspend data flows to Microsoft and its affiliates in countries without an EU adequacy decision and to bring its processing into line. The Commission said it would study the decision and had already improved its contracts during the investigation.
 
 
+===== FILE: news/IS_NEWS_2024-03-20-analysis-latin-america-leads-on-neurorights-starting-with-chile-s-constitution.md · ID: IS-NEWS-2024-03-20-ANALYSIS-LATIN-AMERICA-LEADS-ON-NEURORIGHTS-STARTING-WITH-CHILE-S-CONSTITUTION =====
+
+```yaml
+id: IS-NEWS-2024-03-20-ANALYSIS-LATIN-AMERICA-LEADS-ON-NEURORIGHTS-STARTING-WITH-CHILE-S-CONSTITUTION
+slug: 2024-03-20-analysis-latin-america-leads-on-neurorights-starting-with-chile-s-constitution
+title: Latin America leads on neurorights, starting with Chile's constitution
+collection: news
+doc_type: analysis-item
+date: 2024-03-20
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office: 
+url: https://fpf.org/blog/privacy-and-the-rise-of-neurorights-in-latin-america/
+archived_url: https://web.archive.org/web/20261110225226/https://fpf.org/blog/privacy-and-the-rise-of-neurorights-in-latin-america/
+industry: Neurotechnology
+event: Regulation & law
+country: Chile
+stage: 
+related: 
+kind: analysis
+commentator: Jameson Spivack
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), first batch, 10 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Latin America leads on neurorights, starting with Chile's constitution
+
+*Jameson Spivack, Future of Privacy Forum, 2024-03-20. Original: <https://fpf.org/blog/privacy-and-the-rise-of-neurorights-in-latin-america/>*
+
+Writers at the Future of Privacy Forum survey neurorights in Latin America. Chile amended its constitution in 2021 to protect mental integrity and brain data, and in 2023 its Supreme Court ruled that a company had violated a senator's rights by keeping his brain data without consent.
+
+They describe proposals in Mexico, Brazil, Costa Rica, Colombia, Argentina and Uruguay, and the role of regional and international bodies, including a 2022 neurorights model law from the Latin American Parliament.
+
+
 ===== FILE: news/IS_NEWS_2024-03-26-army-poised-to-launch-revamped-carmy-cloud-services.md · ID: IS-NEWS-2024-03-26-ARMY-POISED-TO-LAUNCH-REVAMPED-CARMY-CLOUD-SERVICES =====
 
 ```yaml
@@ -8377,6 +8425,43 @@ Australia's Department of Defence committed $495 million to Microsoft Azure for 
 It replaces a three-year, $107 million arrangement that expired on 30 June 2025 and was bought through the reseller Data#3. iTnews notes Defence has separately committed more than $2 billion to Amazon Web Services for classified cloud for the Australian Signals Directorate.
 
 
+===== FILE: news/IS_NEWS_2025-08-05-analysis-state-neural-data-laws-protect-the-brain-signal-but-not-what-ai-infers-from-it.md · ID: IS-NEWS-2025-08-05-ANALYSIS-STATE-NEURAL-DATA-LAWS-PROTECT-THE-BRAIN-SIGNAL-BUT-NOT-WHAT-AI-INFERS-FROM-IT =====
+
+```yaml
+id: IS-NEWS-2025-08-05-ANALYSIS-STATE-NEURAL-DATA-LAWS-PROTECT-THE-BRAIN-SIGNAL-BUT-NOT-WHAT-AI-INFERS-FROM-IT
+slug: 2025-08-05-analysis-state-neural-data-laws-protect-the-brain-signal-but-not-what-ai-infers-from-it
+title: State neural-data laws protect the brain signal but not what AI infers from it
+collection: news
+doc_type: analysis-item
+date: 2025-08-05
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/your-meditation-app-may-soon-have
+archived_url: https://web.archive.org/web/20261110225254/https://nitafarahany.substack.com/p/your-meditation-app-may-soon-have
+industry: Neurotechnology · Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), first batch, 10 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# State neural-data laws protect the brain signal but not what AI infers from it
+
+*Nita Farahany, Thinking Freely (Substack), 2025-08-05. Original: <https://nitafarahany.substack.com/p/your-meditation-app-may-soon-have>*
+
+Nita Farahany examines the neural-data laws of California, Colorado, Montana and Connecticut as of mid-2025. She argues that their broad definitions can burden simple wellness devices and medical research while missing the main threat to mental privacy: the laws protect the raw signal from the nervous system, but not the conclusions AI draws from it, and they do not reach phones that infer mental state from typing, voice or sleep.
+
+She supports protecting neural data and calls for rules on what is inferred and how it is used. The full essay is for paid subscribers; this summary covers the free part.
+
+
 ===== FILE: news/IS_NEWS_2025-08-06-a-mass-surveillance-project-beyond-imagination-microsoft.md · ID: IS-NEWS-2025-08-06-A-MASS-SURVEILLANCE-PROJECT-BEYOND-IMAGINATION-MICROSOFT =====
 
 ```yaml
@@ -8583,6 +8668,43 @@ disclaimer: meta/IS_META_terms.md
 The Pentagon plans to release the solicitation for JWCC Next, the successor to its Joint Warfighting Cloud Capability contract, in early 2026 with an award expected in early 2027, DefenseScoop reports. The current $9 billion program, launched in December 2022 with Google, Oracle, Amazon Web Services and Microsoft, has awarded more than $3 billion in task orders.
 
 According to a Defense Information Systems Agency official, JWCC Next aims to give access to more commercial cloud providers and run for a longer term. The official would not say how many vendors may win awards.
+
+
+===== FILE: news/IS_NEWS_2025-08-12-analysis-four-states-define-neural-data-four-different-ways.md · ID: IS-NEWS-2025-08-12-ANALYSIS-FOUR-STATES-DEFINE-NEURAL-DATA-FOUR-DIFFERENT-WAYS =====
+
+```yaml
+id: IS-NEWS-2025-08-12-ANALYSIS-FOUR-STATES-DEFINE-NEURAL-DATA-FOUR-DIFFERENT-WAYS
+slug: 2025-08-12-analysis-four-states-define-neural-data-four-different-ways
+title: Four states define neural data four different ways
+collection: news
+doc_type: analysis-item
+date: 2025-08-12
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office: 
+url: https://fpf.org/blog/the-neural-data-goldilocks-problem-defining-neural-data-in-u-s-state-privacy-laws/
+archived_url: https://web.archive.org/web/20261110225321/https://fpf.org/blog/the-neural-data-goldilocks-problem-defining-neural-data-in-u-s-state-privacy-laws/
+industry: Neurotechnology
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Jameson Spivack
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), first batch, 10 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Four states define neural data four different ways
+
+*Jameson Spivack, Future of Privacy Forum, 2025-08-12. Original: <https://fpf.org/blog/the-neural-data-goldilocks-problem-defining-neural-data-in-u-s-state-privacy-laws/>*
+
+Jameson Spivack of the Future of Privacy Forum, writing with an intern, compares how Montana, California, Connecticut and Colorado define neural data: California covers the central and peripheral nervous systems, Connecticut only the central nervous system, Montana uses "neurotechnology data", and Colorado covers neural data only when it is used to identify a person.
+
+The authors argue that a broad definition can sweep in ordinary data such as typing, a narrow one can miss sensitive information revealed by other bodily signals, and that lawmakers should focus on specific uses and harms rather than the type of signal.
 
 
 ===== FILE: news/IS_NEWS_2025-08-13-israel-amendment-13-privacy-reform.md · ID: IS-NEWS-2025-08-13-ISRAEL-AMENDMENT-13-PRIVACY-REFORM =====
@@ -9351,6 +9473,43 @@ UNESCO's General Conference adopted the Recommendation on the Ethics of Neurotec
 It sets principles on human rights, privacy (including mental privacy), personal autonomy and freedom of thought, and on fair access to these technologies.
 
 
+===== FILE: news/IS_NEWS_2025-11-12-analysis-how-the-european-union-regulates-ai-and-why-one-system-can-face-many-laws-at-once.md · ID: IS-NEWS-2025-11-12-ANALYSIS-HOW-THE-EUROPEAN-UNION-REGULATES-AI-AND-WHY-ONE-SYSTEM-CAN-FACE-MANY-LAWS-AT-ONCE =====
+
+```yaml
+id: IS-NEWS-2025-11-12-ANALYSIS-HOW-THE-EUROPEAN-UNION-REGULATES-AI-AND-WHY-ONE-SYSTEM-CAN-FACE-MANY-LAWS-AT-ONCE
+slug: 2025-11-12-analysis-how-the-european-union-regulates-ai-and-why-one-system-can-face-many-laws-at-once
+title: How the European Union regulates AI, and why one system can face many laws at once
+collection: news
+doc_type: analysis-item
+date: 2025-11-12
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/understanding-how-the-eu-regulates
+archived_url: https://web.archive.org/web/20261110225350/https://nitafarahany.substack.com/p/understanding-how-the-eu-regulates
+industry: Artificial intelligence
+event: Regulation & law
+country: European Union
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), first batch, 10 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# How the European Union regulates AI, and why one system can face many laws at once
+
+*Nita Farahany, Thinking Freely (Substack), 2025-11-12. Original: <https://nitafarahany.substack.com/p/understanding-how-the-eu-regulates>*
+
+Nita Farahany maps the European Union's rules for AI: rights-based foundations such as the GDPR and the Charter of Fundamental Rights, cross-cutting laws on data, platforms and cybersecurity, and sector rules including the AI Act. She describes one AI system falling under six or more of these at once, with separate impact assessments and incident reports due to different authorities on different deadlines.
+
+She presents the EU's 2025 simplification package as a response to pressure on Europe's competitiveness, and asks whether Europe can remain both the most protective and a competitive place to build AI.
+
+
 ===== FILE: news/IS_NEWS_2025-11-14-subsense-launches-animal-studies-to-test-nonsurgical-nanoparticle-brain-computer-interface.md · ID: IS-NEWS-2025-11-14-SUBSENSE-LAUNCHES-ANIMAL-STUDIES-TO-TEST-NONSURGICAL-NANOPARTICLE-BRAIN-COMPUTER-INTERFACE =====
 
 ```yaml
@@ -9386,6 +9545,80 @@ Medtech Insight reported on 14 November 2025 that neurotechnology start-up Subse
 The work is at the animal stage; the report describes no testing in people.
 
 
+===== FILE: news/IS_NEWS_2025-12-01-analysis-how-china-governs-ai-three-layers-coordinated-agencies-and-a-bid-for-global-rules.md · ID: IS-NEWS-2025-12-01-ANALYSIS-HOW-CHINA-GOVERNS-AI-THREE-LAYERS-COORDINATED-AGENCIES-AND-A-BID-FOR-GLOBAL-RULES =====
+
+```yaml
+id: IS-NEWS-2025-12-01-ANALYSIS-HOW-CHINA-GOVERNS-AI-THREE-LAYERS-COORDINATED-AGENCIES-AND-A-BID-FOR-GLOBAL-RULES
+slug: 2025-12-01-analysis-how-china-governs-ai-three-layers-coordinated-agencies-and-a-bid-for-global-rules
+title: How China governs AI: three layers, coordinated agencies and a bid for global rules
+collection: news
+doc_type: analysis-item
+date: 2025-12-01
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/chinas-ai-governance-inside-my-ai
+archived_url: https://web.archive.org/web/20261110225417/https://nitafarahany.substack.com/p/chinas-ai-governance-inside-my-ai
+industry: Artificial intelligence · Government cloud & surveillance technology
+event: Regulation & law
+country: China
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), first batch, 10 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# How China governs AI: three layers, coordinated agencies and a bid for global rules
+
+*Nita Farahany, Thinking Freely (Substack), 2025-12-01. Original: <https://nitafarahany.substack.com/p/chinas-ai-governance-inside-my-ai>*
+
+In a lecture from her Duke Law course on AI law and policy, Nita Farahany describes China's AI governance as three layers: foundational data and cybersecurity laws, targeted rules for specific technologies such as recommendation algorithms, deepfakes and generative AI, and non-binding technical standards. She notes that public AI models are registered with the Cyberspace Administration of China before release and that users are verified by real name.
+
+She argues that the European Union, the United States and China are pursuing different goals: the EU sets rules others follow, the U.S. relies on staying at the technological frontier, and China builds leverage through materials, robotics, free AI models and ties with developing countries.
+
+
+===== FILE: news/IS_NEWS_2025-12-12-analysis-the-executive-order-aimed-at-state-ai-laws-and-the-constitutional-questions-it-raises.md · ID: IS-NEWS-2025-12-12-ANALYSIS-THE-EXECUTIVE-ORDER-AIMED-AT-STATE-AI-LAWS-AND-THE-CONSTITUTIONAL-QUESTIONS-IT-RAISES =====
+
+```yaml
+id: IS-NEWS-2025-12-12-ANALYSIS-THE-EXECUTIVE-ORDER-AIMED-AT-STATE-AI-LAWS-AND-THE-CONSTITUTIONAL-QUESTIONS-IT-RAISES
+slug: 2025-12-12-analysis-the-executive-order-aimed-at-state-ai-laws-and-the-constitutional-questions-it-raises
+title: The executive order aimed at state AI laws, and the constitutional questions it raises
+collection: news
+doc_type: analysis-item
+date: 2025-12-12
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/the-executive-order-that-could-kill
+archived_url: https://web.archive.org/web/20261110225445/https://nitafarahany.substack.com/p/the-executive-order-that-could-kill
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), first batch, 10 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# The executive order aimed at state AI laws, and the constitutional questions it raises
+
+*Nita Farahany, Thinking Freely (Substack), 2025-12-12. Original: <https://nitafarahany.substack.com/p/the-executive-order-that-could-kill>*
+
+Nita Farahany analyses the executive order of 11 December 2025, "Ensuring A National Policy Framework for Artificial Intelligence", which sets up a list of state AI laws the administration considers burdensome, ties some broadband funding to it, creates a Justice Department task force to challenge state laws, and asks federal agencies to consider overriding them.
+
+She sets out the arguments for and against each step under the Constitution's spending, commerce and separation-of-powers principles, notes that the Senate voted 99 to 1 in 2025 to remove a similar pause on state AI laws from the budget bill, and expects court challenges to take years. She names Colorado's AI law as one likely target.
+
+
 ===== FILE: news/IS_NEWS_2026-01-01-gostech-unified-digital-platform-of-the-russian-federation.md · ID: IS-NEWS-2026-01-01-GOSTECH-UNIFIED-DIGITAL-PLATFORM-OF-THE-RUSSIAN-FEDERATION =====
 
 ```yaml
@@ -9419,6 +9652,43 @@ disclaimer: meta/IS_META_terms.md
 TAdviser's reference article describes GosTech, Russia's single state platform for building and running government information systems on shared cloud infrastructure. The Ministry of Digital Development coordinates it, a federal institution called State Technologies operates it, and Rostelecom and Sberbank are the main contractors.
 
 It began as an experiment in 2022, was approved by presidential decree in April 2023 and was put into federal law in November 2025. By September 2025, 52 government systems ran on it. Full migration to GosTech 2.0 is planned for December 2027.
+
+
+===== FILE: news/IS_NEWS_2026-01-06-analysis-cognitive-liberty-in-the-age-of-corporate-ai-needs-enforceable-law.md · ID: IS-NEWS-2026-01-06-ANALYSIS-COGNITIVE-LIBERTY-IN-THE-AGE-OF-CORPORATE-AI-NEEDS-ENFORCEABLE-LAW =====
+
+```yaml
+id: IS-NEWS-2026-01-06-ANALYSIS-COGNITIVE-LIBERTY-IN-THE-AGE-OF-CORPORATE-AI-NEEDS-ENFORCEABLE-LAW
+slug: 2026-01-06-analysis-cognitive-liberty-in-the-age-of-corporate-ai-needs-enforceable-law
+title: Cognitive liberty in the age of corporate AI needs enforceable law
+collection: news
+doc_type: analysis-item
+date: 2026-01-06
+date_precision: day
+publisher: Tech Policy Press
+source_type: Analysis
+issuing_office: 
+url: https://techpolicy.press/the-battle-for-cognitive-liberty-in-the-age-of-corporate-ai
+archived_url: https://web.archive.org/web/20261015075034/https://www.techpolicy.press/the-battle-for-cognitive-liberty-in-the-age-of-corporate-ai/
+industry: Artificial intelligence · Neurotechnology
+event: Regulation & law
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Courtney C. Radsch
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), first batch, 10 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Cognitive liberty in the age of corporate AI needs enforceable law
+
+*Courtney C. Radsch, Tech Policy Press, 2026-01-06. Original: <https://techpolicy.press/the-battle-for-cognitive-liberty-in-the-age-of-corporate-ai>*
+
+Courtney C. Radsch argues in Tech Policy Press that AI products from a few large companies are moving from tools to systems that capture attention, shape emotion and blur suggestion with control, pointing to lawsuits over chatbots and AI companions.
+
+She calls for binding rules: bans on cognitive manipulation, duties of loyalty for AI assistants, strict limits on collecting neural and biometric data, and breaking up companies that control every layer of AI.
 
 
 ===== FILE: news/IS_NEWS_2026-01-12-former-u-s-navy-sailor-sentenced-to-200-months-for-spying.md · ID: IS-NEWS-2026-01-12-FORMER-U-S-NAVY-SAILOR-SENTENCED-TO-200-MONTHS-FOR-SPYING =====
@@ -9629,6 +9899,80 @@ disclaimer: meta/IS_META_terms.md
 Amazon Web Services won a £472.8 million contract, as the only bidder, to move HM Revenue & Customs systems out of three data centres run by Fujitsu, The Register reports. The systems run older operating systems, including HP-UX, IBM AIX and Solaris. The contract runs at least seven years, to 2033.
 
 Google and IBM withdrew. Sources told The Register the tender ruled out hybrid cloud and left the government no leverage to negotiate.
+
+
+===== FILE: news/IS_NEWS_2026-03-30-analysis-the-fifth-amendment-protects-thought-not-the-body-neural-devices-blur-the-line.md · ID: IS-NEWS-2026-03-30-ANALYSIS-THE-FIFTH-AMENDMENT-PROTECTS-THOUGHT-NOT-THE-BODY-NEURAL-DEVICES-BLUR-THE-LINE =====
+
+```yaml
+id: IS-NEWS-2026-03-30-ANALYSIS-THE-FIFTH-AMENDMENT-PROTECTS-THOUGHT-NOT-THE-BODY-NEURAL-DEVICES-BLUR-THE-LINE
+slug: 2026-03-30-analysis-the-fifth-amendment-protects-thought-not-the-body-neural-devices-blur-the-line
+title: The Fifth Amendment protects thought, not the body; neural devices blur the line
+collection: news
+doc_type: analysis-item
+date: 2026-03-30
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/the-government-can-take-your-blood
+archived_url: https://web.archive.org/web/20261110230337/https://nitafarahany.substack.com/p/the-government-can-take-your-blood
+industry: Neurotechnology · Artificial intelligence
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), first batch, 10 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# The Fifth Amendment protects thought, not the body; neural devices blur the line
+
+*Nita Farahany, Thinking Freely (Substack), 2026-03-30. Original: <https://nitafarahany.substack.com/p/the-government-can-take-your-blood>*
+
+In a class on cognitive evidence, Nita Farahany explains that the Fifth Amendment protects a person from being forced to testify against themselves, which courts have read to cover what comes from the mind but not physical evidence such as blood or fingerprints. She traces how Fisher v. United States (1976) and United States v. Hubbell (2000) extended protection to producing evidence when it requires a suspect's own thinking.
+
+She argues that wristbands that read the intention to move before movement happens, and AI conversation logs that record thinking in progress, strain the line between body and mind, and that courts have not settled where it now falls.
+
+
+===== FILE: news/IS_NEWS_2026-03-30-analysis-who-owns-digital-thoughts-the-limits-of-property-law-and-unesco-s-neurotechnology-recommen.md · ID: IS-NEWS-2026-03-30-ANALYSIS-WHO-OWNS-DIGITAL-THOUGHTS-THE-LIMITS-OF-PROPERTY-LAW-AND-UNESCO-S-NEUROTECHNOLOGY-RECOMMEN =====
+
+```yaml
+id: IS-NEWS-2026-03-30-ANALYSIS-WHO-OWNS-DIGITAL-THOUGHTS-THE-LIMITS-OF-PROPERTY-LAW-AND-UNESCO-S-NEUROTECHNOLOGY-RECOMMEN
+slug: 2026-03-30-analysis-who-owns-digital-thoughts-the-limits-of-property-law-and-unesco-s-neurotechnology-recommen
+title: Who owns digital thoughts? The limits of property law and UNESCO's neurotechnology recommendation
+collection: news
+doc_type: analysis-item
+date: 2026-03-30
+date_precision: day
+publisher: Stanford Law School, Law and Biosciences Blog
+source_type: Analysis
+issuing_office: 
+url: https://law.stanford.edu/2026/03/30/who-owns-digital-thoughts-the-limits-of-property-law-and-the-2025-unesco-recommendation-on-the-ethics-of-neurotechnology/
+archived_url: https://web.archive.org/web/20260702013027/https://law.stanford.edu/2026/03/30/who-owns-digital-thoughts-the-limits-of-property-law-and-the-2025-unesco-recommendation-on-the-ethics-of-neurotechnology/
+industry: Neurotechnology · Artificial intelligence
+event: Regulation & law
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Bo Hyoung Lee
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), first batch, 10 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Who owns digital thoughts? The limits of property law and UNESCO's neurotechnology recommendation
+
+*Bo Hyoung Lee, Stanford Law School, Law and Biosciences Blog, 2026-03-30. Original: <https://law.stanford.edu/2026/03/30/who-owns-digital-thoughts-the-limits-of-property-law-and-the-2025-unesco-recommendation-on-the-ethics-of-neurotechnology/>*
+
+Writing on Stanford Law School's Law and Biosciences Blog, Bo Hyoung Lee argues that treating neural data as property that can be sold risks making it a routine condition of jobs, insurance and services, and that U.S. notice-and-consent privacy law does not fit information about a person's mental life.
+
+The post describes UNESCO's 2025 Recommendation on the Ethics of Neurotechnology as a human-rights framework built on dignity, freedom of thought and mental privacy, but notes it is not binding and relies on consent. It recommends stronger safeguards for neural data, limits on requiring it for work or services, and a right to see and contest AI inferences.
 
 
 ===== FILE: news/IS_NEWS_2026-04-03-us-states-build-patchwork-of-neural-data-privacy-laws.md · ID: IS-NEWS-2026-04-03-US-STATES-BUILD-PATCHWORK-OF-NEURAL-DATA-PRIVACY-LAWS =====
@@ -11243,6 +11587,43 @@ disclaimer: meta/IS_META_terms.md
 The White House said in a fact sheet on 8 October 2026 that eleven industry partners have committed $2.4 billion in AI tools and computing credits to the Genesis Mission, a federal programme that uses AI for scientific research across more than 15 agencies. According to the fact sheet, the announcements also include new Department of Energy fellowships and funding for AI-enabled instruments and autonomous laboratories.
 
 The fact sheet also describes a $1.8 billion "virtual biology" initiative by the National Institutes of Health, the Department of Energy and a non-profit partner to build AI models of cells and biological systems. Nextgov/FCW reported that the announcements were made at a White House AI science summit the same day.
+
+
+===== FILE: news/IS_NEWS_2026-10-08-analysis-protecting-neural-data-is-necessary-but-not-enough-to-protect-privacy-of-the-mind.md · ID: IS-NEWS-2026-10-08-ANALYSIS-PROTECTING-NEURAL-DATA-IS-NECESSARY-BUT-NOT-ENOUGH-TO-PROTECT-PRIVACY-OF-THE-MIND =====
+
+```yaml
+id: IS-NEWS-2026-10-08-ANALYSIS-PROTECTING-NEURAL-DATA-IS-NECESSARY-BUT-NOT-ENOUGH-TO-PROTECT-PRIVACY-OF-THE-MIND
+slug: 2026-10-08-analysis-protecting-neural-data-is-necessary-but-not-enough-to-protect-privacy-of-the-mind
+title: Protecting neural data is necessary but not enough to protect privacy of the mind
+collection: news
+doc_type: analysis-item
+date: 2026-10-08
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/rethinking-privacy-of-the-mind-why
+archived_url: https://web.archive.org/web/20261017102535/https://danielsolove.substack.com/p/rethinking-privacy-of-the-mind-why
+industry: Neurotechnology · Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), first batch, 10 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Protecting neural data is necessary but not enough to protect privacy of the mind
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-10-08. Original: <https://danielsolove.substack.com/p/rethinking-privacy-of-the-mind-why>*
+
+Daniel J. Solove, a privacy-law professor at George Washington University Law School, reviews state laws in California, Colorado, Connecticut, Delaware and Vermont that make neural data sensitive data, along with Montana's law and the proposed federal MIND Act.
+
+He argues that these laws fall short because many cover only the central nervous system, because opt-in consent and impact assessments are weak protections in practice, and because mental states can be inferred from behaviour and other non-neural data. He calls for rethinking how personal data is collected and used more broadly.
 
 
 ===== FILE: news/IS_NEWS_2026-10-08-building-trust-and-transparency-into-generative-ai-development.md · ID: IS-NEWS-2026-10-08-BUILDING-TRUST-AND-TRANSPARENCY-INTO-GENERATIVE-AI-DEVELOPMENT =====
@@ -14642,6 +15023,43 @@ disclaimer: meta/IS_META_terms.md
 Biometric Update reports that a federal court issued a preliminary injunction on 21 October 2026 restricting voter-related field operations by Homeland Security Investigations in nine states. The article says a stay of the order expired on 23 October, and that no government appeal had appeared on public dockets when it was written. According to the publication, the order runs through Election Day unless a higher court steps in.
 
 The article says the case record describes about 48.2 million voter-related records from other sources and about 50.6 million Justice Department records drawn from state voter rolls. It says these were "enriched" with immigration records, commercial identity databases and law enforcement records. The publication notes that the sequence of events it describes does not by itself establish cause and effect. This is interim relief, not a final ruling.
+
+
+===== FILE: news/IS_NEWS_2026-10-26-analysis-how-much-does-ai-raise-the-risk-of-weapons-of-mass-destruction-and-who-gets-watched-to-fin.md · ID: IS-NEWS-2026-10-26-ANALYSIS-HOW-MUCH-DOES-AI-RAISE-THE-RISK-OF-WEAPONS-OF-MASS-DESTRUCTION-AND-WHO-GETS-WATCHED-TO-FIN =====
+
+```yaml
+id: IS-NEWS-2026-10-26-ANALYSIS-HOW-MUCH-DOES-AI-RAISE-THE-RISK-OF-WEAPONS-OF-MASS-DESTRUCTION-AND-WHO-GETS-WATCHED-TO-FIN
+slug: 2026-10-26-analysis-how-much-does-ai-raise-the-risk-of-weapons-of-mass-destruction-and-who-gets-watched-to-fin
+title: How much does AI raise the risk of weapons of mass destruction, and who gets watched to find out?
+collection: news
+doc_type: analysis-item
+date: 2026-10-26
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/chemical-biological-radiological
+archived_url: https://web.archive.org/web/20261110225916/https://nitafarahany.substack.com/p/chemical-biological-radiological
+industry: Artificial intelligence · Biotechnology & health
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), first batch, 10 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# How much does AI raise the risk of weapons of mass destruction, and who gets watched to find out?
+
+*Nita Farahany, Thinking Freely (Substack), 2026-10-26. Original: <https://nitafarahany.substack.com/p/chemical-biological-radiological>*
+
+Nita Farahany reviews what is known about AI helping people develop chemical, biological, radiological or nuclear weapons, citing the 2026 International AI Safety Report's finding that the size of the added risk cannot yet be measured, partly because weapons treaties and security laws restrict the research that would measure it.
+
+She describes current U.S. measures as largely voluntary, including the June 2026 executive order's pre-release testing, alongside binding limits on Defense Department purchases of AI models from adversary countries. She argues that each proposed safeguard leads back to more surveillance, first of AI models and then of the people who use them.
 
 
 ===== FILE: news/IS_NEWS_2026-10-26-cbp-plans-up-to-50m-contract-for-biometrics-ai-integration.md · ID: IS-NEWS-2026-10-26-CBP-PLANS-UP-TO-50M-CONTRACT-FOR-BIOMETRICS-AI-INTEGRATION =====
