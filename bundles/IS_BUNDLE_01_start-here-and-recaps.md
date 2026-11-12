@@ -4,7 +4,7 @@ title: "Start here, and every recap"
 collection: bundles
 doc_type: bundle
 files: 32
-approx_tokens: 39,747
+approx_tokens: 39,757
 contains: [00-START-HERE.md, summaries]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -59,7 +59,7 @@ This file joins 32 files from the Invisible Ships archive so it can be uploaded 
 
 # Invisible Ships — start here
 
-*The research archive behind invisibleships.com, compiled by Sean C. Harris · generated 2026-11-11 · 1,448 files · about 1,286,000 words*
+*The research archive behind invisibleships.com, compiled by Sean C. Harris · generated 2026-11-11 · 1,451 files · about 1,291,000 words*
 
 This is the first file to read, for a person or for an AI assistant. It covers:
 1. Instructions for an AI assistant that has been given this archive
@@ -147,7 +147,7 @@ Use these formats:
 | **Concepts** | The archive's arguments and headline findings | 60 | 107,000 | `summaries/IS_SUM_concepts.md` |
 | **Glossary** | Terms from the source series and terms written for the site | 88 | 38,000 | `summaries/IS_SUM_glossary.md` |
 | **Research** | Crime, public health, government cloud: briefs and row data | 148 | 254,000 | `summaries/IS_SUM_research.md` |
-| **News** | Official releases, outside reporting and thought leaders' analysis, summarised and linked; the Brain on the law | 437 | 199,000 | `summaries/IS_SUM_news.md` |
+| **News** | Official releases, outside reporting and thought leaders' analysis, summarised and linked; neurorights and the law | 440 | 206,000 | `summaries/IS_SUM_news.md` |
 | **Terms** | Disclaimer, copyright, content warning, vocabulary | 10 | 6,000 | `summaries/IS_SUM_terms.md` |
 | **Recaps** | Short recaps of every part and month (AI-assisted) | 31 | 34,000 | `summaries/IS_SUM_00_overview.md` |
 
@@ -324,7 +324,7 @@ The Journal, Concepts, Research and Glossary pages on **invisibleships.com** are
 | `research/` | 11 | The raw researched rows the charts were built from. |
 | `bundles/` | 9 | The archive as nine large files, one per part, for loading into an AI assistant. |
 | `meta/` | 8 | Terms, disclaimer, content warning, author statement, tag vocabulary. |
-| `law/` | 4 | The Brain: where the law stands on AI, neural data, surveillance and war. Not legal advice. |
+| `law/` | 7 | Neurorights and the law: what neurorights are, whether they are protected, and what the law says place by place. Not legal advice. |
 | `upcoming/` | 2 | Planning notes for content not yet written. Not completed entries — do not cite. |
 | `documents/` | 1 | The register of the source document series. |
 

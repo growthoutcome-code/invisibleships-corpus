@@ -1,7 +1,7 @@
 ---
 id: IS-LAW-CHINA
 slug: china
-title: "The Brain: China"
+title: "The law: China"
 collection: law
 doc_type: law-reference
 updated: 2026-11-10
@@ -9,7 +9,7 @@ author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved. Linked sources belong to their publishers.
 disclaimer: meta/IS_META_terms.md
 ---
-# The Brain: China
+# The law: China
 
 ## Three layers of AI governance
 
@@ -23,7 +23,7 @@ Companies need consent for sensitive personal data, and AI content is tightly co
 
 ## Analysis
 
-Nita Farahany (*Thinking Freely*, 1 December 2025) describes China's approach as targeted rules for specific technologies that let regulators move fast at the cost of predictability, coordinated across agencies led by the Cyberspace Administration. Abroad, China offers free AI models, proposes a World AI Cooperation Organization based in Shanghai, and controls rare-earth materials needed for chips. She has also noted that China pairs investment in brain-computer interfaces with research on cognitive warfare and robotics (September 2025).
+Nita Farahany ([*Thinking Freely*, 1 December 2025](https://nitafarahany.substack.com/p/chinas-ai-governance-inside-my-ai)) describes China's approach as targeted rules for specific technologies that let regulators move fast at the cost of predictability, coordinated across agencies led by the Cyberspace Administration. Abroad, China offers free AI models, proposes a World AI Cooperation Organization based in Shanghai, and controls rare-earth materials needed for chips. She has also noted that China pairs investment in brain-computer interfaces with research on cognitive warfare and robotics (September 2025).
 
 ## Being written
 

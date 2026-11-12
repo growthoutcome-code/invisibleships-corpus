@@ -3,7 +3,7 @@
 
 # Invisible Ships: ask questions of the archive
 
-The Invisible Ships archive is about 2,630 pages: journal entries, recordings written out as text, documents, research and news. You can give it to an AI assistant and ask it questions in plain English, the way you would ask a colleague who has read the whole file.
+The Invisible Ships archive is about 2,640 pages: journal entries, recordings written out as text, documents, research and news. You can give it to an AI assistant and ask it questions in plain English, the way you would ask a colleague who has read the whole file.
 
 This page walks you through it in six steps. You don't need any technical knowledge, and you don't need an IT department. Do them in order: the prompt and the questions only work once the files are loaded.
 
@@ -27,7 +27,7 @@ AI assistants don't read pages; they read **tokens**, small pieces of words. Thi
 
 ## 3. Download
 
-**[⬇ The archive, ready for AI](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/invisible-ships-for-ai.zip)** (9 files, zipped · about 2,630 pages · 2.05M tokens)
+**[⬇ The archive, ready for AI](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/invisible-ships-for-ai.zip)** (9 files, zipped · about 2,640 pages · 2.05M tokens)
 
 Everything an AI needs: the journal in four parts, the documents, the concepts and glossary, the research and the news, one file each. Download it, then unzip it: on Windows, right-click it and choose *Extract All*; on a Mac, double-click it. You'll have a folder of nine files.
 
@@ -47,7 +47,7 @@ Everything an AI needs: the journal in four parts, the documents, the concepts a
 
 </details>
 
-Need every entry as its own file, for a developer or a records system? Download [the complete archive](https://github.com/growthoutcome-code/invisibleships-corpus/archive/refs/heads/main.zip) (1,448 files).
+Need every entry as its own file, for a developer or a records system? Download [the complete archive](https://github.com/growthoutcome-code/invisibleships-corpus/archive/refs/heads/main.zip) (1,451 files).
 
 ## 4. Upload
 
