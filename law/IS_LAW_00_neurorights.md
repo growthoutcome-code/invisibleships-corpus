@@ -54,7 +54,7 @@ The News on this site follows these sources. When one of them shows a neural-dat
 
 ## When a privacy law does not apply, criminal law still does
 
-Several neural-data laws exempt government handling of data. That exemption is about data-handling rules. It does not make crimes lawful. In the United States, harassment and stalking are crimes for anyone, including people working for a government; it is a federal crime for two or more people to conspire to injure or intimidate someone in exercising their rights (18 U.S.C. § 241), and for anyone acting under official authority to deprive a person of their rights (18 U.S.C. § 242); and people can sue officials who violate their rights under state authority (42 U.S.C. § 1983).
+Several neural-data laws exempt government handling of data. That exemption is about data-handling rules. It does not make crimes lawful. In the United States, harassment and stalking are crimes for anyone, including people working for a government; it is a federal crime for two or more people to conspire to injure or intimidate someone in exercising their rights (18 U.S.C. § 241), and for anyone acting under official authority to deprive a person of their rights (18 U.S.C. § 242); and people can sue officials who violate their rights under state authority (42 U.S.C. § 1983). The *Crime* section below sets out these laws, the case in which they were used, and where to report.
 
 ## Three ways of governing AI
 

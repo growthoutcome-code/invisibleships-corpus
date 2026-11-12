@@ -3,8 +3,8 @@ id: IS-BUNDLE-07-CONCEPTS-GLOSSARY-TERMS
 title: "Concepts, glossary and terms"
 collection: bundles
 doc_type: bundle
-files: 153
-approx_tokens: 151,750
+files: 155
+approx_tokens: 152,781
 contains: [concepts, glossary, glossary-site, meta]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -15,7 +15,7 @@ disclaimer: meta/IS_META_terms.md
 
 The archive's arguments and findings, both glossaries, and the terms, disclaimer and content warning.
 
-This file joins 153 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
+This file joins 155 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 
@@ -104,6 +104,7 @@ This file joins 153 files from the Invisible Ships archive so it can be uploaded
 - `glossary-site/IS_GLO_SITE_calcium-imaging.md` — Glossary — calcium imaging
 - `glossary-site/IS_GLO_SITE_colorado-privacy-act.md` — Glossary — Colorado Privacy Act
 - `glossary-site/IS_GLO_SITE_contact-microphone.md` — Glossary — contact microphone
+- `glossary-site/IS_GLO_SITE_counterterrorism.md` — Glossary — counterterrorism
 - `glossary-site/IS_GLO_SITE_crimes-against-humanity.md` — Glossary — crimes against humanity
 - `glossary-site/IS_GLO_SITE_directed-energy.md` — Glossary — Directed-energy
 - `glossary-site/IS_GLO_SITE_diving.md` — Glossary — Diving
@@ -125,6 +126,7 @@ This file joins 153 files from the Invisible Ships archive so it can be uploaded
 - `glossary-site/IS_GLO_SITE_long-range-acoustic-device.md` — Glossary — long-range acoustic device (LRAD)
 - `glossary-site/IS_GLO_SITE_magnetoelectric-nanoparticles.md` — Glossary — magnetoelectric nanoparticles (MENPs)
 - `glossary-site/IS_GLO_SITE_microwave-auditory-effect.md` — Glossary — microwave auditory effect
+- `glossary-site/IS_GLO_SITE_military-strategy.md` — Glossary — military strategy
 - `glossary-site/IS_GLO_SITE_military-ugly-workflow.md` — Glossary — military ugly workflow
 - `glossary-site/IS_GLO_SITE_mosquito-device.md` — Glossary — the Mosquito
 - `glossary-site/IS_GLO_SITE_mrna.md` — Glossary — mRNA (messenger RNA)
@@ -5453,7 +5455,7 @@ disclaimer: meta/IS_META_terms.md
 
 # Site-authored glossary
 
-69 terms written for invisibleships.com to explain the work.
+71 terms written for invisibleships.com to explain the work.
 They are NOT extracted from the source document series and carry no
 source-document id. Terms drawn from the primary record are in
 `glossary/` and do carry one. Both sets appear on the site together.
@@ -5670,6 +5672,37 @@ One honest limit: vendor literature on technical surveillance countermeasures li
 Related terms: [structure-borne audio](/glossary/structure-borne-audio), [piezoelectricity](/glossary/piezoelectricity), [laser microphone](/glossary/laser-microphone), [sampling limit](/glossary/sampling-limit)
 
 Sources: [Contact microphone — Wikipedia](https://en.wikipedia.org/wiki/Contact_microphone); [Protection of speech information against laser eavesdropping — Journal of Vibroengineering (2016)](https://www.extrica.com/article/16943); [TSCM threats, detection equipment, practices and procedures — Bastille](https://bastille.net/centers-of-excellence/tscm-threats-detection-equipment-practices-procedures/)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_counterterrorism.md · ID: IS-GLO-SITE-COUNTERTERRORISM =====
+
+```yaml
+id: IS-GLO-SITE-COUNTERTERRORISM
+title: Glossary — counterterrorism
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: counterterrorism
+categories: [glossary, reference, glossary-military-intelligence, glossary-ethics-human-rights]
+word_count: 253
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# counterterrorism
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+KOWN·ter·TAIR·uh·riz·uhm
+
+Action against terrorism: taken directly against terrorists and their networks, and indirectly to make the places they operate hostile to them. U.S. military doctrine defines it as “actions taken directly against terrorist networks and indirectly to influence and render global and regional environments inhospitable to terrorist networks” (Joint Publication 3-26, 2009).
+
+**It is bound by the law it enforces.** The UN Security Council requires that any measure taken to counter terrorism comply with international law, in particular human rights, refugee and humanitarian law (for example, Resolution 2178, 2014). In armed conflict, civilians may never be the object of attack, and acts or threats of violence whose primary purpose is to spread terror among civilians are prohibited (Additional Protocol I to the Geneva Conventions, Article 51(2)). An operation that deliberately attacks civilians breaks these rules, whoever carries it out.
+
+Related terms: [terrorism](/glossary/terrorism), [military strategy](/glossary/military-strategy), [war crimes](/glossary/war-crimes), [Zersetzung tactics](/glossary/zersetzung-tactics)
+
+Sources: [Counterterrorism, Joint Publication 3-26 (2009) — govinfo.gov](https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo28939/pdf/GOVPUB-D-PURL-gpo28939.pdf) · [Security Council Resolution 2178 (2014) — United Nations](https://undocs.org/S/RES/2178(2014)) · [What does IHL say about terrorism? — ICRC](https://www.icrc.org/en/document/what-does-ihl-say-about-terrorism)
 
 
 ===== FILE: glossary-site/IS_GLO_SITE_crimes-against-humanity.md · ID: IS-GLO-SITE-CRIMES-AGAINST-HUMANITY =====
@@ -6301,6 +6334,37 @@ A documented phenomenon in which pulsed microwave or radio-frequency energy is p
 Related terms: [Voice-to-skull](/glossary/voice-to-skull), [Directed-energy](/glossary/directed-energy), [telepathy](/glossary/telepathy)
 
 Sources: [Microwave auditory effect — Wikipedia](https://en.wikipedia.org/wiki/Microwave_auditory_effect)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_military-strategy.md · ID: IS-GLO-SITE-MILITARY-STRATEGY =====
+
+```yaml
+id: IS-GLO-SITE-MILITARY-STRATEGY
+title: Glossary — military strategy
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: military-strategy
+categories: [glossary, reference, glossary-military-intelligence]
+word_count: 196
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# military strategy
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+MIL·ih·tair·ee STRAT·uh·jee
+
+A plan for using armed force, alone or together with a state's other powers (diplomatic, informational and economic), to reach an objective. The U.S. military defines strategy as “a prudent idea or set of ideas for employing the instruments of national power in a synchronized and integrated fashion to achieve theater, national, and/or multinational objectives” (DOD Dictionary of Military and Associated Terms).
+
+**As this work uses the term:** a military strategy can include a series of events arranged to prompt a further event. Each step sets the conditions for the next, and the event the series was built to bring about is the point of the plan.
+
+Related terms: [counterterrorism](/glossary/counterterrorism), [terrorism](/glossary/terrorism), [Zersetzung tactics](/glossary/zersetzung-tactics)
+
+Sources: [Competing Regionally: Developing Theater Strategy — NDU Press, citing the DOD Dictionary (2021)](https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2884235/competing-regionally-developing-theater-strategy/)
 
 
 ===== FILE: glossary-site/IS_GLO_SITE_military-ugly-workflow.md · ID: IS-GLO-SITE-MILITARY-UGLY-WORKFLOW =====

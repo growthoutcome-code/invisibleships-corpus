@@ -1,6 +1,6 @@
 # Invisible Ships — start here
 
-*The research archive behind invisibleships.com, compiled by Sean C. Harris · generated 2026-11-11 · 1,451 files · about 1,291,000 words*
+*The research archive behind invisibleships.com, compiled by Sean C. Harris · generated 2026-11-11 · 1,454 files · about 1,292,000 words*
 
 This is the first file to read, for a person or for an AI assistant. It covers:
 1. Instructions for an AI assistant that has been given this archive
@@ -86,9 +86,9 @@ Use these formats:
 | **Discovery Notes** | Apr – May 2026 · unofficial notes the entries are written from | 23 | 28,000 | `summaries/IS_SUM_JDN.md` |
 | **Documents** | Six reference documents, section by section | 243 | 138,000 | `summaries/IS_SUM_documents.md` |
 | **Concepts** | The archive's arguments and headline findings | 60 | 107,000 | `summaries/IS_SUM_concepts.md` |
-| **Glossary** | Terms from the source series and terms written for the site | 88 | 38,000 | `summaries/IS_SUM_glossary.md` |
+| **Glossary** | Terms from the source series and terms written for the site | 90 | 39,000 | `summaries/IS_SUM_glossary.md` |
 | **Research** | Crime, public health, government cloud: briefs and row data | 148 | 254,000 | `summaries/IS_SUM_research.md` |
-| **News** | Official releases, outside reporting and thought leaders' analysis, summarised and linked; neurorights and the law | 440 | 206,000 | `summaries/IS_SUM_news.md` |
+| **News** | Official releases, outside reporting and thought leaders' analysis, summarised and linked; neurorights and the law | 441 | 208,000 | `summaries/IS_SUM_news.md` |
 | **Terms** | Disclaimer, copyright, content warning, vocabulary | 10 | 6,000 | `summaries/IS_SUM_terms.md` |
 | **Recaps** | Short recaps of every part and month (AI-assisted) | 31 | 34,000 | `summaries/IS_SUM_00_overview.md` |
 
@@ -118,7 +118,7 @@ The archive is also provided as 9 large files, one per part, so you never have t
 | 04 | `bundles/IS_BUNDLE_04_journal-part-03.md` | Journal Part 03 (29 Sep – 8 Nov 2025) | 57 | 210,000 | 0.8 MB |
 | 05 | `bundles/IS_BUNDLE_05_journal-part-04-and-discovery-notes.md` | Journal Part 04 (9 Nov 2025 – 2026) and Discovery Notes | 105 | 282,000 | 1.1 MB |
 | 06 | `bundles/IS_BUNDLE_06_documents.md` | Documents | 243 | 160,000 | 0.6 MB |
-| 07 | `bundles/IS_BUNDLE_07_concepts-glossary-terms.md` | Concepts, glossary and terms | 153 | 156,000 | 0.6 MB |
+| 07 | `bundles/IS_BUNDLE_07_concepts-glossary-terms.md` | Concepts, glossary and terms | 155 | 157,000 | 0.6 MB |
 | 08 | `bundles/IS_BUNDLE_08_research.md` | Research: crime, public health, government cloud | 76 | 257,000 | 1.0 MB |
 | 09 | `bundles/IS_BUNDLE_09_news.md` | News | 432 | 236,000 | 0.9 MB |
 
@@ -255,7 +255,7 @@ The Journal, Concepts, Research and Glossary pages on **invisibleships.com** are
 | `news/` | 433 | Official releases and outside reporting, each summarised and linked to the original. |
 | `journal/` | 428 | The primary record — dated entries and verbatim transcripts. |
 | `references/` | 242 | The analysis and reference documents, chunked by section. |
-| `glossary-site/` | 70 | Terms written for the site to explain the work. |
+| `glossary-site/` | 72 | Terms written for the site to explain the work. |
 | `concepts/` | 60 | The archive's arguments, each labelled by basis, origin, theme and reader. |
 | `crime/` | 55 | Nine findings, their row data, and every source behind them. |
 | `government-cloud/` | 51 | Awards, deployments, litigation and capital flows. |
@@ -265,7 +265,7 @@ The Journal, Concepts, Research and Glossary pages on **invisibleships.com** are
 | `research/` | 11 | The raw researched rows the charts were built from. |
 | `bundles/` | 9 | The archive as nine large files, one per part, for loading into an AI assistant. |
 | `meta/` | 8 | Terms, disclaimer, content warning, author statement, tag vocabulary. |
-| `law/` | 7 | Neurorights and the law: what neurorights are, whether they are protected, and what the law says place by place. Not legal advice. |
+| `law/` | 8 | Neurorights and the law: what neurorights are, whether they are protected, and what the law says place by place. Not legal advice. |
 | `upcoming/` | 2 | Planning notes for content not yet written. Not completed entries — do not cite. |
 | `documents/` | 1 | The register of the source document series. |
 
