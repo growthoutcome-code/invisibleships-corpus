@@ -10,7 +10,7 @@ publisher: AJMC
 source_type: Trade press
 issuing_office: 
 url: https://www.ajmc.com/view/3-scientists-share-nobel-prize-in-physiology-or-medicine-for-optogenetics
-archived_url: 
+archived_url: https://web.archive.org/web/20261007180935/https://www.ajmc.com/view/3-scientists-share-nobel-prize-in-physiology-or-medicine-for-optogenetics
 industry: Neurotechnology · Biotechnology & health
 event: Research & breakthroughs
 country: 
@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search, date read from the article (nobelprize.org could not be read automatically)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

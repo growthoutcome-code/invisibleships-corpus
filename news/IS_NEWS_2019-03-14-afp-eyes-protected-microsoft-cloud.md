@@ -10,7 +10,7 @@ publisher: iTnews
 source_type: Trade press
 issuing_office: 
 url: https://www.itnews.com.au/news/afp-eyes-protected-microsoft-cloud-520519
-archived_url: 
+archived_url: https://web.archive.org/web/20260113054116/https://www.itnews.com.au/news/afp-eyes-protected-microsoft-cloud-520519
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

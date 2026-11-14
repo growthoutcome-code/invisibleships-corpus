@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/iranian-intelligence-officials-indicted-kidnapping-conspiracy-charges
-archived_url: 
+archived_url: https://web.archive.org/web/20261113030503/https://www.justice.gov/archives/opa/pr/iranian-intelligence-officials-indicted-kidnapping-conspiracy-charges
 industry: 
 event: Murder for hire & violent plots
 country: Iran

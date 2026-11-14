@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-employee-los-alamos-national-laboratory-sentenced-probation-making-false-statements
-archived_url: 
+archived_url: https://web.archive.org/web/20250203171036/https://www.justice.gov/opa/pr/former-employee-los-alamos-national-laboratory-sentenced-probation-making-false-statements
 industry: 
 event: Technology theft & export control
 country: China

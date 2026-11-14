@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/two-us-navy-servicemembers-arrested-transmitting-military-information-peoples-republic-china
-archived_url: 
+archived_url: https://web.archive.org/web/20250204074622/https://www.justice.gov/opa/pr/two-us-navy-servicemembers-arrested-transmitting-military-information-peoples-republic-china
 industry: 
 event: Espionage & foreign agents
 country: China

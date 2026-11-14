@@ -10,7 +10,7 @@ publisher: Federal Trade Commission
 source_type: Official
 issuing_office: 
 url: https://www.ftc.gov/news-events/news/press-releases/2023/02/ftc-enforcement-action-bar-goodrx-sharing-consumers-sensitive-health-info-advertising
-archived_url: 
+archived_url: https://web.archive.org/web/20261113035329/https://www.ftc.gov/news-events/news/press-releases/2023/02/ftc-enforcement-action-bar-goodrx-sharing-consumers-sensitive-health-info-advertising
 industry: Biotechnology & health
 event: Courts & litigation
 country: 

@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-army-special-forces-officer-charged-russian-espionage-conspiracy
-archived_url: 
+archived_url: https://web.archive.org/web/20250204073026/https://www.justice.gov/opa/pr/former-army-special-forces-officer-charged-russian-espionage-conspiracy
 industry: 
 event: Espionage & foreign agents
 country: Russia

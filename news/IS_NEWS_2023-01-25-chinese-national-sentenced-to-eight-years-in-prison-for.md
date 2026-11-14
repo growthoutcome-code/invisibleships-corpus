@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office, Northern District of Illinois
 url: https://www.justice.gov/usao-ndil/pr/chinese-national-sentenced-eight-years-prison-acting-within-us-unregistered-agent
-archived_url: 
+archived_url: https://web.archive.org/web/20261113035044/https://www.justice.gov/usao-ndil/pr/chinese-national-sentenced-eight-years-prison-acting-within-us-unregistered-agent
 industry: 
 event: Espionage & foreign agents
 country: China

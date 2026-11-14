@@ -10,7 +10,7 @@ publisher: Nextgov/FCW
 source_type: Trade press
 issuing_office: 
 url: https://www.nextgov.com/modernization/2018/11/fbis-counterterrorism-investigations-now-run-amazon/153133
-archived_url: 
+archived_url: https://web.archive.org/web/20261113011215/https://www.nextgov.com/modernization/2018/11/fbis-counterterrorism-investigations-now-run-amazon/153133/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

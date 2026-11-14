@@ -10,7 +10,7 @@ publisher: Office of the Governor of California
 source_type: Official
 issuing_office: 
 url: https://www.gov.ca.gov/2026/09/30/californias-nation-leading-ai-framework-just-got-stronger-governor-newsom-signs-more-first-in-the-nation-worker-protections-and-more/
-archived_url: 
+archived_url: https://web.archive.org/web/20261113231540/https://www.gov.ca.gov/2026/09/30/californias-nation-leading-ai-framework-just-got-stronger-governor-newsom-signs-more-first-in-the-nation-worker-protections-and-more/
 industry: Neurotechnology · Artificial intelligence
 event: Regulation & law
 country: 
@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (gov.ca.gov), date read from the release; title shortened to leave out a personal name
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

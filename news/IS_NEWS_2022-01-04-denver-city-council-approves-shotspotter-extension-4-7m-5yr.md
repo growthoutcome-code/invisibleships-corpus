@@ -10,7 +10,7 @@ publisher: Denver7
 source_type: News
 issuing_office: 
 url: https://www.denver7.com/news/local-news/denver-city-council-approves-long-contract-extension-with-gunshot-detection-company-shotspotter
-archived_url: 
+archived_url: https://web.archive.org/web/20260617125553/https://www.denver7.com/news/local-news/denver-city-council-approves-long-contract-extension-with-gunshot-detection-company-shotspotter
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

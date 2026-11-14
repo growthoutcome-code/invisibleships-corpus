@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/university-researcher-sentenced-prison-lying-grant-applications-develop-scientific-expertise
-archived_url: 
+archived_url: https://web.archive.org/web/20261113030312/https://www.justice.gov/archives/opa/pr/university-researcher-sentenced-prison-lying-grant-applications-develop-scientific-expertise
 industry: 
 event: Technology theft & export control
 country: China

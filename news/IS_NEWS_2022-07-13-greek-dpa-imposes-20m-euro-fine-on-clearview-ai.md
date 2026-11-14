@@ -10,7 +10,7 @@ publisher: IAPP
 source_type: Trade press
 issuing_office: 
 url: https://iapp.org/news/a/greek-dpa-imposes-20m-euro-fine-on-clearview-ai-for-unlawful-processing-of-personal-data
-archived_url: 
+archived_url: https://web.archive.org/web/20261113033010/https://iapp.org/news/a/greek-dpa-imposes-20m-euro-fine-on-clearview-ai-for-unlawful-processing-of-personal-data
 industry: Artificial intelligence
 event: Courts & litigation
 country: 

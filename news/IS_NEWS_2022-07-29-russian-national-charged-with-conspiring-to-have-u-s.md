@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/russian-national-charged-conspiring-have-us-citizens-act-illegal-agents-russian-government
-archived_url: 
+archived_url: https://web.archive.org/web/20250202173102/https://www.justice.gov/opa/pr/russian-national-charged-conspiring-have-us-citizens-act-illegal-agents-russian-government
 industry: 
 event: Espionage & foreign agents
 country: Russia

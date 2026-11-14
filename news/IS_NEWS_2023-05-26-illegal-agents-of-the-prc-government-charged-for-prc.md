@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/illegal-agents-prc-government-charged-prc-directed-bribery-scheme
-archived_url: 
+archived_url: https://web.archive.org/web/20261113050926/https://www.justice.gov/archives/opa/pr/illegal-agents-prc-government-charged-prc-directed-bribery-scheme
 industry: 
 event: Espionage & foreign agents
 country: China

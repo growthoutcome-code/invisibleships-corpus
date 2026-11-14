@@ -10,7 +10,7 @@ publisher: TechCrunch
 source_type: News
 issuing_office: 
 url: https://techcrunch.com/2024/03/11/edps-microsoft-365
-archived_url: 
+archived_url: https://web.archive.org/web/20261113051935/https://techcrunch.com/2024/03/11/edps-microsoft-365/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

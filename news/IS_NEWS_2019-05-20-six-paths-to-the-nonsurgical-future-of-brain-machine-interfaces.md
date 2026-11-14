@@ -10,7 +10,7 @@ publisher: Defense Advanced Research Projects Agency (DARPA)
 source_type: Official
 issuing_office: DARPA news release
 url: https://www.darpa.mil/news/2019/nonsurgical-brain-machine-interfaces
-archived_url: 
+archived_url: https://web.archive.org/web/20261113012125/https://www.darpa.mil/news/2019/nonsurgical-brain-machine-interfaces
 industry: Neurotechnology · Nanotechnology
 event: Contracts & deployments
 country: 

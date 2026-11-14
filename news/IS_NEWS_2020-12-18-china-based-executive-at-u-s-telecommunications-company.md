@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/china-based-executive-us-telecommunications-company-charged-disrupting-video-meetings
-archived_url: 
+archived_url: https://web.archive.org/web/20261113024332/https://www.justice.gov/archives/opa/pr/china-based-executive-us-telecommunications-company-charged-disrupting-video-meetings
 industry: 
 event: Transnational repression
 country: China

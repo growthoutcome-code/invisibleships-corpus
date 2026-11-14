@@ -10,7 +10,7 @@ publisher: Axios
 source_type: News
 issuing_office: 
 url: https://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025
-archived_url: 
+archived_url: https://web.archive.org/web/20261022182944/https://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025
 industry: 
 event: Reports & statistics
 country: 
@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the corpus
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

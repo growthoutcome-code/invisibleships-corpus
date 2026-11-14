@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office, District of Columbia
 url: https://www.justice.gov/usao-dc/pr/russian-national-illegal-charged-acting-agent-russian-intelligence-service-united-states
-archived_url: 
+archived_url: https://web.archive.org/web/20261113035558/https://www.justice.gov/usao-dc/pr/russian-national-illegal-charged-acting-agent-russian-intelligence-service-united-states
 industry: 
 event: Espionage & foreign agents
 country: Russia

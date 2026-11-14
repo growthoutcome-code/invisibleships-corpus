@@ -10,7 +10,7 @@ publisher: Times of Israel
 source_type: News
 issuing_office: 
 url: https://www.timesofisrael.com/amazon-to-invest-7-2b-in-israel-as-tech-giant-rolls-out-local-cloud-data-region
-archived_url: 
+archived_url: https://web.archive.org/web/20251103203729/https://www.timesofisrael.com/amazon-to-invest-7-2b-in-israel-as-tech-giant-rolls-out-local-cloud-data-region/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

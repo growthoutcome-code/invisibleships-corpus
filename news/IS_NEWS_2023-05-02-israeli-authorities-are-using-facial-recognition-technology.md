@@ -10,7 +10,7 @@ publisher: Amnesty International
 source_type: Research
 issuing_office: 
 url: https://www.amnesty.org/en/latest/news/2023/05/israel-opt-israeli-authorities-are-using-facial-recognition-technology-to-entrench-apartheid
-archived_url: 
+archived_url: https://web.archive.org/web/20261113040155/https://www.amnesty.org/en/latest/news/2023/05/israel-opt-israeli-authorities-are-using-facial-recognition-technology-to-entrench-apartheid/
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Global conflict
 country: 

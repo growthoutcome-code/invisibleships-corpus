@@ -10,7 +10,7 @@ publisher: TAdviser
 source_type: Trade press
 issuing_office: 
 url: https://tadviser.com/index.php/Article:Medical_software_in_Russia
-archived_url: 
+archived_url: https://web.archive.org/web/20261113034930/https://tadviser.com/index.php/Article:Medical_software_in_Russia
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

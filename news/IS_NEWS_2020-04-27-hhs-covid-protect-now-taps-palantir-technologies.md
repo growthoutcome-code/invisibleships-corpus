@@ -10,7 +10,7 @@ publisher: ClearanceJobs
 source_type: Trade press
 issuing_office: 
 url: https://news.clearancejobs.com/2020/04/27/hhs-covid-protect-now-taps-palantir-technologies
-archived_url: 
+archived_url: https://web.archive.org/web/20261113015608/https://news.clearancejobs.com/2020/04/27/hhs-covid-protect-now-taps-palantir-technologies/
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

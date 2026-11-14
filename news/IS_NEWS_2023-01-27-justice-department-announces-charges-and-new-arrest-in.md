@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/justice-department-announces-charges-and-new-arrest-connection-assassination-plot-directed
-archived_url: 
+archived_url: https://web.archive.org/web/20261113035114/https://www.justice.gov/archives/opa/pr/justice-department-announces-charges-and-new-arrest-connection-assassination-plot-directed
 industry: 
 event: Murder for hire & violent plots
 country: Iran

@@ -10,7 +10,7 @@ publisher: Computer Weekly
 source_type: Trade press
 issuing_office: 
 url: https://www.computerweekly.com/news/252487787/UK-Biobank-to-build-AWS-hosted-data-analysis-platform-with-DNAnexus-to-speed-research
-archived_url: 
+archived_url: https://web.archive.org/web/20260613061338/https://www.computerweekly.com/news/252487787/UK-Biobank-to-build-AWS-hosted-data-analysis-platform-with-DNAnexus-to-speed-research
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

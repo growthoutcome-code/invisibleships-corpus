@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/harvard-university-professor-and-two-chinese-nationals-charged-three-separate-china-related
-archived_url: 
+archived_url: https://web.archive.org/web/20261113013951/https://www.justice.gov/archives/opa/pr/harvard-university-professor-and-two-chinese-nationals-charged-three-separate-china-related
 industry: 
 event: Technology theft & export control
 country: China

@@ -10,7 +10,7 @@ publisher: Nextgov/FCW
 source_type: Trade press
 issuing_office: 
 url: https://www.nextgov.com/artificial-intelligence/2024/05/microsoft-deploys-air-gapped-ai-classified-cloud/396354
-archived_url: 
+archived_url: https://web.archive.org/web/20261113052517/https://www.nextgov.com/artificial-intelligence/2024/05/microsoft-deploys-air-gapped-ai-classified-cloud/396354/
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

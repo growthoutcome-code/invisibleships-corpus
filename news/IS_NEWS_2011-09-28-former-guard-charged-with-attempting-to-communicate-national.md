@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: National Security Division
 url: https://www.justice.gov/opa/pr/former-guard-charged-attempting-communicate-national-defense-information-people-s-republic
-archived_url: 
+archived_url: https://web.archive.org/web/20261113005613/https://www.justice.gov/archives/opa/pr/former-guard-charged-attempting-communicate-national-defense-information-people-s-republic
 industry: 
 event: Espionage & foreign agents
 country: China

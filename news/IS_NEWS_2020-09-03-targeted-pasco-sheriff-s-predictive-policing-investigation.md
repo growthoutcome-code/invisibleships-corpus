@@ -10,7 +10,7 @@ publisher: Tampa Bay Times
 source_type: News
 issuing_office: 
 url: https://projects.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/school-data
-archived_url: 
+archived_url: https://web.archive.org/web/20261113021906/https://projects.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/school-data/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

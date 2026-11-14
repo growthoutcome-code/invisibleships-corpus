@@ -10,7 +10,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/russia-bans-purchase-of-foreign-software-for-critical-infrastructure
-archived_url: 
+archived_url: https://web.archive.org/web/20261113032525/https://www.datacenterdynamics.com/en/news/russia-bans-purchase-of-foreign-software-for-critical-infrastructure/
 industry: 
 event: Regulation & law
 country: 

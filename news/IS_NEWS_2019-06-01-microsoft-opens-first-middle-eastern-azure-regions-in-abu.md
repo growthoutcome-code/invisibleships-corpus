@@ -10,7 +10,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/microsoft-opens-first-middle-eastern-azure-regions-abu-dhabi-and-dubai
-archived_url: 
+archived_url: https://web.archive.org/web/20261113012206/https://www.datacenterdynamics.com/en/news/microsoft-opens-first-middle-eastern-azure-regions-abu-dhabi-and-dubai/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

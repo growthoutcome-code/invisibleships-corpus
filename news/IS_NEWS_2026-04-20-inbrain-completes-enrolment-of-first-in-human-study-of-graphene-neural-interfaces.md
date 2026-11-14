@@ -10,7 +10,7 @@ publisher: Business Wire
 source_type: Trade press
 issuing_office: 
 url: https://www.businesswire.com/news/home/20260420000990/en/INBRAIN-Neuroelectronics-Completes-Enrolment-of-Worlds-First-in-Human-Study-of-Graphene-Neural-Interfaces-for-Brain-Decoding-Mapping
-archived_url: 
+archived_url: https://web.archive.org/web/20260518042519/https://www.businesswire.com/news/home/20260420000990/en/INBRAIN-Neuroelectronics-Completes-Enrolment-of-Worlds-First-in-Human-Study-of-Graphene-Neural-Interfaces-for-Brain-Decoding-Mapping
 industry: Neurotechnology · Nanotechnology
 event: Research & breakthroughs
 country: 

@@ -10,7 +10,7 @@ publisher: ARPANSA
 source_type: Official
 issuing_office: 
 url: https://www.arpansa.gov.au/who-review-finds-no-link-between-mobile-phone-use-and-brain-cancer
-archived_url: 
+archived_url: https://web.archive.org/web/20261025125303/https://www.arpansa.gov.au/who-review-finds-no-link-between-mobile-phone-use-and-brain-cancer
 industry: Biotechnology & health
 event: Research & breakthroughs
 country: 
@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: already in the site (concepts)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

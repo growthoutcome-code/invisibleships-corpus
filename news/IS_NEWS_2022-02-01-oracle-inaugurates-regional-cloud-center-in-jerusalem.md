@@ -10,7 +10,7 @@ publisher: Times of Israel
 source_type: News
 issuing_office: 
 url: https://www.timesofisrael.com/oracle-inaugurates-regional-cloud-center-in-jerusalem-plans-to-open-2nd-site
-archived_url: 
+archived_url: https://web.archive.org/web/20260330140035/https://www.timesofisrael.com/oracle-inaugurates-regional-cloud-center-in-jerusalem-plans-to-open-2nd-site/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

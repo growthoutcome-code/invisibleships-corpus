@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/chinese-national-who-worked-monsanto-indicted-economic-espionage-charges
-archived_url: 
+archived_url: https://web.archive.org/web/20261113013450/https://www.justice.gov/archives/opa/pr/chinese-national-who-worked-monsanto-indicted-economic-espionage-charges
 industry: Biotechnology & health
 event: Technology theft & export control
 country: China

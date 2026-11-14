@@ -10,7 +10,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/orange-and-huawei-launch-huawei-cloud-services-in-egypt
-archived_url: 
+archived_url: https://web.archive.org/web/20251126110207/https://www.datacenterdynamics.com/en/news/orange-and-huawei-launch-huawei-cloud-services-in-egypt/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

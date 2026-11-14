@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/us-navy-service-member-pleads-guilty-transmitting-sensitive-us-military-information-chinese
-archived_url: 
+archived_url: https://web.archive.org/web/20261113051125/https://www.justice.gov/archives/opa/pr/us-navy-service-member-pleads-guilty-transmitting-sensitive-us-military-information-chinese
 industry: 
 event: Espionage & foreign agents
 country: China

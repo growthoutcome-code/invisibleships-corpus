@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/two-arrested-operating-illegal-overseas-police-station-chinese-government
-archived_url: 
+archived_url: https://web.archive.org/web/20250203104307/https://www.justice.gov/opa/pr/two-arrested-operating-illegal-overseas-police-station-chinese-government
 industry: 
 event: Transnational repression
 country: China

@@ -10,7 +10,7 @@ publisher: Forbes
 source_type: News
 issuing_office: 
 url: https://www.forbes.com/sites/the-wiretap/2026/01/27/immigration-record-spend-on-amazon-and-trump
-archived_url: 
+archived_url: https://web.archive.org/web/20260820004341/https://www.forbes.com/sites/the-wiretap/2026/01/27/immigration-record-spend-on-amazon-and-trump/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

@@ -10,7 +10,7 @@ publisher: ExecutiveBiz
 source_type: Trade press
 issuing_office: 
 url: https://www.executivebiz.com/articles/microsoft-azure-govt-cloud-gets-fedramp-high-ato-from-va
-archived_url: 
+archived_url: https://web.archive.org/web/20260517215514/https://www.executivebiz.com/articles/microsoft-azure-govt-cloud-gets-fedramp-high-ato-from-va
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/new-york-resident-convicted-acting-covert-chinese-agent
-archived_url: 
+archived_url: https://web.archive.org/web/20250206010604/https://www.justice.gov/opa/pr/new-york-resident-convicted-acting-covert-chinese-agent
 industry: 
 event: Espionage & foreign agents
 country: China

@@ -3,7 +3,7 @@
 
 # Invisible Ships: ask questions of the archive
 
-The Invisible Ships archive is about 2,670 pages: journal entries, recordings written out as text, documents, research and news. You can give it to an AI assistant and ask it questions in plain English, the way you would ask a colleague who has read the whole file.
+The Invisible Ships archive is about 4,370 pages: journal entries, recordings written out as text, documents, research and news. You can give it to an AI assistant and ask it questions in plain English, the way you would ask a colleague who has read the whole file.
 
 This page walks you through it in six steps. You don't need any technical knowledge, and you don't need an IT department. Do them in order: the prompt and the questions only work once the files are loaded.
 
@@ -11,9 +11,9 @@ This page walks you through it in six steps. You don't need any technical knowle
 
 ## 1. What you're working with
 
-AI assistants don't read pages; they read **tokens**, small pieces of words. This archive is about **2.08M tokens**, roughly 780 tokens a page.
+AI assistants don't read pages; they read **tokens**, small pieces of words. This archive is about **2.11M tokens**, roughly 480 tokens a page.
 
-- **Every AI has a limit on how much it can read at once.** The largest read about 1 million tokens, roughly 1,300 pages, and many free chats read far less. No AI reads this whole archive in one go.
+- **Every AI has a limit on how much it can read at once.** The largest read about 1 million tokens, roughly 2,100 pages, and many free chats read far less. No AI reads this whole archive in one go.
 - **So the archive can't simply be pasted into a chat.** It has to be loaded into a tool that keeps the files and searches them for each question.
 - **Searching for exact words can be complete.** A name, a phrase, a street, a date: Claude can run a search over every file and list every match. Questions about meaning are answered from the passages the AI finds, which is a good answer but not a full read.
 - **The AI tells you what it read.** The starter prompt in step 5 makes it end every answer with a line such as *"Coverage: searched all 9 parts and quoted 6 passages from 4 files."*
@@ -27,7 +27,7 @@ AI assistants don't read pages; they read **tokens**, small pieces of words. Thi
 
 ## 3. Download
 
-**[⬇ The archive, ready for AI](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/invisible-ships-for-ai.zip)** (9 files, zipped · about 2,670 pages · 2.08M tokens)
+**[⬇ The archive, ready for AI](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/invisible-ships-for-ai.zip)** (9 files, zipped · about 4,370 pages · 2.11M tokens)
 
 Everything an AI needs: the journal in four parts, the documents, the concepts and glossary, the research and the news, one file each. Download it, then unzip it: on Windows, right-click it and choose *Extract All*; on a Mac, double-click it. You'll have a folder of nine files.
 
@@ -35,19 +35,19 @@ Everything an AI needs: the journal in four parts, the documents, the concepts a
 
 | Download | What it holds | Pages | Tokens |
 |---|---|---:|---:|
-| [⬇ Start here, and every recap](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_01_start-here-and-recaps.md) | The front door and the AI-assisted recaps of every part and month. Load this first, on any platform. | 50 | 41K |
-| [⬇ Journal Part 01 (Aug 2024 – 22 Aug 2025)](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_02_journal-part-01.md) | Front matter, typed entries and recordings. | 460 | 357K |
-| [⬇ Journal Part 02 (23 Aug – 28 Sep 2025)](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_03_journal-part-02.md) | Entries and recordings. | 450 | 350K |
-| [⬇ Journal Part 03 (29 Sep – 8 Nov 2025)](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_04_journal-part-03.md) | Entries and recordings. | 270 | 210K |
-| [⬇ Journal Part 04 (9 Nov 2025 – 2026) and Discovery Notes](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_05_journal-part-04-and-discovery-notes.md) | Entries and recordings, then the unofficial Discovery Notes. | 360 | 282K |
-| [⬇ Documents](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_06_documents.md) | The six reference documents, section by section, and the register of the source series. | 210 | 160K |
-| [⬇ Concepts, glossary and terms](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_07_concepts-glossary-terms.md) | The archive's arguments and findings, both glossaries, and the terms, disclaimer and content warning. | 200 | 157K |
-| [⬇ Research: crime, public health, government cloud](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_08_research.md) | The research briefs and their row data (CSV). The JSON copies are in the zip for code. | 330 | 257K |
-| [⬇ News](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_09_news.md) | Official releases and outside reporting, one item per section, each summarised and linked. | 340 | 267K |
+| [⬇ Start here, and every recap](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_01_start-here-and-recaps.md) | The front door and the AI-assisted recaps of every part and month. Load this first, on any platform. | 85 | 41K |
+| [⬇ Journal Part 01 (Aug 2024 – 22 Aug 2025)](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_02_journal-part-01.md) | Front matter, typed entries and recordings. | 740 | 357K |
+| [⬇ Journal Part 02 (23 Aug – 28 Sep 2025)](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_03_journal-part-02.md) | Entries and recordings. | 720 | 350K |
+| [⬇ Journal Part 03 (29 Sep – 8 Nov 2025)](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_04_journal-part-03.md) | Entries and recordings. | 430 | 210K |
+| [⬇ Journal Part 04 (9 Nov 2025 – 2026) and Discovery Notes](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_05_journal-part-04-and-discovery-notes.md) | Entries and recordings, then the unofficial Discovery Notes. | 580 | 282K |
+| [⬇ Documents](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_06_documents.md) | The six reference documents, section by section, and the register of the source series. | 330 | 160K |
+| [⬇ Concepts, glossary and terms](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_07_concepts-glossary-terms.md) | The archive's arguments and findings, both glossaries, and the terms, disclaimer and content warning. | 320 | 157K |
+| [⬇ Research: crime, public health, government cloud](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_08_research.md) | The research briefs and their row data (CSV). The JSON copies are in the zip for code. | 530 | 257K |
+| [⬇ News](https://github.com/growthoutcome-code/invisibleships-corpus/releases/latest/download/IS_BUNDLE_09_news.md) | Official releases and outside reporting, one item per section, each summarised and linked. | 620 | 300K |
 
 </details>
 
-Need every entry as its own file, for a developer or a records system? Download [the complete archive](https://github.com/growthoutcome-code/invisibleships-corpus/archive/refs/heads/main.zip) (1,499 files).
+Need every entry as its own file, for a developer or a records system? Download [the complete archive](https://github.com/growthoutcome-code/invisibleships-corpus/archive/refs/heads/main.zip) (1,914 files).
 
 ## 4. Upload
 

@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/man-charged-transnational-repression-campaign-while-acting-illegal-agent-chinese-government
-archived_url: 
+archived_url: https://web.archive.org/web/20250206051412/https://www.justice.gov/opa/pr/man-charged-transnational-repression-campaign-while-acting-illegal-agent-chinese-government
 industry: 
 event: Transnational repression
 country: China

@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/two-former-executives-china-subsidiary-multi-level-marketing-company-charged-scheme-pay
-archived_url: 
+archived_url: https://web.archive.org/web/20250203173012/https://www.justice.gov/opa/pr/two-former-executives-china-subsidiary-multi-level-marketing-company-charged-scheme-pay
 industry: 
 event: Espionage & foreign agents
 country: China

@@ -10,7 +10,7 @@ publisher: U.S. Senate (Sen. Warren)
 source_type: Official
 issuing_office: 
 url: https://www.warren.senate.gov/newsroom/press-releases/warren-leads-colleagues-demanding-answers-from-hhs-about-the-departments-handling-of-the-personal-health-information-of-millions-of-americans
-archived_url: 
+archived_url: https://web.archive.org/web/20260716131409/https://www.warren.senate.gov/newsroom/press-releases/warren-leads-colleagues-demanding-answers-from-hhs-about-the-departments-handling-of-the-personal-health-information-of-millions-of-americans/
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Regulation & law
 country: 

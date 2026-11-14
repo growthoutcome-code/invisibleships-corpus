@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-state-department-employee-sentenced-conspiring-chinese-agents
-archived_url: 
+archived_url: https://web.archive.org/web/20250201234456/https://www.justice.gov/opa/pr/former-state-department-employee-sentenced-conspiring-chinese-agents
 industry: 
 event: Espionage & foreign agents
 country: China

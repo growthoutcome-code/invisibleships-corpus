@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office, District of New Jersey
 url: https://www.justice.gov/usao-nj/pr/chinese-intelligence-officers-charged-using-academic-cover-target-individuals-united
-archived_url: 
+archived_url: https://web.archive.org/web/20261022075626/https://www.justice.gov/usao-nj/pr/chinese-intelligence-officers-charged-using-academic-cover-target-individuals-united
 industry: 
 event: Espionage & foreign agents
 country: China

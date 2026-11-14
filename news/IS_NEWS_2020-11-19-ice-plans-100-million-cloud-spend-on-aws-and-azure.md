@@ -10,7 +10,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/ice-plans-100-million-cloud-spend-aws-and-azure
-archived_url: 
+archived_url: https://web.archive.org/web/20251117061854/https://www.datacenterdynamics.com/en/news/ice-plans-100-million-cloud-spend-aws-and-azure/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

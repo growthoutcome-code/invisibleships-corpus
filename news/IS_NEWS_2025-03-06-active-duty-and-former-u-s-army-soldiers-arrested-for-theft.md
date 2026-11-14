@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/active-duty-and-former-us-army-soldiers-arrested-theft-government-property-and-bribery
-archived_url: 
+archived_url: https://web.archive.org/web/20260524194527/https://www.justice.gov/opa/pr/active-duty-and-former-us-army-soldiers-arrested-theft-government-property-and-bribery
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -18,6 +18,7 @@ stage: arrested
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

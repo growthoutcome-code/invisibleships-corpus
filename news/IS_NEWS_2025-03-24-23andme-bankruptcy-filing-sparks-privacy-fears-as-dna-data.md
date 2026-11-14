@@ -10,7 +10,7 @@ publisher: NBC News
 source_type: News
 issuing_office: 
 url: https://www.nbcnews.com/tech/security/23andme-goes-bankrupt-millions-peoples-dna-data-sale-rcna197874
-archived_url: 
+archived_url: https://web.archive.org/web/20261113221226/https://www.nbcnews.com/tech/security/23andme-goes-bankrupt-millions-peoples-dna-data-sale-rcna197874
 industry: Biotechnology & health
 event: Courts & litigation
 country: 
@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: new, found 2 Oct 2026
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

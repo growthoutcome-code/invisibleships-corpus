@@ -10,7 +10,7 @@ publisher: Nextgov/FCW
 source_type: Trade press
 issuing_office: 
 url: https://www.nextgov.com/modernization/2020/11/exclusive-cia-awards-secret-multibillion-dollar-cloud-contract/170227
-archived_url: 
+archived_url: https://web.archive.org/web/20260928100750/https://www.nextgov.com/modernization/2020/11/exclusive-cia-awards-secret-multibillion-dollar-cloud-contract/170227/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

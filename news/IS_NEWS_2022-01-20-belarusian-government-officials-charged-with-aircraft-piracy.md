@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/belarusian-government-officials-charged-aircraft-piracy-diverting-ryanair-flight-4978-arrest
-archived_url: 
+archived_url: https://web.archive.org/web/20250206044737/https://www.justice.gov/opa/pr/belarusian-government-officials-charged-aircraft-piracy-diverting-ryanair-flight-4978-arrest
 industry: 
 event: Murder for hire & violent plots
 country: Belarus

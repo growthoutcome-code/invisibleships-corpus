@@ -10,7 +10,7 @@ publisher: The Register
 source_type: Trade press
 issuing_office: 
 url: https://www.theregister.com/public-sector/2026/09/29/healthcare-campaigners-turn-up-the-heat-on-palantir-at-labour-conference/5299724
-archived_url: 
+archived_url: https://web.archive.org/web/20261105112250/https://www.theregister.com/public-sector/2026/09/29/healthcare-campaigners-turn-up-the-heat-on-palantir-at-labour-conference/5299724
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Protests
 country: 
@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search, date read from the article
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

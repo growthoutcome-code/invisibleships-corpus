@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/phd-chemist-convicted-conspiracy-steal-trade-secrets-economic-espionage-theft-trade-secrets
-archived_url: 
+archived_url: https://web.archive.org/web/20261113025915/https://www.justice.gov/archives/opa/pr/phd-chemist-convicted-conspiracy-steal-trade-secrets-economic-espionage-theft-trade-secrets
 industry: 
 event: Technology theft & export control
 country: China

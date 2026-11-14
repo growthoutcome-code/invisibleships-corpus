@@ -10,7 +10,7 @@ publisher: World Health Organization
 source_type: Official
 issuing_office: 
 url: https://www.who.int/news/item/02-03-2022-covid-19-pandemic-triggers-25-increase-in-prevalence-of-anxiety-and-depression-worldwide
-archived_url: 
+archived_url: https://web.archive.org/web/20261113031949/https://www.who.int/news/item/02-03-2022-covid-19-pandemic-triggers-25-increase-in-prevalence-of-anxiety-and-depression-worldwide
 industry: Biotechnology & health
 event: Public health
 country: 

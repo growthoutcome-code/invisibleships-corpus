@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/justice-department-announces-murder-hire-charges-against-islamic-revolutionary-guard-corps
-archived_url: 
+archived_url: https://web.archive.org/web/20261113215109/https://www.justice.gov/archives/opa/pr/justice-department-announces-murder-hire-charges-against-islamic-revolutionary-guard-corps
 industry: 
 event: Murder for hire & violent plots
 country: Iran
@@ -18,6 +18,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: DOJ NSD transnational repression list
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

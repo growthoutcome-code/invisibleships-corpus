@@ -10,7 +10,7 @@ publisher: +972 Magazine
 source_type: News
 issuing_office: 
 url: https://www.972mag.com/microsoft-cloud-israel-8200-expose
-archived_url: 
+archived_url: https://web.archive.org/web/20261026232252/https://www.972mag.com/microsoft-cloud-israel-8200-expose/
 industry: Government cloud & surveillance technology
 event: Global conflict
 country: 
@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the corpus
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

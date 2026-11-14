@@ -10,7 +10,7 @@ publisher: Military Health System
 source_type: Official
 issuing_office: 
 url: https://www.health.mil/Military-Health-Topics/Warfighter-Brain-Health/Brain-Health-Topics/Anomalous-Health-Incidents
-archived_url: 
+archived_url: https://web.archive.org/web/20261012081755/https://health.mil/Military-Health-Topics/Warfighter-Brain-Health/Brain-Health-Topics/Anomalous-Health-Incidents
 industry: Neurotechnology · Biotechnology & health
 event: Public health
 country: 

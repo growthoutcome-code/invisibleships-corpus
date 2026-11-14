@@ -10,7 +10,7 @@ publisher: The Register
 source_type: Trade press
 issuing_office: 
 url: https://www.theregister.com/2023/11/02/european_commission_oci
-archived_url: 
+archived_url: https://web.archive.org/web/20260113194311/https://www.theregister.com/2023/11/02/european_commission_oci/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

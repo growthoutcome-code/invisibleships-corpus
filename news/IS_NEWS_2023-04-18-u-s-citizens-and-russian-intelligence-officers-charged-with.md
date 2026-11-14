@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/us-citizens-and-russian-intelligence-officers-charged-conspiring-use-us-citizens-illegal
-archived_url: 
+archived_url: https://web.archive.org/web/20261113035949/https://www.justice.gov/archives/opa/pr/us-citizens-and-russian-intelligence-officers-charged-conspiring-use-us-citizens-illegal
 industry: 
 event: Espionage & foreign agents
 country: Russia

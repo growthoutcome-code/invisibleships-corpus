@@ -10,7 +10,7 @@ publisher: World Health Organization
 source_type: Official
 issuing_office: 
 url: https://www.who.int/news/item/10-08-2021-interim-statement-on-covid-19-vaccine-booster-doses
-archived_url: 
+archived_url: https://web.archive.org/web/20261106073010/https://www.who.int/news/item/10-08-2021-interim-statement-on-covid-19-vaccine-booster-doses
 industry: Biotechnology & health
 event: Public health
 country: 

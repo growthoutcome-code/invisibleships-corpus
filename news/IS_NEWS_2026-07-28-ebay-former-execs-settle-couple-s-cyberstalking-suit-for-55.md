@@ -10,7 +10,7 @@ publisher: Law.com
 source_type: Trade press
 issuing_office: 
 url: https://www.law.com/2026/07/28/ebay-former-execs-settle-mass-couples-harassment-cyberstalking-suit-for-557m
-archived_url: 
+archived_url: https://web.archive.org/web/20261113231037/https://www.law.com/2026/07/28/ebay-former-execs-settle-mass-couples-harassment-cyberstalking-suit-for-557m/?slreturn=20261113181033
 industry: 
 event: Courts & litigation
 country: 

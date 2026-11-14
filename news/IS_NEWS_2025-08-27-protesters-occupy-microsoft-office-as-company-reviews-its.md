@@ -10,7 +10,7 @@ publisher: NPR
 source_type: News
 issuing_office: 
 url: https://www.npr.org/2025/08/27/nx-s1-5518786/microsoft-protesters-office-israel
-archived_url: 
+archived_url: https://web.archive.org/web/20261113224045/https://www.npr.org/2025/08/27/nx-s1-5518786/microsoft-protesters-office-israel
 industry: Government cloud & surveillance technology
 event: Protests
 country: 
@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: new, found 1 Oct 2026
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

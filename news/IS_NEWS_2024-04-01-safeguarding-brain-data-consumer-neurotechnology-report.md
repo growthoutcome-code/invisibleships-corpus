@@ -10,7 +10,7 @@ publisher: Neurorights Foundation
 source_type: Research
 issuing_office: 
 url: https://perseus-strategies.com/wp-content/uploads/2024/04/FINAL_Consumer_Neurotechnology_Report_Neurorights_Foundation_April-1.pdf
-archived_url: 
+archived_url: https://web.archive.org/web/20261024094154/https://perseus-strategies.com/wp-content/uploads/2024/04/FINAL_Consumer_Neurotechnology_Report_Neurorights_Foundation_April-1.pdf
 industry: Neurotechnology
 event: Regulation & law
 country: 

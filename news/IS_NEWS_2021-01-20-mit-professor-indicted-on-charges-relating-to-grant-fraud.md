@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office (MA)
 url: https://www.justice.gov/usao-ma/pr/mit-professor-indicted-charges-relating-grant-fraud
-archived_url: 
+archived_url: https://web.archive.org/web/20261113024506/https://www.justice.gov/usao-ma/pr/mit-professor-indicted-charges-relating-grant-fraud
 industry: 
 event: Technology theft & export control
 country: China

@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/jacksonville-woman-pleads-guilty-attempting-illegally-exporting-maritime-raiding-craft-and
-archived_url: 
+archived_url: https://web.archive.org/web/20261113022237/https://www.justice.gov/archives/opa/pr/jacksonville-woman-pleads-guilty-attempting-illegally-exporting-maritime-raiding-craft-and
 industry: 
 event: Technology theft & export control
 country: China

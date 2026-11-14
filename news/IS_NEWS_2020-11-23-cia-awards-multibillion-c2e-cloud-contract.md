@@ -10,7 +10,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/cia-awards-multibillion-c2e-cloud-contract-aws-microsoft-google-oracle-and-ibm
-archived_url: 
+archived_url: https://web.archive.org/web/20250726003340/https://www.datacenterdynamics.com/en/news/cia-awards-multibillion-c2e-cloud-contract-aws-microsoft-google-oracle-and-ibm/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

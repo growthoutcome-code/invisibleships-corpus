@@ -10,7 +10,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/us-department-of-defense-awards-9bn-joint-warfighter-cloud-capability-to-aws-google-microsoft-and-oracle
-archived_url: 
+archived_url: https://web.archive.org/web/20250513094947/https://www.datacenterdynamics.com/en/news/us-department-of-defense-awards-9bn-joint-warfighter-cloud-capability-to-aws-google-microsoft-and-oracle/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

@@ -10,7 +10,7 @@ publisher: Nextgov/FCW
 source_type: Trade press
 issuing_office: 
 url: https://www.nextgov.com/emerging-tech/2021/12/amazon-web-services-announces-second-top-secret-cloud-region/187303
-archived_url: 
+archived_url: https://web.archive.org/web/20260630223533/https://www.nextgov.com/emerging-tech/2021/12/amazon-web-services-announces-second-top-secret-cloud-region/187303/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

@@ -10,7 +10,7 @@ publisher: U.S. Senate Commerce Committee
 source_type: Official
 issuing_office: 
 url: https://www.commerce.senate.gov/press/dem/release/sens-cantwell-schumer-markey-introduce-legislation-to-shield
-archived_url: 
+archived_url: https://web.archive.org/web/20261113224551/https://www.commerce.senate.gov/press/dem/release/sens-cantwell-schumer-markey-introduce-legislation-to-shield-americans-brain-data-from-exploitation/
 industry: Neurotechnology
 event: Regulation & law
 country: 
@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the corpus
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

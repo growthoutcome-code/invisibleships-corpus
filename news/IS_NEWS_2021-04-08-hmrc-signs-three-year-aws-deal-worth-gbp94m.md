@@ -10,7 +10,7 @@ publisher: Computer Weekly
 source_type: Trade press
 issuing_office: 
 url: https://www.computerweekly.com/news/252499036/HMRC-signs-reworked-three-year-public-cloud-deal-with-AWS-worth-94m
-archived_url: 
+archived_url: https://web.archive.org/web/20260312203341/https://www.computerweekly.com/news/252499036/HMRC-signs-reworked-three-year-public-cloud-deal-with-AWS-worth-94m
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

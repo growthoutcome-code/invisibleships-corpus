@@ -10,7 +10,7 @@ publisher: MIT Technology Review
 source_type: Trade press
 issuing_office: 
 url: https://www.technologyreview.com/2020/08/12/1006665/clearview-ai-billion-faces
-archived_url: 
+archived_url: https://web.archive.org/web/20261113021108/https://www.technologyreview.com/2020/08/12/1006665/clearview-ai-billion-faces
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

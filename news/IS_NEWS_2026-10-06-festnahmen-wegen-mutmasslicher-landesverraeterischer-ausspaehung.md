@@ -12,7 +12,7 @@ publisher: Der Generalbundesanwalt beim Bundesgerichtshof
 source_type: Official
 issuing_office: Federal Public Prosecutor General (Germany)
 url: https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2026/Pressemitteilung-vom-06-10-2026.html
-archived_url: 
+archived_url: https://web.archive.org/web/20261011071625/https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2026/Pressemitteilung-vom-06-10-2026.html
 industry: 
 event: Espionage & foreign agents
 country: Germany
@@ -20,6 +20,7 @@ stage: arrested
 related: 
 summary_status: draft
 found_via: web search (generalbundesanwalt.de), date read from the release; title translated from German (original in title_original)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

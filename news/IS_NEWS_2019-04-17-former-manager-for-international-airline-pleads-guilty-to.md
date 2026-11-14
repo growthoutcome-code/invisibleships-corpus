@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-manager-international-airline-pleads-guilty-acting-agent-chinese-government
-archived_url: 
+archived_url: https://web.archive.org/web/20250204132615/https://www.justice.gov/opa/pr/former-manager-international-airline-pleads-guilty-acting-agent-chinese-government
 industry: 
 event: Espionage & foreign agents
 country: China

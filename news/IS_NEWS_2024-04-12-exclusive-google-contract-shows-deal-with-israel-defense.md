@@ -10,7 +10,7 @@ publisher: TIME
 source_type: Trade press
 issuing_office: 
 url: https://time.com/6966102/google-contract-israel-defense-ministry-gaza-war
-archived_url: 
+archived_url: https://web.archive.org/web/20261107152236/https://time.com/6966102/google-contract-israel-defense-ministry-gaza-war/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

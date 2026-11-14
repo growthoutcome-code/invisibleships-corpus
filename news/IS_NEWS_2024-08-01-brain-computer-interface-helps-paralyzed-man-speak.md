@@ -10,7 +10,7 @@ publisher: National Institutes of Health
 source_type: Official
 issuing_office: 
 url: https://www.nih.gov/news-events/nih-research-matters/brain-computer-interface-helps-paralyzed-man-speak
-archived_url: 
+archived_url: https://web.archive.org/web/20261016043751/https://www.nih.gov/news-events/nih-research-matters/brain-computer-interface-helps-paralyzed-man-speak
 industry: Neurotechnology
 event: Research & breakthroughs
 country: 

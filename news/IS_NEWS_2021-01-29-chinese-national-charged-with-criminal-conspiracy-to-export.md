@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/chinese-national-charged-criminal-conspiracy-export-us-power-amplifiers-china
-archived_url: 
+archived_url: https://web.archive.org/web/20250201131952/https://www.justice.gov/opa/pr/chinese-national-charged-criminal-conspiracy-export-us-power-amplifiers-china
 industry: 
 event: Technology theft & export control
 country: China

@@ -10,7 +10,7 @@ publisher: European Commission
 source_type: Official
 issuing_office: 
 url: https://commission.europa.eu/news-and-media/news/ai-act-enters-force-2024-08-01_en
-archived_url: 
+archived_url: https://web.archive.org/web/20261113052726/https://commission.europa.eu/news-and-media/news/ai-act-enters-force-2024-08-01_en
 industry: Artificial intelligence
 event: Regulation & law
 country: 

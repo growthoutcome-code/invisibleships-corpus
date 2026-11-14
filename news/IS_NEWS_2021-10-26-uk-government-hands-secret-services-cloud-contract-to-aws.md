@@ -10,7 +10,7 @@ publisher: The Register
 source_type: Trade press
 issuing_office: 
 url: https://www.theregister.com/2021/10/26/uk_security_services_aws
-archived_url: 
+archived_url: https://web.archive.org/web/20260219030901/https://www.theregister.com/2021/10/26/uk_security_services_aws/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

@@ -10,7 +10,7 @@ publisher: CNIL (France)
 source_type: Official
 issuing_office: 
 url: https://www.cnil.fr/en/facial-recognition-20-million-euros-penalty-against-clearview-ai
-archived_url: 
+archived_url: https://web.archive.org/web/20241010144418/https://www.cnil.fr/en/facial-recognition-20-million-euros-penalty-against-clearview-ai
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Courts & litigation
 country: 

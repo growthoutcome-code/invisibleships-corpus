@@ -10,7 +10,7 @@ publisher: Computer Weekly
 source_type: Trade press
 issuing_office: 
 url: https://www.computerweekly.com/news/366562418/UK-government-quietly-renews-public-sector-preferential-pricing-agreement-with-AWS
-archived_url: 
+archived_url: https://web.archive.org/web/20261113051329/https://www.computerweekly.com/news/366562418/UK-government-quietly-renews-public-sector-preferential-pricing-agreement-with-AWS
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

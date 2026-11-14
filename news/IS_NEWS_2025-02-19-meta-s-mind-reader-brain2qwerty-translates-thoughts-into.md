@@ -10,7 +10,7 @@ publisher: Forbes
 source_type: News
 issuing_office: 
 url: https://www.forbes.com/sites/luisromero/2025/02/19/metas-mind-reader-brain2qwerty-translates-thoughts-into-text
-archived_url: 
+archived_url: https://web.archive.org/web/20261113220554/https://www.forbes.com/sites/luisromero/2025/02/19/metas-mind-reader-brain2qwerty-translates-thoughts-into-text/
 industry: Neurotechnology · Artificial intelligence
 event: Research & breakthroughs
 country: 

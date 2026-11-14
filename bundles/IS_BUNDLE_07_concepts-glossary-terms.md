@@ -7927,7 +7927,7 @@ supersedes: [IS_META_copyright.md, IS_META_disclaimer.md]
 source: lib/terms.ts (the same source the website renders)
 generated_by: scripts/export_terms_md.mjs
 section_count: 8
-word_count: 2492
+word_count: 2605
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 ```

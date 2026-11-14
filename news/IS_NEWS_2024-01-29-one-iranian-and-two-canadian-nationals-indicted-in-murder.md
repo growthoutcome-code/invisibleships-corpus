@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/one-iranian-and-two-canadian-nationals-indicted-murder-hire-scheme
-archived_url: 
+archived_url: https://web.archive.org/web/20250206004218/https://www.justice.gov/opa/pr/one-iranian-and-two-canadian-nationals-indicted-murder-hire-scheme
 industry: 
 event: Murder for hire & violent plots
 country: Iran

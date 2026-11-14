@@ -10,7 +10,7 @@ publisher: World Health Organization
 source_type: Official
 issuing_office: 
 url: https://www.who.int/news/item/29-06-2020-covidtimeline
-archived_url: 
+archived_url: https://web.archive.org/web/20261113020502/https://www.who.int/news/item/29-06-2020-covidtimeline
 industry: Biotechnology & health
 event: Public health
 country: 

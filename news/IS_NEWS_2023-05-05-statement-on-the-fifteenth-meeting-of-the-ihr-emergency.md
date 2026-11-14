@@ -10,7 +10,7 @@ publisher: World Health Organization
 source_type: Official
 issuing_office: 
 url: https://www.who.int/news/item/05-05-2023-statement-on-the-fifteenth-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-coronavirus-disease-(covid-19)-pandemic
-archived_url: 
+archived_url: https://web.archive.org/web/20261101211158/https://www.who.int/news/item/05-05-2023-statement-on-the-fifteenth-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-coronavirus-disease-(covid-19)-pandemic
 industry: Biotechnology & health
 event: Public health
 country: 

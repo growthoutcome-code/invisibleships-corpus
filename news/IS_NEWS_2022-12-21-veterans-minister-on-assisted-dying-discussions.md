@@ -10,7 +10,7 @@ publisher: Global News
 source_type: News
 issuing_office: 
 url: https://globalnews.ca/news/9352616/veterans-affairs-minister-year-end-maid
-archived_url: 
+archived_url: https://web.archive.org/web/20261113035013/https://globalnews.ca/news/9352616/veterans-affairs-minister-year-end-maid/
 industry: 
 event: Public health
 country: 

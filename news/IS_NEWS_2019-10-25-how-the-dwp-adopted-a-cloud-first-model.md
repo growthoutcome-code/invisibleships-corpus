@@ -10,7 +10,7 @@ publisher: Computer Weekly
 source_type: Trade press
 issuing_office: 
 url: https://www.computerweekly.com/news/252472878/How-the-DWP-lifted-two-decades-of-outsourcing-to-adopt-a-cloud-first-model
-archived_url: 
+archived_url: https://web.archive.org/web/20260316082258/https://www.computerweekly.com/news/252472878/How-the-DWP-lifted-two-decades-of-outsourcing-to-adopt-a-cloud-first-model
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

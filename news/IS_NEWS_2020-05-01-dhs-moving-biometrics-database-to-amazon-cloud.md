@@ -10,7 +10,7 @@ publisher: The Hill
 source_type: News
 issuing_office: 
 url: https://thehill.com/policy/technology/496624-dhs-moving-biometrics-database-to-amazon-cloud
-archived_url: 
+archived_url: https://web.archive.org/web/20260415102918/https://thehill.com/policy/technology/496624-dhs-moving-biometrics-database-to-amazon-cloud/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

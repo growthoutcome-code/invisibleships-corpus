@@ -10,7 +10,7 @@ publisher: TechCrunch
 source_type: News
 issuing_office: 
 url: https://techcrunch.com/2020/12/08/palantirs-fda-hhs-contract
-archived_url: 
+archived_url: https://web.archive.org/web/20261113024123/https://techcrunch.com/2020/12/08/palantirs-fda-hhs-contract/
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

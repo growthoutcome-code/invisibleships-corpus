@@ -10,7 +10,7 @@ publisher: iTnews
 source_type: Trade press
 issuing_office: 
 url: https://www.itnews.com.au/news/home-affairs-shifts-national-real-time-intelligence-system-to-azure-cloud-551904
-archived_url: 
+archived_url: https://web.archive.org/web/20260809095054/https://www.itnews.com.au/news/home-affairs-shifts-national-real-time-intelligence-system-to-azure-cloud-551904
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/russian-national-pleads-guilty-connection-conspiracy-work-russian-intelligence
-archived_url: 
+archived_url: https://web.archive.org/web/20261113010201/https://www.justice.gov/archives/opa/pr/russian-national-pleads-guilty-connection-conspiracy-work-russian-intelligence
 industry: 
 event: Espionage & foreign agents
 country: Russia

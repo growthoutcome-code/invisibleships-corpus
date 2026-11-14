@@ -10,7 +10,7 @@ publisher: Federal Trade Commission
 source_type: Official
 issuing_office: 
 url: https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without
-archived_url: 
+archived_url: https://web.archive.org/web/20261113051425/https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Courts & litigation
 country: 

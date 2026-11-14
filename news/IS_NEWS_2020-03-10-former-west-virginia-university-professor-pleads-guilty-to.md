@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-west-virginia-university-professor-pleads-guilty-fraud-enabled-him-participate-people
-archived_url: 
+archived_url: https://web.archive.org/web/20250203172134/https://www.justice.gov/opa/pr/former-west-virginia-university-professor-pleads-guilty-fraud-enabled-him-participate-people
 industry: 
 event: Technology theft & export control
 country: China

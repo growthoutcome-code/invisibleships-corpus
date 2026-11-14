@@ -10,7 +10,7 @@ publisher: Digital Health
 source_type: Trade press
 issuing_office: 
 url: https://www.digitalhealth.net/2020/12/palantir-awarded-23m-deal-to-continue-work-on-nhs-covid-19-data-store
-archived_url: 
+archived_url: https://web.archive.org/web/20260623182932/https://www.digitalhealth.net/2020/12/palantir-awarded-23m-deal-to-continue-work-on-nhs-covid-19-data-store/
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: already in the corpus
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

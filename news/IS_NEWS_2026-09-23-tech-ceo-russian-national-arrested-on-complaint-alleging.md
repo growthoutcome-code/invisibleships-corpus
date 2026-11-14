@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office, Central District of California
 url: https://www.justice.gov/usao-cdca/pr/tech-ceo-russian-national-arrested-complaint-alleging-they-hid-russian-ownership-and
-archived_url: 
+archived_url: https://web.archive.org/web/20261109180015/https://www.justice.gov/usao-cdca/pr/tech-ceo-russian-national-arrested-complaint-alleging-they-hid-russian-ownership-and
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: Russia
@@ -18,6 +18,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: justice.gov Central District of California news, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

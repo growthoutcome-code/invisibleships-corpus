@@ -10,7 +10,7 @@ publisher: Electronic Frontier Foundation
 source_type: Research
 issuing_office: 
 url: https://www.eff.org/deeplinks/2022/08/inside-fog-data-science-secretive-company-selling-mass-surveillance-local-police
-archived_url: 
+archived_url: https://web.archive.org/web/20261028073347/https://www.eff.org/deeplinks/2022/08/inside-fog-data-science-secretive-company-selling-mass-surveillance-local-police
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

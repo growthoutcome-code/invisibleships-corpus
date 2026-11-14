@@ -10,7 +10,7 @@ publisher: MassDevice
 source_type: Trade press
 issuing_office: 
 url: https://www.massdevice.com/neuralink-wins-fda-breakthrough-nod-for-vision-restoring-implant
-archived_url: 
+archived_url: https://web.archive.org/web/20260302050238/https://www.massdevice.com/neuralink-wins-fda-breakthrough-nod-for-vision-restoring-implant/
 industry: Neurotechnology
 event: Regulation & law
 country: 

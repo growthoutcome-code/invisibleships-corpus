@@ -10,7 +10,7 @@ publisher: Inside BCI
 source_type: Trade press
 issuing_office: 
 url: https://insidebci.com/policy/2026-04-03-us-states-build-patchwork-of-neural-data-privacy-laws-as-bci-market-accelerates
-archived_url: 
+archived_url: https://web.archive.org/web/20261113230550/https://insidebci.com/policy/2026-04-03-us-states-build-patchwork-of-neural-data-privacy-laws-as-bci-market-accelerates
 industry: Neurotechnology
 event: Regulation & law
 country: 
@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: new, found 1 Oct 2026
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

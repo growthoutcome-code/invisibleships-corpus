@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/chinese-businessman-charged-conspiring-steal-trade-secrets
-archived_url: 
+archived_url: https://web.archive.org/web/20250203172306/https://www.justice.gov/opa/pr/chinese-businessman-charged-conspiring-steal-trade-secrets
 industry: 
 event: Technology theft & export control
 country: China

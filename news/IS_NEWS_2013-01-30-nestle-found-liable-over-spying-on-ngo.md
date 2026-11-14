@@ -10,7 +10,7 @@ publisher: CNN Business
 source_type: Trade press
 issuing_office: 
 url: https://www.cnn.com/2013/01/30/business/swizterland-nestle-spying-civil-case/index.html
-archived_url: 
+archived_url: https://web.archive.org/web/20261113005655/https://www.cnn.com/2013/01/30/business/swizterland-nestle-spying-civil-case/index.html
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

@@ -10,7 +10,7 @@ publisher: U.S. Food and Drug Administration
 source_type: Official
 issuing_office: 
 url: https://www.fda.gov/news-events/press-announcements/fda-takes-key-action-fight-against-covid-19-issuing-emergency-use-authorization-first-covid-19
-archived_url: 
+archived_url: https://web.archive.org/web/20250522121213/https://www.fda.gov/news-events/press-announcements/fda-takes-key-action-fight-against-covid-19-issuing-emergency-use-authorization-first-covid-19
 industry: Biotechnology & health
 event: Public health
 country: 

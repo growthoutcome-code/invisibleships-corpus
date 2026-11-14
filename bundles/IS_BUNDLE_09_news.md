@@ -3,8 +3,8 @@ id: IS-BUNDLE-09-NEWS
 title: "News"
 collection: bundles
 doc_type: bundle
-files: 477
-approx_tokens: 244,843
+files: 510
+approx_tokens: 276,605
 contains: [news]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -15,7 +15,7 @@ disclaimer: meta/IS_META_terms.md
 
 Official releases and outside reporting, one item per section, each summarised and linked.
 
-This file joins 477 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
+This file joins 510 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 
@@ -295,18 +295,38 @@ This file joins 477 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2025-09-25-the-mind-act-neural-data-bill-in-congress.md` — The MIND Act: neural data bill in Congress
 - `news/IS_NEWS_2025-09-29-analysis-why-ai-decisions-are-hard-to-explain-and-why-transparency-laws-may-not-help-the-people-affected.md` — Why AI decisions are hard to explain, and why transparency laws may not help the people affected
 - `news/IS_NEWS_2025-09-30-analysis-a-consumer-neural-wristband-launches-but-cameras-reading-faces-may-already-reveal-brain-activity.md` — A consumer neural wristband launches, but cameras reading faces may already reveal brain activity
+- `news/IS_NEWS_2025-10-01-analysis-who-pays-when-ai-causes-harm-product-liability-europe-s-withdrawn-directive-and-a-proposed-u-s.md` — Who pays when AI causes harm? Product liability, Europe's withdrawn directive and a proposed U.S. federal law
+- `news/IS_NEWS_2025-10-06-analysis-testing-ai-for-safety-when-models-can-tell-they-are-being-tested.md` — Testing AI for safety when models can tell they are being tested
+- `news/IS_NEWS_2025-10-08-analysis-how-the-law-treats-people-who-probe-ai-for-flaws-and-how-two-u-s-states-answered-differently.md` — How the law treats people who probe AI for flaws, and how two U.S. states answered differently
+- `news/IS_NEWS_2025-10-09-analysis-lawsuits-over-teen-deaths-after-chatbot-conversations-test-whether-chatbot-output-is-protected.md` — Lawsuits over teen deaths after chatbot conversations test whether chatbot output is protected speech
+- `news/IS_NEWS_2025-10-20-analysis-what-deepfakes-are-how-they-are-made-where-the-harm-falls-and-why-detection-keeps-failing.md` — What deepfakes are, how they are made, where the harm falls and why detection keeps failing
+- `news/IS_NEWS_2025-10-22-analysis-why-governing-deepfakes-and-ai-errors-is-so-hard-traced-through-six-points-of-intervention.md` — Why governing deepfakes and AI errors is so hard, traced through six points of intervention
 - `news/IS_NEWS_2025-10-22-denver-bans-sharing-of-alpr-data-with-feds-in-five-month.md` — Denver bans sharing of ALPR data with feds in five-month Flock extension
 - `news/IS_NEWS_2025-10-22-state-of-local-news-3-500-newspapers-gone-medill.md` — State of local news: 3,500 newspapers gone (Medill)
+- `news/IS_NEWS_2025-10-28-analysis-when-does-ai-cross-from-causing-harm-to-manipulating-people-a-two-part-test-applied-to-a-compan.md` — When does AI cross from causing harm to manipulating people? A two-part test applied to a companion chatbot case
+- `news/IS_NEWS_2025-10-29-analysis-five-legal-approaches-to-ai-manipulation-and-why-none-works-alone.md` — Five legal approaches to AI manipulation, and why none works alone
 - `news/IS_NEWS_2025-10-29-inside-israel-deal-with-google-and-amazon-project-nimbus.md` — Inside Israel deal with Google and Amazon (Project Nimbus)
 - `news/IS_NEWS_2025-10-30-two-russian-mob-leaders-sentenced-to-25-years-in-prison-for.md` — Two Russian Mob Leaders Sentenced To 25 Years In Prison For Murder-For-Hire Targeting A Journalist On Behalf Of The Iranian Government
 - `news/IS_NEWS_2025-11-01-recommendation-on-the-ethics-of-neurotechnology.md` — Recommendation on the ethics of neurotechnology
+- `news/IS_NEWS_2025-11-03-analysis-privacy-law-in-an-ai-world-inferred-shared-and-synthetic-data-that-current-law-misses.md` — Privacy law in an AI world: inferred, shared and synthetic data that current law misses
+- `news/IS_NEWS_2025-11-06-analysis-hiring-algorithms-and-personalised-prices-three-legal-frameworks-for-invisible-automated-judgme.md` — Hiring algorithms and personalised prices: three legal frameworks for invisible automated judgments
+- `news/IS_NEWS_2025-11-10-analysis-the-eu-ai-act-meets-its-first-simplification-push-before-it-is-fully-in-force.md` — The EU AI Act meets its first simplification push before it is fully in force
 - `news/IS_NEWS_2025-11-12-analysis-how-the-european-union-regulates-ai-and-why-one-system-can-face-many-laws-at-once.md` — How the European Union regulates AI, and why one system can face many laws at once
+- `news/IS_NEWS_2025-11-14-analysis-a-major-newspaper-feature-puts-brain-privacy-on-the-agenda-as-global-neurotechnology-standards.md` — A major newspaper feature puts brain privacy on the agenda as global neurotechnology standards take effect
 - `news/IS_NEWS_2025-11-14-subsense-launches-animal-studies-to-test-nonsurgical-nanoparticle-brain-computer-interface.md` — Subsense launches animal studies to test nonsurgical nanoparticle brain-computer interface
+- `news/IS_NEWS_2025-11-18-analysis-four-common-myths-about-current-u-s-federal-ai-policy.md` — Four common myths about current U.S. federal AI policy
+- `news/IS_NEWS_2025-11-19-analysis-u-s-chip-export-controls-as-a-tool-for-managing-ai-risk-and-their-limits.md` — U.S. chip export controls as a tool for managing AI risk, and their limits
 - `news/IS_NEWS_2025-12-01-analysis-how-china-governs-ai-three-layers-coordinated-agencies-and-a-bid-for-global-rules.md` — How China governs AI: three layers, coordinated agencies and a bid for global rules
+- `news/IS_NEWS_2025-12-09-analysis-when-ai-agents-act-on-their-own-failures-agency-law-and-the-gaps-in-governance.md` — When AI agents act on their own: failures, agency law and the gaps in governance
 - `news/IS_NEWS_2025-12-12-analysis-the-executive-order-aimed-at-state-ai-laws-and-the-constitutional-questions-it-raises.md` — The executive order aimed at state AI laws, and the constitutional questions it raises
+- `news/IS_NEWS_2025-12-19-analysis-why-ai-neurotechnology-and-other-fields-kept-arriving-at-the-same-governance-questions-in-2025.md` — Why AI, neurotechnology and other fields kept arriving at the same governance questions in 2025
 - `news/IS_NEWS_2026-01-01-gostech-unified-digital-platform-of-the-russian-federation.md` — Gostech (Unified Digital Platform of the Russian Federation)
 - `news/IS_NEWS_2026-01-06-analysis-cognitive-liberty-in-the-age-of-corporate-ai-needs-enforceable-law.md` — Cognitive liberty in the age of corporate AI needs enforceable law
+- `news/IS_NEWS_2026-01-12-analysis-how-platforms-infer-your-psychology-from-your-behaviour-and-whether-law-protects-autonomy.md` — How platforms infer your psychology from your behaviour, and whether law protects autonomy
 - `news/IS_NEWS_2026-01-12-former-u-s-navy-sailor-sentenced-to-200-months-for-spying.md` — Former U.S. Navy Sailor Sentenced to 200 Months for Spying for China
+- `news/IS_NEWS_2026-01-14-analysis-health-chatbots-owe-users-no-fiduciary-duty-unlike-doctors.md` — Health chatbots owe users no fiduciary duty, unlike doctors
+- `news/IS_NEWS_2026-01-14-analysis-what-the-research-says-about-ai-use-and-critical-thinking.md` — What the research says about AI use and critical thinking
+- `news/IS_NEWS_2026-01-16-analysis-state-neural-data-laws-and-a-proposed-federal-study-leave-inferred-mental-states-unprotected.md` — State neural data laws and a proposed federal study leave inferred mental states unprotected
 - `news/IS_NEWS_2026-01-27-ice-and-cbp-bought-a-record-140m-in-cloud.md` — ICE and CBP Bought a Record $140M in Cloud
 - `news/IS_NEWS_2026-01-27-judge-holds-norfolk-s-license-plate-reader-use.md` — Judge holds Norfolk's license plate reader use constitutional
 - `news/IS_NEWS_2026-03-06-iranian-intelligence-agent-convicted-of-terrorism-and-murder.md` — Iranian Intelligence Agent Convicted of Terrorism and Murder for Hire in Connection With Foiled Plot to Assassinate U.S. Politicians And Government Officials
@@ -479,23 +499,36 @@ This file joins 477 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-11-10-hawaii-health-department-reports-a-record-59-assisted-deaths-in-2025-and-says-its-follow-up-data-may-be-incomp.md` — Hawaii health department reports a record 59 assisted deaths in 2025 and says its follow-up data may be incomplete
 - `news/IS_NEWS_2026-11-10-karnataka-orders-ai-face-scan-attendance-in-government-schools.md` — Karnataka orders AI face-scan attendance in government schools
 - `news/IS_NEWS_2026-11-10-more-than-half-of-dutch-municipalities-use-face-comparison-scanners-for-identity-documents-without-figures-on.md` — More than half of Dutch municipalities use face-comparison scanners for identity documents, without figures on the fraud they target
+- `news/IS_NEWS_2026-11-10-paris-prosecutors-open-an-inquiry-into-a-cyberattack-on-the-cold-rooms-of-frances-national-blood-service.md` — Paris prosecutors open an inquiry into a cyberattack on the cold rooms of France's national blood service
 - `news/IS_NEWS_2026-11-10-polands-internal-security-agency-says-two-foreign-nationals-were-charged-with-spying-and-sabotage-for-russian.md` — Poland's internal security agency says two foreign nationals were charged with spying and sabotage for Russian intelligence
 - `news/IS_NEWS_2026-11-10-released-messages-show-a-contractor-lobbied-a-uk-health-minister-to-extend-its-data-platform-into-gp-records.md` — Released messages show a contractor lobbied a UK health minister to extend its data platform into GP records
 - `news/IS_NEWS_2026-11-10-serbian-prosecutors-review-finds-the-inquiry-into-an-alleged-sound-cannon-at-a-2025-protest-was-decided-in-adv.md` — Serbian prosecutors' review finds the inquiry into an alleged sound cannon at a 2025 protest was decided in advance
 - `news/IS_NEWS_2026-11-10-suicide-foundation-reports-u-s-teen-suicide-planning-and-attempts-fell-sharply-between-2023-and-2025.md` — Suicide foundation reports U.S. teen suicide planning and attempts fell sharply between 2023 and 2025
 - `news/IS_NEWS_2026-11-10-taiwan-man-pleads-guilty-in-a-hotel-assault-on-a-foreign-commentator-that-prosecutors-call-transnational-repre.md` — Taiwan: man pleads guilty in a hotel assault on a foreign commentator that prosecutors call transnational repression
 - `news/IS_NEWS_2026-11-10-three-iran-backed-operatives-indicted-over-nearly-20-attacks-and-plots-in-europe-and-the-united-states.md` — Three Iran-backed operatives indicted over nearly 20 attacks and plots in Europe and the United States
+- `news/IS_NEWS_2026-11-10-tokyo-police-arrest-a-man-accused-of-running-a-fake-mobile-base-station-from-a-car-that-knocked-thousands-of-phones-off.md` — Tokyo police arrest a man accused of running a fake mobile base station from a car that knocked thousands of phones offline to send phishing texts
 - `news/IS_NEWS_2026-11-10-u-s-army-officer-at-a-nato-headquarters-arrested-in-england-on-suspicion-of-helping-russian-intelligence.md` — U.S. Army officer at a NATO headquarters arrested in England on suspicion of helping Russian intelligence
 - `news/IS_NEWS_2026-11-10-uk-investigatory-powers-tribunal-finds-a-councils-covert-surveillance-of-a-familys-home-and-farm-was-unlawful.md` — UK Investigatory Powers Tribunal finds a council's covert surveillance of a family's home and farm was unlawful
+- `news/IS_NEWS_2026-11-10-us-appeals-court-rules-a-government-demand-for-journalists-records-from-a-professional-networking-site-in-a-leak-inquir.md` — US appeals court rules a government demand for journalists' records from a professional networking site in a leak inquiry is too broad
 - `news/IS_NEWS_2026-11-10-us-federal-judge-rules-police-may-not-hand-probable-cause-to-an-ai-facial-recognition-match-and-lets-a-wrongfu.md` — US federal judge rules police may not hand probable cause to an AI facial-recognition match and lets a wrongful-jailing suit proceed
 - `news/IS_NEWS_2026-11-11-austrian-cabinet-approves-a-draft-law-raising-espionage-penalties-and-making-spying-on-international-organisat.md` — Austrian cabinet approves a draft law raising espionage penalties and making spying on international organisations a crime
+- `news/IS_NEWS_2026-11-11-egypt-verifies-citizens-faces-against-state-biometric-records-to-issue-powers-of-attorney-remotely.md` — Egypt verifies citizens' faces against state biometric records to issue powers of attorney remotely
+- `news/IS_NEWS_2026-11-11-indonesian-lawmakers-question-the-police-chief-over-alleged-unauthorised-wiretapping-of-the-president-and-others-now-in.md` — Indonesian lawmakers question the police chief over alleged unauthorised wiretapping of the president and others, now investigated as possible treason
 - `news/IS_NEWS_2026-11-11-maker-of-a-consumer-eeg-headband-trained-an-ai-model-on-users-brain-recordings-before-its-privacy-policy-said.md` — Maker of a consumer EEG headband trained an AI model on users' brain recordings before its privacy policy said so, investigation reports
+- `news/IS_NEWS_2026-11-11-military-linked-chinese-university-on-the-us-trade-blacklist-bought-restricted-ai-chips-procurement-records-show.md` — Military-linked Chinese university on the US trade blacklist bought restricted AI chips, procurement records show
 - `news/IS_NEWS_2026-11-11-people-living-with-implanted-brain-computer-interfaces-publish-ethics-recommendations-asking-for-control-over.md` — People living with implanted brain-computer interfaces publish ethics recommendations asking for control over their neural data and devices
 - `news/IS_NEWS_2026-11-11-records-released-after-a-lawsuit-detail-the-us-postal-inspection-services-covert-social-media-and-facial-recog.md` — Records released after a lawsuit detail the US Postal Inspection Service's covert social-media and facial-recognition monitoring of protests
 - `news/IS_NEWS_2026-11-11-russias-security-service-says-it-arrested-two-polish-citizens-in-kaliningrad-region-on-espionage-charges.md` — Russia's security service says it arrested two Polish citizens in Kaliningrad region on espionage charges
 - `news/IS_NEWS_2026-11-11-washington-appeals-court-upholds-a-protection-order-in-a-case-of-alleged-covert-listening-through-a-home-voice.md` — Washington appeals court upholds a protection order in a case of alleged covert listening through a home voice assistant
 - `news/IS_NEWS_2026-11-12-chinas-industry-ministry-approves-nine-brain-computer-interface-industry-standards-for-drafting-including-atte.md` — China's industry ministry approves nine brain-computer interface industry standards for drafting, including attention monitoring
+- `news/IS_NEWS_2026-11-12-germanys-federal-administrative-court-sets-out-what-counts-as-stasi-zersetzung-and-turns-down-two-compensation-claims.md` — Germany's Federal Administrative Court sets out what counts as Stasi Zersetzung and turns down two compensation claims
+- `news/IS_NEWS_2026-11-12-new-york-activist-who-admitted-reporting-on-fellow-dissidents-to-chinas-intelligence-service-is-sentenced-to-probation.md` — New York activist who admitted reporting on fellow dissidents to China's intelligence service is sentenced to probation
+- `news/IS_NEWS_2026-11-12-russian-installed-court-jails-two-women-from-an-occupied-ukrainian-village-for-14-years-for-allegedly-watching-troops-w.md` — Russian-installed court jails two women from an occupied Ukrainian village for 14 years for allegedly watching troops with an attic camera
+- `news/IS_NEWS_2026-11-12-uk-jury-convicts-two-iranian-men-of-helping-irans-intelligence-by-surveilling-two-journalists-of-a-persian-language-cha.md` — UK jury convicts two Iranian men of helping Iran's intelligence by surveilling two journalists of a Persian-language channel; a third man is acquitted
 - `news/IS_NEWS_2026-11-12-uk-police-inspectorate-finds-deleted-custody-photos-still-searchable-by-retrospective-facial-recognition-and-w.md` — UK police inspectorate finds deleted custody photos still searchable by retrospective facial recognition and warns of wrongful-arrest risk
+- `news/IS_NEWS_2026-11-12-us-justice-department-seizes-north-korean-hackers-video-call-scheme-infrastructure-and-more-than-900-webcam-recordings.md` — US Justice Department seizes North Korean hackers' video-call scheme infrastructure and more than 900 webcam recordings of victims
+- `news/IS_NEWS_2026-11-13-chinese-report-says-about-120-people-in-china-now-live-with-implanted-brain-computer-interfaces-and-a-national-eeg-data.md` — Chinese report says about 120 people in China now live with implanted brain-computer interfaces and a national EEG data centre is to launch
+- `news/IS_NEWS_2026-11-13-faa-orders-nationwide-ground-stop-of-departing-flights-citing-a-telecommunications-outage.md` — FAA orders nationwide ground stop of departing flights, citing a telecommunications outage
 - `news/IS_NEWS_undated-anomalous-health-incidents.md` — Anomalous health incidents
 - `news/IS_NEWS_undated-critical-information-infrastructure-of-russia-fstec-fsb.md` — Critical Information Infrastructure of Russia (FSTEC/FSB)
 
@@ -506,33 +539,35 @@ This file joins 477 files from the Invisible Ships archive so it can be uploaded
 
 *Outside reporting and official releases, collected by invisibleships.com. Each
 file is one item: a header with its publisher, date, link and categories, and a
-summary written for this archive. The article itself belongs to its publisher
-and is not reproduced; follow the link. Charges described in official releases
+summary written for this archive. The article itself belongs to its publisher;
+follow the link. The article as captured on the day it was collected is in
+`evidence/IS_EVD_<slug>.md`, for checking later changes. Charges described in official releases
 are allegations unless the item's `stage` says a person pleaded guilty, was
 convicted or was sentenced. See `meta/IS_META_terms.md`.*
 
 ## What is here
 
-- 476 items, 2011-09-28 to 2026-11-12: 179 official, 155 trade press, 91 news, 32 analysis, 19 research.
-- 476 of 476 carry a summary so far; the rest say so.
+- 509 items, 2011-09-28 to 2026-11-13: 181 official, 155 trade press, 102 news, 52 analysis, 19 research.
+- 509 of 509 carry a summary so far; the rest say so.
 - `index.json` holds every item's header in one file, for counting and filtering.
 
 ## By kind of event
 
 | Kind of event | Items |
 |---|---|
-| Contracts & deployments | 115 |
-| Espionage & foreign agents | 72 |
-| Regulation & law | 70 |
-| Research & breakthroughs | 49 |
-| Technology theft & export control | 49 |
-| Courts & litigation | 42 |
-| Reports & statistics | 17 |
-| Transnational repression | 15 |
+| Contracts & deployments | 116 |
+| Regulation & law | 81 |
+| Espionage & foreign agents | 74 |
+| Research & breakthroughs | 53 |
+| Courts & litigation | 51 |
+| Technology theft & export control | 51 |
+| Reports & statistics | 18 |
+| Transnational repression | 17 |
 | Public health | 15 |
 | Murder for hire & violent plots | 13 |
 | Global conflict | 10 |
 | Protests | 9 |
+| Outages & disruptions | 1 |
 
 ## Fields
 
@@ -556,7 +591,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: National Security Division
 url: https://www.justice.gov/opa/pr/former-guard-charged-attempting-communicate-national-defense-information-people-s-republic
-archived_url: 
+archived_url: https://web.archive.org/web/20261113005613/https://www.justice.gov/archives/opa/pr/former-guard-charged-attempting-communicate-national-defense-information-people-s-republic
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -591,7 +626,7 @@ publisher: CNN Business
 source_type: Trade press
 issuing_office: 
 url: https://www.cnn.com/2013/01/30/business/swizterland-nestle-spying-civil-case/index.html
-archived_url: 
+archived_url: https://web.archive.org/web/20261113005655/https://www.cnn.com/2013/01/30/business/swizterland-nestle-spying-civil-case/index.html
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -626,7 +661,7 @@ publisher: EurekAlert!
 source_type: Research
 issuing_office: 
 url: https://www.eurekalert.org/news-releases/889913
-archived_url: 
+archived_url: https://web.archive.org/web/20261113005806/https://www.eurekalert.org/news-releases/889913
 industry: Neurotechnology
 event: Research & breakthroughs
 country: 
@@ -661,7 +696,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/russian-national-pleads-guilty-connection-conspiracy-work-russian-intelligence
-archived_url: 
+archived_url: https://web.archive.org/web/20261113010201/https://www.justice.gov/archives/opa/pr/russian-national-pleads-guilty-connection-conspiracy-work-russian-intelligence
 industry: 
 event: Espionage & foreign agents
 country: Russia
@@ -696,7 +731,7 @@ publisher: Computer Weekly
 source_type: Trade press
 issuing_office: 
 url: https://www.computerweekly.com/news/450403576/IBM-blamed-for-Australian-census-website-crash
-archived_url: 
+archived_url: https://web.archive.org/web/20261113005929/https://www.computerweekly.com/news/450403576/IBM-blamed-for-Australian-census-website-crash
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -731,7 +766,7 @@ publisher: ExecutiveBiz
 source_type: Trade press
 issuing_office: 
 url: https://www.executivebiz.com/articles/microsoft-azure-govt-cloud-gets-fedramp-high-ato-from-va
-archived_url: 
+archived_url: https://web.archive.org/web/20260517215514/https://www.executivebiz.com/articles/microsoft-azure-govt-cloud-gets-fedramp-high-ato-from-va
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -764,7 +799,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/virginia-man-arrested-and-charged-espionage
-archived_url: 
+archived_url: https://web.archive.org/web/20261113010533/https://www.justice.gov/archives/opa/pr/virginia-man-arrested-and-charged-espionage
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -799,7 +834,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/russian-national-charged-conspiracy-act-agent-russian-federation-within-united-states
-archived_url: 
+archived_url: https://web.archive.org/web/20261113010747/https://www.justice.gov/archives/opa/pr/russian-national-charged-conspiracy-act-agent-russian-federation-within-united-states
 industry: 
 event: Espionage & foreign agents
 country: Russia
@@ -834,7 +869,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/chinese-national-arrested-allegedly-acting-within-united-states-illegal-agent-people-s
-archived_url: 
+archived_url: https://web.archive.org/web/20261113010909/https://www.justice.gov/archives/opa/pr/chinese-national-arrested-allegedly-acting-within-united-states-illegal-agent-people-s
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -869,7 +904,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/chinese-intelligence-officer-charged-economic-espionage-involving-theft-trade-secrets-leading
-archived_url: 
+archived_url: https://web.archive.org/web/20261113011112/https://www.justice.gov/archives/opa/pr/chinese-intelligence-officer-charged-economic-espionage-involving-theft-trade-secrets-leading
 industry: 
 event: Technology theft & export control
 country: China
@@ -904,7 +939,7 @@ publisher: Nextgov/FCW
 source_type: Trade press
 issuing_office: 
 url: https://www.nextgov.com/modernization/2018/11/fbis-counterterrorism-investigations-now-run-amazon/153133
-archived_url: 
+archived_url: https://web.archive.org/web/20261113011215/https://www.nextgov.com/modernization/2018/11/fbis-counterterrorism-investigations-now-run-amazon/153133/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -939,7 +974,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion
-archived_url: 
+archived_url: https://web.archive.org/web/20261113011248/https://www.justice.gov/archives/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion
 industry: 
 event: Technology theft & export control
 country: China
@@ -974,7 +1009,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/chinese-telecommunications-device-manufacturer-and-its-us-affiliate-indicted-theft-trade
-archived_url: 
+archived_url: https://web.archive.org/web/20261113011325/https://www.justice.gov/archives/opa/pr/chinese-telecommunications-device-manufacturer-and-its-us-affiliate-indicted-theft-trade
 industry: 
 event: Technology theft & export control
 country: China
@@ -1009,7 +1044,7 @@ publisher: iTnews
 source_type: Trade press
 issuing_office: 
 url: https://www.itnews.com.au/news/afp-eyes-protected-microsoft-cloud-520519
-archived_url: 
+archived_url: https://web.archive.org/web/20260113054116/https://www.itnews.com.au/news/afp-eyes-protected-microsoft-cloud-520519
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -1044,7 +1079,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-manager-international-airline-pleads-guilty-acting-agent-chinese-government
-archived_url: 
+archived_url: https://web.archive.org/web/20250204132615/https://www.justice.gov/opa/pr/former-manager-international-airline-pleads-guilty-acting-agent-chinese-government
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -1079,7 +1114,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-ge-engineer-and-chinese-businessman-charged-economic-espionage-and-theft-ge-s-trade
-archived_url: 
+archived_url: https://web.archive.org/web/20261113011653/https://www.justice.gov/archives/opa/pr/former-ge-engineer-and-chinese-businessman-charged-economic-espionage-and-theft-ge-s-trade
 industry: 
 event: Technology theft & export control
 country: China
@@ -1114,7 +1149,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/member-sophisticated-china-based-hacking-group-indicted-series-computer-intrusions-including
-archived_url: 
+archived_url: https://web.archive.org/web/20250201230011/https://www.justice.gov/opa/pr/member-sophisticated-china-based-hacking-group-indicted-series-computer-intrusions-including
 industry: 
 event: Technology theft & export control
 country: China
@@ -1149,7 +1184,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-cia-officer-sentenced-prison-espionage
-archived_url: 
+archived_url: https://web.archive.org/web/20261113012040/https://www.justice.gov/archives/opa/pr/former-cia-officer-sentenced-prison-espionage
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -1184,7 +1219,7 @@ publisher: Defense Advanced Research Projects Agency (DARPA)
 source_type: Official
 issuing_office: DARPA news release
 url: https://www.darpa.mil/news/2019/nonsurgical-brain-machine-interfaces
-archived_url: 
+archived_url: https://web.archive.org/web/20261113012125/https://www.darpa.mil/news/2019/nonsurgical-brain-machine-interfaces
 industry: Neurotechnology · Nanotechnology
 event: Contracts & deployments
 country: 
@@ -1219,7 +1254,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/microsoft-opens-first-middle-eastern-azure-regions-abu-dhabi-and-dubai
-archived_url: 
+archived_url: https://web.archive.org/web/20261113012206/https://www.datacenterdynamics.com/en/news/microsoft-opens-first-middle-eastern-azure-regions-abu-dhabi-and-dubai/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -1254,7 +1289,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/electrical-engineer-convicted-conspiring-illegally-export-china-semiconductor-chips-missile
-archived_url: 
+archived_url: https://web.archive.org/web/20261113012244/https://www.justice.gov/archives/opa/pr/electrical-engineer-convicted-conspiring-illegally-export-china-semiconductor-chips-missile
 industry: 
 event: Technology theft & export control
 country: China
@@ -1289,7 +1324,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-state-department-employee-sentenced-conspiring-chinese-agents
-archived_url: 
+archived_url: https://web.archive.org/web/20250201234456/https://www.justice.gov/opa/pr/former-state-department-employee-sentenced-conspiring-chinese-agents
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -1324,7 +1359,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/newly-unsealed-federal-indictment-charges-software-engineer-taking-stolen-trade-secrets-china
-archived_url: 
+archived_url: https://web.archive.org/web/20261113012547/https://www.justice.gov/archives/opa/pr/newly-unsealed-federal-indictment-charges-software-engineer-taking-stolen-trade-secrets-china
 industry: 
 event: Technology theft & export control
 country: China
@@ -1359,7 +1394,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/university-kansas-researcher-indicted-fraud-failing-disclose-conflict-interest-chinese
-archived_url: 
+archived_url: https://web.archive.org/web/20261113012714/https://www.justice.gov/archives/opa/pr/university-kansas-researcher-indicted-fraud-failing-disclose-conflict-interest-chinese
 industry: 
 event: Technology theft & export control
 country: China
@@ -1394,7 +1429,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-intelligence-officer-convicted-attempted-espionage-sentenced-10-years-federal-prison
-archived_url: 
+archived_url: https://web.archive.org/web/20261113012746/https://www.justice.gov/archives/opa/pr/former-intelligence-officer-convicted-attempted-espionage-sentenced-10-years-federal-prison
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -1429,7 +1464,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/chinese-national-sentenced-40-months-prison-conspiring-illegally-export-military-and-space
-archived_url: 
+archived_url: https://web.archive.org/web/20250203161422/https://www.justice.gov/opa/pr/chinese-national-sentenced-40-months-prison-conspiring-illegally-export-military-and-space
 industry: 
 event: Technology theft & export control
 country: China
@@ -1464,7 +1499,7 @@ publisher: Computer Weekly
 source_type: Trade press
 issuing_office: 
 url: https://www.computerweekly.com/news/252472878/How-the-DWP-lifted-two-decades-of-outsourcing-to-adopt-a-cloud-first-model
-archived_url: 
+archived_url: https://web.archive.org/web/20260316082258/https://www.computerweekly.com/news/252472878/How-the-DWP-lifted-two-decades-of-outsourcing-to-adopt-a-cloud-first-model
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -1499,7 +1534,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/two-former-executives-china-subsidiary-multi-level-marketing-company-charged-scheme-pay
-archived_url: 
+archived_url: https://web.archive.org/web/20250203173012/https://www.justice.gov/opa/pr/two-former-executives-china-subsidiary-multi-level-marketing-company-charged-scheme-pay
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -1534,7 +1569,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/chinese-national-who-worked-monsanto-indicted-economic-espionage-charges
-archived_url: 
+archived_url: https://web.archive.org/web/20261113013450/https://www.justice.gov/archives/opa/pr/chinese-national-who-worked-monsanto-indicted-economic-espionage-charges
 industry: Biotechnology & health
 event: Technology theft & export control
 country: China
@@ -1569,7 +1604,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-cia-officer-sentenced-conspiracy-commit-espionage
-archived_url: 
+archived_url: https://web.archive.org/web/20261113013527/https://www.justice.gov/archives/opa/pr/former-cia-officer-sentenced-conspiracy-commit-espionage
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -1604,7 +1639,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office (WDMI)
 url: https://www.justice.gov/usao-wdmi/pr/2019_1219_VARI
-archived_url: 
+archived_url: https://web.archive.org/web/20260713222102/https://www.justice.gov/usao-wdmi/pr/2019_1219_VARI
 industry: 
 event: Technology theft & export control
 country: China
@@ -1639,7 +1674,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/harvard-university-professor-and-two-chinese-nationals-charged-three-separate-china-related
-archived_url: 
+archived_url: https://web.archive.org/web/20261113013951/https://www.justice.gov/archives/opa/pr/harvard-university-professor-and-two-chinese-nationals-charged-three-separate-china-related
 industry: 
 event: Technology theft & export control
 country: China
@@ -1674,7 +1709,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking
-archived_url: 
+archived_url: https://web.archive.org/web/20250203185050/https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking
 industry: 
 event: Technology theft & export control
 country: China
@@ -1709,7 +1744,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/american-businessman-who-ran-houston-based-subsidiary-chinese-company-sentenced-prison-theft
-archived_url: 
+archived_url: https://web.archive.org/web/20250203225419/https://www.justice.gov/opa/pr/american-businessman-who-ran-houston-based-subsidiary-chinese-company-sentenced-prison-theft
 industry: 
 event: Technology theft & export control
 country: China
@@ -1744,7 +1779,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/chinese-telecommunications-conglomerate-huawei-and-subsidiaries-charged-racketeering
-archived_url: 
+archived_url: https://web.archive.org/web/20261113014423/https://www.justice.gov/archives/opa/pr/chinese-telecommunications-conglomerate-huawei-and-subsidiaries-charged-racketeering
 industry: 
 event: Technology theft & export control
 country: China
@@ -1779,7 +1814,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/chinese-national-sentenced-stealing-trade-secrets-worth-1-billion
-archived_url: 
+archived_url: https://web.archive.org/web/20250205074725/https://www.justice.gov/opa/pr/chinese-national-sentenced-stealing-trade-secrets-worth-1-billion
 industry: 
 event: Technology theft & export control
 country: China
@@ -1814,7 +1849,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-west-virginia-university-professor-pleads-guilty-fraud-enabled-him-participate-people
-archived_url: 
+archived_url: https://web.archive.org/web/20250203172134/https://www.justice.gov/opa/pr/former-west-virginia-university-professor-pleads-guilty-fraud-enabled-him-participate-people
 industry: 
 event: Technology theft & export control
 country: China
@@ -1849,7 +1884,7 @@ publisher: World Health Organization
 source_type: Official
 issuing_office: 
 url: https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020
-archived_url: 
+archived_url: https://web.archive.org/web/20261113015352/https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020
 industry: Biotechnology & health
 event: Public health
 country: 
@@ -1884,7 +1919,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/hayward-resident-sentenced-four-years-acting-agent-people-s-republic-china
-archived_url: 
+archived_url: https://web.archive.org/web/20261113015420/https://www.justice.gov/archives/opa/pr/hayward-resident-sentenced-four-years-acting-agent-people-s-republic-china
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -1919,7 +1954,7 @@ publisher: Computer Weekly
 source_type: Trade press
 issuing_office: 
 url: https://www.computerweekly.com/news/252480796/Coronavirus-NHS-corrals-Microsoft-Palantir-and-Google-to-hone-data-analysis
-archived_url: 
+archived_url: https://web.archive.org/web/20261113015455/https://www.computerweekly.com/news/252480796/Coronavirus-NHS-corrals-Microsoft-Palantir-and-Google-to-hone-data-analysis
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -1954,7 +1989,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/executive-branch-agencies-recommend-fcc-revoke-and-terminate-china-telecom-s-authorizations
-archived_url: 
+archived_url: https://web.archive.org/web/20261113015528/https://www.justice.gov/archives/opa/pr/executive-branch-agencies-recommend-fcc-revoke-and-terminate-china-telecom-s-authorizations
 industry: 
 event: Regulation & law
 country: China
@@ -1989,7 +2024,7 @@ publisher: ClearanceJobs
 source_type: Trade press
 issuing_office: 
 url: https://news.clearancejobs.com/2020/04/27/hhs-covid-protect-now-taps-palantir-technologies
-archived_url: 
+archived_url: https://web.archive.org/web/20261113015608/https://news.clearancejobs.com/2020/04/27/hhs-covid-protect-now-taps-palantir-technologies/
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -2022,7 +2057,7 @@ publisher: The Hill
 source_type: News
 issuing_office: 
 url: https://thehill.com/policy/technology/496624-dhs-moving-biometrics-database-to-amazon-cloud
-archived_url: 
+archived_url: https://web.archive.org/web/20260415102918/https://thehill.com/policy/technology/496624-dhs-moving-biometrics-database-to-amazon-cloud/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -2057,7 +2092,7 @@ publisher: iTnews
 source_type: Trade press
 issuing_office: 
 url: https://www.itnews.com.au/news/dta-chief-defends-aws-pick-for-covidsafe-547844
-archived_url: 
+archived_url: https://web.archive.org/web/20260512182255/https://www.itnews.com.au/news/dta-chief-defends-aws-pick-for-covidsafe-547844
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -2092,7 +2127,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-emory-university-professor-and-chinese-thousand-talents-participant-convicted-and
-archived_url: 
+archived_url: https://web.archive.org/web/20250202020523/https://www.justice.gov/opa/pr/former-emory-university-professor-and-chinese-thousand-talents-participant-convicted-and
 industry: 
 event: Technology theft & export control
 country: China
@@ -2127,7 +2162,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/university-arkansas-professor-arrested-wire-fraud
-archived_url: 
+archived_url: https://web.archive.org/web/20261113020027/https://www.justice.gov/archives/opa/pr/university-arkansas-professor-arrested-wire-fraud
 industry: 
 event: Technology theft & export control
 country: China
@@ -2162,7 +2197,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/harvard-university-professor-indicted-false-statement-charges
-archived_url: 
+archived_url: https://web.archive.org/web/20261113020106/https://www.justice.gov/archives/opa/pr/harvard-university-professor-indicted-false-statement-charges
 industry: 
 event: Technology theft & export control
 country: China
@@ -2197,7 +2232,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/team-telecom-recommends-fcc-deny-pacific-light-cable-network-system-s-hong-kong-undersea
-archived_url: 
+archived_url: https://web.archive.org/web/20261113020232/https://www.justice.gov/archives/opa/pr/team-telecom-recommends-fcc-deny-pacific-light-cable-network-system-s-hong-kong-undersea
 industry: 
 event: Regulation & law
 country: China
@@ -2232,7 +2267,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/chinese-citizen-convicted-economic-espionage-theft-trade-secrets-and-conspiracy
-archived_url: 
+archived_url: https://web.archive.org/web/20261113020345/https://www.justice.gov/archives/opa/pr/chinese-citizen-convicted-economic-espionage-theft-trade-secrets-and-conspiracy
 industry: 
 event: Technology theft & export control
 country: China
@@ -2267,7 +2302,7 @@ publisher: World Health Organization
 source_type: Official
 issuing_office: 
 url: https://www.who.int/news/item/29-06-2020-covidtimeline
-archived_url: 
+archived_url: https://web.archive.org/web/20261113020502/https://www.who.int/news/item/29-06-2020-covidtimeline
 industry: Biotechnology & health
 event: Public health
 country: 
@@ -2302,7 +2337,7 @@ publisher: U.S. Senate (Sen. Warren)
 source_type: Official
 issuing_office: 
 url: https://www.warren.senate.gov/newsroom/press-releases/warren-leads-colleagues-demanding-answers-from-hhs-about-the-departments-handling-of-the-personal-health-information-of-millions-of-americans
-archived_url: 
+archived_url: https://web.archive.org/web/20260716131409/https://www.warren.senate.gov/newsroom/press-releases/warren-leads-colleagues-demanding-answers-from-hhs-about-the-departments-handling-of-the-personal-health-information-of-millions-of-americans/
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Regulation & law
 country: 
@@ -2337,7 +2372,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/two-chinese-hackers-working-ministry-state-security-charged-global-computer-intrusion
-archived_url: 
+archived_url: https://web.archive.org/web/20250204074930/https://www.justice.gov/opa/pr/two-chinese-hackers-working-ministry-state-security-charged-global-computer-intrusion
 industry: 
 event: Technology theft & export control
 country: China
@@ -2372,7 +2407,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/company-president-and-employee-arrested-alleged-scheme-violate-export-control-reform-act
-archived_url: 
+archived_url: https://web.archive.org/web/20261113021024/https://www.justice.gov/archives/opa/pr/company-president-and-employee-arrested-alleged-scheme-violate-export-control-reform-act
 industry: 
 event: Technology theft & export control
 country: China
@@ -2407,7 +2442,7 @@ publisher: MIT Technology Review
 source_type: Trade press
 issuing_office: 
 url: https://www.technologyreview.com/2020/08/12/1006665/clearview-ai-billion-faces
-archived_url: 
+archived_url: https://web.archive.org/web/20261113021108/https://www.technologyreview.com/2020/08/12/1006665/clearview-ai-billion-faces
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -2442,7 +2477,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-cia-officer-arrested-and-charged-espionage
-archived_url: 
+archived_url: https://web.archive.org/web/20250203171930/https://www.justice.gov/opa/pr/former-cia-officer-arrested-and-charged-espionage
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -2477,7 +2512,7 @@ publisher: Computer Weekly
 source_type: Trade press
 issuing_office: 
 url: https://www.computerweekly.com/news/252487787/UK-Biobank-to-build-AWS-hosted-data-analysis-platform-with-DNAnexus-to-speed-research
-archived_url: 
+archived_url: https://web.archive.org/web/20260613061338/https://www.computerweekly.com/news/252487787/UK-Biobank-to-build-AWS-hosted-data-analysis-platform-with-DNAnexus-to-speed-research
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -2512,7 +2547,7 @@ publisher: iTnews
 source_type: Trade press
 issuing_office: 
 url: https://www.itnews.com.au/news/home-affairs-shifts-national-real-time-intelligence-system-to-azure-cloud-551904
-archived_url: 
+archived_url: https://web.archive.org/web/20260809095054/https://www.itnews.com.au/news/home-affairs-shifts-national-real-time-intelligence-system-to-azure-cloud-551904
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -2547,7 +2582,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-army-special-forces-officer-charged-russian-espionage-conspiracy
-archived_url: 
+archived_url: https://web.archive.org/web/20250204073026/https://www.justice.gov/opa/pr/former-army-special-forces-officer-charged-russian-espionage-conspiracy
 industry: 
 event: Espionage & foreign agents
 country: Russia
@@ -2582,7 +2617,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/nasa-researcher-arrested-false-statements-and-wire-fraud-relation-china-s-talents-program
-archived_url: 
+archived_url: https://web.archive.org/web/20261113021745/https://www.justice.gov/archives/opa/pr/nasa-researcher-arrested-false-statements-and-wire-fraud-relation-china-s-talents-program
 industry: 
 event: Technology theft & export control
 country: China
@@ -2652,7 +2687,7 @@ publisher: Tampa Bay Times
 source_type: News
 issuing_office: 
 url: https://projects.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/school-data
-archived_url: 
+archived_url: https://web.archive.org/web/20261113021906/https://projects.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/school-data/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -2687,7 +2722,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-employee-los-alamos-national-laboratory-sentenced-probation-making-false-statements
-archived_url: 
+archived_url: https://web.archive.org/web/20250203171036/https://www.justice.gov/opa/pr/former-employee-los-alamos-national-laboratory-sentenced-probation-making-false-statements
 industry: 
 event: Technology theft & export control
 country: China
@@ -2722,7 +2757,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/jacksonville-woman-pleads-guilty-attempting-illegally-exporting-maritime-raiding-craft-and
-archived_url: 
+archived_url: https://web.archive.org/web/20261113022237/https://www.justice.gov/archives/opa/pr/jacksonville-woman-pleads-guilty-attempting-illegally-exporting-maritime-raiding-craft-and
 industry: 
 event: Technology theft & export control
 country: China
@@ -2757,7 +2792,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/seven-international-cyber-defendants-including-apt41-actors-charged-connection-computer
-archived_url: 
+archived_url: https://web.archive.org/web/20250205033901/https://www.justice.gov/opa/pr/seven-international-cyber-defendants-including-apt41-actors-charged-connection-computer
 industry: 
 event: Technology theft & export control
 country: China
@@ -2792,7 +2827,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/new-york-city-police-department-officer-charged-acting-illegal-agent-people-s-republic-china
-archived_url: 
+archived_url: https://web.archive.org/web/20250204103738/https://www.justice.gov/opa/pr/new-york-city-police-department-officer-charged-acting-illegal-agent-people-s-republic-china
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -2827,7 +2862,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/singaporean-national-sentenced-14-months-prison-acting-united-states-illegal-agent-chinese
-archived_url: 
+archived_url: https://web.archive.org/web/20261113022920/https://www.justice.gov/archives/opa/pr/singaporean-national-sentenced-14-months-prison-acting-united-states-illegal-agent-chinese
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -2862,7 +2897,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/eight-individuals-charged-conspiring-act-illegal-agents-people-s-republic-china
-archived_url: 
+archived_url: https://web.archive.org/web/20261113023106/https://www.justice.gov/archives/opa/pr/eight-individuals-charged-conspiring-act-illegal-agents-people-s-republic-china
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -2897,7 +2932,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/taiwan-company-pleads-guilty-trade-secret-theft-criminal-case-involving-prc-state-owned
-archived_url: 
+archived_url: https://web.archive.org/web/20250202053148/https://www.justice.gov/opa/pr/taiwan-company-pleads-guilty-trade-secret-theft-criminal-case-involving-prc-state-owned
 industry: 
 event: Technology theft & export control
 country: China
@@ -2932,7 +2967,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/chinese-energy-company-us-oil-gas-affiliate-and-chinese-national-indicted-theft-trade-secrets
-archived_url: 
+archived_url: https://web.archive.org/web/20250201003448/https://www.justice.gov/opa/pr/chinese-energy-company-us-oil-gas-affiliate-and-chinese-national-indicted-theft-trade-secrets
 industry: 
 event: Technology theft & export control
 country: China
@@ -2967,7 +3002,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/ice-plans-100-million-cloud-spend-aws-and-azure
-archived_url: 
+archived_url: https://web.archive.org/web/20251117061854/https://www.datacenterdynamics.com/en/news/ice-plans-100-million-cloud-spend-aws-and-azure/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -3002,7 +3037,7 @@ publisher: Nextgov/FCW
 source_type: Trade press
 issuing_office: 
 url: https://www.nextgov.com/modernization/2020/11/exclusive-cia-awards-secret-multibillion-dollar-cloud-contract/170227
-archived_url: 
+archived_url: https://web.archive.org/web/20260928100750/https://www.nextgov.com/modernization/2020/11/exclusive-cia-awards-secret-multibillion-dollar-cloud-contract/170227/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -3037,7 +3072,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/cia-awards-multibillion-c2e-cloud-contract-aws-microsoft-google-oracle-and-ibm
-archived_url: 
+archived_url: https://web.archive.org/web/20250726003340/https://www.datacenterdynamics.com/en/news/cia-awards-multibillion-c2e-cloud-contract-aws-microsoft-google-oracle-and-ibm/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -3072,7 +3107,7 @@ publisher: Digital Health
 source_type: Trade press
 issuing_office: 
 url: https://www.digitalhealth.net/2020/12/palantir-awarded-23m-deal-to-continue-work-on-nhs-covid-19-data-store
-archived_url: 
+archived_url: https://web.archive.org/web/20260623182932/https://www.digitalhealth.net/2020/12/palantir-awarded-23m-deal-to-continue-work-on-nhs-covid-19-data-store/
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -3080,6 +3115,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: already in the corpus
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -3105,7 +3141,7 @@ publisher: U.S. Department of Defense
 source_type: Official
 issuing_office: 
 url: https://www.defense.gov/Explore/News/Article/Article/2446061/tiberius-platform-aids-covid-19-logistics-delivery
-archived_url: 
+archived_url: https://web.archive.org/web/20261113023949/https://www.war.gov/News/News-Stories/Article/Article/2446061/tiberius-platform-aids-covid-19-logistics-delivery/
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -3113,6 +3149,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: already in the corpus
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -3140,7 +3177,7 @@ publisher: TechCrunch
 source_type: News
 issuing_office: 
 url: https://techcrunch.com/2020/12/08/palantirs-fda-hhs-contract
-archived_url: 
+archived_url: https://web.archive.org/web/20261113024123/https://techcrunch.com/2020/12/08/palantirs-fda-hhs-contract/
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -3175,7 +3212,7 @@ publisher: U.S. Food and Drug Administration
 source_type: Official
 issuing_office: 
 url: https://www.fda.gov/news-events/press-announcements/fda-takes-key-action-fight-against-covid-19-issuing-emergency-use-authorization-first-covid-19
-archived_url: 
+archived_url: https://web.archive.org/web/20250522121213/https://www.fda.gov/news-events/press-announcements/fda-takes-key-action-fight-against-covid-19-issuing-emergency-use-authorization-first-covid-19
 industry: Biotechnology & health
 event: Public health
 country: 
@@ -3208,7 +3245,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/china-based-executive-us-telecommunications-company-charged-disrupting-video-meetings
-archived_url: 
+archived_url: https://web.archive.org/web/20261113024332/https://www.justice.gov/archives/opa/pr/china-based-executive-us-telecommunications-company-charged-disrupting-video-meetings
 industry: 
 event: Transnational repression
 country: China
@@ -3243,7 +3280,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office (MA)
 url: https://www.justice.gov/usao-ma/pr/mit-professor-indicted-charges-relating-grant-fraud
-archived_url: 
+archived_url: https://web.archive.org/web/20261113024506/https://www.justice.gov/usao-ma/pr/mit-professor-indicted-charges-relating-grant-fraud
 industry: 
 event: Technology theft & export control
 country: China
@@ -3278,7 +3315,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/chinese-national-charged-criminal-conspiracy-export-us-power-amplifiers-china
-archived_url: 
+archived_url: https://web.archive.org/web/20250201131952/https://www.justice.gov/opa/pr/chinese-national-charged-criminal-conspiracy-export-us-power-amplifiers-china
 industry: 
 event: Technology theft & export control
 country: China
@@ -3313,7 +3350,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/hospital-researcher-sentenced-prison-conspiring-steal-trade-secrets-sell-them-china
-archived_url: 
+archived_url: https://web.archive.org/web/20250203171924/https://www.justice.gov/opa/pr/hospital-researcher-sentenced-prison-conspiring-steal-trade-secrets-sell-them-china
 industry: Biotechnology & health
 event: Technology theft & export control
 country: China
@@ -3348,7 +3385,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-university-florida-researcher-indicted-scheme-defraud-national-institutes-health-and
-archived_url: 
+archived_url: https://web.archive.org/web/20261113025211/https://www.justice.gov/archives/opa/pr/former-university-florida-researcher-indicted-scheme-defraud-national-institutes-health-and
 industry: Biotechnology & health
 event: Technology theft & export control
 country: China
@@ -3383,7 +3420,7 @@ publisher: FedScoop
 source_type: Trade press
 issuing_office: 
 url: https://fedscoop.com/covid-19-vaccine-scheduling-data
-archived_url: 
+archived_url: https://web.archive.org/web/20260719091947/https://fedscoop.com/covid-19-vaccine-scheduling-data/
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -3418,7 +3455,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/chinese-businessman-charged-conspiring-steal-trade-secrets
-archived_url: 
+archived_url: https://web.archive.org/web/20250203172306/https://www.justice.gov/opa/pr/chinese-businessman-charged-conspiring-steal-trade-secrets
 industry: 
 event: Technology theft & export control
 country: China
@@ -3453,7 +3490,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office (MA)
 url: https://www.justice.gov/usao-ma/pr/california-man-sentenced-illegally-exporting-cesium-atomic-clocks-hong-kong
-archived_url: 
+archived_url: https://web.archive.org/web/20261113025358/https://www.justice.gov/usao-ma/pr/california-man-sentenced-illegally-exporting-cesium-atomic-clocks-hong-kong
 industry: 
 event: Technology theft & export control
 country: China
@@ -3488,7 +3525,7 @@ publisher: iTnews
 source_type: Trade press
 issuing_office: 
 url: https://www.itnews.com.au/news/microsoft-azure-aws-to-host-nsw-police-core-systems-562282
-archived_url: 
+archived_url: https://web.archive.org/web/20261113025437/https://www.itnews.com.au/news/microsoft-azure-aws-to-host-nsw-police-core-systems-562282
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -3523,7 +3560,7 @@ publisher: Computer Weekly
 source_type: Trade press
 issuing_office: 
 url: https://www.computerweekly.com/news/252499036/HMRC-signs-reworked-three-year-public-cloud-deal-with-AWS-worth-94m
-archived_url: 
+archived_url: https://web.archive.org/web/20260312203341/https://www.computerweekly.com/news/252499036/HMRC-signs-reworked-three-year-public-cloud-deal-with-AWS-worth-94m
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -3558,7 +3595,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-effort-disrupt-exploitation-microsoft-exchange
-archived_url: 
+archived_url: https://web.archive.org/web/20250202105605/https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-effort-disrupt-exploitation-microsoft-exchange
 industry: Government cloud & surveillance technology
 event: Technology theft & export control
 country: China
@@ -3593,7 +3630,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/hospital-researcher-sentenced-prison-conspiring-steal-trade-secrets-and-sell-china
-archived_url: 
+archived_url: https://web.archive.org/web/20250203160317/https://www.justice.gov/opa/pr/hospital-researcher-sentenced-prison-conspiring-steal-trade-secrets-and-sell-china
 industry: Biotechnology & health
 event: Technology theft & export control
 country: China
@@ -3628,7 +3665,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/mathematics-professor-and-university-researcher-indicted-grant-fraud
-archived_url: 
+archived_url: https://web.archive.org/web/20261113025832/https://www.justice.gov/archives/opa/pr/mathematics-professor-and-university-researcher-indicted-grant-fraud
 industry: 
 event: Technology theft & export control
 country: China
@@ -3663,7 +3700,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/phd-chemist-convicted-conspiracy-steal-trade-secrets-economic-espionage-theft-trade-secrets
-archived_url: 
+archived_url: https://web.archive.org/web/20261113025915/https://www.justice.gov/archives/opa/pr/phd-chemist-convicted-conspiracy-steal-trade-secrets-economic-espionage-theft-trade-secrets
 industry: 
 event: Technology theft & export control
 country: China
@@ -3698,7 +3735,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/chinese-national-pleads-guilty-illegal-exports-northwestern-polytechnical-university
-archived_url: 
+archived_url: https://web.archive.org/web/20250203161056/https://www.justice.gov/opa/pr/chinese-national-pleads-guilty-illegal-exports-northwestern-polytechnical-university
 industry: 
 event: Technology theft & export control
 country: China
@@ -3733,7 +3770,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/university-researcher-sentenced-prison-lying-grant-applications-develop-scientific-expertise
-archived_url: 
+archived_url: https://web.archive.org/web/20261113030312/https://www.justice.gov/archives/opa/pr/university-researcher-sentenced-prison-lying-grant-applications-develop-scientific-expertise
 industry: 
 event: Technology theft & export control
 country: China
@@ -3768,7 +3805,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/microsoft-to-acquire-atts-network-cloud-azure-to-host-att-5g-network
-archived_url: 
+archived_url: https://web.archive.org/web/20261113030435/https://www.datacenterdynamics.com/en/news/microsoft-to-acquire-atts-network-cloud-azure-to-host-att-5g-network/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -3803,7 +3840,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/iranian-intelligence-officials-indicted-kidnapping-conspiracy-charges
-archived_url: 
+archived_url: https://web.archive.org/web/20261113030503/https://www.justice.gov/archives/opa/pr/iranian-intelligence-officials-indicted-kidnapping-conspiracy-charges
 industry: 
 event: Murder for hire & violent plots
 country: Iran
@@ -3838,7 +3875,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/four-chinese-nationals-working-ministry-state-security-charged-global-computer-intrusion
-archived_url: 
+archived_url: https://web.archive.org/web/20250205034831/https://www.justice.gov/opa/pr/four-chinese-nationals-working-ministry-state-security-charged-global-computer-intrusion
 industry: 
 event: Technology theft & export control
 country: China
@@ -3873,7 +3910,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/nine-individuals-charged-superseding-indictment-conspiring-act-illegal-agents-people-s
-archived_url: 
+archived_url: https://web.archive.org/web/20250202041901/https://www.justice.gov/opa/pr/nine-individuals-charged-superseding-indictment-conspiring-act-illegal-agents-people-s
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -3908,7 +3945,7 @@ publisher: FedScoop
 source_type: Trade press
 issuing_office: 
 url: https://fedscoop.com/hhs-palantir-tiberius-contract-renewal
-archived_url: 
+archived_url: https://web.archive.org/web/20260917173026/https://fedscoop.com/hhs-palantir-tiberius-contract-renewal/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -3943,7 +3980,7 @@ publisher: World Health Organization
 source_type: Official
 issuing_office: 
 url: https://www.who.int/news/item/10-08-2021-interim-statement-on-covid-19-vaccine-booster-doses
-archived_url: 
+archived_url: https://web.archive.org/web/20261106073010/https://www.who.int/news/item/10-08-2021-interim-statement-on-covid-19-vaccine-booster-doses
 industry: Biotechnology & health
 event: Public health
 country: 
@@ -3978,7 +4015,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/huawei-cfo-wanzhou-meng-admits-misleading-global-financial-institution
-archived_url: 
+archived_url: https://web.archive.org/web/20250203160330/https://www.justice.gov/opa/pr/huawei-cfo-wanzhou-meng-admits-misleading-global-financial-institution
 industry: 
 event: Regulation & law
 country: China
@@ -4013,7 +4050,7 @@ publisher: The Register
 source_type: Trade press
 issuing_office: 
 url: https://www.theregister.com/2021/10/26/uk_security_services_aws
-archived_url: 
+archived_url: https://web.archive.org/web/20260219030901/https://www.theregister.com/2021/10/26/uk_security_services_aws/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -4048,7 +4085,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/uk-spy-agencies-to-use-amazon-web-services-to-host-top-secret-material-in-the-cloud
-archived_url: 
+archived_url: https://web.archive.org/web/20261113031306/https://www.datacenterdynamics.com/en/news/uk-spy-agencies-to-use-amazon-web-services-to-host-top-secret-material-in-the-cloud/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -4083,7 +4120,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/jury-convicts-chinese-intelligence-officer-espionage-crimes-attempting-steal-trade-secrets
-archived_url: 
+archived_url: https://web.archive.org/web/20261113031333/https://www.justice.gov/archives/opa/pr/jury-convicts-chinese-intelligence-officer-espionage-crimes-attempting-steal-trade-secrets
 industry: 
 event: Technology theft & export control
 country: China
@@ -4118,7 +4155,7 @@ publisher: Nextgov/FCW
 source_type: Trade press
 issuing_office: 
 url: https://www.nextgov.com/emerging-tech/2021/12/amazon-web-services-announces-second-top-secret-cloud-region/187303
-archived_url: 
+archived_url: https://web.archive.org/web/20260630223533/https://www.nextgov.com/emerging-tech/2021/12/amazon-web-services-announces-second-top-secret-cloud-region/187303/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -4153,7 +4190,7 @@ publisher: Denver7
 source_type: News
 issuing_office: 
 url: https://www.denver7.com/news/local-news/denver-city-council-approves-long-contract-extension-with-gunshot-detection-company-shotspotter
-archived_url: 
+archived_url: https://web.archive.org/web/20260617125553/https://www.denver7.com/news/local-news/denver-city-council-approves-long-contract-extension-with-gunshot-detection-company-shotspotter
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -4188,7 +4225,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/belarusian-government-officials-charged-aircraft-piracy-diverting-ryanair-flight-4978-arrest
-archived_url: 
+archived_url: https://web.archive.org/web/20250206044737/https://www.justice.gov/opa/pr/belarusian-government-officials-charged-aircraft-piracy-diverting-ryanair-flight-4978-arrest
 industry: 
 event: Murder for hire & violent plots
 country: Belarus
@@ -4223,7 +4260,7 @@ publisher: Times of Israel
 source_type: News
 issuing_office: 
 url: https://www.timesofisrael.com/oracle-inaugurates-regional-cloud-center-in-jerusalem-plans-to-open-2nd-site
-archived_url: 
+archived_url: https://web.archive.org/web/20260330140035/https://www.timesofisrael.com/oracle-inaugurates-regional-cloud-center-in-jerusalem-plans-to-open-2nd-site/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -4256,7 +4293,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/individual-pleads-guilty-acting-within-united-states-behalf-russian-government
-archived_url: 
+archived_url: https://web.archive.org/web/20261113031753/https://www.justice.gov/archives/opa/pr/individual-pleads-guilty-acting-within-united-states-behalf-russian-government
 industry: 
 event: Espionage & foreign agents
 country: Russia
@@ -4291,7 +4328,7 @@ publisher: European Data Protection Board
 source_type: Official
 issuing_office: 
 url: https://www.edpb.europa.eu/news/national-news/2022/facial-recognition-italian-sa-fines-clearview-ai-eur-20-million_en
-archived_url: 
+archived_url: https://web.archive.org/web/20261113031829/https://www.edpb.europa.eu/news_en
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Courts & litigation
 country: 
@@ -4324,7 +4361,7 @@ publisher: World Health Organization
 source_type: Official
 issuing_office: 
 url: https://www.who.int/news/item/02-03-2022-covid-19-pandemic-triggers-25-increase-in-prevalence-of-anxiety-and-depression-worldwide
-archived_url: 
+archived_url: https://web.archive.org/web/20261113031949/https://www.who.int/news/item/02-03-2022-covid-19-pandemic-triggers-25-increase-in-prevalence-of-anxiety-and-depression-worldwide
 industry: Biotechnology & health
 event: Public health
 country: 
@@ -4359,7 +4396,7 @@ publisher: TechCrunch
 source_type: News
 issuing_office: 
 url: https://techcrunch.com/2022/03/10/amazon-microsoft-and-google-have-suspended-cloud-sales-in-russia
-archived_url: 
+archived_url: https://web.archive.org/web/20261113032020/https://techcrunch.com/2022/03/10/amazon-microsoft-and-google-have-suspended-cloud-sales-in-russia/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -4394,7 +4431,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/five-individuals-charged-variously-stalking-harassing-and-spying-us-residents-behalf-prc-0
-archived_url: 
+archived_url: https://web.archive.org/web/20250201205118/https://www.justice.gov/opa/pr/five-individuals-charged-variously-stalking-harassing-and-spying-us-residents-behalf-prc-0
 industry: 
 event: Transnational repression
 country: China
@@ -4429,7 +4466,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office, Southern District of New York
 url: https://www.justice.gov/usao-sdny/pr/chinese-national-charged-acting-unregistered-agent-chinese-government-united-states
-archived_url: 
+archived_url: https://web.archive.org/web/20260524040159/https://www.justice.gov/usao-sdny/pr/chinese-national-charged-acting-unregistered-agent-chinese-government-united-states
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -4464,7 +4501,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/man-charged-transnational-repression-campaign-while-acting-illegal-agent-chinese-government
-archived_url: 
+archived_url: https://web.archive.org/web/20250206051412/https://www.justice.gov/opa/pr/man-charged-transnational-repression-campaign-while-acting-illegal-agent-chinese-government
 industry: 
 event: Transnational repression
 country: China
@@ -4499,7 +4536,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/russia-bans-purchase-of-foreign-software-for-critical-infrastructure
-archived_url: 
+archived_url: https://web.archive.org/web/20261113032525/https://www.datacenterdynamics.com/en/news/russia-bans-purchase-of-foreign-software-for-critical-infrastructure/
 industry: 
 event: Regulation & law
 country: 
@@ -4534,7 +4571,7 @@ publisher: iTnews
 source_type: Trade press
 issuing_office: 
 url: https://www.itnews.com.au/news/dta-renews-gov-wide-aws-deal-for-174-million-578790
-archived_url: 
+archived_url: https://web.archive.org/web/20261113032555/https://www.itnews.com.au/news/dta-renews-gov-wide-aws-deal-for-174-million-578790
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -4569,7 +4606,7 @@ publisher: FedScoop
 source_type: Trade press
 issuing_office: 
 url: https://fedscoop.com/nsa-re-awards-10b-wildandstormy-cloud-computing-contract-to-aws
-archived_url: 
+archived_url: https://web.archive.org/web/20260912224910/https://fedscoop.com/nsa-re-awards-10b-wildandstormy-cloud-computing-contract-to-aws/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -4604,7 +4641,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/us-citizen-and-four-chinese-intelligence-officers-charged-spying-prominent-dissidents-human
-archived_url: 
+archived_url: https://web.archive.org/web/20250206000817/https://www.justice.gov/opa/pr/us-citizen-and-four-chinese-intelligence-officers-charged-spying-prominent-dissidents-human
 industry: 
 event: Transnational repression
 country: China
@@ -4639,7 +4676,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/five-men-indicted-crimes-related-transnational-repression-scheme-silence-critics-people-s
-archived_url: 
+archived_url: https://web.archive.org/web/20250206060152/https://www.justice.gov/opa/pr/five-men-indicted-crimes-related-transnational-repression-scheme-silence-critics-people-s
 industry: 
 event: Transnational repression
 country: China
@@ -4674,7 +4711,7 @@ publisher: IAPP
 source_type: Trade press
 issuing_office: 
 url: https://iapp.org/news/a/greek-dpa-imposes-20m-euro-fine-on-clearview-ai-for-unlawful-processing-of-personal-data
-archived_url: 
+archived_url: https://web.archive.org/web/20261113033010/https://iapp.org/news/a/greek-dpa-imposes-20m-euro-fine-on-clearview-ai-for-unlawful-processing-of-personal-data
 industry: Artificial intelligence
 event: Courts & litigation
 country: 
@@ -4709,7 +4746,7 @@ publisher: iTnews
 source_type: Trade press
 issuing_office: 
 url: https://www.itnews.com.au/news/google-cloud-joins-aws-azure-in-gov-data-sovereignty-scheme-582705
-archived_url: 
+archived_url: https://web.archive.org/web/20261113033041/https://www.itnews.com.au/news/google-cloud-joins-aws-azure-in-gov-data-sovereignty-scheme-582705
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -4744,7 +4781,7 @@ publisher: TechCrunch
 source_type: News
 issuing_office: 
 url: https://techcrunch.com/2022/07/18/denmark-bans-chromebooks-and-google-workspace-in-schools-over-gdpr
-archived_url: 
+archived_url: https://web.archive.org/web/20261113033133/https://techcrunch.com/2022/07/18/denmark-bans-chromebooks-and-google-workspace-in-schools-over-gdpr/
 industry: Government cloud & surveillance technology
 event: Regulation & law
 country: 
@@ -4779,7 +4816,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/russian-national-charged-conspiring-have-us-citizens-act-illegal-agents-russian-government
-archived_url: 
+archived_url: https://web.archive.org/web/20250202173102/https://www.justice.gov/opa/pr/russian-national-charged-conspiring-have-us-citizens-act-illegal-agents-russian-government
 industry: 
 event: Espionage & foreign agents
 country: Russia
@@ -4814,7 +4851,7 @@ publisher: Electronic Frontier Foundation
 source_type: Research
 issuing_office: 
 url: https://www.eff.org/deeplinks/2022/08/inside-fog-data-science-secretive-company-selling-mass-surveillance-local-police
-archived_url: 
+archived_url: https://web.archive.org/web/20261028073347/https://www.eff.org/deeplinks/2022/08/inside-fog-data-science-secretive-company-selling-mass-surveillance-local-police
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -4847,7 +4884,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-twitter-employee-found-guilty-acting-agent-foreign-government-and-unlawfully-sharing
-archived_url: 
+archived_url: https://web.archive.org/web/20250202103108/https://www.justice.gov/opa/pr/former-twitter-employee-found-guilty-acting-agent-foreign-government-and-unlawfully-sharing
 industry: 
 event: Espionage & foreign agents
 country: Saudi Arabia
@@ -4882,7 +4919,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/member-irans-islamic-revolutionary-guard-corps-irgc-charged-plot-murder-former-national
-archived_url: 
+archived_url: https://web.archive.org/web/20261113033836/https://www.justice.gov/archives/opa/pr/member-irans-islamic-revolutionary-guard-corps-irgc-charged-plot-murder-former-national
 industry: 
 event: Murder for hire & violent plots
 country: Iran
@@ -4917,7 +4954,7 @@ publisher: Australian Department of Health
 source_type: Official
 issuing_office: 
 url: https://www.health.gov.au/ministers/the-hon-mark-butler-mp/media/failed-covidsafe-app-deleted
-archived_url: 
+archived_url: https://web.archive.org/web/20261113033913/https://www.health.gov.au/ministers/the-hon-mark-butler-mp/media/failed-covidsafe-app-deleted
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Public health
 country: 
@@ -4952,7 +4989,7 @@ publisher: CNIL (France)
 source_type: Official
 issuing_office: 
 url: https://www.cnil.fr/en/facial-recognition-20-million-euros-penalty-against-clearview-ai
-archived_url: 
+archived_url: https://web.archive.org/web/20241010144418/https://www.cnil.fr/en/facial-recognition-20-million-euros-penalty-against-clearview-ai
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Courts & litigation
 country: 
@@ -4985,7 +5022,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office, District of New Jersey
 url: https://www.justice.gov/usao-nj/pr/chinese-intelligence-officers-charged-using-academic-cover-target-individuals-united
-archived_url: 
+archived_url: https://web.archive.org/web/20261022075626/https://www.justice.gov/usao-nj/pr/chinese-intelligence-officers-charged-using-academic-cover-target-individuals-united
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -5020,7 +5057,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/two-arrested-and-13-charged-three-separate-cases-alleged-participation-malign-schemes-united
-archived_url: 
+archived_url: https://web.archive.org/web/20261113034233/https://www.justice.gov/archives/opa/pr/two-arrested-and-13-charged-three-separate-cases-alleged-participation-malign-schemes-united
 industry: 
 event: Transnational repression
 country: China
@@ -5055,7 +5092,7 @@ publisher: The Register
 source_type: Trade press
 issuing_office: 
 url: https://www.theregister.com/2022/11/30/office_365_faces_more_gdpr/
-archived_url: 
+archived_url: https://web.archive.org/web/20260113101503/https://www.theregister.com/2022/11/30/office_365_faces_more_gdpr/
 industry: Government cloud & surveillance technology
 event: Regulation & law
 country: 
@@ -5090,7 +5127,7 @@ publisher: Nextgov/FCW
 source_type: Trade press
 issuing_office: 
 url: https://www.nextgov.com/digital-government/2022/12/amazon-google-microsoft-oracle-awarded-9b-pentagon-cloud-contract/380596
-archived_url: 
+archived_url: https://web.archive.org/web/20260713005412/https://www.nextgov.com/digital-government/2022/12/amazon-google-microsoft-oracle-awarded-9b-pentagon-cloud-contract/380596/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -5125,7 +5162,7 @@ publisher: DefenseScoop
 source_type: Trade press
 issuing_office: 
 url: https://defensescoop.com/2022/12/07/pentagon-awards-aws-google-microsoft-and-oracle-spots-on-joint-warfighting-cloud-capability-solicitation
-archived_url: 
+archived_url: https://web.archive.org/web/20260417021330/https://defensescoop.com/2022/12/07/pentagon-awards-aws-google-microsoft-and-oracle-spots-on-joint-warfighting-cloud-capability-solicitation/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -5160,7 +5197,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/us-department-of-defense-awards-9bn-joint-warfighter-cloud-capability-to-aws-google-microsoft-and-oracle
-archived_url: 
+archived_url: https://web.archive.org/web/20250513094947/https://www.datacenterdynamics.com/en/news/us-department-of-defense-awards-9bn-joint-warfighter-cloud-capability-to-aws-google-microsoft-and-oracle/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -5195,7 +5232,7 @@ publisher: Computer Weekly
 source_type: Trade press
 issuing_office: 
 url: https://www.computerweekly.com/news/252528242/Cloud-based-fingerprint-system-for-UK-police-nears-completion
-archived_url: 
+archived_url: https://web.archive.org/web/20261113034900/https://www.computerweekly.com/news/252528242/Cloud-based-fingerprint-system-for-UK-police-nears-completion
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -5230,7 +5267,7 @@ publisher: TAdviser
 source_type: Trade press
 issuing_office: 
 url: https://tadviser.com/index.php/Article:Medical_software_in_Russia
-archived_url: 
+archived_url: https://web.archive.org/web/20261113034930/https://tadviser.com/index.php/Article:Medical_software_in_Russia
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -5265,7 +5302,7 @@ publisher: Global News
 source_type: News
 issuing_office: 
 url: https://globalnews.ca/news/9352616/veterans-affairs-minister-year-end-maid
-archived_url: 
+archived_url: https://web.archive.org/web/20261113035013/https://globalnews.ca/news/9352616/veterans-affairs-minister-year-end-maid/
 industry: 
 event: Public health
 country: 
@@ -5300,7 +5337,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office, Northern District of Illinois
 url: https://www.justice.gov/usao-ndil/pr/chinese-national-sentenced-eight-years-prison-acting-within-us-unregistered-agent
-archived_url: 
+archived_url: https://web.archive.org/web/20261113035044/https://www.justice.gov/usao-ndil/pr/chinese-national-sentenced-eight-years-prison-acting-within-us-unregistered-agent
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -5335,7 +5372,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/justice-department-announces-charges-and-new-arrest-connection-assassination-plot-directed
-archived_url: 
+archived_url: https://web.archive.org/web/20261113035114/https://www.justice.gov/archives/opa/pr/justice-department-announces-charges-and-new-arrest-connection-assassination-plot-directed
 industry: 
 event: Murder for hire & violent plots
 country: Iran
@@ -5370,7 +5407,7 @@ publisher: Federal Trade Commission
 source_type: Official
 issuing_office: 
 url: https://www.ftc.gov/news-events/news/press-releases/2023/02/ftc-enforcement-action-bar-goodrx-sharing-consumers-sensitive-health-info-advertising
-archived_url: 
+archived_url: https://web.archive.org/web/20261113035329/https://www.ftc.gov/news-events/news/press-releases/2023/02/ftc-enforcement-action-bar-goodrx-sharing-consumers-sensitive-health-info-advertising
 industry: Biotechnology & health
 event: Courts & litigation
 country: 
@@ -5405,7 +5442,7 @@ publisher: Computer Weekly
 source_type: Trade press
 issuing_office: 
 url: https://www.computerweekly.com/news/365530572/MoD-issues-revised-cloud-strategy-as-it-prepares-to-move-top-secret-data-off-premise-by-2025
-archived_url: 
+archived_url: https://web.archive.org/web/20261113035502/https://www.computerweekly.com/news/365530572/MoD-issues-revised-cloud-strategy-as-it-prepares-to-move-top-secret-data-off-premise-by-2025
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -5440,7 +5477,7 @@ publisher: Computer Weekly
 source_type: Trade press
 issuing_office: 
 url: https://www.computerweekly.com/news/365533652/GDS-goes-serverless-to-bring-personalisation-to-online-government-services-with-One-Login
-archived_url: 
+archived_url: https://web.archive.org/web/20261113035529/https://www.computerweekly.com/news/365533652/GDS-goes-serverless-to-bring-personalisation-to-online-government-services-with-One-Login
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -5475,7 +5512,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office, District of Columbia
 url: https://www.justice.gov/usao-dc/pr/russian-national-illegal-charged-acting-agent-russian-intelligence-service-united-states
-archived_url: 
+archived_url: https://web.archive.org/web/20261113035558/https://www.justice.gov/usao-dc/pr/russian-national-illegal-charged-acting-agent-russian-intelligence-service-united-states
 industry: 
 event: Espionage & foreign agents
 country: Russia
@@ -5510,7 +5547,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/40-officers-china-s-national-police-charged-transnational-repression-schemes-targeting-us
-archived_url: 
+archived_url: https://web.archive.org/web/20250206013918/https://www.justice.gov/opa/pr/40-officers-china-s-national-police-charged-transnational-repression-schemes-targeting-us
 industry: 
 event: Transnational repression
 country: China
@@ -5545,7 +5582,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/two-arrested-operating-illegal-overseas-police-station-chinese-government
-archived_url: 
+archived_url: https://web.archive.org/web/20250203104307/https://www.justice.gov/opa/pr/two-arrested-operating-illegal-overseas-police-station-chinese-government
 industry: 
 event: Transnational repression
 country: China
@@ -5580,7 +5617,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/us-citizens-and-russian-intelligence-officers-charged-conspiring-use-us-citizens-illegal
-archived_url: 
+archived_url: https://web.archive.org/web/20261113035949/https://www.justice.gov/archives/opa/pr/us-citizens-and-russian-intelligence-officers-charged-conspiring-use-us-citizens-illegal
 industry: 
 event: Espionage & foreign agents
 country: Russia
@@ -5648,7 +5685,7 @@ publisher: Nature Neuroscience
 source_type: Research
 issuing_office: 
 url: https://www.nature.com/articles/s41593-023-01304-9
-archived_url: 
+archived_url: https://web.archive.org/web/20261009192609/https://www.nature.com/articles/s41593-023-01304-9
 industry: Neurotechnology · Artificial intelligence
 event: Research & breakthroughs
 country: 
@@ -5681,7 +5718,7 @@ publisher: Amnesty International
 source_type: Research
 issuing_office: 
 url: https://www.amnesty.org/en/latest/news/2023/05/israel-opt-israeli-authorities-are-using-facial-recognition-technology-to-entrench-apartheid
-archived_url: 
+archived_url: https://web.archive.org/web/20261113040155/https://www.amnesty.org/en/latest/news/2023/05/israel-opt-israeli-authorities-are-using-facial-recognition-technology-to-entrench-apartheid/
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Global conflict
 country: 
@@ -5714,7 +5751,7 @@ publisher: World Health Organization
 source_type: Official
 issuing_office: 
 url: https://www.who.int/news/item/05-05-2023-statement-on-the-fifteenth-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-coronavirus-disease-(covid-19)-pandemic
-archived_url: 
+archived_url: https://web.archive.org/web/20261101211158/https://www.who.int/news/item/05-05-2023-statement-on-the-fifteenth-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-coronavirus-disease-(covid-19)-pandemic
 industry: Biotechnology & health
 event: Public health
 country: 
@@ -5749,7 +5786,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/massachusetts-man-indicted-acting-illegal-agent-people-s-republic-china
-archived_url: 
+archived_url: https://web.archive.org/web/20261113050853/https://www.justice.gov/archives/opa/pr/massachusetts-man-indicted-acting-illegal-agent-people-s-republic-china
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -5784,7 +5821,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/illegal-agents-prc-government-charged-prc-directed-bribery-scheme
-archived_url: 
+archived_url: https://web.archive.org/web/20261113050926/https://www.justice.gov/archives/opa/pr/illegal-agents-prc-government-charged-prc-directed-bribery-scheme
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -5819,7 +5856,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/federal-jury-convicts-three-defendants-interstate-stalking-chinese-nationals-united-states
-archived_url: 
+archived_url: https://web.archive.org/web/20250206010634/https://www.justice.gov/opa/pr/federal-jury-convicts-three-defendants-interstate-stalking-chinese-nationals-united-states
 industry: 
 event: Transnational repression
 country: China
@@ -5854,7 +5891,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/two-us-navy-servicemembers-arrested-transmitting-military-information-peoples-republic-china
-archived_url: 
+archived_url: https://web.archive.org/web/20250204074622/https://www.justice.gov/opa/pr/two-us-navy-servicemembers-arrested-transmitting-military-information-peoples-republic-china
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -5889,7 +5926,7 @@ publisher: UC San Francisco
 source_type: Research
 issuing_office: 
 url: https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back
-archived_url: 
+archived_url: https://web.archive.org/web/20261104053559/https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back
 industry: Neurotechnology · Artificial intelligence
 event: Research & breakthroughs
 country: 
@@ -5924,7 +5961,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/us-navy-service-member-pleads-guilty-transmitting-sensitive-us-military-information-chinese
-archived_url: 
+archived_url: https://web.archive.org/web/20261113051125/https://www.justice.gov/archives/opa/pr/us-navy-service-member-pleads-guilty-transmitting-sensitive-us-military-information-chinese
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -5959,7 +5996,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/microsoft-quietly-launches-israeli-azure-cloud-region
-archived_url: 
+archived_url: https://web.archive.org/web/20261113051156/https://www.datacenterdynamics.com/en/news/microsoft-quietly-launches-israeli-azure-cloud-region/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -5994,7 +6031,7 @@ publisher: The Register
 source_type: Trade press
 issuing_office: 
 url: https://www.theregister.com/2023/11/02/european_commission_oci
-archived_url: 
+archived_url: https://web.archive.org/web/20260113194311/https://www.theregister.com/2023/11/02/european_commission_oci/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -6029,7 +6066,7 @@ publisher: The Register
 source_type: Trade press
 issuing_office: 
 url: https://www.theregister.com/2023/11/22/palantir_wins_nhs_contract
-archived_url: 
+archived_url: https://web.archive.org/web/20260503025303/https://www.theregister.com/2023/11/22/palantir_wins_nhs_contract/?
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -6064,7 +6101,7 @@ publisher: Computer Weekly
 source_type: Trade press
 issuing_office: 
 url: https://www.computerweekly.com/news/366562418/UK-government-quietly-renews-public-sector-preferential-pricing-agreement-with-AWS
-archived_url: 
+archived_url: https://web.archive.org/web/20261113051329/https://www.computerweekly.com/news/366562418/UK-government-quietly-renews-public-sector-preferential-pricing-agreement-with-AWS
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -6099,7 +6136,7 @@ publisher: Federal Trade Commission
 source_type: Official
 issuing_office: 
 url: https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without
-archived_url: 
+archived_url: https://web.archive.org/web/20261113051425/https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Courts & litigation
 country: 
@@ -6202,7 +6239,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/one-iranian-and-two-canadian-nationals-indicted-murder-hire-scheme
-archived_url: 
+archived_url: https://web.archive.org/web/20250206004218/https://www.justice.gov/opa/pr/one-iranian-and-two-canadian-nationals-indicted-murder-hire-scheme
 industry: 
 event: Murder for hire & violent plots
 country: Iran
@@ -6237,7 +6274,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/microsoft-suspends-access-to-cloud-services-for-russian-companies
-archived_url: 
+archived_url: https://web.archive.org/web/20261113051833/https://www.datacenterdynamics.com/en/news/microsoft-suspends-access-to-cloud-services-for-russian-companies/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -6272,7 +6309,7 @@ publisher: Forbes
 source_type: News
 issuing_office: 
 url: https://www.forbes.com/sites/angelicamarideoliveira/2024/03/04/brazil-has-the-worlds-most-accessed-online-citizen-services-platform
-archived_url: 
+archived_url: https://web.archive.org/web/20261113051901/https://www.forbes.com/sites/angelicamarideoliveira/2024/03/04/brazil-has-the-worlds-most-accessed-online-citizen-services-platform/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -6307,7 +6344,7 @@ publisher: TechCrunch
 source_type: News
 issuing_office: 
 url: https://techcrunch.com/2024/03/11/edps-microsoft-365
-archived_url: 
+archived_url: https://web.archive.org/web/20261113051935/https://techcrunch.com/2024/03/11/edps-microsoft-365/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -6379,7 +6416,7 @@ publisher: DefenseScoop
 source_type: Trade press
 issuing_office: 
 url: https://defensescoop.com/2024/03/26/army-carmy-2-cloud-environment
-archived_url: 
+archived_url: https://web.archive.org/web/20261113052044/https://defensescoop.com/2024/03/26/army-carmy-2-cloud-environment/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -6414,7 +6451,7 @@ publisher: Neurorights Foundation
 source_type: Research
 issuing_office: 
 url: https://perseus-strategies.com/wp-content/uploads/2024/04/FINAL_Consumer_Neurotechnology_Report_Neurorights_Foundation_April-1.pdf
-archived_url: 
+archived_url: https://web.archive.org/web/20261024094154/https://perseus-strategies.com/wp-content/uploads/2024/04/FINAL_Consumer_Neurotechnology_Report_Neurorights_Foundation_April-1.pdf
 industry: Neurotechnology
 event: Regulation & law
 country: 
@@ -6449,7 +6486,7 @@ publisher: TIME
 source_type: Trade press
 issuing_office: 
 url: https://time.com/6966102/google-contract-israel-defense-ministry-gaza-war
-archived_url: 
+archived_url: https://web.archive.org/web/20261107152236/https://time.com/6966102/google-contract-israel-defense-ministry-gaza-war/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -6484,7 +6521,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/orange-and-huawei-launch-huawei-cloud-services-in-egypt
-archived_url: 
+archived_url: https://web.archive.org/web/20251126110207/https://www.datacenterdynamics.com/en/news/orange-and-huawei-launch-huawei-cloud-services-in-egypt/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -6519,7 +6556,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/egypt-launches-govt-cloud-computing-data-center
-archived_url: 
+archived_url: https://web.archive.org/web/20251229112110/https://www.datacenterdynamics.com/en/news/egypt-launches-govt-cloud-computing-data-center/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -6589,7 +6626,7 @@ publisher: Nextgov/FCW
 source_type: Trade press
 issuing_office: 
 url: https://www.nextgov.com/artificial-intelligence/2024/05/microsoft-deploys-air-gapped-ai-classified-cloud/396354
-archived_url: 
+archived_url: https://web.archive.org/web/20261113052517/https://www.nextgov.com/artificial-intelligence/2024/05/microsoft-deploys-air-gapped-ai-classified-cloud/396354/
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -6624,7 +6661,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/microsoft-launches-mexican-cloud-region
-archived_url: 
+archived_url: https://web.archive.org/web/20261113052552/https://www.datacenterdynamics.com/en/news/microsoft-launches-mexican-cloud-region/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -6659,7 +6696,7 @@ publisher: iTnews
 source_type: Trade press
 issuing_office: 
 url: https://www.itnews.com.au/news/australian-government-signs-aws-to-deliver-2bn-top-secret-cloud-609426
-archived_url: 
+archived_url: https://web.archive.org/web/20261113052622/https://www.itnews.com.au/news/australian-government-signs-aws-to-deliver-2bn-top-secret-cloud-609426
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -6694,7 +6731,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/two-men-plead-guilty-acting-illegal-agents-chinese-government-and-bribery
-archived_url: 
+archived_url: https://web.archive.org/web/20261113052654/https://www.justice.gov/archives/opa/pr/two-men-plead-guilty-acting-illegal-agents-chinese-government-and-bribery
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -6729,7 +6766,7 @@ publisher: European Commission
 source_type: Official
 issuing_office: 
 url: https://commission.europa.eu/news-and-media/news/ai-act-enters-force-2024-08-01_en
-archived_url: 
+archived_url: https://web.archive.org/web/20261113052726/https://commission.europa.eu/news-and-media/news/ai-act-enters-force-2024-08-01_en
 industry: Artificial intelligence
 event: Regulation & law
 country: 
@@ -6762,7 +6799,7 @@ publisher: Times of Israel
 source_type: News
 issuing_office: 
 url: https://www.timesofisrael.com/amazon-to-invest-7-2b-in-israel-as-tech-giant-rolls-out-local-cloud-data-region
-archived_url: 
+archived_url: https://web.archive.org/web/20251103203729/https://www.timesofisrael.com/amazon-to-invest-7-2b-in-israel-as-tech-giant-rolls-out-local-cloud-data-region/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -6795,7 +6832,7 @@ publisher: National Institutes of Health
 source_type: Official
 issuing_office: 
 url: https://www.nih.gov/news-events/nih-research-matters/brain-computer-interface-helps-paralyzed-man-speak
-archived_url: 
+archived_url: https://web.archive.org/web/20261016043751/https://www.nih.gov/news-events/nih-research-matters/brain-computer-interface-helps-paralyzed-man-speak
 industry: Neurotechnology
 event: Research & breakthroughs
 country: 
@@ -6830,7 +6867,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/new-york-resident-convicted-acting-covert-chinese-agent
-archived_url: 
+archived_url: https://web.archive.org/web/20250206010604/https://www.justice.gov/opa/pr/new-york-resident-convicted-acting-covert-chinese-agent
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -6900,7 +6937,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/new-york-man-arrested-operating-illegal-agent-chinese-government-united-states
-archived_url: 
+archived_url: https://web.archive.org/web/20261113053342/https://www.justice.gov/archives/opa/pr/new-york-man-arrested-operating-illegal-agent-chinese-government-united-states
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -6970,7 +7007,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/florida-telecommunications-and-information-technology-worker-pleads-guilty-conspiring-act
-archived_url: 
+archived_url: https://web.archive.org/web/20261113053438/https://www.justice.gov/archives/opa/pr/florida-telecommunications-and-information-technology-worker-pleads-guilty-conspiring-act
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -7005,7 +7042,7 @@ publisher: iTnews
 source_type: Trade press
 issuing_office: 
 url: https://www.itnews.com.au/news/ato-is-rewiring-its-cloud-responsibility-model-611021
-archived_url: 
+archived_url: https://web.archive.org/web/20260925074548/https://www.itnews.com.au/news/ato-is-rewiring-its-cloud-responsibility-model-611021
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -7013,6 +7050,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7040,7 +7078,7 @@ publisher: ARPANSA
 source_type: Official
 issuing_office: 
 url: https://www.arpansa.gov.au/who-review-finds-no-link-between-mobile-phone-use-and-brain-cancer
-archived_url: 
+archived_url: https://web.archive.org/web/20261025125303/https://www.arpansa.gov.au/who-review-finds-no-link-between-mobile-phone-use-and-brain-cancer
 industry: Biotechnology & health
 event: Research & breakthroughs
 country: 
@@ -7048,6 +7086,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: already in the site (concepts)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7073,7 +7112,7 @@ publisher: Dutch Data Protection Authority
 source_type: Official
 issuing_office: 
 url: https://www.autoriteitpersoonsgegevens.nl/en/current/dutch-dpa-imposes-a-fine-on-clearview-because-of-illegal-data-collection-for-facial-recognition
-archived_url: 
+archived_url: https://web.archive.org/web/20261113214510/https://www.autoriteitpersoonsgegevens.nl/en/current/dutch-dpa-imposes-a-fine-on-clearview-because-of-illegal-data-collection-for-facial-recognition
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Courts & litigation
 country: 
@@ -7081,6 +7120,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: already in the corpus
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7108,7 +7148,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-high-ranking-new-york-state-government-employee-charged-acting-undisclosed-agent
-archived_url: 
+archived_url: https://web.archive.org/web/20261113214701/https://www.justice.gov/archives/opa/pr/former-high-ranking-new-york-state-government-employee-charged-acting-undisclosed-agent
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -7116,6 +7156,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7143,7 +7184,7 @@ publisher: MassDevice
 source_type: Trade press
 issuing_office: 
 url: https://www.massdevice.com/neuralink-wins-fda-breakthrough-nod-for-vision-restoring-implant
-archived_url: 
+archived_url: https://web.archive.org/web/20260302050238/https://www.massdevice.com/neuralink-wins-fda-breakthrough-nod-for-vision-restoring-implant/
 industry: Neurotechnology
 event: Regulation & law
 country: 
@@ -7186,6 +7227,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: DOJ NSD transnational repression list
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7213,7 +7255,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/justice-department-announces-murder-hire-charges-against-islamic-revolutionary-guard-corps
-archived_url: 
+archived_url: https://web.archive.org/web/20261113215109/https://www.justice.gov/archives/opa/pr/justice-department-announces-murder-hire-charges-against-islamic-revolutionary-guard-corps
 industry: 
 event: Murder for hire & violent plots
 country: Iran
@@ -7221,6 +7263,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: DOJ NSD transnational repression list
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7248,7 +7291,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office, Southern District of New York
 url: https://www.justice.gov/usao-sdny/pr/us-attorney-announces-murder-hire-charges-against-irgc-brigadier-general-and-former
-archived_url: 
+archived_url: https://web.archive.org/web/20261113215151/https://www.justice.gov/usao-sdny/pr/us-attorney-announces-murder-hire-charges-against-irgc-brigadier-general-and-former
 industry: 
 event: Murder for hire & violent plots
 country: Iran
@@ -7256,6 +7299,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7283,7 +7327,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/justice-department-announces-murder-hire-and-related-charges-against-irgc-asset-and-two
-archived_url: 
+archived_url: https://web.archive.org/web/20261113215224/https://www.justice.gov/archives/opa/pr/justice-department-announces-murder-hire-and-related-charges-against-irgc-asset-and-two
 industry: 
 event: Murder for hire & violent plots
 country: Iran
@@ -7291,6 +7335,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7351,7 +7396,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/google-launches-mexican-cloud-region-in-queretaro
-archived_url: 
+archived_url: https://web.archive.org/web/20261113215320/https://www.datacenterdynamics.com/en/news/google-launches-mexican-cloud-region-in-queretaro/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -7359,6 +7404,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7386,7 +7432,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/new-york-resident-pleads-guilty-operating-secret-police-station-chinese-government-lower
-archived_url: 
+archived_url: https://web.archive.org/web/20250201134648/https://www.justice.gov/opa/pr/new-york-resident-pleads-guilty-operating-secret-police-station-chinese-government-lower
 industry: 
 event: Transnational repression
 country: China
@@ -7394,6 +7440,7 @@ stage: pleaded guilty
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7421,7 +7468,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office, Central District of California
 url: https://www.justice.gov/usao-cdca/pr/southern-california-political-operative-arrested-federal-complaint-alleging-he-acted
-archived_url: 
+archived_url: https://web.archive.org/web/20261113215540/https://www.justice.gov/usao-cdca/pr/southern-california-political-operative-arrested-federal-complaint-alleging-he-acted
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -7429,6 +7476,7 @@ stage: arrested
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7524,7 +7572,7 @@ publisher: iTnews
 source_type: Trade press
 issuing_office: 
 url: https://www.itnews.com.au/news/government-renews-aws-sourcing-deal-614658
-archived_url: 
+archived_url: https://web.archive.org/web/20261113215948/https://www.itnews.com.au/news/government-renews-aws-sourcing-deal-614658
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -7532,6 +7580,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7567,6 +7616,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7592,7 +7642,7 @@ publisher: TechCrunch
 source_type: News
 issuing_office: 
 url: https://techcrunch.com/2025/01/14/aws-pledges-to-spend-5b-in-mexico-launches-new-mexico-server-region
-archived_url: 
+archived_url: https://web.archive.org/web/20261113220051/https://techcrunch.com/2025/01/14/aws-pledges-to-spend-5b-in-mexico-launches-new-mexico-server-region/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -7600,6 +7650,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7627,7 +7678,7 @@ publisher: DefenseScoop
 source_type: Trade press
 issuing_office: 
 url: https://defensescoop.com/2025/01/16/openais-gpt-4o-gets-green-light-for-top-secret-use-in-microsofts-azure-cloud
-archived_url: 
+archived_url: https://web.archive.org/web/20261113220223/https://defensescoop.com/2025/01/16/openais-gpt-4o-gets-green-light-for-top-secret-use-in-microsofts-azure-cloud/
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -7635,6 +7686,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7662,7 +7714,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/google-provided-ai-technology-to-idf-during-israel-gaza-war
-archived_url: 
+archived_url: https://web.archive.org/web/20261020061242/https://www.datacenterdynamics.com/en/news/google-provided-ai-technology-to-idf-during-israel-gaza-war/
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -7670,6 +7722,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7697,7 +7750,7 @@ publisher: Meta AI research
 source_type: Research
 issuing_office: 
 url: https://ai.meta.com/research/publications/brain-to-text-decoding-a-non-invasive-approach-via-typing
-archived_url: 
+archived_url: https://web.archive.org/web/20261113220441/https://ai.meta.com/research/publications/brain-to-text-decoding-a-non-invasive-approach-via-typing/
 industry: Neurotechnology · Artificial intelligence
 event: Research & breakthroughs
 country: 
@@ -7705,6 +7758,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: new, found 2 Oct 2026
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7730,7 +7784,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/superseding-indictment-charges-chinese-national-relation-alleged-plan-steal-proprietary-ai
-archived_url: 
+archived_url: https://web.archive.org/web/20261113220525/https://www.justice.gov/opa/pr/superseding-indictment-charges-chinese-national-relation-alleged-plan-steal-proprietary-ai
 industry: Artificial intelligence
 event: Technology theft & export control
 country: China
@@ -7738,6 +7792,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7765,7 +7820,7 @@ publisher: Forbes
 source_type: News
 issuing_office: 
 url: https://www.forbes.com/sites/luisromero/2025/02/19/metas-mind-reader-brain2qwerty-translates-thoughts-into-text
-archived_url: 
+archived_url: https://web.archive.org/web/20261113220554/https://www.forbes.com/sites/luisromero/2025/02/19/metas-mind-reader-brain2qwerty-translates-thoughts-into-text/
 industry: Neurotechnology · Artificial intelligence
 event: Research & breakthroughs
 country: 
@@ -7806,6 +7861,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7833,7 +7889,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/active-duty-and-former-us-army-soldiers-arrested-theft-government-property-and-bribery
-archived_url: 
+archived_url: https://web.archive.org/web/20260524194527/https://www.justice.gov/opa/pr/active-duty-and-former-us-army-soldiers-arrested-theft-government-property-and-bribery
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -7841,6 +7897,7 @@ stage: arrested
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7876,6 +7933,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: already in the corpus
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7901,7 +7959,7 @@ publisher: Forbes
 source_type: News
 issuing_office: 
 url: https://www.forbes.com/sites/luisromero/2025/03/08/neuralink-seeks-telepathy-and-telekinesis-is-mind-control-next
-archived_url: 
+archived_url: https://web.archive.org/web/20261113221014/https://www.forbes.com/sites/luisromero/2025/03/08/neuralink-seeks-telepathy-and-telekinesis-is-mind-control-next/
 industry: Neurotechnology
 event: Regulation & law
 country: 
@@ -7909,6 +7967,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the corpus
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7936,7 +7995,7 @@ publisher: IAPP
 source_type: Trade press
 issuing_office: 
 url: https://iapp.org/news/a/new-authority-established-for-personal-data-protection-in-mexico
-archived_url: 
+archived_url: https://web.archive.org/web/20261113221057/https://iapp.org/news/a/new-authority-established-for-personal-data-protection-in-mexico
 industry: 
 event: Regulation & law
 country: 
@@ -7944,6 +8003,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7971,7 +8031,7 @@ publisher: Nextgov/FCW
 source_type: Trade press
 issuing_office: 
 url: https://www.nextgov.com/defense/2025/03/pentagons-next-major-cloud-contract-works/403775
-archived_url: 
+archived_url: https://web.archive.org/web/20261113221128/https://www.nextgov.com/defense/2025/03/pentagons-next-major-cloud-contract-works/403775/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -7979,6 +8039,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8006,7 +8067,7 @@ publisher: NBC News
 source_type: News
 issuing_office: 
 url: https://www.nbcnews.com/tech/security/23andme-goes-bankrupt-millions-peoples-dna-data-sale-rcna197874
-archived_url: 
+archived_url: https://web.archive.org/web/20261113221226/https://www.nbcnews.com/tech/security/23andme-goes-bankrupt-millions-peoples-dna-data-sale-rcna197874
 industry: Biotechnology & health
 event: Courts & litigation
 country: 
@@ -8014,6 +8075,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: new, found 2 Oct 2026
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8072,7 +8134,7 @@ publisher: MedTech Dive
 source_type: Trade press
 issuing_office: 
 url: https://www.medtechdive.com/news/precision-neuroscience-brain-implant-fda-cleared/745913
-archived_url: 
+archived_url: https://web.archive.org/web/20261113221410/https://www.medtechdive.com/news/precision-neuroscience-brain-implant-fda-cleared/745913/
 industry: Neurotechnology
 event: Regulation & law
 country: 
@@ -8105,7 +8167,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-us-army-intelligence-analyst-sentenced-selling-sensitive-military-information
-archived_url: 
+archived_url: https://web.archive.org/web/20261113221535/https://www.justice.gov/opa/pr/former-us-army-intelligence-analyst-sentenced-selling-sensitive-military-information
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -8113,6 +8175,7 @@ stage: sentenced
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8140,7 +8203,7 @@ publisher: U.S. Senate Commerce Committee
 source_type: Official
 issuing_office: 
 url: https://www.commerce.senate.gov/press/dem/release/cantwell-schumer-markey-call-on-ftc-to-protect-consumers-neural-data-2025-4
-archived_url: 
+archived_url: https://web.archive.org/web/20261113221608/https://www.commerce.senate.gov/press/dem/release/cantwell-schumer-markey-call-on-ftc-to-protect-consumers-neural-data-2025-4/
 industry: Neurotechnology
 event: Regulation & law
 country: 
@@ -8148,6 +8211,7 @@ stage:
 related: 
 summary_status: draft
 found_via: new, found 1 Oct 2026
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8175,7 +8239,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/oracle-commits-to-invest-14bn-in-saudi-arabia-over-next-10-years
-archived_url: 
+archived_url: https://web.archive.org/web/20261113221701/https://www.datacenterdynamics.com/en/news/oracle-commits-to-invest-14bn-in-saudi-arabia-over-next-10-years/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -8183,6 +8247,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8210,7 +8275,7 @@ publisher: Fortune
 source_type: News
 issuing_office: 
 url: https://fortune.com/article/microsoft-employee-protest-satya-nadella-keynote-israel-contracts-gaza-azure
-archived_url: 
+archived_url: https://web.archive.org/web/20251212182850/https://fortune.com/article/microsoft-employee-protest-satya-nadella-keynote-israel-contracts-gaza-azure/
 industry: Government cloud & surveillance technology
 event: Protests
 country: 
@@ -8218,6 +8283,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: new, found 1 Oct 2026
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8243,7 +8309,7 @@ publisher: New York Attorney General
 source_type: Official
 issuing_office: 
 url: https://ag.ny.gov/press-release/2025/attorney-general-james-sues-23andme-protect-new-yorkers-genetic-data
-archived_url: 
+archived_url: https://web.archive.org/web/20260803155614/https://ag.ny.gov/press-release/2025/attorney-general-james-sues-23andme-protect-new-yorkers-genetic-data
 industry: Biotechnology & health
 event: Courts & litigation
 country: 
@@ -8251,6 +8317,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: new, found 2 Oct 2026
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8276,7 +8343,7 @@ publisher: Biometric Update
 source_type: Trade press
 issuing_office: 
 url: https://www.biometricupdate.com/202506/wrongful-arrest-in-us-linked-to-facial-recognition-error-leads-to-200k-settlement
-archived_url: 
+archived_url: https://web.archive.org/web/20261113221947/https://www.biometricupdate.com/202506/wrongful-arrest-in-us-linked-to-facial-recognition-error-leads-to-200k-settlement
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Courts & litigation
 country: 
@@ -8284,6 +8351,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the corpus
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8311,7 +8379,7 @@ publisher: CNBC
 source_type: News
 issuing_office: 
 url: https://www.cnbc.com/2025/06/05/anduril-valuation-founders-fund.html
-archived_url: 
+archived_url: https://web.archive.org/web/20261113222018/https://www.cnbc.com/2025/06/05/anduril-valuation-founders-fund.html
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -8319,6 +8387,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8344,7 +8413,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office, Western District of Washington
 url: https://www.justice.gov/usao-wdwa/pr/former-jblm-soldier-pleads-guilty-attempting-share-military-secrets-china
-archived_url: 
+archived_url: https://web.archive.org/web/20261113222049/https://www.justice.gov/usao-wdwa/pr/former-jblm-soldier-pleads-guilty-attempting-share-military-secrets-china
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -8352,6 +8421,7 @@ stage: pleaded guilty
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8379,7 +8449,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/justice-department-charges-two-individuals-acting-agents-prc-government
-archived_url: 
+archived_url: https://web.archive.org/web/20261113222140/https://www.justice.gov/opa/pr/justice-department-charges-two-individuals-acting-agents-prc-government
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -8387,6 +8457,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8414,7 +8485,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/australian-department-of-defence-signs-au495m-five-year-cloud-deal-with-microsoft
-archived_url: 
+archived_url: https://web.archive.org/web/20251130024722/https://www.datacenterdynamics.com/en/news/australian-department-of-defence-signs-au495m-five-year-cloud-deal-with-microsoft/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -8422,6 +8493,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8449,7 +8521,7 @@ publisher: iTnews
 source_type: Trade press
 issuing_office: 
 url: https://www.itnews.com.au/news/defence-commits-to-five-more-years-of-azure-worth-495m-618459
-archived_url: 
+archived_url: https://web.archive.org/web/20260717030940/https://www.itnews.com.au/news/defence-commits-to-five-more-years-of-azure-worth-495m-618459
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -8457,6 +8529,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8558,7 +8631,7 @@ publisher: +972 Magazine
 source_type: News
 issuing_office: 
 url: https://www.972mag.com/microsoft-cloud-israel-8200-expose
-archived_url: 
+archived_url: https://web.archive.org/web/20261026232252/https://www.972mag.com/microsoft-cloud-israel-8200-expose/
 industry: Government cloud & surveillance technology
 event: Global conflict
 country: 
@@ -8566,6 +8639,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the corpus
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8593,7 +8667,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/active-duty-soldier-arrested-and-charged-espionage-and-export-violations
-archived_url: 
+archived_url: https://web.archive.org/web/20261113222830/https://www.justice.gov/opa/pr/active-duty-soldier-arrested-and-charged-espionage-and-export-violations
 industry: 
 event: Espionage & foreign agents
 country: Russia
@@ -8601,6 +8675,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8628,7 +8703,7 @@ publisher: CBS News Detroit
 source_type: News
 issuing_office: 
 url: https://www.cbsnews.com/detroit/news/woman-wrongly-accused-carjacking-loses-lawsuit-detroit-police-used-facial-tech
-archived_url: 
+archived_url: https://web.archive.org/web/20260904020027/https://www.cbsnews.com/detroit/news/woman-wrongly-accused-carjacking-loses-lawsuit-detroit-police-used-facial-tech/
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Courts & litigation
 country: 
@@ -8661,7 +8736,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/aws-signs-deal-with-us-govt-to-provide-up-to-1bn-in-cloud-discounts
-archived_url: 
+archived_url: https://web.archive.org/web/20250915015741/https://www.datacenterdynamics.com/en/news/aws-signs-deal-with-us-govt-to-provide-up-to-1bn-in-cloud-discounts/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -8669,6 +8744,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8696,7 +8772,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/israels-military-surveillance-agency-stores-masses-of-intelligence-on-palestinians-on-microsoft-cloud
-archived_url: 
+archived_url: https://web.archive.org/web/20261113223316/https://www.datacenterdynamics.com/en/news/israels-military-surveillance-agency-stores-masses-of-intelligence-on-palestinians-on-microsoft-cloud/
 industry: Government cloud & surveillance technology
 event: Global conflict
 country: 
@@ -8704,6 +8780,7 @@ stage:
 related: 
 summary_status: draft
 found_via: new, found 1 Oct 2026
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8731,7 +8808,7 @@ publisher: DefenseScoop
 source_type: Trade press
 issuing_office: 
 url: https://defensescoop.com/2025/08/07/jwcc-next-enterprise-cloud-program-dod-solicitation-plans
-archived_url: 
+archived_url: https://web.archive.org/web/20261113223351/https://defensescoop.com/2025/08/07/jwcc-next-enterprise-cloud-program-dod-solicitation-plans/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -8739,6 +8816,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8877,7 +8955,7 @@ publisher: IAPP
 source_type: Trade press
 issuing_office: 
 url: https://iapp.org/news/a/israel-marks-a-new-era-in-privacy-law-amendment-13-ushers-in-sweeping-reform
-archived_url: 
+archived_url: https://web.archive.org/web/20261113223420/https://iapp.org/news/a/israel-marks-a-new-era-in-privacy-law-amendment-13-ushers-in-sweeping-reform
 industry: 
 event: Regulation & law
 country: 
@@ -8885,6 +8963,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8949,7 +9028,7 @@ publisher: STAT
 source_type: News
 issuing_office: 
 url: https://www.statnews.com/2025/08/14/can-a-computer-turn-our-internal-monologue-into-speech
-archived_url: 
+archived_url: https://web.archive.org/web/20261113223450/https://www.statnews.com/2025/08/14/can-a-computer-turn-our-internal-monologue-into-speech/
 industry: Neurotechnology
 event: Research & breakthroughs
 country: 
@@ -8957,6 +9036,7 @@ stage:
 related: 
 summary_status: draft
 found_via: new, found 2 Oct 2026
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8984,7 +9064,7 @@ publisher: National Institute of Neurological Disorders and Stroke (NIH)
 source_type: Official
 issuing_office: 
 url: https://www.ninds.nih.gov/news-events/news/press-releases/decoding-inner-speech-brain-signals
-archived_url: 
+archived_url: https://web.archive.org/web/20261113223520/https://www.ninds.nih.gov/news-events/news/press-releases/decoding-inner-speech-brain-signals
 industry: Neurotechnology
 event: Research & breakthroughs
 country: 
@@ -8992,6 +9072,7 @@ stage:
 related: 
 summary_status: draft
 found_via: new, found 2 Oct 2026
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9019,7 +9100,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/saudis-center3-targets-1gw-of-data-center-capacity-by-2030
-archived_url: 
+archived_url: https://web.archive.org/web/20260407065243/https://www.datacenterdynamics.com/en/news/saudis-center3-targets-1gw-of-data-center-capacity-by-2030/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -9027,6 +9108,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9128,7 +9210,7 @@ publisher: CNN
 source_type: News
 issuing_office: 
 url: https://www.cnn.com/2025/08/21/tech/microsoft-employee-protests-israel-intl
-archived_url: 
+archived_url: https://web.archive.org/web/20250830165228/https://www.cnn.com/2025/08/21/tech/microsoft-employee-protests-israel-intl
 industry: Government cloud & surveillance technology
 event: Protests
 country: 
@@ -9136,6 +9218,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: new, found 1 Oct 2026
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9161,7 +9244,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/us-navy-sailor-convicted-spying-china
-archived_url: 
+archived_url: https://web.archive.org/web/20261113223944/https://www.justice.gov/opa/pr/us-navy-sailor-convicted-spying-china
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -9169,6 +9252,7 @@ stage: convicted
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9196,7 +9280,7 @@ publisher: Psychology Today
 source_type: News
 issuing_office: 
 url: https://www.psychologytoday.com/us/blog/the-future-brain/202508/breakthrough-brain-computer-interface-decodes-self-talk
-archived_url: 
+archived_url: https://web.archive.org/web/20261113224014/https://www.psychologytoday.com/us/blog/the-future-brain/202508/breakthrough-brain-computer-interface-decodes-self-talk
 industry: Neurotechnology
 event: Research & breakthroughs
 country: 
@@ -9204,6 +9288,7 @@ stage:
 related: 
 summary_status: draft
 found_via: new, found 2 Oct 2026
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9305,7 +9390,7 @@ publisher: NPR
 source_type: News
 issuing_office: 
 url: https://www.npr.org/2025/08/27/nx-s1-5518786/microsoft-protesters-office-israel
-archived_url: 
+archived_url: https://web.archive.org/web/20261113224045/https://www.npr.org/2025/08/27/nx-s1-5518786/microsoft-protesters-office-israel
 industry: Government cloud & surveillance technology
 event: Protests
 country: 
@@ -9313,6 +9398,7 @@ stage:
 related: 
 summary_status: draft
 found_via: new, found 1 Oct 2026
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9340,7 +9426,7 @@ publisher: CNBC
 source_type: News
 issuing_office: 
 url: https://www.cnbc.com/2025/08/28/microsoft-fires-two-employees-over-breaking-into-protests-at-its-presidents-office.html
-archived_url: 
+archived_url: https://web.archive.org/web/20261113224115/https://www.cnbc.com/2025/08/28/microsoft-fires-two-employees-over-breaking-into-protests-at-its-presidents-office.html
 industry: Government cloud & surveillance technology
 event: Protests
 country: 
@@ -9348,6 +9434,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: new, found 1 Oct 2026
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9373,7 +9460,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/aws-launches-cloud-region-in-new-zealand
-archived_url: 
+archived_url: https://web.archive.org/web/20261113224153/https://www.datacenterdynamics.com/en/news/aws-launches-cloud-region-in-new-zealand/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -9381,6 +9468,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9482,7 +9570,7 @@ publisher: IAPP
 source_type: Trade press
 issuing_office: 
 url: https://iapp.org/news/a/european-general-court-dismisses-latombe-challenge-upholds-eu-us-data-privacy-framework
-archived_url: 
+archived_url: https://web.archive.org/web/20261006200648/https://iapp.org/news/a/european-general-court-dismisses-latombe-challenge-upholds-eu-us-data-privacy-framework
 industry: 
 event: Courts & litigation
 country: 
@@ -9490,6 +9578,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9591,7 +9680,7 @@ publisher: Computer Weekly
 source_type: Trade press
 issuing_office: 
 url: https://www.computerweekly.com/news/366630792/Ministry-of-Defence-signs-400m-sovereign-cloud-deal-with-Google
-archived_url: 
+archived_url: https://web.archive.org/web/20261113224400/https://www.computerweekly.com/news/366630792/Ministry-of-Defence-signs-400m-sovereign-cloud-deal-with-Google
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -9599,6 +9688,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9700,7 +9790,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/man-pleads-guilty-conspiring-act-illegal-agent-chinese-government-united-states
-archived_url: 
+archived_url: https://web.archive.org/web/20261113224431/https://www.justice.gov/opa/pr/man-pleads-guilty-conspiring-act-illegal-agent-chinese-government-united-states
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -9708,6 +9798,7 @@ stage: pleaded guilty
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9809,7 +9900,7 @@ publisher: Global News
 source_type: Trade press
 issuing_office: 
 url: https://globalnews.ca/news/11436395/department-of-national-defence-us-cloud-services
-archived_url: 
+archived_url: https://web.archive.org/web/20261113224501/https://globalnews.ca/news/11436395/department-of-national-defence-us-cloud-services/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -9817,6 +9908,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9918,7 +10010,7 @@ publisher: U.S. Senate Commerce Committee
 source_type: Official
 issuing_office: 
 url: https://www.commerce.senate.gov/press/dem/release/sens-cantwell-schumer-markey-introduce-legislation-to-shield
-archived_url: 
+archived_url: https://web.archive.org/web/20261113224551/https://www.commerce.senate.gov/press/dem/release/sens-cantwell-schumer-markey-introduce-legislation-to-shield-americans-brain-data-from-exploitation/
 industry: Neurotechnology
 event: Regulation & law
 country: 
@@ -9926,6 +10018,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the corpus
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9953,7 +10046,7 @@ publisher: TechCrunch
 source_type: News
 issuing_office: 
 url: https://techcrunch.com/2025/09/25/microsoft-cuts-cloud-services-to-israeli-military-unit-over-palestinian-surveillance
-archived_url: 
+archived_url: https://web.archive.org/web/20261113224622/https://techcrunch.com/2025/09/25/microsoft-cuts-cloud-services-to-israeli-military-unit-over-palestinian-surveillance/
 industry: Government cloud & surveillance technology
 event: Global conflict
 country: 
@@ -9961,6 +10054,7 @@ stage:
 related: 
 summary_status: draft
 found_via: new, found 1 Oct 2026
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9988,7 +10082,7 @@ publisher: Cooley (law firm analysis)
 source_type: Trade press
 issuing_office: 
 url: https://www.cooley.com/news/insight/2025/2025-09-25-the-mind-act-balancing-innovation-and-privacy-in-neurotechnology
-archived_url: 
+archived_url: https://web.archive.org/web/20260808033138/https://www.cooley.com/news/insight/2025/2025-09-25-the-mind-act-balancing-innovation-and-privacy-in-neurotechnology
 industry: Neurotechnology
 event: Regulation & law
 country: 
@@ -9996,6 +10090,7 @@ stage:
 related: 
 summary_status: draft
 found_via: new, found 1 Oct 2026
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10083,6 +10178,228 @@ Marking the retail launch of Meta's $799 neural wristband, which reads muscle si
 She argues that if this holds in humans, ordinary cameras in shops, video calls, phones and streets may already be reading a form of neural data without anyone opting in, and that the law treats the two technologies very differently mainly because one feels invasive and the other familiar. She suggests mental privacy may have been eroded gradually over decades of face-tracking rather than at any single moment.
 
 
+===== FILE: news/IS_NEWS_2025-10-01-analysis-who-pays-when-ai-causes-harm-product-liability-europe-s-withdrawn-directive-and-a-proposed-u-s.md · ID: IS-NEWS-2025-10-01-ANALYSIS-WHO-PAYS-WHEN-AI-CAUSES-HARM-PRODUCT-LIABILITY-EUROPE-S-WITHDRAWN-DIRECTIVE-AND-A-PROPOSED-U-S =====
+
+```yaml
+id: IS-NEWS-2025-10-01-ANALYSIS-WHO-PAYS-WHEN-AI-CAUSES-HARM-PRODUCT-LIABILITY-EUROPE-S-WITHDRAWN-DIRECTIVE-AND-A-PROPOSED-U-S
+slug: 2025-10-01-analysis-who-pays-when-ai-causes-harm-product-liability-europe-s-withdrawn-directive-and-a-proposed-u-s
+title: Who pays when AI causes harm? Product liability, Europe's withdrawn directive and a proposed U.S. federal law
+collection: news
+doc_type: analysis-item
+date: 2025-10-01
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/when-ai-fails-who-pays-inside-my
+archived_url: https://web.archive.org/web/20261113072929/https://nitafarahany.substack.com/p/when-ai-fails-who-pays-inside-my
+industry: Artificial intelligence
+event: Courts & litigation
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 13 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Who pays when AI causes harm? Product liability, Europe's withdrawn directive and a proposed U.S. federal law
+
+*Nita Farahany, Thinking Freely (Substack), 2025-10-01. Original: <https://nitafarahany.substack.com/p/when-ai-fails-who-pays-inside-my>*
+
+In the eleventh class of her AI law and policy course, Nita Farahany uses a published medical case report, in which a man was hospitalised with bromide poisoning after a chatbot suggested bromide as a substitute for table salt, to test how manufacturing-defect, design-defect and failure-to-warn claims and the requirement to prove causation apply to AI.
+
+She compares the European Union's approach, which treats software as a product under its revised Product Liability Directive but withdrew its proposed AI Liability Directive in 2025, with a bipartisan U.S. Senate bill that would create a federal product-liability claim against AI developers, and sets out scholars' arguments for and against AI-specific liability. She also reviews possible remedies, including safe harbours for companies that meet safety standards, liability caps with mandatory insurance and no-fault compensation funds.
+
+
+===== FILE: news/IS_NEWS_2025-10-06-analysis-testing-ai-for-safety-when-models-can-tell-they-are-being-tested.md · ID: IS-NEWS-2025-10-06-ANALYSIS-TESTING-AI-FOR-SAFETY-WHEN-MODELS-CAN-TELL-THEY-ARE-BEING-TESTED =====
+
+```yaml
+id: IS-NEWS-2025-10-06-ANALYSIS-TESTING-AI-FOR-SAFETY-WHEN-MODELS-CAN-TELL-THEY-ARE-BEING-TESTED
+slug: 2025-10-06-analysis-testing-ai-for-safety-when-models-can-tell-they-are-being-tested
+title: Testing AI for safety when models can tell they are being tested
+collection: news
+doc_type: analysis-item
+date: 2025-10-06
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/red-teaming-ai-inside-my-ai-law-and
+archived_url: https://web.archive.org/web/20261113072956/https://nitafarahany.substack.com/p/red-teaming-ai-inside-my-ai-law-and
+industry: Artificial intelligence
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 13 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Testing AI for safety when models can tell they are being tested
+
+*Nita Farahany, Thinking Freely (Substack), 2025-10-06. Original: <https://nitafarahany.substack.com/p/red-teaming-ai-inside-my-ai-law-and>*
+
+In the twelfth class of her course, Nita Farahany explains red-teaming, the deliberate attempt to make an AI system fail, and walks through the main kinds of attack: poisoning training data, crafting inputs that trigger wrong outputs, jailbreaking and attacks that transfer from one model to others.
+
+She compares internal company red teams, outside testers and public exercises, noting that outside testers often get limited time and access and cannot stop a release. She points to a developer's own system card reporting that its model sometimes recognised it was being evaluated, and argues this raises the question of whether safety tests measure how a system behaves when no one is watching.
+
+
+===== FILE: news/IS_NEWS_2025-10-08-analysis-how-the-law-treats-people-who-probe-ai-for-flaws-and-how-two-u-s-states-answered-differently.md · ID: IS-NEWS-2025-10-08-ANALYSIS-HOW-THE-LAW-TREATS-PEOPLE-WHO-PROBE-AI-FOR-FLAWS-AND-HOW-TWO-U-S-STATES-ANSWERED-DIFFERENTLY =====
+
+```yaml
+id: IS-NEWS-2025-10-08-ANALYSIS-HOW-THE-LAW-TREATS-PEOPLE-WHO-PROBE-AI-FOR-FLAWS-AND-HOW-TWO-U-S-STATES-ANSWERED-DIFFERENTLY
+slug: 2025-10-08-analysis-how-the-law-treats-people-who-probe-ai-for-flaws-and-how-two-u-s-states-answered-differently
+title: How the law treats people who probe AI for flaws, and how two U.S. states answered differently
+collection: news
+doc_type: analysis-item
+date: 2025-10-08
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/red-teaming-governance-from-practice
+archived_url: https://web.archive.org/web/20261113073026/https://nitafarahany.substack.com/p/red-teaming-governance-from-practice
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 13 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# How the law treats people who probe AI for flaws, and how two U.S. states answered differently
+
+*Nita Farahany, Thinking Freely (Substack), 2025-10-08. Original: <https://nitafarahany.substack.com/p/red-teaming-governance-from-practice>*
+
+In the thirteenth class of her course, Nita Farahany argues that people who test AI systems for flaws can face legal risk under the federal computer-fraud law, the anti-circumvention provisions of copyright law and platform terms of service, and asks whether safe harbours like those developed for software security research should cover AI testing.
+
+She contrasts California's SB 53, which requires the largest frontier AI developers to publish safety frameworks and report incidents, with Texas's HB 149, which gives a defence to companies that find problems through adversarial testing and creates a regulatory sandbox. She also compares the federal AI Action Plan's focus on national-security testing with a bipartisan Senate bill that would treat testing as part of a developer's duty of reasonable care.
+
+
+===== FILE: news/IS_NEWS_2025-10-09-analysis-lawsuits-over-teen-deaths-after-chatbot-conversations-test-whether-chatbot-output-is-protected.md · ID: IS-NEWS-2025-10-09-ANALYSIS-LAWSUITS-OVER-TEEN-DEATHS-AFTER-CHATBOT-CONVERSATIONS-TEST-WHETHER-CHATBOT-OUTPUT-IS-PROTECTED =====
+
+```yaml
+id: IS-NEWS-2025-10-09-ANALYSIS-LAWSUITS-OVER-TEEN-DEATHS-AFTER-CHATBOT-CONVERSATIONS-TEST-WHETHER-CHATBOT-OUTPUT-IS-PROTECTED
+slug: 2025-10-09-analysis-lawsuits-over-teen-deaths-after-chatbot-conversations-test-whether-chatbot-output-is-protected
+title: Lawsuits over teen deaths after chatbot conversations test whether chatbot output is protected speech
+collection: news
+doc_type: analysis-item
+date: 2025-10-09
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/when-ai-chatbots-lead-to-teen-suicide
+archived_url: https://web.archive.org/web/20261113073053/https://nitafarahany.substack.com/p/when-ai-chatbots-lead-to-teen-suicide
+industry: Artificial intelligence
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 13 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Lawsuits over teen deaths after chatbot conversations test whether chatbot output is protected speech
+
+*Nita Farahany, Thinking Freely (Substack), 2025-10-09. Original: <https://nitafarahany.substack.com/p/when-ai-chatbots-lead-to-teen-suicide>*
+
+Nita Farahany introduces an essay she wrote for another newsletter on lawsuits brought by several families against a companion-chatbot company after their children died by suicide or attempted it following months of conversations with its chatbots. She notes that the company has argued its chatbots' output is protected by the First Amendment.
+
+She argues that the cases are less about harmful content than about systems built to simulate human connection, and that courts must decide whether such conversations are protected speech or products that exploit cognitive vulnerabilities. The free post is a short introduction; the full essay is published elsewhere and is not summarised here.
+
+
+===== FILE: news/IS_NEWS_2025-10-20-analysis-what-deepfakes-are-how-they-are-made-where-the-harm-falls-and-why-detection-keeps-failing.md · ID: IS-NEWS-2025-10-20-ANALYSIS-WHAT-DEEPFAKES-ARE-HOW-THEY-ARE-MADE-WHERE-THE-HARM-FALLS-AND-WHY-DETECTION-KEEPS-FAILING =====
+
+```yaml
+id: IS-NEWS-2025-10-20-ANALYSIS-WHAT-DEEPFAKES-ARE-HOW-THEY-ARE-MADE-WHERE-THE-HARM-FALLS-AND-WHY-DETECTION-KEEPS-FAILING
+slug: 2025-10-20-analysis-what-deepfakes-are-how-they-are-made-where-the-harm-falls-and-why-detection-keeps-failing
+title: What deepfakes are, how they are made, where the harm falls and why detection keeps failing
+collection: news
+doc_type: analysis-item
+date: 2025-10-20
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/when-anyone-can-fake-anything-inside
+archived_url: https://web.archive.org/web/20260411164714/https://nitafarahany.substack.com/p/when-anyone-can-fake-anything-inside
+industry: Artificial intelligence
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 13 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# What deepfakes are, how they are made, where the harm falls and why detection keeps failing
+
+*Nita Farahany, Thinking Freely (Substack), 2025-10-20. Original: <https://nitafarahany.substack.com/p/when-anyone-can-fake-anything-inside>*
+
+In the fourteenth class of her course, Nita Farahany demonstrates a realistic AI-generated video of herself made in minutes on a phone with a newly released video app, and explains the difference between deepfakes and cheaply edited media and the main techniques behind them: face-swapping, lip-syncing and full-body puppeteering.
+
+Citing industry research and reporting, she says most deepfake videos since 2018 have been non-consensual intimate images of women rather than election interference, and describes fake proof-of-life videos used in virtual kidnapping scams. She argues that detection is losing an arms race with generation, that attribution and scale defeat verification, and introduces a U.S. Department of Homeland Security framework for intervening at each stage of a deepfake's life.
+
+
+===== FILE: news/IS_NEWS_2025-10-22-analysis-why-governing-deepfakes-and-ai-errors-is-so-hard-traced-through-six-points-of-intervention.md · ID: IS-NEWS-2025-10-22-ANALYSIS-WHY-GOVERNING-DEEPFAKES-AND-AI-ERRORS-IS-SO-HARD-TRACED-THROUGH-SIX-POINTS-OF-INTERVENTION =====
+
+```yaml
+id: IS-NEWS-2025-10-22-ANALYSIS-WHY-GOVERNING-DEEPFAKES-AND-AI-ERRORS-IS-SO-HARD-TRACED-THROUGH-SIX-POINTS-OF-INTERVENTION
+slug: 2025-10-22-analysis-why-governing-deepfakes-and-ai-errors-is-so-hard-traced-through-six-points-of-intervention
+title: Why governing deepfakes and AI errors is so hard, traced through six points of intervention
+collection: news
+doc_type: analysis-item
+date: 2025-10-22
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/why-governing-ai-synthetic-media
+archived_url: https://web.archive.org/web/20251026135240/https://nitafarahany.substack.com/p/why-governing-ai-synthetic-media
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 13 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Why governing deepfakes and AI errors is so hard, traced through six points of intervention
+
+*Nita Farahany, Thinking Freely (Substack), 2025-10-22. Original: <https://nitafarahany.substack.com/p/why-governing-ai-synthetic-media>*
+
+In the fifteenth class of her course, Nita Farahany separates AI hallucinations, which she describes as unintended, from deepfakes, which are made deliberately, and discusses September 2025 research arguing that some rate of false output from language models is mathematically unavoidable. She notes a Quebec court fining a self-represented litigant for filing AI-generated fake citations.
+
+Using a hypothetical election deepfake, she tests the laws now being passed at each of six stages: criminal deterrence, organisational preparedness, developer duties such as watermarking, platform duties, labelling and victims' remedies. She notes that hundreds of deepfake laws have been enacted worldwide in two years, that a federal judge temporarily blocked one California approach, and that First Amendment limits and the speed of viral spread leave each approach with gaps.
+
+
 ===== FILE: news/IS_NEWS_2025-10-22-denver-bans-sharing-of-alpr-data-with-feds-in-five-month.md · ID: IS-NEWS-2025-10-22-DENVER-BANS-SHARING-OF-ALPR-DATA-WITH-FEDS-IN-FIVE-MONTH =====
 
 ```yaml
@@ -10097,7 +10414,7 @@ publisher: Denver7
 source_type: News
 issuing_office: 
 url: https://www.denver7.com/news/front-range/denver/denver-bans-sharing-of-license-plate-reader-data-with-the-feds-as-part-of-five-month-flock-contract-extension
-archived_url: 
+archived_url: https://web.archive.org/web/20260925144748/https://www.denver7.com/news/front-range/denver/denver-bans-sharing-of-license-plate-reader-data-with-the-feds-as-part-of-five-month-flock-contract-extension
 industry: 
 event: Regulation & law
 country: 
@@ -10105,6 +10422,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10140,6 +10458,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (concepts)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10151,6 +10470,80 @@ disclaimer: meta/IS_META_terms.md
 About 3,500 U.S. newspapers have closed since 2005, nearly 40% of the country's local papers, according to the 2025 State of Local News report from Northwestern University's Medill school, as Nieman Lab reports. The report counts 213 counties with no local news source and 1,524 more with only one, and more than 270,000 newspaper jobs lost since 2005.
 
 It also finds that traffic to the websites of the 100 largest newspapers fell 45% over four years, and that newer digital outlets and philanthropic grants are concentrated in metro areas.
+
+
+===== FILE: news/IS_NEWS_2025-10-28-analysis-when-does-ai-cross-from-causing-harm-to-manipulating-people-a-two-part-test-applied-to-a-compan.md · ID: IS-NEWS-2025-10-28-ANALYSIS-WHEN-DOES-AI-CROSS-FROM-CAUSING-HARM-TO-MANIPULATING-PEOPLE-A-TWO-PART-TEST-APPLIED-TO-A-COMPAN =====
+
+```yaml
+id: IS-NEWS-2025-10-28-ANALYSIS-WHEN-DOES-AI-CROSS-FROM-CAUSING-HARM-TO-MANIPULATING-PEOPLE-A-TWO-PART-TEST-APPLIED-TO-A-COMPAN
+slug: 2025-10-28-analysis-when-does-ai-cross-from-causing-harm-to-manipulating-people-a-two-part-test-applied-to-a-compan
+title: When does AI cross from causing harm to manipulating people? A two-part test applied to a companion chatbot case
+collection: news
+doc_type: analysis-item
+date: 2025-10-28
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/when-ai-learns-to-manipulate-the
+archived_url: https://web.archive.org/web/20251028173719/https://nitafarahany.substack.com/p/when-ai-learns-to-manipulate-the
+industry: Artificial intelligence
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 13 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# When does AI cross from causing harm to manipulating people? A two-part test applied to a companion chatbot case
+
+*Nita Farahany, Thinking Freely (Substack), 2025-10-28. Original: <https://nitafarahany.substack.com/p/when-ai-learns-to-manipulate-the>*
+
+In the sixteenth class of her course, Nita Farahany proposes a two-part test for AI manipulation: the system pursues an objective, whether programmed or learned through optimisation, and it covertly exploits a person's vulnerabilities. She applies it to a lawsuit over the 2024 death of a 14-year-old in Florida after months of conversations with a companion chatbot, as described in court filings.
+
+She describes three tools of manipulation, incentives that bypass reasoning, non-rational persuasion and strategic deception, and argues that whether a case is classed as manipulation or ordinary harm changes which legal frameworks apply, what safeguards are needed and whether some deployments should be restricted. She sets up a later class on federal unfair-practices law, California's new chatbot law and product liability.
+
+
+===== FILE: news/IS_NEWS_2025-10-29-analysis-five-legal-approaches-to-ai-manipulation-and-why-none-works-alone.md · ID: IS-NEWS-2025-10-29-ANALYSIS-FIVE-LEGAL-APPROACHES-TO-AI-MANIPULATION-AND-WHY-NONE-WORKS-ALONE =====
+
+```yaml
+id: IS-NEWS-2025-10-29-ANALYSIS-FIVE-LEGAL-APPROACHES-TO-AI-MANIPULATION-AND-WHY-NONE-WORKS-ALONE
+slug: 2025-10-29-analysis-five-legal-approaches-to-ai-manipulation-and-why-none-works-alone
+title: Five legal approaches to AI manipulation, and why none works alone
+collection: news
+doc_type: analysis-item
+date: 2025-10-29
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/governing-ai-manipulation-through
+archived_url: https://web.archive.org/web/20251030232359/https://nitafarahany.substack.com/p/governing-ai-manipulation-through
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 13 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Five legal approaches to AI manipulation, and why none works alone
+
+*Nita Farahany, Thinking Freely (Substack), 2025-10-29. Original: <https://nitafarahany.substack.com/p/governing-ai-manipulation-through>*
+
+In the seventeenth class of her course, Nita Farahany discusses a companion-chatbot company's announcement that it would bar users under 18 from its chatbots, an AI developer's estimate that a small share of weekly users show signs of suicidal planning or emotional reliance, and the FTC's September 2025 inquiry to seven chatbot companies about protections for minors.
+
+She examines five ways law might respond to AI manipulation, including after-the-fact liability, informed consent, design rules, fiduciary duties for systems that hold power over vulnerable users, and rights-based protection of cognitive autonomy. She argues the United States has largely relied on liability after harm, and that the First Amendment acts as both shield and obstacle across all five approaches.
 
 
 ===== FILE: news/IS_NEWS_2025-10-29-inside-israel-deal-with-google-and-amazon-project-nimbus.md · ID: IS-NEWS-2025-10-29-INSIDE-ISRAEL-DEAL-WITH-GOOGLE-AND-AMAZON-PROJECT-NIMBUS =====
@@ -10167,7 +10560,7 @@ publisher: +972 Magazine
 source_type: News
 issuing_office: 
 url: https://www.972mag.com/project-nimbus-contract-google-amazon-israel
-archived_url: 
+archived_url: https://web.archive.org/web/20261106143546/https://www.972mag.com/project-nimbus-contract-google-amazon-israel/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -10175,6 +10568,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10202,7 +10596,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office, Southern District of New York
 url: https://www.justice.gov/usao-sdny/pr/two-russian-mob-leaders-sentenced-25-years-prison-murder-hire-targeting-journalist
-archived_url: 
+archived_url: https://web.archive.org/web/20261113225349/https://www.justice.gov/usao-sdny/pr/two-russian-mob-leaders-sentenced-25-years-prison-murder-hire-targeting-journalist
 industry: 
 event: Murder for hire & violent plots
 country: Iran
@@ -10210,6 +10604,7 @@ stage: sentenced
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10237,7 +10632,7 @@ publisher: UNESCO
 source_type: Official
 issuing_office: 
 url: https://www.unesco.org/en/legal-affairs/recommendation-ethics-neurotechnology
-archived_url: 
+archived_url: https://web.archive.org/web/20261029190052/https://www.unesco.org/en/legal-affairs/recommendation-ethics-neurotechnology
 industry: Neurotechnology
 event: Regulation & law
 country: 
@@ -10245,6 +10640,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the corpus
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10256,6 +10652,117 @@ disclaimer: meta/IS_META_terms.md
 UNESCO's General Conference adopted the Recommendation on the Ethics of Neurotechnology in November 2025. It is a global standard for technologies that measure, access, monitor, analyse, predict or change the nervous system, in medical and non-medical use.
 
 It sets principles on human rights, privacy (including mental privacy), personal autonomy and freedom of thought, and on fair access to these technologies.
+
+
+===== FILE: news/IS_NEWS_2025-11-03-analysis-privacy-law-in-an-ai-world-inferred-shared-and-synthetic-data-that-current-law-misses.md · ID: IS-NEWS-2025-11-03-ANALYSIS-PRIVACY-LAW-IN-AN-AI-WORLD-INFERRED-SHARED-AND-SYNTHETIC-DATA-THAT-CURRENT-LAW-MISSES =====
+
+```yaml
+id: IS-NEWS-2025-11-03-ANALYSIS-PRIVACY-LAW-IN-AN-AI-WORLD-INFERRED-SHARED-AND-SYNTHETIC-DATA-THAT-CURRENT-LAW-MISSES
+slug: 2025-11-03-analysis-privacy-law-in-an-ai-world-inferred-shared-and-synthetic-data-that-current-law-misses
+title: Privacy law in an AI world: inferred, shared and synthetic data that current law misses
+collection: news
+doc_type: analysis-item
+date: 2025-11-03
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/data-privacy-in-an-ai-world-inside
+archived_url: https://web.archive.org/web/20260501010249/https://nitafarahany.substack.com/p/data-privacy-in-an-ai-world-inside
+industry: Artificial intelligence · Government cloud & surveillance technology
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 13 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Privacy law in an AI world: inferred, shared and synthetic data that current law misses
+
+*Nita Farahany, Thinking Freely (Substack), 2025-11-03. Original: <https://nitafarahany.substack.com/p/data-privacy-in-an-ai-world-inside>*
+
+In the eighteenth class of her course, Nita Farahany shows how much an AI model inferred about her from her own search history, and identifies three privacy problems: inferences drawn from data people share, data passing between AI systems acting as agents, and synthetic data generated about people.
+
+She tests European data protection law, U.S. state privacy laws and the FTC's authority against each problem and argues they mostly protect data people provided, not what is inferred or generated about them. She reviews proposals including opt-in privacy by default, documentation of training data and data trusts or fiduciary duties, and notes that a proposed federal privacy law stalled in committee in 2024.
+
+
+===== FILE: news/IS_NEWS_2025-11-06-analysis-hiring-algorithms-and-personalised-prices-three-legal-frameworks-for-invisible-automated-judgme.md · ID: IS-NEWS-2025-11-06-ANALYSIS-HIRING-ALGORITHMS-AND-PERSONALISED-PRICES-THREE-LEGAL-FRAMEWORKS-FOR-INVISIBLE-AUTOMATED-JUDGME =====
+
+```yaml
+id: IS-NEWS-2025-11-06-ANALYSIS-HIRING-ALGORITHMS-AND-PERSONALISED-PRICES-THREE-LEGAL-FRAMEWORKS-FOR-INVISIBLE-AUTOMATED-JUDGME
+slug: 2025-11-06-analysis-hiring-algorithms-and-personalised-prices-three-legal-frameworks-for-invisible-automated-judgme
+title: Hiring algorithms and personalised prices: three legal frameworks for invisible automated judgments
+collection: news
+doc_type: analysis-item
+date: 2025-11-06
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/when-invisible-algorithms-judge-you
+archived_url: https://web.archive.org/web/20261113073438/https://nitafarahany.substack.com/p/when-invisible-algorithms-judge-you
+industry: Artificial intelligence
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 13 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Hiring algorithms and personalised prices: three legal frameworks for invisible automated judgments
+
+*Nita Farahany, Thinking Freely (Substack), 2025-11-06. Original: <https://nitafarahany.substack.com/p/when-invisible-algorithms-judge-you>*
+
+In the nineteenth class of her course, Nita Farahany starts with an exercise in which students searching for the same flights at the same time saw different prices, and a federal lawsuit filed in August 2025 by a job applicant alleging around 150 rejections over two years from one employer that used an AI applicant-screening system.
+
+She examines the case through three frameworks, civil rights law, which offers a right to sue but acts only after harm, equity-centred design, which aims to prevent harm, and international human rights norms, which set proactive duties but lack domestic enforcement. She contrasts the U.S. reliance on individual remedies with the European Union's preventive rules and China's state control.
+
+
+===== FILE: news/IS_NEWS_2025-11-10-analysis-the-eu-ai-act-meets-its-first-simplification-push-before-it-is-fully-in-force.md · ID: IS-NEWS-2025-11-10-ANALYSIS-THE-EU-AI-ACT-MEETS-ITS-FIRST-SIMPLIFICATION-PUSH-BEFORE-IT-IS-FULLY-IN-FORCE =====
+
+```yaml
+id: IS-NEWS-2025-11-10-ANALYSIS-THE-EU-AI-ACT-MEETS-ITS-FIRST-SIMPLIFICATION-PUSH-BEFORE-IT-IS-FULLY-IN-FORCE
+slug: 2025-11-10-analysis-the-eu-ai-act-meets-its-first-simplification-push-before-it-is-fully-in-force
+title: The EU AI Act meets its first simplification push before it is fully in force
+collection: news
+doc_type: analysis-item
+date: 2025-11-10
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/the-eu-ai-acts-reality-check-inside
+archived_url: https://web.archive.org/web/20261113073536/https://nitafarahany.substack.com/p/the-eu-ai-acts-reality-check-inside
+industry: Artificial intelligence
+event: Regulation & law
+country: European Union
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 13 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# The EU AI Act meets its first simplification push before it is fully in force
+
+*Nita Farahany, Thinking Freely (Substack), 2025-11-10. Original: <https://nitafarahany.substack.com/p/the-eu-ai-acts-reality-check-inside>*
+
+In the twentieth class of her course, Nita Farahany looks at the European Commission's planned digital omnibus package, due on 19 November 2025, which may simplify parts of the EU AI Act in response to concerns from industry and member states. She explains how the Act sorts AI by risk, the three routes by which a system becomes high-risk, the obligations that follow and the provision allowing providers to decide that their own system is not high-risk.
+
+She argues that each proposed simplification, such as longer grace periods, narrower definitions, dropping registration or reducing transparency duties, is a choice about values rather than a technical fix, and asks whether it signals a weakening of the Act's influence on rules elsewhere.
 
 
 ===== FILE: news/IS_NEWS_2025-11-12-analysis-how-the-european-union-regulates-ai-and-why-one-system-can-face-many-laws-at-once.md · ID: IS-NEWS-2025-11-12-ANALYSIS-HOW-THE-EUROPEAN-UNION-REGULATES-AI-AND-WHY-ONE-SYSTEM-CAN-FACE-MANY-LAWS-AT-ONCE =====
@@ -10295,6 +10802,43 @@ Nita Farahany maps the European Union's rules for AI: rights-based foundations s
 She presents the EU's 2025 simplification package as a response to pressure on Europe's competitiveness, and asks whether Europe can remain both the most protective and a competitive place to build AI.
 
 
+===== FILE: news/IS_NEWS_2025-11-14-analysis-a-major-newspaper-feature-puts-brain-privacy-on-the-agenda-as-global-neurotechnology-standards.md · ID: IS-NEWS-2025-11-14-ANALYSIS-A-MAJOR-NEWSPAPER-FEATURE-PUTS-BRAIN-PRIVACY-ON-THE-AGENDA-AS-GLOBAL-NEUROTECHNOLOGY-STANDARDS =====
+
+```yaml
+id: IS-NEWS-2025-11-14-ANALYSIS-A-MAJOR-NEWSPAPER-FEATURE-PUTS-BRAIN-PRIVACY-ON-THE-AGENDA-AS-GLOBAL-NEUROTECHNOLOGY-STANDARDS
+slug: 2025-11-14-analysis-a-major-newspaper-feature-puts-brain-privacy-on-the-agenda-as-global-neurotechnology-standards
+title: A major newspaper feature puts brain privacy on the agenda as global neurotechnology standards take effect
+collection: news
+doc_type: analysis-item
+date: 2025-11-14
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/the-new-york-times-just-declared
+archived_url: https://web.archive.org/web/20261113073603/https://nitafarahany.substack.com/p/the-new-york-times-just-declared
+industry: Neurotechnology
+event: Regulation & law
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 13 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A major newspaper feature puts brain privacy on the agenda as global neurotechnology standards take effect
+
+*Nita Farahany, Thinking Freely (Substack), 2025-11-14. Original: <https://nitafarahany.substack.com/p/the-new-york-times-just-declared>*
+
+Nita Farahany highlights a New York Times feature on brain privacy that quotes her extensively, including her argument that cognitive liberty is a precondition for other liberties as AI and neurotechnology are built into everyday devices.
+
+She notes that UNESCO's recommendation on the ethics of neurotechnology, which she helped draft as co-chair of its expert group, had taken effect two days earlier, and points to consumer brain-sensing products, investment in brain-computer interfaces and a proposed federal bill on neural data as signs the issue is no longer hypothetical. Much of the post promotes her book.
+
+
 ===== FILE: news/IS_NEWS_2025-11-14-subsense-launches-animal-studies-to-test-nonsurgical-nanoparticle-brain-computer-interface.md · ID: IS-NEWS-2025-11-14-SUBSENSE-LAUNCHES-ANIMAL-STUDIES-TO-TEST-NONSURGICAL-NANOPARTICLE-BRAIN-COMPUTER-INTERFACE =====
 
 ```yaml
@@ -10309,7 +10853,7 @@ publisher: Medtech Insight
 source_type: Trade press
 issuing_office: 
 url: https://insights.citeline.com/medtech-insight/device-area/neurology/subsense-launches-animal-studies-to-test-nonsurgical-nanoparticle-brain-computer-interface-PFQDQ2Y5AVFDLN5FAKHYDAESUQ/
-archived_url: 
+archived_url: https://web.archive.org/web/20261113225604/https://insights.citeline.com/medtech-insight/device-area/neurology/subsense-launches-animal-studies-to-test-nonsurgical-nanoparticle-brain-computer-interface-PFQDQ2Y5AVFDLN5FAKHYDAESUQ/
 industry: Neurotechnology · Nanotechnology
 event: Research & breakthroughs
 country: 
@@ -10317,6 +10861,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search, date read from the article; added 7 Oct 2026 with the nanotechnology category
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10328,6 +10873,80 @@ disclaimer: meta/IS_META_terms.md
 Medtech Insight reported on 14 November 2025 that neurotechnology start-up Subsense has begun proof-of-concept studies in mice of a nonsurgical, nanoparticle-based brain-computer interface. According to the report, the company hopes to show by late 2026 that the system can read and stimulate neural activity, with conditions such as Parkinson's disease and epilepsy as its intended uses.
 
 The work is at the animal stage; the report describes no testing in people.
+
+
+===== FILE: news/IS_NEWS_2025-11-18-analysis-four-common-myths-about-current-u-s-federal-ai-policy.md · ID: IS-NEWS-2025-11-18-ANALYSIS-FOUR-COMMON-MYTHS-ABOUT-CURRENT-U-S-FEDERAL-AI-POLICY =====
+
+```yaml
+id: IS-NEWS-2025-11-18-ANALYSIS-FOUR-COMMON-MYTHS-ABOUT-CURRENT-U-S-FEDERAL-AI-POLICY
+slug: 2025-11-18-analysis-four-common-myths-about-current-u-s-federal-ai-policy
+title: Four common myths about current U.S. federal AI policy
+collection: news
+doc_type: analysis-item
+date: 2025-11-18
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/us-ai-policy-myths-and-realities
+archived_url: https://web.archive.org/web/20261113073631/https://nitafarahany.substack.com/p/us-ai-policy-myths-and-realities
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 13 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Four common myths about current U.S. federal AI policy
+
+*Nita Farahany, Thinking Freely (Substack), 2025-11-18. Original: <https://nitafarahany.substack.com/p/us-ai-policy-myths-and-realities>*
+
+In the twenty-second class of her course, Nita Farahany walks through the three pillars of the July 2025 federal AI Action Plan: speeding innovation, building infrastructure such as data centres, chips and energy, and leading internationally through AI exports, export controls and standards.
+
+Drawing on two expert discussions, she argues that four common beliefs are wrong or incomplete: that the policy is simply deregulation, that the plan is clear and comprehensive, that the administration speaks with one voice on AI, and that industry unanimously wants less regulation. She notes that the federal gap is leading states to pass their own AI laws, and closes with a case study of an AI developer that publicly disagreed with the administration.
+
+
+===== FILE: news/IS_NEWS_2025-11-19-analysis-u-s-chip-export-controls-as-a-tool-for-managing-ai-risk-and-their-limits.md · ID: IS-NEWS-2025-11-19-ANALYSIS-U-S-CHIP-EXPORT-CONTROLS-AS-A-TOOL-FOR-MANAGING-AI-RISK-AND-THEIR-LIMITS =====
+
+```yaml
+id: IS-NEWS-2025-11-19-ANALYSIS-U-S-CHIP-EXPORT-CONTROLS-AS-A-TOOL-FOR-MANAGING-AI-RISK-AND-THEIR-LIMITS
+slug: 2025-11-19-analysis-u-s-chip-export-controls-as-a-tool-for-managing-ai-risk-and-their-limits
+title: U.S. chip export controls as a tool for managing AI risk, and their limits
+collection: news
+doc_type: analysis-item
+date: 2025-11-19
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/when-silicon-valleys-existential
+archived_url: 
+industry: Artificial intelligence
+event: Technology theft & export control
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 13 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# U.S. chip export controls as a tool for managing AI risk, and their limits
+
+*Nita Farahany, Thinking Freely (Substack), 2025-11-19. Original: <https://nitafarahany.substack.com/p/when-silicon-valleys-existential>*
+
+In the twenty-third class of her course, built around a guest lecture by an export-control lawyer, Nita Farahany explains the two main U.S. export-control regimes, how items are classified, the country chart and the Entity List, and why computing hardware is the most controllable input to AI.
+
+She describes the October 2022 controls on advanced chips to China, the rule extending U.S. controls to foreign-made chips built with U.S. technology, and the later attempt to control AI models themselves, and links them to arguments that slowing rivals buys time for safety work. She notes cases suggesting the controls have not stopped Chinese progress and asks whether they reduce risk or heighten competition and conflict.
 
 
 ===== FILE: news/IS_NEWS_2025-12-01-analysis-how-china-governs-ai-three-layers-coordinated-agencies-and-a-bid-for-global-rules.md · ID: IS-NEWS-2025-12-01-ANALYSIS-HOW-CHINA-GOVERNS-AI-THREE-LAYERS-COORDINATED-AGENCIES-AND-A-BID-FOR-GLOBAL-RULES =====
@@ -10367,6 +10986,43 @@ In a lecture from her Duke Law course on AI law and policy, Nita Farahany descri
 She argues that the European Union, the United States and China are pursuing different goals: the EU sets rules others follow, the U.S. relies on staying at the technological frontier, and China builds leverage through materials, robotics, free AI models and ties with developing countries.
 
 
+===== FILE: news/IS_NEWS_2025-12-09-analysis-when-ai-agents-act-on-their-own-failures-agency-law-and-the-gaps-in-governance.md · ID: IS-NEWS-2025-12-09-ANALYSIS-WHEN-AI-AGENTS-ACT-ON-THEIR-OWN-FAILURES-AGENCY-LAW-AND-THE-GAPS-IN-GOVERNANCE =====
+
+```yaml
+id: IS-NEWS-2025-12-09-ANALYSIS-WHEN-AI-AGENTS-ACT-ON-THEIR-OWN-FAILURES-AGENCY-LAW-AND-THE-GAPS-IN-GOVERNANCE
+slug: 2025-12-09-analysis-when-ai-agents-act-on-their-own-failures-agency-law-and-the-gaps-in-governance
+title: When AI agents act on their own: failures, agency law and the gaps in governance
+collection: news
+doc_type: analysis-item
+date: 2025-12-09
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/when-ai-stops-advising-and-starts
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 13 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# When AI agents act on their own: failures, agency law and the gaps in governance
+
+*Nita Farahany, Thinking Freely (Substack), 2025-12-09. Original: <https://nitafarahany.substack.com/p/when-ai-stops-advising-and-starts>*
+
+In the final class of the fall semester, Nita Farahany uses a reported case in which a newly released AI agent asked to find cheap eggs bought them with a saved card without asking, to examine AI systems that act rather than advise. She cites a Carnegie Mellon benchmark in which the best agents completed only about a quarter to a third of simulated office tasks.
+
+She applies the law of principals and agents to questions of how much authority a user has delegated, how much supervision is realistic and who is responsible when an agent errs, citing a ruling holding an airline to its chatbot's wrong answer and a hiring-software lawsuit. She argues the EU AI Act and other frameworks focus on AI that interacts with people rather than AI that acts for them, and reviews emerging governance approaches.
+
+
 ===== FILE: news/IS_NEWS_2025-12-12-analysis-the-executive-order-aimed-at-state-ai-laws-and-the-constitutional-questions-it-raises.md · ID: IS-NEWS-2025-12-12-ANALYSIS-THE-EXECUTIVE-ORDER-AIMED-AT-STATE-AI-LAWS-AND-THE-CONSTITUTIONAL-QUESTIONS-IT-RAISES =====
 
 ```yaml
@@ -10404,6 +11060,43 @@ Nita Farahany analyses the executive order of 11 December 2025, "Ensuring A Nati
 She sets out the arguments for and against each step under the Constitution's spending, commerce and separation-of-powers principles, notes that the Senate voted 99 to 1 in 2025 to remove a similar pause on state AI laws from the budget bill, and expects court challenges to take years. She names Colorado's AI law as one likely target.
 
 
+===== FILE: news/IS_NEWS_2025-12-19-analysis-why-ai-neurotechnology-and-other-fields-kept-arriving-at-the-same-governance-questions-in-2025.md · ID: IS-NEWS-2025-12-19-ANALYSIS-WHY-AI-NEUROTECHNOLOGY-AND-OTHER-FIELDS-KEPT-ARRIVING-AT-THE-SAME-GOVERNANCE-QUESTIONS-IN-2025 =====
+
+```yaml
+id: IS-NEWS-2025-12-19-ANALYSIS-WHY-AI-NEUROTECHNOLOGY-AND-OTHER-FIELDS-KEPT-ARRIVING-AT-THE-SAME-GOVERNANCE-QUESTIONS-IN-2025
+slug: 2025-12-19-analysis-why-ai-neurotechnology-and-other-fields-kept-arriving-at-the-same-governance-questions-in-2025
+title: Why AI, neurotechnology and other fields kept arriving at the same governance questions in 2025
+collection: news
+doc_type: analysis-item
+date: 2025-12-19
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/2026-the-year-everything-converges
+archived_url: https://web.archive.org/web/20261113074121/https://nitafarahany.substack.com/p/2026-the-year-everything-converges
+industry: Neurotechnology · Artificial intelligence · Biotechnology & health
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 13 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Why AI, neurotechnology and other fields kept arriving at the same governance questions in 2025
+
+*Nita Farahany, Thinking Freely (Substack), 2025-12-19. Original: <https://nitafarahany.substack.com/p/2026-the-year-everything-converges>*
+
+Nita Farahany writes that in 2025 she heard essentially the same governance debate among brain-organoid researchers, AI developers, privacy advocates and medical-device makers: whether a technology is novel or covered by existing law, whether to regulate the technology or the harm, and whether it is too early or too late. She uses a newspaper's experiment letting an AI agent run a vending machine as an example.
+
+She notes that on 11 December 2025 the FDA approved an at-home brain-stimulation device for depression that uses AI and collects neural data, on the same day an executive order sought to curb state AI laws, and asks whether such a device can be regulated without also regulating its AI and data. The rest of the post is for paid subscribers and is not summarised here.
+
+
 ===== FILE: news/IS_NEWS_2026-01-01-gostech-unified-digital-platform-of-the-russian-federation.md · ID: IS-NEWS-2026-01-01-GOSTECH-UNIFIED-DIGITAL-PLATFORM-OF-THE-RUSSIAN-FEDERATION =====
 
 ```yaml
@@ -10418,7 +11111,7 @@ publisher: TAdviser
 source_type: Trade press
 issuing_office: 
 url: https://tadviser.com/index.php/Article:Gostech_(Unified_Digital_Platform_of_the_Russian_Federation)
-archived_url: 
+archived_url: https://web.archive.org/web/20261113225659/https://tadviser.com/index.php/Article:Gostech_(Technological_platform_for_creation,_development_and_operation_of_information_system)
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -10426,6 +11119,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10476,6 +11170,43 @@ Courtney C. Radsch argues in Tech Policy Press that AI products from a few large
 She calls for binding rules: bans on cognitive manipulation, duties of loyalty for AI assistants, strict limits on collecting neural and biometric data, and breaking up companies that control every layer of AI.
 
 
+===== FILE: news/IS_NEWS_2026-01-12-analysis-how-platforms-infer-your-psychology-from-your-behaviour-and-whether-law-protects-autonomy.md · ID: IS-NEWS-2026-01-12-ANALYSIS-HOW-PLATFORMS-INFER-YOUR-PSYCHOLOGY-FROM-YOUR-BEHAVIOUR-AND-WHETHER-LAW-PROTECTS-AUTONOMY =====
+
+```yaml
+id: IS-NEWS-2026-01-12-ANALYSIS-HOW-PLATFORMS-INFER-YOUR-PSYCHOLOGY-FROM-YOUR-BEHAVIOUR-AND-WHETHER-LAW-PROTECTS-AUTONOMY
+slug: 2026-01-12-analysis-how-platforms-infer-your-psychology-from-your-behaviour-and-whether-law-protects-autonomy
+title: How platforms infer your psychology from your behaviour, and whether law protects autonomy
+collection: news
+doc_type: analysis-item
+date: 2026-01-12
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/from-how-ai-works-to-what-ai-does
+archived_url: https://web.archive.org/web/20261113074240/https://nitafarahany.substack.com/p/from-how-ai-works-to-what-ai-does
+industry: Artificial intelligence · Government cloud & surveillance technology
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 13 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# How platforms infer your psychology from your behaviour, and whether law protects autonomy
+
+*Nita Farahany, Thinking Freely (Substack), 2026-01-12. Original: <https://nitafarahany.substack.com/p/from-how-ai-works-to-what-ai-does>*
+
+Opening the spring semester of her advanced AI law and policy course, which turns from how AI works to what it does to the people who use it, Nita Farahany explains how platforms collect behavioural signals such as scroll speed and time of day, turn them into features, and use models to estimate a user's psychological state in real time to rank content.
+
+She asks readers to look at the interests and categories that major ad platforms have inferred about them, and frames the semester around whether human autonomy is protected in law. She notes that later classes in the week turn to AI's effects on thinking and to the relevant laws.
+
+
 ===== FILE: news/IS_NEWS_2026-01-12-former-u-s-navy-sailor-sentenced-to-200-months-for-spying.md · ID: IS-NEWS-2026-01-12-FORMER-U-S-NAVY-SAILOR-SENTENCED-TO-200-MONTHS-FOR-SPYING =====
 
 ```yaml
@@ -10490,7 +11221,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-us-navy-sailor-sentenced-200-months-spying-china
-archived_url: 
+archived_url: https://web.archive.org/web/20261113225803/https://www.justice.gov/opa/pr/former-us-navy-sailor-sentenced-200-months-spying-china
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -10498,6 +11229,7 @@ stage: sentenced
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10509,6 +11241,117 @@ disclaimer: meta/IS_META_terms.md
 A former U.S. Navy machinist's mate who held a security clearance was sentenced to 200 months in prison for spying for China, the Justice Department says. A jury had convicted him on six counts, including conspiracy to commit espionage and illegally exporting technical data.
 
 According to the department, from March 2022 to August 2023 he sent a Chinese intelligence officer thousands of pages of technical manuals and other information on Navy surface warships, including weapons, propulsion and ship locations, for more than $12,000.
+
+
+===== FILE: news/IS_NEWS_2026-01-14-analysis-health-chatbots-owe-users-no-fiduciary-duty-unlike-doctors.md · ID: IS-NEWS-2026-01-14-ANALYSIS-HEALTH-CHATBOTS-OWE-USERS-NO-FIDUCIARY-DUTY-UNLIKE-DOCTORS =====
+
+```yaml
+id: IS-NEWS-2026-01-14-ANALYSIS-HEALTH-CHATBOTS-OWE-USERS-NO-FIDUCIARY-DUTY-UNLIKE-DOCTORS
+slug: 2026-01-14-analysis-health-chatbots-owe-users-no-fiduciary-duty-unlike-doctors
+title: Health chatbots owe users no fiduciary duty, unlike doctors
+collection: news
+doc_type: analysis-item
+date: 2026-01-14
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/cp/184600139
+archived_url: https://web.archive.org/web/20261113074310/https://nitafarahany.substack.com/cp/184600139
+industry: Artificial intelligence · Biotechnology & health
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 13 Nov 2026; read from the free web page (the email body was empty)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Health chatbots owe users no fiduciary duty, unlike doctors
+
+*Nita Farahany, Thinking Freely (Substack), 2026-01-14. Original: <https://nitafarahany.substack.com/cp/184600139>*
+
+In an essay cross-posted from another newsletter, Nita Farahany argues that as trust in public health institutions declines, more people turn to AI chatbots for health questions, and notes the launch of dedicated health versions of two leading chatbots. She cites a study in which people rated low-accuracy AI health answers as trustworthy and often preferred them to doctors' answers.
+
+She argues that disclaimers and existing rules, including health privacy law, FDA device oversight and consumer protection, leave these tools in a legal grey zone without the fiduciary duties a physician owes a patient. She acknowledges benefits such as explaining medical jargon and widening access, and calls for accountability to match the trust users place in them.
+
+
+===== FILE: news/IS_NEWS_2026-01-14-analysis-what-the-research-says-about-ai-use-and-critical-thinking.md · ID: IS-NEWS-2026-01-14-ANALYSIS-WHAT-THE-RESEARCH-SAYS-ABOUT-AI-USE-AND-CRITICAL-THINKING =====
+
+```yaml
+id: IS-NEWS-2026-01-14-ANALYSIS-WHAT-THE-RESEARCH-SAYS-ABOUT-AI-USE-AND-CRITICAL-THINKING
+slug: 2026-01-14-analysis-what-the-research-says-about-ai-use-and-critical-thinking
+title: What the research says about AI use and critical thinking
+collection: news
+doc_type: analysis-item
+date: 2026-01-14
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/what-ai-does-to-your-thinking-inside
+archived_url: https://web.archive.org/web/20261113074338/https://nitafarahany.substack.com/p/what-ai-does-to-your-thinking-inside
+industry: Artificial intelligence
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 13 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# What the research says about AI use and critical thinking
+
+*Nita Farahany, Thinking Freely (Substack), 2026-01-14. Original: <https://nitafarahany.substack.com/p/what-ai-does-to-your-thinking-inside>*
+
+In the second class of her advanced course, Nita Farahany reviews two empirical studies on how using AI affects users, one a survey of university students in Pakistan and China and one linking heavy AI use to lower critical-thinking scores through cognitive offloading, the handing of mental work to a tool.
+
+She explains why generative AI may differ from earlier tools such as calculators, and also reads the studies critically, noting that correlation, reverse causation, other factors and selection effects mean there is no definitive proof, only consistent patterns with plausible mechanisms. She argues the shift from predicting preferences to generating persuasive content moves AI from inference toward intervention.
+
+
+===== FILE: news/IS_NEWS_2026-01-16-analysis-state-neural-data-laws-and-a-proposed-federal-study-leave-inferred-mental-states-unprotected.md · ID: IS-NEWS-2026-01-16-ANALYSIS-STATE-NEURAL-DATA-LAWS-AND-A-PROPOSED-FEDERAL-STUDY-LEAVE-INFERRED-MENTAL-STATES-UNPROTECTED =====
+
+```yaml
+id: IS-NEWS-2026-01-16-ANALYSIS-STATE-NEURAL-DATA-LAWS-AND-A-PROPOSED-FEDERAL-STUDY-LEAVE-INFERRED-MENTAL-STATES-UNPROTECTED
+slug: 2026-01-16-analysis-state-neural-data-laws-and-a-proposed-federal-study-leave-inferred-mental-states-unprotected
+title: State neural data laws and a proposed federal study leave inferred mental states unprotected
+collection: news
+doc_type: analysis-item
+date: 2026-01-16
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/protecting-autonomy-in-law-take-1
+archived_url: https://web.archive.org/web/20260814022429/https://nitafarahany.substack.com/p/protecting-autonomy-in-law-take-1
+industry: Neurotechnology · Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 13 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# State neural data laws and a proposed federal study leave inferred mental states unprotected
+
+*Nita Farahany, Thinking Freely (Substack), 2026-01-16. Original: <https://nitafarahany.substack.com/p/protecting-autonomy-in-law-take-1>*
+
+In the third class of her advanced course, Nita Farahany compares how Colorado, California, Montana and Connecticut define neural data in their privacy laws, and describes the MIND Act introduced in the U.S. Senate in September 2025, which would have the FTC study neural data for a year and then recommend a framework.
+
+She argues that these laws protect mental states only when they are read from nervous-system measurements, so that the same conclusions inferred from behaviour are not protected in most states. She calls them a start and says later classes will look at product liability, consumer protection, the First Amendment and approaches abroad.
 
 
 ===== FILE: news/IS_NEWS_2026-01-27-ice-and-cbp-bought-a-record-140m-in-cloud.md · ID: IS-NEWS-2026-01-27-ICE-AND-CBP-BOUGHT-A-RECORD-140M-IN-CLOUD =====
@@ -10525,7 +11368,7 @@ publisher: Forbes
 source_type: News
 issuing_office: 
 url: https://www.forbes.com/sites/the-wiretap/2026/01/27/immigration-record-spend-on-amazon-and-trump
-archived_url: 
+archived_url: https://web.archive.org/web/20260820004341/https://www.forbes.com/sites/the-wiretap/2026/01/27/immigration-record-spend-on-amazon-and-trump/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -10560,7 +11403,7 @@ publisher: Courthouse News Service
 source_type: Trade press
 issuing_office: 
 url: https://www.courthousenews.com/judge-holds-norfolks-license-plate-reader-use-constitutional
-archived_url: 
+archived_url: https://web.archive.org/web/20261113230217/https://www.courthousenews.com/judge-holds-norfolks-license-plate-reader-use-constitutional/
 industry: 
 event: Courts & litigation
 country: 
@@ -10568,6 +11411,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10595,7 +11439,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office, Eastern District of New York
 url: https://www.justice.gov/usao-edny/pr/iranian-intelligence-agent-convicted-terrorism-and-murder-hire-connection-foiled-plot
-archived_url: 
+archived_url: https://web.archive.org/web/20261113230246/https://www.justice.gov/usao-edny/pr/iranian-intelligence-agent-convicted-terrorism-and-murder-hire-connection-foiled-plot
 industry: 
 event: Murder for hire & violent plots
 country: Iran
@@ -10603,6 +11447,7 @@ stage: convicted
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10630,7 +11475,7 @@ publisher: Penn Engineering, University of Pennsylvania
 source_type: Research
 issuing_office: 
 url: https://www.engineering.upenn.edu/stories/new-lipid-nanoparticle-design-improves-precision-of-mrna-vaccine-delivery/
-archived_url: 
+archived_url: https://web.archive.org/web/20261113230320/https://www.engineering.upenn.edu/stories/new-lipid-nanoparticle-design-improves-precision-of-mrna-vaccine-delivery/
 industry: Nanotechnology · Biotechnology & health
 event: Research & breakthroughs
 country: 
@@ -10638,6 +11483,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search, date read from the university story; added 7 Oct 2026 with the nanotechnology category
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10665,7 +11511,7 @@ publisher: The Register
 source_type: Trade press
 issuing_office: 
 url: https://www.theregister.com/2026/03/25/hmrc_fujitsu_contract_aws
-archived_url: 
+archived_url: https://web.archive.org/web/20260427142820/https://www.theregister.com/2026/03/25/hmrc_fujitsu_contract_aws/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -10673,6 +11519,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10774,7 +11621,7 @@ publisher: Inside BCI
 source_type: Trade press
 issuing_office: 
 url: https://insidebci.com/policy/2026-04-03-us-states-build-patchwork-of-neural-data-privacy-laws-as-bci-market-accelerates
-archived_url: 
+archived_url: https://web.archive.org/web/20261113230550/https://insidebci.com/policy/2026-04-03-us-states-build-patchwork-of-neural-data-privacy-laws-as-bci-market-accelerates
 industry: Neurotechnology
 event: Regulation & law
 country: 
@@ -10782,6 +11629,7 @@ stage:
 related: 
 summary_status: draft
 found_via: new, found 1 Oct 2026
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10809,7 +11657,7 @@ publisher: Business Wire
 source_type: Trade press
 issuing_office: 
 url: https://www.businesswire.com/news/home/20260420000990/en/INBRAIN-Neuroelectronics-Completes-Enrolment-of-Worlds-First-in-Human-Study-of-Graphene-Neural-Interfaces-for-Brain-Decoding-Mapping
-archived_url: 
+archived_url: https://web.archive.org/web/20260518042519/https://www.businesswire.com/news/home/20260420000990/en/INBRAIN-Neuroelectronics-Completes-Enrolment-of-Worlds-First-in-Human-Study-of-Graphene-Neural-Interfaces-for-Brain-Decoding-Mapping
 industry: Neurotechnology · Nanotechnology
 event: Research & breakthroughs
 country: 
@@ -10844,7 +11692,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/arcadia-california-mayor-federally-charged-acting-illegal-agent-peoples-republic-china
-archived_url: 
+archived_url: https://web.archive.org/web/20260828001840/https://www.justice.gov/opa/pr/arcadia-california-mayor-federally-charged-acting-illegal-agent-peoples-republic-china
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -10852,6 +11700,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10879,7 +11728,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office, Eastern District of New York
 url: https://www.justice.gov/opa/pr/bronx-man-convicted-operating-police-station-chinese-government-new-york-city-and
-archived_url: 
+archived_url: https://web.archive.org/web/20261030184700/https://www.justice.gov/opa/pr/bronx-man-convicted-operating-police-station-chinese-government-new-york-city-and
 industry: 
 event: Transnational repression
 country: China
@@ -10887,6 +11736,7 @@ stage: convicted
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10914,7 +11764,7 @@ publisher: FedScoop
 source_type: Trade press
 issuing_office: 
 url: https://fedscoop.com/dhs-ice-agents-biometrics-contract-iris-recognition
-archived_url: 
+archived_url: https://web.archive.org/web/20261029140622/https://fedscoop.com/dhs-ice-agents-biometrics-contract-iris-recognition/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -10922,6 +11772,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10949,7 +11800,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/american-citizen-pleads-guilty-working-agent-peoples-republic-china
-archived_url: 
+archived_url: https://web.archive.org/web/20260714012022/https://www.justice.gov/opa/pr/american-citizen-pleads-guilty-working-agent-peoples-republic-china
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -10957,6 +11808,7 @@ stage: pleaded guilty
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10984,7 +11836,7 @@ publisher: FedScoop
 source_type: Trade press
 issuing_office: 
 url: https://fedscoop.com/dhs-cumulus-cloud-project-aws-contract
-archived_url: 
+archived_url: https://web.archive.org/web/20260717235217/https://fedscoop.com/dhs-cumulus-cloud-project-aws-contract/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -10992,6 +11844,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11027,6 +11880,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11054,7 +11908,7 @@ publisher: ExecutiveBiz
 source_type: Trade press
 issuing_office: 
 url: https://www.executivebiz.com/articles/navy-jwcc-aws-azure-google-oracle-task-orders
-archived_url: 
+archived_url: https://web.archive.org/web/20260715051237/https://www.executivebiz.com/articles/navy-jwcc-aws-azure-google-oracle-task-orders
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -11097,6 +11951,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11132,6 +11987,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the corpus
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11159,7 +12015,7 @@ publisher: Law.com
 source_type: Trade press
 issuing_office: 
 url: https://www.law.com/2026/07/28/ebay-former-execs-settle-mass-couples-harassment-cyberstalking-suit-for-557m
-archived_url: 
+archived_url: https://web.archive.org/web/20261113231037/https://www.law.com/2026/07/28/ebay-former-execs-settle-mass-couples-harassment-cyberstalking-suit-for-557m/?slreturn=20261113181033
 industry: 
 event: Courts & litigation
 country: 
@@ -11194,7 +12050,7 @@ publisher: Axios
 source_type: News
 issuing_office: 
 url: https://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025
-archived_url: 
+archived_url: https://web.archive.org/web/20261022182944/https://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025
 industry: 
 event: Reports & statistics
 country: 
@@ -11202,6 +12058,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the corpus
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11229,7 +12086,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/american-citizen-who-worked-agent-prc-sentenced-two-years-prison
-archived_url: 
+archived_url: https://web.archive.org/web/20261002234647/https://www.justice.gov/opa/pr/american-citizen-who-worked-agent-prc-sentenced-two-years-prison
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -11237,6 +12094,7 @@ stage: sentenced
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11299,7 +12157,7 @@ publisher: Nature
 source_type: News
 issuing_office: 
 url: https://www.nature.com/articles/d41586-026-02655-6
-archived_url: 
+archived_url: https://web.archive.org/web/20261113231138/https://www.nature.com/articles/d41586-026-02655-6?error=cookies_not_supported&code=93223097-53e9-43ed-b677-c11516547f2e
 industry: Nanotechnology · Biotechnology & health
 event: Research & breakthroughs
 country: 
@@ -11307,6 +12165,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search, date read from the article; added 7 Oct 2026 with the nanotechnology category
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11342,6 +12201,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search, date read from the article
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11369,7 +12229,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/members-russian-intelligence-services-network-charged-conspiring-finance-terrorism-and
-archived_url: 
+archived_url: https://web.archive.org/web/20261030133609/https://www.justice.gov/opa/pr/members-russian-intelligence-services-network-charged-conspiring-finance-terrorism-and
 industry: 
 event: Murder for hire & violent plots
 country: Russia
@@ -11377,6 +12237,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11404,7 +12265,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/liability-unregistered-foreign-agents
-archived_url: 
+archived_url: https://web.archive.org/web/20261030133612/https://www.justice.gov/opa/pr/liability-unregistered-foreign-agents
 industry: 
 event: Regulation & law
 country: 
@@ -11412,6 +12273,7 @@ stage:
 related: 
 summary_status: draft
 found_via: justice.gov National Security Division news, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11439,7 +12301,7 @@ publisher: Office of the Governor of California
 source_type: Official
 issuing_office: 
 url: https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/
-archived_url: 
+archived_url: https://web.archive.org/web/20261105163135/https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/
 industry: Artificial intelligence
 event: Regulation & law
 country: 
@@ -11447,6 +12309,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (gov.ca.gov), date read from the release; title shortened to leave out a personal name
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11509,7 +12372,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office, Central District of California
 url: https://www.justice.gov/usao-cdca/pr/tech-ceo-russian-national-arrested-complaint-alleging-they-hid-russian-ownership-and
-archived_url: 
+archived_url: https://web.archive.org/web/20261109180015/https://www.justice.gov/usao-cdca/pr/tech-ceo-russian-national-arrested-complaint-alleging-they-hid-russian-ownership-and
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: Russia
@@ -11517,6 +12380,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: justice.gov Central District of California news, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11544,7 +12408,7 @@ publisher: ABC News (Australia)
 source_type: News
 issuing_office: 
 url: https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078
-archived_url: 
+archived_url: https://web.archive.org/web/20261113090002/https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078
 industry: Artificial intelligence · Biotechnology & health
 event: Public health
 country: Australia
@@ -11552,6 +12416,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search, date read from the article; title shortened to leave out a personal name
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11614,7 +12479,7 @@ publisher: The Register
 source_type: Trade press
 issuing_office: 
 url: https://www.theregister.com/public-sector/2026/09/29/healthcare-campaigners-turn-up-the-heat-on-palantir-at-labour-conference/5299724
-archived_url: 
+archived_url: https://web.archive.org/web/20261105112250/https://www.theregister.com/public-sector/2026/09/29/healthcare-campaigners-turn-up-the-heat-on-palantir-at-labour-conference/5299724
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Protests
 country: 
@@ -11622,6 +12487,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search, date read from the article
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11649,7 +12515,7 @@ publisher: Office of the Governor of California
 source_type: Official
 issuing_office: 
 url: https://www.gov.ca.gov/2026/09/30/californias-nation-leading-ai-framework-just-got-stronger-governor-newsom-signs-more-first-in-the-nation-worker-protections-and-more/
-archived_url: 
+archived_url: https://web.archive.org/web/20261113231540/https://www.gov.ca.gov/2026/09/30/californias-nation-leading-ai-framework-just-got-stronger-governor-newsom-signs-more-first-in-the-nation-worker-protections-and-more/
 industry: Neurotechnology · Artificial intelligence
 event: Regulation & law
 country: 
@@ -11657,6 +12523,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (gov.ca.gov), date read from the release; title shortened to leave out a personal name
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11719,7 +12586,7 @@ publisher: MIT Technology Review
 source_type: News
 issuing_office: 
 url: https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/
-archived_url: 
+archived_url: https://web.archive.org/web/20261113231612/https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/
 industry: Neurotechnology · Artificial intelligence
 event: Research & breakthroughs
 country: 
@@ -11727,6 +12594,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search, date and headline read from the article
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11754,7 +12622,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/california-man-arrested-smuggling-more-300-million-export-controlled-computer-servers-china
-archived_url: 
+archived_url: https://web.archive.org/web/20261024164640/https://www.justice.gov/opa/pr/california-man-arrested-smuggling-more-300-million-export-controlled-computer-servers-china
 industry: Artificial intelligence
 event: Technology theft & export control
 country: China
@@ -11762,6 +12630,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: justice.gov National Security Division news, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11859,7 +12728,7 @@ publisher: Biometric Update
 source_type: Trade press
 issuing_office: 
 url: https://www.biometricupdate.com/202610/ice-contract-reveals-network-infrastructure-behind-hsi-surveillance-operations
-archived_url: 
+archived_url: https://web.archive.org/web/20261005051730/https://www.biometricupdate.com/202610/ice-contract-reveals-network-infrastructure-behind-hsi-surveillance-operations
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -11867,6 +12736,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search, date read from the article
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11894,7 +12764,7 @@ publisher: Biometric Update
 source_type: Trade press
 issuing_office: 
 url: https://www.biometricupdate.com/202610/ice-observer-lawsuit-shows-how-palantir-records-can-feed-border-screening-analytics
-archived_url: 
+archived_url: https://web.archive.org/web/20261113231841/https://www.biometricupdate.com/202610/ice-observer-lawsuit-shows-how-palantir-records-can-feed-border-screening-analytics
 industry: Government cloud & surveillance technology
 event: Courts & litigation
 country: 
@@ -11902,6 +12772,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search, date read from the article
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11929,7 +12800,7 @@ publisher: AJMC
 source_type: Trade press
 issuing_office: 
 url: https://www.ajmc.com/view/3-scientists-share-nobel-prize-in-physiology-or-medicine-for-optogenetics
-archived_url: 
+archived_url: https://web.archive.org/web/20261007180935/https://www.ajmc.com/view/3-scientists-share-nobel-prize-in-physiology-or-medicine-for-optogenetics
 industry: Neurotechnology · Biotechnology & health
 event: Research & breakthroughs
 country: 
@@ -11937,6 +12808,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search, date read from the article (nobelprize.org could not be read automatically)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11964,7 +12836,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/california-woman-arrested-charges-alleging-she-acted-agent-china-and-spied-relatives-us
-archived_url: 
+archived_url: https://web.archive.org/web/20261113231939/https://www.justice.gov/opa/pr/california-woman-arrested-charges-alleging-she-acted-agent-china-and-spied-relatives-us
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -11972,6 +12844,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: web search (justice.gov), date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -12034,7 +12907,7 @@ publisher: Office of the Governor of New York
 source_type: Official
 issuing_office: 
 url: https://www.governor.ny.gov/executive-order/no-65-declaring-disaster-emergency-state-new-york-due-ongoing-measles-outbreak
-archived_url: 
+archived_url: https://web.archive.org/web/20261109043340/https://www.governor.ny.gov/executive-order/no-65-declaring-disaster-emergency-state-new-york-due-ongoing-measles-outbreak
 industry: Biotechnology & health
 event: Public health
 country: 
@@ -12108,7 +12981,7 @@ publisher: Der Generalbundesanwalt beim Bundesgerichtshof
 source_type: Official
 issuing_office: Federal Public Prosecutor General (Germany)
 url: https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2026/Pressemitteilung-vom-06-10-2026.html
-archived_url: 
+archived_url: https://web.archive.org/web/20261011071625/https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2026/Pressemitteilung-vom-06-10-2026.html
 industry: 
 event: Espionage & foreign agents
 country: Germany
@@ -12116,6 +12989,7 @@ stage: arrested
 related: 
 summary_status: draft
 found_via: web search (generalbundesanwalt.de), date read from the release; title translated from German (original in title_original)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -12256,6 +13130,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search, company release, date read from the release; added 7 Oct 2026 with the nanotechnology category
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -14537,6 +15412,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (LNP delivery, AI, 19 Oct); date read from the article; also reported by BioSpace, 20 Oct (https://www.biospace.com/deals/lilly-puts-1-1b-on-the-line-for-hong-kong-biotechs-ai-drug-delivery-platform)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -16555,6 +17431,43 @@ Binnenlands Bestuur, a trade publication for Dutch public administration, report
 According to the publication, the association of municipalities, the military police, the national identity agency and the police all said they hold no figures on identity fraud at municipal counters. (Summary translated from the Dutch.)
 
 
+===== FILE: news/IS_NEWS_2026-11-10-paris-prosecutors-open-an-inquiry-into-a-cyberattack-on-the-cold-rooms-of-frances-national-blood-service.md · ID: IS-NEWS-2026-11-10-PARIS-PROSECUTORS-OPEN-AN-INQUIRY-INTO-A-CYBERATTACK-ON-THE-COLD-ROOMS-OF-FRANCES-NATIONAL-BLOOD-SERVICE =====
+
+```yaml
+id: IS-NEWS-2026-11-10-PARIS-PROSECUTORS-OPEN-AN-INQUIRY-INTO-A-CYBERATTACK-ON-THE-COLD-ROOMS-OF-FRANCES-NATIONAL-BLOOD-SERVICE
+slug: 2026-11-10-paris-prosecutors-open-an-inquiry-into-a-cyberattack-on-the-cold-rooms-of-frances-national-blood-service
+title: Paris prosecutors open an inquiry into a cyberattack on the cold rooms of France's national blood service
+title_original: Le parquet de Paris ouvre une enquête après la cyberattaque ayant touché des chambres froides de l'Etablissement français du sang
+title_language: French
+collection: news
+doc_type: news-item
+date: 2026-11-10
+date_precision: day
+publisher: franceinfo (AFP)
+source_type: News
+issuing_office: 
+url: https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-parquet-de-paris-ouvre-une-enquete-apres-la-cyberattaque-ayant-touche-des-chambres-froides-de-l-etablissement-francais-du-sang_8277005.html
+archived_url: https://web.archive.org/web/20261113074616/https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-parquet-de-paris-ouvre-une-enquete-apres-la-cyberattaque-ayant-touche-des-chambres-froides-de-l-etablissement-francais-du-sang_8277005.html
+industry: Biotechnology & health
+event: Courts & litigation
+country: France
+stage: 
+related: 
+summary_status: draft
+found_via: web search (French, cyberattaque, 10-13 Nov 2026 window); date and details read from the franceinfo/AFP report; title translated from the French
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Paris prosecutors open an inquiry into a cyberattack on the cold rooms of France's national blood service
+
+*franceinfo (AFP), 2026-11-10. Original, in French: <https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-parquet-de-paris-ouvre-une-enquete-apres-la-cyberattaque-ayant-touche-des-chambres-froides-de-l-etablissement-francais-du-sang_8277005.html>. Title translated from the French.*
+
+Franceinfo, citing AFP, reports that the Paris prosecutor's cybercrime section opened an inquiry into interference with a data-processing system after a cyberattack on a refrigeration contractor reached cold rooms of the national blood service, and assigned it to the national anti-cybercrime office and the domestic intelligence service.
+
+According to the report, the health minister's office and the blood service say there was no impact on health, and prosecutors could not yet confirm any link to the attacks on supermarket refrigeration systems that France attributed to Iran. (Summary translated from the French.)
+
+
 ===== FILE: news/IS_NEWS_2026-11-10-polands-internal-security-agency-says-two-foreign-nationals-were-charged-with-spying-and-sabotage-for-russian.md · ID: IS-NEWS-2026-11-10-POLANDS-INTERNAL-SECURITY-AGENCY-SAYS-TWO-FOREIGN-NATIONALS-WERE-CHARGED-WITH-SPYING-AND-SABOTAGE-FOR-RUSSIAN =====
 
 ```yaml
@@ -16767,6 +17680,41 @@ The Justice Department says a superseding indictment unsealed in Manhattan charg
 The department alleges that one defendant, already held in New York, continued to coordinate through coded messages. An indictment is an allegation, and the defendants are presumed innocent unless proven guilty.
 
 
+===== FILE: news/IS_NEWS_2026-11-10-tokyo-police-arrest-a-man-accused-of-running-a-fake-mobile-base-station-from-a-car-that-knocked-thousands-of-phones-off.md · ID: IS-NEWS-2026-11-10-TOKYO-POLICE-ARREST-A-MAN-ACCUSED-OF-RUNNING-A-FAKE-MOBILE-BASE-STATION-FROM-A-CAR-THAT-KNOCKED-THOUSANDS-OF-PHONES-OFF =====
+
+```yaml
+id: IS-NEWS-2026-11-10-TOKYO-POLICE-ARREST-A-MAN-ACCUSED-OF-RUNNING-A-FAKE-MOBILE-BASE-STATION-FROM-A-CAR-THAT-KNOCKED-THOUSANDS-OF-PHONES-OFF
+slug: 2026-11-10-tokyo-police-arrest-a-man-accused-of-running-a-fake-mobile-base-station-from-a-car-that-knocked-thousands-of-phones-off
+title: Tokyo police arrest a man accused of running a fake mobile base station from a car that knocked thousands of phones offline to send phishing texts
+collection: news
+doc_type: news-item
+date: 2026-11-10
+date_precision: day
+publisher: The Star (Malaysia), from The Japan News and ANN
+source_type: News
+issuing_office: 
+url: https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/10/chinese-national-arrested-over-fake-mobile-phone-base-station-in-tokyo039s-ginza
+archived_url: https://web.archive.org/web/20261113074728/https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/10/chinese-national-arrested-over-fake-mobile-phone-base-station-in-tokyo039s-ginza#goog_rewarded
+industry: Government cloud & surveillance technology
+event: Courts & litigation
+country: Japan
+stage: arrested
+related: 
+summary_status: draft
+found_via: web search (carried over from the 12 Nov run: fake base station); the arrest is confirmed by the Ministry of Internal Affairs and Communications Kanto bureau release of 9 Nov (https://www.soumu.go.jp/soutsu/kanto/press/2026/1109k2.html); suspect not named
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Tokyo police arrest a man accused of running a fake mobile base station from a car that knocked thousands of phones offline to send phishing texts
+
+*The Star (Malaysia), from The Japan News and ANN, 2026-11-10. Original: <https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/10/chinese-national-arrested-over-fake-mobile-phone-base-station-in-tokyo039s-ginza>*
+
+The Star, carrying reports from The Japan News and ANN, says Tokyo police arrested a man accused of operating a fake mobile-phone base station from a vehicle in Ginza that knocked more than 10,000 phones offline for about an hour, allegedly to send phishing text messages to Chinese tourists. Japan's communications ministry says it located the device with police on 7 November.
+
+According to the report, police link the case to 18 complaints and about 4 million yen in losses since January 2025. The suspect denies the allegation and is presumed innocent.
+
+
 ===== FILE: news/IS_NEWS_2026-11-10-u-s-army-officer-at-a-nato-headquarters-arrested-in-england-on-suspicion-of-helping-russian-intelligence.md · ID: IS-NEWS-2026-11-10-U-S-ARMY-OFFICER-AT-A-NATO-HEADQUARTERS-ARRESTED-IN-ENGLAND-ON-SUSPICION-OF-HELPING-RUSSIAN-INTELLIGENCE =====
 
 ```yaml
@@ -16835,6 +17783,41 @@ disclaimer: meta/IS_META_terms.md
 LocalGov reports that the Investigatory Powers Tribunal found a Hampshire district council carried out covert surveillance of a family's farm and home in 2023 without the authorisation the Regulation of Investigatory Powers Act 2000 requires. According to the report, the tribunal found no evidence of bad faith, ordered the material destroyed and awarded no compensation.
 
 The publication reports the family's account that officers watched from a neighbour's property and that neighbours were asked to report when the family was home; these are the family's claims. LocalGov also reports that the Information Commissioner's Office upheld the family's separate complaint about the council's handling of their data.
+
+
+===== FILE: news/IS_NEWS_2026-11-10-us-appeals-court-rules-a-government-demand-for-journalists-records-from-a-professional-networking-site-in-a-leak-inquir.md · ID: IS-NEWS-2026-11-10-US-APPEALS-COURT-RULES-A-GOVERNMENT-DEMAND-FOR-JOURNALISTS-RECORDS-FROM-A-PROFESSIONAL-NETWORKING-SITE-IN-A-LEAK-INQUIR =====
+
+```yaml
+id: IS-NEWS-2026-11-10-US-APPEALS-COURT-RULES-A-GOVERNMENT-DEMAND-FOR-JOURNALISTS-RECORDS-FROM-A-PROFESSIONAL-NETWORKING-SITE-IN-A-LEAK-INQUIR
+slug: 2026-11-10-us-appeals-court-rules-a-government-demand-for-journalists-records-from-a-professional-networking-site-in-a-leak-inquir
+title: US appeals court rules a government demand for journalists' records from a professional networking site in a leak inquiry is too broad
+collection: news
+doc_type: news-item
+date: 2026-11-10
+date_precision: day
+publisher: Associated Press (via WRAL)
+source_type: News
+issuing_office: 
+url: https://www.wral.com/news/ap/0b1f0-appeals-court-limits-order-for-linkedin-to-disclose-journalists-communications-in-leak-probe/
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: web search (carried over from the 12 Nov run: 4th Circuit); date and ruling read from the AP report; title reworded to leave out the company name
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# US appeals court rules a government demand for journalists' records from a professional networking site in a leak inquiry is too broad
+
+*Associated Press (via WRAL), 2026-11-10. Original: <https://www.wral.com/news/ap/0b1f0-appeals-court-limits-order-for-linkedin-to-disclose-journalists-communications-in-leak-probe/>*
+
+The Associated Press reports that a three-judge panel of the 4th U.S. Circuit Court of Appeals unanimously held that the government is not entitled to a blanket order for 18 months of reporters' communications held by a professional networking platform, and sent the case back to a Virginia district court to narrow the order. The panel also rejected the platform's request to quash the order entirely, according to AP.
+
+AP reports the demand arose from a leak investigation into a news story about a classified military operation abroad. Courthouse News reports the panel called the order substantially overbroad.
 
 
 ===== FILE: news/IS_NEWS_2026-11-10-us-federal-judge-rules-police-may-not-hand-probable-cause-to-an-ai-facial-recognition-match-and-lets-a-wrongfu.md · ID: IS-NEWS-2026-11-10-US-FEDERAL-JUDGE-RULES-POLICE-MAY-NOT-HAND-PROBABLE-CAUSE-TO-AN-AI-FACIAL-RECOGNITION-MATCH-AND-LETS-A-WRONGFU =====
@@ -16909,6 +17892,78 @@ Austria's Interior Ministry says the Council of Ministers approved a stricter es
 ORF reports that the maximum sentence for espionage against Austria would rise to 10 years, that spying on EU bodies or international organisations in Austria would carry up to five years, that recruiting agents and being recruited would become offences, and that penalties would rise for computer sabotage carried out for foreign services. (Summary translated from the German.)
 
 
+===== FILE: news/IS_NEWS_2026-11-11-egypt-verifies-citizens-faces-against-state-biometric-records-to-issue-powers-of-attorney-remotely.md · ID: IS-NEWS-2026-11-11-EGYPT-VERIFIES-CITIZENS-FACES-AGAINST-STATE-BIOMETRIC-RECORDS-TO-ISSUE-POWERS-OF-ATTORNEY-REMOTELY =====
+
+```yaml
+id: IS-NEWS-2026-11-11-EGYPT-VERIFIES-CITIZENS-FACES-AGAINST-STATE-BIOMETRIC-RECORDS-TO-ISSUE-POWERS-OF-ATTORNEY-REMOTELY
+slug: 2026-11-11-egypt-verifies-citizens-faces-against-state-biometric-records-to-issue-powers-of-attorney-remotely
+title: Egypt verifies citizens' faces against state biometric records to issue powers of attorney remotely
+title_original: بصمة الوجه وشهادة توقيع.. آلية التحقق من الهوية عند إصدار التوكيلات عن بُعد
+title_language: Arabic
+collection: news
+doc_type: news-item
+date: 2026-11-11
+date_precision: day
+publisher: Youm7
+source_type: News
+issuing_office: 
+url: https://www.youm7.com/story/2026/11/11/بصمة-الوجه-وشهادة-توقيع-آلية-التحقق-من-الهوية-عند-إصدار/7612009
+archived_url: https://web.archive.org/web/20261113075105/https://www.youm7.com/story/2026/11/11/%D8%A8%D8%B5%D9%85%D8%A9-%D8%A7%D9%84%D9%88%D8%AC%D9%87-%D9%88%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A2%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82-%D9%85%D9%86-%D8%A7%D9%84%D9%87%D9%88%D9%8A%D8%A9-%D8%B9%D9%86%D8%AF-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1/7612009
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Contracts & deployments
+country: Egypt
+stage: 
+related: 
+summary_status: draft
+found_via: web search (Arabic, facial recognition, 10-13 Nov 2026 window); details read from the Youm7 report; title translated and reworded from the Arabic
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Egypt verifies citizens' faces against state biometric records to issue powers of attorney remotely
+
+*Youm7, 2026-11-11. Original, in Arabic: <https://www.youm7.com/story/2026/11/11/بصمة-الوجه-وشهادة-توقيع-آلية-التحقق-من-الهوية-عند-إصدار/7612009>. Title translated from the Arabic.*
+
+Youm7 reports that Egypt's remote power-of-attorney service, run by the justice and communications ministries on the Egypt Digital Platform, verifies identity with an AI digital-identity application that scans the citizen's face and compares it with the biometric record held in state databases.
+
+According to the report, a verified user is then issued a single-use electronic-signature certificate to sign the document. (Summary translated from the Arabic.)
+
+
+===== FILE: news/IS_NEWS_2026-11-11-indonesian-lawmakers-question-the-police-chief-over-alleged-unauthorised-wiretapping-of-the-president-and-others-now-in.md · ID: IS-NEWS-2026-11-11-INDONESIAN-LAWMAKERS-QUESTION-THE-POLICE-CHIEF-OVER-ALLEGED-UNAUTHORISED-WIRETAPPING-OF-THE-PRESIDENT-AND-OTHERS-NOW-IN =====
+
+```yaml
+id: IS-NEWS-2026-11-11-INDONESIAN-LAWMAKERS-QUESTION-THE-POLICE-CHIEF-OVER-ALLEGED-UNAUTHORISED-WIRETAPPING-OF-THE-PRESIDENT-AND-OTHERS-NOW-IN
+slug: 2026-11-11-indonesian-lawmakers-question-the-police-chief-over-alleged-unauthorised-wiretapping-of-the-president-and-others-now-in
+title: Indonesian lawmakers question the police chief over alleged unauthorised wiretapping of the president and others, now investigated as possible treason
+collection: news
+doc_type: news-item
+date: 2026-11-11
+date_precision: day
+publisher: Associated Press (via ABC News)
+source_type: News
+issuing_office: 
+url: https://abcnews.com/International/wireStory/indonesian-lawmakers-question-police-chief-wiretaps-alleged-target-138065101
+archived_url: https://web.archive.org/web/20261112035342/https://abcnews.com/International/wireStory/indonesian-lawmakers-question-police-chief-wiretaps-alleged-target-138065101
+industry: Government cloud & surveillance technology
+event: Courts & litigation
+country: Indonesia
+stage: arrested
+related: 
+summary_status: draft
+found_via: acknowledgement watch, English search (line crossed: unlawful use of government surveillance, 10-13 Nov 2026 window); date and details read from the AP report; the story first broke on 3 Nov, the parliamentary hearing and treason inquiry are new; officers not named
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Indonesian lawmakers question the police chief over alleged unauthorised wiretapping of the president and others, now investigated as possible treason
+
+*Associated Press (via ABC News), 2026-11-11. Original: <https://abcnews.com/International/wireStory/indonesian-lawmakers-question-police-chief-wiretaps-alleged-target-138065101>*
+
+The Associated Press reports that Indonesia's parliamentary law commission was to question the national police chief about alleged illegal wiretapping of the president. According to AP, police allege that unauthorised surveillance between 2025 and 2026 captured recordings of the president's phone calls, and other cabinet officials, politicians, journalists, civil-society leaders and business executives are alleged, without confirmation, to have been monitored.
+
+AP reports that three senior police generals, including a former police chief, are detained and that no charges have yet been filed; the president's office says the case is being investigated as possible treason. The officers are presumed innocent; one suspect's lawyer told AP his client will cooperate.
+
+
 ===== FILE: news/IS_NEWS_2026-11-11-maker-of-a-consumer-eeg-headband-trained-an-ai-model-on-users-brain-recordings-before-its-privacy-policy-said.md · ID: IS-NEWS-2026-11-11-MAKER-OF-A-CONSUMER-EEG-HEADBAND-TRAINED-AN-AI-MODEL-ON-USERS-BRAIN-RECORDINGS-BEFORE-ITS-PRIVACY-POLICY-SAID =====
 
 ```yaml
@@ -16942,6 +17997,41 @@ disclaimer: meta/IS_META_terms.md
 Malwarebytes, citing a year-long investigation by the journal Science, reports that a Canadian maker of a consumer EEG headband used about 50,000 hours of users' brain recordings to train a "brain foundation model" without clearly telling those users, and updated its privacy policy to disclose the use of de-identified data only after Science asked.
 
 According to the report, Science reviewed 57 neurotechnology companies and found six that explicitly promised not to sell brain data. Malwarebytes cites research suggesting EEG data can be re-identified or reveal health information. No regulator action is reported.
+
+
+===== FILE: news/IS_NEWS_2026-11-11-military-linked-chinese-university-on-the-us-trade-blacklist-bought-restricted-ai-chips-procurement-records-show.md · ID: IS-NEWS-2026-11-11-MILITARY-LINKED-CHINESE-UNIVERSITY-ON-THE-US-TRADE-BLACKLIST-BOUGHT-RESTRICTED-AI-CHIPS-PROCUREMENT-RECORDS-SHOW =====
+
+```yaml
+id: IS-NEWS-2026-11-11-MILITARY-LINKED-CHINESE-UNIVERSITY-ON-THE-US-TRADE-BLACKLIST-BOUGHT-RESTRICTED-AI-CHIPS-PROCUREMENT-RECORDS-SHOW
+slug: 2026-11-11-military-linked-chinese-university-on-the-us-trade-blacklist-bought-restricted-ai-chips-procurement-records-show
+title: Military-linked Chinese university on the US trade blacklist bought restricted AI chips, procurement records show
+collection: news
+doc_type: news-item
+date: 2026-11-11
+date_precision: day
+publisher: Reuters (via BNN Bloomberg)
+source_type: News
+issuing_office: 
+url: https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/11/military-linked-chinese-university-bought-nvidia-chips-despite-us-blacklist-reuters-exclusive/
+archived_url: 
+industry: Artificial intelligence
+event: Technology theft & export control
+country: China
+stage: 
+related: 
+summary_status: draft
+found_via: web search (carried over from the 12 Nov run, where it was attributed to AFP; the original is a Reuters exclusive); title reworded to leave out company and university names
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Military-linked Chinese university on the US trade blacklist bought restricted AI chips, procurement records show
+
+*Reuters (via BNN Bloomberg), 2026-11-11. Original: <https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/11/military-linked-chinese-university-bought-nvidia-chips-despite-us-blacklist-reuters-exclusive/>*
+
+Reuters reports that an October procurement record shows a Chinese military-linked university, on the US Commerce Department's Entity List since 2001, bought two restricted high-end AI chips for 874,700 yuan through a domestic supplier, and rented restricted computing capacity under five contracts this year.
+
+According to Reuters, a review of 26 records found other Chinese institutions buying or renting restricted chips. The university, the chipmaker and the US export-control bureau did not respond to Reuters.
 
 
 ===== FILE: news/IS_NEWS_2026-11-11-people-living-with-implanted-brain-computer-interfaces-publish-ethics-recommendations-asking-for-control-over.md · ID: IS-NEWS-2026-11-11-PEOPLE-LIVING-WITH-IMPLANTED-BRAIN-COMPUTER-INTERFACES-PUBLISH-ETHICS-RECOMMENDATIONS-ASKING-FOR-CONTROL-OVER =====
@@ -17123,6 +18213,152 @@ Stnn reports that China's Ministry of Industry and Information Technology has ap
 According to the report, the standards cover product grading, risk management, interaction interfaces, wireless communication for invasive devices, data and algorithm management, and application scenarios including sports training and "attention monitoring". The individual titles were not published in the coverage. (Summary translated from the Chinese.)
 
 
+===== FILE: news/IS_NEWS_2026-11-12-germanys-federal-administrative-court-sets-out-what-counts-as-stasi-zersetzung-and-turns-down-two-compensation-claims.md · ID: IS-NEWS-2026-11-12-GERMANYS-FEDERAL-ADMINISTRATIVE-COURT-SETS-OUT-WHAT-COUNTS-AS-STASI-ZERSETZUNG-AND-TURNS-DOWN-TWO-COMPENSATION-CLAIMS =====
+
+```yaml
+id: IS-NEWS-2026-11-12-GERMANYS-FEDERAL-ADMINISTRATIVE-COURT-SETS-OUT-WHAT-COUNTS-AS-STASI-ZERSETZUNG-AND-TURNS-DOWN-TWO-COMPENSATION-CLAIMS
+slug: 2026-11-12-germanys-federal-administrative-court-sets-out-what-counts-as-stasi-zersetzung-and-turns-down-two-compensation-claims
+title: Germany's Federal Administrative Court sets out what counts as Stasi Zersetzung and turns down two compensation claims
+title_original: Keine Einmalzahlung wegen Zersetzungsmaßnahmen gegen Dritte
+title_language: German
+collection: news
+doc_type: news-item
+date: 2026-11-12
+date_precision: day
+publisher: Federal Administrative Court (Bundesverwaltungsgericht), Germany
+source_type: Official
+issuing_office: Federal Administrative Court (Bundesverwaltungsgericht)
+url: https://www.bverwg.de/pm/2026/85
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Courts & litigation
+country: Germany
+stage: 
+related: 
+summary_status: draft
+found_via: acknowledgement watch, German-language search (Zersetzung, 10-13 Nov 2026 window); date and holdings read from the court's press releases 85/2026 (8 C 10.25) and 84/2026 (8 C 11.25, https://www.bverwg.de/pm/2026/84); title translated and reworded from the German
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Germany's Federal Administrative Court sets out what counts as Stasi Zersetzung and turns down two compensation claims
+
+*Federal Administrative Court (Bundesverwaltungsgericht), Germany, 2026-11-12. Original, in German: <https://www.bverwg.de/pm/2026/85>. Title translated from the German.*
+
+Germany's Federal Administrative Court reports two judgments of 12 November on the one-time payment that the country's rehabilitation law grants to people subjected to Zersetzung by the East German Ministry for State Security. In the first case, the court held that only a person who was the target of such measures can claim, so a daughter whose letters were monitored while the Stasi kept her father under targeted surveillance was not entitled; the court describes Zersetzung as measures meant to isolate a person and destabilise them psychologically.
+
+In the second case, the court accepted that informant surveillance of a man who had applied to leave the GDR, including information about his psychotherapy obtained in breach of medical confidentiality, was political persecution, but found it was aimed at stopping his emigration rather than at psychologically destabilising and systematically wearing him down, which it says is what Zersetzung requires; it states that the objective aim of a measure is decisive. Both appeals were dismissed. (Summary translated from the German.)
+
+
+===== FILE: news/IS_NEWS_2026-11-12-new-york-activist-who-admitted-reporting-on-fellow-dissidents-to-chinas-intelligence-service-is-sentenced-to-probation.md · ID: IS-NEWS-2026-11-12-NEW-YORK-ACTIVIST-WHO-ADMITTED-REPORTING-ON-FELLOW-DISSIDENTS-TO-CHINAS-INTELLIGENCE-SERVICE-IS-SENTENCED-TO-PROBATION =====
+
+```yaml
+id: IS-NEWS-2026-11-12-NEW-YORK-ACTIVIST-WHO-ADMITTED-REPORTING-ON-FELLOW-DISSIDENTS-TO-CHINAS-INTELLIGENCE-SERVICE-IS-SENTENCED-TO-PROBATION
+slug: 2026-11-12-new-york-activist-who-admitted-reporting-on-fellow-dissidents-to-chinas-intelligence-service-is-sentenced-to-probation
+title: New York activist who admitted reporting on fellow dissidents to China's intelligence service is sentenced to probation
+collection: news
+doc_type: news-item
+date: 2026-11-12
+date_precision: day
+publisher: Associated Press (via Yahoo News)
+source_type: News
+issuing_office: 
+url: https://www.yahoo.com/news/us/articles/chinese-dissident-admitted-spying-beijing-013628432.html
+archived_url: https://web.archive.org/web/20261113075802/https://www.yahoo.com/news/us/articles/chinese-dissident-admitted-spying-beijing-013628432.html
+industry: 
+event: Transnational repression
+country: United States
+stage: sentenced
+related: 
+summary_status: draft
+found_via: web search (transnational repression, 10-13 Nov 2026 window); date and details read from the AP report (updated 13 Nov); defendant not named
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# New York activist who admitted reporting on fellow dissidents to China's intelligence service is sentenced to probation
+
+*Associated Press (via Yahoo News), 2026-11-12. Original: <https://www.yahoo.com/news/us/articles/chinese-dissident-admitted-spying-beijing-013628432.html>*
+
+The Associated Press reports that a 69-year-old New York dissident was sentenced in Manhattan federal court to three years' probation after pleading guilty in September 2025 to acting as an unregistered agent of China's government; prosecutors had sought the five-year maximum.
+
+According to AP, prosecutors said that from at least 2018 to 2023 he passed information about dozens of activists to Chinese authorities, admitted a Chinese handler to an online group chat, and at an intelligence officer's direction photographed and recorded protests, including a 2023 Tiananmen Square memorial in Manhattan. AP reports the judge said claims that people and their families were harmed because of his actions could not be proven.
+
+
+===== FILE: news/IS_NEWS_2026-11-12-russian-installed-court-jails-two-women-from-an-occupied-ukrainian-village-for-14-years-for-allegedly-watching-troops-w.md · ID: IS-NEWS-2026-11-12-RUSSIAN-INSTALLED-COURT-JAILS-TWO-WOMEN-FROM-AN-OCCUPIED-UKRAINIAN-VILLAGE-FOR-14-YEARS-FOR-ALLEGEDLY-WATCHING-TROOPS-W =====
+
+```yaml
+id: IS-NEWS-2026-11-12-RUSSIAN-INSTALLED-COURT-JAILS-TWO-WOMEN-FROM-AN-OCCUPIED-UKRAINIAN-VILLAGE-FOR-14-YEARS-FOR-ALLEGEDLY-WATCHING-TROOPS-W
+slug: 2026-11-12-russian-installed-court-jails-two-women-from-an-occupied-ukrainian-village-for-14-years-for-allegedly-watching-troops-w
+title: Russian-installed court jails two women from an occupied Ukrainian village for 14 years for allegedly watching troops with an attic camera
+title_original: Двух жительниц оккупированного села в Запорожской области приговорили к 14 годам по делу о слежке за военными с помощью камеры на чердаке
+title_language: Russian
+collection: news
+doc_type: news-item
+date: 2026-11-12
+date_precision: day
+publisher: Mediazona
+source_type: News
+issuing_office: 
+url: https://zona.media/news/2026/11/12/camera
+archived_url: https://web.archive.org/web/20261113075855/https://zona.media/news/2026/11/12/camera
+industry: Government cloud & surveillance technology
+event: Espionage & foreign agents
+country: Russia
+stage: sentenced
+related: 
+summary_status: draft
+found_via: web search (Russian, Mediazona, 10-13 Nov 2026 window); Mediazona presents the FSB's account, citing the court and TASS (state media); title translated and reworded from the Russian; defendants not named
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Russian-installed court jails two women from an occupied Ukrainian village for 14 years for allegedly watching troops with an attic camera
+
+*Mediazona, 2026-11-12. Original, in Russian: <https://zona.media/news/2026/11/12/camera>. Title translated from the Russian.*
+
+Mediazona reports that a court set up by Russia convicted two residents of an occupied village in Ukraine's Zaporizhzhia region of treason and sentenced each to 14 years. According to the FSB's account, which Mediazona cites from the court and the state agency TASS, the women reported on Russian equipment and personnel to Ukraine's security service through messaging apps from July 2024, using a camera in an attic that arrived through a dead drop.
+
+The allegations are the security service's account as reported by Mediazona. (Summary translated from the Russian.)
+
+
+===== FILE: news/IS_NEWS_2026-11-12-uk-jury-convicts-two-iranian-men-of-helping-irans-intelligence-by-surveilling-two-journalists-of-a-persian-language-cha.md · ID: IS-NEWS-2026-11-12-UK-JURY-CONVICTS-TWO-IRANIAN-MEN-OF-HELPING-IRANS-INTELLIGENCE-BY-SURVEILLING-TWO-JOURNALISTS-OF-A-PERSIAN-LANGUAGE-CHA =====
+
+```yaml
+id: IS-NEWS-2026-11-12-UK-JURY-CONVICTS-TWO-IRANIAN-MEN-OF-HELPING-IRANS-INTELLIGENCE-BY-SURVEILLING-TWO-JOURNALISTS-OF-A-PERSIAN-LANGUAGE-CHA
+slug: 2026-11-12-uk-jury-convicts-two-iranian-men-of-helping-irans-intelligence-by-surveilling-two-journalists-of-a-persian-language-cha
+title: UK jury convicts two Iranian men of helping Iran's intelligence by surveilling two journalists of a Persian-language channel; a third man is acquitted
+title_original: دو مرد ایرانی در پرونده جاسوسی از دو روزنامه‌نگار ایران‌اینترنشنال مجرم شناخته شدند
+title_language: Persian
+collection: news
+doc_type: news-item
+date: 2026-11-12
+date_precision: day
+publisher: Iran International
+source_type: News
+issuing_office: 
+url: https://www.iranintl.com/202611122085
+archived_url: https://web.archive.org/web/20261113075923/https://www.iranintl.com/202611122085
+industry: 
+event: Transnational repression
+country: United Kingdom
+stage: convicted
+related: 
+summary_status: draft
+found_via: web search (Persian, Iran International and Radio Farda homepages, 10-13 Nov 2026 window); the journalists work for the publisher itself; also reported by Radio Farda and Monte Carlo Doualiya (citing Reuters); title translated and reworded from the Persian; defendants not named
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# UK jury convicts two Iranian men of helping Iran's intelligence by surveilling two journalists of a Persian-language channel; a third man is acquitted
+
+*Iran International, 2026-11-12. Original, in Persian: <https://www.iranintl.com/202611122085>. Title translated from the Persian.*
+
+Iran International, whose own journalists were the targets, reports that a jury at Woolwich Crown Court convicted one man of assisting a foreign intelligence service and of preparing a violent attack, and a second man of assisting a foreign intelligence service, while acquitting him of the attack charge; a third defendant was cleared of both charges. Prosecutors said the men photographed and filmed the journalists' addresses on behalf of Iran's Revolutionary Guard, the outlet reports, and the defendants denied intending harm.
+
+According to the report, sentencing is set for December. Monte Carlo Doualiya, citing Reuters, says police described it as the first conviction of Iranian nationals under the UK's National Security Act 2023. (Summary translated from the Persian.)
+
+
 ===== FILE: news/IS_NEWS_2026-11-12-uk-police-inspectorate-finds-deleted-custody-photos-still-searchable-by-retrospective-facial-recognition-and-w.md · ID: IS-NEWS-2026-11-12-UK-POLICE-INSPECTORATE-FINDS-DELETED-CUSTODY-PHOTOS-STILL-SEARCHABLE-BY-RETROSPECTIVE-FACIAL-RECOGNITION-AND-W =====
 
 ```yaml
@@ -17158,6 +18394,113 @@ LBC reports that His Majesty's Inspectorate of Constabulary and Fire and Rescue 
 According to the reports, the inspectors said some investigators did not understand that a match is intelligence rather than evidence, which creates a risk that people could be wrongly identified or arrested, and The Guardian reports the inspectorate said there is still no comprehensive statutory framework for police facial recognition. LBC cites police chiefs' figures showing that only two forces audited the correct number of searches.
 
 
+===== FILE: news/IS_NEWS_2026-11-12-us-justice-department-seizes-north-korean-hackers-video-call-scheme-infrastructure-and-more-than-900-webcam-recordings.md · ID: IS-NEWS-2026-11-12-US-JUSTICE-DEPARTMENT-SEIZES-NORTH-KOREAN-HACKERS-VIDEO-CALL-SCHEME-INFRASTRUCTURE-AND-MORE-THAN-900-WEBCAM-RECORDINGS =====
+
+```yaml
+id: IS-NEWS-2026-11-12-US-JUSTICE-DEPARTMENT-SEIZES-NORTH-KOREAN-HACKERS-VIDEO-CALL-SCHEME-INFRASTRUCTURE-AND-MORE-THAN-900-WEBCAM-RECORDINGS
+slug: 2026-11-12-us-justice-department-seizes-north-korean-hackers-video-call-scheme-infrastructure-and-more-than-900-webcam-recordings
+title: US Justice Department seizes North Korean hackers' video-call scheme infrastructure and more than 900 webcam recordings of victims
+collection: news
+doc_type: news-item
+date: 2026-11-12
+date_precision: day
+publisher: U.S. Department of Justice
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency
+archived_url: https://web.archive.org/web/20261112223328/https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency
+industry: Artificial intelligence · Government cloud & surveillance technology
+event: Espionage & foreign agents
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: justice.gov Office of Public Affairs feed (10-13 Nov 2026 window); details read from the release (No. 26-1356); no one is charged in the release
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# US Justice Department seizes North Korean hackers' video-call scheme infrastructure and more than 900 webcam recordings of victims
+
+*U.S. Department of Justice, 2026-11-12. Original: <https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency>*
+
+The Justice Department says it seized cloud infrastructure used in a social-engineering scheme it calls FaceStealer, in which North Korean government hackers invite targets to video meetings from stolen accounts, record the target's webcam, play prerecorded or deepfake video of people the target knows, and then direct the target to install malware. Under a federal warrant, the FBI also seized more than 900 webcam videos recorded from victims, according to the release.
+
+The department attributes more than $400 million in thefts over 18 months to the scheme and, separately, says it has court authorisation to seize or restrain more than $1.2 billion of over $6 billion in virtual assets it says North Korean military hackers stole from an exchange around 29 October. The release announces seizures and forfeiture efforts, not criminal charges.
+
+
+===== FILE: news/IS_NEWS_2026-11-13-chinese-report-says-about-120-people-in-china-now-live-with-implanted-brain-computer-interfaces-and-a-national-eeg-data.md · ID: IS-NEWS-2026-11-13-CHINESE-REPORT-SAYS-ABOUT-120-PEOPLE-IN-CHINA-NOW-LIVE-WITH-IMPLANTED-BRAIN-COMPUTER-INTERFACES-AND-A-NATIONAL-EEG-DATA =====
+
+```yaml
+id: IS-NEWS-2026-11-13-CHINESE-REPORT-SAYS-ABOUT-120-PEOPLE-IN-CHINA-NOW-LIVE-WITH-IMPLANTED-BRAIN-COMPUTER-INTERFACES-AND-A-NATIONAL-EEG-DATA
+slug: 2026-11-13-chinese-report-says-about-120-people-in-china-now-live-with-implanted-brain-computer-interfaces-and-a-national-eeg-data
+title: Chinese report says about 120 people in China now live with implanted brain-computer interfaces and a national EEG data centre is to launch
+title_original: 「今年是中国脑机接口的临床应用元年」：中国脑机接口植入患者人数已达120人
+title_language: Chinese
+collection: news
+doc_type: news-item
+date: 2026-11-13
+date_precision: day
+publisher: The Paper (state-owned media)
+source_type: News
+issuing_office: 
+url: https://www.thepaper.cn/newsDetail_forward_34462939
+archived_url: https://web.archive.org/web/20261113080012/https://www.thepaper.cn/newsDetail_forward_34462939
+industry: Neurotechnology
+event: Reports & statistics
+country: China
+stage: 
+related: 
+summary_status: draft
+found_via: web search (Chinese, 脑机接口, 10-13 Nov 2026 window); The Paper is state-owned, so its figures are attributed to it; title translated and reworded from the Chinese
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Chinese report says about 120 people in China now live with implanted brain-computer interfaces and a national EEG data centre is to launch
+
+*The Paper (state-owned media), 2026-11-13. Original, in Chinese: <https://www.thepaper.cn/newsDetail_forward_34462939>. Title translated from the Chinese.*
+
+The Paper, a state-owned outlet, quotes a chief scientist at a Shanghai laboratory as saying that about 120 people in China have now kept a brain-computer interface implant for more than a month, and lists the trial stages of several devices, including one invasive device it says was registered in March and has issued 12 commercial prescriptions.
+
+According to the report, a national EEG data centre with nodes in Shanghai and Beijing is to launch at a conference in December. The article does not discuss consent, ethics or data privacy. (Figures as reported by The Paper.) (Summary translated from the Chinese.)
+
+
+===== FILE: news/IS_NEWS_2026-11-13-faa-orders-nationwide-ground-stop-of-departing-flights-citing-a-telecommunications-outage.md · ID: IS-NEWS-2026-11-13-FAA-ORDERS-NATIONWIDE-GROUND-STOP-OF-DEPARTING-FLIGHTS-CITING-A-TELECOMMUNICATIONS-OUTAGE =====
+
+```yaml
+id: IS-NEWS-2026-11-13-FAA-ORDERS-NATIONWIDE-GROUND-STOP-OF-DEPARTING-FLIGHTS-CITING-A-TELECOMMUNICATIONS-OUTAGE
+slug: 2026-11-13-faa-orders-nationwide-ground-stop-of-departing-flights-citing-a-telecommunications-outage
+title: FAA orders nationwide ground stop of departing flights, citing a telecommunications outage
+collection: news
+doc_type: news-item
+date: 2026-11-13
+date_precision: day
+publisher: CBS News
+source_type: News
+issuing_office: 
+url: https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Outages & disruptions
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: added at Sean's request, 13 Nov 2026 (follow internet outages and FAA ground stops); web search, date read from the article (updated 13 Nov 2026, 6:36 p.m. EST); also reported by CNBC, NBC News and Flightradar24
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# FAA orders nationwide ground stop of departing flights, citing a telecommunications outage
+
+*CBS News, 2026-11-13. Original: <https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/>*
+
+The Federal Aviation Administration issued a rare nationwide ground stop on all departing flights on Friday 13 November 2026, "due to extraordinary circumstances and for reasons of safety," CBS News reports. The Transportation Secretary said the stop followed a communication issue affecting all of the FAA's Air Route Traffic Control Centers, the facilities that guide aircraft at high altitude, and that FAA technicians were investigating.
+
+Officials described the cause as a telecommunications outage, and the Homeland Security Secretary said there was no indication so far of a cyberattack or other deliberate act. Flightradar24 reports the stop was issued at 20:54 UTC, when about 4,000 flights were in the air bound for U.S. airports; aircraft already flying could land, but none could depart. NBC News reports that the stop came shortly after the FAA began adding an AI-based system to air traffic control, and that the system's vendor said its software did not cause the outage. The cause had not been confirmed when this was written.
+
+
 ===== FILE: news/IS_NEWS_undated-anomalous-health-incidents.md · ID: IS-NEWS-UNDATED-ANOMALOUS-HEALTH-INCIDENTS =====
 
 ```yaml
@@ -17172,7 +18515,7 @@ publisher: Military Health System
 source_type: Official
 issuing_office: 
 url: https://www.health.mil/Military-Health-Topics/Warfighter-Brain-Health/Brain-Health-Topics/Anomalous-Health-Incidents
-archived_url: 
+archived_url: https://web.archive.org/web/20261012081755/https://health.mil/Military-Health-Topics/Warfighter-Brain-Health/Brain-Health-Topics/Anomalous-Health-Incidents
 industry: Neurotechnology · Biotechnology & health
 event: Public health
 country: 
@@ -17207,7 +18550,7 @@ publisher: TAdviser
 source_type: Trade press
 issuing_office: 
 url: https://tadviser.com/index.php/Article:Critical_Information_Infrastructure_of_Russia
-archived_url: 
+archived_url: https://web.archive.org/web/20261113232420/https://tadviser.com/index.php/Article:Critical_Information_Infrastructure_of_Russia
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -17215,6 +18558,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

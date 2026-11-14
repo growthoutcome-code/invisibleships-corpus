@@ -10,7 +10,7 @@ publisher: Biometric Update
 source_type: Trade press
 issuing_office: 
 url: https://www.biometricupdate.com/202506/wrongful-arrest-in-us-linked-to-facial-recognition-error-leads-to-200k-settlement
-archived_url: 
+archived_url: https://web.archive.org/web/20261113221947/https://www.biometricupdate.com/202506/wrongful-arrest-in-us-linked-to-facial-recognition-error-leads-to-200k-settlement
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Courts & litigation
 country: 
@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the corpus
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

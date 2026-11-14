@@ -10,7 +10,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/microsoft-quietly-launches-israeli-azure-cloud-region
-archived_url: 
+archived_url: https://web.archive.org/web/20261113051156/https://www.datacenterdynamics.com/en/news/microsoft-quietly-launches-israeli-azure-cloud-region/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

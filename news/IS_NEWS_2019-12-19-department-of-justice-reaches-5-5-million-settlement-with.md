@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office (WDMI)
 url: https://www.justice.gov/usao-wdmi/pr/2019_1219_VARI
-archived_url: 
+archived_url: https://web.archive.org/web/20260713222102/https://www.justice.gov/usao-wdmi/pr/2019_1219_VARI
 industry: 
 event: Technology theft & export control
 country: China

@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/chinese-national-sentenced-40-months-prison-conspiring-illegally-export-military-and-space
-archived_url: 
+archived_url: https://web.archive.org/web/20250203161422/https://www.justice.gov/opa/pr/chinese-national-sentenced-40-months-prison-conspiring-illegally-export-military-and-space
 industry: 
 event: Technology theft & export control
 country: China

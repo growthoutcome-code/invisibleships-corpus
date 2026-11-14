@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/new-york-man-arrested-operating-illegal-agent-chinese-government-united-states
-archived_url: 
+archived_url: https://web.archive.org/web/20261113053342/https://www.justice.gov/archives/opa/pr/new-york-man-arrested-operating-illegal-agent-chinese-government-united-states
 industry: 
 event: Espionage & foreign agents
 country: China

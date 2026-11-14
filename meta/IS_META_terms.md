@@ -8,7 +8,7 @@ supersedes: [IS_META_copyright.md, IS_META_disclaimer.md]
 source: lib/terms.ts (the same source the website renders)
 generated_by: scripts/export_terms_md.mjs
 section_count: 8
-word_count: 2492
+word_count: 2605
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 ---
@@ -130,6 +130,8 @@ Not permitted:
 - **Presenting this work, or any finding in it, as your own.** Attribution is the condition on everything above.
 - **Republishing it in altered form**, or issuing a modified version that could be mistaken for the original.
 - **Commercial use** without written permission.
+
+**News articles in the corpus belong to their publishers.** The corpus keeps each News item’s article as it appeared on the day it was collected, in `evidence/`, so that a later edit, redaction or removal can be seen. Each file credits its publisher and links to the original and to an Internet Archive copy. This archive did not write those articles and claims no rights in them. The website does not show them: it summarises each article and links to the original. A publisher that wants its article text removed can ask through the contact details below, and it will be removed; the credit, the links and the record of changes stay.
 
 ## What this site measures
 

@@ -10,7 +10,7 @@ publisher: iTnews
 source_type: Trade press
 issuing_office: 
 url: https://www.itnews.com.au/news/dta-renews-gov-wide-aws-deal-for-174-million-578790
-archived_url: 
+archived_url: https://web.archive.org/web/20261113032555/https://www.itnews.com.au/news/dta-renews-gov-wide-aws-deal-for-174-million-578790
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

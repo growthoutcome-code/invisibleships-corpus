@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office, Southern District of New York
 url: https://www.justice.gov/usao-sdny/pr/chinese-national-charged-acting-unregistered-agent-chinese-government-united-states
-archived_url: 
+archived_url: https://web.archive.org/web/20260524040159/https://www.justice.gov/usao-sdny/pr/chinese-national-charged-acting-unregistered-agent-chinese-government-united-states
 industry: 
 event: Espionage & foreign agents
 country: China

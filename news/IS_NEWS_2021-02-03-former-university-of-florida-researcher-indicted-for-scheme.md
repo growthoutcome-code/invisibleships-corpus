@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-university-florida-researcher-indicted-scheme-defraud-national-institutes-health-and
-archived_url: 
+archived_url: https://web.archive.org/web/20261113025211/https://www.justice.gov/archives/opa/pr/former-university-florida-researcher-indicted-scheme-defraud-national-institutes-health-and
 industry: Biotechnology & health
 event: Technology theft & export control
 country: China

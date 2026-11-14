@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (LNP delivery, AI, 19 Oct); date read from the article; also reported by BioSpace, 20 Oct (https://www.biospace.com/deals/lilly-puts-1-1b-on-the-line-for-hong-kong-biotechs-ai-drug-delivery-platform)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

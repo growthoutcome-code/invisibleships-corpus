@@ -10,7 +10,7 @@ publisher: The Register
 source_type: Trade press
 issuing_office: 
 url: https://www.theregister.com/2022/11/30/office_365_faces_more_gdpr/
-archived_url: 
+archived_url: https://web.archive.org/web/20260113101503/https://www.theregister.com/2022/11/30/office_365_faces_more_gdpr/
 industry: Government cloud & surveillance technology
 event: Regulation & law
 country: 

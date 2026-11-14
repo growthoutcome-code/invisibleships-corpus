@@ -10,7 +10,7 @@ publisher: The Register
 source_type: Trade press
 issuing_office: 
 url: https://www.theregister.com/2023/11/22/palantir_wins_nhs_contract
-archived_url: 
+archived_url: https://web.archive.org/web/20260503025303/https://www.theregister.com/2023/11/22/palantir_wins_nhs_contract/?
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

@@ -10,7 +10,7 @@ publisher: Office of the Governor of New York
 source_type: Official
 issuing_office: 
 url: https://www.governor.ny.gov/executive-order/no-65-declaring-disaster-emergency-state-new-york-due-ongoing-measles-outbreak
-archived_url: 
+archived_url: https://web.archive.org/web/20261109043340/https://www.governor.ny.gov/executive-order/no-65-declaring-disaster-emergency-state-new-york-due-ongoing-measles-outbreak
 industry: Biotechnology & health
 event: Public health
 country: 

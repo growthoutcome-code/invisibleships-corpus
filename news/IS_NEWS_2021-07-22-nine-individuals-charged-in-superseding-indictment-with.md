@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/nine-individuals-charged-superseding-indictment-conspiring-act-illegal-agents-people-s
-archived_url: 
+archived_url: https://web.archive.org/web/20250202041901/https://www.justice.gov/opa/pr/nine-individuals-charged-superseding-indictment-conspiring-act-illegal-agents-people-s
 industry: 
 event: Espionage & foreign agents
 country: China

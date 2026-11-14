@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/two-men-plead-guilty-acting-illegal-agents-chinese-government-and-bribery
-archived_url: 
+archived_url: https://web.archive.org/web/20261113052654/https://www.justice.gov/archives/opa/pr/two-men-plead-guilty-acting-illegal-agents-chinese-government-and-bribery
 industry: 
 event: Espionage & foreign agents
 country: China

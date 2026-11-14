@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/chinese-national-arrested-allegedly-acting-within-united-states-illegal-agent-people-s
-archived_url: 
+archived_url: https://web.archive.org/web/20261113010909/https://www.justice.gov/archives/opa/pr/chinese-national-arrested-allegedly-acting-within-united-states-illegal-agent-people-s
 industry: 
 event: Espionage & foreign agents
 country: China

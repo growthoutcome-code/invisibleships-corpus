@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/singaporean-national-sentenced-14-months-prison-acting-united-states-illegal-agent-chinese
-archived_url: 
+archived_url: https://web.archive.org/web/20261113022920/https://www.justice.gov/archives/opa/pr/singaporean-national-sentenced-14-months-prison-acting-united-states-illegal-agent-chinese
 industry: 
 event: Espionage & foreign agents
 country: China

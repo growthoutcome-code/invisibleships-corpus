@@ -10,7 +10,7 @@ publisher: Dutch Data Protection Authority
 source_type: Official
 issuing_office: 
 url: https://www.autoriteitpersoonsgegevens.nl/en/current/dutch-dpa-imposes-a-fine-on-clearview-because-of-illegal-data-collection-for-facial-recognition
-archived_url: 
+archived_url: https://web.archive.org/web/20261113214510/https://www.autoriteitpersoonsgegevens.nl/en/current/dutch-dpa-imposes-a-fine-on-clearview-because-of-illegal-data-collection-for-facial-recognition
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Courts & litigation
 country: 
@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: already in the corpus
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

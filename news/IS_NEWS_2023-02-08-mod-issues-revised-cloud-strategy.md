@@ -10,7 +10,7 @@ publisher: Computer Weekly
 source_type: Trade press
 issuing_office: 
 url: https://www.computerweekly.com/news/365530572/MoD-issues-revised-cloud-strategy-as-it-prepares-to-move-top-secret-data-off-premise-by-2025
-archived_url: 
+archived_url: https://web.archive.org/web/20261113035502/https://www.computerweekly.com/news/365530572/MoD-issues-revised-cloud-strategy-as-it-prepares-to-move-top-secret-data-off-premise-by-2025
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

@@ -10,7 +10,7 @@ publisher: UC San Francisco
 source_type: Research
 issuing_office: 
 url: https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back
-archived_url: 
+archived_url: https://web.archive.org/web/20261104053559/https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back
 industry: Neurotechnology · Artificial intelligence
 event: Research & breakthroughs
 country: 

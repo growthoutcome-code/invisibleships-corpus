@@ -10,7 +10,7 @@ publisher: Australian Department of Health
 source_type: Official
 issuing_office: 
 url: https://www.health.gov.au/ministers/the-hon-mark-butler-mp/media/failed-covidsafe-app-deleted
-archived_url: 
+archived_url: https://web.archive.org/web/20261113033913/https://www.health.gov.au/ministers/the-hon-mark-butler-mp/media/failed-covidsafe-app-deleted
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Public health
 country: 

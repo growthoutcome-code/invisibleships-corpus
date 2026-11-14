@@ -10,7 +10,7 @@ publisher: TechCrunch
 source_type: News
 issuing_office: 
 url: https://techcrunch.com/2025/09/25/microsoft-cuts-cloud-services-to-israeli-military-unit-over-palestinian-surveillance
-archived_url: 
+archived_url: https://web.archive.org/web/20261113224622/https://techcrunch.com/2025/09/25/microsoft-cuts-cloud-services-to-israeli-military-unit-over-palestinian-surveillance/
 industry: Government cloud & surveillance technology
 event: Global conflict
 country: 
@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: new, found 1 Oct 2026
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

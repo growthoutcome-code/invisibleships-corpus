@@ -10,7 +10,7 @@ publisher: Computer Weekly
 source_type: Trade press
 issuing_office: 
 url: https://www.computerweekly.com/news/450403576/IBM-blamed-for-Australian-census-website-crash
-archived_url: 
+archived_url: https://web.archive.org/web/20261113005929/https://www.computerweekly.com/news/450403576/IBM-blamed-for-Australian-census-website-crash
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

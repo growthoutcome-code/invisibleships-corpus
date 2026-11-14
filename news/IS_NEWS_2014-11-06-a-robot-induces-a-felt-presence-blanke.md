@@ -10,7 +10,7 @@ publisher: EurekAlert!
 source_type: Research
 issuing_office: 
 url: https://www.eurekalert.org/news-releases/889913
-archived_url: 
+archived_url: https://web.archive.org/web/20261113005806/https://www.eurekalert.org/news-releases/889913
 industry: Neurotechnology
 event: Research & breakthroughs
 country: 

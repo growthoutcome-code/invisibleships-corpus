@@ -10,7 +10,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/uk-spy-agencies-to-use-amazon-web-services-to-host-top-secret-material-in-the-cloud
-archived_url: 
+archived_url: https://web.archive.org/web/20261113031306/https://www.datacenterdynamics.com/en/news/uk-spy-agencies-to-use-amazon-web-services-to-host-top-secret-material-in-the-cloud/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

@@ -10,7 +10,7 @@ publisher: Computer Weekly
 source_type: Trade press
 issuing_office: 
 url: https://www.computerweekly.com/news/365533652/GDS-goes-serverless-to-bring-personalisation-to-online-government-services-with-One-Login
-archived_url: 
+archived_url: https://web.archive.org/web/20261113035529/https://www.computerweekly.com/news/365533652/GDS-goes-serverless-to-bring-personalisation-to-online-government-services-with-One-Login
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

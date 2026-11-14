@@ -10,7 +10,7 @@ publisher: FedScoop
 source_type: Trade press
 issuing_office: 
 url: https://fedscoop.com/hhs-palantir-tiberius-contract-renewal
-archived_url: 
+archived_url: https://web.archive.org/web/20260917173026/https://fedscoop.com/hhs-palantir-tiberius-contract-renewal/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

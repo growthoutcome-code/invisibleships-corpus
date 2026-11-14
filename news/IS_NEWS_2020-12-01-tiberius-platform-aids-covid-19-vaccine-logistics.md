@@ -10,7 +10,7 @@ publisher: U.S. Department of Defense
 source_type: Official
 issuing_office: 
 url: https://www.defense.gov/Explore/News/Article/Article/2446061/tiberius-platform-aids-covid-19-logistics-delivery
-archived_url: 
+archived_url: https://web.archive.org/web/20261113023949/https://www.war.gov/News/News-Stories/Article/Article/2446061/tiberius-platform-aids-covid-19-logistics-delivery/
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: already in the corpus
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

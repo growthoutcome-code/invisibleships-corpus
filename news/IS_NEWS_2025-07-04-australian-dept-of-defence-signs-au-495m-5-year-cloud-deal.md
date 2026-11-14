@@ -10,7 +10,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/australian-department-of-defence-signs-au495m-five-year-cloud-deal-with-microsoft
-archived_url: 
+archived_url: https://web.archive.org/web/20251130024722/https://www.datacenterdynamics.com/en/news/australian-department-of-defence-signs-au495m-five-year-cloud-deal-with-microsoft/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

@@ -10,7 +10,7 @@ publisher: Computer Weekly
 source_type: Trade press
 issuing_office: 
 url: https://www.computerweekly.com/news/252480796/Coronavirus-NHS-corrals-Microsoft-Palantir-and-Google-to-hone-data-analysis
-archived_url: 
+archived_url: https://web.archive.org/web/20261113015455/https://www.computerweekly.com/news/252480796/Coronavirus-NHS-corrals-Microsoft-Palantir-and-Google-to-hone-data-analysis
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

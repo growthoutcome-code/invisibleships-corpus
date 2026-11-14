@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/california-woman-arrested-charges-alleging-she-acted-agent-china-and-spied-relatives-us
-archived_url: 
+archived_url: https://web.archive.org/web/20261113231939/https://www.justice.gov/opa/pr/california-woman-arrested-charges-alleging-she-acted-agent-china-and-spied-relatives-us
 industry: 
 event: Espionage & foreign agents
 country: China
@@ -18,6 +18,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: web search (justice.gov), date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

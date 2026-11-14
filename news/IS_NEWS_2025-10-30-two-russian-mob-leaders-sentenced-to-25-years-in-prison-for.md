@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: U.S. Attorney's Office, Southern District of New York
 url: https://www.justice.gov/usao-sdny/pr/two-russian-mob-leaders-sentenced-25-years-prison-murder-hire-targeting-journalist
-archived_url: 
+archived_url: https://web.archive.org/web/20261113225349/https://www.justice.gov/usao-sdny/pr/two-russian-mob-leaders-sentenced-25-years-prison-murder-hire-targeting-journalist
 industry: 
 event: Murder for hire & violent plots
 country: Iran
@@ -18,6 +18,7 @@ stage: sentenced
 related: 
 summary_status: draft
 found_via: justice.gov search, date read from the release
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

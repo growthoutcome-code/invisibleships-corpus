@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/florida-telecommunications-and-information-technology-worker-pleads-guilty-conspiring-act
-archived_url: 
+archived_url: https://web.archive.org/web/20261113053438/https://www.justice.gov/archives/opa/pr/florida-telecommunications-and-information-technology-worker-pleads-guilty-conspiring-act
 industry: 
 event: Espionage & foreign agents
 country: China

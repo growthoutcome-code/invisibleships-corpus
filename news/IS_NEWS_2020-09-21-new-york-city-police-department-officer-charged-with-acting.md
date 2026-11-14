@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/new-york-city-police-department-officer-charged-acting-illegal-agent-people-s-republic-china
-archived_url: 
+archived_url: https://web.archive.org/web/20250204103738/https://www.justice.gov/opa/pr/new-york-city-police-department-officer-charged-acting-illegal-agent-people-s-republic-china
 industry: 
 event: Espionage & foreign agents
 country: China

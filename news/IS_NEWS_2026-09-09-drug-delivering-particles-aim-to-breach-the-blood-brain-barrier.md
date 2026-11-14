@@ -10,7 +10,7 @@ publisher: Nature
 source_type: News
 issuing_office: 
 url: https://www.nature.com/articles/d41586-026-02655-6
-archived_url: 
+archived_url: https://web.archive.org/web/20261113231138/https://www.nature.com/articles/d41586-026-02655-6?error=cookies_not_supported&code=93223097-53e9-43ed-b677-c11516547f2e
 industry: Nanotechnology · Biotechnology & health
 event: Research & breakthroughs
 country: 
@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search, date read from the article; added 7 Oct 2026 with the nanotechnology category
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

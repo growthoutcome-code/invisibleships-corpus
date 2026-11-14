@@ -10,7 +10,7 @@ publisher: DefenseScoop
 source_type: Trade press
 issuing_office: 
 url: https://defensescoop.com/2022/12/07/pentagon-awards-aws-google-microsoft-and-oracle-spots-on-joint-warfighting-cloud-capability-solicitation
-archived_url: 
+archived_url: https://web.archive.org/web/20260417021330/https://defensescoop.com/2022/12/07/pentagon-awards-aws-google-microsoft-and-oracle-spots-on-joint-warfighting-cloud-capability-solicitation/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

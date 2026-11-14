@@ -10,7 +10,7 @@ publisher: ExecutiveBiz
 source_type: Trade press
 issuing_office: 
 url: https://www.executivebiz.com/articles/navy-jwcc-aws-azure-google-oracle-task-orders
-archived_url: 
+archived_url: https://web.archive.org/web/20260715051237/https://www.executivebiz.com/articles/navy-jwcc-aws-azure-google-oracle-task-orders
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

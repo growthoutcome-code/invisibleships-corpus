@@ -10,7 +10,7 @@ publisher: FedScoop
 source_type: Trade press
 issuing_office: 
 url: https://fedscoop.com/covid-19-vaccine-scheduling-data
-archived_url: 
+archived_url: https://web.archive.org/web/20260719091947/https://fedscoop.com/covid-19-vaccine-scheduling-data/
 industry: Biotechnology & health · Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

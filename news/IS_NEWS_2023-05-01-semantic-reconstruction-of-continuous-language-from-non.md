@@ -10,7 +10,7 @@ publisher: Nature Neuroscience
 source_type: Research
 issuing_office: 
 url: https://www.nature.com/articles/s41593-023-01304-9
-archived_url: 
+archived_url: https://web.archive.org/web/20261009192609/https://www.nature.com/articles/s41593-023-01304-9
 industry: Neurotechnology · Artificial intelligence
 event: Research & breakthroughs
 country: 

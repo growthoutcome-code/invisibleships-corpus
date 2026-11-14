@@ -10,7 +10,7 @@ publisher: TechCrunch
 source_type: News
 issuing_office: 
 url: https://techcrunch.com/2022/03/10/amazon-microsoft-and-google-have-suspended-cloud-sales-in-russia
-archived_url: 
+archived_url: https://web.archive.org/web/20261113032020/https://techcrunch.com/2022/03/10/amazon-microsoft-and-google-have-suspended-cloud-sales-in-russia/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

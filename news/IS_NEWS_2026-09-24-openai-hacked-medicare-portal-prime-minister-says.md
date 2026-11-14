@@ -10,7 +10,7 @@ publisher: ABC News (Australia)
 source_type: News
 issuing_office: 
 url: https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078
-archived_url: 
+archived_url: https://web.archive.org/web/20261113090002/https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078
 industry: Artificial intelligence · Biotechnology & health
 event: Public health
 country: Australia
@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search, date read from the article; title shortened to leave out a personal name
+source_status: available 2026-11-13
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

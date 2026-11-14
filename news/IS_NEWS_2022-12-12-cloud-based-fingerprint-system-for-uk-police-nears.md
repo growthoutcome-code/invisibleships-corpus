@@ -10,7 +10,7 @@ publisher: Computer Weekly
 source_type: Trade press
 issuing_office: 
 url: https://www.computerweekly.com/news/252528242/Cloud-based-fingerprint-system-for-UK-police-nears-completion
-archived_url: 
+archived_url: https://web.archive.org/web/20261113034900/https://www.computerweekly.com/news/252528242/Cloud-based-fingerprint-system-for-UK-police-nears-completion
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

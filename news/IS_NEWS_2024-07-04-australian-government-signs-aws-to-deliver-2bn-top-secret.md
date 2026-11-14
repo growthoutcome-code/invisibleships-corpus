@@ -10,7 +10,7 @@ publisher: iTnews
 source_type: Trade press
 issuing_office: 
 url: https://www.itnews.com.au/news/australian-government-signs-aws-to-deliver-2bn-top-secret-cloud-609426
-archived_url: 
+archived_url: https://web.archive.org/web/20261113052622/https://www.itnews.com.au/news/australian-government-signs-aws-to-deliver-2bn-top-secret-cloud-609426
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

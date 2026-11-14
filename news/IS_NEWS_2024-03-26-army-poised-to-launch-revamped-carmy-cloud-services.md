@@ -10,7 +10,7 @@ publisher: DefenseScoop
 source_type: Trade press
 issuing_office: 
 url: https://defensescoop.com/2024/03/26/army-carmy-2-cloud-environment
-archived_url: 
+archived_url: https://web.archive.org/web/20261113052044/https://defensescoop.com/2024/03/26/army-carmy-2-cloud-environment/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

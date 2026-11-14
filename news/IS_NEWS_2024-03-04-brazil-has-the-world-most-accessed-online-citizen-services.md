@@ -10,7 +10,7 @@ publisher: Forbes
 source_type: News
 issuing_office: 
 url: https://www.forbes.com/sites/angelicamarideoliveira/2024/03/04/brazil-has-the-worlds-most-accessed-online-citizen-services-platform
-archived_url: 
+archived_url: https://web.archive.org/web/20261113051901/https://www.forbes.com/sites/angelicamarideoliveira/2024/03/04/brazil-has-the-worlds-most-accessed-online-citizen-services-platform/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

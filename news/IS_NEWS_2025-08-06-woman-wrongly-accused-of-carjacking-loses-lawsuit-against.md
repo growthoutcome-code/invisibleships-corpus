@@ -10,7 +10,7 @@ publisher: CBS News Detroit
 source_type: News
 issuing_office: 
 url: https://www.cbsnews.com/detroit/news/woman-wrongly-accused-carjacking-loses-lawsuit-detroit-police-used-facial-tech
-archived_url: 
+archived_url: https://web.archive.org/web/20260904020027/https://www.cbsnews.com/detroit/news/woman-wrongly-accused-carjacking-loses-lawsuit-detroit-police-used-facial-tech/
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Courts & litigation
 country: 

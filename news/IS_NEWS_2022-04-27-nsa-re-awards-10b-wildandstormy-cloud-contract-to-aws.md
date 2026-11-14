@@ -10,7 +10,7 @@ publisher: FedScoop
 source_type: Trade press
 issuing_office: 
 url: https://fedscoop.com/nsa-re-awards-10b-wildandstormy-cloud-computing-contract-to-aws
-archived_url: 
+archived_url: https://web.archive.org/web/20260912224910/https://fedscoop.com/nsa-re-awards-10b-wildandstormy-cloud-computing-contract-to-aws/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

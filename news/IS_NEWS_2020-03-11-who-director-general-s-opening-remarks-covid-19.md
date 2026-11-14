@@ -10,7 +10,7 @@ publisher: World Health Organization
 source_type: Official
 issuing_office: 
 url: https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020
-archived_url: 
+archived_url: https://web.archive.org/web/20261113015352/https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020
 industry: Biotechnology & health
 event: Public health
 country: 

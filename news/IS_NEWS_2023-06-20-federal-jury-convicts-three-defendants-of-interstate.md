@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/federal-jury-convicts-three-defendants-interstate-stalking-chinese-nationals-united-states
-archived_url: 
+archived_url: https://web.archive.org/web/20250206010634/https://www.justice.gov/opa/pr/federal-jury-convicts-three-defendants-interstate-stalking-chinese-nationals-united-states
 industry: 
 event: Transnational repression
 country: China

@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/american-businessman-who-ran-houston-based-subsidiary-chinese-company-sentenced-prison-theft
-archived_url: 
+archived_url: https://web.archive.org/web/20250203225419/https://www.justice.gov/opa/pr/american-businessman-who-ran-houston-based-subsidiary-chinese-company-sentenced-prison-theft
 industry: 
 event: Technology theft & export control
 country: China

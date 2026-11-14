@@ -10,7 +10,7 @@ publisher: Nextgov/FCW
 source_type: Trade press
 issuing_office: 
 url: https://www.nextgov.com/digital-government/2022/12/amazon-google-microsoft-oracle-awarded-9b-pentagon-cloud-contract/380596
-archived_url: 
+archived_url: https://web.archive.org/web/20260713005412/https://www.nextgov.com/digital-government/2022/12/amazon-google-microsoft-oracle-awarded-9b-pentagon-cloud-contract/380596/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

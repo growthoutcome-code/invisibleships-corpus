@@ -10,7 +10,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/microsoft-suspends-access-to-cloud-services-for-russian-companies
-archived_url: 
+archived_url: https://web.archive.org/web/20261113051833/https://www.datacenterdynamics.com/en/news/microsoft-suspends-access-to-cloud-services-for-russian-companies/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

@@ -10,7 +10,7 @@ publisher: iTnews
 source_type: Trade press
 issuing_office: 
 url: https://www.itnews.com.au/news/google-cloud-joins-aws-azure-in-gov-data-sovereignty-scheme-582705
-archived_url: 
+archived_url: https://web.archive.org/web/20261113033041/https://www.itnews.com.au/news/google-cloud-joins-aws-azure-in-gov-data-sovereignty-scheme-582705
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

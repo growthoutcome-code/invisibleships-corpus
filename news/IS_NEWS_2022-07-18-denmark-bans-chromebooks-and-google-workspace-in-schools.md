@@ -10,7 +10,7 @@ publisher: TechCrunch
 source_type: News
 issuing_office: 
 url: https://techcrunch.com/2022/07/18/denmark-bans-chromebooks-and-google-workspace-in-schools-over-gdpr
-archived_url: 
+archived_url: https://web.archive.org/web/20261113033133/https://techcrunch.com/2022/07/18/denmark-bans-chromebooks-and-google-workspace-in-schools-over-gdpr/
 industry: Government cloud & surveillance technology
 event: Regulation & law
 country: 

@@ -10,7 +10,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/former-intelligence-officer-convicted-attempted-espionage-sentenced-10-years-federal-prison
-archived_url: 
+archived_url: https://web.archive.org/web/20261113012746/https://www.justice.gov/archives/opa/pr/former-intelligence-officer-convicted-attempted-espionage-sentenced-10-years-federal-prison
 industry: 
 event: Espionage & foreign agents
 country: China
