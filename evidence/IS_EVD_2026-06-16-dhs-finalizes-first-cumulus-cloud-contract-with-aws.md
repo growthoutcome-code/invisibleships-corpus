@@ -8,7 +8,7 @@ news_id: IS-NEWS-2026-06-16-DHS-FINALIZES-FIRST-CUMULUS-CLOUD-CONTRACT-WITH-AWS
 news_file: news/IS_NEWS_2026-06-16-dhs-finalizes-first-cumulus-cloud-contract-with-aws.md
 publisher: "Nextgov/FCW"
 url: https://www.nextgov.com/acquisition/2026/06/dhs-finalizes-first-cumulus-cloud-contract-aws/414197
-archived_url: 
+archived_url: https://web.archive.org/web/20261114060243/https://www.nextgov.com/acquisition/2026/06/dhs-finalizes-first-cumulus-cloud-contract-aws/414197/
 captured: 2026-11-13T23:07:20Z
 capture_status: captured
 http_status: 200
@@ -30,7 +30,7 @@ disclaimer: meta/IS_META_terms.md
 - **Original:** [https://www.nextgov.com/acquisition/2026/06/dhs-finalizes-first-cumulus-cloud-contract-aws/414197](https://www.nextgov.com/acquisition/2026/06/dhs-finalizes-first-cumulus-cloud-contract-aws/414197)
 - **Written by:** Ross Wilkers
 - **Published (as stated by the source):** 2026-06-15 (this archive dates the item 2026-06-16)
-- **Internet Archive copy:** none yet
+- **Internet Archive copy:** [https://web.archive.org/web/20261114060243/https://www.nextgov.com/acquisition/2026/06/dhs-finalizes-first-cumulus-cloud-contract-aws/414197/](https://web.archive.org/web/20261114060243/https://www.nextgov.com/acquisition/2026/06/dhs-finalizes-first-cumulus-cloud-contract-aws/414197/)
 - **This archive's summary:** `news/IS_NEWS_2026-06-16-dhs-finalizes-first-cumulus-cloud-contract-with-aws.md`
 - **Collected by:** Sean C. Harris, invisibleships.com. Written by and belongs to Nextgov/FCW.
 - **Fingerprint (SHA-256 of the captured text):** `23be2941a0988ed58b5de0997ba121bd85453a4f2cecfd3dd9e62e0cfba6e9c3`

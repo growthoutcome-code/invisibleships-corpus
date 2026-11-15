@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: Biometric Update, 17 Oct (https://www.biometricupdate.com/202610/gao-finds-us-agencies-unprepared-for-quantum-threats-to-digital-identity); date is the reissue date shown on the GAO page (first public release 6 Oct 2026); report GAO-27-108740
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

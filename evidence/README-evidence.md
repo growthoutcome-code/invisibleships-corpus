@@ -18,11 +18,11 @@ confirm the text is exactly what was captured.
 
 ## What is here
 
-- 381 files, one per News item (`IS_EVD_<slug>.md`, matching `news/IS_NEWS_<slug>.md`).
-- 381 captured in full; 0 could not be captured (paywall, block or
+- 477 files, one per News item (`IS_EVD_<slug>.md`, matching `news/IS_NEWS_<slug>.md`).
+- 469 captured in full; 8 could not be captured (paywall, block or
   error), and say why. The Internet Archive copy is the record for those.
-- 131 are U.S. federal government pages (public domain).
-- 0 have changed since capture, and 0 are no longer available. Each
+- 140 are U.S. federal government pages (public domain).
+- 1 have changed since capture, and 1 are no longer available. Each
   change is in that file's change log.
 
 ## How a file is built

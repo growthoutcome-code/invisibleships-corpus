@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (brain-computer interface news, 22 Oct); date read from the article; related China News Service report, 20 Oct (http://www.ecns.cn/cns-wire/2026-10-20/detail-ihfmiwhm0736637.shtml)
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

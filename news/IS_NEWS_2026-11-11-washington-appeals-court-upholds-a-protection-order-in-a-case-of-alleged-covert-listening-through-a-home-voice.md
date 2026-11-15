@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window) (acknowledgement watch: technology-enabled harassment and stalking); unpublished Washington Court of Appeals opinion of 9 Nov, as reported; title reworded to leave out names and the product name
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

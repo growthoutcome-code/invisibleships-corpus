@@ -8,7 +8,7 @@ news_id: IS-NEWS-2025-03-06-ISRAEL-MILITARY-AI-SURVEILLANCE
 news_file: news/IS_NEWS_2025-03-06-israel-military-ai-surveillance.md
 publisher: "The Guardian"
 url: https://www.theguardian.com/world/2025/mar/06/israel-military-ai-surveillance
-archived_url: 
+archived_url: https://web.archive.org/web/20261114055406/https://www.theguardian.com/world/2025/mar/06/israel-military-ai-surveillance
 captured: 2026-11-13T22:09:31Z
 capture_status: captured
 http_status: 200
@@ -30,7 +30,7 @@ disclaimer: meta/IS_META_terms.md
 - **Original:** [https://www.theguardian.com/world/2025/mar/06/israel-military-ai-surveillance](https://www.theguardian.com/world/2025/mar/06/israel-military-ai-surveillance)
 - **Written by:** Harry Davies; Yuval Abraham
 - **Published (as stated by the source):** 2025-03-06
-- **Internet Archive copy:** none yet
+- **Internet Archive copy:** [https://web.archive.org/web/20261114055406/https://www.theguardian.com/world/2025/mar/06/israel-military-ai-surveillance](https://web.archive.org/web/20261114055406/https://www.theguardian.com/world/2025/mar/06/israel-military-ai-surveillance)
 - **This archive's summary:** `news/IS_NEWS_2025-03-06-israel-military-ai-surveillance.md`
 - **Collected by:** Sean C. Harris, invisibleships.com. Written by and belongs to The Guardian.
 - **Fingerprint (SHA-256 of the captured text):** `46cd4116aa1cc666485db370954327a0ec96e6806b16dab673856f23a90caefe`

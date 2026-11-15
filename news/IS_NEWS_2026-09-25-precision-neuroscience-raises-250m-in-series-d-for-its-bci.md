@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search, date read from the article
+source_status: unreadable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

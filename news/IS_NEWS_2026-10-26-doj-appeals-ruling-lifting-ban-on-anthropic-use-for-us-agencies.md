@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (AI litigation, 27 Oct); date read from the page (26 Oct 2026, 1:19 pm EDT); full text paywalled; Bloomberg's report the same day (https://www.bloomberg.com/news/articles/2026-10-26/doj-appeals-court-ruling-lifting-ban-on-agency-anthropic-use) could not be read (robots.txt)
+source_status: unreadable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

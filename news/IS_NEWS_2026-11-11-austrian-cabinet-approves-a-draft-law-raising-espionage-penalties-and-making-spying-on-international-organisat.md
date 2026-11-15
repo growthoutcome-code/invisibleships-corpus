@@ -20,6 +20,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window) (German, espionage law); date read from the ministry's news page; details also from ORF (https://orf.at/stories/3447878/, 11 Nov); title translated and reworded
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

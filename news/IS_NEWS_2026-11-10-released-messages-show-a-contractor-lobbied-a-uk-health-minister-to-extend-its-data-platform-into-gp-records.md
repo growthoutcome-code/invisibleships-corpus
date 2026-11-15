@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (English, GP records data platform, 8-11 Nov 2026 window); date and details read from The National article republished by Yahoo News UK; the Guardian, which first reported it on 9 Nov, would not load; company and people not named in the title
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

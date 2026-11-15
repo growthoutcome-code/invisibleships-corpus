@@ -10,7 +10,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/aws-wins-94m-contract-with-uk-govs-dwp
-archived_url: 
+archived_url: https://web.archive.org/web/20260227013859/https://www.datacenterdynamics.com/en/news/aws-wins-94m-contract-with-uk-govs-dwp/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

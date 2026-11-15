@@ -10,7 +10,7 @@ publisher: CBS News
 source_type: News
 issuing_office: 
 url: https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/
-archived_url: 
+archived_url: https://web.archive.org/web/20261113213320/https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/
 industry: Government cloud & surveillance technology
 event: Outages & disruptions
 country: 
@@ -18,6 +18,8 @@ stage:
 related: 
 summary_status: draft
 found_via: added at Sean's request, 13 Nov 2026 (follow internet outages and FAA ground stops); web search, date read from the article (updated 13 Nov 2026, 6:36 p.m. EST); also reported by CNBC, NBC News and Flightradar24
+source_status: changed 2026-11-14
+source_changes: 2026-11-14 removed and added
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

@@ -4,7 +4,7 @@ slug: us
 title: "The law: United States"
 collection: law
 doc_type: law-reference
-updated: 2026-11-11
+updated: 2026-11-14
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved. Linked sources belong to their publishers.
 disclaimer: meta/IS_META_terms.md
@@ -112,7 +112,7 @@ The Fifth Amendment protects a person from being forced to testify against thems
 
 ## Being written
 
-State health-data laws that reach consumer brain devices; the federal ban on the Defense Department buying AI models from adversary countries.
+State health-data laws that reach consumer brain devices; the federal ban on the Defense Department buying AI models from adversary countries; children's online privacy and design rules (the updated federal children's privacy bill, which Nita Farahany reports the Senate passed on 5 March 2026, and the Ninth Circuit's 12 March 2026 ruling on California's Age-Appropriate Design Code), both to be checked against the current record before they are written up.
 
 ---
 

@@ -8,7 +8,7 @@ news_id: IS-NEWS-2024-08-21-WHEN-IT-COMES-TO-CLOUD-IT-IS-CHINA-AGAINST-THE-WORLD
 news_file: news/IS_NEWS_2024-08-21-when-it-comes-to-cloud-it-is-china-against-the-world.md
 publisher: "The Register"
 url: https://www.theregister.com/off-prem/2024/08/21/when-it-comes-to-cloud-its-china-against-the-world/1206891
-archived_url: 
+archived_url: https://web.archive.org/web/20260825062045/https://www.theregister.com/off-prem/2024/08/21/when-it-comes-to-cloud-its-china-against-the-world/1206891
 captured: 2026-11-13T05:34:23Z
 capture_status: captured
 http_status: 200
@@ -30,7 +30,7 @@ disclaimer: meta/IS_META_terms.md
 - **Original:** [https://www.theregister.com/off-prem/2024/08/21/when-it-comes-to-cloud-its-china-against-the-world/1206891](https://www.theregister.com/off-prem/2024/08/21/when-it-comes-to-cloud-its-china-against-the-world/1206891)
 - **Written by:** Dan Robinson
 - **Published (as stated by the source):** 2024-08-21
-- **Internet Archive copy:** none yet
+- **Internet Archive copy:** [https://web.archive.org/web/20260825062045/https://www.theregister.com/off-prem/2024/08/21/when-it-comes-to-cloud-its-china-against-the-world/1206891](https://web.archive.org/web/20260825062045/https://www.theregister.com/off-prem/2024/08/21/when-it-comes-to-cloud-its-china-against-the-world/1206891)
 - **This archive's summary:** `news/IS_NEWS_2024-08-21-when-it-comes-to-cloud-it-is-china-against-the-world.md`
 - **Collected by:** Sean C. Harris, invisibleships.com. Written by and belongs to The Register.
 - **Fingerprint (SHA-256 of the captured text):** `07ba168aad7bfd2729b9b7b606d48a135b9496f834737ede393bb23cd18f428e`

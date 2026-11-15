@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window) (acknowledgement watch: neural data); Malwarebytes credits a Science investigation (https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users), which returned 403 here; BetaNews and TechSpot carry the same facts; title reworded to leave out the company and product name
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

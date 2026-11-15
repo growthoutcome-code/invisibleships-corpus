@@ -10,7 +10,7 @@ publisher: The Boston Globe
 source_type: News
 issuing_office: 
 url: https://www.bostonglobe.com/2026/07/27/business/ebay-harassed-ina-david-steiner-settlement
-archived_url: 
+archived_url: https://web.archive.org/web/20261114061047/https://www.bostonglobe.com/2026/07/27/business/ebay-harassed-ina-david-steiner-settlement/
 industry: 
 event: Courts & litigation
 country: 

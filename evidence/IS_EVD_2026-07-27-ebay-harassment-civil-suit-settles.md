@@ -8,7 +8,7 @@ news_id: IS-NEWS-2026-07-27-EBAY-HARASSMENT-CIVIL-SUIT-SETTLES
 news_file: news/IS_NEWS_2026-07-27-ebay-harassment-civil-suit-settles.md
 publisher: "The Boston Globe"
 url: https://www.bostonglobe.com/2026/07/27/business/ebay-harassed-ina-david-steiner-settlement
-archived_url: 
+archived_url: https://web.archive.org/web/20261114061047/https://www.bostonglobe.com/2026/07/27/business/ebay-harassed-ina-david-steiner-settlement/
 captured: 2026-11-13T23:08:33Z
 capture_status: captured
 http_status: 200
@@ -30,7 +30,7 @@ disclaimer: meta/IS_META_terms.md
 - **Original:** [https://www.bostonglobe.com/2026/07/27/business/ebay-harassed-ina-david-steiner-settlement](https://www.bostonglobe.com/2026/07/27/business/ebay-harassed-ina-david-steiner-settlement)
 - **Written by:** Aaron Pressman
 - **Published (as stated by the source):** 2026-07-27
-- **Internet Archive copy:** none yet
+- **Internet Archive copy:** [https://web.archive.org/web/20261114061047/https://www.bostonglobe.com/2026/07/27/business/ebay-harassed-ina-david-steiner-settlement/](https://web.archive.org/web/20261114061047/https://www.bostonglobe.com/2026/07/27/business/ebay-harassed-ina-david-steiner-settlement/)
 - **This archive's summary:** `news/IS_NEWS_2026-07-27-ebay-harassment-civil-suit-settles.md`
 - **Collected by:** Sean C. Harris, invisibleships.com. Written by and belongs to The Boston Globe.
 - **Fingerprint (SHA-256 of the captured text):** `bdce50c62e138b332db353bc8cf760a2fe5a4b04355aa3de00ee4a663bdf4db2`

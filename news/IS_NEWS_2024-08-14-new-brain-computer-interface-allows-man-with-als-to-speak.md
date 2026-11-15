@@ -10,7 +10,7 @@ publisher: UC Davis Health
 source_type: Research
 issuing_office: 
 url: https://health.ucdavis.edu/news/headlines/new-brain-computer-interface-allows-man-with-als-to-speak-again/2024/08
-archived_url: 
+archived_url: https://web.archive.org/web/20260921055122/https://health.ucdavis.edu/news/headlines/new-brain-computer-interface-allows-man-with-als-to-speak-again/2024/08
 industry: Neurotechnology
 event: Research & breakthroughs
 country: 

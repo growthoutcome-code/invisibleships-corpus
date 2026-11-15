@@ -10,7 +10,7 @@ publisher: LBC
 source_type: News
 issuing_office: 
 url: https://www.lbc.co.uk/article/police-custody-photos-wrongly-kept-facial-recognition-5HjdmGq_2/
-archived_url: 
+archived_url: https://web.archive.org/web/20261114045322/https://www.lbc.co.uk/article/police-custody-photos-wrongly-kept-facial-recognition-5HjdmGq_2/
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Reports & statistics
 country: United Kingdom
@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window); reporting an HMICFRS inspection report (the inspectorate's site returned 403); The Guardian reported the same report on 12 Nov
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

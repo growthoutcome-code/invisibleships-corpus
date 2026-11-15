@@ -10,7 +10,7 @@ publisher: The Register
 source_type: Trade press
 issuing_office: 
 url: https://www.theregister.com/off-prem/2024/08/21/when-it-comes-to-cloud-its-china-against-the-world/1206891
-archived_url: 
+archived_url: https://web.archive.org/web/20260825062045/https://www.theregister.com/off-prem/2024/08/21/when-it-comes-to-cloud-its-china-against-the-world/1206891
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

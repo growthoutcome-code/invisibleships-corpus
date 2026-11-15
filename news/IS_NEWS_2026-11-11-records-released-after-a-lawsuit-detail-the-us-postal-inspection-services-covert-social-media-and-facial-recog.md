@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window) (acknowledgement watch: official findings of unlawful use of government technology); date read from the article; the Inspector General finding quoted dates from March 2022
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

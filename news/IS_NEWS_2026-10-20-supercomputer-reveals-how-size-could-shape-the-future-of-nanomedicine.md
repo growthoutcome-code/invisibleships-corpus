@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (nanotechnology: nanomedicine, 25 Oct); date read from the article; flagged on 23 Oct with an unconfirmed date; the story comes from University of California San Diego; paper in Small, "Integrating Experiments and Simulations to Uncover Size-Dependent Bioactivity in Cellular Nanodiscs"
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

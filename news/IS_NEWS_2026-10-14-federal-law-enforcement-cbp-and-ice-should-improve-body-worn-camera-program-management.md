@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (found via Biometric Update, 15 Oct: https://www.biometricupdate.com/202610/dhs-rejects-automatic-activation-of-ice-body-cameras-despite-gao-warning), date read from the GAO page (published 15 Sep 2026, publicly released 14 Oct 2026)
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

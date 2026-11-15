@@ -10,7 +10,7 @@ publisher: European Data Protection Board
 source_type: Official
 issuing_office: 
 url: https://www.edpb.europa.eu/news/national-news/2023/facial-recognition-french-sa-imposes-penalty-payment-clearview-ai-non-payment_en
-archived_url: 
+archived_url: https://web.archive.org/web/20261114050639/https://www.edpb.europa.eu/news_en
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Courts & litigation
 country: 

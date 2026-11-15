@@ -8,7 +8,7 @@ news_id: IS-NEWS-2026-09-15-DHS-SIGNS-CUMULUS-CLOUD-CONTRACT-WITH-GOOGLE
 news_file: news/IS_NEWS_2026-09-15-dhs-signs-cumulus-cloud-contract-with-google.md
 publisher: "Washington Technology"
 url: https://www.washingtontechnology.com/contracts/2026/09/dhs-signs-cumulus-cloud-contract-google/415994/
-archived_url: 
+archived_url: https://web.archive.org/web/20261114061315/https://www.washingtontechnology.com/contracts/2026/09/dhs-signs-cumulus-cloud-contract-google/415994/
 captured: 2026-11-13T23:12:01Z
 capture_status: captured
 http_status: 200
@@ -30,7 +30,7 @@ disclaimer: meta/IS_META_terms.md
 - **Original:** [https://www.washingtontechnology.com/contracts/2026/09/dhs-signs-cumulus-cloud-contract-google/415994/](https://www.washingtontechnology.com/contracts/2026/09/dhs-signs-cumulus-cloud-contract-google/415994/)
 - **Written by:** Ross Wilkers
 - **Published (as stated by the source):** 2026-09-15
-- **Internet Archive copy:** none yet
+- **Internet Archive copy:** [https://web.archive.org/web/20261114061315/https://www.washingtontechnology.com/contracts/2026/09/dhs-signs-cumulus-cloud-contract-google/415994/](https://web.archive.org/web/20261114061315/https://www.washingtontechnology.com/contracts/2026/09/dhs-signs-cumulus-cloud-contract-google/415994/)
 - **This archive's summary:** `news/IS_NEWS_2026-09-15-dhs-signs-cumulus-cloud-contract-with-google.md`
 - **Collected by:** Sean C. Harris, invisibleships.com. Written by and belongs to Washington Technology.
 - **Fingerprint (SHA-256 of the captured text):** `a71a413bb70a5dcbe330b49113d57c359e2561aba38b076963a8bb972bc0b13a`

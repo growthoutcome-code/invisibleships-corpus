@@ -8,7 +8,7 @@ news_id: IS-NEWS-2024-01-08-AWS-WINS-GBP94M-CONTRACT-WITH-UK-DWP
 news_file: news/IS_NEWS_2024-01-08-aws-wins-gbp94m-contract-with-uk-dwp.md
 publisher: "DatacenterDynamics"
 url: https://www.datacenterdynamics.com/en/news/aws-wins-94m-contract-with-uk-govs-dwp
-archived_url: 
+archived_url: https://web.archive.org/web/20260227013859/https://www.datacenterdynamics.com/en/news/aws-wins-94m-contract-with-uk-govs-dwp/
 captured: 2026-11-13T05:16:08Z
 capture_status: captured
 http_status: 200
@@ -30,7 +30,7 @@ disclaimer: meta/IS_META_terms.md
 - **Original:** [https://www.datacenterdynamics.com/en/news/aws-wins-94m-contract-with-uk-govs-dwp](https://www.datacenterdynamics.com/en/news/aws-wins-94m-contract-with-uk-govs-dwp)
 - **Written by:** Georgia Butler Have your say
 - **Published (as stated by the source):** 2026-11-12 (this archive dates the item 2024-01-08)
-- **Internet Archive copy:** none yet
+- **Internet Archive copy:** [https://web.archive.org/web/20260227013859/https://www.datacenterdynamics.com/en/news/aws-wins-94m-contract-with-uk-govs-dwp/](https://web.archive.org/web/20260227013859/https://www.datacenterdynamics.com/en/news/aws-wins-94m-contract-with-uk-govs-dwp/)
 - **This archive's summary:** `news/IS_NEWS_2024-01-08-aws-wins-gbp94m-contract-with-uk-dwp.md`
 - **Collected by:** Sean C. Harris, invisibleships.com. Written by and belongs to DatacenterDynamics.
 - **Fingerprint (SHA-256 of the captured text):** `7ad6f56b147787bd2b3e8a54d1eaf0079b3d754045e18ef76412417a3c264cde`

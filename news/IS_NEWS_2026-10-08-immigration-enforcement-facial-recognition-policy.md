@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (found via Biometric Update, 13 Oct: https://www.biometricupdate.com/202610/uk-sets-rules-for-live-facial-recognition-in-immigration-enforcement), date read from the GOV.UK page (version 2.3)
+source_status: unreachable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

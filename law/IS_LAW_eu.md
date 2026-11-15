@@ -4,7 +4,7 @@ slug: eu
 title: "The law: European Union"
 collection: law
 doc_type: law-reference
-updated: 2026-11-10
+updated: 2026-11-14
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved. Linked sources belong to their publishers.
 disclaimer: meta/IS_META_terms.md
@@ -20,6 +20,13 @@ disclaimer: meta/IS_META_terms.md
 - **What it does not cover:** AI used only for military, defence or national security; it does not create a general right to mental privacy.
 - **Analysis:** Nita Farahany ([*Thinking Freely*, 12 November 2025](https://nitafarahany.substack.com/p/understanding-how-the-eu-regulates)) describes one AI system falling under six or more EU laws at once, including the GDPR, the Data Act, the Digital Services Act and cybersecurity rules, with overlapping impact assessments and incident reports due to different authorities on different deadlines.
 - **Sources:** [Regulation (EU) 2024/1689](https://eur-lex.europa.eu/eli/reg/2024/1689/oj) and [Regulation (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj) (EUR-Lex); White & Case, ["EU AI Omnibus enters into force"](https://www.whitecase.com/insight-alert/eu-ai-omnibus-enters-force-amending-ai-act) (July 2026).
+
+## Germany: reform of the intelligence services law (2026)
+
+- **Status:** passed by the Bundestag on 13 November 2026 (bill 21/7868, in the Interior Committee's version), by 308 votes to 190 with 71 abstentions. It still goes to the Bundesrat; the date of entry into force is not yet known.
+- **What it covers:** according to the Bundestag, it gives the domestic and foreign intelligence services legal bases to compare image data biometrically and to use artificial intelligence in their analysis, widens their cyber powers (including access to attackers' IT systems under narrow conditions), and moves prior review and data-protection oversight to an independent control council.
+- **What it means for a person there:** the parliament's own summary records that opposition parties objected to biometric matching against internet data without adequate thresholds.
+- **Sources:** Deutscher Bundestag, ["Bundestag reformiert das Nachrichtendienstrecht"](https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-nachrichtendienste-1231530) (13 November 2026).
 
 ## Being written
 

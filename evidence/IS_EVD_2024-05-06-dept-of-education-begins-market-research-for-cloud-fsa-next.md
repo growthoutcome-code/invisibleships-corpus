@@ -8,7 +8,7 @@ news_id: IS-NEWS-2024-05-06-DEPT-OF-EDUCATION-BEGINS-MARKET-RESEARCH-FOR-CLOUD-F
 news_file: news/IS_NEWS_2024-05-06-dept-of-education-begins-market-research-for-cloud-fsa-next.md
 publisher: "FedScoop"
 url: https://fedscoop.com/department-of-education-begins-market-research-for-cloud-capabilities
-archived_url: 
+archived_url: https://web.archive.org/web/20261114052058/https://fedscoop.com/department-of-education-begins-market-research-for-cloud-capabilities/
 captured: 2026-11-13T05:25:05Z
 capture_status: captured
 http_status: 200
@@ -30,7 +30,7 @@ disclaimer: meta/IS_META_terms.md
 - **Original:** [https://fedscoop.com/department-of-education-begins-market-research-for-cloud-capabilities](https://fedscoop.com/department-of-education-begins-market-research-for-cloud-capabilities)
 - **Written by:** Caroline Nihill
 - **Published (as stated by the source):** 2024-05-06
-- **Internet Archive copy:** none yet
+- **Internet Archive copy:** [https://web.archive.org/web/20261114052058/https://fedscoop.com/department-of-education-begins-market-research-for-cloud-capabilities/](https://web.archive.org/web/20261114052058/https://fedscoop.com/department-of-education-begins-market-research-for-cloud-capabilities/)
 - **This archive's summary:** `news/IS_NEWS_2024-05-06-dept-of-education-begins-market-research-for-cloud-fsa-next.md`
 - **Collected by:** Sean C. Harris, invisibleships.com. Written by and belongs to FedScoop.
 - **Fingerprint (SHA-256 of the captured text):** `f489370046792babd0c5ecfddfd610e304315f3234710ae8ee7468ed1b9e508d`

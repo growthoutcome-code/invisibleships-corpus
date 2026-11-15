@@ -8,7 +8,7 @@ news_id: IS-NEWS-2025-10-22-STATE-OF-LOCAL-NEWS-3-500-NEWSPAPERS-GONE-MEDILL
 news_file: news/IS_NEWS_2025-10-22-state-of-local-news-3-500-newspapers-gone-medill.md
 publisher: "Nieman Lab"
 url: https://www.niemanlab.org/2025/10/in-medills-latest-state-of-local-news-report-a-festering
-archived_url: 
+archived_url: https://web.archive.org/web/20261114055751/https://www.niemanlab.org/2025/10/in-medills-latest-state-of-local-news-report-a-festering-20-year-old-problem-looms-larger-than-ever/
 captured: 2026-11-13T22:49:07Z
 capture_status: captured
 http_status: 200
@@ -30,7 +30,7 @@ disclaimer: meta/IS_META_terms.md
 - **Original:** [https://www.niemanlab.org/2025/10/in-medills-latest-state-of-local-news-report-a-festering](https://www.niemanlab.org/2025/10/in-medills-latest-state-of-local-news-report-a-festering)
 - **Written by:** Sophie Culpepper
 - **Published (as stated by the source):** 2025-10-22
-- **Internet Archive copy:** none yet
+- **Internet Archive copy:** [https://web.archive.org/web/20261114055751/https://www.niemanlab.org/2025/10/in-medills-latest-state-of-local-news-report-a-festering-20-year-old-problem-looms-larger-than-ever/](https://web.archive.org/web/20261114055751/https://www.niemanlab.org/2025/10/in-medills-latest-state-of-local-news-report-a-festering-20-year-old-problem-looms-larger-than-ever/)
 - **This archive's summary:** `news/IS_NEWS_2025-10-22-state-of-local-news-3-500-newspapers-gone-medill.md`
 - **Collected by:** Sean C. Harris, invisibleships.com. Written by and belongs to Nieman Lab.
 - **Fingerprint (SHA-256 of the captured text):** `28a656fd1a92d48e3aee4c90f928046e9298830e6802c230df5a03a2f4332df5`

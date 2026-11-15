@@ -18,6 +18,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: justice.gov Office of Public Affairs feed (8-11 Nov 2026 window); date and charges read from the release; defendants not named
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

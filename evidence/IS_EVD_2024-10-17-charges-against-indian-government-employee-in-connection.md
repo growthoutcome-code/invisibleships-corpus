@@ -8,7 +8,7 @@ news_id: IS-NEWS-2024-10-17-CHARGES-AGAINST-INDIAN-GOVERNMENT-EMPLOYEE-IN-CONNEC
 news_file: news/IS_NEWS_2024-10-17-charges-against-indian-government-employee-in-connection.md
 publisher: "U.S. Department of Justice"
 url: https://www.justice.gov/opa/pr/justice-department-announces-charges-against-indian-government-employee-connection-foiled
-archived_url: 
+archived_url: https://web.archive.org/web/20261114053214/https://www.justice.gov/archives/opa/pr/justice-department-announces-charges-against-indian-government-employee-connection-foiled
 captured: 2026-11-13T21:48:57Z
 captured_from: doj-api
 capture_status: captured
@@ -30,7 +30,7 @@ disclaimer: meta/IS_META_terms.md
 - **Original:** [https://www.justice.gov/opa/pr/justice-department-announces-charges-against-indian-government-employee-connection-foiled](https://www.justice.gov/opa/pr/justice-department-announces-charges-against-indian-government-employee-connection-foiled)
 - **Written by:** U.S. Department of Justice, release 24-1323
 - **Published (as stated by the source):** 2024-10-17
-- **Internet Archive copy:** none yet
+- **Internet Archive copy:** [https://web.archive.org/web/20261114053214/https://www.justice.gov/archives/opa/pr/justice-department-announces-charges-against-indian-government-employee-connection-foiled](https://web.archive.org/web/20261114053214/https://www.justice.gov/archives/opa/pr/justice-department-announces-charges-against-indian-government-employee-connection-foiled)
 - **This archive's summary:** `news/IS_NEWS_2024-10-17-charges-against-indian-government-employee-in-connection.md`
 - **Collected by:** Sean C. Harris, invisibleships.com. Written by and belongs to U.S. Department of Justice.
 - **Captured from:** the Justice Department's own public press-release API (justice.gov/api/v1), which serves the same release, because justice.gov answers automated readers with a bot check.

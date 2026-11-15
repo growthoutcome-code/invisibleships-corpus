@@ -10,7 +10,7 @@ publisher: FedScoop
 source_type: Trade press
 issuing_office: 
 url: https://fedscoop.com/department-of-education-begins-market-research-for-cloud-capabilities
-archived_url: 
+archived_url: https://web.archive.org/web/20261114052058/https://fedscoop.com/department-of-education-begins-market-research-for-cloud-capabilities/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

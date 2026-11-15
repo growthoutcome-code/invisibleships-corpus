@@ -20,6 +20,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (French, attribution cyberattaque Iran, 8-11 Nov 2026 window); date read from the ministry statement; the judicial investigation is from Ouest-France, 11 Nov; title translated and reworded from the French
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

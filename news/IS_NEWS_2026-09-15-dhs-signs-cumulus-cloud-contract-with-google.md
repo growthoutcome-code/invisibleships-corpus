@@ -10,7 +10,7 @@ publisher: Washington Technology
 source_type: Trade press
 issuing_office: 
 url: https://www.washingtontechnology.com/contracts/2026/09/dhs-signs-cumulus-cloud-contract-google/415994/
-archived_url: 
+archived_url: https://web.archive.org/web/20261114061315/https://www.washingtontechnology.com/contracts/2026/09/dhs-signs-cumulus-cloud-contract-google/415994/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

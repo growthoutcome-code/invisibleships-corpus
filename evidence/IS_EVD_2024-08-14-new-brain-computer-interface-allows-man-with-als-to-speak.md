@@ -8,7 +8,7 @@ news_id: IS-NEWS-2024-08-14-NEW-BRAIN-COMPUTER-INTERFACE-ALLOWS-MAN-WITH-ALS-TO-
 news_file: news/IS_NEWS_2024-08-14-new-brain-computer-interface-allows-man-with-als-to-speak.md
 publisher: "UC Davis Health"
 url: https://health.ucdavis.edu/news/headlines/new-brain-computer-interface-allows-man-with-als-to-speak-again/2024/08
-archived_url: 
+archived_url: https://web.archive.org/web/20260921055122/https://health.ucdavis.edu/news/headlines/new-brain-computer-interface-allows-man-with-als-to-speak-again/2024/08
 captured: 2026-11-13T05:33:26Z
 capture_status: captured
 http_status: 200
@@ -30,7 +30,7 @@ disclaimer: meta/IS_META_terms.md
 - **Original:** [https://health.ucdavis.edu/news/headlines/new-brain-computer-interface-allows-man-with-als-to-speak-again/2024/08](https://health.ucdavis.edu/news/headlines/new-brain-computer-interface-allows-man-with-als-to-speak-again/2024/08)
 - **Written by:** Nadine A Yehya
 - **Published (as stated by the source):** 2024-08-14
-- **Internet Archive copy:** none yet
+- **Internet Archive copy:** [https://web.archive.org/web/20260921055122/https://health.ucdavis.edu/news/headlines/new-brain-computer-interface-allows-man-with-als-to-speak-again/2024/08](https://web.archive.org/web/20260921055122/https://health.ucdavis.edu/news/headlines/new-brain-computer-interface-allows-man-with-als-to-speak-again/2024/08)
 - **This archive's summary:** `news/IS_NEWS_2024-08-14-new-brain-computer-interface-allows-man-with-als-to-speak.md`
 - **Collected by:** Sean C. Harris, invisibleships.com. Written by and belongs to UC Davis Health.
 - **Fingerprint (SHA-256 of the captured text):** `35db848c0e94f542ae61e1da792e6572eb56e7b5bb8e7d27d8e2088faaf4c441`

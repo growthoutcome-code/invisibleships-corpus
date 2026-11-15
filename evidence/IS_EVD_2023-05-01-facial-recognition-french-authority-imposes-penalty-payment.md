@@ -8,7 +8,7 @@ news_id: IS-NEWS-2023-05-01-FACIAL-RECOGNITION-FRENCH-AUTHORITY-IMPOSES-PENALTY-
 news_file: news/IS_NEWS_2023-05-01-facial-recognition-french-authority-imposes-penalty-payment.md
 publisher: "European Data Protection Board"
 url: https://www.edpb.europa.eu/news/national-news/2023/facial-recognition-french-sa-imposes-penalty-payment-clearview-ai-non-payment_en
-archived_url: 
+archived_url: https://web.archive.org/web/20261114050639/https://www.edpb.europa.eu/news_en
 captured: 2026-11-13T04:51:08Z
 capture_status: captured
 http_status: 200
@@ -29,7 +29,7 @@ disclaimer: meta/IS_META_terms.md
 - **Original:** [https://www.edpb.europa.eu/news/national-news/2023/facial-recognition-french-sa-imposes-penalty-payment-clearview-ai-non-payment_en](https://www.edpb.europa.eu/news/national-news/2023/facial-recognition-french-sa-imposes-penalty-payment-clearview-ai-non-payment_en)
 - **Written by:** not stated on the page
 - **Published (as stated by the source):** 2026-11-11 (this archive dates the item 2023-05-01)
-- **Internet Archive copy:** none yet
+- **Internet Archive copy:** [https://web.archive.org/web/20261114050639/https://www.edpb.europa.eu/news_en](https://web.archive.org/web/20261114050639/https://www.edpb.europa.eu/news_en)
 - **This archive's summary:** `news/IS_NEWS_2023-05-01-facial-recognition-french-authority-imposes-penalty-payment.md`
 - **Collected by:** Sean C. Harris, invisibleships.com. Written by and belongs to European Data Protection Board.
 - **Fingerprint (SHA-256 of the captured text):** `2f2c85810978336a91bbe944ba5b7d836a6c85db8559cb37dbc129afc98a2967`

@@ -10,7 +10,7 @@ publisher: Nieman Lab
 source_type: News
 issuing_office: 
 url: https://www.niemanlab.org/2025/10/in-medills-latest-state-of-local-news-report-a-festering
-archived_url: 
+archived_url: https://web.archive.org/web/20261114055751/https://www.niemanlab.org/2025/10/in-medills-latest-state-of-local-news-report-a-festering-20-year-old-problem-looms-larger-than-ever/
 industry: 
 event: Research & breakthroughs
 country: 

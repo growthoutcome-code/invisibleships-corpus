@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window) (AI regulation and government use); SBS cites AAP and AFP; The Conversation also reported it; the June incident itself is already in the archive (ABC, 24 Sep); title reworded to leave out names
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

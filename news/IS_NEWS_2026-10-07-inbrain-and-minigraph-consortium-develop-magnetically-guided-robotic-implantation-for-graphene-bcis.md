@@ -10,7 +10,7 @@ publisher: Business Wire (via BioSpace)
 source_type: Trade press
 issuing_office: 
 url: https://www.biospace.com/press-releases/inbrain-neuroelectronics-and-minigraph-european-consortium-develop-magnetically-guided-robotic-implantation-for-ultra-thin-graphene-brain-computer-interfaces
-archived_url: 
+archived_url: https://web.archive.org/web/20261009085637/https://www.biospace.com/press-releases/inbrain-neuroelectronics-and-minigraph-european-consortium-develop-magnetically-guided-robotic-implantation-for-ultra-thin-graphene-brain-computer-interfaces
 industry: Neurotechnology · Nanotechnology
 event: Research & breakthroughs
 country: 

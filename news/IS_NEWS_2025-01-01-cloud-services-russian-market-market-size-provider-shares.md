@@ -10,7 +10,7 @@ publisher: TAdviser
 source_type: Trade press
 issuing_office: 
 url: https://tadviser.com/index.php/Article:Cloud_services_(Russian_market)
-archived_url: 
+archived_url: https://web.archive.org/web/20230218032425/https://tadviser.com/index.php/Article:Cloud_services_%28Russian_market%29
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 

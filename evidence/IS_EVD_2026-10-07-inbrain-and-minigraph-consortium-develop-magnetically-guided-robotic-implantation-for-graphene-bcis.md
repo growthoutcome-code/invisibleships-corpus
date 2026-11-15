@@ -8,7 +8,7 @@ news_id: IS-NEWS-2026-10-07-INBRAIN-AND-MINIGRAPH-CONSORTIUM-DEVELOP-MAGNETICALL
 news_file: news/IS_NEWS_2026-10-07-inbrain-and-minigraph-consortium-develop-magnetically-guided-robotic-implantation-for-graphene-bcis.md
 publisher: "Business Wire (via BioSpace)"
 url: https://www.biospace.com/press-releases/inbrain-neuroelectronics-and-minigraph-european-consortium-develop-magnetically-guided-robotic-implantation-for-ultra-thin-graphene-brain-computer-interfaces
-archived_url: 
+archived_url: https://web.archive.org/web/20261009085637/https://www.biospace.com/press-releases/inbrain-neuroelectronics-and-minigraph-european-consortium-develop-magnetically-guided-robotic-implantation-for-ultra-thin-graphene-brain-computer-interfaces
 captured: 2026-11-13T23:21:07Z
 capture_status: captured
 http_status: 200
@@ -30,7 +30,7 @@ disclaimer: meta/IS_META_terms.md
 - **Original:** [https://www.biospace.com/press-releases/inbrain-neuroelectronics-and-minigraph-european-consortium-develop-magnetically-guided-robotic-implantation-for-ultra-thin-graphene-brain-computer-interfaces](https://www.biospace.com/press-releases/inbrain-neuroelectronics-and-minigraph-european-consortium-develop-magnetically-guided-robotic-implantation-for-ultra-thin-graphene-brain-computer-interfaces)
 - **Written by:** Angela Gabriel
 - **Published (as stated by the source):** 2026-10-07
-- **Internet Archive copy:** none yet
+- **Internet Archive copy:** [https://web.archive.org/web/20261009085637/https://www.biospace.com/press-releases/inbrain-neuroelectronics-and-minigraph-european-consortium-develop-magnetically-guided-robotic-implantation-for-ultra-thin-graphene-brain-computer-interfaces](https://web.archive.org/web/20261009085637/https://www.biospace.com/press-releases/inbrain-neuroelectronics-and-minigraph-european-consortium-develop-magnetically-guided-robotic-implantation-for-ultra-thin-graphene-brain-computer-interfaces)
 - **This archive's summary:** `news/IS_NEWS_2026-10-07-inbrain-and-minigraph-consortium-develop-magnetically-guided-robotic-implantation-for-graphene-bcis.md`
 - **Collected by:** Sean C. Harris, invisibleships.com. Written by and belongs to Business Wire (via BioSpace).
 - **Fingerprint (SHA-256 of the captured text):** `92c4715770c41cac887fd93db66f270b72ac2eb4857f7845a3e08a9e3acd10c9`

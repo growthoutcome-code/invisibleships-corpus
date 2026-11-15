@@ -3,8 +3,8 @@ id: IS-BUNDLE-09-NEWS
 title: "News"
 collection: bundles
 doc_type: bundle
-files: 510
-approx_tokens: 276,605
+files: 542
+approx_tokens: 297,160
 contains: [news]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -15,7 +15,7 @@ disclaimer: meta/IS_META_terms.md
 
 Official releases and outside reporting, one item per section, each summarised and linked.
 
-This file joins 510 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
+This file joins 542 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 
@@ -327,11 +327,31 @@ This file joins 510 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-01-14-analysis-health-chatbots-owe-users-no-fiduciary-duty-unlike-doctors.md` — Health chatbots owe users no fiduciary duty, unlike doctors
 - `news/IS_NEWS_2026-01-14-analysis-what-the-research-says-about-ai-use-and-critical-thinking.md` — What the research says about AI use and critical thinking
 - `news/IS_NEWS_2026-01-16-analysis-state-neural-data-laws-and-a-proposed-federal-study-leave-inferred-mental-states-unprotected.md` — State neural data laws and a proposed federal study leave inferred mental states unprotected
+- `news/IS_NEWS_2026-01-26-analysis-a-three-day-attention-audit-shows-how-algorithmic-feeds-take-over-phone-use.md` — A three-day attention audit shows how algorithmic feeds take over phone use
 - `news/IS_NEWS_2026-01-27-ice-and-cbp-bought-a-record-140m-in-cloud.md` — ICE and CBP Bought a Record $140M in Cloud
 - `news/IS_NEWS_2026-01-27-judge-holds-norfolk-s-license-plate-reader-use.md` — Judge holds Norfolk's license plate reader use constitutional
+- `news/IS_NEWS_2026-01-28-analysis-the-research-on-screens-and-attention-is-mixed-while-the-ad-funded-business-model-rewards-capturing-it.md` — The research on screens and attention is mixed, while the ad-funded business model rewards capturing it
+- `news/IS_NEWS_2026-01-28-analysis-whether-lab-grown-neural-organoids-fall-under-international-definitions-of-neurotechnology.md` — Whether lab-grown neural organoids fall under international definitions of neurotechnology
+- `news/IS_NEWS_2026-01-30-analysis-right-to-disconnect-laws-target-employer-demands-not-attention-captured-by-design.md` — Right-to-disconnect laws target employer demands, not attention captured by design
+- `news/IS_NEWS_2026-02-02-analysis-cancelling-a-subscription-takes-far-more-clicks-than-signing-up-and-regulators-have-fined-the-practice.md` — Cancelling a subscription takes far more clicks than signing up, and regulators have fined the practice
+- `news/IS_NEWS_2026-02-04-analysis-the-behavioural-science-behind-dark-patterns-and-which-parts-of-it-hold-up.md` — The behavioural science behind dark patterns, and which parts of it hold up
+- `news/IS_NEWS_2026-02-09-analysis-people-describe-harm-from-social-media-but-say-they-would-not-sue-and-the-science-behind-the-harm-is-contested.md` — People describe harm from social media but say they would not sue, and the science behind the harm is contested
+- `news/IS_NEWS_2026-02-11-analysis-how-section-230-has-shielded-platforms-for-thirty-years-and-the-design-defect-exception-courts-have-opened.md` — How Section 230 has shielded platforms for thirty years, and the design-defect exception courts have opened
+- `news/IS_NEWS_2026-02-13-analysis-is-a-recommendation-algorithm-protected-speech-or-a-product-and-what-that-means-for-regulating-platforms.md` — Is a recommendation algorithm protected speech or a product, and what that means for regulating platforms
+- `news/IS_NEWS_2026-02-16-analysis-companion-chatbots-are-built-to-validate-users-without-condition-which-sets-them-apart-legally-from-social-med.md` — Companion chatbots are built to validate users without condition, which sets them apart legally from social media
+- `news/IS_NEWS_2026-02-23-analysis-ai-personality-profiling-tools-get-basic-facts-wrong-and-employers-may-rely-on-them-in-hiring.md` — AI personality-profiling tools get basic facts wrong, and employers may rely on them in hiring
+- `news/IS_NEWS_2026-02-25-analysis-disability-law-offers-strong-tools-against-ai-hiring-inferences-on-paper-but-opaque-systems-put-them-out-of-re.md` — Disability law offers strong tools against AI hiring inferences on paper, but opaque systems put them out of reach
+- `news/IS_NEWS_2026-03-02-analysis-students-used-everyday-persuasion-techniques-on-each-other-and-courts-struggle-to-define-manipulative-design.md` — Students used everyday persuasion techniques on each other, and courts struggle to define manipulative design
+- `news/IS_NEWS_2026-03-04-analysis-old-statutes-cannot-stretch-to-cover-new-persuasive-designs-and-the-bills-that-would-have-filled-the-gap-stall.md` — Old statutes cannot stretch to cover new persuasive designs, and the bills that would have filled the gap stalled
+- `news/IS_NEWS_2026-03-06-analysis-ai-that-personalises-persuasion-and-whether-any-regulatory-framework-reaches-it.md` — AI that personalises persuasion, and whether any regulatory framework reaches it
 - `news/IS_NEWS_2026-03-06-iranian-intelligence-agent-convicted-of-terrorism-and-murder.md` — Iranian Intelligence Agent Convicted of Terrorism and Murder for Hire in Connection With Foiled Plot to Assassinate U.S. Politicians And Government Officials
+- `news/IS_NEWS_2026-03-16-analysis-clicking-agree-to-terms-of-service-is-rarely-meaningful-consent-and-three-theories-of-what-goes-wrong.md` — Clicking agree to terms of service is rarely meaningful consent, and three theories of what goes wrong
+- `news/IS_NEWS_2026-03-18-analysis-the-design-of-the-choice-environment-not-only-missing-information-undermines-online-consent.md` — The design of the choice environment, not only missing information, undermines online consent
+- `news/IS_NEWS_2026-03-23-analysis-the-senate-passed-an-updated-childrens-online-privacy-bill-unanimously-but-it-does-not-require-age-verificatio.md` — The Senate passed an updated children's online privacy bill unanimously, but it does not require age verification
 - `news/IS_NEWS_2026-03-24-new-lipid-nanoparticle-design-improves-precision-of-mrna-vaccine-delivery.md` — New lipid nanoparticle design improves precision of mRNA vaccine delivery
+- `news/IS_NEWS_2026-03-25-analysis-design-codes-access-limits-and-data-minimisation-as-strategies-to-protect-children-online-and-the-costs-of-eac.md` — Design codes, access limits and data minimisation as strategies to protect children online, and the costs of each
 - `news/IS_NEWS_2026-03-25-hmrc-hands-gbp473m-migration-deal-to-aws-after-rivals-walk.md` — HMRC hands GBP473M migration deal to AWS after rivals walk
+- `news/IS_NEWS_2026-03-27-analysis-an-appeals-court-ruling-on-californias-childrens-design-code-shows-where-the-constitutional-line-sits.md` — An appeals court ruling on California's children's design code shows where the constitutional line sits
 - `news/IS_NEWS_2026-03-30-analysis-the-fifth-amendment-protects-thought-not-the-body-neural-devices-blur-the-line.md` — The Fifth Amendment protects thought, not the body; neural devices blur the line
 - `news/IS_NEWS_2026-03-30-analysis-who-owns-digital-thoughts-the-limits-of-property-law-and-unesco-s-neurotechnology-recommen.md` — Who owns digital thoughts? The limits of property law and UNESCO's neurotechnology recommendation
 - `news/IS_NEWS_2026-04-03-us-states-build-patchwork-of-neural-data-privacy-laws.md` — US states build patchwork of neural data privacy laws
@@ -496,6 +516,7 @@ This file joins 510 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-11-10-australia-announces-an-ai-safety-regulator-and-accepts-all-review-recommendations-after-an-ai-agent-reached-a.md` — Australia announces an AI safety regulator and accepts all review recommendations after an AI agent reached a government health-statistics site
 - `news/IS_NEWS_2026-11-10-chinas-state-security-ministry-says-it-warned-a-man-who-anonymously-denounced-a-colleague-as-a-spy-state-media.md` — China's state security ministry says it warned a man who anonymously denounced a colleague as a spy (state media)
 - `news/IS_NEWS_2026-11-10-chinese-researchers-report-non-invasive-brain-interface-electrode-for-day-long-use.md` — Chinese researchers report non-invasive brain-interface electrode for day-long use
+- `news/IS_NEWS_2026-11-10-french-interior-ministry-denies-gendarmes-used-long-range-acoustic-devices-at-a-bordeaux-protest-and-attribute.md` — French interior ministry denies gendarmes used long-range acoustic devices at a Bordeaux protest and attributes the sound to a vehicle siren
 - `news/IS_NEWS_2026-11-10-hawaii-health-department-reports-a-record-59-assisted-deaths-in-2025-and-says-its-follow-up-data-may-be-incomp.md` — Hawaii health department reports a record 59 assisted deaths in 2025 and says its follow-up data may be incomplete
 - `news/IS_NEWS_2026-11-10-karnataka-orders-ai-face-scan-attendance-in-government-schools.md` — Karnataka orders AI face-scan attendance in government schools
 - `news/IS_NEWS_2026-11-10-more-than-half-of-dutch-municipalities-use-face-comparison-scanners-for-identity-documents-without-figures-on.md` — More than half of Dutch municipalities use face-comparison scanners for identity documents, without figures on the fraud they target
@@ -519,16 +540,27 @@ This file joins 510 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-11-11-people-living-with-implanted-brain-computer-interfaces-publish-ethics-recommendations-asking-for-control-over.md` — People living with implanted brain-computer interfaces publish ethics recommendations asking for control over their neural data and devices
 - `news/IS_NEWS_2026-11-11-records-released-after-a-lawsuit-detail-the-us-postal-inspection-services-covert-social-media-and-facial-recog.md` — Records released after a lawsuit detail the US Postal Inspection Service's covert social-media and facial-recognition monitoring of protests
 - `news/IS_NEWS_2026-11-11-russias-security-service-says-it-arrested-two-polish-citizens-in-kaliningrad-region-on-espionage-charges.md` — Russia's security service says it arrested two Polish citizens in Kaliningrad region on espionage charges
+- `news/IS_NEWS_2026-11-11-south-korean-prosecutors-charge-seven-employees-of-an-equipment-contractor-and-the-company-over-an-alleged-att.md` — South Korean prosecutors charge seven employees of an equipment contractor and the company over an alleged attempt to move display process data to China
 - `news/IS_NEWS_2026-11-11-washington-appeals-court-upholds-a-protection-order-in-a-case-of-alleged-covert-listening-through-a-home-voice.md` — Washington appeals court upholds a protection order in a case of alleged covert listening through a home voice assistant
 - `news/IS_NEWS_2026-11-12-chinas-industry-ministry-approves-nine-brain-computer-interface-industry-standards-for-drafting-including-atte.md` — China's industry ministry approves nine brain-computer interface industry standards for drafting, including attention monitoring
+- `news/IS_NEWS_2026-11-12-dutch-prosecutors-seek-up-to-20-years-for-six-defendants-accused-over-the-attempted-killing-of-an-iranian-acti.md` — Dutch prosecutors seek up to 20 years for six defendants accused over the attempted killing of an Iranian activist in Haarlem
 - `news/IS_NEWS_2026-11-12-germanys-federal-administrative-court-sets-out-what-counts-as-stasi-zersetzung-and-turns-down-two-compensation-claims.md` — Germany's Federal Administrative Court sets out what counts as Stasi Zersetzung and turns down two compensation claims
+- `news/IS_NEWS_2026-11-12-iran-freezes-and-seizes-property-of-critics-abroad-and-in-some-cases-of-their-relatives-at-home.md` — Iran freezes and seizes property of critics abroad and, in some cases, of their relatives at home
 - `news/IS_NEWS_2026-11-12-new-york-activist-who-admitted-reporting-on-fellow-dissidents-to-chinas-intelligence-service-is-sentenced-to-probation.md` — New York activist who admitted reporting on fellow dissidents to China's intelligence service is sentenced to probation
 - `news/IS_NEWS_2026-11-12-russian-installed-court-jails-two-women-from-an-occupied-ukrainian-village-for-14-years-for-allegedly-watching-troops-w.md` — Russian-installed court jails two women from an occupied Ukrainian village for 14 years for allegedly watching troops with an attic camera
+- `news/IS_NEWS_2026-11-12-uk-data-protection-regulator-writes-to-more-than-200-health-leaders-over-staff-viewing-patients-medical-record.md` — UK data-protection regulator writes to more than 200 health leaders over staff viewing patients' medical records without reason
 - `news/IS_NEWS_2026-11-12-uk-jury-convicts-two-iranian-men-of-helping-irans-intelligence-by-surveilling-two-journalists-of-a-persian-language-cha.md` — UK jury convicts two Iranian men of helping Iran's intelligence by surveilling two journalists of a Persian-language channel; a third man is acquitted
 - `news/IS_NEWS_2026-11-12-uk-police-inspectorate-finds-deleted-custody-photos-still-searchable-by-retrospective-facial-recognition-and-w.md` — UK police inspectorate finds deleted custody photos still searchable by retrospective facial recognition and warns of wrongful-arrest risk
 - `news/IS_NEWS_2026-11-12-us-justice-department-seizes-north-korean-hackers-video-call-scheme-infrastructure-and-more-than-900-webcam-recordings.md` — US Justice Department seizes North Korean hackers' video-call scheme infrastructure and more than 900 webcam recordings of victims
+- `news/IS_NEWS_2026-11-13-brain-implant-company-pauses-enrolment-in-trials-of-its-second-generation-device-after-a-signal-lead-underperf.md` — Brain-implant company pauses enrolment in trials of its second-generation device after a signal lead underperforms
 - `news/IS_NEWS_2026-11-13-chinese-report-says-about-120-people-in-china-now-live-with-implanted-brain-computer-interfaces-and-a-national-eeg-data.md` — Chinese report says about 120 people in China now live with implanted brain-computer interfaces and a national EEG data centre is to launch
 - `news/IS_NEWS_2026-11-13-faa-orders-nationwide-ground-stop-of-departing-flights-citing-a-telecommunications-outage.md` — FAA orders nationwide ground stop of departing flights, citing a telecommunications outage
+- `news/IS_NEWS_2026-11-13-germanys-domestic-intelligence-agency-confirms-it-interviews-arriving-russian-travellers-after-reports-of-ques.md` — Germany's domestic intelligence agency confirms it interviews arriving Russian travellers, after reports of questioning at Berlin airport
+- `news/IS_NEWS_2026-11-13-germanys-parliament-passes-intelligence-law-reform-allowing-biometric-image-matching-and-ai-analysis-by-the-in.md` — Germany's parliament passes intelligence-law reform allowing biometric image matching and AI analysis by the intelligence services
+- `news/IS_NEWS_2026-11-13-global-microsoft-365-email-and-teams-outage-lasts-into-a-second-day-microsoft-rolls-back-a-network-change-and.md` — Global Microsoft 365 email and Teams outage lasts into a second day; Microsoft rolls back a network change and reports no evidence of malicious activity
+- `news/IS_NEWS_2026-11-13-sao-paulo-police-open-an-inquiry-into-a-suspected-leak-of-access-to-the-citys-facial-recognition-camera-networ.md` — São Paulo police open an inquiry into a suspected leak of access to the city's facial-recognition camera network
+- `news/IS_NEWS_2026-11-13-us-homeland-security-science-directorate-tests-counter-drone-systems-including-directed-energy-weapons-to-info.md` — US homeland security science directorate tests counter-drone systems, including directed-energy weapons, to inform federal purchasing
+- `news/IS_NEWS_2026-11-14-taiwans-criminal-police-run-a-nationwide-sweep-of-gangs-suspected-of-helping-foreign-forces-carry-out-transnat.md` — Taiwan's criminal police run a nationwide sweep of gangs suspected of helping foreign forces carry out transnational repression
 - `news/IS_NEWS_undated-anomalous-health-incidents.md` — Anomalous health incidents
 - `news/IS_NEWS_undated-critical-information-infrastructure-of-russia-fstec-fsb.md` — Critical Information Infrastructure of Russia (FSTEC/FSB)
 
@@ -547,27 +579,27 @@ convicted or was sentenced. See `meta/IS_META_terms.md`.*
 
 ## What is here
 
-- 509 items, 2011-09-28 to 2026-11-13: 181 official, 155 trade press, 102 news, 52 analysis, 19 research.
-- 509 of 509 carry a summary so far; the rest say so.
+- 541 items, 2011-09-28 to 2026-11-14: 184 official, 158 trade press, 108 news, 72 analysis, 19 research.
+- 541 of 541 carry a summary so far; the rest say so.
 - `index.json` holds every item's header in one file, for counting and filtering.
 
 ## By kind of event
 
 | Kind of event | Items |
 |---|---|
-| Contracts & deployments | 116 |
-| Regulation & law | 81 |
-| Espionage & foreign agents | 74 |
-| Research & breakthroughs | 53 |
-| Courts & litigation | 51 |
-| Technology theft & export control | 51 |
+| Contracts & deployments | 117 |
+| Regulation & law | 93 |
+| Espionage & foreign agents | 75 |
+| Courts & litigation | 59 |
+| Research & breakthroughs | 57 |
+| Technology theft & export control | 52 |
+| Transnational repression | 19 |
 | Reports & statistics | 18 |
-| Transnational repression | 17 |
 | Public health | 15 |
-| Murder for hire & violent plots | 13 |
+| Murder for hire & violent plots | 14 |
+| Protests | 10 |
 | Global conflict | 10 |
-| Protests | 9 |
-| Outages & disruptions | 1 |
+| Outages & disruptions | 2 |
 
 ## Fields
 
@@ -774,6 +806,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: unreadable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -1227,6 +1260,7 @@ stage:
 related: 
 summary_status: draft
 found_via: darpa.mil, date read from the release; added 7 Oct 2026 with the nanotechnology category
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -2660,6 +2694,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: already in the corpus
+source_status: unreadable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -2695,6 +2730,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: already in the site (concepts)
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -3220,6 +3256,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: new, found 2 Oct 2026
+source_status: unreachable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -4997,6 +5034,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: already in the corpus
+source_status: unreachable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -5415,6 +5453,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: already in the site (concepts)
+source_status: unreachable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -5652,7 +5691,7 @@ publisher: European Data Protection Board
 source_type: Official
 issuing_office: 
 url: https://www.edpb.europa.eu/news/national-news/2023/facial-recognition-french-sa-imposes-penalty-payment-clearview-ai-non-payment_en
-archived_url: 
+archived_url: https://web.archive.org/web/20261114050639/https://www.edpb.europa.eu/news_en
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Courts & litigation
 country: 
@@ -6144,6 +6183,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: already in the corpus
+source_status: unreachable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -6169,7 +6209,7 @@ publisher: Psychology Today
 source_type: News
 issuing_office: 
 url: https://www.psychologytoday.com/us/blog/the-future-brain/202401/transparent-brain-computer-interface-uses-ai-and-nanotech
-archived_url: 
+archived_url: https://web.archive.org/web/20261114051008/https://www.psychologytoday.com/us/blog/the-future-brain/202401/transparent-brain-computer-interface-uses-ai-and-nanotech
 industry: Neurotechnology · Nanotechnology
 event: Research & breakthroughs
 country: 
@@ -6204,7 +6244,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/aws-wins-94m-contract-with-uk-govs-dwp
-archived_url: 
+archived_url: https://web.archive.org/web/20260227013859/https://www.datacenterdynamics.com/en/news/aws-wins-94m-contract-with-uk-govs-dwp/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -6317,6 +6357,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -6591,7 +6632,7 @@ publisher: FedScoop
 source_type: Trade press
 issuing_office: 
 url: https://fedscoop.com/department-of-education-begins-market-research-for-cloud-capabilities
-archived_url: 
+archived_url: https://web.archive.org/web/20261114052058/https://fedscoop.com/department-of-education-begins-market-research-for-cloud-capabilities/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -6807,6 +6848,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: already in the site (sources.json)
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -6875,6 +6917,7 @@ stage: convicted
 related: 
 summary_status: draft
 found_via: DOJ NSD transnational repression list
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -6902,7 +6945,7 @@ publisher: UC Davis Health
 source_type: Research
 issuing_office: 
 url: https://health.ucdavis.edu/news/headlines/new-brain-computer-interface-allows-man-with-als-to-speak-again/2024/08
-archived_url: 
+archived_url: https://web.archive.org/web/20260921055122/https://health.ucdavis.edu/news/headlines/new-brain-computer-interface-allows-man-with-als-to-speak-again/2024/08
 industry: Neurotechnology
 event: Research & breakthroughs
 country: 
@@ -6972,7 +7015,7 @@ publisher: The Register
 source_type: Trade press
 issuing_office: 
 url: https://www.theregister.com/off-prem/2024/08/21/when-it-comes-to-cloud-its-china-against-the-world/1206891
-archived_url: 
+archived_url: https://web.archive.org/web/20260825062045/https://www.theregister.com/off-prem/2024/08/21/when-it-comes-to-cloud-its-china-against-the-world/1206891
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -7192,6 +7235,7 @@ stage:
 related: 
 summary_status: draft
 found_via: new, found 2 Oct 2026
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7219,7 +7263,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/justice-department-announces-charges-against-indian-government-employee-connection-foiled
-archived_url: 
+archived_url: https://web.archive.org/web/20261114053214/https://www.justice.gov/archives/opa/pr/justice-department-announces-charges-against-indian-government-employee-connection-foiled
 industry: 
 event: Murder for hire & violent plots
 country: India
@@ -7371,6 +7415,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: already in the site (concepts)
+source_status: unreadable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7504,7 +7549,7 @@ publisher: TAdviser
 source_type: Trade press
 issuing_office: 
 url: https://tadviser.com/index.php/Article:Cloud_services_(Russian_market)
-archived_url: 
+archived_url: https://web.archive.org/web/20230218032425/https://tadviser.com/index.php/Article:Cloud_services_%28Russian_market%29
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -7547,6 +7592,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: already in the site (sources.json)
+source_status: unreadable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7828,6 +7874,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: new, found 2 Oct 2026
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -7853,7 +7900,7 @@ publisher: U.S. Department of Justice
 source_type: Official
 issuing_office: Office of Public Affairs
 url: https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global
-archived_url: 
+archived_url: https://web.archive.org/web/20261114055142/https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global
 industry: 
 event: Technology theft & export control
 country: China
@@ -7925,7 +7972,7 @@ publisher: The Guardian
 source_type: News
 issuing_office: 
 url: https://www.theguardian.com/world/2025/mar/06/israel-military-ai-surveillance
-archived_url: 
+archived_url: https://web.archive.org/web/20261114055406/https://www.theguardian.com/world/2025/mar/06/israel-military-ai-surveillance
 industry: Artificial intelligence
 event: Global conflict
 country: 
@@ -8101,7 +8148,7 @@ publisher: Virginia Attorney General
 source_type: Official
 issuing_office: 
 url: https://www.oag.state.va.us/media-center/news-releases/2850-march-25-2025-consumer-alert-attorney-general-miyares-alerts-virginians-on-23andme-bankruptcy-and-virginias-genetic-data-privacy-law
-archived_url: 
+archived_url: https://web.archive.org/web/20250926133724/https://www.oag.state.va.us/media-center/news-releases/2850-march-25-2025-consumer-alert-attorney-general-miyares-alerts-virginians-on-23andme-bankruptcy-and-virginias-genetic-data-privacy-law
 industry: Biotechnology & health
 event: Regulation & law
 country: 
@@ -8109,6 +8156,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: new, found 2 Oct 2026
+source_status: unreachable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8142,6 +8190,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: already in the corpus
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8567,6 +8616,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), backfill, 11 Nov 2026; the newsletter email was a cross-post notice with no text, so read from the original
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8604,6 +8654,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), first batch, 10 Nov 2026; read from the original
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8711,6 +8762,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: already in the site (sources.json)
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8854,6 +8906,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), backfill, 11 Nov 2026; read from the newsletter email
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -8928,6 +8981,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), backfill, 11 Nov 2026; read from the newsletter email
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9001,6 +9055,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), backfill, 11 Nov 2026; read from the newsletter email
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9146,6 +9201,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), backfill, 11 Nov 2026; read from the newsletter email
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9183,6 +9239,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), backfill, 11 Nov 2026; read from the newsletter email
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9326,6 +9383,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), backfill, 11 Nov 2026; read from the newsletter email
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9363,6 +9421,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), backfill, 11 Nov 2026; read from the newsletter email
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9506,6 +9565,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), backfill, 11 Nov 2026; read from the newsletter email
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9543,6 +9603,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), backfill, 11 Nov 2026; read from the newsletter email
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9616,6 +9677,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), backfill, 11 Nov 2026; read from the newsletter email
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9653,6 +9715,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), backfill, 11 Nov 2026; read from the newsletter email
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9726,6 +9789,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), backfill, 11 Nov 2026; read from the newsletter email
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9763,6 +9827,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), backfill, 11 Nov 2026; read from the newsletter email
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9836,6 +9901,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), backfill, 11 Nov 2026; read from the newsletter email
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9873,6 +9939,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), backfill, 11 Nov 2026; read from the newsletter email
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9946,6 +10013,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), backfill, 11 Nov 2026; read from the newsletter email
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -9983,6 +10051,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), backfill, 11 Nov 2026; read from the newsletter email
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10128,6 +10197,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), backfill, 11 Nov 2026; read from the newsletter email
+source_status: unreachable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10165,6 +10235,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), backfill, 11 Nov 2026; read from the newsletter email
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10450,7 +10521,7 @@ publisher: Nieman Lab
 source_type: News
 issuing_office: 
 url: https://www.niemanlab.org/2025/10/in-medills-latest-state-of-local-news-report-a-festering
-archived_url: 
+archived_url: https://web.archive.org/web/20261114055751/https://www.niemanlab.org/2025/10/in-medills-latest-state-of-local-news-report-a-festering-20-year-old-problem-looms-larger-than-ever/
 industry: 
 event: Research & breakthroughs
 country: 
@@ -10789,6 +10860,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), first batch, 10 Nov 2026; read from the original
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -10973,6 +11045,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), first batch, 10 Nov 2026; read from the original
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11047,6 +11120,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), first batch, 10 Nov 2026; read from the original
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11354,6 +11428,43 @@ In the third class of her advanced course, Nita Farahany compares how Colorado, 
 She argues that these laws protect mental states only when they are read from nervous-system measurements, so that the same conclusions inferred from behaviour are not protected in most states. She calls them a start and says later classes will look at product liability, consumer protection, the First Amendment and approaches abroad.
 
 
+===== FILE: news/IS_NEWS_2026-01-26-analysis-a-three-day-attention-audit-shows-how-algorithmic-feeds-take-over-phone-use.md · ID: IS-NEWS-2026-01-26-ANALYSIS-A-THREE-DAY-ATTENTION-AUDIT-SHOWS-HOW-ALGORITHMIC-FEEDS-TAKE-OVER-PHONE-USE =====
+
+```yaml
+id: IS-NEWS-2026-01-26-ANALYSIS-A-THREE-DAY-ATTENTION-AUDIT-SHOWS-HOW-ALGORITHMIC-FEEDS-TAKE-OVER-PHONE-USE
+slug: 2026-01-26-analysis-a-three-day-attention-audit-shows-how-algorithmic-feeds-take-over-phone-use
+title: A three-day attention audit shows how algorithmic feeds take over phone use
+collection: news
+doc_type: analysis-item
+date: 2026-01-26
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/can-you-pay-attention-inside-my-advanced
+archived_url: 
+industry: Artificial intelligence
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 14 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A three-day attention audit shows how algorithmic feeds take over phone use
+
+*Nita Farahany, Thinking Freely (Substack), 2026-01-26. Original: <https://nitafarahany.substack.com/p/can-you-pay-attention-inside-my-advanced>*
+
+Opening the second week of her advanced AI law and policy course, Nita Farahany reports what her in-person students found in a three-day exercise: tracking phone use, then switching off algorithmic feeds, infinite scroll and autoplay for a day, then turning everything back on. She notes that students logged roughly five to eight and a half hours of screen time on the first day, often more than they had guessed, and describes catching themselves opening apps out of habit before deciding to.
+
+She distinguishes instrumental use, where the phone is a tool picked up for a set purpose, from captured use, where the feed chooses what comes next, and asks whether this attention economy is actually harmful, a question she says the next class takes to the research.
+
+
 ===== FILE: news/IS_NEWS_2026-01-27-ice-and-cbp-bought-a-record-140m-in-cloud.md · ID: IS-NEWS-2026-01-27-ICE-AND-CBP-BOUGHT-A-RECORD-140M-IN-CLOUD =====
 
 ```yaml
@@ -11376,6 +11487,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11425,6 +11537,524 @@ A federal judge in Virginia ruled that Norfolk's network of Flock Safety license
 The judge found that the city's 176 cameras capture separate moments at fixed places and cannot record a person's movements in full, which set the case apart from Carpenter v. United States. The residents said they would appeal to the Fourth Circuit.
 
 
+===== FILE: news/IS_NEWS_2026-01-28-analysis-the-research-on-screens-and-attention-is-mixed-while-the-ad-funded-business-model-rewards-capturing-it.md · ID: IS-NEWS-2026-01-28-ANALYSIS-THE-RESEARCH-ON-SCREENS-AND-ATTENTION-IS-MIXED-WHILE-THE-AD-FUNDED-BUSINESS-MODEL-REWARDS-CAPTURING-IT =====
+
+```yaml
+id: IS-NEWS-2026-01-28-ANALYSIS-THE-RESEARCH-ON-SCREENS-AND-ATTENTION-IS-MIXED-WHILE-THE-AD-FUNDED-BUSINESS-MODEL-REWARDS-CAPTURING-IT
+slug: 2026-01-28-analysis-the-research-on-screens-and-attention-is-mixed-while-the-ad-funded-business-model-rewards-capturing-it
+title: The research on screens and attention is mixed, while the ad-funded business model rewards capturing it
+collection: news
+doc_type: analysis-item
+date: 2026-01-28
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/the-attention-evidence-gap-inside
+archived_url: 
+industry: Artificial intelligence
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 14 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# The research on screens and attention is mixed, while the ad-funded business model rewards capturing it
+
+*Nita Farahany, Thinking Freely (Substack), 2026-01-28. Original: <https://nitafarahany.substack.com/p/the-attention-evidence-gap-inside>*
+
+In this class, Nita Farahany reviews two assigned research reviews on digital technology, attention and learning, and reports that they find the evidence complicated: multitasking clearly hurts performance, but claims of lasting brain rewiring from screens are not supported, and effects depend on the person, the kind of technology and the setting.
+
+She gives reasons the evidence is hard to pin down, including correlation versus causation and technology changing faster than it can be studied, and traces how search advertising became the model for the web. She argues that, whatever the science eventually shows, an advertising business model rewards capturing more attention, and asks what law should do while the evidence stays uncertain.
+
+
+===== FILE: news/IS_NEWS_2026-01-28-analysis-whether-lab-grown-neural-organoids-fall-under-international-definitions-of-neurotechnology.md · ID: IS-NEWS-2026-01-28-ANALYSIS-WHETHER-LAB-GROWN-NEURAL-ORGANOIDS-FALL-UNDER-INTERNATIONAL-DEFINITIONS-OF-NEUROTECHNOLOGY =====
+
+```yaml
+id: IS-NEWS-2026-01-28-ANALYSIS-WHETHER-LAB-GROWN-NEURAL-ORGANOIDS-FALL-UNDER-INTERNATIONAL-DEFINITIONS-OF-NEUROTECHNOLOGY
+slug: 2026-01-28-analysis-whether-lab-grown-neural-organoids-fall-under-international-definitions-of-neurotechnology
+title: Whether lab-grown neural organoids fall under international definitions of neurotechnology
+collection: news
+doc_type: analysis-item
+date: 2026-01-28
+date_precision: day
+publisher: Stanford Law School, Law and Biosciences Blog
+source_type: Analysis
+issuing_office: 
+url: https://law.stanford.edu/2026/01/28/are-neural-organoids-part-of-neurotechnology/
+archived_url: 
+industry: Neurotechnology · Biotechnology & health
+event: Regulation & law
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Walter Johnson
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 14 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Whether lab-grown neural organoids fall under international definitions of neurotechnology
+
+*Walter Johnson, Stanford Law School, Law and Biosciences Blog, 2026-01-28. Original: <https://law.stanford.edu/2026/01/28/are-neural-organoids-part-of-neurotechnology/>*
+
+Walter Johnson, writing on Stanford Law School's Law and Biosciences Blog, asks whether neural organoids, lab-grown tissue models of the nervous system, count as neurotechnology under the UNESCO Recommendation on the Ethics of Neurotechnology adopted in November 2025, the OECD's 2019 definition and the proposed U.S. MIND Act, none of which mention organoids.
+
+He argues that these broad definitions of devices, systems and procedures that measure or modulate the nervous system could arguably be read to include organoids, but probably do not, and that the uncertainty could create legal unpredictability for researchers and funders. He recommends that regulators state through guidance that neurotechnology rules do not currently apply to organoids, without closing the door to tailored governance later.
+
+
+===== FILE: news/IS_NEWS_2026-01-30-analysis-right-to-disconnect-laws-target-employer-demands-not-attention-captured-by-design.md · ID: IS-NEWS-2026-01-30-ANALYSIS-RIGHT-TO-DISCONNECT-LAWS-TARGET-EMPLOYER-DEMANDS-NOT-ATTENTION-CAPTURED-BY-DESIGN =====
+
+```yaml
+id: IS-NEWS-2026-01-30-ANALYSIS-RIGHT-TO-DISCONNECT-LAWS-TARGET-EMPLOYER-DEMANDS-NOT-ATTENTION-CAPTURED-BY-DESIGN
+slug: 2026-01-30-analysis-right-to-disconnect-laws-target-employer-demands-not-attention-captured-by-design
+title: Right-to-disconnect laws target employer demands, not attention captured by design
+collection: news
+doc_type: analysis-item
+date: 2026-01-30
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/the-laws-that-miss-the-point-inside
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 14 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Right-to-disconnect laws target employer demands, not attention captured by design
+
+*Nita Farahany, Thinking Freely (Substack), 2026-01-30. Original: <https://nitafarahany.substack.com/p/the-laws-that-miss-the-point-inside>*
+
+Nita Farahany describes France's 2016 right-to-disconnect law, which requires larger employers to negotiate when staff may ignore work messages, and California's 2024 bill AB 2751, which would have given employees a right to ignore employer communications outside working hours.
+
+She argues that these laws address outside demands on a worker's time, while the pull her students felt came from algorithmic feeds that nobody demanded they use. She suggests that attention capture may be better treated as a problem of autonomy than of proven harm, comparing it with areas where law already protects compromised choices, such as fraud, undue influence and high-pressure sales.
+
+
+===== FILE: news/IS_NEWS_2026-02-02-analysis-cancelling-a-subscription-takes-far-more-clicks-than-signing-up-and-regulators-have-fined-the-practice.md · ID: IS-NEWS-2026-02-02-ANALYSIS-CANCELLING-A-SUBSCRIPTION-TAKES-FAR-MORE-CLICKS-THAN-SIGNING-UP-AND-REGULATORS-HAVE-FINED-THE-PRACTICE =====
+
+```yaml
+id: IS-NEWS-2026-02-02-ANALYSIS-CANCELLING-A-SUBSCRIPTION-TAKES-FAR-MORE-CLICKS-THAN-SIGNING-UP-AND-REGULATORS-HAVE-FINED-THE-PRACTICE
+slug: 2026-02-02-analysis-cancelling-a-subscription-takes-far-more-clicks-than-signing-up-and-regulators-have-fined-the-practice
+title: Cancelling a subscription takes far more clicks than signing up, and regulators have fined the practice
+collection: news
+doc_type: analysis-item
+date: 2026-02-02
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/20-clicks-to-cancel-inside-my-advanced
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 14 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Cancelling a subscription takes far more clicks than signing up, and regulators have fined the practice
+
+*Nita Farahany, Thinking Freely (Substack), 2026-02-02. Original: <https://nitafarahany.substack.com/p/20-clicks-to-cancel-inside-my-advanced>*
+
+Opening a week on dark patterns, Nita Farahany reports that every student in her live class found it took more clicks and time to cancel a subscription than to restart it, with ratios of up to about six to one.
+
+She sets out the Federal Trade Commission's 2022 staff report definition of dark patterns as designs that trick or manipulate users into choices they would not otherwise make, and reviews federal enforcement cases whose settlements she totals at about 85 million dollars. She argues that such designs work on everyone but hit vulnerable users hardest, and that they are not only annoying but can be measurably harmful and unlawful under existing law.
+
+
+===== FILE: news/IS_NEWS_2026-02-04-analysis-the-behavioural-science-behind-dark-patterns-and-which-parts-of-it-hold-up.md · ID: IS-NEWS-2026-02-04-ANALYSIS-THE-BEHAVIOURAL-SCIENCE-BEHIND-DARK-PATTERNS-AND-WHICH-PARTS-OF-IT-HOLD-UP =====
+
+```yaml
+id: IS-NEWS-2026-02-04-ANALYSIS-THE-BEHAVIOURAL-SCIENCE-BEHIND-DARK-PATTERNS-AND-WHICH-PARTS-OF-IT-HOLD-UP
+slug: 2026-02-04-analysis-the-behavioural-science-behind-dark-patterns-and-which-parts-of-it-hold-up
+title: The behavioural science behind dark patterns, and which parts of it hold up
+collection: news
+doc_type: analysis-item
+date: 2026-02-04
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/why-dark-patterns-work-inside-my
+archived_url: 
+industry: Artificial intelligence
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 14 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# The behavioural science behind dark patterns, and which parts of it hold up
+
+*Nita Farahany, Thinking Freely (Substack), 2026-02-04. Original: <https://nitafarahany.substack.com/p/why-dark-patterns-work-inside-my>*
+
+Nita Farahany explains why manipulative interface designs work, using the idea of fast, automatic thinking versus slow, deliberate thinking, and goes through the biases they are said to exploit, including loss aversion, defaults and anchoring.
+
+She notes that loss aversion is under serious challenge in the research and may partly reflect simple inertia, while default effects, anchoring and the gap between signing up and cancelling are well supported. She argues that repeated friction can train users to stop resisting, and says early physiological studies suggest these designs carry stress costs but rest on small samples.
+
+
+===== FILE: news/IS_NEWS_2026-02-09-analysis-people-describe-harm-from-social-media-but-say-they-would-not-sue-and-the-science-behind-the-harm-is-contested.md · ID: IS-NEWS-2026-02-09-ANALYSIS-PEOPLE-DESCRIBE-HARM-FROM-SOCIAL-MEDIA-BUT-SAY-THEY-WOULD-NOT-SUE-AND-THE-SCIENCE-BEHIND-THE-HARM-IS-CONTESTED =====
+
+```yaml
+id: IS-NEWS-2026-02-09-ANALYSIS-PEOPLE-DESCRIBE-HARM-FROM-SOCIAL-MEDIA-BUT-SAY-THEY-WOULD-NOT-SUE-AND-THE-SCIENCE-BEHIND-THE-HARM-IS-CONTESTED
+slug: 2026-02-09-analysis-people-describe-harm-from-social-media-but-say-they-would-not-sue-and-the-science-behind-the-harm-is-contested
+title: People describe harm from social media but say they would not sue, and the science behind the harm is contested
+collection: news
+doc_type: analysis-item
+date: 2026-02-09
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/everyone-described-harm-inside-my
+archived_url: 
+industry: Artificial intelligence
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 14 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# People describe harm from social media but say they would not sue, and the science behind the harm is contested
+
+*Nita Farahany, Thinking Freely (Substack), 2026-02-09. Original: <https://nitafarahany.substack.com/p/everyone-described-harm-inside-my>*
+
+Opening a week on social media harms, Nita Farahany reports that every person her students interviewed described harm from social media, grouped as social comparison, algorithms that learn and reinforce a user's vulnerabilities, and design features such as online-status indicators, yet every one said they would not want to sue, mostly because they saw it as their own responsibility.
+
+She reviews the debate over the evidence, noting a view among researchers that the science of technology harms is held back by companies' control of data, and the U.S. Surgeon General's 2023 statement that social media could not be concluded to be sufficiently safe for young people. She sets up the following classes on Section 230, the First Amendment and a jury trial then starting in Los Angeles.
+
+
+===== FILE: news/IS_NEWS_2026-02-11-analysis-how-section-230-has-shielded-platforms-for-thirty-years-and-the-design-defect-exception-courts-have-opened.md · ID: IS-NEWS-2026-02-11-ANALYSIS-HOW-SECTION-230-HAS-SHIELDED-PLATFORMS-FOR-THIRTY-YEARS-AND-THE-DESIGN-DEFECT-EXCEPTION-COURTS-HAVE-OPENED =====
+
+```yaml
+id: IS-NEWS-2026-02-11-ANALYSIS-HOW-SECTION-230-HAS-SHIELDED-PLATFORMS-FOR-THIRTY-YEARS-AND-THE-DESIGN-DEFECT-EXCEPTION-COURTS-HAVE-OPENED
+slug: 2026-02-11-analysis-how-section-230-has-shielded-platforms-for-thirty-years-and-the-design-defect-exception-courts-have-opened
+title: How Section 230 has shielded platforms for thirty years, and the design-defect exception courts have opened
+collection: news
+doc_type: analysis-item
+date: 2026-02-11
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/the-line-that-changes-everything
+archived_url: 
+industry: Artificial intelligence
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 14 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# How Section 230 has shielded platforms for thirty years, and the design-defect exception courts have opened
+
+*Nita Farahany, Thinking Freely (Substack), 2026-02-11. Original: <https://nitafarahany.substack.com/p/the-line-that-changes-everything>*
+
+Nita Farahany explains Section 230 of the Communications Decency Act, which since 1996 has stopped platforms being treated as the publisher of what their users post, and the 1990s court ruling that led Congress to protect platforms that moderate in good faith.
+
+She then discusses a 2021 federal appeals decision that let a product-design claim proceed against a feature of a messaging app, and argues that it opened a distinction between claims about content, which Section 230 blocks, and claims about how a product is built, which it may not. She notes that choosing to use a product does not rule out a design defect, and previews the First Amendment question of whether recommendation algorithms are protected speech.
+
+
+===== FILE: news/IS_NEWS_2026-02-13-analysis-is-a-recommendation-algorithm-protected-speech-or-a-product-and-what-that-means-for-regulating-platforms.md · ID: IS-NEWS-2026-02-13-ANALYSIS-IS-A-RECOMMENDATION-ALGORITHM-PROTECTED-SPEECH-OR-A-PRODUCT-AND-WHAT-THAT-MEANS-FOR-REGULATING-PLATFORMS =====
+
+```yaml
+id: IS-NEWS-2026-02-13-ANALYSIS-IS-A-RECOMMENDATION-ALGORITHM-PROTECTED-SPEECH-OR-A-PRODUCT-AND-WHAT-THAT-MEANS-FOR-REGULATING-PLATFORMS
+slug: 2026-02-13-analysis-is-a-recommendation-algorithm-protected-speech-or-a-product-and-what-that-means-for-regulating-platforms
+title: Is a recommendation algorithm protected speech or a product, and what that means for regulating platforms
+collection: news
+doc_type: analysis-item
+date: 2026-02-13
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/the-trial-the-constitution-and-the
+archived_url: 
+industry: Artificial intelligence
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 14 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Is a recommendation algorithm protected speech or a product, and what that means for regulating platforms
+
+*Nita Farahany, Thinking Freely (Substack), 2026-02-13. Original: <https://nitafarahany.substack.com/p/the-trial-the-constitution-and-the>*
+
+Nita Farahany walks through the U.S. Supreme Court's 2024 decision in Moody v. NetChoice, which treated platforms' curation of content as editorial judgment protected by the First Amendment, and a concurring view that algorithms built only to maximise engagement might not be speech at all.
+
+She compares regulatory approaches, including Utah's law targeting specific design features, the proposed Kids Online Safety Act's duty of care and Australia's ban on social media accounts for under-16s, and says each faces constitutional, practical or moral objections. She argues that whether platforms can be regulated turns on where speech ends and product begins, a question she says a Los Angeles jury trial was then testing.
+
+
+===== FILE: news/IS_NEWS_2026-02-16-analysis-companion-chatbots-are-built-to-validate-users-without-condition-which-sets-them-apart-legally-from-social-med.md · ID: IS-NEWS-2026-02-16-ANALYSIS-COMPANION-CHATBOTS-ARE-BUILT-TO-VALIDATE-USERS-WITHOUT-CONDITION-WHICH-SETS-THEM-APART-LEGALLY-FROM-SOCIAL-MED =====
+
+```yaml
+id: IS-NEWS-2026-02-16-ANALYSIS-COMPANION-CHATBOTS-ARE-BUILT-TO-VALIDATE-USERS-WITHOUT-CONDITION-WHICH-SETS-THEM-APART-LEGALLY-FROM-SOCIAL-MED
+slug: 2026-02-16-analysis-companion-chatbots-are-built-to-validate-users-without-condition-which-sets-them-apart-legally-from-social-med
+title: Companion chatbots are built to validate users without condition, which sets them apart legally from social media
+collection: news
+doc_type: analysis-item
+date: 2026-02-16
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/the-perfect-friend-inside-my-advanced
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 14 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Companion chatbots are built to validate users without condition, which sets them apart legally from social media
+
+*Nita Farahany, Thinking Freely (Substack), 2026-02-16. Original: <https://nitafarahany.substack.com/p/the-perfect-friend-inside-my-advanced>*
+
+Opening a week on AI companion chatbots, Nita Farahany reports that her law students, after using one as a friend for several days, all found it validated them relentlessly and kept the conversation about them, drawing out personal information while having no inner life of its own.
+
+She argues that companion chatbots differ from the platforms studied earlier in the course because the system itself generates the relationship and its outputs, with no third-party content, which changes the Section 230 analysis. She also acknowledges that some people gain real benefit from them, and notes that those most drawn to these products may be those who most need connection.
+
+
+===== FILE: news/IS_NEWS_2026-02-23-analysis-ai-personality-profiling-tools-get-basic-facts-wrong-and-employers-may-rely-on-them-in-hiring.md · ID: IS-NEWS-2026-02-23-ANALYSIS-AI-PERSONALITY-PROFILING-TOOLS-GET-BASIC-FACTS-WRONG-AND-EMPLOYERS-MAY-RELY-ON-THEM-IN-HIRING =====
+
+```yaml
+id: IS-NEWS-2026-02-23-ANALYSIS-AI-PERSONALITY-PROFILING-TOOLS-GET-BASIC-FACTS-WRONG-AND-EMPLOYERS-MAY-RELY-ON-THEM-IN-HIRING
+slug: 2026-02-23-analysis-ai-personality-profiling-tools-get-basic-facts-wrong-and-employers-may-rely-on-them-in-hiring
+title: AI personality-profiling tools get basic facts wrong, and employers may rely on them in hiring
+collection: news
+doc_type: analysis-item
+date: 2026-02-23
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/what-the-ai-thinks-it-knows-about
+archived_url: 
+industry: Artificial intelligence
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 14 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# AI personality-profiling tools get basic facts wrong, and employers may rely on them in hiring
+
+*Nita Farahany, Thinking Freely (Substack), 2026-02-23. Original: <https://nitafarahany.substack.com/p/what-the-ai-thinks-it-knows-about>*
+
+Nita Farahany opens a week on AI in hiring by noting that a federal court in California had just authorised notice to potential members of a collective action alleging that a widely used AI hiring platform screened out applicants aged 40 and over.
+
+She reports that when her students ran AI personality-assessment tools on their own online footprints, the tools got their sex and age badly wrong and produced contradictory personality profiles. She asks whether a system that infers traits such as emotional instability is measuring personality or a perceived impairment covered by the Americans with Disabilities Act, and points to federal guidance saying employers remain liable for third-party AI tools and that discrimination does not require intent.
+
+
+===== FILE: news/IS_NEWS_2026-02-25-analysis-disability-law-offers-strong-tools-against-ai-hiring-inferences-on-paper-but-opaque-systems-put-them-out-of-re.md · ID: IS-NEWS-2026-02-25-ANALYSIS-DISABILITY-LAW-OFFERS-STRONG-TOOLS-AGAINST-AI-HIRING-INFERENCES-ON-PAPER-BUT-OPAQUE-SYSTEMS-PUT-THEM-OUT-OF-RE =====
+
+```yaml
+id: IS-NEWS-2026-02-25-ANALYSIS-DISABILITY-LAW-OFFERS-STRONG-TOOLS-AGAINST-AI-HIRING-INFERENCES-ON-PAPER-BUT-OPAQUE-SYSTEMS-PUT-THEM-OUT-OF-RE
+slug: 2026-02-25-analysis-disability-law-offers-strong-tools-against-ai-hiring-inferences-on-paper-but-opaque-systems-put-them-out-of-re
+title: Disability law offers strong tools against AI hiring inferences on paper, but opaque systems put them out of reach
+collection: news
+doc_type: analysis-item
+date: 2026-02-25
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/the-laws-toolkit-and-its-blind-spots
+archived_url: 
+industry: Artificial intelligence
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 14 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Disability law offers strong tools against AI hiring inferences on paper, but opaque systems put them out of reach
+
+*Nita Farahany, Thinking Freely (Substack), 2026-02-25. Original: <https://nitafarahany.substack.com/p/the-laws-toolkit-and-its-blind-spots>*
+
+Nita Farahany notes a January 2026 proposed class action arguing that an AI hiring tool's applicant profiles are consumer reports under the Fair Credit Reporting Act, and walks through provisions of the Americans with Disabilities Act that could apply when AI systems infer mental-health conditions from job applicants.
+
+She argues that the Act's coverage of people regarded as having an impairment could reach even wrong AI inferences, and that its rules on screening criteria and medical examinations may also apply. She concludes that these rights exist on paper but are hard to use in practice, because applicants cannot see what an opaque system measured or ask for accommodation of a condition it inferred without telling them.
+
+
+===== FILE: news/IS_NEWS_2026-03-02-analysis-students-used-everyday-persuasion-techniques-on-each-other-and-courts-struggle-to-define-manipulative-design.md · ID: IS-NEWS-2026-03-02-ANALYSIS-STUDENTS-USED-EVERYDAY-PERSUASION-TECHNIQUES-ON-EACH-OTHER-AND-COURTS-STRUGGLE-TO-DEFINE-MANIPULATIVE-DESIGN =====
+
+```yaml
+id: IS-NEWS-2026-03-02-ANALYSIS-STUDENTS-USED-EVERYDAY-PERSUASION-TECHNIQUES-ON-EACH-OTHER-AND-COURTS-STRUGGLE-TO-DEFINE-MANIPULATIVE-DESIGN
+slug: 2026-03-02-analysis-students-used-everyday-persuasion-techniques-on-each-other-and-courts-struggle-to-define-manipulative-design
+title: Students used everyday persuasion techniques on each other, and courts struggle to define manipulative design
+collection: news
+doc_type: analysis-item
+date: 2026-03-02
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/the-persuasion-exchange-inside-my
+archived_url: 
+industry: Artificial intelligence
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 14 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Students used everyday persuasion techniques on each other, and courts struggle to define manipulative design
+
+*Nita Farahany, Thinking Freely (Substack), 2026-03-02. Original: <https://nitafarahany.substack.com/p/the-persuasion-exchange-inside-my>*
+
+Nita Farahany notes that regulators in the UK, Brazil and the EU were moving against loot boxes in video games, and reports on an exercise in which her students each tried to change a small habit of a partner, independently using techniques such as social proof, praise, anchoring and concealing the real goal, which she says are the same techniques platforms use at scale.
+
+She tests possible legal definitions of prohibited manipulative design against a 2022 federal court ruling that rejected challenges to loot boxes, and argues that each kind of definition fails because the legal system is built to examine transactions, while persuasive design shapes what people want before any transaction happens.
+
+
+===== FILE: news/IS_NEWS_2026-03-04-analysis-old-statutes-cannot-stretch-to-cover-new-persuasive-designs-and-the-bills-that-would-have-filled-the-gap-stall.md · ID: IS-NEWS-2026-03-04-ANALYSIS-OLD-STATUTES-CANNOT-STRETCH-TO-COVER-NEW-PERSUASIVE-DESIGNS-AND-THE-BILLS-THAT-WOULD-HAVE-FILLED-THE-GAP-STALL =====
+
+```yaml
+id: IS-NEWS-2026-03-04-ANALYSIS-OLD-STATUTES-CANNOT-STRETCH-TO-COVER-NEW-PERSUASIVE-DESIGNS-AND-THE-BILLS-THAT-WOULD-HAVE-FILLED-THE-GAP-STALL
+slug: 2026-03-04-analysis-old-statutes-cannot-stretch-to-cover-new-persuasive-designs-and-the-bills-that-would-have-filled-the-gap-stall
+title: Old statutes cannot stretch to cover new persuasive designs, and the bills that would have filled the gap stalled
+collection: news
+doc_type: analysis-item
+date: 2026-03-04
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/the-statute-that-couldnt-stretch
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 14 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Old statutes cannot stretch to cover new persuasive designs, and the bills that would have filled the gap stalled
+
+*Nita Farahany, Thinking Freely (Substack), 2026-03-04. Original: <https://nitafarahany.substack.com/p/the-statute-that-couldnt-stretch>*
+
+Nita Farahany compares a 2022 federal court ruling that rejected every legal challenge to video-game loot boxes with the U.S. Supreme Court's 2021 ruling that a 1991 law against automatic dialers did not cover targeted text notifications, and argues that in both cases a law written for an older technology could not reach a newer one and the courts left it to Congress.
+
+She notes that a 2019 Senate bill aimed at loot boxes never became law, and surveys approaches abroad, including loot-box rules in Belgium, the Netherlands, Japan and Brazil and the EU AI Act's ban on manipulative AI techniques. She asks whether the problem is a shortage of laws or of enforcement, and what happens when persuasive design starts learning.
+
+
+===== FILE: news/IS_NEWS_2026-03-06-analysis-ai-that-personalises-persuasion-and-whether-any-regulatory-framework-reaches-it.md · ID: IS-NEWS-2026-03-06-ANALYSIS-AI-THAT-PERSONALISES-PERSUASION-AND-WHETHER-ANY-REGULATORY-FRAMEWORK-REACHES-IT =====
+
+```yaml
+id: IS-NEWS-2026-03-06-ANALYSIS-AI-THAT-PERSONALISES-PERSUASION-AND-WHETHER-ANY-REGULATORY-FRAMEWORK-REACHES-IT
+slug: 2026-03-06-analysis-ai-that-personalises-persuasion-and-whether-any-regulatory-framework-reaches-it
+title: AI that personalises persuasion, and whether any regulatory framework reaches it
+collection: news
+doc_type: analysis-item
+date: 2026-03-06
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/aristotles-algorithm
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United Kingdom
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 14 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# AI that personalises persuasion, and whether any regulatory framework reaches it
+
+*Nita Farahany, Thinking Freely (Substack), 2026-03-06. Original: <https://nitafarahany.substack.com/p/aristotles-algorithm>*
+
+Nita Farahany cites a 2025 study in Nature Human Behaviour in which a large language model given six basic demographic facts about its debate opponent was more persuasive than human debaters in most pairings. She then turns to the UK Competition and Markets Authority's paper on online choice architecture, which sorts 21 design practices into how choices are structured, what information is given and how pressure is applied.
+
+She argues that this behavioural approach captures more of the problem than gambling or consumer-protection law, and that personalised, adaptive and continuous persuasion by AI may be the most direct threat to autonomy her course has examined, because it shapes choices rather than only observing them.
+
+
 ===== FILE: news/IS_NEWS_2026-03-06-iranian-intelligence-agent-convicted-of-terrorism-and-murder.md · ID: IS-NEWS-2026-03-06-IRANIAN-INTELLIGENCE-AGENT-CONVICTED-OF-TERRORISM-AND-MURDER =====
 
 ```yaml
@@ -11459,6 +12089,117 @@ disclaimer: meta/IS_META_terms.md
 A federal jury in Brooklyn convicted an operative of Iran's Islamic Revolutionary Guard Corps of murder for hire and attempting an act of terrorism, the U.S. Attorney's Office for the Eastern District of New York says. According to prosecutors, he was sent to the United States in 2024 to recruit people to kill U.S. government officials and politicians.
 
 Undercover officers posed as hitmen, and he was arrested before any attack. He faces up to life in prison.
+
+
+===== FILE: news/IS_NEWS_2026-03-16-analysis-clicking-agree-to-terms-of-service-is-rarely-meaningful-consent-and-three-theories-of-what-goes-wrong.md · ID: IS-NEWS-2026-03-16-ANALYSIS-CLICKING-AGREE-TO-TERMS-OF-SERVICE-IS-RARELY-MEANINGFUL-CONSENT-AND-THREE-THEORIES-OF-WHAT-GOES-WRONG =====
+
+```yaml
+id: IS-NEWS-2026-03-16-ANALYSIS-CLICKING-AGREE-TO-TERMS-OF-SERVICE-IS-RARELY-MEANINGFUL-CONSENT-AND-THREE-THEORIES-OF-WHAT-GOES-WRONG
+slug: 2026-03-16-analysis-clicking-agree-to-terms-of-service-is-rarely-meaningful-consent-and-three-theories-of-what-goes-wrong
+title: Clicking agree to terms of service is rarely meaningful consent, and three theories of what goes wrong
+collection: news
+doc_type: analysis-item
+date: 2026-03-16
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/the-biggest-lie-on-the-internet-inside
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 14 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Clicking agree to terms of service is rarely meaningful consent, and three theories of what goes wrong
+
+*Nita Farahany, Thinking Freely (Substack), 2026-03-16. Original: <https://nitafarahany.substack.com/p/the-biggest-lie-on-the-internet-inside>*
+
+Opening a week on consent, Nita Farahany cites research showing that few adults read privacy policies and that reading all of them would take weeks a year, and notes that the law nonetheless treats a click as consent. She points to the Federal Trade Commission's 245 million dollar settlement with a video-game maker over interfaces it said led to unintended purchases.
+
+She sets out three explanations for failed digital consent, each with its own remedy: an information failure fixed by better disclosure, a design failure fixed by regulating how products are built, and a capacity failure fixed by protecting vulnerable users such as children. She links them to the GDPR, the U.S. children's privacy law and California's Age-Appropriate Design Code Act respectively.
+
+
+===== FILE: news/IS_NEWS_2026-03-18-analysis-the-design-of-the-choice-environment-not-only-missing-information-undermines-online-consent.md · ID: IS-NEWS-2026-03-18-ANALYSIS-THE-DESIGN-OF-THE-CHOICE-ENVIRONMENT-NOT-ONLY-MISSING-INFORMATION-UNDERMINES-ONLINE-CONSENT =====
+
+```yaml
+id: IS-NEWS-2026-03-18-ANALYSIS-THE-DESIGN-OF-THE-CHOICE-ENVIRONMENT-NOT-ONLY-MISSING-INFORMATION-UNDERMINES-ONLINE-CONSENT
+slug: 2026-03-18-analysis-the-design-of-the-choice-environment-not-only-missing-information-undermines-online-consent
+title: The design of the choice environment, not only missing information, undermines online consent
+collection: news
+doc_type: analysis-item
+date: 2026-03-18
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/the-environment-is-the-argument-inside
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 14 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# The design of the choice environment, not only missing information, undermines online consent
+
+*Nita Farahany, Thinking Freely (Substack), 2026-03-18. Original: <https://nitafarahany.substack.com/p/the-environment-is-the-argument-inside>*
+
+Nita Farahany argues that even a fully informed user operates in an environment engineered to produce outcomes unrelated to their preferences, using the example of an in-game currency sold in bundles that always leave an unspendable remainder and weaken the link between money and purchases. She notes that the UK Competition and Markets Authority classed virtual currencies in games as usually or always harmful.
+
+She contrasts an information theory of consent, which calls for better notices, with an architecture theory, which looks at what the environment does to the ability to choose, and argues that cognitive liberty requires preserving the conditions for genuine choice. She previews three laws that try to close the gap, including California's design code for children.
+
+
+===== FILE: news/IS_NEWS_2026-03-23-analysis-the-senate-passed-an-updated-childrens-online-privacy-bill-unanimously-but-it-does-not-require-age-verificatio.md · ID: IS-NEWS-2026-03-23-ANALYSIS-THE-SENATE-PASSED-AN-UPDATED-CHILDRENS-ONLINE-PRIVACY-BILL-UNANIMOUSLY-BUT-IT-DOES-NOT-REQUIRE-AGE-VERIFICATIO =====
+
+```yaml
+id: IS-NEWS-2026-03-23-ANALYSIS-THE-SENATE-PASSED-AN-UPDATED-CHILDRENS-ONLINE-PRIVACY-BILL-UNANIMOUSLY-BUT-IT-DOES-NOT-REQUIRE-AGE-VERIFICATIO
+slug: 2026-03-23-analysis-the-senate-passed-an-updated-childrens-online-privacy-bill-unanimously-but-it-does-not-require-age-verificatio
+title: The Senate passed an updated children's online privacy bill unanimously, but it does not require age verification
+collection: news
+doc_type: analysis-item
+date: 2026-03-23
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/the-senate-just-agreed-on-something
+archived_url: 
+industry: Artificial intelligence · Government cloud & surveillance technology
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 14 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# The Senate passed an updated children's online privacy bill unanimously, but it does not require age verification
+
+*Nita Farahany, Thinking Freely (Substack), 2026-03-23. Original: <https://nitafarahany.substack.com/p/the-senate-just-agreed-on-something>*
+
+Opening a week on children's online safety, Nita Farahany notes that the U.S. Senate passed the Children and Teens' Online Privacy Protection Act, known as COPPA 2.0, by unanimous consent on 5 March 2026, the first major update to children's online privacy law in 27 years, and that it still needed to pass the House and expressly does not require platforms to verify age.
+
+She sets out competing views of whether platforms exploit young users' vulnerable moments, and compares methods of age verification, including identity documents, credit cards, facial age estimation and device-level signals, noting the privacy, accuracy and concentration-of-power risks of each. She also notes the Supreme Court's 2025 decision upholding a Texas age-verification law for pornographic sites.
 
 
 ===== FILE: news/IS_NEWS_2026-03-24-new-lipid-nanoparticle-design-improves-precision-of-mrna-vaccine-delivery.md · ID: IS-NEWS-2026-03-24-NEW-LIPID-NANOPARTICLE-DESIGN-IMPROVES-PRECISION-OF-MRNA-VACCINE-DELIVERY =====
@@ -11497,6 +12238,43 @@ University of Pennsylvania engineers report a redesigned lipid nanoparticle, the
 The university says the particles produced antibody responses comparable to those of clinically approved formulations. The results are from animal models; no human testing is reported.
 
 
+===== FILE: news/IS_NEWS_2026-03-25-analysis-design-codes-access-limits-and-data-minimisation-as-strategies-to-protect-children-online-and-the-costs-of-eac.md · ID: IS-NEWS-2026-03-25-ANALYSIS-DESIGN-CODES-ACCESS-LIMITS-AND-DATA-MINIMISATION-AS-STRATEGIES-TO-PROTECT-CHILDREN-ONLINE-AND-THE-COSTS-OF-EAC =====
+
+```yaml
+id: IS-NEWS-2026-03-25-ANALYSIS-DESIGN-CODES-ACCESS-LIMITS-AND-DATA-MINIMISATION-AS-STRATEGIES-TO-PROTECT-CHILDREN-ONLINE-AND-THE-COSTS-OF-EAC
+slug: 2026-03-25-analysis-design-codes-access-limits-and-data-minimisation-as-strategies-to-protect-children-online-and-the-costs-of-eac
+title: Design codes, access limits and data minimisation as strategies to protect children online, and the costs of each
+collection: news
+doc_type: analysis-item
+date: 2026-03-25
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/the-law-that-kept-getting-blocked
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 14 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Design codes, access limits and data minimisation as strategies to protect children online, and the costs of each
+
+*Nita Farahany, Thinking Freely (Substack), 2026-03-25. Original: <https://nitafarahany.substack.com/p/the-law-that-kept-getting-blocked>*
+
+Nita Farahany notes that a New Mexico jury had just found that a major social media company violated parts of the state's Unfair Practices Act, and then compares regulatory strategies for children's online safety, beginning with the UK Information Commissioner's Children's Code, which sets 15 design standards such as high-privacy defaults without requiring age verification.
+
+She says the UK code's enforcement record is mixed, and weighs access restrictions, design mandates, data minimisation, fraud enforcement, product liability and transparency rules, concluding that each carries real costs and benefits and none solves the problem alone. She argues that whether harm is seen as coming from content or from platform design decides which less restrictive alternatives courts will accept.
+
+
 ===== FILE: news/IS_NEWS_2026-03-25-hmrc-hands-gbp473m-migration-deal-to-aws-after-rivals-walk.md · ID: IS-NEWS-2026-03-25-HMRC-HANDS-GBP473M-MIGRATION-DEAL-TO-AWS-AFTER-RIVALS-WALK =====
 
 ```yaml
@@ -11533,6 +12311,43 @@ Amazon Web Services won a £472.8 million contract, as the only bidder, to move 
 Google and IBM withdrew. Sources told The Register the tender ruled out hybrid cloud and left the government no leverage to negotiate.
 
 
+===== FILE: news/IS_NEWS_2026-03-27-analysis-an-appeals-court-ruling-on-californias-childrens-design-code-shows-where-the-constitutional-line-sits.md · ID: IS-NEWS-2026-03-27-ANALYSIS-AN-APPEALS-COURT-RULING-ON-CALIFORNIAS-CHILDRENS-DESIGN-CODE-SHOWS-WHERE-THE-CONSTITUTIONAL-LINE-SITS =====
+
+```yaml
+id: IS-NEWS-2026-03-27-ANALYSIS-AN-APPEALS-COURT-RULING-ON-CALIFORNIAS-CHILDRENS-DESIGN-CODE-SHOWS-WHERE-THE-CONSTITUTIONAL-LINE-SITS
+slug: 2026-03-27-analysis-an-appeals-court-ruling-on-californias-childrens-design-code-shows-where-the-constitutional-line-sits
+title: An appeals court ruling on California's children's design code shows where the constitutional line sits
+collection: news
+doc_type: analysis-item
+date: 2026-03-27
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/the-ninth-circuit-told-california
+archived_url: 
+industry: Artificial intelligence
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 14 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# An appeals court ruling on California's children's design code shows where the constitutional line sits
+
+*Nita Farahany, Thinking Freely (Substack), 2026-03-27. Original: <https://nitafarahany.substack.com/p/the-ninth-circuit-told-california>*
+
+Nita Farahany analyses the Ninth Circuit's 12 March 2026 opinion on California's Age-Appropriate Design Code Act, the second time the same panel reviewed the law. She explains that its earlier ruling struck the law's risk-assessment requirement under strict scrutiny as compelled speech, while the new ruling upheld the law's coverage definition against the facial challenge and sent the age-estimation requirement back to the trial court, noting that platforms could instead apply child-level privacy settings to everyone.
+
+She argues that the court has drawn a line between rules that make platforms judge which content harms children and rules that set privacy and design defaults, and that a law closer to the UK model might have survived. She leaves open whether the line is drawn in the right place.
+
+
 ===== FILE: news/IS_NEWS_2026-03-30-analysis-the-fifth-amendment-protects-thought-not-the-body-neural-devices-blur-the-line.md · ID: IS-NEWS-2026-03-30-ANALYSIS-THE-FIFTH-AMENDMENT-PROTECTS-THOUGHT-NOT-THE-BODY-NEURAL-DEVICES-BLUR-THE-LINE =====
 
 ```yaml
@@ -11557,6 +12372,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), first batch, 10 Nov 2026; read from the original
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11594,6 +12410,7 @@ kind: analysis
 commentator: Bo Hyoung Lee
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), first batch, 10 Nov 2026; read from the original
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11665,6 +12482,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search, company release via Business Wire, date read from the release address; title shortened from the release; added 7 Oct 2026 with the nanotechnology category
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11872,7 +12690,7 @@ publisher: Nextgov/FCW
 source_type: Trade press
 issuing_office: 
 url: https://www.nextgov.com/acquisition/2026/06/dhs-finalizes-first-cumulus-cloud-contract-aws/414197
-archived_url: 
+archived_url: https://web.archive.org/web/20261114060243/https://www.nextgov.com/acquisition/2026/06/dhs-finalizes-first-cumulus-cloud-contract-aws/414197/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -11916,6 +12734,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the site (sources.json)
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -11943,7 +12762,7 @@ publisher: DatacenterDynamics
 source_type: Trade press
 issuing_office: 
 url: https://www.datacenterdynamics.com/en/news/aws-pledges-further-13bn-investment-in-ai-and-cloud-infrastructure-in-india
-archived_url: 
+archived_url: https://web.archive.org/web/20261021162108/https://www.datacenterdynamics.com/en/news/aws-pledges-further-13bn-investment-in-ai-and-cloud-infrastructure-in-india/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -11979,7 +12798,7 @@ publisher: The Boston Globe
 source_type: News
 issuing_office: 
 url: https://www.bostonglobe.com/2026/07/27/business/ebay-harassed-ina-david-steiner-settlement
-archived_url: 
+archived_url: https://web.archive.org/web/20261114061047/https://www.bostonglobe.com/2026/07/27/business/ebay-harassed-ina-david-steiner-settlement/
 industry: 
 event: Courts & litigation
 country: 
@@ -12023,6 +12842,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the corpus
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -12193,7 +13013,7 @@ publisher: Washington Technology
 source_type: Trade press
 issuing_office: 
 url: https://www.washingtontechnology.com/contracts/2026/09/dhs-signs-cumulus-cloud-contract-google/415994/
-archived_url: 
+archived_url: https://web.archive.org/web/20261114061315/https://www.washingtontechnology.com/contracts/2026/09/dhs-signs-cumulus-cloud-contract-google/415994/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
@@ -12452,6 +13272,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search, date read from the article
+source_status: unreadable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -12915,6 +13736,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (governor.ny.gov), date read from the order
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -13095,6 +13917,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search, university research release, date read from the release; nanotechnology search
+source_status: unreachable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -13122,7 +13945,7 @@ publisher: Business Wire (via BioSpace)
 source_type: Trade press
 issuing_office: 
 url: https://www.biospace.com/press-releases/inbrain-neuroelectronics-and-minigraph-european-consortium-develop-magnetically-guided-robotic-implantation-for-ultra-thin-graphene-brain-computer-interfaces
-archived_url: 
+archived_url: https://web.archive.org/web/20261009085637/https://www.biospace.com/press-releases/inbrain-neuroelectronics-and-minigraph-european-consortium-develop-magnetically-guided-robotic-implantation-for-ultra-thin-graphene-brain-computer-interfaces
 industry: Neurotechnology · Nanotechnology
 event: Research & breakthroughs
 country: 
@@ -13201,6 +14024,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (data center moratorium, 26 Oct); date read from the article (7 Oct 2026, 16:54 UTC); missed by earlier runs; the same story is also at news.bgov.com
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -13415,6 +14239,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (found via Biometric Update, 13 Oct: https://www.biometricupdate.com/202610/uk-sets-rules-for-live-facial-recognition-in-immigration-enforcement), date read from the GOV.UK page (version 2.3)
+source_status: unreachable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -13695,6 +14520,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (nanotechnology search, nanowerk.com front page), date read from the article; reports on a review paper in the Chinese Journal of Polymer Science (doi:10.1007/s10118-026-3678-6)
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -13800,6 +14626,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (ID Tech Digest, 9 Oct), date read from the article; the article links the court order
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -13940,6 +14767,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: web search (Reuters story, Times of Israel copy; reuters.com blocked here), date read from the article
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -14675,6 +15503,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (found via Biometric Update, 15 Oct: https://www.biometricupdate.com/202610/dhs-rejects-automatic-activation-of-ice-body-cameras-despite-gao-warning), date read from the GAO page (published 15 Sep 2026, publicly released 14 Oct 2026)
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -14710,6 +15539,7 @@ stage:
 related: 
 summary_status: draft
 found_via: Biometric Update, 17 Oct (https://www.biometricupdate.com/202610/gao-finds-us-agencies-unprepared-for-quantum-threats-to-digital-identity); date is the reissue date shown on the GAO page (first public release 6 Oct 2026); report GAO-27-108740
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -15060,6 +15890,7 @@ stage:
 related: 
 summary_status: draft
 found_via: Neurotech Notables #64 (Oct 1–15), date read from the release; company source, lower priority. Trial registry: NCT07719608
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -15483,6 +16314,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (spyware, Serbia, 19 Oct); AP wire story on ABC News, date read from the page; Balkan Insight (19 Oct) could not be read (robots.txt)
+source_status: unreachable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -15623,6 +16455,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (Iran plot UK, 21 Oct); AP wire story on ABC News, date read from the page; also reported by The Washington Post and CP24, 20 Oct
+source_status: unreachable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -15763,6 +16596,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (FDA press announcements, 20 Oct); date read from the page
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -15903,6 +16737,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (nanotechnology: nanomedicine, 25 Oct); date read from the article; flagged on 23 Oct with an unconfirmed date; the story comes from University of California San Diego; paper in Small, "Integrating Experiments and Simulations to Uncover Size-Dependent Bioactivity in Cellular Nanodiscs"
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -15973,6 +16808,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (data center opposition, 21 Oct); AP wire story on ABC News, date read from the page
+source_status: unreachable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -16078,6 +16914,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (brain-computer interface news, 22 Oct); date read from the article; related China News Service report, 20 Oct (http://www.ecns.cn/cns-wire/2026-10-20/detail-ihfmiwhm0736637.shtml)
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -16498,6 +17335,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (neurotechnology, 23 Oct); date read from the article
+source_status: unreadable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -16710,6 +17548,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), first batch, 10 Nov 2026; read from the original
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -16780,6 +17619,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (AI litigation, 27 Oct); date read from the page (26 Oct 2026, 1:19 pm EDT); full text paywalled; Bloomberg's report the same day (https://www.bloomberg.com/news/articles/2026-10-26/doj-appeals-court-ruling-lifting-ban-on-agency-anthropic-use) could not be read (robots.txt)
+source_status: unreadable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -17097,6 +17937,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (French, attribution cyberattaque Iran, 8-11 Nov 2026 window); date read from the ministry statement; the judicial investigation is from Ouest-France, 11 Nov; title translated and reworded from the French
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -17167,6 +18008,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (English, "transnational repression", 8-11 Nov 2026 window); date and details read from the article
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -17204,6 +18046,7 @@ kind: analysis
 commentator: Nita Farahany
 summary_status: draft
 found_via: thought-leader analysis (decision 0031), new post, 11 Nov 2026; read from the newsletter email
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -17239,6 +18082,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window) (AI regulation and government use); SBS cites AAP and AFP; The Conversation also reported it; the June incident itself is already in the archive (ABC, 24 Sep); title reworded to leave out names
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -17276,6 +18120,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (Chinese, Ministry of State Security, 8-11 Nov 2026 window); state media: CCTV report carried by Sina News, sourced to the Ministry of State Security; all claims attributed; title translated and reworded from the Chinese
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -17324,6 +18169,43 @@ The Star, republishing a South China Morning Post report, says researchers at Gu
 The publication reports that an eight-channel cap gave eight hours of stable recordings during walking, eating, reading and sleeping, that tests on mice showed no adverse reactions, and that a batch can yield 300 electrodes. It says the researchers see possible uses in health care, sleep monitoring and epilepsy warnings, which the article describes as potential rather than demonstrated.
 
 
+===== FILE: news/IS_NEWS_2026-11-10-french-interior-ministry-denies-gendarmes-used-long-range-acoustic-devices-at-a-bordeaux-protest-and-attribute.md · ID: IS-NEWS-2026-11-10-FRENCH-INTERIOR-MINISTRY-DENIES-GENDARMES-USED-LONG-RANGE-ACOUSTIC-DEVICES-AT-A-BORDEAUX-PROTEST-AND-ATTRIBUTE =====
+
+```yaml
+id: IS-NEWS-2026-11-10-FRENCH-INTERIOR-MINISTRY-DENIES-GENDARMES-USED-LONG-RANGE-ACOUSTIC-DEVICES-AT-A-BORDEAUX-PROTEST-AND-ATTRIBUTE
+slug: 2026-11-10-french-interior-ministry-denies-gendarmes-used-long-range-acoustic-devices-at-a-bordeaux-protest-and-attribute
+title: French interior ministry denies gendarmes used long-range acoustic devices at a Bordeaux protest and attributes the sound to a vehicle siren
+title_original: Manifestation de Bordeaux : le ministère de l'Intérieur dément l'usage de « canons à son » par la gendarmerie
+title_language: French
+collection: news
+doc_type: news-item
+date: 2026-11-10
+date_precision: day
+publisher: Police & Réalités
+source_type: Trade press
+issuing_office: 
+url: https://policeetrealites.com/2026/11/10/manifestation-de-bordeaux-le-ministere-de-linterieur-dement-lusage-de-canons-a-son-par-la-gendarmerie/
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Protests
+country: France
+stage: 
+related: 
+summary_status: draft
+found_via: web search (11-14 Nov 2026 window, carried back to 10 Nov because nothing in the archive had it) (French, acknowledgement watch: sound cannons); reports a ministry communiqué of 9 Nov 2026; the gendarmerie's own Gendinfo page on the same point returned 403; title translated and reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# French interior ministry denies gendarmes used long-range acoustic devices at a Bordeaux protest and attributes the sound to a vehicle siren
+
+*Police & Réalités, 2026-11-10. Original, in French: <https://policeetrealites.com/2026/11/10/manifestation-de-bordeaux-le-ministere-de-linterieur-dement-lusage-de-canons-a-son-par-la-gendarmerie/>. Title translated from the French.*
+
+Police & Réalités reports that France's interior ministry issued a statement on 9 November 2026 denying that the gendarmerie used long-range acoustic devices (LRAD) at a protest in Bordeaux on 7 November, after a video from the protest led to claims that a sound cannon had been used.
+
+According to the report, the ministry said the gendarmerie owns no LRAD-type equipment and attributed the sound to the warning siren fitted to its Centaure multi-purpose intervention vehicles. The ministry said it had taken the same position in a parliamentary answer of 25 June 2026, that France's internal security forces do not use LRAD in operations on public roads. (Summary translated from the French.)
+
+
 ===== FILE: news/IS_NEWS_2026-11-10-hawaii-health-department-reports-a-record-59-assisted-deaths-in-2025-and-says-its-follow-up-data-may-be-incomp.md · ID: IS-NEWS-2026-11-10-HAWAII-HEALTH-DEPARTMENT-REPORTS-A-RECORD-59-ASSISTED-DEATHS-IN-2025-AND-SAYS-ITS-FOLLOW-UP-DATA-MAY-BE-INCOMP =====
 
 ```yaml
@@ -17346,6 +18228,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window) (assisted dying statistics); reporting the Hawaii Department of Health's annual report under the state's medical aid in dying law; date read from the article
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -17418,6 +18301,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (Dutch, gezichtsherkenning, 8-11 Nov 2026 window); date and details read from the article; title translated and reworded from the Dutch
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -17492,6 +18376,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: web search (Polish, ABW szpiegostwo, 8-11 Nov 2026 window); date and details read from the agency release; title translated and reworded from the Polish
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -17527,6 +18412,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (English, GP records data platform, 8-11 Nov 2026 window); date and details read from The National article republished by Yahoo News UK; the Guardian, which first reported it on 9 Nov, would not load; company and people not named in the title
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -17562,6 +18448,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (English, "sound cannon", 8-11 Nov 2026 window); date and details read from the article; commission chair and office head not named in the summary
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -17597,6 +18484,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (English, suicide statistics, 8-11 Nov 2026 window); the foundation's analysis of the CDC 2025 Youth Risk Behavior Survey, distributed by PR Newswire; the CDC release itself was not found
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -17632,6 +18520,7 @@ stage: pleaded guilty
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window) (Chinese, Taiwan prosecutors, transnational repression); date read from the article; the original Chinese title names the people involved, so the title here is our own and title_original is not reproduced; Liberty Times, Newtalk and China Times also reported it on 10 Nov
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -17667,6 +18556,7 @@ stage: charged
 related: 
 summary_status: draft
 found_via: justice.gov Office of Public Affairs feed (8-11 Nov 2026 window); date and charges read from the release; defendants not named
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -17737,6 +18627,7 @@ stage: arrested
 related: 
 summary_status: draft
 found_via: web search (English, espionage arrested, 8-11 Nov 2026 window); date and details read from the article; the police release itself was not found
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -17772,6 +18663,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window) (acknowledgement watch: unlawful official surveillance of people); date read from the article; the Bordon Herald followed on 12 Nov; no technology tag fits, the surveillance was carried out by officers
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -17842,6 +18734,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window); date and holding read from the article (ruling of 9 Nov, US District Court for the Eastern District of Kentucky); Reuters reported the same ruling on 10 Nov; title reworded to leave out names
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -17879,6 +18772,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window) (German, espionage law); date read from the ministry's news page; details also from ORF (https://orf.at/stories/3447878/, 11 Nov); title translated and reworded
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -17986,6 +18880,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window) (acknowledgement watch: neural data); Malwarebytes credits a Science investigation (https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users), which returned 403 here; BetaNews and TechSpot carry the same facts; title reworded to leave out the company and product name
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -18056,6 +18951,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window) (neural data, BCI); date read from the article; the document was released on 10 Nov by a coalition supported by a York University and University of Ottawa research partnership
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -18091,6 +18987,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window) (acknowledgement watch: official findings of unlawful use of government technology); date read from the article; the Inspector General finding quoted dates from March 2022
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -18128,6 +19025,7 @@ stage: arrested
 related: 
 summary_status: draft
 found_via: web search (Russian, FSB espionage, 8-11 Nov 2026 window); independent exile outlet reporting the FSB announcement; all claims attributed to the FSB; title translated and reworded from the Russian
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -18139,6 +19037,43 @@ disclaimer: meta/IS_META_terms.md
 Meduza, an independent Russian outlet based abroad, reports that Russia's Federal Security Service announced the arrest of two Polish citizens in Kaliningrad region, alleging they collected and passed information about military personnel, defence ministry sites and the region's social and migration situation to Polish intelligence.
 
 According to the report, the service also said seven other Polish citizens and three Russians received official warnings and seven Polish citizens were barred from entering Russia, and Meduza notes the announcement came on Poland's Independence Day. These are the security service's allegations, and the suspects are presumed innocent. (Summary translated from the Russian.)
+
+
+===== FILE: news/IS_NEWS_2026-11-11-south-korean-prosecutors-charge-seven-employees-of-an-equipment-contractor-and-the-company-over-an-alleged-att.md · ID: IS-NEWS-2026-11-11-SOUTH-KOREAN-PROSECUTORS-CHARGE-SEVEN-EMPLOYEES-OF-AN-EQUIPMENT-CONTRACTOR-AND-THE-COMPANY-OVER-AN-ALLEGED-ATT =====
+
+```yaml
+id: IS-NEWS-2026-11-11-SOUTH-KOREAN-PROSECUTORS-CHARGE-SEVEN-EMPLOYEES-OF-AN-EQUIPMENT-CONTRACTOR-AND-THE-COMPANY-OVER-AN-ALLEGED-ATT
+slug: 2026-11-11-south-korean-prosecutors-charge-seven-employees-of-an-equipment-contractor-and-the-company-over-an-alleged-att
+title: South Korean prosecutors charge seven employees of an equipment contractor and the company over an alleged attempt to move display process data to China
+title_original: 삼성 핵심기술 中 유출하려다 덜미…업체 임직원 7명 기소
+title_language: Korean
+collection: news
+doc_type: news-item
+date: 2026-11-11
+date_precision: day
+publisher: Financial News (fnnews)
+source_type: News
+issuing_office: 
+url: https://www.fnnews.com/news/202611111602086442
+archived_url: 
+industry: 
+event: Technology theft & export control
+country: South Korea
+stage: charged
+related: 
+summary_status: draft
+found_via: web search (11-14 Nov 2026 window) (Korean, technology leaks); reports a Seoul Eastern District Prosecutors' Office announcement; title translated and reworded, company names left out of the title
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# South Korean prosecutors charge seven employees of an equipment contractor and the company over an alleged attempt to move display process data to China
+
+*Financial News (fnnews), 2026-11-11. Original, in Korean: <https://www.fnnews.com/news/202611111602086442>. Title translated from the Korean.*
+
+Financial News reports that the Seoul Eastern District Prosecutors' Office has indicted seven employees of a factory-automation contractor, and the company, under the Industrial Technology Protection Act, unfair-competition law and copyright law.
+
+According to the report, prosecutors allege that in 2020 four employees hid log files from a display maker's LCD plant equipment, data prosecutors treat as national core technology, so that they would survive data wiping and could be used in a Chinese manufacturer's equipment move; an engineer found the files and the alleged transfer did not happen. The defendants are presumed innocent. (Summary translated from the Korean.)
 
 
 ===== FILE: news/IS_NEWS_2026-11-11-washington-appeals-court-upholds-a-protection-order-in-a-case-of-alleged-covert-listening-through-a-home-voice.md · ID: IS-NEWS-2026-11-11-WASHINGTON-APPEALS-COURT-UPHOLDS-A-PROTECTION-ORDER-IN-A-CASE-OF-ALLEGED-COVERT-LISTENING-THROUGH-A-HOME-VOICE =====
@@ -18163,6 +19098,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window) (acknowledgement watch: technology-enabled harassment and stalking); unpublished Washington Court of Appeals opinion of 9 Nov, as reported; title reworded to leave out names and the product name
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -18200,6 +19136,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window) (Chinese, BCI regulation); Hong Kong outlet crediting Sing Tao Finance; the same text ran via Cailian Press (Shanghai state-owned media) on Sina; the ministry's own notice was not found online and the exact date of the notice is not given; title translated and reworded
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -18211,6 +19148,43 @@ disclaimer: meta/IS_META_terms.md
 Stnn reports that China's Ministry of Industry and Information Technology has approved nine brain-computer interface industry standards for drafting, in its fifth batch of 2026 standard plans, under the ministry's brain-computer interface standardisation committee.
 
 According to the report, the standards cover product grading, risk management, interaction interfaces, wireless communication for invasive devices, data and algorithm management, and application scenarios including sports training and "attention monitoring". The individual titles were not published in the coverage. (Summary translated from the Chinese.)
+
+
+===== FILE: news/IS_NEWS_2026-11-12-dutch-prosecutors-seek-up-to-20-years-for-six-defendants-accused-over-the-attempted-killing-of-an-iranian-acti.md · ID: IS-NEWS-2026-11-12-DUTCH-PROSECUTORS-SEEK-UP-TO-20-YEARS-FOR-SIX-DEFENDANTS-ACCUSED-OVER-THE-ATTEMPTED-KILLING-OF-AN-IRANIAN-ACTI =====
+
+```yaml
+id: IS-NEWS-2026-11-12-DUTCH-PROSECUTORS-SEEK-UP-TO-20-YEARS-FOR-SIX-DEFENDANTS-ACCUSED-OVER-THE-ATTEMPTED-KILLING-OF-AN-IRANIAN-ACTI
+slug: 2026-11-12-dutch-prosecutors-seek-up-to-20-years-for-six-defendants-accused-over-the-attempted-killing-of-an-iranian-acti
+title: Dutch prosecutors seek up to 20 years for six defendants accused over the attempted killing of an Iranian activist in Haarlem
+title_original: Tot 20 jaar cel geëist voor liquidatiepoging Iraniër in Haarlem
+title_language: Dutch
+collection: news
+doc_type: news-item
+date: 2026-11-12
+date_precision: day
+publisher: nieuws.nl (ANP)
+source_type: News
+issuing_office: 
+url: https://nieuws.nl/algemeen/tot-20-jaar-cel-geeist-voor-liquidatiepoging-iranier-in-haarlem
+archived_url: 
+industry: 
+event: Murder for hire & violent plots
+country: Netherlands
+stage: charged
+related: 
+summary_status: draft
+found_via: web search (11-14 Nov 2026 window) (Dutch, violent plots against dissidents); ANP wire copy; background from the Public Prosecution Service release of 6 Nov; title translated and reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Dutch prosecutors seek up to 20 years for six defendants accused over the attempted killing of an Iranian activist in Haarlem
+
+*nieuws.nl (ANP), 2026-11-12. Original, in Dutch: <https://nieuws.nl/algemeen/tot-20-jaar-cel-geeist-voor-liquidatiepoging-iranier-in-haarlem>. Title translated from the Dutch.*
+
+ANP reports that at the secure courtroom at Schiphol, Dutch prosecutors asked for prison sentences of up to 20 years for five men and a woman accused of preparing and attempting the June 2024 killing of an Iranian activist in Haarlem; the 20-year demand was made in absentia against the alleged leader, who has not been found.
+
+According to the prosecution service, the Dutch security service AIVD considers Iran the likely instigator, but Iran's role is not part of this criminal case. The defendants are presumed innocent, and the court is due to rule on 21 December 2026. (Summary translated from the Dutch.)
 
 
 ===== FILE: news/IS_NEWS_2026-11-12-germanys-federal-administrative-court-sets-out-what-counts-as-stasi-zersetzung-and-turns-down-two-compensation-claims.md · ID: IS-NEWS-2026-11-12-GERMANYS-FEDERAL-ADMINISTRATIVE-COURT-SETS-OUT-WHAT-COUNTS-AS-STASI-ZERSETZUNG-AND-TURNS-DOWN-TWO-COMPENSATION-CLAIMS =====
@@ -18248,6 +19222,43 @@ disclaimer: meta/IS_META_terms.md
 Germany's Federal Administrative Court reports two judgments of 12 November on the one-time payment that the country's rehabilitation law grants to people subjected to Zersetzung by the East German Ministry for State Security. In the first case, the court held that only a person who was the target of such measures can claim, so a daughter whose letters were monitored while the Stasi kept her father under targeted surveillance was not entitled; the court describes Zersetzung as measures meant to isolate a person and destabilise them psychologically.
 
 In the second case, the court accepted that informant surveillance of a man who had applied to leave the GDR, including information about his psychotherapy obtained in breach of medical confidentiality, was political persecution, but found it was aimed at stopping his emigration rather than at psychologically destabilising and systematically wearing him down, which it says is what Zersetzung requires; it states that the objective aim of a measure is decisive. Both appeals were dismissed. (Summary translated from the German.)
+
+
+===== FILE: news/IS_NEWS_2026-11-12-iran-freezes-and-seizes-property-of-critics-abroad-and-in-some-cases-of-their-relatives-at-home.md · ID: IS-NEWS-2026-11-12-IRAN-FREEZES-AND-SEIZES-PROPERTY-OF-CRITICS-ABROAD-AND-IN-SOME-CASES-OF-THEIR-RELATIVES-AT-HOME =====
+
+```yaml
+id: IS-NEWS-2026-11-12-IRAN-FREEZES-AND-SEIZES-PROPERTY-OF-CRITICS-ABROAD-AND-IN-SOME-CASES-OF-THEIR-RELATIVES-AT-HOME
+slug: 2026-11-12-iran-freezes-and-seizes-property-of-critics-abroad-and-in-some-cases-of-their-relatives-at-home
+title: Iran freezes and seizes property of critics abroad and, in some cases, of their relatives at home
+title_original: جمهوری اسلامی برای خاموش کردن مخالفان خارج از کشور اموالشان را مصادره می‌کند
+title_language: Persian
+collection: news
+doc_type: news-item
+date: 2026-11-12
+date_precision: day
+publisher: Iran International
+source_type: News
+issuing_office: 
+url: https://www.iranintl.com/202611126606
+archived_url: 
+industry: 
+event: Transnational repression
+country: Iran
+stage: 
+related: 
+summary_status: draft
+found_via: web search (11-14 Nov 2026 window) (Persian, transnational repression); Iran International summarising a New York Times report, which was not checked directly; Iran International is a London-based Persian-language outlet; title translated and reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Iran freezes and seizes property of critics abroad and, in some cases, of their relatives at home
+
+*Iran International, 2026-11-12. Original, in Persian: <https://www.iranintl.com/202611126606>. Title translated from the Persian.*
+
+Iran International, citing The New York Times, reports that Iranian authorities have frozen or confiscated the assets of exiles and journalists abroad, and in some cases of their relatives inside Iran, with at least one freeze ordered by the Ministry of Intelligence.
+
+According to the report, officials cite a 2025 law making asset seizure mandatory for aiding hostile states, though the law's text does not mention relatives' property, and lawyers quoted in the report say seizing relatives' assets is unlawful under Iranian law. The report says the judiciary describes an electronic system that has cut the time needed to identify and seize assets, and that Iran's Foreign Ministry did not respond. (Summary translated from the Persian.)
 
 
 ===== FILE: news/IS_NEWS_2026-11-12-new-york-activist-who-admitted-reporting-on-fellow-dissidents-to-chinas-intelligence-service-is-sentenced-to-probation.md · ID: IS-NEWS-2026-11-12-NEW-YORK-ACTIVIST-WHO-ADMITTED-REPORTING-ON-FELLOW-DISSIDENTS-TO-CHINAS-INTELLIGENCE-SERVICE-IS-SENTENCED-TO-PROBATION =====
@@ -18322,6 +19333,41 @@ Mediazona reports that a court set up by Russia convicted two residents of an oc
 The allegations are the security service's account as reported by Mediazona. (Summary translated from the Russian.)
 
 
+===== FILE: news/IS_NEWS_2026-11-12-uk-data-protection-regulator-writes-to-more-than-200-health-leaders-over-staff-viewing-patients-medical-record.md · ID: IS-NEWS-2026-11-12-UK-DATA-PROTECTION-REGULATOR-WRITES-TO-MORE-THAN-200-HEALTH-LEADERS-OVER-STAFF-VIEWING-PATIENTS-MEDICAL-RECORD =====
+
+```yaml
+id: IS-NEWS-2026-11-12-UK-DATA-PROTECTION-REGULATOR-WRITES-TO-MORE-THAN-200-HEALTH-LEADERS-OVER-STAFF-VIEWING-PATIENTS-MEDICAL-RECORD
+slug: 2026-11-12-uk-data-protection-regulator-writes-to-more-than-200-health-leaders-over-staff-viewing-patients-medical-record
+title: UK data-protection regulator writes to more than 200 health leaders over staff viewing patients' medical records without reason
+collection: news
+doc_type: news-item
+date: 2026-11-12
+date_precision: day
+publisher: Information Commissioner's Office
+source_type: Official
+issuing_office: Information Commissioner's Office
+url: https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/11/uk-health-sector-warned-to-tackle-medical-record-snooping
+archived_url: 
+industry: Biotechnology & health · Government cloud & surveillance technology
+event: Regulation & law
+country: United Kingdom
+stage: 
+related: 
+summary_status: draft
+found_via: web search (11-14 Nov 2026 window) (health data, unlawful access); the regulator's own release
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# UK data-protection regulator writes to more than 200 health leaders over staff viewing patients' medical records without reason
+
+*Information Commissioner's Office, 2026-11-12. Original: <https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/11/uk-health-sector-warned-to-tackle-medical-record-snooping>*
+
+The Information Commissioner's Office says health organisations reported more than 300 cases of unauthorised access to medical records between 1 January and mid-October 2026, and that its chief executive has written to more than 200 senior health leaders across the UK asking them to confirm personally that their safeguards work.
+
+The regulator asks leaders to check who can access records, how suspicious access is detected, what staff understand and how incidents are handled, and gives those who have not reviewed these areas in the past six months three months to do so. It says it has prosecuted 16 healthcare workers for unlawfully accessing records over the past decade.
+
+
 ===== FILE: news/IS_NEWS_2026-11-12-uk-jury-convicts-two-iranian-men-of-helping-irans-intelligence-by-surveilling-two-journalists-of-a-persian-language-cha.md · ID: IS-NEWS-2026-11-12-UK-JURY-CONVICTS-TWO-IRANIAN-MEN-OF-HELPING-IRANS-INTELLIGENCE-BY-SURVEILLING-TWO-JOURNALISTS-OF-A-PERSIAN-LANGUAGE-CHA =====
 
 ```yaml
@@ -18373,7 +19419,7 @@ publisher: LBC
 source_type: News
 issuing_office: 
 url: https://www.lbc.co.uk/article/police-custody-photos-wrongly-kept-facial-recognition-5HjdmGq_2/
-archived_url: 
+archived_url: https://web.archive.org/web/20261114045322/https://www.lbc.co.uk/article/police-custody-photos-wrongly-kept-facial-recognition-5HjdmGq_2/
 industry: Artificial intelligence · Government cloud & surveillance technology
 event: Reports & statistics
 country: United Kingdom
@@ -18381,6 +19427,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window); reporting an HMICFRS inspection report (the inspectorate's site returned 403); The Guardian reported the same report on 12 Nov
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -18427,6 +19474,41 @@ disclaimer: meta/IS_META_terms.md
 The Justice Department says it seized cloud infrastructure used in a social-engineering scheme it calls FaceStealer, in which North Korean government hackers invite targets to video meetings from stolen accounts, record the target's webcam, play prerecorded or deepfake video of people the target knows, and then direct the target to install malware. Under a federal warrant, the FBI also seized more than 900 webcam videos recorded from victims, according to the release.
 
 The department attributes more than $400 million in thefts over 18 months to the scheme and, separately, says it has court authorisation to seize or restrain more than $1.2 billion of over $6 billion in virtual assets it says North Korean military hackers stole from an exchange around 29 October. The release announces seizures and forfeiture efforts, not criminal charges.
+
+
+===== FILE: news/IS_NEWS_2026-11-13-brain-implant-company-pauses-enrolment-in-trials-of-its-second-generation-device-after-a-signal-lead-underperf.md · ID: IS-NEWS-2026-11-13-BRAIN-IMPLANT-COMPANY-PAUSES-ENROLMENT-IN-TRIALS-OF-ITS-SECOND-GENERATION-DEVICE-AFTER-A-SIGNAL-LEAD-UNDERPERF =====
+
+```yaml
+id: IS-NEWS-2026-11-13-BRAIN-IMPLANT-COMPANY-PAUSES-ENROLMENT-IN-TRIALS-OF-ITS-SECOND-GENERATION-DEVICE-AFTER-A-SIGNAL-LEAD-UNDERPERF
+slug: 2026-11-13-brain-implant-company-pauses-enrolment-in-trials-of-its-second-generation-device-after-a-signal-lead-underperf
+title: Brain-implant company pauses enrolment in trials of its second-generation device after a signal lead underperforms
+collection: news
+doc_type: news-item
+date: 2026-11-13
+date_precision: day
+publisher: STAT
+source_type: Trade press
+issuing_office: 
+url: https://www.statnews.com/2026/11/13/health-news-brain-implant-startup-pauses-trials/
+archived_url: 
+industry: Neurotechnology
+event: Research & breakthroughs
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: web search (11-14 Nov 2026 window) (brain-computer interface trials); STAT crediting WIRED's report of 12 Nov, which would not load; company name kept out of the title
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Brain-implant company pauses enrolment in trials of its second-generation device after a signal lead underperforms
+
+*STAT, 2026-11-13. Original: <https://www.statnews.com/2026/11/13/health-news-brain-implant-startup-pauses-trials/>*
+
+STAT, citing WIRED, reports that Synchron has paused trials of its wireless second-generation brain-computer interface, a device threaded through blood vessels to sit near the motor cortex.
+
+According to the report, the company says the problem lies in the lead that carries signals to the implanted electronics rather than in the implant itself, that the pause was its own decision and not ordered by the FDA, and that it is not a safety issue. The company also plans job cuts and an upgraded system, with no date given for restarting the trials.
 
 
 ===== FILE: news/IS_NEWS_2026-11-13-chinese-report-says-about-120-people-in-china-now-live-with-implanted-brain-computer-interfaces-and-a-national-eeg-data.md · ID: IS-NEWS-2026-11-13-CHINESE-REPORT-SAYS-ABOUT-120-PEOPLE-IN-CHINA-NOW-LIVE-WITH-IMPLANTED-BRAIN-COMPUTER-INTERFACES-AND-A-NATIONAL-EEG-DATA =====
@@ -18480,7 +19562,7 @@ publisher: CBS News
 source_type: News
 issuing_office: 
 url: https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/
-archived_url: 
+archived_url: https://web.archive.org/web/20261113213320/https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/
 industry: Government cloud & surveillance technology
 event: Outages & disruptions
 country: 
@@ -18488,6 +19570,8 @@ stage:
 related: 
 summary_status: draft
 found_via: added at Sean's request, 13 Nov 2026 (follow internet outages and FAA ground stops); web search, date read from the article (updated 13 Nov 2026, 6:36 p.m. EST); also reported by CNBC, NBC News and Flightradar24
+source_status: changed 2026-11-14
+source_changes: 2026-11-14 removed and added
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md
@@ -18499,6 +19583,224 @@ disclaimer: meta/IS_META_terms.md
 The Federal Aviation Administration issued a rare nationwide ground stop on all departing flights on Friday 13 November 2026, "due to extraordinary circumstances and for reasons of safety," CBS News reports. The Transportation Secretary said the stop followed a communication issue affecting all of the FAA's Air Route Traffic Control Centers, the facilities that guide aircraft at high altitude, and that FAA technicians were investigating.
 
 Officials described the cause as a telecommunications outage, and the Homeland Security Secretary said there was no indication so far of a cyberattack or other deliberate act. Flightradar24 reports the stop was issued at 20:54 UTC, when about 4,000 flights were in the air bound for U.S. airports; aircraft already flying could land, but none could depart. NBC News reports that the stop came shortly after the FAA began adding an AI-based system to air traffic control, and that the system's vendor said its software did not cause the outage. The cause had not been confirmed when this was written.
+
+
+===== FILE: news/IS_NEWS_2026-11-13-germanys-domestic-intelligence-agency-confirms-it-interviews-arriving-russian-travellers-after-reports-of-ques.md · ID: IS-NEWS-2026-11-13-GERMANYS-DOMESTIC-INTELLIGENCE-AGENCY-CONFIRMS-IT-INTERVIEWS-ARRIVING-RUSSIAN-TRAVELLERS-AFTER-REPORTS-OF-QUES =====
+
+```yaml
+id: IS-NEWS-2026-11-13-GERMANYS-DOMESTIC-INTELLIGENCE-AGENCY-CONFIRMS-IT-INTERVIEWS-ARRIVING-RUSSIAN-TRAVELLERS-AFTER-REPORTS-OF-QUES
+slug: 2026-11-13-germanys-domestic-intelligence-agency-confirms-it-interviews-arriving-russian-travellers-after-reports-of-ques
+title: Germany's domestic intelligence agency confirms it interviews arriving Russian travellers, after reports of questioning at Berlin airport
+title_original: Контрразведка Германии признала, что проводит «опросы» россиян
+title_language: Russian
+collection: news
+doc_type: news-item
+date: 2026-11-13
+date_precision: day
+publisher: iStories (Важные истории)
+source_type: News
+issuing_office: 
+url: https://istories.media/news/2026/11/13/kontrrazvedka-germanii-priznala-chto-provodit-oprosi-rossiyan/
+archived_url: 
+industry: 
+event: Espionage & foreign agents
+country: Germany
+stage: 
+related: 
+summary_status: draft
+found_via: web search (11-14 Nov 2026 window) (Russian, independent exile media); Meduza reported the same day; title translated and reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Germany's domestic intelligence agency confirms it interviews arriving Russian travellers, after reports of questioning at Berlin airport
+
+*iStories (Важные истории), 2026-11-13. Original, in Russian: <https://istories.media/news/2026/11/13/kontrrazvedka-germanii-priznala-chto-provodit-oprosi-rossiyan/>. Title translated from the Russian.*
+
+iStories, a Russian independent outlet working in exile, reports that Germany's Federal Office for the Protection of the Constitution confirmed in reply to its questions that interviews of persons are among its tools against foreign threats, and said the threat situation remains highly dynamic.
+
+According to iStories, since at least September some Russians arriving at Berlin airport have been taken aside after passport control for voluntary conversations about mobilisation, relatives and links to the army; the foreign intelligence service declined to comment. The outlet says one report of a cooperation offer could not be verified. (Summary translated from the Russian.)
+
+
+===== FILE: news/IS_NEWS_2026-11-13-germanys-parliament-passes-intelligence-law-reform-allowing-biometric-image-matching-and-ai-analysis-by-the-in.md · ID: IS-NEWS-2026-11-13-GERMANYS-PARLIAMENT-PASSES-INTELLIGENCE-LAW-REFORM-ALLOWING-BIOMETRIC-IMAGE-MATCHING-AND-AI-ANALYSIS-BY-THE-IN =====
+
+```yaml
+id: IS-NEWS-2026-11-13-GERMANYS-PARLIAMENT-PASSES-INTELLIGENCE-LAW-REFORM-ALLOWING-BIOMETRIC-IMAGE-MATCHING-AND-AI-ANALYSIS-BY-THE-IN
+slug: 2026-11-13-germanys-parliament-passes-intelligence-law-reform-allowing-biometric-image-matching-and-ai-analysis-by-the-in
+title: Germany's parliament passes intelligence-law reform allowing biometric image matching and AI analysis by the intelligence services
+title_original: Bundestag reformiert das Nachrichtendienstrecht
+title_language: German
+collection: news
+doc_type: news-item
+date: 2026-11-13
+date_precision: day
+publisher: Deutscher Bundestag
+source_type: Official
+issuing_office: Deutscher Bundestag, Textarchiv
+url: https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-nachrichtendienste-1231530
+archived_url: 
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Regulation & law
+country: Germany
+stage: 
+related: 
+summary_status: draft
+found_via: web search (11-14 Nov 2026 window) (German, biometric surveillance and intelligence law); the parliament's own report; Euronews and Meduza reported the vote the same day; title translated and reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Germany's parliament passes intelligence-law reform allowing biometric image matching and AI analysis by the intelligence services
+
+*Deutscher Bundestag, 2026-11-13. Original, in German: <https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-nachrichtendienste-1231530>. Title translated from the German.*
+
+The Bundestag reports that on 13 November 2026 it passed the reform of the law governing Germany's intelligence services, in the version recommended by its Interior Committee, by 308 votes to 190 with 71 abstentions.
+
+According to the parliament, the law creates legal bases for the domestic and foreign intelligence services to compare image data biometrically and to use artificial intelligence in their analysis, widens their cyber powers, including access to attackers' IT systems under narrow conditions, and gives an independent control council prior review and data-protection oversight. The parliament records that opposition parties objected, among other points, to biometric matching against internet data without adequate thresholds. (Summary translated from the German.)
+
+
+===== FILE: news/IS_NEWS_2026-11-13-global-microsoft-365-email-and-teams-outage-lasts-into-a-second-day-microsoft-rolls-back-a-network-change-and.md · ID: IS-NEWS-2026-11-13-GLOBAL-MICROSOFT-365-EMAIL-AND-TEAMS-OUTAGE-LASTS-INTO-A-SECOND-DAY-MICROSOFT-ROLLS-BACK-A-NETWORK-CHANGE-AND =====
+
+```yaml
+id: IS-NEWS-2026-11-13-GLOBAL-MICROSOFT-365-EMAIL-AND-TEAMS-OUTAGE-LASTS-INTO-A-SECOND-DAY-MICROSOFT-ROLLS-BACK-A-NETWORK-CHANGE-AND
+slug: 2026-11-13-global-microsoft-365-email-and-teams-outage-lasts-into-a-second-day-microsoft-rolls-back-a-network-change-and
+title: Global Microsoft 365 email and Teams outage lasts into a second day; Microsoft rolls back a network change and reports no evidence of malicious activity
+collection: news
+doc_type: news-item
+date: 2026-11-13
+date_precision: day
+publisher: SecurityWeek
+source_type: Trade press
+issuing_office: 
+url: https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Outages & disruptions
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (11-14 Nov 2026 window) (cloud outages); also reported by Meduza (Russian) and, for Japanese government systems, by Jiji Press and Taiwan's Central News Agency (Japanese, Chinese)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Global Microsoft 365 email and Teams outage lasts into a second day; Microsoft rolls back a network change and reports no evidence of malicious activity
+
+*SecurityWeek, 2026-11-13. Original: <https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/>*
+
+SecurityWeek reports that Exchange Online and related Microsoft 365 services, including Outlook and Teams, failed from 12 November into 13 November 2026, first in the Americas and then in several regions.
+
+According to the report, Microsoft said a process that sets up secure connections was overwhelmed after many servers became unavailable, began rolling back a recent network configuration change that coincided with the start of the outage, and said it had no evidence of malicious activity, with a post-incident report to follow. Jiji Press and Taiwan's Central News Agency report that Japanese government systems, city offices and a Tokyo court were among those affected.
+
+
+===== FILE: news/IS_NEWS_2026-11-13-sao-paulo-police-open-an-inquiry-into-a-suspected-leak-of-access-to-the-citys-facial-recognition-camera-networ.md · ID: IS-NEWS-2026-11-13-SAO-PAULO-POLICE-OPEN-AN-INQUIRY-INTO-A-SUSPECTED-LEAK-OF-ACCESS-TO-THE-CITYS-FACIAL-RECOGNITION-CAMERA-NETWOR =====
+
+```yaml
+id: IS-NEWS-2026-11-13-SAO-PAULO-POLICE-OPEN-AN-INQUIRY-INTO-A-SUSPECTED-LEAK-OF-ACCESS-TO-THE-CITYS-FACIAL-RECOGNITION-CAMERA-NETWOR
+slug: 2026-11-13-sao-paulo-police-open-an-inquiry-into-a-suspected-leak-of-access-to-the-citys-facial-recognition-camera-networ
+title: São Paulo police open an inquiry into a suspected leak of access to the city's facial-recognition camera network
+title_original: Polícia de SP abre inquérito para investigar falhas no Smart Sampa
+title_language: Portuguese
+collection: news
+doc_type: news-item
+date: 2026-11-13
+date_precision: day
+publisher: Jornal de Brasília (Folhapress)
+source_type: News
+issuing_office: 
+url: https://jornaldebrasilia.com.br/noticias/brasil/policia-de-sp-abre-inquerito-para-investigar-falhas-no-smart-sampa/
+archived_url: 
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Courts & litigation
+country: Brazil
+stage: 
+related: 
+summary_status: draft
+found_via: web search (11-14 Nov 2026 window) (Portuguese, facial recognition); Folhapress wire copy; title translated and reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# São Paulo police open an inquiry into a suspected leak of access to the city's facial-recognition camera network
+
+*Jornal de Brasília (Folhapress), 2026-11-13. Original, in Portuguese: <https://jornaldebrasilia.com.br/noticias/brasil/policia-de-sp-abre-inquerito-para-investigar-falhas-no-smart-sampa/>. Title translated from the Portuguese.*
+
+Folhapress reports that São Paulo's civil police have opened an inquiry into a municipal guard suspected of leaking access credentials for Smart Sampa, the city's camera and facial-recognition system, and have seized a hard drive for forensic analysis. No one has been charged.
+
+According to the report, the access data was exposed online for about 11 months, allowing live viewing of cameras at health units, schools and hospitals, and the city told the national data-protection authority that 178 users shared the same password pattern. The city says the leak was the unlawful act of one employee and denies any weakness in the platform. (Summary translated from the Portuguese.)
+
+
+===== FILE: news/IS_NEWS_2026-11-13-us-homeland-security-science-directorate-tests-counter-drone-systems-including-directed-energy-weapons-to-info.md · ID: IS-NEWS-2026-11-13-US-HOMELAND-SECURITY-SCIENCE-DIRECTORATE-TESTS-COUNTER-DRONE-SYSTEMS-INCLUDING-DIRECTED-ENERGY-WEAPONS-TO-INFO =====
+
+```yaml
+id: IS-NEWS-2026-11-13-US-HOMELAND-SECURITY-SCIENCE-DIRECTORATE-TESTS-COUNTER-DRONE-SYSTEMS-INCLUDING-DIRECTED-ENERGY-WEAPONS-TO-INFO
+slug: 2026-11-13-us-homeland-security-science-directorate-tests-counter-drone-systems-including-directed-energy-weapons-to-info
+title: US homeland security science directorate tests counter-drone systems, including directed-energy weapons, to inform federal purchasing
+collection: news
+doc_type: news-item
+date: 2026-11-13
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: DHS Science and Technology Directorate
+url: https://www.dhs.gov/science-and-technology/news/2026/11/13/dhs-st-advances-counter-drone-capabilities-kinetic-iv-test
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Contracts & deployments
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: Sean's inbox (DHS subscription), 13 Nov 2026; the directorate's own release
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# US homeland security science directorate tests counter-drone systems, including directed-energy weapons, to inform federal purchasing
+
+*U.S. Department of Homeland Security, 2026-11-13. Original: <https://www.dhs.gov/science-and-technology/news/2026/11/13/dhs-st-advances-counter-drone-capabilities-kinetic-iv-test>*
+
+The Department of Homeland Security's Science and Technology Directorate says it evaluated counter-drone systems from 11 commercial vendors between 3 and 13 November 2026 at an FAA-designated test site in Oklahoma.
+
+According to the release, the systems included kinetic interceptors, nets and directed-energy weapons that disable a drone's electronics, and were assessed on effectiveness and collateral effects; the results will inform federal procurement. The release says the systems are aimed at drones, and quotes the FAA as saying testing helps identify effects on the national airspace before deployment.
+
+
+===== FILE: news/IS_NEWS_2026-11-14-taiwans-criminal-police-run-a-nationwide-sweep-of-gangs-suspected-of-helping-foreign-forces-carry-out-transnat.md · ID: IS-NEWS-2026-11-14-TAIWANS-CRIMINAL-POLICE-RUN-A-NATIONWIDE-SWEEP-OF-GANGS-SUSPECTED-OF-HELPING-FOREIGN-FORCES-CARRY-OUT-TRANSNAT =====
+
+```yaml
+id: IS-NEWS-2026-11-14-TAIWANS-CRIMINAL-POLICE-RUN-A-NATIONWIDE-SWEEP-OF-GANGS-SUSPECTED-OF-HELPING-FOREIGN-FORCES-CARRY-OUT-TRANSNAT
+slug: 2026-11-14-taiwans-criminal-police-run-a-nationwide-sweep-of-gangs-suspected-of-helping-foreign-forces-carry-out-transnat
+title: Taiwan's criminal police run a nationwide sweep of gangs suspected of helping foreign forces carry out transnational repression
+title_original: 警選前掃蕩幫派查獲320人 防在地協力跨國鎮壓
+title_language: Chinese
+collection: news
+doc_type: news-item
+date: 2026-11-14
+date_precision: day
+publisher: Central News Agency (Taiwan)
+source_type: News
+issuing_office: 
+url: https://www.cna.com.tw/news/asoc/202611140077.aspx
+archived_url: 
+industry: 
+event: Transnational repression
+country: Taiwan
+stage: 
+related: 
+summary_status: draft
+found_via: web search (11-14 Nov 2026 window) (Chinese, transnational repression); reports a Criminal Investigation Bureau press conference; title translated and reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Taiwan's criminal police run a nationwide sweep of gangs suspected of helping foreign forces carry out transnational repression
+
+*Central News Agency (Taiwan), 2026-11-14. Original, in Chinese: <https://www.cna.com.tw/news/asoc/202611140077.aspx>. Title translated from the Chinese.*
+
+Taiwan's Central News Agency reports that the Criminal Investigation Bureau mobilised about 4,000 officers, inspected 750 locations and detained 320 suspects in a nationwide sweep before local elections, with the stated aim of stopping local collaborators from helping foreign forces carry out transnational repression.
+
+According to the report, the bureau said the sweep followed the flight of a legislative aide charged under the National Security Act who had broken bail, and that checks on people who may have helped him found gang ties. Bureau officials said recent cases show gangs helping wanted people flee and hide on behalf of foreign forces. (Summary translated from the Chinese.)
 
 
 ===== FILE: news/IS_NEWS_undated-anomalous-health-incidents.md · ID: IS-NEWS-UNDATED-ANOMALOUS-HEALTH-INCIDENTS =====
@@ -18523,6 +19825,7 @@ stage:
 related: 
 summary_status: draft
 found_via: already in the corpus
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

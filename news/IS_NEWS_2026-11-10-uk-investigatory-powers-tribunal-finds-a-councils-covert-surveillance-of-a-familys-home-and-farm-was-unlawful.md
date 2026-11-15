@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window) (acknowledgement watch: unlawful official surveillance of people); date read from the article; the Bordon Herald followed on 12 Nov; no technology tag fits, the surveillance was carried out by officers
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

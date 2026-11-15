@@ -8,7 +8,7 @@ news_id: IS-NEWS-2025-03-05-JUSTICE-DEPARTMENT-CHARGES-12-CHINESE-CONTRACT-HACKE
 news_file: news/IS_NEWS_2025-03-05-justice-department-charges-12-chinese-contract-hackers-and.md
 publisher: "U.S. Department of Justice"
 url: https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global
-archived_url: 
+archived_url: https://web.archive.org/web/20261114055142/https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global
 captured: 2026-11-13T22:06:46Z
 capture_status: captured
 http_status: 200
@@ -29,7 +29,7 @@ disclaimer: meta/IS_META_terms.md
 - **Original:** [https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global](https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global)
 - **Written by:** not stated on the page
 - **Published (as stated by the source):** 2025-03-05
-- **Internet Archive copy:** none yet
+- **Internet Archive copy:** [https://web.archive.org/web/20261114055142/https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global](https://web.archive.org/web/20261114055142/https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global)
 - **This archive's summary:** `news/IS_NEWS_2025-03-05-justice-department-charges-12-chinese-contract-hackers-and.md`
 - **Collected by:** Sean C. Harris, invisibleships.com. Written by and belongs to U.S. Department of Justice.
 - **Fingerprint (SHA-256 of the captured text):** `13fcec86aeb512f151ee396de99645969438140969e609f2800376b42707ac0f`

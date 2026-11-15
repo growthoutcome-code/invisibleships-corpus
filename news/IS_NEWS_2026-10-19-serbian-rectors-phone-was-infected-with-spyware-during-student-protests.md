@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (spyware, Serbia, 19 Oct); AP wire story on ABC News, date read from the page; Balkan Insight (19 Oct) could not be read (robots.txt)
+source_status: unreachable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

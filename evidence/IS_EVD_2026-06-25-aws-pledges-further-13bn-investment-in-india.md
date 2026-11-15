@@ -8,7 +8,7 @@ news_id: IS-NEWS-2026-06-25-AWS-PLEDGES-FURTHER-13BN-INVESTMENT-IN-INDIA
 news_file: news/IS_NEWS_2026-06-25-aws-pledges-further-13bn-investment-in-india.md
 publisher: "DatacenterDynamics"
 url: https://www.datacenterdynamics.com/en/news/aws-pledges-further-13bn-investment-in-ai-and-cloud-infrastructure-in-india
-archived_url: 
+archived_url: https://web.archive.org/web/20261021162108/https://www.datacenterdynamics.com/en/news/aws-pledges-further-13bn-investment-in-ai-and-cloud-infrastructure-in-india/
 captured: 2026-11-13T23:07:37Z
 capture_status: captured
 http_status: 200
@@ -30,7 +30,7 @@ disclaimer: meta/IS_META_terms.md
 - **Original:** [https://www.datacenterdynamics.com/en/news/aws-pledges-further-13bn-investment-in-ai-and-cloud-infrastructure-in-india](https://www.datacenterdynamics.com/en/news/aws-pledges-further-13bn-investment-in-ai-and-cloud-infrastructure-in-india)
 - **Written by:** Georgia Butler Have your say
 - **Published (as stated by the source):** 2026-11-12 (this archive dates the item 2026-06-25)
-- **Internet Archive copy:** none yet
+- **Internet Archive copy:** [https://web.archive.org/web/20261021162108/https://www.datacenterdynamics.com/en/news/aws-pledges-further-13bn-investment-in-ai-and-cloud-infrastructure-in-india/](https://web.archive.org/web/20261021162108/https://www.datacenterdynamics.com/en/news/aws-pledges-further-13bn-investment-in-ai-and-cloud-infrastructure-in-india/)
 - **This archive's summary:** `news/IS_NEWS_2026-06-25-aws-pledges-further-13bn-investment-in-india.md`
 - **Collected by:** Sean C. Harris, invisibleships.com. Written by and belongs to DatacenterDynamics.
 - **Fingerprint (SHA-256 of the captured text):** `cd9a8df5f70708e35027ecf54078b8ed812787e5e09d86c1d551813d1fa4b916`

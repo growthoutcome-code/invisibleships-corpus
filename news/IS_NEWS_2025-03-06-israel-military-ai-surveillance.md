@@ -10,7 +10,7 @@ publisher: The Guardian
 source_type: News
 issuing_office: 
 url: https://www.theguardian.com/world/2025/mar/06/israel-military-ai-surveillance
-archived_url: 
+archived_url: https://web.archive.org/web/20261114055406/https://www.theguardian.com/world/2025/mar/06/israel-military-ai-surveillance
 industry: Artificial intelligence
 event: Global conflict
 country: 

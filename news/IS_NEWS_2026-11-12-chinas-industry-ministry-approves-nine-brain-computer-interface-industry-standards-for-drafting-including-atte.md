@@ -20,6 +20,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window) (Chinese, BCI regulation); Hong Kong outlet crediting Sing Tao Finance; the same text ran via Cailian Press (Shanghai state-owned media) on Sina; the ministry's own notice was not found online and the exact date of the notice is not given; title translated and reworded
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

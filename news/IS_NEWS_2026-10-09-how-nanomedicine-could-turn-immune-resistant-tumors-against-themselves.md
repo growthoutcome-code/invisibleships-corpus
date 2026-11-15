@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (nanotechnology search, nanowerk.com front page), date read from the article; reports on a review paper in the Chinese Journal of Polymer Science (doi:10.1007/s10118-026-3678-6)
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

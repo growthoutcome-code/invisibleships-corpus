@@ -10,7 +10,7 @@ publisher: Virginia Attorney General
 source_type: Official
 issuing_office: 
 url: https://www.oag.state.va.us/media-center/news-releases/2850-march-25-2025-consumer-alert-attorney-general-miyares-alerts-virginians-on-23andme-bankruptcy-and-virginias-genetic-data-privacy-law
-archived_url: 
+archived_url: https://web.archive.org/web/20250926133724/https://www.oag.state.va.us/media-center/news-releases/2850-march-25-2025-consumer-alert-attorney-general-miyares-alerts-virginians-on-23andme-bankruptcy-and-virginias-genetic-data-privacy-law
 industry: Biotechnology & health
 event: Regulation & law
 country: 
@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft-search
 found_via: new, found 2 Oct 2026
+source_status: unreachable 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

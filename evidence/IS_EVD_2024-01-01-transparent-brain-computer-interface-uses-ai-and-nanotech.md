@@ -8,7 +8,7 @@ news_id: IS-NEWS-2024-01-01-TRANSPARENT-BRAIN-COMPUTER-INTERFACE-USES-AI-AND-NAN
 news_file: news/IS_NEWS_2024-01-01-transparent-brain-computer-interface-uses-ai-and-nanotech.md
 publisher: "Psychology Today"
 url: https://www.psychologytoday.com/us/blog/the-future-brain/202401/transparent-brain-computer-interface-uses-ai-and-nanotech
-archived_url: 
+archived_url: https://web.archive.org/web/20261114051008/https://www.psychologytoday.com/us/blog/the-future-brain/202401/transparent-brain-computer-interface-uses-ai-and-nanotech
 captured: 2026-11-13T05:15:38Z
 capture_status: captured
 http_status: 200
@@ -30,7 +30,7 @@ disclaimer: meta/IS_META_terms.md
 - **Original:** [https://www.psychologytoday.com/us/blog/the-future-brain/202401/transparent-brain-computer-interface-uses-ai-and-nanotech](https://www.psychologytoday.com/us/blog/the-future-brain/202401/transparent-brain-computer-interface-uses-ai-and-nanotech)
 - **Written by:** Cami Rosso
 - **Published (as stated by the source):** 2024-01-24 (this archive dates the item 2024-01-01)
-- **Internet Archive copy:** none yet
+- **Internet Archive copy:** [https://web.archive.org/web/20261114051008/https://www.psychologytoday.com/us/blog/the-future-brain/202401/transparent-brain-computer-interface-uses-ai-and-nanotech](https://web.archive.org/web/20261114051008/https://www.psychologytoday.com/us/blog/the-future-brain/202401/transparent-brain-computer-interface-uses-ai-and-nanotech)
 - **This archive's summary:** `news/IS_NEWS_2024-01-01-transparent-brain-computer-interface-uses-ai-and-nanotech.md`
 - **Collected by:** Sean C. Harris, invisibleships.com. Written by and belongs to Psychology Today.
 - **Fingerprint (SHA-256 of the captured text):** `bbe180487aeb9a0e6cc6303b8077f45c894f317923c2448d568713cf4f4effea`

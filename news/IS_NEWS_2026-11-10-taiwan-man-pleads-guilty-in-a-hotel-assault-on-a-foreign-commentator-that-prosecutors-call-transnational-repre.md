@@ -18,6 +18,7 @@ stage: pleaded guilty
 related: 
 summary_status: draft
 found_via: web search (10-12 Nov 2026 window) (Chinese, Taiwan prosecutors, transnational repression); date read from the article; the original Chinese title names the people involved, so the title here is our own and title_original is not reproduced; Liberty Times, Newtalk and China Times also reported it on 10 Nov
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

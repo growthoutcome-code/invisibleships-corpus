@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (ID Tech Digest, 9 Oct), date read from the article; the article links the court order
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

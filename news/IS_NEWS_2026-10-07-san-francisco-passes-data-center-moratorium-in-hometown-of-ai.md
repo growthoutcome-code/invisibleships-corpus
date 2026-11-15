@@ -18,6 +18,7 @@ stage:
 related: 
 summary_status: draft
 found_via: web search (data center moratorium, 26 Oct); date read from the article (7 Oct 2026, 16:54 UTC); missed by earlier runs; the same story is also at news.bgov.com
+source_status: available 2026-11-14
 author: Sean C. Harris
 copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
 disclaimer: meta/IS_META_terms.md

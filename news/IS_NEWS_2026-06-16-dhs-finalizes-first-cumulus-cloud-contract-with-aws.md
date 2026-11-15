@@ -10,7 +10,7 @@ publisher: Nextgov/FCW
 source_type: Trade press
 issuing_office: 
 url: https://www.nextgov.com/acquisition/2026/06/dhs-finalizes-first-cumulus-cloud-contract-aws/414197
-archived_url: 
+archived_url: https://web.archive.org/web/20261114060243/https://www.nextgov.com/acquisition/2026/06/dhs-finalizes-first-cumulus-cloud-contract-aws/414197/
 industry: Government cloud & surveillance technology
 event: Contracts & deployments
 country: 
