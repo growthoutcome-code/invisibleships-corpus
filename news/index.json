@@ -1,5 +1,49 @@
 [
 {
+"slug": "2026-11-15-israel-to-indict-a-northern-resident-accused-of-photographing-military-bases-and-police-stations-for-iranian-i",
+"file": "IS_NEWS_2026-11-15-israel-to-indict-a-northern-resident-accused-of-photographing-military-bases-and-police-stations-for-iranian-i.md",
+"title": "Israel to indict a northern resident accused of photographing military bases and police stations for Iranian intelligence",
+"date": "2026-11-15",
+"precision": "day",
+"publisher": "Zman Israel",
+"sourceType": "News",
+"office": "",
+"url": "https://www.zman.co.il/live/742376/",
+"archivedUrl": "",
+"industry": [],
+"event": "Espionage & foreign agents",
+"country": "Israel",
+"stage": "charged",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": []
+},
+{
+"slug": "2026-11-14-us-transport-secretary-says-a-contractors-router-work-during-a-copper-to-fibre-upgrade-preceded-the-nationwide",
+"file": "IS_NEWS_2026-11-14-us-transport-secretary-says-a-contractors-router-work-during-a-copper-to-fibre-upgrade-preceded-the-nationwide.md",
+"title": "US transport secretary says a contractor's router work during a copper-to-fibre upgrade preceded the nationwide ground stop, with the exact cause still under investigation",
+"date": "2026-11-14",
+"precision": "day",
+"publisher": "CNBC",
+"sourceType": "News",
+"office": "",
+"url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology"
+],
+"event": "Outages & disruptions",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": []
+},
+{
 "slug": "2026-11-14-taiwans-criminal-police-run-a-nationwide-sweep-of-gangs-suspected-of-helping-foreign-forces-carry-out-transnat",
 "file": "IS_NEWS_2026-11-14-taiwans-criminal-police-run-a-nationwide-sweep-of-gangs-suspected-of-helping-foreign-forces-carry-out-transnat.md",
 "title": "Taiwan's criminal police run a nationwide sweep of gangs suspected of helping foreign forces carry out transnational repression",
@@ -13,6 +57,53 @@
 "industry": [],
 "event": "Transnational repression",
 "country": "Taiwan",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": []
+},
+{
+"slug": "2026-11-14-italys-privacy-authority-fines-a-social-media-company-805-million-for-reading-android-users-photo-galleries-without-spec",
+"file": "IS_NEWS_2026-11-14-italys-privacy-authority-fines-a-social-media-company-805-million-for-reading-android-users-photo-galleries-without-spec.md",
+"title": "Italy's privacy authority fines a social-media company €805 million for reading Android users' photo galleries without specific consent",
+"date": "2026-11-14",
+"precision": "day",
+"publisher": "Garante per la protezione dei dati personali",
+"sourceType": "Official",
+"office": "Garante per la protezione dei dati personali",
+"url": "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology"
+],
+"event": "Regulation & law",
+"country": "Italy",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": []
+},
+{
+"slug": "2026-11-14-hong-kong-police-say-facial-recognition-will-be-switched-on-across-the-smartview-camera-network-on-16-novembe",
+"file": "IS_NEWS_2026-11-14-hong-kong-police-say-facial-recognition-will-be-switched-on-across-the-smartview-camera-network-on-16-novembe.md",
+"title": "Hong Kong police say facial recognition will be switched on across the SmartView camera network on 16 November",
+"date": "2026-11-14",
+"precision": "day",
+"publisher": "The Standard (Hong Kong)",
+"sourceType": "News",
+"office": "",
+"url": "https://www.thestandard.com.hk/news/article/348493/Police-to-activate-facial-recognition-on-SmartView-security-cameras-next-week",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology",
+"Artificial intelligence"
+],
+"event": "Contracts & deployments",
+"country": "Hong Kong",
 "stage": "",
 "related": [],
 "hasSummary": true,
@@ -231,6 +322,29 @@
 "topics": []
 },
 {
+"slug": "2026-11-12-who-says-bangladesh-and-india-have-banned-a-highly-toxic-pesticide-linked-to-suicide-and-parkinson-disease",
+"file": "IS_NEWS_2026-11-12-who-says-bangladesh-and-india-have-banned-a-highly-toxic-pesticide-linked-to-suicide-and-parkinson-disease.md",
+"title": "WHO says Bangladesh and India have banned a highly toxic pesticide linked to suicide and Parkinson disease",
+"date": "2026-11-12",
+"precision": "day",
+"publisher": "World Health Organization",
+"sourceType": "Official",
+"office": "",
+"url": "https://www.who.int/news/item/12-11-2026-bangladesh-and-india-ban-toxic-pesticide-to-boost-suicide-prevention-and-brain-health",
+"archivedUrl": "",
+"industry": [
+"Biotechnology & health"
+],
+"event": "Public health",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": []
+},
+{
 "slug": "2026-11-12-us-justice-department-seizes-north-korean-hackers-video-call-scheme-infrastructure-and-more-than-900-webcam-recordings",
 "file": "IS_NEWS_2026-11-12-us-justice-department-seizes-north-korean-hackers-video-call-scheme-infrastructure-and-more-than-900-webcam-recordings.md",
 "title": "US Justice Department seizes North Korean hackers' video-call scheme infrastructure and more than 900 webcam recordings of victims",
@@ -255,6 +369,52 @@
 "topics": [],
 "archivedOn": "2026-11-12",
 "archivedAt": "2026-11-12T22:33Z"
+},
+{
+"slug": "2026-11-12-us-federal-judge-certifies-a-class-of-illinois-photo-storage-users-in-a-suit-alleging-their-faces-were-scanned",
+"file": "IS_NEWS_2026-11-12-us-federal-judge-certifies-a-class-of-illinois-photo-storage-users-in-a-suit-alleging-their-faces-were-scanned.md",
+"title": "US federal judge certifies a class of Illinois photo-storage users in a suit alleging their faces were scanned without the consent state biometric law requires",
+"date": "2026-11-12",
+"precision": "day",
+"publisher": "Biometric Update",
+"sourceType": "Trade press",
+"office": "",
+"url": "https://www.biometricupdate.com/202611/amazon-photos-biometric-privacy-lawsuit-certified-as-class-action",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [
+"AI law"
+]
+},
+{
+"slug": "2026-11-12-ukraines-security-service-detains-a-soldier-accused-of-preparing-for-russian-intelligence-a-missile-strike-on",
+"file": "IS_NEWS_2026-11-12-ukraines-security-service-detains-a-soldier-accused-of-preparing-for-russian-intelligence-a-missile-strike-on.md",
+"title": "Ukraine's security service detains a soldier accused of preparing, for Russian intelligence, a missile strike on a brigade commander after recruitment through Telegram dating channels",
+"date": "2026-11-12",
+"precision": "day",
+"publisher": "Gordon",
+"sourceType": "News",
+"office": "",
+"url": "https://gordonua.com/ukr/section-war/news-u-mykolayevi-zatrymaly-ahenta-fsb-yakyy-hotuvav-zamakh-na-komandyra-odniyeyi-z-bryhad-dshv-zsu-sbu-12-11-2026.html",
+"archivedUrl": "",
+"industry": [],
+"event": "Murder for hire & violent plots",
+"country": "Ukraine",
+"stage": "arrested",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": []
 },
 {
 "slug": "2026-11-12-uk-police-inspectorate-finds-deleted-custody-photos-still-searchable-by-retrospective-facial-recognition-and-w",
@@ -362,6 +522,48 @@
 "archivedAt": "2026-11-13T07:58Z"
 },
 {
+"slug": "2026-11-12-russian-court-sentences-a-kaliningrad-lawyer-who-defended-political-defendants-to-12-years-for-treason-after-a",
+"file": "IS_NEWS_2026-11-12-russian-court-sentences-a-kaliningrad-lawyer-who-defended-political-defendants-to-12-years-for-treason-after-a.md",
+"title": "Russian court sentences a Kaliningrad lawyer who defended political defendants to 12 years for treason after a closed trial",
+"date": "2026-11-12",
+"precision": "day",
+"publisher": "Radio Svoboda (RFE/RL)",
+"sourceType": "News",
+"office": "",
+"url": "https://www.svoboda.org/a/u-menya-shansov-eto-perezhitj-prakticheski-net-mariyu-bontsler-osudili-za-gosizmenu/33885410.html",
+"archivedUrl": "",
+"industry": [],
+"event": "Espionage & foreign agents",
+"country": "Russia",
+"stage": "sentenced",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": []
+},
+{
+"slug": "2026-11-12-poland-indicts-a-ukrainian-man-accused-of-helping-prepare-the-2025-warsaw-lublin-rail-sabotage-for-russian-intelligence",
+"file": "IS_NEWS_2026-11-12-poland-indicts-a-ukrainian-man-accused-of-helping-prepare-the-2025-warsaw-lublin-rail-sabotage-for-russian-intelligence.md",
+"title": "Poland indicts a Ukrainian man accused of helping prepare the 2025 Warsaw-Lublin rail sabotage for Russian intelligence",
+"date": "2026-11-12",
+"precision": "day",
+"publisher": "Notes from Poland",
+"sourceType": "News",
+"office": "",
+"url": "https://notesfrompoland.com/2026/11/12/poland-indicts-ukrainian-man-for-assisting-in-rail-sabotage-on-behalf-of-russia/",
+"archivedUrl": "",
+"industry": [],
+"event": "Espionage & foreign agents",
+"country": "Poland",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": []
+},
+{
 "slug": "2026-11-12-new-york-activist-who-admitted-reporting-on-fellow-dissidents-to-chinas-intelligence-service-is-sentenced-to-probation",
 "file": "IS_NEWS_2026-11-12-new-york-activist-who-admitted-reporting-on-fellow-dissidents-to-chinas-intelligence-service-is-sentenced-to-probation.md",
 "title": "New York activist who admitted reporting on fellow dissidents to China's intelligence service is sentenced to probation",
@@ -383,6 +585,32 @@
 "topics": [],
 "archivedOn": "2026-11-13",
 "archivedAt": "2026-11-13T07:58Z"
+},
+{
+"slug": "2026-11-12-kenyan-high-court-declines-to-halt-government-ai-systems-and-gives-the-state-six-months-to-progress-ai-law",
+"file": "IS_NEWS_2026-11-12-kenyan-high-court-declines-to-halt-government-ai-systems-and-gives-the-state-six-months-to-progress-ai-law.md",
+"title": "Kenyan High Court declines to halt government AI and facial-recognition systems and gives the state six months to progress AI legislation",
+"date": "2026-11-12",
+"precision": "day",
+"publisher": "The Mt Kenya Times",
+"sourceType": "News",
+"office": "",
+"url": "https://mountkenyatimes.co.ke/high-court-gives-state-six-month-window-to-finalise-ai-law-dismisses-bid-to-halt-public-sector-algorithms/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence",
+"Government cloud & surveillance technology"
+],
+"event": "Courts & litigation",
+"country": "Kenya",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [
+"AI law"
+]
 },
 {
 "slug": "2026-11-12-iran-freezes-and-seizes-property-of-critics-abroad-and-in-some-cases-of-their-relatives-at-home",
@@ -427,6 +655,55 @@
 "kind": "event",
 "commentator": "",
 "topics": []
+},
+{
+"slug": "2026-11-12-german-state-bill-would-have-police-told-when-patients-involuntarily-committed-as-a-danger-to-others-are-discharged",
+"file": "IS_NEWS_2026-11-12-german-state-bill-would-have-police-told-when-patients-involuntarily-committed-as-a-danger-to-others-are-discharged.md",
+"title": "German state bill would have police told when patients involuntarily committed as a danger to others are discharged",
+"date": "2026-11-12",
+"precision": "day",
+"publisher": "netzpolitik.org",
+"sourceType": "News",
+"office": "",
+"url": "https://netzpolitik.org/2026/psychisch-kranken-gesetz-in-schleswig-holstein-polizei-soll-bei-angenommener-fremdgefaehrdung-informiert-werden/",
+"archivedUrl": "",
+"industry": [
+"Biotechnology & health",
+"Government cloud & surveillance technology"
+],
+"event": "Regulation & law",
+"country": "Germany",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": []
+},
+{
+"slug": "2026-11-12-four-advocacy-groups-sue-five-leading-ai-developers-in-a-california-court-seeking-a-freeze-on-more-capable-ai",
+"file": "IS_NEWS_2026-11-12-four-advocacy-groups-sue-five-leading-ai-developers-in-a-california-court-seeking-a-freeze-on-more-capable-ai.md",
+"title": "Four advocacy groups sue five leading AI developers in a California court seeking a freeze on more capable AI models",
+"date": "2026-11-12",
+"precision": "day",
+"publisher": "Al Jazeera",
+"sourceType": "News",
+"office": "",
+"url": "https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [
+"AI law"
+]
 },
 {
 "slug": "2026-11-12-dutch-prosecutors-seek-up-to-20-years-for-six-defendants-accused-over-the-attempted-killing-of-an-iranian-acti",
@@ -5766,6 +6043,31 @@
 "capturedAt": "2026-11-13T23:14:56Z"
 },
 {
+"slug": "2026-09-29-analysis-seven-kinds-of-ai-transparency-and-what-each-one-is-actually-for",
+"file": "IS_NEWS_2026-09-29-analysis-seven-kinds-of-ai-transparency-and-what-each-one-is-actually-for.md",
+"title": "Seven kinds of AI transparency and what each one is actually for",
+"date": "2026-09-29",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/when-we-ask-for-transparency-what",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"AI law"
+]
+},
+{
 "slug": "2026-09-25-precision-neuroscience-raises-250m-in-series-d-for-its-bci",
 "file": "IS_NEWS_2026-09-25-precision-neuroscience-raises-250m-in-series-d-for-its-bci.md",
 "title": "Precision Neuroscience raises $250M in Series D for its BCI",
@@ -5860,6 +6162,57 @@
 "capturedFrom": "doj-api"
 },
 {
+"slug": "2026-09-23-analysis-ai-bias-in-hiring-pricing-credit-and-medicine-and-a-shift-in-u-s-disparate-impact-law-that-may-make-it-harder",
+"file": "IS_NEWS_2026-09-23-analysis-ai-bias-in-hiring-pricing-credit-and-medicine-and-a-shift-in-u-s-disparate-impact-law-that-may-make-it-harder.md",
+"title": "AI bias in hiring, pricing, credit and medicine, and a shift in U.S. disparate-impact law that may make it harder to prove",
+"date": "2026-09-23",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/ai-bias-and-discrimination-and-how",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence",
+"Government cloud & surveillance technology"
+],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"AI law"
+]
+},
+{
+"slug": "2026-09-22-analysis-who-pays-for-ai-data-centres-power-and-who-can-refuse-them-noise-water-air-and-electricity-bills",
+"file": "IS_NEWS_2026-09-22-analysis-who-pays-for-ai-data-centres-power-and-who-can-refuse-them-noise-water-air-and-electricity-bills.md",
+"title": "Who pays for AI data centres' power and who can refuse them: noise, water, air and electricity bills",
+"date": "2026-09-22",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/data-centers-and-the-jet-engine-in",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"AI law"
+]
+},
+{
 "slug": "2026-09-19-lawsuit-says-ai-companies-made-illegal-deal-on-ai-slowdown",
 "file": "IS_NEWS_2026-09-19-lawsuit-says-ai-companies-made-illegal-deal-on-ai-slowdown.md",
 "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown",
@@ -5928,6 +6281,55 @@
 "capturedAt": "2026-11-13T23:12:26Z"
 },
 {
+"slug": "2026-09-18-analysis-a-bonus-class-on-calls-to-slow-frontier-ai-and-the-physical-levers-that-could-actually-do-it",
+"file": "IS_NEWS_2026-09-18-analysis-a-bonus-class-on-calls-to-slow-frontier-ai-and-the-physical-levers-that-could-actually-do-it.md",
+"title": "A bonus class on calls to slow frontier AI and the physical levers that could actually do it",
+"date": "2026-09-18",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/a-bonus-class-on-the-amodei-letter",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"AI law"
+]
+},
+{
+"slug": "2026-09-17-analysis-the-ladder-beneath-ai-models-how-rules-on-chips-memory-networks-and-power-trail-the-technology",
+"file": "IS_NEWS_2026-09-17-analysis-the-ladder-beneath-ai-models-how-rules-on-chips-memory-networks-and-power-trail-the-technology.md",
+"title": "The ladder beneath AI models: how rules on chips, memory, networks and power trail the technology",
+"date": "2026-09-17",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/compute-the-chip-war-that-has-run",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence",
+"Government cloud & surveillance technology"
+],
+"event": "Technology theft & export control",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": []
+},
+{
 "slug": "2026-09-16-liability-for-unregistered-foreign-agents",
 "file": "IS_NEWS_2026-09-16-liability-for-unregistered-foreign-agents.md",
 "title": "Liability for Unregistered Foreign Agents",
@@ -5956,6 +6358,32 @@
 "evidenceFile": "/data/evidence/md/IS_EVD_2026-09-16-liability-for-unregistered-foreign-agents.md",
 "capturedOn": "2026-11-13",
 "capturedAt": "2026-11-13T23:12:15Z"
+},
+{
+"slug": "2026-09-16-analysis-human-neural-cells-grown-into-the-cortex-of-mice-raise-ethical-questions-about-part-human-brains",
+"file": "IS_NEWS_2026-09-16-analysis-human-neural-cells-grown-into-the-cortex-of-mice-raise-ethical-questions-about-part-human-brains.md",
+"title": "Human neural cells grown into the cortex of mice raise ethical questions about part-human brains",
+"date": "2026-09-16",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/breakthrough-in-science-human-brain",
+"archivedUrl": "",
+"industry": [
+"Neurotechnology",
+"Biotechnology & health"
+],
+"event": "Research & breakthroughs",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"Neuroethics"
+]
 },
 {
 "slug": "2026-09-15-members-of-russian-intelligence-services-network-charged",
@@ -6020,6 +6448,54 @@
 "capturedAt": "2026-11-13T23:12:01Z"
 },
 {
+"slug": "2026-09-14-analysis-who-owns-what-ai-models-produce-and-whether-ai-detection-tools-and-labels-earn-the-trust-placed-in-them",
+"file": "IS_NEWS_2026-09-14-analysis-who-owns-what-ai-models-produce-and-whether-ai-detection-tools-and-labels-earn-the-trust-placed-in-them.md",
+"title": "Who owns what AI models produce, and whether AI-detection tools and labels earn the trust placed in them",
+"date": "2026-09-14",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/what-comes-out-of-ai-models-inside",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"AI law"
+]
+},
+{
+"slug": "2026-09-11-analysis-a-bonus-class-on-an-ai-companys-claim-to-have-reached-general-intelligence-and-how-training-data-bears-on-it",
+"file": "IS_NEWS_2026-09-11-analysis-a-bonus-class-on-an-ai-companys-claim-to-have-reached-general-intelligence-and-how-training-data-bears-on-it.md",
+"title": "A bonus class on an AI company's claim to have reached general intelligence, and how training data bears on it",
+"date": "2026-09-11",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/a-bonus-class-on-agi-claims-by-openai",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Research & breakthroughs",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": []
+},
+{
 "slug": "2026-09-09-drug-delivering-particles-aim-to-breach-the-blood-brain-barrier",
 "file": "IS_NEWS_2026-09-09-drug-delivering-particles-aim-to-breach-the-blood-brain-barrier.md",
 "title": "Drug-delivering particles aim to breach the blood–brain barrier",
@@ -6051,6 +6527,56 @@
 "evidenceFile": "/data/evidence/md/IS_EVD_2026-09-09-drug-delivering-particles-aim-to-breach-the-blood-brain-barrier.md",
 "capturedOn": "2026-11-13",
 "capturedAt": "2026-11-13T23:11:29Z"
+},
+{
+"slug": "2026-09-09-analysis-how-ai-training-data-is-gathered-and-processed-and-why-the-u-s-government-now-frames-it-as-national-security",
+"file": "IS_NEWS_2026-09-09-analysis-how-ai-training-data-is-gathered-and-processed-and-why-the-u-s-government-now-frames-it-as-national-security.md",
+"title": "How AI training data is gathered and processed, and why the U.S. government now frames it as national security",
+"date": "2026-09-09",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/how-training-data-became-a-national",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"AI law"
+]
+},
+{
+"slug": "2026-09-08-analysis-ten-films-that-help-explain-the-current-ai-moment-and-what-each-got-right-and-wrong",
+"file": "IS_NEWS_2026-09-08-analysis-ten-films-that-help-explain-the-current-ai-moment-and-what-each-got-right-and-wrong.md",
+"title": "Ten films that help explain the current AI moment, and what each got right and wrong",
+"date": "2026-09-08",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/ten-movies-that-help-us-understand",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Research & breakthroughs",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"Neurorights"
+]
 },
 {
 "slug": "2026-09-02-study-demonstrates-the-potential-of-magnetoelectric-nanoparticles-for-wireless-neuromodulation",
@@ -6086,6 +6612,31 @@
 "capturedAt": "2026-11-13T04:34:03Z"
 },
 {
+"slug": "2026-09-02-analysis-four-questions-for-judging-any-open-weight-ai-release-and-three-ways-to-govern-such-models",
+"file": "IS_NEWS_2026-09-02-analysis-four-questions-for-judging-any-open-weight-ai-release-and-three-ways-to-govern-such-models.md",
+"title": "Four questions for judging any open-weight AI release, and three ways to govern such models",
+"date": "2026-09-02",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/four-key-questions-about-open-ai",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"AI law"
+]
+},
+{
 "slug": "2026-09-01-american-citizen-who-worked-as-an-agent-for-the-prc",
 "file": "IS_NEWS_2026-09-01-american-citizen-who-worked-as-an-agent-for-the-prc.md",
 "title": "American Citizen who Worked as an Agent for the PRC Sentenced to Two Years in Prison",
@@ -6114,6 +6665,81 @@
 "evidenceFile": "/data/evidence/md/IS_EVD_2026-09-01-american-citizen-who-worked-as-an-agent-for-the-prc.md",
 "capturedOn": "2026-11-13",
 "capturedAt": "2026-11-13T23:11:23Z"
+},
+{
+"slug": "2026-08-31-analysis-what-open-means-for-an-ai-model-and-why-open-weight-releases-gained-the-upper-hand-in-2026",
+"file": "IS_NEWS_2026-08-31-analysis-what-open-means-for-an-ai-model-and-why-open-weight-releases-gained-the-upper-hand-in-2026.md",
+"title": "What 'open' means for an AI model, and why open-weight releases gained the upper hand in 2026",
+"date": "2026-08-31",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/open-vs-closed-ai-models-inside-my-1a0",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"AI law"
+]
+},
+{
+"slug": "2026-08-26-analysis-why-ai-invented-case-citations-keep-reaching-courts-explained-through-how-language-models-predict-text",
+"file": "IS_NEWS_2026-08-26-analysis-why-ai-invented-case-citations-keep-reaching-courts-explained-through-how-language-models-predict-text.md",
+"title": "Why AI-invented case citations keep reaching courts, explained through how language models predict text",
+"date": "2026-08-26",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/how-ai-actually-works-inside-my-ai",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"AI law"
+]
+},
+{
+"slug": "2026-08-24-analysis-a-new-run-of-an-ai-law-course-opens-with-why-the-law-struggles-to-define-artificial-intelligence",
+"file": "IS_NEWS_2026-08-24-analysis-a-new-run-of-an-ai-law-course-opens-with-why-the-law-struggles-to-define-artificial-intelligence.md",
+"title": "A new run of an AI law course opens with why the law struggles to define artificial intelligence",
+"date": "2026-08-24",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/what-is-ai-inside-my-ai-law-and-policy",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"AI law"
+]
 },
 {
 "slug": "2026-08-18-fbi-violent-crime-drop-in-2025",
@@ -6458,6 +7084,31 @@
 "capturedAt": "2026-11-13T23:06:23Z"
 },
 {
+"slug": "2026-04-22-analysis-ai-that-finds-software-flaws-faster-than-they-can-be-fixed-and-an-illinois-bill-to-shield-ai-companies-from-ca",
+"file": "IS_NEWS_2026-04-22-analysis-ai-that-finds-software-flaws-faster-than-they-can-be-fixed-and-an-illinois-bill-to-shield-ai-companies-from-ca.md",
+"title": "AI that finds software flaws faster than they can be fixed, and an Illinois bill to shield AI companies from catastrophe liability",
+"date": "2026-04-22",
+"precision": "day",
+"publisher": "Stay Tuned with Preet (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://staytuned.substack.com/p/nothing-stays-safe-ai-anthropic-security",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"AI law"
+]
+},
+{
 "slug": "2026-04-20-inbrain-completes-enrolment-of-first-in-human-study-of-graphene-neural-interfaces",
 "file": "IS_NEWS_2026-04-20-inbrain-completes-enrolment-of-first-in-human-study-of-graphene-neural-interfaces.md",
 "title": "INBRAIN completes enrolment of first-in-human study of graphene neural interfaces",
@@ -6490,6 +7141,58 @@
 "capturedOn": "2026-11-14",
 "capturedAt": "2026-11-14T03:02:30Z",
 "capturedFrom": "wayback"
+},
+{
+"slug": "2026-04-07-analysis-the-first-amendment-wall-shields-users-and-platforms-alike-and-whether-an-algorithm-speaks-is-unsettled",
+"file": "IS_NEWS_2026-04-07-analysis-the-first-amendment-wall-shields-users-and-platforms-alike-and-whether-an-algorithm-speaks-is-unsettled.md",
+"title": "The First Amendment wall shields users and platforms alike, and whether an algorithm speaks is unsettled",
+"date": "2026-04-07",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/the-wall-that-cuts-both-ways-and",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"Neurorights",
+"AI law"
+]
+},
+{
+"slug": "2026-04-04-analysis-neural-evidence-strains-the-fifth-amendment-and-state-neural-data-laws-do-not-stop-a-subpoena",
+"file": "IS_NEWS_2026-04-04-analysis-neural-evidence-strains-the-fifth-amendment-and-state-neural-data-laws-do-not-stop-a-subpoena.md",
+"title": "Neural evidence strains the Fifth Amendment, and state neural data laws do not stop a subpoena",
+"date": "2026-04-04",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/when-the-interface-is-neural",
+"archivedUrl": "",
+"industry": [
+"Neurotechnology",
+"Government cloud & surveillance technology"
+],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"Mental privacy"
+]
 },
 {
 "slug": "2026-04-03-us-states-build-patchwork-of-neural-data-privacy-laws",
@@ -6525,6 +7228,56 @@
 "evidenceFile": "/data/evidence/md/IS_EVD_2026-04-03-us-states-build-patchwork-of-neural-data-privacy-laws.md",
 "capturedOn": "2026-11-13",
 "capturedAt": "2026-11-13T23:05:42Z"
+},
+{
+"slug": "2026-04-03-analysis-fraud-claims-may-survive-appeal-where-design-defect-claims-against-social-media-companies-may-not",
+"file": "IS_NEWS_2026-04-03-analysis-fraud-claims-may-survive-appeal-where-design-defect-claims-against-social-media-companies-may-not.md",
+"title": "Fraud claims may survive appeal where design-defect claims against social media companies may not",
+"date": "2026-04-03",
+"precision": "day",
+"publisher": "Stay Tuned with Preet (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://staytuned.substack.com/p/the-strongest-case-against-meta-is",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"Neurorights",
+"AI law"
+]
+},
+{
+"slug": "2026-04-02-analysis-two-appeals-courts-split-on-whether-forcing-a-thumbprint-unlock-is-self-incrimination",
+"file": "IS_NEWS_2026-04-02-analysis-two-appeals-courts-split-on-whether-forcing-a-thumbprint-unlock-is-self-incrimination.md",
+"title": "Two appeals courts split on whether forcing a thumbprint unlock is self-incrimination",
+"date": "2026-04-02",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/two-courts-one-test-one-thumb-inside",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology",
+"Neurotechnology"
+],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": []
 },
 {
 "slug": "2026-03-30-analysis-who-owns-digital-thoughts-the-limits-of-property-law-and-unesco-s-neurotechnology-recommen",

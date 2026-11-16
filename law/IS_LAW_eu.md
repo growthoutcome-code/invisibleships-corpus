@@ -28,6 +28,13 @@ disclaimer: meta/IS_META_terms.md
 - **What it means for a person there:** the parliament's own summary records that opposition parties objected to biometric matching against internet data without adequate thresholds.
 - **Sources:** Deutscher Bundestag, ["Bundestag reformiert das Nachrichtendienstrecht"](https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-nachrichtendienste-1231530) (13 November 2026).
 
+## Italy: consent before an app reads a phone's contents (enforcement, 2026)
+
+- **What happened:** on 14 November 2026 Italy's data-protection authority (the Garante) announced a fine of €805 million on Meta Platforms Ireland. It says the Facebook app for Android read photos, videos and their metadata on about 20 million Italian users' phones through a gallery-suggestion feature switched on by default since 2023, without specific consent or adequate information.
+- **The rule applied:** the Italian privacy code's provision implementing the EU ePrivacy Directive, which the authority says protects the phone as part of a person's private sphere and requires consent for any access to it. The authority rejected the argument that only the Irish authority could decide the case.
+- **What it means for a person there:** the authority ordered the company to ask for separate consent within 60 days and to keep the feature off by default. The company can challenge the decision.
+- **Sources:** Garante per la protezione dei dati personali, [press release](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080) (14 November 2026).
+
 ## Being written
 
 The General Data Protection Regulation (health and biometric data as special categories; the right to erasure), the EU Charter of Fundamental Rights, the Digital Services Act and national laws such as Italy's 2025 AI law.
