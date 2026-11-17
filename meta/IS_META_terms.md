@@ -8,7 +8,7 @@ supersedes: [IS_META_copyright.md, IS_META_disclaimer.md]
 source: lib/terms.ts (the same source the website renders)
 generated_by: scripts/export_terms_md.mjs
 section_count: 8
-word_count: 2605
+word_count: 2694
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 ---
@@ -138,6 +138,8 @@ Not permitted:
 This site counts page views — which pages are opened, in what order, and which links out readers follow — using cookies. That is the whole of it. There is no session replay, no recording of how a page was used, no heatmap, and no capture of what happens inside a page. Replay was switched off on 26 September 2026 and the site is now built so that it cannot start again without a change to the code. The counting is processed on the author’s behalf by PostHog and by Google Analytics. Nothing is sold, and no attempt is made to identify individual readers. **Every number the site keeps is published at [what this site can see](/insights), where counting can also be switched off for your device.**
 
 The entry screen asks, optionally, how you would describe yourself as a reader. Answering is **never required** — you can enter without choosing, and declining costs you nothing. If you do answer, that one word is attached to the rest of your visit so the author can tell which sections matter to which readers. It is stored with the analytics above and nowhere else. It is a self-description, checked by nobody, and it is not treated as a fact about you. If you would rather it were not recorded at all, decline — or turn counting off entirely with the link below.
+
+**Subscribing to the daily news is separate, and entirely optional.** If you subscribe, your email address is sent to Kit, the email service that sends the daily email, and is held there, not by this site. Kit sends one email to confirm, and nothing else is sent until you do. Every email has an unsubscribe link that stops all further email. The site keeps only the total number of confirmed subscribers, shown at [what this site can see](/insights). Following the news by RSS needs no address at all.
 
 Given what this archive is about, that is stated plainly rather than buried. If you would rather not be measured at all, open any page with [?analytics=off](/?analytics=off) — this browser then stops being recorded on this device, and stays that way.
 

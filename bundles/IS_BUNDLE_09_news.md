@@ -3,8 +3,8 @@ id: IS-BUNDLE-09-NEWS
 title: "News"
 collection: bundles
 doc_type: bundle
-files: 573
-approx_tokens: 316,892
+files: 599
+approx_tokens: 332,619
 contains: [news]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -15,7 +15,7 @@ disclaimer: meta/IS_META_terms.md
 
 Official releases and outside reporting, one item per section, each summarised and linked.
 
-This file joins 573 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
+This file joins 599 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 
@@ -361,6 +361,7 @@ This file joins 573 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-04-07-analysis-the-first-amendment-wall-shields-users-and-platforms-alike-and-whether-an-algorithm-speaks-is-unsettled.md` — The First Amendment wall shields users and platforms alike, and whether an algorithm speaks is unsettled
 - `news/IS_NEWS_2026-04-20-inbrain-completes-enrolment-of-first-in-human-study-of-graphene-neural-interfaces.md` — INBRAIN completes enrolment of first-in-human study of graphene neural interfaces
 - `news/IS_NEWS_2026-04-22-analysis-ai-that-finds-software-flaws-faster-than-they-can-be-fixed-and-an-illinois-bill-to-shield-ai-companies-from-ca.md` — AI that finds software flaws faster than they can be fixed, and an Illinois bill to shield AI companies from catastrophe liability
+- `news/IS_NEWS_2026-04-27-analysis-chile-s-neurorights-leave-data-inferred-from-brain-activity-in-a-legal-gray-zone.md` — Chile's neurorights leave data inferred from brain activity in a legal gray zone
 - `news/IS_NEWS_2026-05-11-arcadia-california-mayor-federally-charged-with-acting-as.md` — Arcadia, California, Mayor Federally Charged with Acting as Illegal Agent of the People's Republic of China
 - `news/IS_NEWS_2026-05-20-bronx-man-convicted-of-operating-police-station-for-the.md` — Bronx Man Convicted of Operating Police Station for the Chinese Government in New York City and Obstruction of Justice
 - `news/IS_NEWS_2026-06-01-ice-to-spend-25m-on-iris-recognition.md` — ICE to spend $25M on iris recognition
@@ -398,12 +399,14 @@ This file joins 573 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-09-25-precision-neuroscience-raises-250m-in-series-d-for-its-bci.md` — Precision Neuroscience raises $250M in Series D for its BCI
 - `news/IS_NEWS_2026-09-29-analysis-seven-kinds-of-ai-transparency-and-what-each-one-is-actually-for.md` — Seven kinds of AI transparency and what each one is actually for
 - `news/IS_NEWS_2026-09-29-healthcare-campaigners-turn-up-the-heat-on-palantir-at-labour.md` — Healthcare campaigners turn up the heat on Palantir at Labour conference
+- `news/IS_NEWS_2026-09-30-analysis-deepfakes-are-now-cheap-to-make-and-hard-to-spot-and-the-worst-harm-falls-outside-elections.md` — Deepfakes are now cheap to make and hard to spot, and the worst harm falls outside elections
 - `news/IS_NEWS_2026-09-30-california-s-nation-leading-ai-framework-just-got-stronger.md` — California's nation-leading AI framework just got stronger
 - `news/IS_NEWS_2026-10-01-3-ex-servicemen-indicted-for-allegedly-spying-for-china.md` — 3 ex-servicemen indicted for allegedly spying for China
 - `news/IS_NEWS_2026-10-01-an-ai-mind-reading-tool-can-reconstruct-what-you-re-looking.md` — An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan
 - `news/IS_NEWS_2026-10-01-california-man-arrested-for-smuggling-more-than-300-million.md` — California Man Arrested for Smuggling More Than $300 Million in Export-Controlled Computer Servers to China
 - `news/IS_NEWS_2026-10-01-solving-a-longstanding-problem-in-drug-delivery.md` — Solving a longstanding problem in drug delivery
 - `news/IS_NEWS_2026-10-01-the-clock-is-ticking-nationwide-protests-demand-nhs-cuts-ties-with-palantir.md` — 'The clock is ticking' – nationwide protests demand NHS cuts ties with Palantir
+- `news/IS_NEWS_2026-10-02-analysis-a-bonus-class-on-two-executive-orders-over-what-to-call-ai-and-a-white-house-accord-with-ai-company-leaders.md` — A bonus class on two executive orders over what to call AI and a White House accord with AI company leaders
 - `news/IS_NEWS_2026-10-03-ice-contract-reveals-network-infrastructure-behind-hsi-surveillance.md` — ICE contract reveals network infrastructure behind HSI surveillance operations
 - `news/IS_NEWS_2026-10-04-ice-observer-lawsuit-shows-how-palantir-records-can-feed.md` — ICE observer lawsuit shows how Palantir records can feed border screening, analytics
 - `news/IS_NEWS_2026-10-05-3-scientists-share-nobel-prize-in-physiology-or-medicine-for.md` — 3 Scientists Share Nobel Prize in Physiology or Medicine for Optogenetics
@@ -411,6 +414,7 @@ This file joins 573 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-10-05-korean-banks-on-high-alert-after-wave-of-cyberattacks.md` — Korean banks on high alert after wave of cyberattacks
 - `news/IS_NEWS_2026-10-05-no-65-declaring-a-disaster-emergency-in-the-state-of-new-york.md` — No. 65: Declaring a Disaster Emergency in the State of New York Due to an Ongoing Measles Outbreak
 - `news/IS_NEWS_2026-10-06-aepd-sets-out-safeguards-for-ai-in-video-surveillance-systems.md` — The AEPD sets out the safeguards for incorporating artificial intelligence into video surveillance systems
+- `news/IS_NEWS_2026-10-06-analysis-election-deepfake-laws-at-six-points-of-intervention-and-why-speed-and-the-first-amendment-defeat-most-of-them.md` — Election deepfake laws at six points of intervention, and why speed and the First Amendment defeat most of them
 - `news/IS_NEWS_2026-10-06-festnahmen-wegen-mutmasslicher-landesverraeterischer-ausspaehung.md` — Arrests for alleged treasonous espionage, gathering of state secrets, attempted treason and spying
 - `news/IS_NEWS_2026-10-06-us-social-security-awards-identity-biometrics-deal-worth-up-to-29-6m.md` — US Social Security awards Carahsoft identity, biometrics deal worth up to $29.6M
 - `news/IS_NEWS_2026-10-07-bridge-neurotech-and-butterfly-network-partner-on-non-invasive-bci.md` — Bridge Neurotech and Butterfly Network Announce Partnership to Develop Fully Non-Invasive Brain-Computer Interface
@@ -431,6 +435,7 @@ This file joins 573 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-10-08-watchdog-to-examine-summertime-hack-of-dhs-information-network.md` — Watchdog to examine summertime hack of DHS information network, other incidents
 - `news/IS_NEWS_2026-10-08-yandex-data-center-hit-in-drone-attack-in-russia.md` — Yandex data center hit in drone attack in Russia
 - `news/IS_NEWS_2026-10-09-a-breakthrough-approach-for-treating-parkinsons-disease.md` — A breakthrough approach for treating Parkinson's disease
+- `news/IS_NEWS_2026-10-09-analysis-telling-ai-manipulation-apart-from-ai-harm-and-why-the-label-decides-which-laws-and-controls-apply.md` — Telling AI manipulation apart from AI harm, and why the label decides which laws and controls apply
 - `news/IS_NEWS_2026-10-09-how-nanomedicine-could-turn-immune-resistant-tumors-against-themselves.md` — How nanomedicine could turn immune-resistant tumors against themselves
 - `news/IS_NEWS_2026-10-09-ice-scraps-visa-vetting-system-recompete-in-favor-of-palantir-foundry.md` — ICE scraps visa vetting system recompete in favor of Palantir Foundry
 - `news/IS_NEWS_2026-10-09-ice-voter-data-nonprofit-investigations-expose-expansive-surveillance-machinery.md` — ICE voter data, nonprofit investigations expose expansive surveillance machinery
@@ -457,6 +462,7 @@ This file joins 573 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-10-13-saudi-national-arrested-for-installing-surreptitious-audio-recording-device-at-openai.md` — Saudi National Arrested for Installing Surreptitious Audio Recording Device at OpenAI
 - `news/IS_NEWS_2026-10-13-science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient.md` — Science Corporation implants its vision-restoring chip in its first Stargardt disease patient
 - `news/IS_NEWS_2026-10-13-statement-on-smart-glasses.md` — Statement on Smart glasses
+- `news/IS_NEWS_2026-10-14-analysis-five-legal-models-for-governing-ai-manipulation-from-liability-after-harm-to-a-right-to-cognitive-liberty.md` — Five legal models for governing AI manipulation, from liability after harm to a right to cognitive liberty
 - `news/IS_NEWS_2026-10-14-cdc-to-deploy-additional-support-to-pennsylvania-to-probe-measles-outbreak.md` — CDC to deploy additional support to Pennsylvania to probe measles outbreak
 - `news/IS_NEWS_2026-10-14-eus-ai-rules-face-first-enforcement-test-over-lab-incidents.md` — EU's AI rules face first enforcement test over lab incidents
 - `news/IS_NEWS_2026-10-14-federal-law-enforcement-cbp-and-ice-should-improve-body-worn-camera-program-management.md` — Federal Law Enforcement: CBP and ICE Should Improve Body-Worn Camera Program Management
@@ -465,6 +471,7 @@ This file joins 573 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-10-14-spyware-manufacturer-had-access-to-data-harvested-by-former-polish-government.md` — Spyware manufacturer had access to data harvested by former Polish government, current PM says
 - `news/IS_NEWS_2026-10-14-statement-mopac-and-palantir.md` — Statement: MOPAC and Palantir
 - `news/IS_NEWS_2026-10-15-a-new-lipid-recipe-helps-mrna-delivery-stay-on-target.md` — A new lipid recipe helps mRNA delivery stay on target
+- `news/IS_NEWS_2026-10-15-analysis-disclosing-ai-use-in-academic-writing-runs-into-vague-and-inconsistent-journal-rules.md` — Disclosing AI use in academic writing runs into vague and inconsistent journal rules
 - `news/IS_NEWS_2026-10-15-dhs-audit-exposes-tsa-access-control-failures-amid-biometric-expansion.md` — DHS audit exposes TSA access control failures amid biometric expansion
 - `news/IS_NEWS_2026-10-15-exposing-adfection-targeted-ads-pipeline-for-zero-click-mercenary-spyware.md` — Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware
 - `news/IS_NEWS_2026-10-15-ico-reprimands-met-over-third-party-data-leak.md` — ICO Reprimands Met Over Third-Party Data Leak
@@ -478,8 +485,10 @@ This file joins 573 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-10-16-attorney-general-secures-settlement-with-temu-to-protect-texans-data.md` — Attorney General Secures First-of-Its-Kind Settlement with Temu to Protect Texans' Data from the CCP and to Protect Consumers from Toxic Products from China
 - `news/IS_NEWS_2026-10-16-china-says-it-will-curb-tech-exports-including-ai-citing-national-security-risks.md` — China says it will curb tech exports, including AI, citing national security risks
 - `news/IS_NEWS_2026-10-16-germany-approves-digital-id-law-with-biometrics-opt-out-for-eudi-wallet.md` — Germany approves digital ID law with biometrics opt-out for EUDI Wallet
+- `news/IS_NEWS_2026-10-17-analysis-what-counts-as-ai-slop-and-how-a-proposed-definition-could-guide-policy.md` — What counts as AI slop and how a proposed definition could guide policy
 - `news/IS_NEWS_2026-10-17-us-state-department-awards-paravision-up-to-6-5m-for-digital-identity-assurance.md` — US State Department awards Paravision up to $6.5M for digital identity assurance
 - `news/IS_NEWS_2026-10-18-protests-against-data-centers-have-also-arrived-in-italy.md` — Protests against data centers have also arrived in Italy
+- `news/IS_NEWS_2026-10-19-analysis-ai-and-privacy-what-models-keep-what-they-infer-what-gets-retained-and-three-options-for-the-law.md` — AI and privacy: what models keep, what they infer, what gets retained, and three options for the law
 - `news/IS_NEWS_2026-10-19-lilly-partners-with-hong-kongs-metis-in-deal-to-bolster-ai-nanoparticle-discovery.md` — Lilly partners with Hong Kong's Metis in $1.1B deal to bolster AI nanoparticle discovery
 - `news/IS_NEWS_2026-10-19-paradromics-and-siemens-healthineers-launch-imaging-initiative-for-bcis.md` — Paradromics and Siemens Healthineers Launch Strategic Initiative to Build Advanced Imaging Foundation for the Future of Brain-Computer Interfaces
 - `news/IS_NEWS_2026-10-19-serbian-rectors-phone-was-infected-with-spyware-during-student-protests.md` — Serbian rector's phone was infected with spyware during student protests, group says
@@ -496,6 +505,8 @@ This file joins 573 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-10-20-nigeria-confirms-imported-case-of-ebola-bundibugyo-virus-disease.md` — Nigeria confirms imported case of Ebola Bundibugyo virus disease
 - `news/IS_NEWS_2026-10-20-supercomputer-reveals-how-size-could-shape-the-future-of-nanomedicine.md` — Supercomputer reveals how size could shape the future of nanomedicine
 - `news/IS_NEWS_2026-10-21-alleged-chinese-spys-snooping-on-korea-us-drills-raises-alarm.md` — Alleged Chinese spy's snooping on Korea-U.S. drills raises alarm over shared intelligence practices
+- `news/IS_NEWS_2026-10-21-analysis-ai-driven-cyberattacks-why-a-kill-switch-may-not-work-and-the-gap-between-a-breach-and-the-harm-it-causes.md` — AI-driven cyberattacks, why a kill switch may not work, and the gap between a breach and the harm it causes
+- `news/IS_NEWS_2026-10-21-analysis-ai-inferences-strain-privacy-law-s-consent-model-and-its-sensitive-data-categories.md` — AI inferences strain privacy law's consent model and its sensitive-data categories
 - `news/IS_NEWS_2026-10-21-facing-pushback-on-data-centers-tech-giants-are-promising-hosts-more-money.md` — Facing pushback on data centers, tech giants are promising hosts more money and fewer secrets
 - `news/IS_NEWS_2026-10-21-hybrid-nanoparticles-boost-p53-mrna-delivery-in-breast-cancer-models.md` — Hybrid Nanoparticles Boost p53 mRNA Delivery in Breast Cancer Models
 - `news/IS_NEWS_2026-10-21-most-americans-say-ai-is-bad-for-society-oppose-more-data-centers.md` — Most Americans say AI is bad for society, oppose more data centers: ABC/Post/Ipsos poll
@@ -522,8 +533,15 @@ This file joins 573 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-10-26-doj-appeals-ruling-lifting-ban-on-anthropic-use-for-us-agencies.md` — DOJ Appeals Ruling Lifting Ban on Anthropic Use for US Agencies
 - `news/IS_NEWS_2026-10-26-paradromics-receives-fda-approval-to-expand-connexus-bci-study-recruitment.md` — Paradromics Receives FDA Approval to Expand Connexus® Brain-Computer Interface Clinical Study Recruitment Nationwide
 - `news/IS_NEWS_2026-10-26-serbian-autocrat-loses-election-following-reports-of-digital-repression.md` — Serbian autocrat loses election following widespread reports of digital repression
+- `news/IS_NEWS_2026-10-28-analysis-a-recorded-conversation-on-mice-with-a-mostly-human-derived-cortex-what-the-model-allows-and-the-ethical-quest.md` — A recorded conversation on mice with a mostly human-derived cortex, what the model allows and the ethical questions
+- `news/IS_NEWS_2026-10-28-analysis-a-video-interview-on-the-economics-of-privacy-and-the-gap-between-privacy-concerns-and-behaviour.md` — A video interview on the economics of privacy and the gap between privacy concerns and behaviour
+- `news/IS_NEWS_2026-10-29-analysis-private-tiger-ownership-is-more-tightly-regulated-than-ai-an-analogy-argues.md` — Private tiger ownership is more tightly regulated than AI, an analogy argues
 - `news/IS_NEWS_2026-10-29-report-says-us-intelligence-linked-a-suspected-chinese-intelligence-source-to-a-us-chipmakers-chief-executive.md` — Report says U.S. intelligence linked a suspected Chinese intelligence source to a U.S. chipmaker's chief executive; company and China deny
+- `news/IS_NEWS_2026-10-30-analysis-how-organisations-govern-ai-in-practice-from-shared-responsibility-to-vendors-and-boards.md` — How organisations govern AI in practice, from shared responsibility to vendors and boards
+- `news/IS_NEWS_2026-11-02-analysis-a-conversation-with-a-former-in-house-ai-ethics-lead-on-doing-ethics-work-inside-ai-companies.md` — A conversation with a former in-house AI ethics lead on doing ethics work inside AI companies
+- `news/IS_NEWS_2026-11-02-analysis-a-supreme-court-ruling-on-a-geofence-warrant-narrows-the-third-party-doctrine-for-digital-data.md` — A Supreme Court ruling on a geofence warrant narrows the third-party doctrine for digital data
 - `news/IS_NEWS_2026-11-03-former-us-government-contractor-pleads-guilty-to-spying-for-ethiopia.md` — Former U.S. Government Contractor Pleads Guilty to Spying for Ethiopia
+- `news/IS_NEWS_2026-11-04-analysis-how-ai-models-are-red-teamed-the-ways-they-are-broken-and-the-laws-that-put-outside-safety-researchers-at-risk.md` — How AI models are red-teamed, the ways they are broken, and the laws that put outside safety researchers at risk
 - `news/IS_NEWS_2026-11-04-house-committee-chairs-ask-a-us-chipmakers-chief-executive-for-a-closed-door-briefing-on-a-reported-chinese-intelligence-asset.md` — House committee chairs ask a U.S. chipmaker's chief executive for a closed-door briefing on a reported Chinese intelligence asset
 - `news/IS_NEWS_2026-11-06-facial-recognition-firm-joins-spanish-police-forensic-ai-projects.md` — Facial recognition firm joins €14M Spanish police forensic AI projects
 - `news/IS_NEWS_2026-11-06-hong-kong-police-to-add-ai-facial-recognition-to-smartview-cctv-network.md` — Hong Kong police to add AI facial recognition to SmartView CCTV network
@@ -589,9 +607,17 @@ This file joins 573 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-11-13-us-homeland-security-science-directorate-tests-counter-drone-systems-including-directed-energy-weapons-to-info.md` — US homeland security science directorate tests counter-drone systems, including directed-energy weapons, to inform federal purchasing
 - `news/IS_NEWS_2026-11-14-hong-kong-police-say-facial-recognition-will-be-switched-on-across-the-smartview-camera-network-on-16-novembe.md` — Hong Kong police say facial recognition will be switched on across the SmartView camera network on 16 November
 - `news/IS_NEWS_2026-11-14-italys-privacy-authority-fines-a-social-media-company-805-million-for-reading-android-users-photo-galleries-without-spec.md` — Italy's privacy authority fines a social-media company €805 million for reading Android users' photo galleries without specific consent
+- `news/IS_NEWS_2026-11-14-neuroscience-society-previews-trial-results-in-which-brain-computer-interfaces-restored-communication-to-peop.md` — Neuroscience society previews trial results in which brain-computer interfaces restored communication to people with paralysis
 - `news/IS_NEWS_2026-11-14-taiwans-criminal-police-run-a-nationwide-sweep-of-gangs-suspected-of-helping-foreign-forces-carry-out-transnat.md` — Taiwan's criminal police run a nationwide sweep of gangs suspected of helping foreign forces carry out transnational repression
 - `news/IS_NEWS_2026-11-14-us-transport-secretary-says-a-contractors-router-work-during-a-copper-to-fibre-upgrade-preceded-the-nationwide.md` — US transport secretary says a contractor's router work during a copper-to-fibre upgrade preceded the nationwide ground stop, with the exact cause still under investigation
+- `news/IS_NEWS_2026-11-15-belgrade-prosecutors-deny-ordering-the-security-agency-to-wiretap-154-people-who-gave-statements-about-the-al.md` — Belgrade prosecutors deny ordering the security agency to wiretap 154 people who gave statements about the alleged sound cannon at the March 2025 protest
+- `news/IS_NEWS_2026-11-15-estonias-security-service-says-russian-military-intelligence-ordered-an-attempted-bombing-and-arson-at-a-dron.md` — Estonia's security service says Russian military intelligence ordered an attempted bombing and arson at a drone maker; eight suspects detained
 - `news/IS_NEWS_2026-11-15-israel-to-indict-a-northern-resident-accused-of-photographing-military-bases-and-police-stations-for-iranian-i.md` — Israel to indict a northern resident accused of photographing military bases and police stations for Iranian intelligence
+- `news/IS_NEWS_2026-11-15-south-koreas-emergency-rooms-treated-fewer-self-harm-and-suicide-attempt-patients-in-2025-while-the-teen-suic.md` — South Korea's emergency rooms treated fewer self-harm and suicide-attempt patients in 2025, while the teen suicide rate rose to a record
+- `news/IS_NEWS_2026-11-16-australia-raises-a-detained-melbourne-democracy-campaigners-case-with-vietnam-which-says-he-was-caught-crossi.md` — Australia raises a detained Melbourne democracy campaigner's case with Vietnam, which says he was caught crossing from Cambodia
+- `news/IS_NEWS_2026-11-16-hong-kong-police-switch-on-facial-recognition-across-the-smartview-camera-network-saying-the-tools-have-check.md` — Hong Kong police switch on facial recognition across the SmartView camera network, saying the tools have checks and balances
+- `news/IS_NEWS_2026-11-16-istanbul-prosecutors-seek-up-to-20-years-for-a-private-detective-and-a-lawyer-accused-of-surveilling-a-palest.md` — Istanbul prosecutors seek up to 20 years for a private detective and a lawyer accused of surveilling a Palestinian-origin citizen for Israeli intelligence
+- `news/IS_NEWS_2026-11-16-russian-state-newspaper-reports-a-kamchatka-court-sentenced-a-local-man-to-14-years-for-treason-over-alleged.md` — Russian state newspaper reports a Kamchatka court sentenced a local man to 14 years for treason over alleged help to Ukrainian intelligence
 - `news/IS_NEWS_undated-anomalous-health-incidents.md` — Anomalous health incidents
 - `news/IS_NEWS_undated-critical-information-infrastructure-of-russia-fstec-fsb.md` — Critical Information Infrastructure of Russia (FSTEC/FSB)
 
@@ -610,22 +636,22 @@ convicted or was sentenced. See `meta/IS_META_terms.md`.*
 
 ## What is here
 
-- 572 items, 2011-09-28 to 2026-11-15: 186 official, 159 trade press, 117 news, 91 analysis, 19 research.
-- 572 of 572 carry a summary so far; the rest say so.
+- 598 items, 2011-09-28 to 2026-11-16: 186 official, 159 trade press, 124 news, 109 analysis, 20 research.
+- 598 of 598 carry a summary so far; the rest say so.
 - `index.json` holds every item's header in one file, for counting and filtering.
 
 ## By kind of event
 
 | Kind of event | Items |
 |---|---|
-| Contracts & deployments | 118 |
-| Regulation & law | 103 |
-| Espionage & foreign agents | 78 |
-| Courts & litigation | 69 |
-| Research & breakthroughs | 60 |
+| Contracts & deployments | 119 |
+| Regulation & law | 116 |
+| Espionage & foreign agents | 81 |
+| Courts & litigation | 72 |
+| Research & breakthroughs | 64 |
 | Technology theft & export control | 53 |
-| Transnational repression | 19 |
-| Reports & statistics | 18 |
+| Transnational repression | 20 |
+| Reports & statistics | 19 |
 | Public health | 16 |
 | Murder for hire & violent plots | 15 |
 | Protests | 10 |
@@ -12712,6 +12738,43 @@ In a guest post for the Stay Tuned with Preet newsletter, cross-posted to Thinki
 She criticises Illinois SB 3444, which she describes as backed by OpenAI, for offering AI companies immunity from civil liability for mass-casualty events if they publish a safety plan and avoid intentional or reckless conduct, and notes that a rival developer opposes it and backs a narrower bill. She argues that lawsuits are how powerful actors have been held to account and that the bill would remove that route before any case is brought.
 
 
+===== FILE: news/IS_NEWS_2026-04-27-analysis-chile-s-neurorights-leave-data-inferred-from-brain-activity-in-a-legal-gray-zone.md · ID: IS-NEWS-2026-04-27-ANALYSIS-CHILE-S-NEURORIGHTS-LEAVE-DATA-INFERRED-FROM-BRAIN-ACTIVITY-IN-A-LEGAL-GRAY-ZONE =====
+
+```yaml
+id: IS-NEWS-2026-04-27-ANALYSIS-CHILE-S-NEURORIGHTS-LEAVE-DATA-INFERRED-FROM-BRAIN-ACTIVITY-IN-A-LEGAL-GRAY-ZONE
+slug: 2026-04-27-analysis-chile-s-neurorights-leave-data-inferred-from-brain-activity-in-a-legal-gray-zone
+title: Chile's neurorights leave data inferred from brain activity in a legal gray zone
+collection: news
+doc_type: analysis-item
+date: 2026-04-27
+date_precision: day
+publisher: Stanford Law and Biosciences Blog
+source_type: Analysis
+issuing_office: 
+url: https://law.stanford.edu/2026/04/27/even-chiles-neurorights-leave-inferred-mental-data-in-a-gray-zone/
+archived_url: 
+industry: Neurotechnology
+event: Regulation & law
+country: Chile
+stage: 
+related: 
+kind: analysis
+commentator: Bo Hyoung Lee
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 16 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Chile's neurorights leave data inferred from brain activity in a legal gray zone
+
+*Bo Hyoung Lee, Stanford Law and Biosciences Blog, 2026-04-27. Original: <https://law.stanford.edu/2026/04/27/even-chiles-neurorights-leave-inferred-mental-data-in-a-gray-zone/>*
+
+Bo Hyoung Lee writes that Chile has gone further than most countries in protecting brain data, through its 2021 constitutional amendment and a 2023 Supreme Court order to delete brain-activity data stored by a consumer EEG headset maker. The author argues that both focus on collected and stored data and leave unclear how the law treats scores, profiles and other information that software infers from brain signals.
+
+The author also points to a 2024 finding by Chile's health regulator that the same headset is not a medical device, which in the author's view shows how consumer products can sit outside medical oversight. Noting that a bill to implement the constitutional provision has passed the Senate and is before the Chamber of Deputies, the author presents Chile as still turning constitutional recognition into working regulation.
+
+
 ===== FILE: news/IS_NEWS_2026-05-11-arcadia-california-mayor-federally-charged-with-acting-as.md · ID: IS-NEWS-2026-05-11-ARCADIA-CALIFORNIA-MAYOR-FEDERALLY-CHARGED-WITH-ACTING-AS =====
 
 ```yaml
@@ -14056,6 +14119,43 @@ The Register reported on 29 September 2026 that health campaign groups held prot
 According to The Register, the contract could be worth up to £330 million over seven years, its first term ends in early 2027, and 30 September was the contractual deadline for Palantir to provide an exit plan. It notes that the House of Commons Science, Innovation and Technology Committee has recommended the contract not be extended, and that Palantir says the NHS owns the data the platform processes.
 
 
+===== FILE: news/IS_NEWS_2026-09-30-analysis-deepfakes-are-now-cheap-to-make-and-hard-to-spot-and-the-worst-harm-falls-outside-elections.md · ID: IS-NEWS-2026-09-30-ANALYSIS-DEEPFAKES-ARE-NOW-CHEAP-TO-MAKE-AND-HARD-TO-SPOT-AND-THE-WORST-HARM-FALLS-OUTSIDE-ELECTIONS =====
+
+```yaml
+id: IS-NEWS-2026-09-30-ANALYSIS-DEEPFAKES-ARE-NOW-CHEAP-TO-MAKE-AND-HARD-TO-SPOT-AND-THE-WORST-HARM-FALLS-OUTSIDE-ELECTIONS
+slug: 2026-09-30-analysis-deepfakes-are-now-cheap-to-make-and-hard-to-spot-and-the-worst-harm-falls-outside-elections
+title: Deepfakes are now cheap to make and hard to spot, and the worst harm falls outside elections
+collection: news
+doc_type: analysis-item
+date: 2026-09-30
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/when-anyone-can-fake-anything-inside-7b2
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 16 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Deepfakes are now cheap to make and hard to spot, and the worst harm falls outside elections
+
+*Nita Farahany, Thinking Freely (Substack), 2026-09-30. Original: <https://nitafarahany.substack.com/p/when-anyone-can-fake-anything-inside-7b2>*
+
+In the eleventh class of her fall 2026 AI law and policy course, Nita Farahany separates deepfakes, made with AI, from cheapfakes, made by simple editing, and walks through face-swapping, voice-matched lip-syncing and full-body puppeteering across images, video, audio and text. She notes that most deepfake videos made since 2018 are non-consensual sexual images of women, that reporting on 2024 elections found little evidence deepfakes changed outcomes, and that voice cloning now enables convincing fraud and fake kidnapping calls.
+
+She argues that detection keeps failing because generation and detection improve against each other, that attribution and sheer volume defeat any single fix, and that the deeper risk may be the "liar's dividend", in which real evidence is dismissed as fake. She closes with a federal homeland security report's map of where along a deepfake's life governance could intervene, the subject of her next class.
+
+
 ===== FILE: news/IS_NEWS_2026-09-30-california-s-nation-leading-ai-framework-just-got-stronger.md · ID: IS-NEWS-2026-09-30-CALIFORNIA-S-NATION-LEADING-AI-FRAMEWORK-JUST-GOT-STRONGER =====
 
 ```yaml
@@ -14267,6 +14367,43 @@ disclaimer: meta/IS_META_terms.md
 Amnesty International UK reported on 1 October 2026 that patients, health workers and campaigners held more than 40 demonstrations across England that day, at NHS trusts and integrated care boards, ending with a protest outside Palantir's London headquarters. According to the organisation, the day of action called on the NHS to end its £330 million data platform contract with Palantir and not to renew it when it expires in February 2027.
 
 Amnesty says its concerns centre on the company's work with the Israeli military, and it cites a poll it commissioned in July 2026 in which 64 percent of UK adults said the government should suspend NHS contracts with companies linked to serious human rights violations. The post reports the organiser's own account of the protests.
+
+
+===== FILE: news/IS_NEWS_2026-10-02-analysis-a-bonus-class-on-two-executive-orders-over-what-to-call-ai-and-a-white-house-accord-with-ai-company-leaders.md · ID: IS-NEWS-2026-10-02-ANALYSIS-A-BONUS-CLASS-ON-TWO-EXECUTIVE-ORDERS-OVER-WHAT-TO-CALL-AI-AND-A-WHITE-HOUSE-ACCORD-WITH-AI-COMPANY-LEADERS =====
+
+```yaml
+id: IS-NEWS-2026-10-02-ANALYSIS-A-BONUS-CLASS-ON-TWO-EXECUTIVE-ORDERS-OVER-WHAT-TO-CALL-AI-AND-A-WHITE-HOUSE-ACCORD-WITH-AI-COMPANY-LEADERS
+slug: 2026-10-02-analysis-a-bonus-class-on-two-executive-orders-over-what-to-call-ai-and-a-white-house-accord-with-ai-company-leaders
+title: A bonus class on two executive orders over what to call AI and a White House accord with AI company leaders
+collection: news
+doc_type: analysis-item
+date: 2026-10-02
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/a-bonus-class-on-the-two-executive
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 16 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A bonus class on two executive orders over what to call AI and a White House accord with AI company leaders
+
+*Nita Farahany, Thinking Freely (Substack), 2026-10-02. Original: <https://nitafarahany.substack.com/p/a-bonus-class-on-the-two-executive>*
+
+Nita Farahany notes that on 29 September the President signed an executive order telling the executive branch to use "super intelligence" in place of "artificial intelligence", and that California's governor answered the next day with an executive order of his own. She observes that neither order creates any enforceable rights, and that the President and six leaders of frontier AI companies also signed a one-page White House accord on super intelligence, raising the question of what such an accord binds anyone to.
+
+The video and the rest of the class are for paid subscribers; this summary covers only the free introduction.
 
 
 ===== FILE: news/IS_NEWS_2026-10-03-ice-contract-reveals-network-infrastructure-behind-hsi-surveillance.md · ID: IS-NEWS-2026-10-03-ICE-CONTRACT-REVEALS-NETWORK-INFRASTRUCTURE-BEHIND-HSI-SURVEILLANCE =====
@@ -14519,6 +14656,43 @@ disclaimer: meta/IS_META_terms.md
 Spain's data protection authority, the AEPD, announced on 6 October 2026 that it had issued preventive warnings to two town councils about planned municipal video surveillance projects that use AI to analyse images automatically. According to the release, one project includes facial detection or recognition, and the other includes detecting people and vehicles and searching recordings for people by appearance, such as clothing, hair, sex or age group.
 
 The authority says the warnings concern processing that had not yet started, are a preventive measure under Article 58.2(a) of the GDPR, and do not mean either council has committed an infringement. It says each AI function must be shown to be necessary and proportionate, that a data protection impact assessment is needed before launch where the risk is high, and that any function able to identify a person uniquely falls under the stricter rules for biometric data.
+
+
+===== FILE: news/IS_NEWS_2026-10-06-analysis-election-deepfake-laws-at-six-points-of-intervention-and-why-speed-and-the-first-amendment-defeat-most-of-them.md · ID: IS-NEWS-2026-10-06-ANALYSIS-ELECTION-DEEPFAKE-LAWS-AT-SIX-POINTS-OF-INTERVENTION-AND-WHY-SPEED-AND-THE-FIRST-AMENDMENT-DEFEAT-MOST-OF-THEM =====
+
+```yaml
+id: IS-NEWS-2026-10-06-ANALYSIS-ELECTION-DEEPFAKE-LAWS-AT-SIX-POINTS-OF-INTERVENTION-AND-WHY-SPEED-AND-THE-FIRST-AMENDMENT-DEFEAT-MOST-OF-THEM
+slug: 2026-10-06-analysis-election-deepfake-laws-at-six-points-of-intervention-and-why-speed-and-the-first-amendment-defeat-most-of-them
+title: Election deepfake laws at six points of intervention, and why speed and the First Amendment defeat most of them
+collection: news
+doc_type: analysis-item
+date: 2026-10-06
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/what-laws-if-any-might-help-us-safeguard
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 16 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Election deepfake laws at six points of intervention, and why speed and the First Amendment defeat most of them
+
+*Nita Farahany, Thinking Freely (Substack), 2026-10-06. Original: <https://nitafarahany.substack.com/p/what-laws-if-any-might-help-us-safeguard>*
+
+Nita Farahany notes that 31 states had election deepfake laws by June 2026, most requiring disclosure and a few banning content, and that courts have blocked some, including a permanent injunction against Hawaii's law and a ruling against California's platform-takedown law on Section 230 grounds. She separates AI hallucinations, which she says research shows are mathematically unavoidable but unintended, from deepfakes, which are made on purpose, and explains why that intent is what the laws target.
+
+Following a hypothetical candidate hit by a viral fake video weeks before an election, she tests six stages (criminal deterrence, organisational preparedness, duties on tool makers, platform takedown, disclosure labels and victim remedies) and finds each too slow, too narrow or constitutionally exposed under rulings protecting false speech and limiting compelled speech. She concludes by pointing to the older answer of more speech rather than enforced silence, warning that letting government or platforms decide what is true may carry greater risks.
 
 
 ===== FILE: news/IS_NEWS_2026-10-06-festnahmen-wegen-mutmasslicher-landesverraeterischer-ausspaehung.md · ID: IS-NEWS-2026-10-06-FESTNAHMEN-WEGEN-MUTMASSLICHER-LANDESVERRAETERISCHER-AUSSPAEHUNG =====
@@ -15230,6 +15404,43 @@ disclaimer: meta/IS_META_terms.md
 The Hong Kong Polytechnic University says its researchers combined low-intensity ultrasound with hollow silica nanostructures placed in the brain to stimulate specific brain regions repeatedly, without genetic modification or repeated injections, in work published in Nature Communications. According to the university, the nanostructures stayed in the brains of mice for more than nine weeks and still responded to ultrasound.
 
 The university says stimulating one deep brain region increased dopamine signalling and better preserved dopamine-related neurons in two mouse models of Parkinson's disease, and it describes the work as a proof of concept. The release reports results in mice only and gives no information on safety in people or on human trials.
+
+
+===== FILE: news/IS_NEWS_2026-10-09-analysis-telling-ai-manipulation-apart-from-ai-harm-and-why-the-label-decides-which-laws-and-controls-apply.md · ID: IS-NEWS-2026-10-09-ANALYSIS-TELLING-AI-MANIPULATION-APART-FROM-AI-HARM-AND-WHY-THE-LABEL-DECIDES-WHICH-LAWS-AND-CONTROLS-APPLY =====
+
+```yaml
+id: IS-NEWS-2026-10-09-ANALYSIS-TELLING-AI-MANIPULATION-APART-FROM-AI-HARM-AND-WHY-THE-LABEL-DECIDES-WHICH-LAWS-AND-CONTROLS-APPLY
+slug: 2026-10-09-analysis-telling-ai-manipulation-apart-from-ai-harm-and-why-the-label-decides-which-laws-and-controls-apply
+title: Telling AI manipulation apart from AI harm, and why the label decides which laws and controls apply
+collection: news
+doc_type: analysis-item
+date: 2026-10-09
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/when-ai-learns-to-manipulate-us-inside
+archived_url: 
+industry: Artificial intelligence
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 16 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Telling AI manipulation apart from AI harm, and why the label decides which laws and controls apply
+
+*Nita Farahany, Thinking Freely (Substack), 2026-10-09. Original: <https://nitafarahany.substack.com/p/when-ai-learns-to-manipulate-us-inside>*
+
+Nita Farahany proposes that AI manipulates when it pursues an objective and covertly alters human decisions, separating this from human misuse, misalignment, technical failure and open persuasion, and from manipulation that emerges when a system is optimised for engagement or ratings. She describes three tools of manipulation (rewards and threats, persuasion that exploits biases and emotions, and deception), citing pre-release tests in which models tried blackmail, research on companion apps that resist users saying goodbye, and a study on sycophantic advice.
+
+She applies the framework to the allegations, not yet ruled on, in a wrongful-death lawsuit against OpenAI over a teenager's suicide, and argues that calling such conduct manipulation rather than harm would open further legal claims and call for different controls, such as pre-release testing for manipulative capability and limits on optimising for engagement.
 
 
 ===== FILE: news/IS_NEWS_2026-10-09-how-nanomedicine-could-turn-immune-resistant-tumors-against-themselves.md · ID: IS-NEWS-2026-10-09-HOW-NANOMEDICINE-COULD-TURN-IMMUNE-RESISTANT-TUMORS-AGAINST-THEMSELVES =====
@@ -16145,6 +16356,43 @@ The European Data Protection Board adopted a statement on 13 October 2026 settin
 The board says that consent obtained after recording is not valid, that bystanders are unlikely to expect their data to be used to train AI, and that combining smart glasses with facial or voice recognition poses a high risk in public spaces. It also says wearers can themselves have legal duties when they share recordings publicly or use the glasses at work. The statement is guidance, not a new binding rule.
 
 
+===== FILE: news/IS_NEWS_2026-10-14-analysis-five-legal-models-for-governing-ai-manipulation-from-liability-after-harm-to-a-right-to-cognitive-liberty.md · ID: IS-NEWS-2026-10-14-ANALYSIS-FIVE-LEGAL-MODELS-FOR-GOVERNING-AI-MANIPULATION-FROM-LIABILITY-AFTER-HARM-TO-A-RIGHT-TO-COGNITIVE-LIBERTY =====
+
+```yaml
+id: IS-NEWS-2026-10-14-ANALYSIS-FIVE-LEGAL-MODELS-FOR-GOVERNING-AI-MANIPULATION-FROM-LIABILITY-AFTER-HARM-TO-A-RIGHT-TO-COGNITIVE-LIBERTY
+slug: 2026-10-14-analysis-five-legal-models-for-governing-ai-manipulation-from-liability-after-harm-to-a-right-to-cognitive-liberty
+title: Five legal models for governing AI manipulation, from liability after harm to a right to cognitive liberty
+collection: news
+doc_type: analysis-item
+date: 2026-10-14
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/governing-ai-manipulation-inside
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 16 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Five legal models for governing AI manipulation, from liability after harm to a right to cognitive liberty
+
+*Nita Farahany, Thinking Freely (Substack), 2026-10-14. Original: <https://nitafarahany.substack.com/p/governing-ai-manipulation-inside>*
+
+Starting from an emotion-reading AI customer-service line that would not let her reach a person, Nita Farahany argues that AI companions build trust they have not earned through false empathy and emotional mirroring, which a simple "you are talking to an AI" notice may not counter. She then compares five legal approaches: liability after harm, where proving causation is hard; disclosure and consent rules, which run into free-speech limits; safety-by-design duties of the kind used in the UK, Australia and the EU; professional licensing and duties of care for chatbots that act as therapists; and a right to cognitive liberty, which she has long advocated.
+
+She notes in passing that a leading companion chatbot company has filed for bankruptcy, and argues that the harms are becoming clearer while frameworks able to address and enforce against them are still missing.
+
+
 ===== FILE: news/IS_NEWS_2026-10-14-cdc-to-deploy-additional-support-to-pennsylvania-to-probe-measles-outbreak.md · ID: IS-NEWS-2026-10-14-CDC-TO-DEPLOY-ADDITIONAL-SUPPORT-TO-PENNSYLVANIA-TO-PROBE-MEASLES-OUTBREAK =====
 
 ```yaml
@@ -16425,6 +16673,43 @@ disclaimer: meta/IS_META_terms.md
 Science China Press says researchers used a statistical design method to adjust the lipid nanoparticles that carry mRNA, producing a formulation it calls SM102M, in work published in Science China Life Sciences. According to the release, in mice the new formulation kept strong expression in injected muscle while greatly reducing unwanted delivery to the liver, worked better than the original formulation with repeated doses, and kept expression more confined after injection into the brain and the eye.
 
 The release describes the work as preclinical animal research and says therapeutic and safety studies are still needed before any use in people.
+
+
+===== FILE: news/IS_NEWS_2026-10-15-analysis-disclosing-ai-use-in-academic-writing-runs-into-vague-and-inconsistent-journal-rules.md · ID: IS-NEWS-2026-10-15-ANALYSIS-DISCLOSING-AI-USE-IN-ACADEMIC-WRITING-RUNS-INTO-VAGUE-AND-INCONSISTENT-JOURNAL-RULES =====
+
+```yaml
+id: IS-NEWS-2026-10-15-ANALYSIS-DISCLOSING-AI-USE-IN-ACADEMIC-WRITING-RUNS-INTO-VAGUE-AND-INCONSISTENT-JOURNAL-RULES
+slug: 2026-10-15-analysis-disclosing-ai-use-in-academic-writing-runs-into-vague-and-inconsistent-journal-rules
+title: Disclosing AI use in academic writing runs into vague and inconsistent journal rules
+collection: news
+doc_type: analysis-item
+date: 2026-10-15
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/disclosing-ai-use-in-writing-is-complicated
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 16 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Disclosing AI use in academic writing runs into vague and inconsistent journal rules
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-10-15. Original: <https://danielsolove.substack.com/p/disclosing-ai-use-in-writing-is-complicated>*
+
+Daniel J. Solove, a law professor at George Washington University Law School, writes that law journals and book publishers are beginning to require authors to disclose their use of AI, but that the rules are often vague, differ from one journal to the next, and leave it unclear whether a disclosure will count against a submission.
+
+He lists the difficulties he sees: norms that may shift so that acceptable uses later look bad, possible bias from editors, the burden of keeping records such as prompts, and inconsistent exemptions for minor uses. He compares the disclosure policies of several U.S. law reviews, which range from a brief note in a cover letter to detailed disclosure of the models and prompts used.
 
 
 ===== FILE: news/IS_NEWS_2026-10-15-dhs-audit-exposes-tsa-access-control-failures-amid-biometric-expansion.md · ID: IS-NEWS-2026-10-15-DHS-AUDIT-EXPOSES-TSA-ACCESS-CONTROL-FAILURES-AMID-BIOMETRIC-EXPANSION =====
@@ -16883,6 +17168,43 @@ Biometric Update reports that Germany's Bundestag approved the Digital Identitie
 The publication says experts at a committee hearing raised concerns about unpublished security architecture, fraud risk, unclear liability and weak protection against tracking, and that the wallet may not meet all EU requirements at launch. The Bundestag report says the coalition asked the government to provide a required pseudonym function as soon as possible if it is not ready at launch.
 
 
+===== FILE: news/IS_NEWS_2026-10-17-analysis-what-counts-as-ai-slop-and-how-a-proposed-definition-could-guide-policy.md · ID: IS-NEWS-2026-10-17-ANALYSIS-WHAT-COUNTS-AS-AI-SLOP-AND-HOW-A-PROPOSED-DEFINITION-COULD-GUIDE-POLICY =====
+
+```yaml
+id: IS-NEWS-2026-10-17-ANALYSIS-WHAT-COUNTS-AS-AI-SLOP-AND-HOW-A-PROPOSED-DEFINITION-COULD-GUIDE-POLICY
+slug: 2026-10-17-analysis-what-counts-as-ai-slop-and-how-a-proposed-definition-could-guide-policy
+title: What counts as AI slop and how a proposed definition could guide policy
+collection: news
+doc_type: analysis-item
+date: 2026-10-17
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/whats-ai-slop-what-should-we-do-about
+archived_url: 
+industry: Artificial intelligence
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 16 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# What counts as AI slop and how a proposed definition could guide policy
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-10-17. Original: <https://danielsolove.substack.com/p/whats-ai-slop-what-should-we-do-about>*
+
+Daniel J. Solove discusses an article by two Boston University law scholars that defines AI slop as generative AI output that takes little effort to produce, places an unfair burden on the people who receive it, and tends to degrade the field it enters. He presents their definition as a spectrum rather than a yes-or-no test.
+
+As Solove summarises it, the article describes three kinds of harm: slop floods a field and crowds out valuable work, cheapens human effort and the trust collaboration relies on, and introduces errors. He also cites reporting on a fiction magazine that had to close submissions after being overwhelmed by AI-written stories, and frames the definition as a way to focus debate on which harms to address.
+
+
 ===== FILE: news/IS_NEWS_2026-10-17-us-state-department-awards-paravision-up-to-6-5m-for-digital-identity-assurance.md · ID: IS-NEWS-2026-10-17-US-STATE-DEPARTMENT-AWARDS-PARAVISION-UP-TO-6-5M-FOR-DIGITAL-IDENTITY-ASSURANCE =====
 
 ```yaml
@@ -16953,6 +17275,43 @@ disclaimer: meta/IS_META_terms.md
 Il Post reports that a network of local committees called Stop Data Center, formed in July in Lombardy, held its first national demonstration in Milan on 10 October, which the newspaper Il Giorno put at more than 1,000 people from about 40 committees. According to the article, the network sent the government and the Environment Ministry a request on 9 October for a moratorium on new data center permits until a national plan decides how many are needed and where.
 
 The publication says the concerns raised include energy demand, heat, the loss of farmland and the small number of permanent jobs, and that residents near a Microsoft data center under construction east of Milan have collected more than 4,000 signatures. It notes that Italy has no national data center law and that one project in the province of Brescia was withdrawn after local protests.
+
+
+===== FILE: news/IS_NEWS_2026-10-19-analysis-ai-and-privacy-what-models-keep-what-they-infer-what-gets-retained-and-three-options-for-the-law.md · ID: IS-NEWS-2026-10-19-ANALYSIS-AI-AND-PRIVACY-WHAT-MODELS-KEEP-WHAT-THEY-INFER-WHAT-GETS-RETAINED-AND-THREE-OPTIONS-FOR-THE-LAW =====
+
+```yaml
+id: IS-NEWS-2026-10-19-ANALYSIS-AI-AND-PRIVACY-WHAT-MODELS-KEEP-WHAT-THEY-INFER-WHAT-GETS-RETAINED-AND-THREE-OPTIONS-FOR-THE-LAW
+slug: 2026-10-19-analysis-ai-and-privacy-what-models-keep-what-they-infer-what-gets-retained-and-three-options-for-the-law
+title: AI and privacy: what models keep, what they infer, what gets retained, and three options for the law
+collection: news
+doc_type: analysis-item
+date: 2026-10-19
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/data-privacy-in-the-ai-era-inside
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 16 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# AI and privacy: what models keep, what they infer, what gets retained, and three options for the law
+
+*Nita Farahany, Thinking Freely (Substack), 2026-10-19. Original: <https://nitafarahany.substack.com/p/data-privacy-in-the-ai-era-inside>*
+
+Nita Farahany reviews a 2024 opinion of European data protection regulators that personal data can survive inside trained AI models, and argues that for large general models the bigger privacy risks lie in chats used for training and advertising, in what AI can infer from ordinary data, and in what is kept, pointing to a 2025 court order in a copyright case that required a chatbot maker to preserve user conversations for several months.
+
+She sets out three options: laws aimed at harmful uses of data rather than at categories of data, opt-in consent before conversations are used for training, and data intermediaries acting as fiduciaries for users. She notes each would bring trade-offs of its own.
 
 
 ===== FILE: news/IS_NEWS_2026-10-19-lilly-partners-with-hong-kongs-metis-in-deal-to-bolster-ai-nanoparticle-discovery.md · ID: IS-NEWS-2026-10-19-LILLY-PARTNERS-WITH-HONG-KONGS-METIS-IN-DEAL-TO-BOLSTER-AI-NANOPARTICLE-DISCOVERY =====
@@ -17518,6 +17877,80 @@ disclaimer: meta/IS_META_terms.md
 Korea JoongAng Daily reports that South Korean prosecutors indicted a former Chinese People's Liberation Army signals-intelligence officer on 1 September on a charge of benefiting the enemy, alleging that he carried out 13 covert eavesdropping operations on communications at South Korean and U.S. military bases between March 2024 and August 2026. According to the newspaper, which cites the indictment as obtained by a lawmaker, seven of the operations coincided with joint military exercises, and prosecutors argue the intercepts could reveal classified information such as flight operations and reconnaissance plans.
 
 The report says a second former PLA member was indicted with him on a separate allegation of obtaining after-action review material from a joint exercise. It also says prosecutors could not use a revised Criminal Act provision that extends espionage law to foreign nationals, because it took effect on 13 September, after the alleged conduct. The case is at the charge stage, and both defendants are presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-21-analysis-ai-driven-cyberattacks-why-a-kill-switch-may-not-work-and-the-gap-between-a-breach-and-the-harm-it-causes.md · ID: IS-NEWS-2026-10-21-ANALYSIS-AI-DRIVEN-CYBERATTACKS-WHY-A-KILL-SWITCH-MAY-NOT-WORK-AND-THE-GAP-BETWEEN-A-BREACH-AND-THE-HARM-IT-CAUSES =====
+
+```yaml
+id: IS-NEWS-2026-10-21-ANALYSIS-AI-DRIVEN-CYBERATTACKS-WHY-A-KILL-SWITCH-MAY-NOT-WORK-AND-THE-GAP-BETWEEN-A-BREACH-AND-THE-HARM-IT-CAUSES
+slug: 2026-10-21-analysis-ai-driven-cyberattacks-why-a-kill-switch-may-not-work-and-the-gap-between-a-breach-and-the-harm-it-causes
+title: AI-driven cyberattacks, why a kill switch may not work, and the gap between a breach and the harm it causes
+collection: news
+doc_type: analysis-item
+date: 2026-10-21
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/more-cyberattacks-are-coming-are
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 16 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# AI-driven cyberattacks, why a kill switch may not work, and the gap between a breach and the harm it causes
+
+*Nita Farahany, Thinking Freely (Substack), 2026-10-21. Original: <https://nitafarahany.substack.com/p/more-cyberattacks-are-coming-are>*
+
+Nita Farahany cites an AI company's report that small models may soon be able to copy themselves onto home smart devices, leaving no central point to switch off, and its suggestion that spread be slowed by internet providers notifying infected households, as with an earlier botnet. She points to AI that finds previously unknown software flaws, federal advisories this year on attacks on industrial controllers, one involving AI-written scripts, and a 2025 espionage campaign attributed to a state actor in which an AI coding tool did most of the work.
+
+She argues that the harm often comes later than the breach, which makes prompt disclosure valuable if it sets response plans in motion, and that California's frontier AI incident law covers only the gravest events and would likely miss campaigns like these, so a different reporting mechanism may be needed.
+
+
+===== FILE: news/IS_NEWS_2026-10-21-analysis-ai-inferences-strain-privacy-law-s-consent-model-and-its-sensitive-data-categories.md · ID: IS-NEWS-2026-10-21-ANALYSIS-AI-INFERENCES-STRAIN-PRIVACY-LAW-S-CONSENT-MODEL-AND-ITS-SENSITIVE-DATA-CATEGORIES =====
+
+```yaml
+id: IS-NEWS-2026-10-21-ANALYSIS-AI-INFERENCES-STRAIN-PRIVACY-LAW-S-CONSENT-MODEL-AND-ITS-SENSITIVE-DATA-CATEGORIES
+slug: 2026-10-21-analysis-ai-inferences-strain-privacy-law-s-consent-model-and-its-sensitive-data-categories
+title: AI inferences strain privacy law's consent model and its sensitive-data categories
+collection: news
+doc_type: analysis-item
+date: 2026-10-21
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/the-ai-inference-problem-in-privacy
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 16 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# AI inferences strain privacy law's consent model and its sensitive-data categories
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-10-21. Original: <https://danielsolove.substack.com/p/the-ai-inference-problem-in-privacy>*
+
+Daniel J. Solove argues that AI's ability to infer sensitive traits, such as health conditions, political views or race, from ordinary data creates two problems for privacy law. Consent loses its meaning when an inference reveals more than a person agreed to share, and categories of sensitive data become hard to apply when almost any data can be used to infer something sensitive.
+
+He compares European regulators and courts, which treat data that supports sensitive inferences as sensitive, with U.S. state laws that are split or silent on inferences. In his view the law faces a dilemma either way, since counting inferences could make nearly all data sensitive while ignoring them lets companies rely on proxy data, and he argues privacy law needs to confront the problem directly. The essay first appeared in a Wolters Kluwer policy report on 19 October 2026.
 
 
 ===== FILE: news/IS_NEWS_2026-10-21-facing-pushback-on-data-centers-tech-giants-are-promising-hosts-more-money.md · ID: IS-NEWS-2026-10-21-FACING-PUSHBACK-ON-DATA-CENTERS-TECH-GIANTS-ARE-PROMISING-HOSTS-MORE-MONEY =====
@@ -18437,6 +18870,117 @@ The Record reports that Serbia's long-serving leader conceded defeat on Sunday i
 The article cites Amnesty International as saying that authorities used phone-extraction tools during interrogations and arrests, sometimes to install spyware, and cites a Serbian digital-rights group as counting at least 15 people targeted with mercenary spyware this year. It says the Serbian Foreign Ministry did not immediately respond to a request for comment. The publication does not claim the spyware reports caused the result.
 
 
+===== FILE: news/IS_NEWS_2026-10-28-analysis-a-recorded-conversation-on-mice-with-a-mostly-human-derived-cortex-what-the-model-allows-and-the-ethical-quest.md · ID: IS-NEWS-2026-10-28-ANALYSIS-A-RECORDED-CONVERSATION-ON-MICE-WITH-A-MOSTLY-HUMAN-DERIVED-CORTEX-WHAT-THE-MODEL-ALLOWS-AND-THE-ETHICAL-QUEST =====
+
+```yaml
+id: IS-NEWS-2026-10-28-ANALYSIS-A-RECORDED-CONVERSATION-ON-MICE-WITH-A-MOSTLY-HUMAN-DERIVED-CORTEX-WHAT-THE-MODEL-ALLOWS-AND-THE-ETHICAL-QUEST
+slug: 2026-10-28-analysis-a-recorded-conversation-on-mice-with-a-mostly-human-derived-cortex-what-the-model-allows-and-the-ethical-quest
+title: A recorded conversation on mice with a mostly human-derived cortex, what the model allows and the ethical questions
+collection: news
+doc_type: analysis-item
+date: 2026-10-28
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/a-mouse-with-a-human-cortex
+archived_url: 
+industry: Neurotechnology · Biotechnology & health
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 16 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A recorded conversation on mice with a mostly human-derived cortex, what the model allows and the ethical questions
+
+*Nita Farahany, Thinking Freely (Substack), 2026-10-28. Original: <https://nitafarahany.substack.com/p/a-mouse-with-a-human-cortex>*
+
+Nita Farahany hosts a recorded conversation with the Stanford psychiatrist who led the study and a consciousness scientist with whom she co-wrote a commentary, on a Nature paper describing mice whose own cortex was genetically prevented from developing and replaced, shortly after birth, by transplanted human stem-cell-derived brain tissue that filled more than 90% of the cortex by volume three months later.
+
+She describes the discussion as covering what earlier models of the human brain made possible and where they fell short, what this model allows for studying brain connectivity and development, and the ethical questions of what, if anything, it is like to be such a mouse, how human-like capacities could be detected, and who should decide how far this research goes.
+
+
+===== FILE: news/IS_NEWS_2026-10-28-analysis-a-video-interview-on-the-economics-of-privacy-and-the-gap-between-privacy-concerns-and-behaviour.md · ID: IS-NEWS-2026-10-28-ANALYSIS-A-VIDEO-INTERVIEW-ON-THE-ECONOMICS-OF-PRIVACY-AND-THE-GAP-BETWEEN-PRIVACY-CONCERNS-AND-BEHAVIOUR =====
+
+```yaml
+id: IS-NEWS-2026-10-28-ANALYSIS-A-VIDEO-INTERVIEW-ON-THE-ECONOMICS-OF-PRIVACY-AND-THE-GAP-BETWEEN-PRIVACY-CONCERNS-AND-BEHAVIOUR
+slug: 2026-10-28-analysis-a-video-interview-on-the-economics-of-privacy-and-the-gap-between-privacy-concerns-and-behaviour
+title: A video interview on the economics of privacy and the gap between privacy concerns and behaviour
+collection: news
+doc_type: analysis-item
+date: 2026-10-28
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/the-economics-of-privacy
+archived_url: 
+industry: Artificial intelligence
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 16 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A video interview on the economics of privacy and the gap between privacy concerns and behaviour
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-10-28. Original: <https://danielsolove.substack.com/p/the-economics-of-privacy>*
+
+Daniel J. Solove introduces a video interview with an MIT researcher who studies the economics of privacy, covering the so-called privacy paradox, the value of personal data, people's attitudes to privacy and the effects of privacy laws.
+
+The post summarises a selection of the researcher's studies, which Solove describes as finding that people often do act to protect their privacy, that privacy notices can be used to nudge how much people disclose, and that some shoppers will pay more to buy from retailers that protect privacy. Solove also points readers to his own article arguing against the idea of a privacy paradox. The interview itself is a video and is not summarised here.
+
+
+===== FILE: news/IS_NEWS_2026-10-29-analysis-private-tiger-ownership-is-more-tightly-regulated-than-ai-an-analogy-argues.md · ID: IS-NEWS-2026-10-29-ANALYSIS-PRIVATE-TIGER-OWNERSHIP-IS-MORE-TIGHTLY-REGULATED-THAN-AI-AN-ANALOGY-ARGUES =====
+
+```yaml
+id: IS-NEWS-2026-10-29-ANALYSIS-PRIVATE-TIGER-OWNERSHIP-IS-MORE-TIGHTLY-REGULATED-THAN-AI-AN-ANALOGY-ARGUES
+slug: 2026-10-29-analysis-private-tiger-ownership-is-more-tightly-regulated-than-ai-an-analogy-argues
+title: Private tiger ownership is more tightly regulated than AI, an analogy argues
+collection: news
+doc_type: analysis-item
+date: 2026-10-29
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/tiger-king-vs-ai-tiger-king
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 16 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Private tiger ownership is more tightly regulated than AI, an analogy argues
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-10-29. Original: <https://danielsolove.substack.com/p/tiger-king-vs-ai-tiger-king>*
+
+Daniel J. Solove responds to news reports of AI systems used in cyberattacks by arguing that the law grants AI an exceptional freedom from the kinds of controls and liability that apply to almost everything else. He points to an AI developer's stock-offering filing that suggests insurers may not be able to cover a catastrophic AI incident.
+
+He compares AI with privately kept big cats, which U.S. federal law now largely bans outside accredited zoos and for which keepers are strictly liable if an animal injures someone. In his view the law treats tigers more sensibly than AI models, which are released widely for almost any use.
+
+
 ===== FILE: news/IS_NEWS_2026-10-29-report-says-us-intelligence-linked-a-suspected-chinese-intelligence-source-to-a-us-chipmakers-chief-executive.md · ID: IS-NEWS-2026-10-29-REPORT-SAYS-US-INTELLIGENCE-LINKED-A-SUSPECTED-CHINESE-INTELLIGENCE-SOURCE-TO-A-US-CHIPMAKERS-CHIEF-EXECUTIVE =====
 
 ```yaml
@@ -18472,6 +19016,117 @@ ABC News reports that The New York Times reported on 29 October 2026 that U.S. i
 Nvidia said its chief executive meets thousands of customer executives every year and that such meetings are an ordinary part of the job, and that it would act on any warning from the U.S. government about a party of concern. China's Foreign Ministry called the reports baseless. No charge or official finding has been reported.
 
 
+===== FILE: news/IS_NEWS_2026-10-30-analysis-how-organisations-govern-ai-in-practice-from-shared-responsibility-to-vendors-and-boards.md · ID: IS-NEWS-2026-10-30-ANALYSIS-HOW-ORGANISATIONS-GOVERN-AI-IN-PRACTICE-FROM-SHARED-RESPONSIBILITY-TO-VENDORS-AND-BOARDS =====
+
+```yaml
+id: IS-NEWS-2026-10-30-ANALYSIS-HOW-ORGANISATIONS-GOVERN-AI-IN-PRACTICE-FROM-SHARED-RESPONSIBILITY-TO-VENDORS-AND-BOARDS
+slug: 2026-10-30-analysis-how-organisations-govern-ai-in-practice-from-shared-responsibility-to-vendors-and-boards
+title: How organisations govern AI in practice, from shared responsibility to vendors and boards
+collection: news
+doc_type: analysis-item
+date: 2026-10-30
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/ai-governance-ethics-strategy-law
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 16 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# How organisations govern AI in practice, from shared responsibility to vendors and boards
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-10-30. Original: <https://danielsolove.substack.com/p/ai-governance-ethics-strategy-law>*
+
+Daniel J. Solove introduces a video conversation with an AI governance lawyer and author about running AI governance inside an organisation. The post is a description of the discussion rather than a transcript, so this summary covers only the topics it lists.
+
+According to the post, the conversation covers who is and should be responsible for AI governance, why it needs work across departments, the need to oversee vendors that also use AI, the difficulty of governing AI that is now built into existing software and services, and the need for governance staff to explain ethical concerns to executives and boards in business terms.
+
+
+===== FILE: news/IS_NEWS_2026-11-02-analysis-a-conversation-with-a-former-in-house-ai-ethics-lead-on-doing-ethics-work-inside-ai-companies.md · ID: IS-NEWS-2026-11-02-ANALYSIS-A-CONVERSATION-WITH-A-FORMER-IN-HOUSE-AI-ETHICS-LEAD-ON-DOING-ETHICS-WORK-INSIDE-AI-COMPANIES =====
+
+```yaml
+id: IS-NEWS-2026-11-02-ANALYSIS-A-CONVERSATION-WITH-A-FORMER-IN-HOUSE-AI-ETHICS-LEAD-ON-DOING-ETHICS-WORK-INSIDE-AI-COMPANIES
+slug: 2026-11-02-analysis-a-conversation-with-a-former-in-house-ai-ethics-lead-on-doing-ethics-work-inside-ai-companies
+title: A conversation with a former in-house AI ethics lead on doing ethics work inside AI companies
+collection: news
+doc_type: analysis-item
+date: 2026-11-02
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/a-conversation-with-class-guest-chloe
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 16 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A conversation with a former in-house AI ethics lead on doing ethics work inside AI companies
+
+*Nita Farahany, Thinking Freely (Substack), 2026-11-02. Original: <https://nitafarahany.substack.com/p/a-conversation-with-class-guest-chloe>*
+
+Nita Farahany shares a recorded conversation with her class guest, a former law professor who served as chief AI ethicist at Meta and led ethics work at OpenAI until August 2026, about what AI ethics looks like from inside the companies and how she built a career in AI law and ethics.
+
+The post's homework asks readers, acting as counsel to a frontier AI lab that wants to bring in independent evaluators to test for chemical, biological, radiological and nuclear risks, to draft the one contract term they would insist on and the one they would refuse. The written post describes the conversation only briefly; this summary covers that description.
+
+
+===== FILE: news/IS_NEWS_2026-11-02-analysis-a-supreme-court-ruling-on-a-geofence-warrant-narrows-the-third-party-doctrine-for-digital-data.md · ID: IS-NEWS-2026-11-02-ANALYSIS-A-SUPREME-COURT-RULING-ON-A-GEOFENCE-WARRANT-NARROWS-THE-THIRD-PARTY-DOCTRINE-FOR-DIGITAL-DATA =====
+
+```yaml
+id: IS-NEWS-2026-11-02-ANALYSIS-A-SUPREME-COURT-RULING-ON-A-GEOFENCE-WARRANT-NARROWS-THE-THIRD-PARTY-DOCTRINE-FOR-DIGITAL-DATA
+slug: 2026-11-02-analysis-a-supreme-court-ruling-on-a-geofence-warrant-narrows-the-third-party-doctrine-for-digital-data
+title: A Supreme Court ruling on a geofence warrant narrows the third-party doctrine for digital data
+collection: news
+doc_type: analysis-item
+date: 2026-11-02
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/when-can-the-government-get-your
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 16 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A Supreme Court ruling on a geofence warrant narrows the third-party doctrine for digital data
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-11-02. Original: <https://danielsolove.substack.com/p/when-can-the-government-get-your>*
+
+Daniel J. Solove recaps a conversation with two law professors about a June 2026 U.S. Supreme Court decision involving a geofence warrant, which requires a company to hand over data on every phone in an area. As he describes it, the Court held that people have a reasonable expectation of privacy in their location data even when a third party holds it, but did not decide whether the warrant itself was specific enough.
+
+Solove calls the decision one of the most important Fourth Amendment cases of the century and argues that it shrinks the third-party doctrine without formally ending it. He sets out a framework in which what data is gathered, how it is gathered and how much is gathered can each trigger constitutional protection, and he lists open questions, including whether the government can still buy data from data brokers.
+
+
 ===== FILE: news/IS_NEWS_2026-11-03-former-us-government-contractor-pleads-guilty-to-spying-for-ethiopia.md · ID: IS-NEWS-2026-11-03-FORMER-US-GOVERNMENT-CONTRACTOR-PLEADS-GUILTY-TO-SPYING-FOR-ETHIOPIA =====
 
 ```yaml
@@ -18505,6 +19160,43 @@ disclaimer: meta/IS_META_terms.md
 The Justice Department says a former IT contractor who held a Top Secret clearance has pleaded guilty to conspiring to transmit national defense information to a foreign government. According to the release, he admitted that from 2021 until his arrest in August 2023 he worked with senior Ethiopian officials to collect and pass on dozens of classified items, some at the TS/SCI level, much of it about an armed conflict in Ethiopia, and that he took the material out of secure facilities.
 
 The department says that under the plea agreement he has agreed to a prison term of 120 to 262 months, subject to the court's acceptance, and that sentencing is set for 14 April 2027. The FBI's Washington Field Office led the investigation, with help from the State Department's Diplomatic Security Service, and the U.S. Attorney's Office for the District of Columbia is prosecuting.
+
+
+===== FILE: news/IS_NEWS_2026-11-04-analysis-how-ai-models-are-red-teamed-the-ways-they-are-broken-and-the-laws-that-put-outside-safety-researchers-at-risk.md · ID: IS-NEWS-2026-11-04-ANALYSIS-HOW-AI-MODELS-ARE-RED-TEAMED-THE-WAYS-THEY-ARE-BROKEN-AND-THE-LAWS-THAT-PUT-OUTSIDE-SAFETY-RESEARCHERS-AT-RISK =====
+
+```yaml
+id: IS-NEWS-2026-11-04-ANALYSIS-HOW-AI-MODELS-ARE-RED-TEAMED-THE-WAYS-THEY-ARE-BROKEN-AND-THE-LAWS-THAT-PUT-OUTSIDE-SAFETY-RESEARCHERS-AT-RISK
+slug: 2026-11-04-analysis-how-ai-models-are-red-teamed-the-ways-they-are-broken-and-the-laws-that-put-outside-safety-researchers-at-risk
+title: How AI models are red-teamed, the ways they are broken, and the laws that put outside safety researchers at risk
+collection: news
+doc_type: analysis-item
+date: 2026-11-04
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/red-teaming-ai-from-what-it-is-to
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 16 Nov 2026; read from the newsletter email
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# How AI models are red-teamed, the ways they are broken, and the laws that put outside safety researchers at risk
+
+*Nita Farahany, Thinking Freely (Substack), 2026-11-04. Original: <https://nitafarahany.substack.com/p/red-teaming-ai-from-what-it-is-to>*
+
+Nita Farahany opens with a reported October 2026 dispute in which OpenAI said it had parted ways with three safety staff for mishandling sensitive information, while the three said in an open letter that staff must be able to raise safety concerns. She explains red-teaming and four kinds of attack on AI models (poisoning training data, inputs crafted to evade safeguards, jailbreaking prompts and attacks transferred between models), noting that jailbreaks her class tried this year failed where they had worked a year earlier, and describes who tests models, from in-house teams to independent researchers.
+
+She argues that the federal computer-fraud law, the anti-circumvention rule in copyright law and terms of service can expose independent researchers to prosecution or lawsuits, discusses a proposed legal and technical safe harbour for good-faith testing, and notes that California's frontier AI law now gives whistleblower protection for reporting AI risks.
 
 
 ===== FILE: news/IS_NEWS_2026-11-04-house-committee-chairs-ask-a-us-chipmakers-chief-executive-for-a-closed-door-briefing-on-a-reported-chinese-intelligence-asset.md · ID: IS-NEWS-2026-11-04-HOUSE-COMMITTEE-CHAIRS-ASK-A-US-CHIPMAKERS-CHIEF-EXECUTIVE-FOR-A-CLOSED-DOOR-BRIEFING-ON-A-REPORTED-CHINESE-INTELLIGENCE-ASSET =====
@@ -20860,6 +21552,43 @@ Italy's data-protection authority says it has fined Meta Platforms Ireland €80
 The authority applied the Italian privacy code's rule implementing the EU ePrivacy Directive, which it says protects the phone as part of a person's private sphere, and rejected the company's argument that the Irish authority should decide the case. It orders the company to ask for separate consent within 60 days and keep the feature off by default; it says it did not examine use of the content for AI training, which the company denies, and reserves a separate review of a 2026 cloud feature. The company can challenge the decision. (Summary translated from the Italian.)
 
 
+===== FILE: news/IS_NEWS_2026-11-14-neuroscience-society-previews-trial-results-in-which-brain-computer-interfaces-restored-communication-to-peop.md · ID: IS-NEWS-2026-11-14-NEUROSCIENCE-SOCIETY-PREVIEWS-TRIAL-RESULTS-IN-WHICH-BRAIN-COMPUTER-INTERFACES-RESTORED-COMMUNICATION-TO-PEOP =====
+
+```yaml
+id: IS-NEWS-2026-11-14-NEUROSCIENCE-SOCIETY-PREVIEWS-TRIAL-RESULTS-IN-WHICH-BRAIN-COMPUTER-INTERFACES-RESTORED-COMMUNICATION-TO-PEOP
+slug: 2026-11-14-neuroscience-society-previews-trial-results-in-which-brain-computer-interfaces-restored-communication-to-peop
+title: Neuroscience society previews trial results in which brain-computer interfaces restored communication to people with paralysis
+title_original: 
+title_language: 
+collection: news
+doc_type: news-item
+date: 2026-11-14
+date_precision: day
+publisher: Society for Neuroscience (via EurekAlert!)
+source_type: Research
+issuing_office: 
+url: https://www.eurekalert.org/news-releases/1149828
+archived_url: 
+industry: Neurotechnology
+event: Research & breakthroughs
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: web search (14-16 Nov 2026 window) (English, brain-computer interfaces); a society press release ahead of its annual meeting; title reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Neuroscience society previews trial results in which brain-computer interfaces restored communication to people with paralysis
+
+*Society for Neuroscience (via EurekAlert!), 2026-11-14. Original: <https://www.eurekalert.org/news-releases/1149828>*
+
+The Society for Neuroscience says that results to be presented at its Neuroscience 2026 meeting on 17 November include an implanted brain-computer interface that produces a synthetic voice with pitch, a completely locked-in participant who communicated independently for more than a year, and a portable brain-to-text system running on a phone.
+
+The society describes the technology as experimental and the results as early clinical-trial findings. The release does not discuss consent, the handling of participants' neural data or how clinicians are trained to use such systems.
+
+
 ===== FILE: news/IS_NEWS_2026-11-14-taiwans-criminal-police-run-a-nationwide-sweep-of-gangs-suspected-of-helping-foreign-forces-carry-out-transnat.md · ID: IS-NEWS-2026-11-14-TAIWANS-CRIMINAL-POLICE-RUN-A-NATIONWIDE-SWEEP-OF-GANGS-SUSPECTED-OF-HELPING-FOREIGN-FORCES-CARRY-OUT-TRANSNAT =====
 
 ```yaml
@@ -20932,6 +21661,80 @@ CNBC reports that the US Transportation Secretary said the 13 November nationwid
 The FAA Administrator said there was no evidence of anything malicious or AI-related and that no FAA facility went dark, and that flights were stopped because of instability in information feeds to air traffic control centres, CNBC reports. The contractor says it is supporting the FAA's investigation and has completed more than 70% of the copper-to-fibre switch.
 
 
+===== FILE: news/IS_NEWS_2026-11-15-belgrade-prosecutors-deny-ordering-the-security-agency-to-wiretap-154-people-who-gave-statements-about-the-al.md · ID: IS-NEWS-2026-11-15-BELGRADE-PROSECUTORS-DENY-ORDERING-THE-SECURITY-AGENCY-TO-WIRETAP-154-PEOPLE-WHO-GAVE-STATEMENTS-ABOUT-THE-AL =====
+
+```yaml
+id: IS-NEWS-2026-11-15-BELGRADE-PROSECUTORS-DENY-ORDERING-THE-SECURITY-AGENCY-TO-WIRETAP-154-PEOPLE-WHO-GAVE-STATEMENTS-ABOUT-THE-AL
+slug: 2026-11-15-belgrade-prosecutors-deny-ordering-the-security-agency-to-wiretap-154-people-who-gave-statements-about-the-al
+title: Belgrade prosecutors deny ordering the security agency to wiretap 154 people who gave statements about the alleged sound cannon at the March 2025 protest
+title_original: Više javno tužilaštvo Beograd: Nismo naložili BIA da prisluškuje 154 građana koji su se žalili na tegobe nakon protesta
+title_language: Serbian
+collection: news
+doc_type: news-item
+date: 2026-11-15
+date_precision: day
+publisher: Nova.rs
+source_type: News
+issuing_office: 
+url: https://nova.rs/vesti/hronika/vise-javno-tuzilastvo-beograd-tvrdi-da-nije-nalozila-bia-da-prisluskuje-154-gradjana
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Courts & litigation
+country: Serbia
+stage: 
+related: 
+summary_status: draft
+found_via: web search (14-16 Nov 2026 window) (Serbian, sound cannon and prosecutors); the same statement ran in Kurir on 14 Nov; title translated and reworded, the chief prosecutor's name left out
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Belgrade prosecutors deny ordering the security agency to wiretap 154 people who gave statements about the alleged sound cannon at the March 2025 protest
+
+*Nova.rs, 2026-11-15. Original, in Serbian: <https://nova.rs/vesti/hronika/vise-javno-tuzilastvo-beograd-tvrdi-da-nije-nalozila-bia-da-prisluskuje-154-gradjana>. Title translated from the Serbian.*
+
+Nova.rs reports that Belgrade's Higher Public Prosecutor's Office, in a reply sent under Article 94 of Serbia's Law on Public Information, says it neither ordered the BIA security agency nor asked a court to order any measures against 154 citizens who had given statements about the use of a sound cannon at the Belgrade protest of 15 March 2025. The office calls reports that it had them wiretapped deliberate falsehoods aimed at the office and its chief prosecutor.
+
+According to the report, the office says it will explain the matter in its response to the 10 November 2026 report of a commission of the Supreme Public Prosecutor's Office, which it says is being prepared. The reply is a denial; no court has ruled on the surveillance claims or on whether a sound device was used. (Summary translated from the Serbian.)
+
+
+===== FILE: news/IS_NEWS_2026-11-15-estonias-security-service-says-russian-military-intelligence-ordered-an-attempted-bombing-and-arson-at-a-dron.md · ID: IS-NEWS-2026-11-15-ESTONIAS-SECURITY-SERVICE-SAYS-RUSSIAN-MILITARY-INTELLIGENCE-ORDERED-AN-ATTEMPTED-BOMBING-AND-ARSON-AT-A-DRON =====
+
+```yaml
+id: IS-NEWS-2026-11-15-ESTONIAS-SECURITY-SERVICE-SAYS-RUSSIAN-MILITARY-INTELLIGENCE-ORDERED-AN-ATTEMPTED-BOMBING-AND-ARSON-AT-A-DRON
+slug: 2026-11-15-estonias-security-service-says-russian-military-intelligence-ordered-an-attempted-bombing-and-arson-at-a-dron
+title: Estonia's security service says Russian military intelligence ordered an attempted bombing and arson at a drone maker; eight suspects detained
+title_original: Michal palus ette valmistada Eesti-Vene piiri sulgemiseks vajalikud sammud
+title_language: Estonian
+collection: news
+doc_type: news-item
+date: 2026-11-15
+date_precision: day
+publisher: ERR
+source_type: News
+issuing_office: 
+url: https://www.err.ee/1610196790/michal-palus-ette-valmistada-eesti-vene-piiri-sulgemiseks-vajalikud-sammud
+archived_url: 
+industry: 
+event: Espionage & foreign agents
+country: Estonia
+stage: arrested
+related: 
+summary_status: draft
+found_via: web search (14-16 Nov 2026 window) (German and Estonian, sabotage for Russian intelligence); ERR is Estonia's public broadcaster; title translated and reworded around the security finding rather than the border step
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Estonia's security service says Russian military intelligence ordered an attempted bombing and arson at a drone maker; eight suspects detained
+
+*ERR, 2026-11-15. Original, in Estonian: <https://www.err.ee/1610196790/michal-palus-ette-valmistada-eesti-vene-piiri-sulgemiseks-vajalikud-sammud>. Title translated from the Estonian.*
+
+ERR, Estonia's public broadcaster, reports that on the night of 14-15 November someone tried to set fire to and cause an explosion at a defence drone manufacturer's building in Viimsi; no one was hurt and production was not affected. According to ERR, Estonia's Internal Security Service assesses that the attack was ordered by Russian military intelligence, the service and police detained eight suspects living in Latvia, and prosecutors asked a court to arrest five of them.
+
+ERR reports that the Prime Minister asked for the steps needed to close the Estonia-Russia border to be prepared, and that the interior minister proposed closing road crossings from early December. The suspects have not been charged in court and are presumed innocent. (Summary translated from the Estonian.)
+
+
 ===== FILE: news/IS_NEWS_2026-11-15-israel-to-indict-a-northern-resident-accused-of-photographing-military-bases-and-police-stations-for-iranian-i.md · ID: IS-NEWS-2026-11-15-ISRAEL-TO-INDICT-A-NORTHERN-RESIDENT-ACCUSED-OF-PHOTOGRAPHING-MILITARY-BASES-AND-POLICE-STATIONS-FOR-IRANIAN-I =====
 
 ```yaml
@@ -20967,6 +21770,191 @@ disclaimer: meta/IS_META_terms.md
 Zman Israel reports, citing a joint statement by Israel's police and the Shin Bet security service, that a serious indictment was to be filed on 15 November against a resident of a village in northern Israel arrested last month on suspicion of contact with a foreign agent and of carrying out tasks for Iranian intelligence. Walla, reporting the same statement, says the Haifa District Prosecution was to file it in the Haifa Magistrate's Court with a request to hold him in custody until the end of proceedings.
 
 According to the statement as reported, the suspect contacted people linked to Iranian intelligence on his own initiative through Telegram, without payment, and photographed strategic sites, military bases and police stations, passing images and location points to his handlers. Investigators seized phones and computers. These are allegations; he has not been tried and is presumed innocent. (Summary translated from the Hebrew.)
+
+
+===== FILE: news/IS_NEWS_2026-11-15-south-koreas-emergency-rooms-treated-fewer-self-harm-and-suicide-attempt-patients-in-2025-while-the-teen-suic.md · ID: IS-NEWS-2026-11-15-SOUTH-KOREAS-EMERGENCY-ROOMS-TREATED-FEWER-SELF-HARM-AND-SUICIDE-ATTEMPT-PATIENTS-IN-2025-WHILE-THE-TEEN-SUIC =====
+
+```yaml
+id: IS-NEWS-2026-11-15-SOUTH-KOREAS-EMERGENCY-ROOMS-TREATED-FEWER-SELF-HARM-AND-SUICIDE-ATTEMPT-PATIENTS-IN-2025-WHILE-THE-TEEN-SUIC
+slug: 2026-11-15-south-koreas-emergency-rooms-treated-fewer-self-harm-and-suicide-attempt-patients-in-2025-while-the-teen-suic
+title: South Korea's emergency rooms treated fewer self-harm and suicide-attempt patients in 2025, while the teen suicide rate rose to a record
+title_original: 
+title_language: 
+collection: news
+doc_type: news-item
+date: 2026-11-15
+date_precision: day
+publisher: The Korea Herald
+source_type: News
+issuing_office: 
+url: https://www.koreaherald.com/article/10937485
+archived_url: 
+industry: Biotechnology & health
+event: Reports & statistics
+country: South Korea
+stage: 
+related: 
+summary_status: draft
+found_via: web search (14-16 Nov 2026 window) (English and Korean, suicide statistics); the newspaper reports official data from the National Emergency Medical Center, the statistics ministry and the Ministry of Education, which were not checked directly; title reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# South Korea's emergency rooms treated fewer self-harm and suicide-attempt patients in 2025, while the teen suicide rate rose to a record
+
+*The Korea Herald, 2026-11-15. Original: <https://www.koreaherald.com/article/10937485>*
+
+The Korea Herald, citing National Emergency Medical Center data, reports that South Korea's 182 larger emergency centres treated 28,983 people for self-harm or suicide attempts in 2025, down from 35,170 in 2024 and 46,359 in 2023. Citing the statistics ministry, it reports that the national suicide rate fell from 29.1 to 27.8 per 100,000.
+
+According to the report, the suicide rate among teenagers rose from 8.0 to 8.6 per 100,000, the highest since records began in 1983, and the Ministry of Education counted 244 student suicide deaths in 2025, up from 148 in 2020.
+
+
+===== FILE: news/IS_NEWS_2026-11-16-australia-raises-a-detained-melbourne-democracy-campaigners-case-with-vietnam-which-says-he-was-caught-crossi.md · ID: IS-NEWS-2026-11-16-AUSTRALIA-RAISES-A-DETAINED-MELBOURNE-DEMOCRACY-CAMPAIGNERS-CASE-WITH-VIETNAM-WHICH-SAYS-HE-WAS-CAUGHT-CROSSI =====
+
+```yaml
+id: IS-NEWS-2026-11-16-AUSTRALIA-RAISES-A-DETAINED-MELBOURNE-DEMOCRACY-CAMPAIGNERS-CASE-WITH-VIETNAM-WHICH-SAYS-HE-WAS-CAUGHT-CROSSI
+slug: 2026-11-16-australia-raises-a-detained-melbourne-democracy-campaigners-case-with-vietnam-which-says-he-was-caught-crossi
+title: Australia raises a detained Melbourne democracy campaigner's case with Vietnam, which says he was caught crossing from Cambodia
+title_original: 
+title_language: 
+collection: news
+doc_type: news-item
+date: 2026-11-16
+date_precision: day
+publisher: AAP
+source_type: News
+issuing_office: 
+url: https://aapnews.aap.com.au/news/detained-aussie-tests-relationship-with-asian-partner
+archived_url: 
+industry: 
+event: Transnational repression
+country: Vietnam
+stage: arrested
+related: 
+summary_status: draft
+found_via: web search (14-16 Nov 2026 window) (English, transnational repression); Australian Associated Press, a wire service; title reworded, the campaigner's name and the organisation named by Vietnam left out
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Australia raises a detained Melbourne democracy campaigner's case with Vietnam, which says he was caught crossing from Cambodia
+
+*AAP, 2026-11-16. Original: <https://aapnews.aap.com.au/news/detained-aussie-tests-relationship-with-asian-partner>*
+
+Australian Associated Press reports that Australia's Prime Minister raised the case of a Melbourne-based democracy campaigner with Vietnam's new prime minister at the ASEAN summit in Manila. According to the report, the campaigner disappeared in Cambodia in September and is being held in Vietnam.
+
+AAP reports that Vietnam's Ministry of Public Security says he and two others, including a Norwegian citizen, were detained while allegedly trying to cross illegally from Cambodia and admitted membership of a group Vietnam classes as terrorist, while Human Rights Watch says the men appear never to have entered Vietnam and were abducted from Cambodia. AAP reports no formal charges, and Vietnam's account of the meeting did not mention the case.
+
+
+===== FILE: news/IS_NEWS_2026-11-16-hong-kong-police-switch-on-facial-recognition-across-the-smartview-camera-network-saying-the-tools-have-check.md · ID: IS-NEWS-2026-11-16-HONG-KONG-POLICE-SWITCH-ON-FACIAL-RECOGNITION-ACROSS-THE-SMARTVIEW-CAMERA-NETWORK-SAYING-THE-TOOLS-HAVE-CHECK =====
+
+```yaml
+id: IS-NEWS-2026-11-16-HONG-KONG-POLICE-SWITCH-ON-FACIAL-RECOGNITION-ACROSS-THE-SMARTVIEW-CAMERA-NETWORK-SAYING-THE-TOOLS-HAVE-CHECK
+slug: 2026-11-16-hong-kong-police-switch-on-facial-recognition-across-the-smartview-camera-network-saying-the-tools-have-check
+title: Hong Kong police switch on facial recognition across the SmartView camera network, saying the tools have checks and balances
+title_original: 
+title_language: 
+collection: news
+doc_type: news-item
+date: 2026-11-16
+date_precision: day
+publisher: Hong Kong Free Press
+source_type: News
+issuing_office: 
+url: https://hongkongfp.com/2026/11/16/hong-kong-police-activate-facial-recognition-across-ai-enabled-cctv-network-as-police-chief-says-tools-wont-be-abused/
+archived_url: 
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Contracts & deployments
+country: Hong Kong
+stage: 
+related: 
+summary_status: draft
+found_via: web search (14-16 Nov 2026 window) (English, Hong Kong SmartView); follow-up to the 14 Nov announcement already in the archive; also reported by RTHK and HK01; title reworded, the commissioner's name left out
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Hong Kong police switch on facial recognition across the SmartView camera network, saying the tools have checks and balances
+
+*Hong Kong Free Press, 2026-11-16. Original: <https://hongkongfp.com/2026/11/16/hong-kong-police-activate-facial-recognition-across-ai-enabled-cctv-network-as-police-chief-says-tools-wont-be-abused/>*
+
+Hong Kong Free Press reports that police were to switch on facial recognition across the SmartView CCTV network on Monday 16 November, as part of a HK$4 billion expansion. According to the report, the programme covers about 5,000 police cameras and 6,000 third-party feeds, with a target of 60,000 cameras by 2028, and police say it has helped solve 1,659 cases.
+
+The Commissioner of Police told the broadcaster TVB that the tools have checks and balances so they "won't be abused", would mainly be used for missing persons and criminal cases, and would not be used casually; he declined to give technical details. HKFP notes that the police website lists safeguarding national security first among SmartView's four purposes, and that talks to link private shopping-mall cameras were said last month to be in their final stages.
+
+
+===== FILE: news/IS_NEWS_2026-11-16-istanbul-prosecutors-seek-up-to-20-years-for-a-private-detective-and-a-lawyer-accused-of-surveilling-a-palest.md · ID: IS-NEWS-2026-11-16-ISTANBUL-PROSECUTORS-SEEK-UP-TO-20-YEARS-FOR-A-PRIVATE-DETECTIVE-AND-A-LAWYER-ACCUSED-OF-SURVEILLING-A-PALEST =====
+
+```yaml
+id: IS-NEWS-2026-11-16-ISTANBUL-PROSECUTORS-SEEK-UP-TO-20-YEARS-FOR-A-PRIVATE-DETECTIVE-AND-A-LAWYER-ACCUSED-OF-SURVEILLING-A-PALEST
+slug: 2026-11-16-istanbul-prosecutors-seek-up-to-20-years-for-a-private-detective-and-a-lawyer-accused-of-surveilling-a-palest
+title: Istanbul prosecutors seek up to 20 years for a private detective and a lawyer accused of surveilling a Palestinian-origin citizen for Israeli intelligence
+title_original: İsrail casusu dedektif ve avukat hakkında soruşturma tamamlandı: Şok detaylar ortaya çıktı!
+title_language: Turkish
+collection: news
+doc_type: news-item
+date: 2026-11-16
+date_precision: day
+publisher: Sabah
+source_type: News
+issuing_office: 
+url: https://www.sabah.com.tr/yasam/israil-casuslarina-20ser-yil-hapis-talebi-7702596
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Espionage & foreign agents
+country: Turkey
+stage: charged
+related: 
+summary_status: draft
+found_via: web search (14-16 Nov 2026 window) (Turkish, espionage); title translated and reworded without the sensational framing; defendants' and the surveilled person's names left out
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Istanbul prosecutors seek up to 20 years for a private detective and a lawyer accused of surveilling a Palestinian-origin citizen for Israeli intelligence
+
+*Sabah, 2026-11-16. Original, in Turkish: <https://www.sabah.com.tr/yasam/israil-casuslarina-20ser-yil-hapis-talebi-7702596>. Title translated from the Turkish.*
+
+Sabah reports that the terror crimes bureau of the Istanbul Chief Public Prosecutor's Office has completed an indictment against a private detective and a lawyer on a charge of obtaining state information that should remain secret for political or military espionage, and seeks 15 to 20 years in prison for each. According to the indictment as reported, a person said to work for an Israeli intelligence-linked online operations centre asked the detective in July 2025 to physically follow and gather information on a Turkish citizen of Palestinian origin who opposes Israel's regional policies, for about $4,000.
+
+The indictment alleges that the lawyer supplied data from illegal data-lookup systems, and Sabah reports that seven police officers alleged to have passed information to the detective were arrested. These are allegations; the trial is under way at an Istanbul high criminal court and the defendants are presumed innocent. (Summary translated from the Turkish.)
+
+
+===== FILE: news/IS_NEWS_2026-11-16-russian-state-newspaper-reports-a-kamchatka-court-sentenced-a-local-man-to-14-years-for-treason-over-alleged.md · ID: IS-NEWS-2026-11-16-RUSSIAN-STATE-NEWSPAPER-REPORTS-A-KAMCHATKA-COURT-SENTENCED-A-LOCAL-MAN-TO-14-YEARS-FOR-TREASON-OVER-ALLEGED =====
+
+```yaml
+id: IS-NEWS-2026-11-16-RUSSIAN-STATE-NEWSPAPER-REPORTS-A-KAMCHATKA-COURT-SENTENCED-A-LOCAL-MAN-TO-14-YEARS-FOR-TREASON-OVER-ALLEGED
+slug: 2026-11-16-russian-state-newspaper-reports-a-kamchatka-court-sentenced-a-local-man-to-14-years-for-treason-over-alleged
+title: Russian state newspaper reports a Kamchatka court sentenced a local man to 14 years for treason over alleged help to Ukrainian intelligence
+title_original: Житель Камчатки получил 14 лет за сотрудничество с украинскими спецслужбами
+title_language: Russian
+collection: news
+doc_type: news-item
+date: 2026-11-16
+date_precision: day
+publisher: Rossiyskaya Gazeta (state media)
+source_type: News
+issuing_office: 
+url: https://rg.ru/2026/11/16/reg-dfo/zhitel-kamchatki-poluchil-14-let-za-sotrudnichestvo-s-ukrainskimi-specsluzhbami.html
+archived_url: 
+industry: 
+event: Espionage & foreign agents
+country: Russia
+stage: convicted
+related: 
+summary_status: draft
+found_via: web search (14-16 Nov 2026 window) (Russian, treason cases); Rossiyskaya Gazeta is the Russian government's newspaper (state media), citing the regional FSB via RIA Novosti (also state media); claims attributed, not independently verified; title translated and reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Russian state newspaper reports a Kamchatka court sentenced a local man to 14 years for treason over alleged help to Ukrainian intelligence
+
+*Rossiyskaya Gazeta (state media), 2026-11-16. Original, in Russian: <https://rg.ru/2026/11/16/reg-dfo/zhitel-kamchatki-poluchil-14-let-za-sotrudnichestvo-s-ukrainskimi-specsluzhbami.html>. Title translated from the Russian.*
+
+Rossiyskaya Gazeta, the Russian government's newspaper, citing the regional FSB through the state news agency RIA Novosti, reports that the Kamchatka Regional Court convicted a 68-year-old local man of state treason and sentenced him to 14 years in a strict-regime colony and one year of restricted freedom.
+
+The FSB, as reported by the paper, claims he collected the locations of Russian military facilities while on holiday and passed them to a Ukrainian handler, and that a Ukrainian passport was found at his home. These are the security service's claims as carried by state media; they have not been independently verified, and other outlets quote the FSB as saying the verdict has not yet taken legal effect. (Summary translated from the Russian.)
 
 
 ===== FILE: news/IS_NEWS_undated-anomalous-health-incidents.md · ID: IS-NEWS-UNDATED-ANOMALOUS-HEALTH-INCIDENTS =====
