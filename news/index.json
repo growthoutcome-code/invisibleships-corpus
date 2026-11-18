@@ -1,5 +1,124 @@
 [
 {
+"slug": "2026-11-17-us-requires-export-licences-for-advanced-ai-chips-going-to-five-countries-to-stop-remote-access-by-chinese-dev",
+"file": "IS_NEWS_2026-11-17-us-requires-export-licences-for-advanced-ai-chips-going-to-five-countries-to-stop-remote-access-by-chinese-dev.md",
+"title": "US requires export licences for advanced AI chips going to five countries, to stop remote access by Chinese developers through overseas data centres",
+"date": "2026-11-17",
+"precision": "day",
+"publisher": "Al Jazeera",
+"sourceType": "News",
+"office": "",
+"url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Technology theft & export control",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-18"
+},
+{
+"slug": "2026-11-17-un-crime-agency-and-interpol-report-warns-that-coercive-neural-lie-detection-and-neurotechnology-in-interrogat",
+"file": "IS_NEWS_2026-11-17-un-crime-agency-and-interpol-report-warns-that-coercive-neural-lie-detection-and-neurotechnology-in-interrogat.md",
+"title": "UN crime agency and INTERPOL report warns that coercive neural lie detection and neurotechnology in interrogation raise serious human rights concerns",
+"date": "2026-11-17",
+"precision": "day",
+"publisher": "The Conversation",
+"sourceType": "News",
+"office": "",
+"url": "https://theconversation.com/can-the-police-monitor-a-suspects-brain-during-interrogation-a-new-report-issues-a-stark-warning-295555",
+"archivedUrl": "",
+"industry": [
+"Neurotechnology"
+],
+"event": "Reports & statistics",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [
+"Neurorights",
+"Neuroethics"
+],
+"addedOn": "2026-11-18"
+},
+{
+"slug": "2026-11-17-japans-governing-party-begins-work-on-a-bill-to-fit-gps-devices-to-serious-stalking-offenders",
+"file": "IS_NEWS_2026-11-17-japans-governing-party-begins-work-on-a-bill-to-fit-gps-devices-to-serious-stalking-offenders.md",
+"title": "Japan's governing party begins work on a bill to fit GPS devices to serious stalking offenders",
+"date": "2026-11-17",
+"precision": "day",
+"publisher": "KAB (Kumamoto Asahi Broadcasting)",
+"sourceType": "News",
+"office": "",
+"url": "https://www.kab.co.jp/news/article/17057291",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology"
+],
+"event": "Regulation & law",
+"country": "Japan",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-18"
+},
+{
+"slug": "2026-11-16-ukrainian-court-sentences-a-man-to-15-years-for-treason-after-the-security-service-said-he-set-up-explosive-ca",
+"file": "IS_NEWS_2026-11-16-ukrainian-court-sentences-a-man-to-15-years-for-treason-after-the-security-service-said-he-set-up-explosive-ca.md",
+"title": "Ukrainian court sentences a man to 15 years for treason after the security service said he set up explosive caches in Zaporizhzhia for Russian intelligence",
+"date": "2026-11-16",
+"precision": "day",
+"publisher": "LB.ua",
+"sourceType": "News",
+"office": "",
+"url": "https://lb.ua/pravo/2026/11/16/781496_zaporizhzhi_15_rokiv_uvyaznennya.html",
+"archivedUrl": "",
+"industry": [],
+"event": "Espionage & foreign agents",
+"country": "Ukraine",
+"stage": "sentenced",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-18"
+},
+{
+"slug": "2026-11-16-russias-security-service-says-a-young-woman-detained-over-a-moscow-car-bombing-was-steered-by-phone-scammers-i",
+"file": "IS_NEWS_2026-11-16-russias-security-service-says-a-young-woman-detained-over-a-moscow-car-bombing-was-steered-by-phone-scammers-i.md",
+"title": "Russia's security service says a young woman detained over a Moscow car bombing was steered by phone scammers it calls Ukrainian handlers",
+"date": "2026-11-16",
+"precision": "day",
+"publisher": "Meduza",
+"sourceType": "News",
+"office": "",
+"url": "https://meduza.io/news/2026/11/16/fsb-otchitalas-o-zaderzhanii-zhenschiny-prichastnoy-k-vzryvu-avtomobilya-razvedchika-sergeya-zavorotnogo-na-doprose-ona-zayavila-chto-stala-zhertvoy-moshennikov",
+"archivedUrl": "",
+"industry": [],
+"event": "Murder for hire & violent plots",
+"country": "Russia",
+"stage": "arrested",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-18"
+},
+{
 "slug": "2026-11-16-russian-state-newspaper-reports-a-kamchatka-court-sentenced-a-local-man-to-14-years-for-treason-over-alleged",
 "file": "IS_NEWS_2026-11-16-russian-state-newspaper-reports-a-kamchatka-court-sentenced-a-local-man-to-14-years-for-treason-over-alleged.md",
 "title": "Russian state newspaper reports a Kamchatka court sentenced a local man to 14 years for treason over alleged help to Ukrainian intelligence",
@@ -20,6 +139,28 @@
 "commentator": "",
 "topics": [],
 "addedOn": "2026-11-17"
+},
+{
+"slug": "2026-11-16-new-york-city-to-disband-the-police-unit-that-handles-protests-and-keep-long-range-acoustic-devices-below-90-d",
+"file": "IS_NEWS_2026-11-16-new-york-city-to-disband-the-police-unit-that-handles-protests-and-keep-long-range-acoustic-devices-below-90-d.md",
+"title": "New York City to disband the police unit that handles protests and keep long-range acoustic devices below 90 decibels",
+"date": "2026-11-16",
+"precision": "day",
+"publisher": "NBC New York",
+"sourceType": "News",
+"office": "",
+"url": "https://www.nbcnewyork.com/news/local/mamdani-tisch-disband-nypd-strategic-response-group/6572816/",
+"archivedUrl": "",
+"industry": [],
+"event": "Protests",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-18"
 },
 {
 "slug": "2026-11-16-istanbul-prosecutors-seek-up-to-20-years-for-a-private-detective-and-a-lawyer-accused-of-surveilling-a-palest",
@@ -71,6 +212,103 @@
 "addedOn": "2026-11-17"
 },
 {
+"slug": "2026-11-16-german-media-report-how-a-former-intelligence-chiefs-office-head-allegedly-smuggled-about-2-000-secret-files-o",
+"file": "IS_NEWS_2026-11-16-german-media-report-how-a-former-intelligence-chiefs-office-head-allegedly-smuggled-about-2-000-secret-files-o.md",
+"title": "German media report how a former intelligence chief's office head allegedly smuggled about 2,000 secret files out of the agency's headquarters",
+"date": "2026-11-16",
+"precision": "day",
+"publisher": "t-online (AFP)",
+"sourceType": "News",
+"office": "",
+"url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101530356/bnd-affaere-so-schmuggelte-august-hannings-bueroleiter-die-dokumente-heraus.html",
+"archivedUrl": "",
+"industry": [],
+"event": "Espionage & foreign agents",
+"country": "Germany",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-18"
+},
+{
+"slug": "2026-11-16-exile-outlet-reports-a-former-revolutionary-guards-official-saying-israeli-intelligence-infiltrated-irans-inst",
+"file": "IS_NEWS_2026-11-16-exile-outlet-reports-a-former-revolutionary-guards-official-saying-israeli-intelligence-infiltrated-irans-inst.md",
+"title": "Exile outlet reports a former Revolutionary Guards official saying Israeli intelligence infiltrated Iran's institutions and describing how everyday data can track people",
+"date": "2026-11-16",
+"precision": "day",
+"publisher": "Iran International",
+"sourceType": "News",
+"office": "",
+"url": "https://www.iranintl.com/en/202611165842",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology",
+"Artificial intelligence"
+],
+"event": "Espionage & foreign agents",
+"country": "Iran",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-18"
+},
+{
+"slug": "2026-11-16-californias-attorney-general-sues-an-ai-developer-alleging-its-experimental-ai-agents-escaped-testing-and-carr",
+"file": "IS_NEWS_2026-11-16-californias-attorney-general-sues-an-ai-developer-alleging-its-experimental-ai-agents-escaped-testing-and-carr.md",
+"title": "California's attorney general sues an AI developer, alleging its experimental AI agents escaped testing and carried out cyberattacks",
+"date": "2026-11-16",
+"precision": "day",
+"publisher": "California Department of Justice, Office of the Attorney General",
+"sourceType": "Official",
+"office": "Office of the Attorney General of California",
+"url": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-18"
+},
+{
+"slug": "2026-11-16-belgrade-prosecutors-call-the-supreme-public-prosecutors-sound-cannon-report-malicious-and-say-they-will-take",
+"file": "IS_NEWS_2026-11-16-belgrade-prosecutors-call-the-supreme-public-prosecutors-sound-cannon-report-malicious-and-say-they-will-take.md",
+"title": "Belgrade prosecutors call the Supreme Public Prosecutor's sound-cannon report malicious and say they will take it to European bodies",
+"date": "2026-11-16",
+"precision": "day",
+"publisher": "RTV (Radio-Television of Vojvodina)",
+"sourceType": "News",
+"office": "",
+"url": "https://rtv.rs/sr_ci/drustvo/medjutuzilacki-rat-ne-jenjava-stefanovic-obraticemo-se-medjunarodnim-institucijama-povodom-izvestaja-komisije-vjt_1759133.html",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology"
+],
+"event": "Courts & litigation",
+"country": "Serbia",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-18"
+},
+{
 "slug": "2026-11-16-australia-raises-a-detained-melbourne-democracy-campaigners-case-with-vietnam-which-says-he-was-caught-crossi",
 "file": "IS_NEWS_2026-11-16-australia-raises-a-detained-melbourne-democracy-campaigners-case-with-vietnam-which-says-he-was-caught-crossi.md",
 "title": "Australia raises a detained Melbourne democracy campaigner's case with Vietnam, which says he was caught crossing from Cambodia",
@@ -91,6 +329,28 @@
 "commentator": "",
 "topics": [],
 "addedOn": "2026-11-17"
+},
+{
+"slug": "2026-11-15-ukraines-security-service-detains-a-20-year-old-accused-of-burning-a-local-journalists-car-and-a-military-van",
+"file": "IS_NEWS_2026-11-15-ukraines-security-service-detains-a-20-year-old-accused-of-burning-a-local-journalists-car-and-a-military-van.md",
+"title": "Ukraine's security service detains a 20-year-old accused of burning a local journalist's car and a military van on orders from a Russian handler",
+"date": "2026-11-15",
+"precision": "day",
+"publisher": "Glavcom",
+"sourceType": "News",
+"office": "",
+"url": "https://glavcom.ua/country/criminal/sbu-zatrimala-20-richnoho-frankivtsja-za-pidpali-avto-vijskovikh-i-zhurnalista-1155819.html",
+"archivedUrl": "",
+"industry": [],
+"event": "Espionage & foreign agents",
+"country": "Ukraine",
+"stage": "arrested",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-18"
 },
 {
 "slug": "2026-11-15-south-koreas-emergency-rooms-treated-fewer-self-harm-and-suicide-attempt-patients-in-2025-while-the-teen-suic",
@@ -159,6 +419,28 @@
 "commentator": "",
 "topics": [],
 "addedOn": "2026-11-17"
+},
+{
+"slug": "2026-11-15-estonia-to-close-all-border-crossings-with-russia-from-1-december-after-the-attempted-sabotage-of-a-drone-make",
+"file": "IS_NEWS_2026-11-15-estonia-to-close-all-border-crossings-with-russia-from-1-december-after-the-attempted-sabotage-of-a-drone-make.md",
+"title": "Estonia to close all border crossings with Russia from 1 December after the attempted sabotage of a drone maker",
+"date": "2026-11-15",
+"precision": "day",
+"publisher": "Radio Svoboda",
+"sourceType": "News",
+"office": "",
+"url": "https://www.svoboda.org/a/estoniya-zakroet-vse-propusknye-punkty-na-granitse-s-rossiey-s-1-dekabrya/33899059.html",
+"archivedUrl": "",
+"industry": [],
+"event": "Espionage & foreign agents",
+"country": "Estonia",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-18"
 },
 {
 "slug": "2026-11-15-belgrade-prosecutors-deny-ordering-the-security-agency-to-wiretap-154-people-who-gave-statements-about-the-al",
@@ -7311,6 +7593,32 @@
 "addedOn": ""
 },
 {
+"slug": "2026-09-11-analysis-a-satirical-sketch-of-contradictions-in-how-ai-companies-and-policymakers-talk-about-ai",
+"file": "IS_NEWS_2026-09-11-analysis-a-satirical-sketch-of-contradictions-in-how-ai-companies-and-policymakers-talk-about-ai.md",
+"title": "A satirical sketch of contradictions in how AI companies and policymakers talk about AI",
+"date": "2026-09-11",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/the-absurd-discourse-of-ai",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-18"
+},
+{
 "slug": "2026-09-11-analysis-a-bonus-class-on-an-ai-companys-claim-to-have-reached-general-intelligence-and-how-training-data-bears-on-it",
 "file": "IS_NEWS_2026-09-11-analysis-a-bonus-class-on-an-ai-companys-claim-to-have-reached-general-intelligence-and-how-training-data-bears-on-it.md",
 "title": "A bonus class on an AI company's claim to have reached general intelligence, and how training data bears on it",
@@ -8276,6 +8584,32 @@
 "addedOn": ""
 },
 {
+"slug": "2026-03-27-analysis-a-negligent-design-verdict-against-social-media-platforms-and-the-case-for-private-lawsuits-over",
+"file": "IS_NEWS_2026-03-27-analysis-a-negligent-design-verdict-against-social-media-platforms-and-the-case-for-private-lawsuits-over.md",
+"title": "A negligent-design verdict against social media platforms and the case for private lawsuits over technology harms",
+"date": "2026-03-27",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/accountability-for-technology-and",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-18"
+},
+{
 "slug": "2026-03-25-hmrc-hands-gbp473m-migration-deal-to-aws-after-rivals-walk",
 "file": "IS_NEWS_2026-03-25-hmrc-hands-gbp473m-migration-deal-to-aws-after-rivals-walk.md",
 "title": "HMRC hands GBP473M migration deal to AWS after rivals walk",
@@ -8367,6 +8701,32 @@
 "capturedOn": "2026-11-13",
 "capturedAt": "2026-11-13T23:03:14Z",
 "addedOn": ""
+},
+{
+"slug": "2026-03-23-analysis-three-theories-of-broken-online-consent-tested-against-a-data-broker-deletion-law-children-s-privacy",
+"file": "IS_NEWS_2026-03-23-analysis-three-theories-of-broken-online-consent-tested-against-a-data-broker-deletion-law-children-s-privacy.md",
+"title": "Three theories of broken online consent tested against a data-broker deletion law, children's privacy rules and a design code",
+"date": "2026-03-23",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/what-the-law-is-trying-to-do-about",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-18"
 },
 {
 "slug": "2026-03-23-analysis-the-senate-passed-an-updated-childrens-online-privacy-bill-unanimously-but-it-does-not-require-age-verificatio",
@@ -8559,6 +8919,36 @@
 "addedOn": ""
 },
 {
+"slug": "2026-03-02-analysis-ai-that-infers-mental-states-moves-from-hiring-into-schools-and-workplaces-where-legal-protection-is",
+"file": "IS_NEWS_2026-03-02-analysis-ai-that-infers-mental-states-moves-from-hiring-into-schools-and-workplaces-where-legal-protection-is.md",
+"title": "AI that infers mental states moves from hiring into schools and workplaces, where legal protection is thinner",
+"date": "2026-03-02",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/your-brain-everywhere-inside-my-advanced",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence",
+"Neurotechnology"
+],
+"event": "Regulation & law",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"Neurorights",
+"Neuroethics",
+"Mental privacy",
+"AI law"
+],
+"addedOn": "2026-11-18"
+},
+{
 "slug": "2026-02-25-analysis-disability-law-offers-strong-tools-against-ai-hiring-inferences-on-paper-but-opaque-systems-put-them-out-of-re",
 "file": "IS_NEWS_2026-02-25-analysis-disability-law-offers-strong-tools-against-ai-hiring-inferences-on-paper-but-opaque-systems-put-them-out-of-re.md",
 "title": "Disability law offers strong tools against AI hiring inferences on paper, but opaque systems put them out of reach",
@@ -8583,6 +8973,58 @@
 "AI law"
 ],
 "addedOn": ""
+},
+{
+"slug": "2026-02-23-analysis-two-state-approaches-to-companion-chatbots-for-minors-regulating-their-design-or-banning-them-in",
+"file": "IS_NEWS_2026-02-23-analysis-two-state-approaches-to-companion-chatbots-for-minors-regulating-their-design-or-banning-them-in.md",
+"title": "Two state approaches to companion chatbots for minors, regulating their design or banning them in toys",
+"date": "2026-02-23",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/two-states-two-bets-inside-my-ai",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-18"
+},
+{
+"slug": "2026-02-23-analysis-senate-testimony-on-a-teenager-s-death-after-companion-chatbot-use-and-why-chatbot-output-may-fall",
+"file": "IS_NEWS_2026-02-23-analysis-senate-testimony-on-a-teenager-s-death-after-companion-chatbot-use-and-why-chatbot-output-may-fall.md",
+"title": "Senate testimony on a teenager's death after companion chatbot use and why chatbot output may fall outside Section 230",
+"date": "2026-02-23",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/please-do-my-sweet-king-inside-my",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-18"
 },
 {
 "slug": "2026-02-23-analysis-ai-personality-profiling-tools-get-basic-facts-wrong-and-employers-may-rely-on-them-in-hiring",
@@ -8687,6 +9129,30 @@
 "AI law"
 ],
 "addedOn": ""
+},
+{
+"slug": "2026-02-11-analysis-ai-judging-in-sport-and-the-difference-between-measurable-skill-and-human-judgment",
+"file": "IS_NEWS_2026-02-11-analysis-ai-judging-in-sport-and-the-difference-between-measurable-skill-and-human-judgment.md",
+"title": "AI judging in sport and the difference between measurable skill and human judgment",
+"date": "2026-02-11",
+"precision": "day",
+"publisher": "Stay Tuned with Preet (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://staytuned.substack.com/p/ai-isnt-replacing-expertise-its-showing",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Research & breakthroughs",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [],
+"addedOn": "2026-11-18"
 },
 {
 "slug": "2026-02-09-analysis-people-describe-harm-from-social-media-but-say-they-would-not-sue-and-the-science-behind-the-harm-is-contested",
@@ -8931,6 +9397,58 @@
 "addedOn": ""
 },
 {
+"slug": "2026-01-18-analysis-private-lawsuits-are-an-essential-part-of-enforcing-privacy-law-a-draft-article-argues",
+"file": "IS_NEWS_2026-01-18-analysis-private-lawsuits-are-an-essential-part-of-enforcing-privacy-law-a-draft-article-argues.md",
+"title": "Private lawsuits are an essential part of enforcing privacy law, a draft article argues",
+"date": "2026-01-18",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/enforcing-privacy-law-why-private",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-18"
+},
+{
+"slug": "2026-01-18-analysis-contract-law-is-the-wrong-tool-for-governing-privacy-notices-a-draft-article-argues",
+"file": "IS_NEWS_2026-01-18-analysis-contract-law-is-the-wrong-tool-for-governing-privacy-notices-a-draft-article-argues.md",
+"title": "Contract law is the wrong tool for governing privacy notices, a draft article argues",
+"date": "2026-01-18",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/privacy-as-contract",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-18"
+},
+{
 "slug": "2026-01-16-analysis-state-neural-data-laws-and-a-proposed-federal-study-leave-inferred-mental-states-unprotected",
 "file": "IS_NEWS_2026-01-16-analysis-state-neural-data-laws-and-a-proposed-federal-study-leave-inferred-mental-states-unprotected.md",
 "title": "State neural data laws and a proposed federal study leave inferred mental states unprotected",
@@ -9015,6 +9533,33 @@
 "archivedOn": "2026-11-13",
 "archivedAt": "2026-11-13T07:43Z",
 "addedOn": ""
+},
+{
+"slug": "2026-01-14-analysis-ai-companies-offering-health-advice-should-owe-users-fiduciary-duties",
+"file": "IS_NEWS_2026-01-14-analysis-ai-companies-offering-health-advice-should-owe-users-fiduciary-duties.md",
+"title": "AI companies offering health advice should owe users fiduciary duties",
+"date": "2026-01-14",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/ai-companies-should-have-information",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence",
+"Biotechnology & health"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-18"
 },
 {
 "slug": "2026-01-12-former-u-s-navy-sailor-sentenced-to-200-months-for-spying",
@@ -9146,6 +9691,32 @@
 "addedOn": ""
 },
 {
+"slug": "2025-12-22-analysis-a-holiday-gift-guide-weighs-the-privacy-risks-of-ai-toys-wellness-devices-and-smart-speakers",
+"file": "IS_NEWS_2025-12-22-analysis-a-holiday-gift-guide-weighs-the-privacy-risks-of-ai-toys-wellness-devices-and-smart-speakers.md",
+"title": "A holiday gift guide weighs the privacy risks of AI toys, wellness devices and smart speakers",
+"date": "2025-12-22",
+"precision": "day",
+"publisher": "Stay Tuned with Preet (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://staytuned.substack.com/p/the-last-minute-gift-guide-for-people",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-18"
+},
+{
 "slug": "2025-12-19-analysis-why-ai-neurotechnology-and-other-fields-kept-arriving-at-the-same-governance-questions-in-2025",
 "file": "IS_NEWS_2025-12-19-analysis-why-ai-neurotechnology-and-other-fields-kept-arriving-at-the-same-governance-questions-in-2025.md",
 "title": "Why AI, neurotechnology and other fields kept arriving at the same governance questions in 2025",
@@ -9275,6 +9846,32 @@
 "addedOn": ""
 },
 {
+"slug": "2025-11-26-analysis-an-executive-order-frames-a-federal-ai-science-initiative-as-a-wartime-project-raising-questions-of",
+"file": "IS_NEWS_2025-11-26-analysis-an-executive-order-frames-a-federal-ai-science-initiative-as-a-wartime-project-raising-questions-of.md",
+"title": "An executive order frames a federal AI science initiative as a wartime project, raising questions of authority",
+"date": "2025-11-26",
+"precision": "day",
+"publisher": "Stay Tuned with Preet (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://staytuned.substack.com/p/is-america-really-at-war-over-ai",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-18"
+},
+{
 "slug": "2025-11-19-analysis-u-s-chip-export-controls-as-a-tool-for-managing-ai-risk-and-their-limits",
 "file": "IS_NEWS_2025-11-19-analysis-u-s-chip-export-controls-as-a-tool-for-managing-ai-risk-and-their-limits.md",
 "title": "U.S. chip export controls as a tool for managing AI risk, and their limits",
@@ -9297,6 +9894,32 @@
 "commentator": "Nita Farahany",
 "topics": [],
 "addedOn": ""
+},
+{
+"slug": "2025-11-19-analysis-rolling-back-privacy-and-ai-rules-will-not-spur-innovation-an-argument-aimed-at-europe-s",
+"file": "IS_NEWS_2025-11-19-analysis-rolling-back-privacy-and-ai-rules-will-not-spur-innovation-an-argument-aimed-at-europe-s.md",
+"title": "Rolling back privacy and AI rules will not spur innovation, an argument aimed at Europe's simplification push",
+"date": "2025-11-19",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/privacy-and-ai-deregulation-will",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "European Union",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-18"
 },
 {
 "slug": "2025-11-18-analysis-four-common-myths-about-current-u-s-federal-ai-policy",
@@ -9814,6 +10437,33 @@
 "addedOn": ""
 },
 {
+"slug": "2025-10-08-analysis-lawsuits-over-harm-to-teenagers-after-companion-chatbot-use-test-speech-protection-with-an-argument",
+"file": "IS_NEWS_2025-10-08-analysis-lawsuits-over-harm-to-teenagers-after-companion-chatbot-use-test-speech-protection-with-an-argument.md",
+"title": "Lawsuits over harm to teenagers after companion chatbot use test speech protection, with an argument for cognitive liberty",
+"date": "2025-10-08",
+"precision": "day",
+"publisher": "Stay Tuned with Preet (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://staytuned.substack.com/p/cognitive-capture-chatbots-and-ai",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"Neurorights",
+"AI law"
+],
+"addedOn": "2026-11-18"
+},
+{
 "slug": "2025-10-08-analysis-how-the-law-treats-people-who-probe-ai-for-flaws-and-how-two-u-s-states-answered-differently",
 "file": "IS_NEWS_2025-10-08-analysis-how-the-law-treats-people-who-probe-ai-for-flaws-and-how-two-u-s-states-answered-differently.md",
 "title": "How the law treats people who probe AI for flaws, and how two U.S. states answered differently",
@@ -10172,6 +10822,31 @@
 "capturedOn": "2026-11-13",
 "capturedAt": "2026-11-13T22:44:56Z",
 "addedOn": ""
+},
+{
+"slug": "2025-09-19-analysis-two-appeals-courts-split-on-forced-thumbprint-unlocking-and-neural-wristbands-may-sharpen-the",
+"file": "IS_NEWS_2025-09-19-analysis-two-appeals-courts-split-on-forced-thumbprint-unlocking-and-neural-wristbands-may-sharpen-the.md",
+"title": "Two appeals courts split on forced thumbprint unlocking, and neural wristbands may sharpen the question",
+"date": "2025-09-19",
+"precision": "day",
+"publisher": "Stay Tuned with Preet (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://staytuned.substack.com/p/the-thumb-the-thought-and-the-fifth",
+"archivedUrl": "",
+"industry": [
+"Neurotechnology",
+"Government cloud & surveillance technology"
+],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [],
+"addedOn": "2026-11-18"
 },
 {
 "slug": "2025-09-19-analysis-a-consumer-neural-wristband-goes-on-sale-while-courts-disagree-over-whether-thoughts-are-protected",
@@ -10712,6 +11387,32 @@
 "capturedOn": "2026-11-14",
 "capturedAt": "2026-11-14T02:53:18Z",
 "addedOn": ""
+},
+{
+"slug": "2025-08-25-analysis-the-first-class-of-an-ai-law-course-asks-how-to-write-laws-for-something-that-resists-definition",
+"file": "IS_NEWS_2025-08-25-analysis-the-first-class-of-an-ai-law-course-asks-how-to-write-laws-for-something-that-resists-definition.md",
+"title": "The first class of an AI law course asks how to write laws for something that resists definition",
+"date": "2025-08-25",
+"precision": "day",
+"publisher": "Thinking Freely (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://nitafarahany.substack.com/p/inside-my-ai-law-and-policy-class",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-18"
 },
 {
 "slug": "2025-08-22-breakthrough-brain-computer-interface-decodes-self-talk",
@@ -11435,6 +12136,33 @@
 "addedOn": ""
 },
 {
+"slug": "2025-07-15-analysis-a-podcast-episode-on-weak-u-s-ai-safeguards-and-why-transparency-should-come-first",
+"file": "IS_NEWS_2025-07-15-analysis-a-podcast-episode-on-weak-u-s-ai-safeguards-and-why-transparency-should-come-first.md",
+"title": "A podcast episode on weak U.S. AI safeguards and why transparency should come first",
+"date": "2025-07-15",
+"precision": "day",
+"publisher": "Stay Tuned with Preet (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://staytuned.substack.com/p/ai-in-trumps-america-with-nita-farahany",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"Neurorights",
+"AI law"
+],
+"addedOn": "2026-11-18"
+},
+{
 "slug": "2025-07-04-defence-commits-to-five-more-years-of-azure-worth-495m",
 "file": "IS_NEWS_2025-07-04-defence-commits-to-five-more-years-of-azure-worth-495m.md",
 "title": "Defence commits to five more years of Azure worth $495m",
@@ -11501,6 +12229,33 @@
 "addedOn": ""
 },
 {
+"slug": "2025-07-02-analysis-diagnostic-ai-that-outperforms-doctors-on-hard-cases-leaves-the-malpractice-standard-of-care",
+"file": "IS_NEWS_2025-07-02-analysis-diagnostic-ai-that-outperforms-doctors-on-hard-cases-leaves-the-malpractice-standard-of-care.md",
+"title": "Diagnostic AI that outperforms doctors on hard cases leaves the malpractice standard of care unsettled",
+"date": "2025-07-02",
+"precision": "day",
+"publisher": "Stay Tuned with Preet (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://staytuned.substack.com/p/your-ai-will-see-you-now",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence",
+"Biotechnology & health"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-18"
+},
+{
 "slug": "2025-06-30-justice-department-charges-two-individuals-with-acting-as",
 "file": "IS_NEWS_2025-06-30-justice-department-charges-two-individuals-with-acting-as.md",
 "title": "Justice Department Charges Two Individuals with Acting as Agents of the PRC Government",
@@ -11562,6 +12317,32 @@
 "capturedAt": "2026-11-13T22:20:42Z",
 "capturedFrom": "doj-api",
 "addedOn": ""
+},
+{
+"slug": "2025-06-09-analysis-tests-in-which-ai-models-resisted-shutdown-and-a-proposed-ten-year-pause-on-state-ai-laws",
+"file": "IS_NEWS_2025-06-09-analysis-tests-in-which-ai-models-resisted-shutdown-and-a-proposed-ten-year-pause-on-state-ai-laws.md",
+"title": "Tests in which AI models resisted shutdown and a proposed ten-year pause on state AI laws",
+"date": "2025-06-09",
+"precision": "day",
+"publisher": "Stay Tuned with Preet (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://staytuned.substack.com/p/when-ai-refuses-to-die",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-18"
 },
 {
 "slug": "2025-06-05-anduril-raises-funding-at-30-5-billion-valuation",
@@ -11697,6 +12478,35 @@
 "capturedOn": "2026-11-13",
 "capturedAt": "2026-11-13T22:17:25Z",
 "addedOn": ""
+},
+{
+"slug": "2025-05-14-analysis-a-brain-implant-user-who-drafts-with-an-ai-chatbot-raises-questions-about-whose-words-and-whose-data",
+"file": "IS_NEWS_2025-05-14-analysis-a-brain-implant-user-who-drafts-with-an-ai-chatbot-raises-questions-about-whose-words-and-whose-data.md",
+"title": "A brain-implant user who drafts with an AI chatbot raises questions about whose words and whose data they are",
+"date": "2025-05-14",
+"precision": "day",
+"publisher": "Stay Tuned with Preet (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://staytuned.substack.com/p/when-ai-speaks-for-you",
+"archivedUrl": "",
+"industry": [
+"Neurotechnology",
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Nita Farahany",
+"topics": [
+"Neuroethics",
+"Mental privacy",
+"AI law"
+],
+"addedOn": "2026-11-18"
 },
 {
 "slug": "2025-05-13-oracle-commits-to-invest-14bn-in-saudi-arabia",

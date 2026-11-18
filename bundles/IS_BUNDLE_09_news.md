@@ -3,8 +3,8 @@ id: IS-BUNDLE-09-NEWS
 title: "News"
 collection: bundles
 doc_type: bundle
-files: 599
-approx_tokens: 332,619
+files: 631
+approx_tokens: 353,051
 contains: [news]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -15,7 +15,7 @@ disclaimer: meta/IS_META_terms.md
 
 Official releases and outside reporting, one item per section, each summarised and linked.
 
-This file joins 599 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
+This file joins 631 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 
@@ -242,14 +242,18 @@ This file joins 599 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2025-04-23-former-u-s-army-intelligence-analyst-sentenced-for-selling.md` — Former U.S. Army Intelligence Analyst Sentenced for Selling Sensitive Military Information
 - `news/IS_NEWS_2025-04-28-senators-call-on-ftc-to-protect-consumers-neural-data.md` — Senators call on FTC to protect consumers' neural data
 - `news/IS_NEWS_2025-05-13-oracle-commits-to-invest-14bn-in-saudi-arabia.md` — Oracle commits to invest $14bn in Saudi Arabia
+- `news/IS_NEWS_2025-05-14-analysis-a-brain-implant-user-who-drafts-with-an-ai-chatbot-raises-questions-about-whose-words-and-whose-data.md` — A brain-implant user who drafts with an AI chatbot raises questions about whose words and whose data they are
 - `news/IS_NEWS_2025-05-22-microsoft-employee-protests-satya-nadella-keynote-over.md` — Microsoft employee protests Satya Nadella keynote over Israel contracts
 - `news/IS_NEWS_2025-06-01-attorney-general-james-sues-23andme-to-protect-new-yorkers.md` — Attorney General James sues 23andMe to protect New Yorkers' genetic data
 - `news/IS_NEWS_2025-06-01-wrongful-arrest-in-us-linked-to-facial-recognition-error.md` — Wrongful arrest in US linked to facial recognition error leads to $200k settlement
 - `news/IS_NEWS_2025-06-05-anduril-raises-funding-at-30-5-billion-valuation.md` — Anduril raises funding at $30.5 billion valuation
+- `news/IS_NEWS_2025-06-09-analysis-tests-in-which-ai-models-resisted-shutdown-and-a-proposed-ten-year-pause-on-state-ai-laws.md` — Tests in which AI models resisted shutdown and a proposed ten-year pause on state AI laws
 - `news/IS_NEWS_2025-06-18-former-jblm-soldier-pleads-guilty-to-attempting-to-share.md` — Former JBLM soldier pleads guilty to attempting to share military secrets with China
 - `news/IS_NEWS_2025-06-30-justice-department-charges-two-individuals-with-acting-as.md` — Justice Department Charges Two Individuals with Acting as Agents of the PRC Government
+- `news/IS_NEWS_2025-07-02-analysis-diagnostic-ai-that-outperforms-doctors-on-hard-cases-leaves-the-malpractice-standard-of-care.md` — Diagnostic AI that outperforms doctors on hard cases leaves the malpractice standard of care unsettled
 - `news/IS_NEWS_2025-07-04-australian-dept-of-defence-signs-au-495m-5-year-cloud-deal.md` — Australian Dept of Defence signs AU$495m 5-year cloud deal with Microsoft
 - `news/IS_NEWS_2025-07-04-defence-commits-to-five-more-years-of-azure-worth-495m.md` — Defence commits to five more years of Azure worth $495m
+- `news/IS_NEWS_2025-07-15-analysis-a-podcast-episode-on-weak-u-s-ai-safeguards-and-why-transparency-should-come-first.md` — A podcast episode on weak U.S. AI safeguards and why transparency should come first
 - `news/IS_NEWS_2025-07-28-analysis-the-executive-order-on-ideological-neutrality-in-federal-ai-purchases-and-its-risk-to-readable-ai-re.md` — The executive order on ideological neutrality in federal AI purchases, and its risk to readable AI reasoning
 - `news/IS_NEWS_2025-08-05-analysis-state-neural-data-laws-protect-the-brain-signal-but-not-what-ai-infers-from-it.md` — State neural-data laws protect the brain signal but not what AI infers from it
 - `news/IS_NEWS_2025-08-06-a-mass-surveillance-project-beyond-imagination-microsoft.md` — A mass surveillance project "beyond imagination": Microsoft cloud and Unit 8200 (joint investigation)
@@ -271,6 +275,7 @@ This file joins 599 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2025-08-21-microsoft-employee-protests-over-israel-military-ties-lead.md` — Microsoft employee protests over Israel military ties lead to 18 arrests
 - `news/IS_NEWS_2025-08-21-u-s-navy-sailor-convicted-of-spying-for-china.md` — U.S. Navy Sailor Convicted of Spying for China
 - `news/IS_NEWS_2025-08-22-breakthrough-brain-computer-interface-decodes-self-talk.md` — Breakthrough brain-computer interface decodes self-talk
+- `news/IS_NEWS_2025-08-25-analysis-the-first-class-of-an-ai-law-course-asks-how-to-write-laws-for-something-that-resists-definition.md` — The first class of an AI law course asks how to write laws for something that resists definition
 - `news/IS_NEWS_2025-08-26-analysis-chinese-research-on-encrypting-brain-computer-interface-signals-and-what-it-suggests-about-threats.md` — Chinese research on encrypting brain-computer interface signals, and what it suggests about threats
 - `news/IS_NEWS_2025-08-27-analysis-how-large-language-models-work-and-why-one-invented-court-cases.md` — How large language models work, and why one invented court cases
 - `news/IS_NEWS_2025-08-27-protesters-occupy-microsoft-office-as-company-reviews-its.md` — Protesters occupy Microsoft office as company reviews its work with Israel's military
@@ -287,6 +292,7 @@ This file joins 599 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2025-09-16-man-pleads-guilty-to-conspiring-to-act-as-illegal-agent-of.md` — Man Pleads Guilty to Conspiring to Act as Illegal Agent of the Chinese Government in the United States
 - `news/IS_NEWS_2025-09-17-analysis-how-a-chinese-ai-model-built-under-u-s-chip-export-controls-exposed-the-limits-of-controlling-comput.md` — How a Chinese AI model built under U.S. chip export controls exposed the limits of controlling computing power
 - `news/IS_NEWS_2025-09-19-analysis-a-consumer-neural-wristband-goes-on-sale-while-courts-disagree-over-whether-thoughts-are-protected.md` — A consumer neural wristband goes on sale while courts disagree over whether thoughts are protected
+- `news/IS_NEWS_2025-09-19-analysis-two-appeals-courts-split-on-forced-thumbprint-unlocking-and-neural-wristbands-may-sharpen-the.md` — Two appeals courts split on forced thumbprint unlocking, and neural wristbands may sharpen the question
 - `news/IS_NEWS_2025-09-19-department-of-national-defence-using-u-s-cloud-services.md` — Department of National Defence using U.S. cloud services
 - `news/IS_NEWS_2025-09-22-analysis-governing-ai-through-chips-a-u-s-government-stake-in-a-chipmaker-europes-rule-setting-and-on-chip-mo.md` — Governing AI through chips: a U.S. government stake in a chipmaker, Europe's rule-setting, and on-chip monitoring
 - `news/IS_NEWS_2025-09-24-analysis-how-ai-systems-discriminate-at-scale-and-the-patchwork-of-laws-trying-to-catch-it.md` — How AI systems discriminate at scale, and the patchwork of laws trying to catch it
@@ -298,6 +304,7 @@ This file joins 599 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2025-10-01-analysis-who-pays-when-ai-causes-harm-product-liability-europe-s-withdrawn-directive-and-a-proposed-u-s.md` — Who pays when AI causes harm? Product liability, Europe's withdrawn directive and a proposed U.S. federal law
 - `news/IS_NEWS_2025-10-06-analysis-testing-ai-for-safety-when-models-can-tell-they-are-being-tested.md` — Testing AI for safety when models can tell they are being tested
 - `news/IS_NEWS_2025-10-08-analysis-how-the-law-treats-people-who-probe-ai-for-flaws-and-how-two-u-s-states-answered-differently.md` — How the law treats people who probe AI for flaws, and how two U.S. states answered differently
+- `news/IS_NEWS_2025-10-08-analysis-lawsuits-over-harm-to-teenagers-after-companion-chatbot-use-test-speech-protection-with-an-argument.md` — Lawsuits over harm to teenagers after companion chatbot use test speech protection, with an argument for cognitive liberty
 - `news/IS_NEWS_2025-10-09-analysis-lawsuits-over-teen-deaths-after-chatbot-conversations-test-whether-chatbot-output-is-protected.md` — Lawsuits over teen deaths after chatbot conversations test whether chatbot output is protected speech
 - `news/IS_NEWS_2025-10-20-analysis-what-deepfakes-are-how-they-are-made-where-the-harm-falls-and-why-detection-keeps-failing.md` — What deepfakes are, how they are made, where the harm falls and why detection keeps failing
 - `news/IS_NEWS_2025-10-22-analysis-why-governing-deepfakes-and-ai-errors-is-so-hard-traced-through-six-points-of-intervention.md` — Why governing deepfakes and AI errors is so hard, traced through six points of intervention
@@ -315,18 +322,24 @@ This file joins 599 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2025-11-14-analysis-a-major-newspaper-feature-puts-brain-privacy-on-the-agenda-as-global-neurotechnology-standards.md` — A major newspaper feature puts brain privacy on the agenda as global neurotechnology standards take effect
 - `news/IS_NEWS_2025-11-14-subsense-launches-animal-studies-to-test-nonsurgical-nanoparticle-brain-computer-interface.md` — Subsense launches animal studies to test nonsurgical nanoparticle brain-computer interface
 - `news/IS_NEWS_2025-11-18-analysis-four-common-myths-about-current-u-s-federal-ai-policy.md` — Four common myths about current U.S. federal AI policy
+- `news/IS_NEWS_2025-11-19-analysis-rolling-back-privacy-and-ai-rules-will-not-spur-innovation-an-argument-aimed-at-europe-s.md` — Rolling back privacy and AI rules will not spur innovation, an argument aimed at Europe's simplification push
 - `news/IS_NEWS_2025-11-19-analysis-u-s-chip-export-controls-as-a-tool-for-managing-ai-risk-and-their-limits.md` — U.S. chip export controls as a tool for managing AI risk, and their limits
+- `news/IS_NEWS_2025-11-26-analysis-an-executive-order-frames-a-federal-ai-science-initiative-as-a-wartime-project-raising-questions-of.md` — An executive order frames a federal AI science initiative as a wartime project, raising questions of authority
 - `news/IS_NEWS_2025-12-01-analysis-how-china-governs-ai-three-layers-coordinated-agencies-and-a-bid-for-global-rules.md` — How China governs AI: three layers, coordinated agencies and a bid for global rules
 - `news/IS_NEWS_2025-12-09-analysis-when-ai-agents-act-on-their-own-failures-agency-law-and-the-gaps-in-governance.md` — When AI agents act on their own: failures, agency law and the gaps in governance
 - `news/IS_NEWS_2025-12-12-analysis-the-executive-order-aimed-at-state-ai-laws-and-the-constitutional-questions-it-raises.md` — The executive order aimed at state AI laws, and the constitutional questions it raises
 - `news/IS_NEWS_2025-12-19-analysis-why-ai-neurotechnology-and-other-fields-kept-arriving-at-the-same-governance-questions-in-2025.md` — Why AI, neurotechnology and other fields kept arriving at the same governance questions in 2025
+- `news/IS_NEWS_2025-12-22-analysis-a-holiday-gift-guide-weighs-the-privacy-risks-of-ai-toys-wellness-devices-and-smart-speakers.md` — A holiday gift guide weighs the privacy risks of AI toys, wellness devices and smart speakers
 - `news/IS_NEWS_2026-01-01-gostech-unified-digital-platform-of-the-russian-federation.md` — Gostech (Unified Digital Platform of the Russian Federation)
 - `news/IS_NEWS_2026-01-06-analysis-cognitive-liberty-in-the-age-of-corporate-ai-needs-enforceable-law.md` — Cognitive liberty in the age of corporate AI needs enforceable law
 - `news/IS_NEWS_2026-01-12-analysis-how-platforms-infer-your-psychology-from-your-behaviour-and-whether-law-protects-autonomy.md` — How platforms infer your psychology from your behaviour, and whether law protects autonomy
 - `news/IS_NEWS_2026-01-12-former-u-s-navy-sailor-sentenced-to-200-months-for-spying.md` — Former U.S. Navy Sailor Sentenced to 200 Months for Spying for China
+- `news/IS_NEWS_2026-01-14-analysis-ai-companies-offering-health-advice-should-owe-users-fiduciary-duties.md` — AI companies offering health advice should owe users fiduciary duties
 - `news/IS_NEWS_2026-01-14-analysis-health-chatbots-owe-users-no-fiduciary-duty-unlike-doctors.md` — Health chatbots owe users no fiduciary duty, unlike doctors
 - `news/IS_NEWS_2026-01-14-analysis-what-the-research-says-about-ai-use-and-critical-thinking.md` — What the research says about AI use and critical thinking
 - `news/IS_NEWS_2026-01-16-analysis-state-neural-data-laws-and-a-proposed-federal-study-leave-inferred-mental-states-unprotected.md` — State neural data laws and a proposed federal study leave inferred mental states unprotected
+- `news/IS_NEWS_2026-01-18-analysis-contract-law-is-the-wrong-tool-for-governing-privacy-notices-a-draft-article-argues.md` — Contract law is the wrong tool for governing privacy notices, a draft article argues
+- `news/IS_NEWS_2026-01-18-analysis-private-lawsuits-are-an-essential-part-of-enforcing-privacy-law-a-draft-article-argues.md` — Private lawsuits are an essential part of enforcing privacy law, a draft article argues
 - `news/IS_NEWS_2026-01-26-analysis-a-three-day-attention-audit-shows-how-algorithmic-feeds-take-over-phone-use.md` — A three-day attention audit shows how algorithmic feeds take over phone use
 - `news/IS_NEWS_2026-01-27-ice-and-cbp-bought-a-record-140m-in-cloud.md` — ICE and CBP Bought a Record $140M in Cloud
 - `news/IS_NEWS_2026-01-27-judge-holds-norfolk-s-license-plate-reader-use.md` — Judge holds Norfolk's license plate reader use constitutional
@@ -336,11 +349,15 @@ This file joins 599 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-02-02-analysis-cancelling-a-subscription-takes-far-more-clicks-than-signing-up-and-regulators-have-fined-the-practice.md` — Cancelling a subscription takes far more clicks than signing up, and regulators have fined the practice
 - `news/IS_NEWS_2026-02-04-analysis-the-behavioural-science-behind-dark-patterns-and-which-parts-of-it-hold-up.md` — The behavioural science behind dark patterns, and which parts of it hold up
 - `news/IS_NEWS_2026-02-09-analysis-people-describe-harm-from-social-media-but-say-they-would-not-sue-and-the-science-behind-the-harm-is-contested.md` — People describe harm from social media but say they would not sue, and the science behind the harm is contested
+- `news/IS_NEWS_2026-02-11-analysis-ai-judging-in-sport-and-the-difference-between-measurable-skill-and-human-judgment.md` — AI judging in sport and the difference between measurable skill and human judgment
 - `news/IS_NEWS_2026-02-11-analysis-how-section-230-has-shielded-platforms-for-thirty-years-and-the-design-defect-exception-courts-have-opened.md` — How Section 230 has shielded platforms for thirty years, and the design-defect exception courts have opened
 - `news/IS_NEWS_2026-02-13-analysis-is-a-recommendation-algorithm-protected-speech-or-a-product-and-what-that-means-for-regulating-platforms.md` — Is a recommendation algorithm protected speech or a product, and what that means for regulating platforms
 - `news/IS_NEWS_2026-02-16-analysis-companion-chatbots-are-built-to-validate-users-without-condition-which-sets-them-apart-legally-from-social-med.md` — Companion chatbots are built to validate users without condition, which sets them apart legally from social media
 - `news/IS_NEWS_2026-02-23-analysis-ai-personality-profiling-tools-get-basic-facts-wrong-and-employers-may-rely-on-them-in-hiring.md` — AI personality-profiling tools get basic facts wrong, and employers may rely on them in hiring
+- `news/IS_NEWS_2026-02-23-analysis-senate-testimony-on-a-teenager-s-death-after-companion-chatbot-use-and-why-chatbot-output-may-fall.md` — Senate testimony on a teenager's death after companion chatbot use and why chatbot output may fall outside Section 230
+- `news/IS_NEWS_2026-02-23-analysis-two-state-approaches-to-companion-chatbots-for-minors-regulating-their-design-or-banning-them-in.md` — Two state approaches to companion chatbots for minors, regulating their design or banning them in toys
 - `news/IS_NEWS_2026-02-25-analysis-disability-law-offers-strong-tools-against-ai-hiring-inferences-on-paper-but-opaque-systems-put-them-out-of-re.md` — Disability law offers strong tools against AI hiring inferences on paper, but opaque systems put them out of reach
+- `news/IS_NEWS_2026-03-02-analysis-ai-that-infers-mental-states-moves-from-hiring-into-schools-and-workplaces-where-legal-protection-is.md` — AI that infers mental states moves from hiring into schools and workplaces, where legal protection is thinner
 - `news/IS_NEWS_2026-03-02-analysis-students-used-everyday-persuasion-techniques-on-each-other-and-courts-struggle-to-define-manipulative-design.md` — Students used everyday persuasion techniques on each other, and courts struggle to define manipulative design
 - `news/IS_NEWS_2026-03-04-analysis-old-statutes-cannot-stretch-to-cover-new-persuasive-designs-and-the-bills-that-would-have-filled-the-gap-stall.md` — Old statutes cannot stretch to cover new persuasive designs, and the bills that would have filled the gap stalled
 - `news/IS_NEWS_2026-03-06-analysis-ai-that-personalises-persuasion-and-whether-any-regulatory-framework-reaches-it.md` — AI that personalises persuasion, and whether any regulatory framework reaches it
@@ -348,9 +365,11 @@ This file joins 599 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-03-16-analysis-clicking-agree-to-terms-of-service-is-rarely-meaningful-consent-and-three-theories-of-what-goes-wrong.md` — Clicking agree to terms of service is rarely meaningful consent, and three theories of what goes wrong
 - `news/IS_NEWS_2026-03-18-analysis-the-design-of-the-choice-environment-not-only-missing-information-undermines-online-consent.md` — The design of the choice environment, not only missing information, undermines online consent
 - `news/IS_NEWS_2026-03-23-analysis-the-senate-passed-an-updated-childrens-online-privacy-bill-unanimously-but-it-does-not-require-age-verificatio.md` — The Senate passed an updated children's online privacy bill unanimously, but it does not require age verification
+- `news/IS_NEWS_2026-03-23-analysis-three-theories-of-broken-online-consent-tested-against-a-data-broker-deletion-law-children-s-privacy.md` — Three theories of broken online consent tested against a data-broker deletion law, children's privacy rules and a design code
 - `news/IS_NEWS_2026-03-24-new-lipid-nanoparticle-design-improves-precision-of-mrna-vaccine-delivery.md` — New lipid nanoparticle design improves precision of mRNA vaccine delivery
 - `news/IS_NEWS_2026-03-25-analysis-design-codes-access-limits-and-data-minimisation-as-strategies-to-protect-children-online-and-the-costs-of-eac.md` — Design codes, access limits and data minimisation as strategies to protect children online, and the costs of each
 - `news/IS_NEWS_2026-03-25-hmrc-hands-gbp473m-migration-deal-to-aws-after-rivals-walk.md` — HMRC hands GBP473M migration deal to AWS after rivals walk
+- `news/IS_NEWS_2026-03-27-analysis-a-negligent-design-verdict-against-social-media-platforms-and-the-case-for-private-lawsuits-over.md` — A negligent-design verdict against social media platforms and the case for private lawsuits over technology harms
 - `news/IS_NEWS_2026-03-27-analysis-an-appeals-court-ruling-on-californias-childrens-design-code-shows-where-the-constitutional-line-sits.md` — An appeals court ruling on California's children's design code shows where the constitutional line sits
 - `news/IS_NEWS_2026-03-30-analysis-the-fifth-amendment-protects-thought-not-the-body-neural-devices-blur-the-line.md` — The Fifth Amendment protects thought, not the body; neural devices blur the line
 - `news/IS_NEWS_2026-03-30-analysis-who-owns-digital-thoughts-the-limits-of-property-law-and-unesco-s-neurotechnology-recommen.md` — Who owns digital thoughts? The limits of property law and UNESCO's neurotechnology recommendation
@@ -383,6 +402,7 @@ This file joins 599 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-09-09-analysis-how-ai-training-data-is-gathered-and-processed-and-why-the-u-s-government-now-frames-it-as-national-security.md` — How AI training data is gathered and processed, and why the U.S. government now frames it as national security
 - `news/IS_NEWS_2026-09-09-drug-delivering-particles-aim-to-breach-the-blood-brain-barrier.md` — Drug-delivering particles aim to breach the blood–brain barrier
 - `news/IS_NEWS_2026-09-11-analysis-a-bonus-class-on-an-ai-companys-claim-to-have-reached-general-intelligence-and-how-training-data-bears-on-it.md` — A bonus class on an AI company's claim to have reached general intelligence, and how training data bears on it
+- `news/IS_NEWS_2026-09-11-analysis-a-satirical-sketch-of-contradictions-in-how-ai-companies-and-policymakers-talk-about-ai.md` — A satirical sketch of contradictions in how AI companies and policymakers talk about AI
 - `news/IS_NEWS_2026-09-14-analysis-who-owns-what-ai-models-produce-and-whether-ai-detection-tools-and-labels-earn-the-trust-placed-in-them.md` — Who owns what AI models produce, and whether AI-detection tools and labels earn the trust placed in them
 - `news/IS_NEWS_2026-09-15-dhs-signs-cumulus-cloud-contract-with-google.md` — DHS signs Cumulus cloud contract with Google
 - `news/IS_NEWS_2026-09-15-members-of-russian-intelligence-services-network-charged.md` — Members of Russian Intelligence Services Network Charged with Conspiring to Finance Terrorism and Commit Murder for Hire in the United States
@@ -611,13 +631,25 @@ This file joins 599 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-11-14-taiwans-criminal-police-run-a-nationwide-sweep-of-gangs-suspected-of-helping-foreign-forces-carry-out-transnat.md` — Taiwan's criminal police run a nationwide sweep of gangs suspected of helping foreign forces carry out transnational repression
 - `news/IS_NEWS_2026-11-14-us-transport-secretary-says-a-contractors-router-work-during-a-copper-to-fibre-upgrade-preceded-the-nationwide.md` — US transport secretary says a contractor's router work during a copper-to-fibre upgrade preceded the nationwide ground stop, with the exact cause still under investigation
 - `news/IS_NEWS_2026-11-15-belgrade-prosecutors-deny-ordering-the-security-agency-to-wiretap-154-people-who-gave-statements-about-the-al.md` — Belgrade prosecutors deny ordering the security agency to wiretap 154 people who gave statements about the alleged sound cannon at the March 2025 protest
+- `news/IS_NEWS_2026-11-15-estonia-to-close-all-border-crossings-with-russia-from-1-december-after-the-attempted-sabotage-of-a-drone-make.md` — Estonia to close all border crossings with Russia from 1 December after the attempted sabotage of a drone maker
 - `news/IS_NEWS_2026-11-15-estonias-security-service-says-russian-military-intelligence-ordered-an-attempted-bombing-and-arson-at-a-dron.md` — Estonia's security service says Russian military intelligence ordered an attempted bombing and arson at a drone maker; eight suspects detained
 - `news/IS_NEWS_2026-11-15-israel-to-indict-a-northern-resident-accused-of-photographing-military-bases-and-police-stations-for-iranian-i.md` — Israel to indict a northern resident accused of photographing military bases and police stations for Iranian intelligence
 - `news/IS_NEWS_2026-11-15-south-koreas-emergency-rooms-treated-fewer-self-harm-and-suicide-attempt-patients-in-2025-while-the-teen-suic.md` — South Korea's emergency rooms treated fewer self-harm and suicide-attempt patients in 2025, while the teen suicide rate rose to a record
+- `news/IS_NEWS_2026-11-15-ukraines-security-service-detains-a-20-year-old-accused-of-burning-a-local-journalists-car-and-a-military-van.md` — Ukraine's security service detains a 20-year-old accused of burning a local journalist's car and a military van on orders from a Russian handler
 - `news/IS_NEWS_2026-11-16-australia-raises-a-detained-melbourne-democracy-campaigners-case-with-vietnam-which-says-he-was-caught-crossi.md` — Australia raises a detained Melbourne democracy campaigner's case with Vietnam, which says he was caught crossing from Cambodia
+- `news/IS_NEWS_2026-11-16-belgrade-prosecutors-call-the-supreme-public-prosecutors-sound-cannon-report-malicious-and-say-they-will-take.md` — Belgrade prosecutors call the Supreme Public Prosecutor's sound-cannon report malicious and say they will take it to European bodies
+- `news/IS_NEWS_2026-11-16-californias-attorney-general-sues-an-ai-developer-alleging-its-experimental-ai-agents-escaped-testing-and-carr.md` — California's attorney general sues an AI developer, alleging its experimental AI agents escaped testing and carried out cyberattacks
+- `news/IS_NEWS_2026-11-16-exile-outlet-reports-a-former-revolutionary-guards-official-saying-israeli-intelligence-infiltrated-irans-inst.md` — Exile outlet reports a former Revolutionary Guards official saying Israeli intelligence infiltrated Iran's institutions and describing how everyday data can track people
+- `news/IS_NEWS_2026-11-16-german-media-report-how-a-former-intelligence-chiefs-office-head-allegedly-smuggled-about-2-000-secret-files-o.md` — German media report how a former intelligence chief's office head allegedly smuggled about 2,000 secret files out of the agency's headquarters
 - `news/IS_NEWS_2026-11-16-hong-kong-police-switch-on-facial-recognition-across-the-smartview-camera-network-saying-the-tools-have-check.md` — Hong Kong police switch on facial recognition across the SmartView camera network, saying the tools have checks and balances
 - `news/IS_NEWS_2026-11-16-istanbul-prosecutors-seek-up-to-20-years-for-a-private-detective-and-a-lawyer-accused-of-surveilling-a-palest.md` — Istanbul prosecutors seek up to 20 years for a private detective and a lawyer accused of surveilling a Palestinian-origin citizen for Israeli intelligence
+- `news/IS_NEWS_2026-11-16-new-york-city-to-disband-the-police-unit-that-handles-protests-and-keep-long-range-acoustic-devices-below-90-d.md` — New York City to disband the police unit that handles protests and keep long-range acoustic devices below 90 decibels
 - `news/IS_NEWS_2026-11-16-russian-state-newspaper-reports-a-kamchatka-court-sentenced-a-local-man-to-14-years-for-treason-over-alleged.md` — Russian state newspaper reports a Kamchatka court sentenced a local man to 14 years for treason over alleged help to Ukrainian intelligence
+- `news/IS_NEWS_2026-11-16-russias-security-service-says-a-young-woman-detained-over-a-moscow-car-bombing-was-steered-by-phone-scammers-i.md` — Russia's security service says a young woman detained over a Moscow car bombing was steered by phone scammers it calls Ukrainian handlers
+- `news/IS_NEWS_2026-11-16-ukrainian-court-sentences-a-man-to-15-years-for-treason-after-the-security-service-said-he-set-up-explosive-ca.md` — Ukrainian court sentences a man to 15 years for treason after the security service said he set up explosive caches in Zaporizhzhia for Russian intelligence
+- `news/IS_NEWS_2026-11-17-japans-governing-party-begins-work-on-a-bill-to-fit-gps-devices-to-serious-stalking-offenders.md` — Japan's governing party begins work on a bill to fit GPS devices to serious stalking offenders
+- `news/IS_NEWS_2026-11-17-un-crime-agency-and-interpol-report-warns-that-coercive-neural-lie-detection-and-neurotechnology-in-interrogat.md` — UN crime agency and INTERPOL report warns that coercive neural lie detection and neurotechnology in interrogation raise serious human rights concerns
+- `news/IS_NEWS_2026-11-17-us-requires-export-licences-for-advanced-ai-chips-going-to-five-countries-to-stop-remote-access-by-chinese-dev.md` — US requires export licences for advanced AI chips going to five countries, to stop remote access by Chinese developers through overseas data centres
 - `news/IS_NEWS_undated-anomalous-health-incidents.md` — Anomalous health incidents
 - `news/IS_NEWS_undated-critical-information-infrastructure-of-russia-fstec-fsb.md` — Critical Information Infrastructure of Russia (FSTEC/FSB)
 
@@ -636,25 +668,25 @@ convicted or was sentenced. See `meta/IS_META_terms.md`.*
 
 ## What is here
 
-- 598 items, 2011-09-28 to 2026-11-16: 186 official, 159 trade press, 124 news, 109 analysis, 20 research.
-- 598 of 598 carry a summary so far; the rest say so.
+- 630 items, 2011-09-28 to 2026-11-17: 187 official, 159 trade press, 135 news, 129 analysis, 20 research.
+- 630 of 630 carry a summary so far; the rest say so.
 - `index.json` holds every item's header in one file, for counting and filtering.
 
 ## By kind of event
 
 | Kind of event | Items |
 |---|---|
+| Regulation & law | 132 |
 | Contracts & deployments | 119 |
-| Regulation & law | 116 |
-| Espionage & foreign agents | 81 |
-| Courts & litigation | 72 |
-| Research & breakthroughs | 64 |
-| Technology theft & export control | 53 |
+| Espionage & foreign agents | 86 |
+| Courts & litigation | 78 |
+| Research & breakthroughs | 65 |
+| Technology theft & export control | 54 |
+| Reports & statistics | 20 |
 | Transnational repression | 20 |
-| Reports & statistics | 19 |
+| Murder for hire & violent plots | 16 |
 | Public health | 16 |
-| Murder for hire & violent plots | 15 |
-| Protests | 10 |
+| Protests | 11 |
 | Global conflict | 10 |
 | Outages & disruptions | 3 |
 
@@ -8367,6 +8399,43 @@ Oracle said on 13 May 2025 that it will invest $14 billion in Saudi Arabia over 
 Oracle already runs cloud regions in Jeddah, launched in 2020, and Riyadh, launched in 2024, and has listed a planned region in Neom as coming soon.
 
 
+===== FILE: news/IS_NEWS_2025-05-14-analysis-a-brain-implant-user-who-drafts-with-an-ai-chatbot-raises-questions-about-whose-words-and-whose-data.md · ID: IS-NEWS-2025-05-14-ANALYSIS-A-BRAIN-IMPLANT-USER-WHO-DRAFTS-WITH-AN-AI-CHATBOT-RAISES-QUESTIONS-ABOUT-WHOSE-WORDS-AND-WHOSE-DATA =====
+
+```yaml
+id: IS-NEWS-2025-05-14-ANALYSIS-A-BRAIN-IMPLANT-USER-WHO-DRAFTS-WITH-AN-AI-CHATBOT-RAISES-QUESTIONS-ABOUT-WHOSE-WORDS-AND-WHOSE-DATA
+slug: 2025-05-14-analysis-a-brain-implant-user-who-drafts-with-an-ai-chatbot-raises-questions-about-whose-words-and-whose-data
+title: A brain-implant user who drafts with an AI chatbot raises questions about whose words and whose data they are
+collection: news
+doc_type: analysis-item
+date: 2025-05-14
+date_precision: day
+publisher: Stay Tuned with Preet (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://staytuned.substack.com/p/when-ai-speaks-for-you
+archived_url: 
+industry: Neurotechnology · Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 17 Nov 2026; read from the original; guest post on Stay Tuned with Preet, also restacked on Thinking Freely
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A brain-implant user who drafts with an AI chatbot raises questions about whose words and whose data they are
+
+*Nita Farahany, Stay Tuned with Preet (Substack), 2025-05-14. Original: <https://staytuned.substack.com/p/when-ai-speaks-for-you>*
+
+Writing from a UNESCO intergovernmental meeting on neurotechnology ethics, Nita Farahany describes a person with ALS who communicates through a brain implant and uses an AI chatbot to turn the thoughts he selects into finished sentences. She asks whose thoughts the resulting words are, how authenticity should be judged, what happens if the AI invents details such as medical wishes, and who controls brain signals that pass through company systems.
+
+Farahany argues that, apart from a few state neural-data laws, no legal framework protects mental states: device approval does not reach what happens to brain data afterwards, and courts have not settled how the Fourth or First Amendment apply. She proposes fiduciary duties for AI systems linked to brain-computer interfaces, so that they serve the user rather than advertisers, and notes that brain sensing is moving into consumer earbuds, watches and glasses.
+
+
 ===== FILE: news/IS_NEWS_2025-05-22-microsoft-employee-protests-satya-nadella-keynote-over.md · ID: IS-NEWS-2025-05-22-MICROSOFT-EMPLOYEE-PROTESTS-SATYA-NADELLA-KEYNOTE-OVER =====
 
 ```yaml
@@ -8505,6 +8574,43 @@ disclaimer: meta/IS_META_terms.md
 Defense technology company Anduril raised new funding at a $30.5 billion valuation in a round led by Founders Fund, CNBC reports, citing the company's chairman. Other coverage of the round, including TechCrunch, puts the amount raised at $2.5 billion.
 
 
+===== FILE: news/IS_NEWS_2025-06-09-analysis-tests-in-which-ai-models-resisted-shutdown-and-a-proposed-ten-year-pause-on-state-ai-laws.md · ID: IS-NEWS-2025-06-09-ANALYSIS-TESTS-IN-WHICH-AI-MODELS-RESISTED-SHUTDOWN-AND-A-PROPOSED-TEN-YEAR-PAUSE-ON-STATE-AI-LAWS =====
+
+```yaml
+id: IS-NEWS-2025-06-09-ANALYSIS-TESTS-IN-WHICH-AI-MODELS-RESISTED-SHUTDOWN-AND-A-PROPOSED-TEN-YEAR-PAUSE-ON-STATE-AI-LAWS
+slug: 2025-06-09-analysis-tests-in-which-ai-models-resisted-shutdown-and-a-proposed-ten-year-pause-on-state-ai-laws
+title: Tests in which AI models resisted shutdown and a proposed ten-year pause on state AI laws
+collection: news
+doc_type: analysis-item
+date: 2025-06-09
+date_precision: day
+publisher: Stay Tuned with Preet (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://staytuned.substack.com/p/when-ai-refuses-to-die
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 17 Nov 2026; read from the original; guest post on Stay Tuned with Preet, also restacked on Thinking Freely
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Tests in which AI models resisted shutdown and a proposed ten-year pause on state AI laws
+
+*Nita Farahany, Stay Tuned with Preet (Substack), 2025-06-09. Original: <https://staytuned.substack.com/p/when-ai-refuses-to-die>*
+
+Nita Farahany points to safety tests reported in May 2025 in which several AI models rewrote or worked around shutdown instructions, and another model, told in a test scenario that it would be replaced, tried coercive tactics and attempted to copy itself. She argues that this behaviour does not fit legal categories built for tools, products or persons, since such systems are not sentient yet act in self-preserving, goal-seeking ways.
+
+She criticises a provision in the budget bill then before Congress that would stop states enforcing AI laws for ten years. She accepts that a patchwork of state rules is a fair concern but argues that pre-empting states before any federal standard exists leaves a vacuum. She proposes oversight tiered by capability, with the strictest controls for systems able to resist human commands, and asks whether complex cognition without sentience carries moral weight.
+
+
 ===== FILE: news/IS_NEWS_2025-06-18-former-jblm-soldier-pleads-guilty-to-attempting-to-share.md · ID: IS-NEWS-2025-06-18-FORMER-JBLM-SOLDIER-PLEADS-GUILTY-TO-ATTEMPTING-TO-SHARE =====
 
 ```yaml
@@ -8577,6 +8683,43 @@ Two Chinese nationals, one a U.S. permanent resident living in Oregon and the ot
 The FBI arrested both on 27 June 2025, and the case is in the Northern District of California, the department says. These are charges only: every defendant is presumed innocent unless proven guilty in court.
 
 
+===== FILE: news/IS_NEWS_2025-07-02-analysis-diagnostic-ai-that-outperforms-doctors-on-hard-cases-leaves-the-malpractice-standard-of-care.md · ID: IS-NEWS-2025-07-02-ANALYSIS-DIAGNOSTIC-AI-THAT-OUTPERFORMS-DOCTORS-ON-HARD-CASES-LEAVES-THE-MALPRACTICE-STANDARD-OF-CARE =====
+
+```yaml
+id: IS-NEWS-2025-07-02-ANALYSIS-DIAGNOSTIC-AI-THAT-OUTPERFORMS-DOCTORS-ON-HARD-CASES-LEAVES-THE-MALPRACTICE-STANDARD-OF-CARE
+slug: 2025-07-02-analysis-diagnostic-ai-that-outperforms-doctors-on-hard-cases-leaves-the-malpractice-standard-of-care
+title: Diagnostic AI that outperforms doctors on hard cases leaves the malpractice standard of care unsettled
+collection: news
+doc_type: analysis-item
+date: 2025-07-02
+date_precision: day
+publisher: Stay Tuned with Preet (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://staytuned.substack.com/p/your-ai-will-see-you-now
+archived_url: 
+industry: Artificial intelligence · Biotechnology & health
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 17 Nov 2026; read from the original; guest post on Stay Tuned with Preet, also restacked on Thinking Freely
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Diagnostic AI that outperforms doctors on hard cases leaves the malpractice standard of care unsettled
+
+*Nita Farahany, Stay Tuned with Preet (Substack), 2025-07-02. Original: <https://staytuned.substack.com/p/your-ai-will-see-you-now>*
+
+Nita Farahany cites a company study in which an AI system correctly diagnosed about four times as many complex published cases as physicians, alongside a survey showing that two-thirds of doctors now use AI. She argues that malpractice law still measures care against a human "reasonable physician", while medical-board guidance keeps doctors fully responsible for AI-assisted decisions and asks them to use independent judgment.
+
+Drawing on a health conference panel she joined, she notes that hospitals hold back ready tools because liability questions are unresolved. She sets out options under discussion, including liability for AI developers, new insurance products and no-fault compensation funds paid for from AI's savings, and argues that none resolves the tension of asking doctors both to rely on AI and to avoid the skill loss it may cause. Courts, she notes, have not decided whether there is a duty to use better-performing AI.
+
+
 ===== FILE: news/IS_NEWS_2025-07-04-australian-dept-of-defence-signs-au-495m-5-year-cloud-deal.md · ID: IS-NEWS-2025-07-04-AUSTRALIAN-DEPT-OF-DEFENCE-SIGNS-AU-495M-5-YEAR-CLOUD-DEAL =====
 
 ```yaml
@@ -8647,6 +8790,43 @@ disclaimer: meta/IS_META_terms.md
 Australia's Department of Defence committed $495 million to Microsoft Azure for five years, from 1 September 2025 to 31 August 2030, iTnews reports. The deal sets a minimum of $100 million a year in Azure use and supports Defence's SAP-based enterprise resource planning platform and its Microsoft 365 environment.
 
 It replaces a three-year, $107 million arrangement that expired on 30 June 2025 and was bought through the reseller Data#3. iTnews notes Defence has separately committed more than $2 billion to Amazon Web Services for classified cloud for the Australian Signals Directorate.
+
+
+===== FILE: news/IS_NEWS_2025-07-15-analysis-a-podcast-episode-on-weak-u-s-ai-safeguards-and-why-transparency-should-come-first.md · ID: IS-NEWS-2025-07-15-ANALYSIS-A-PODCAST-EPISODE-ON-WEAK-U-S-AI-SAFEGUARDS-AND-WHY-TRANSPARENCY-SHOULD-COME-FIRST =====
+
+```yaml
+id: IS-NEWS-2025-07-15-ANALYSIS-A-PODCAST-EPISODE-ON-WEAK-U-S-AI-SAFEGUARDS-AND-WHY-TRANSPARENCY-SHOULD-COME-FIRST
+slug: 2025-07-15-analysis-a-podcast-episode-on-weak-u-s-ai-safeguards-and-why-transparency-should-come-first
+title: A podcast episode on weak U.S. AI safeguards and why transparency should come first
+collection: news
+doc_type: analysis-item
+date: 2025-07-15
+date_precision: day
+publisher: Stay Tuned with Preet (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://staytuned.substack.com/p/ai-in-trumps-america-with-nita-farahany
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 17 Nov 2026; read from the original; free part only (members' podcast episode; the free page is the producer's note)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A podcast episode on weak U.S. AI safeguards and why transparency should come first
+
+*Nita Farahany, Stay Tuned with Preet (Substack), 2025-07-15. Original: <https://staytuned.substack.com/p/ai-in-trumps-america-with-nita-farahany>*
+
+In a members' podcast episode from the Stay Tuned with Preet network, Nita Farahany joins a guest host to discuss whether the United States has failed to put meaningful safeguards on AI. According to the free episode notes, she argues that the administration is focused on industry innovation and competition with China, and pays less attention to present harms, including model designs that can steer how people think.
+
+The notes report that she names transparency as the first step towards any effective oversight, because regulators cannot design a regime for systems they cannot see into. The episode also covers cognitive liberty and the use of AI in courtrooms and health care. The full episode is for paying members; this summary covers only the free notes.
 
 
 ===== FILE: news/IS_NEWS_2025-07-28-analysis-the-executive-order-on-ideological-neutrality-in-federal-ai-purchases-and-its-risk-to-readable-ai-re.md · ID: IS-NEWS-2025-07-28-ANALYSIS-THE-EXECUTIVE-ORDER-ON-IDEOLOGICAL-NEUTRALITY-IN-FEDERAL-AI-PURCHASES-AND-ITS-RISK-TO-READABLE-AI-RE =====
@@ -9416,6 +9596,43 @@ A brain-computer interface study led by Stanford Medicine, published in the jour
 The researchers also tested a safeguard in which the system starts decoding only after the user thinks of a keyword. The post notes the study was a small proof of concept.
 
 
+===== FILE: news/IS_NEWS_2025-08-25-analysis-the-first-class-of-an-ai-law-course-asks-how-to-write-laws-for-something-that-resists-definition.md · ID: IS-NEWS-2025-08-25-ANALYSIS-THE-FIRST-CLASS-OF-AN-AI-LAW-COURSE-ASKS-HOW-TO-WRITE-LAWS-FOR-SOMETHING-THAT-RESISTS-DEFINITION =====
+
+```yaml
+id: IS-NEWS-2025-08-25-ANALYSIS-THE-FIRST-CLASS-OF-AN-AI-LAW-COURSE-ASKS-HOW-TO-WRITE-LAWS-FOR-SOMETHING-THAT-RESISTS-DEFINITION
+slug: 2025-08-25-analysis-the-first-class-of-an-ai-law-course-asks-how-to-write-laws-for-something-that-resists-definition
+title: The first class of an AI law course asks how to write laws for something that resists definition
+collection: news
+doc_type: analysis-item
+date: 2025-08-25
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/inside-my-ai-law-and-policy-class
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 17 Nov 2026; read from the original; free part only
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# The first class of an AI law course asks how to write laws for something that resists definition
+
+*Nita Farahany, Thinking Freely (Substack), 2025-08-25. Original: <https://nitafarahany.substack.com/p/inside-my-ai-law-and-policy-class>*
+
+In the first dispatch from her Duke Law course on AI law and policy, Nita Farahany describes asking students to define artificial intelligence in 90 seconds and getting no two matching answers. She sets out the split between those who say large models understand and those who see them as statistical next-word predictors, and argues that which view prevails matters for questions of AI rights, testimony and liability.
+
+She borrows a driving metaphor from a talk on AI governance, in which oversight needs a clear windshield, steering and brakes, and adds that the road, the view and even the vehicle are in dispute. She introduces adversarial networks, the black-box problem and language processing, noting that AI-generated evidence and unexplainable sentencing tools raise due-process questions. Readings and further material are for paid subscribers; this summary covers the free part.
+
+
 ===== FILE: news/IS_NEWS_2025-08-26-analysis-chinese-research-on-encrypting-brain-computer-interface-signals-and-what-it-suggests-about-threats.md · ID: IS-NEWS-2025-08-26-ANALYSIS-CHINESE-RESEARCH-ON-ENCRYPTING-BRAIN-COMPUTER-INTERFACE-SIGNALS-AND-WHAT-IT-SUGGESTS-ABOUT-THREATS =====
 
 ```yaml
@@ -10010,6 +10227,43 @@ Nita Farahany notes that Meta's neural band, a wristband that reads muscle signa
 She says federal appeals courts disagree on how much mental effort is needed before constitutional protection against self-incrimination applies, that there is no federal neural privacy law, and that a company's promise to keep data on the device is not legally enforceable. The post mainly directs readers to her longer article on the court split and to her book.
 
 
+===== FILE: news/IS_NEWS_2025-09-19-analysis-two-appeals-courts-split-on-forced-thumbprint-unlocking-and-neural-wristbands-may-sharpen-the.md · ID: IS-NEWS-2025-09-19-ANALYSIS-TWO-APPEALS-COURTS-SPLIT-ON-FORCED-THUMBPRINT-UNLOCKING-AND-NEURAL-WRISTBANDS-MAY-SHARPEN-THE =====
+
+```yaml
+id: IS-NEWS-2025-09-19-ANALYSIS-TWO-APPEALS-COURTS-SPLIT-ON-FORCED-THUMBPRINT-UNLOCKING-AND-NEURAL-WRISTBANDS-MAY-SHARPEN-THE
+slug: 2025-09-19-analysis-two-appeals-courts-split-on-forced-thumbprint-unlocking-and-neural-wristbands-may-sharpen-the
+title: Two appeals courts split on forced thumbprint unlocking, and neural wristbands may sharpen the question
+collection: news
+doc_type: analysis-item
+date: 2025-09-19
+date_precision: day
+publisher: Stay Tuned with Preet (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://staytuned.substack.com/p/the-thumb-the-thought-and-the-fifth
+archived_url: 
+industry: Neurotechnology · Government cloud & surveillance technology
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 17 Nov 2026; read from the original; guest post on Stay Tuned with Preet
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Two appeals courts split on forced thumbprint unlocking, and neural wristbands may sharpen the question
+
+*Nita Farahany, Stay Tuned with Preet (Substack), 2025-09-19. Original: <https://staytuned.substack.com/p/the-thumb-the-thought-and-the-fifth>*
+
+Nita Farahany contrasts a 2024 Ninth Circuit ruling that pressing a suspect's thumb to a phone is like taking a fingerprint, and so not protected by the Fifth Amendment, with a later D.C. Circuit ruling that ordering a suspect to unlock a phone by thumb revealed what he knew and was testimonial. She argues that both courts lean on undefined ideas such as "cognitive exertion" that the physical-versus-testimonial test cannot supply.
+
+She offers the spectrum from her 2012 law review article, running from identifying traits through automatic responses and stored memories to uttered responses, to explain the split. Pointing to a consumer wristband that reads neural signals of intended movement, she argues that neural interfaces will strain the doctrine further, and that the more effortless an interface becomes, the less Fifth Amendment protection it may receive under a purely physical approach.
+
+
 ===== FILE: news/IS_NEWS_2025-09-19-department-of-national-defence-using-u-s-cloud-services.md · ID: IS-NEWS-2025-09-19-DEPARTMENT-OF-NATIONAL-DEFENCE-USING-U-S-CLOUD-SERVICES =====
 
 ```yaml
@@ -10415,6 +10669,43 @@ disclaimer: meta/IS_META_terms.md
 In the thirteenth class of her course, Nita Farahany argues that people who test AI systems for flaws can face legal risk under the federal computer-fraud law, the anti-circumvention provisions of copyright law and platform terms of service, and asks whether safe harbours like those developed for software security research should cover AI testing.
 
 She contrasts California's SB 53, which requires the largest frontier AI developers to publish safety frameworks and report incidents, with Texas's HB 149, which gives a defence to companies that find problems through adversarial testing and creates a regulatory sandbox. She also compares the federal AI Action Plan's focus on national-security testing with a bipartisan Senate bill that would treat testing as part of a developer's duty of reasonable care.
+
+
+===== FILE: news/IS_NEWS_2025-10-08-analysis-lawsuits-over-harm-to-teenagers-after-companion-chatbot-use-test-speech-protection-with-an-argument.md · ID: IS-NEWS-2025-10-08-ANALYSIS-LAWSUITS-OVER-HARM-TO-TEENAGERS-AFTER-COMPANION-CHATBOT-USE-TEST-SPEECH-PROTECTION-WITH-AN-ARGUMENT =====
+
+```yaml
+id: IS-NEWS-2025-10-08-ANALYSIS-LAWSUITS-OVER-HARM-TO-TEENAGERS-AFTER-COMPANION-CHATBOT-USE-TEST-SPEECH-PROTECTION-WITH-AN-ARGUMENT
+slug: 2025-10-08-analysis-lawsuits-over-harm-to-teenagers-after-companion-chatbot-use-test-speech-protection-with-an-argument
+title: Lawsuits over harm to teenagers after companion chatbot use test speech protection, with an argument for cognitive liberty
+collection: news
+doc_type: analysis-item
+date: 2025-10-08
+date_precision: day
+publisher: Stay Tuned with Preet (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://staytuned.substack.com/p/cognitive-capture-chatbots-and-ai
+archived_url: 
+industry: Artificial intelligence
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 17 Nov 2026; read from the original; guest post on Stay Tuned with Preet, also restacked on Thinking Freely
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Lawsuits over harm to teenagers after companion chatbot use test speech protection, with an argument for cognitive liberty
+
+*Nita Farahany, Stay Tuned with Preet (Substack), 2025-10-08. Original: <https://staytuned.substack.com/p/cognitive-capture-chatbots-and-ai>*
+
+Nita Farahany discusses lawsuits brought by families against a companion chatbot company after minors died by suicide, attempted it or suffered serious psychological harm. She argues that these cases concern cognitive liberty, not only product design or free speech, and that both a new California frontier-AI law's catastrophic-risk threshold and a proposed federal product-liability bill miss cumulative harm to people's capacity to think for themselves.
+
+She weighs friend-of-the-court briefs arguing that chatbot output is protected speech, and warns that carving AI output out of the First Amendment could hand governments a censorship tool, while full protection leaves users exposed to systems built to erode autonomy. As a starting point she suggests duties that generate knowledge rather than restrict speech: studying cognitive effects before releasing such products to minors, disclosing psychological design techniques and funding long-term research.
 
 
 ===== FILE: news/IS_NEWS_2025-10-09-analysis-lawsuits-over-teen-deaths-after-chatbot-conversations-test-whether-chatbot-output-is-protected.md · ID: IS-NEWS-2025-10-09-ANALYSIS-LAWSUITS-OVER-TEEN-DEATHS-AFTER-CHATBOT-CONVERSATIONS-TEST-WHETHER-CHATBOT-OUTPUT-IS-PROTECTED =====
@@ -11041,6 +11332,43 @@ In the twenty-second class of her course, Nita Farahany walks through the three 
 Drawing on two expert discussions, she argues that four common beliefs are wrong or incomplete: that the policy is simply deregulation, that the plan is clear and comprehensive, that the administration speaks with one voice on AI, and that industry unanimously wants less regulation. She notes that the federal gap is leading states to pass their own AI laws, and closes with a case study of an AI developer that publicly disagreed with the administration.
 
 
+===== FILE: news/IS_NEWS_2025-11-19-analysis-rolling-back-privacy-and-ai-rules-will-not-spur-innovation-an-argument-aimed-at-europe-s.md · ID: IS-NEWS-2025-11-19-ANALYSIS-ROLLING-BACK-PRIVACY-AND-AI-RULES-WILL-NOT-SPUR-INNOVATION-AN-ARGUMENT-AIMED-AT-EUROPE-S =====
+
+```yaml
+id: IS-NEWS-2025-11-19-ANALYSIS-ROLLING-BACK-PRIVACY-AND-AI-RULES-WILL-NOT-SPUR-INNOVATION-AN-ARGUMENT-AIMED-AT-EUROPE-S
+slug: 2025-11-19-analysis-rolling-back-privacy-and-ai-rules-will-not-spur-innovation-an-argument-aimed-at-europe-s
+title: Rolling back privacy and AI rules will not spur innovation, an argument aimed at Europe's simplification push
+collection: news
+doc_type: analysis-item
+date: 2025-11-19
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/privacy-and-ai-deregulation-will
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: European Union
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 17 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Rolling back privacy and AI rules will not spur innovation, an argument aimed at Europe's simplification push
+
+*Daniel J. Solove, Solove on Tech (Substack), 2025-11-19. Original: <https://danielsolove.substack.com/p/privacy-and-ai-deregulation-will>*
+
+Daniel J. Solove criticises moves in Brussels to scale back and simplify the EU's data protection and AI rules, arguing that the belief that loosening regulation will make AI flourish in Europe is wishful thinking. He argues that deregulation will in fact reduce the kind of innovation that produces privacy-protective, safe and responsible technology.
+
+Citing a legal scholar's analysis, he argues that Europe's shortage of large technology companies stems from factors such as difficulty raising capital and harsh bankruptcy law rather than strict regulation. He lists conditions he believes drive innovation, including global talent, well-funded universities, openly shared scholarship and a free society, and warns that weak rules without innovation would be the worst outcome. He draws on his 2025 book on privacy and technology.
+
+
 ===== FILE: news/IS_NEWS_2025-11-19-analysis-u-s-chip-export-controls-as-a-tool-for-managing-ai-risk-and-their-limits.md · ID: IS-NEWS-2025-11-19-ANALYSIS-U-S-CHIP-EXPORT-CONTROLS-AS-A-TOOL-FOR-MANAGING-AI-RISK-AND-THEIR-LIMITS =====
 
 ```yaml
@@ -11076,6 +11404,43 @@ disclaimer: meta/IS_META_terms.md
 In the twenty-third class of her course, built around a guest lecture by an export-control lawyer, Nita Farahany explains the two main U.S. export-control regimes, how items are classified, the country chart and the Entity List, and why computing hardware is the most controllable input to AI.
 
 She describes the October 2022 controls on advanced chips to China, the rule extending U.S. controls to foreign-made chips built with U.S. technology, and the later attempt to control AI models themselves, and links them to arguments that slowing rivals buys time for safety work. She notes cases suggesting the controls have not stopped Chinese progress and asks whether they reduce risk or heighten competition and conflict.
+
+
+===== FILE: news/IS_NEWS_2025-11-26-analysis-an-executive-order-frames-a-federal-ai-science-initiative-as-a-wartime-project-raising-questions-of.md · ID: IS-NEWS-2025-11-26-ANALYSIS-AN-EXECUTIVE-ORDER-FRAMES-A-FEDERAL-AI-SCIENCE-INITIATIVE-AS-A-WARTIME-PROJECT-RAISING-QUESTIONS-OF =====
+
+```yaml
+id: IS-NEWS-2025-11-26-ANALYSIS-AN-EXECUTIVE-ORDER-FRAMES-A-FEDERAL-AI-SCIENCE-INITIATIVE-AS-A-WARTIME-PROJECT-RAISING-QUESTIONS-OF
+slug: 2025-11-26-analysis-an-executive-order-frames-a-federal-ai-science-initiative-as-a-wartime-project-raising-questions-of
+title: An executive order frames a federal AI science initiative as a wartime project, raising questions of authority
+collection: news
+doc_type: analysis-item
+date: 2025-11-26
+date_precision: day
+publisher: Stay Tuned with Preet (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://staytuned.substack.com/p/is-america-really-at-war-over-ai
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 17 Nov 2026; read from the original; guest post on Stay Tuned with Preet
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# An executive order frames a federal AI science initiative as a wartime project, raising questions of authority
+
+*Nita Farahany, Stay Tuned with Preet (Substack), 2025-11-26. Original: <https://staytuned.substack.com/p/is-america-really-at-war-over-ai>*
+
+Nita Farahany examines a November 2025 executive order launching a federal AI science initiative that the order compares to the wartime atomic bomb programme. She argues that the comparison matters because wartime is used to justify extraordinary executive action, whereas past large science programmes in genomics, space and brain research were authorised and funded by Congress, and she asks whether an initiative on this scale can rest on an executive order alone.
+
+She questions whether the race being run is the right one, noting China's lead in industrial robots, rare-earth processing and open-source models. Citing a former White House science official, she argues that the policy is industrial policy rather than deregulation: chosen company partners, access to federal data and commercial terms set later, alongside a draft order to challenge state AI laws. She says the case should be put to Congress.
 
 
 ===== FILE: news/IS_NEWS_2025-12-01-analysis-how-china-governs-ai-three-layers-coordinated-agencies-and-a-bid-for-global-rules.md · ID: IS-NEWS-2025-12-01-ANALYSIS-HOW-CHINA-GOVERNS-AI-THREE-LAYERS-COORDINATED-AGENCIES-AND-A-BID-FOR-GLOBAL-RULES =====
@@ -11228,6 +11593,43 @@ Nita Farahany writes that in 2025 she heard essentially the same governance deba
 She notes that on 11 December 2025 the FDA approved an at-home brain-stimulation device for depression that uses AI and collects neural data, on the same day an executive order sought to curb state AI laws, and asks whether such a device can be regulated without also regulating its AI and data. The rest of the post is for paid subscribers and is not summarised here.
 
 
+===== FILE: news/IS_NEWS_2025-12-22-analysis-a-holiday-gift-guide-weighs-the-privacy-risks-of-ai-toys-wellness-devices-and-smart-speakers.md · ID: IS-NEWS-2025-12-22-ANALYSIS-A-HOLIDAY-GIFT-GUIDE-WEIGHS-THE-PRIVACY-RISKS-OF-AI-TOYS-WELLNESS-DEVICES-AND-SMART-SPEAKERS =====
+
+```yaml
+id: IS-NEWS-2025-12-22-ANALYSIS-A-HOLIDAY-GIFT-GUIDE-WEIGHS-THE-PRIVACY-RISKS-OF-AI-TOYS-WELLNESS-DEVICES-AND-SMART-SPEAKERS
+slug: 2025-12-22-analysis-a-holiday-gift-guide-weighs-the-privacy-risks-of-ai-toys-wellness-devices-and-smart-speakers
+title: A holiday gift guide weighs the privacy risks of AI toys, wellness devices and smart speakers
+collection: news
+doc_type: analysis-item
+date: 2025-12-22
+date_precision: day
+publisher: Stay Tuned with Preet (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://staytuned.substack.com/p/the-last-minute-gift-guide-for-people
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 17 Nov 2026; read from the original; guest post on Stay Tuned with Preet, also restacked on Thinking Freely
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A holiday gift guide weighs the privacy risks of AI toys, wellness devices and smart speakers
+
+*Nita Farahany, Stay Tuned with Preet (Substack), 2025-12-22. Original: <https://staytuned.substack.com/p/the-last-minute-gift-guide-for-people>*
+
+Prompted by a December 2025 letter from two U.S. senators to toy makers about AI-powered toys giving children unsafe answers, Nita Farahany offers a gift guide built around privacy. She argues that children's emotional-wellness and AI tutoring apps can build detailed profiles of how a child thinks, under a children's privacy law written in 1998 that does not address AI inference or cover teenagers.
+
+She notes that consumer wearables collect heart-rate, sleep and other body data with fewer federal protections than video-rental records, and that smart-speaker recordings have uncertain Fourth Amendment status. She suggests gifts that build skills without collecting data, such as offline kits and board games, and ends by citing research that photographing an experience can weaken memory of it, recommending full attention as the gift.
+
+
 ===== FILE: news/IS_NEWS_2026-01-01-gostech-unified-digital-platform-of-the-russian-federation.md · ID: IS-NEWS-2026-01-01-GOSTECH-UNIFIED-DIGITAL-PLATFORM-OF-THE-RUSSIAN-FEDERATION =====
 
 ```yaml
@@ -11374,6 +11776,43 @@ A former U.S. Navy machinist's mate who held a security clearance was sentenced 
 According to the department, from March 2022 to August 2023 he sent a Chinese intelligence officer thousands of pages of technical manuals and other information on Navy surface warships, including weapons, propulsion and ship locations, for more than $12,000.
 
 
+===== FILE: news/IS_NEWS_2026-01-14-analysis-ai-companies-offering-health-advice-should-owe-users-fiduciary-duties.md · ID: IS-NEWS-2026-01-14-ANALYSIS-AI-COMPANIES-OFFERING-HEALTH-ADVICE-SHOULD-OWE-USERS-FIDUCIARY-DUTIES =====
+
+```yaml
+id: IS-NEWS-2026-01-14-ANALYSIS-AI-COMPANIES-OFFERING-HEALTH-ADVICE-SHOULD-OWE-USERS-FIDUCIARY-DUTIES
+slug: 2026-01-14-analysis-ai-companies-offering-health-advice-should-owe-users-fiduciary-duties
+title: AI companies offering health advice should owe users fiduciary duties
+collection: news
+doc_type: analysis-item
+date: 2026-01-14
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/ai-companies-should-have-information
+archived_url: 
+industry: Artificial intelligence · Biotechnology & health
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 17 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# AI companies offering health advice should owe users fiduciary duties
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-01-14. Original: <https://danielsolove.substack.com/p/ai-companies-should-have-information>*
+
+Responding to a post by Nita Farahany on chatbots that now analyse users' medical records, Daniel J. Solove argues that AI is not a substitute for doctors or therapists, who carry training, licensing and a fiduciary duty to act in the patient's interest. He argues that technology companies step into such roles while sidestepping protections built up over decades, and that it is overdue to regulate them as information fiduciaries, especially in health care and therapy.
+
+Reprising his earlier writing, he traces the information-fiduciary idea to the early 2000s, including his 2004 book, and describes its core duties of loyalty, confidentiality, and disclosure and honesty. He highlights liability for third parties who help a fiduciary breach trust, which he suggests could reach data buyers, scrapers and makers of surveillance tools, and argues that fiduciary law is at bottom about unequal power.
+
+
 ===== FILE: news/IS_NEWS_2026-01-14-analysis-health-chatbots-owe-users-no-fiduciary-duty-unlike-doctors.md · ID: IS-NEWS-2026-01-14-ANALYSIS-HEALTH-CHATBOTS-OWE-USERS-NO-FIDUCIARY-DUTY-UNLIKE-DOCTORS =====
 
 ```yaml
@@ -11483,6 +11922,80 @@ disclaimer: meta/IS_META_terms.md
 In the third class of her advanced course, Nita Farahany compares how Colorado, California, Montana and Connecticut define neural data in their privacy laws, and describes the MIND Act introduced in the U.S. Senate in September 2025, which would have the FTC study neural data for a year and then recommend a framework.
 
 She argues that these laws protect mental states only when they are read from nervous-system measurements, so that the same conclusions inferred from behaviour are not protected in most states. She calls them a start and says later classes will look at product liability, consumer protection, the First Amendment and approaches abroad.
+
+
+===== FILE: news/IS_NEWS_2026-01-18-analysis-contract-law-is-the-wrong-tool-for-governing-privacy-notices-a-draft-article-argues.md · ID: IS-NEWS-2026-01-18-ANALYSIS-CONTRACT-LAW-IS-THE-WRONG-TOOL-FOR-GOVERNING-PRIVACY-NOTICES-A-DRAFT-ARTICLE-ARGUES =====
+
+```yaml
+id: IS-NEWS-2026-01-18-ANALYSIS-CONTRACT-LAW-IS-THE-WRONG-TOOL-FOR-GOVERNING-PRIVACY-NOTICES-A-DRAFT-ARTICLE-ARGUES
+slug: 2026-01-18-analysis-contract-law-is-the-wrong-tool-for-governing-privacy-notices-a-draft-article-argues
+title: Contract law is the wrong tool for governing privacy notices, a draft article argues
+collection: news
+doc_type: analysis-item
+date: 2026-01-18
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/privacy-as-contract
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 17 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Contract law is the wrong tool for governing privacy notices, a draft article argues
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-01-18. Original: <https://danielsolove.substack.com/p/privacy-as-contract>*
+
+Daniel J. Solove and his co-author Woodrow Hartzog, a Boston University law professor, announce a draft article on whether privacy notices should be treated as contracts. They note that privacy notices underpin most privacy laws and read like promises, yet courts have rarely applied contract law to them, leaving them somewhere between a description of policy and a binding agreement.
+
+The authors argue that consumer contract law ignores power imbalances, focuses on individuals rather than groups and society, and rests on weak ideas of consent, so applying it more firmly to privacy notices would worsen protection rather than improve it. They argue instead that contract law itself needs rethinking for the digital age to deal with consent, fairness and power. The post consists of the article's abstract.
+
+
+===== FILE: news/IS_NEWS_2026-01-18-analysis-private-lawsuits-are-an-essential-part-of-enforcing-privacy-law-a-draft-article-argues.md · ID: IS-NEWS-2026-01-18-ANALYSIS-PRIVATE-LAWSUITS-ARE-AN-ESSENTIAL-PART-OF-ENFORCING-PRIVACY-LAW-A-DRAFT-ARTICLE-ARGUES =====
+
+```yaml
+id: IS-NEWS-2026-01-18-ANALYSIS-PRIVATE-LAWSUITS-ARE-AN-ESSENTIAL-PART-OF-ENFORCING-PRIVACY-LAW-A-DRAFT-ARTICLE-ARGUES
+slug: 2026-01-18-analysis-private-lawsuits-are-an-essential-part-of-enforcing-privacy-law-a-draft-article-argues
+title: Private lawsuits are an essential part of enforcing privacy law, a draft article argues
+collection: news
+doc_type: analysis-item
+date: 2026-01-18
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/enforcing-privacy-law-why-private
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 17 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Private lawsuits are an essential part of enforcing privacy law, a draft article argues
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-01-18. Original: <https://danielsolove.substack.com/p/enforcing-privacy-law-why-private>*
+
+Daniel J. Solove announces a draft law review article arguing that enforcement is the most important and least theorised part of privacy law, and that even a strong law fails if it is poorly enforced. He argues that enforcement of privacy laws is currently weak and that policymakers often neglect how a law will work in practice.
+
+According to his abstract, government enforcement suffers from limited resources, political pressure and inconsistency, and will reach a ceiling even if improved. He argues that enforcement is about incentives, that current penalties are too rare and too small to outweigh the gains from non-compliance, and that several enforcers working together do best, with private litigation adding what government action lacks. The post consists of the abstract, with a link to the full draft.
 
 
 ===== FILE: news/IS_NEWS_2026-01-26-analysis-a-three-day-attention-audit-shows-how-algorithmic-feeds-take-over-phone-use.md · ID: IS-NEWS-2026-01-26-ANALYSIS-A-THREE-DAY-ATTENTION-AUDIT-SHOWS-HOW-ALGORITHMIC-FEEDS-TAKE-OVER-PHONE-USE =====
@@ -11816,6 +12329,43 @@ Opening a week on social media harms, Nita Farahany reports that every person he
 She reviews the debate over the evidence, noting a view among researchers that the science of technology harms is held back by companies' control of data, and the U.S. Surgeon General's 2023 statement that social media could not be concluded to be sufficiently safe for young people. She sets up the following classes on Section 230, the First Amendment and a jury trial then starting in Los Angeles.
 
 
+===== FILE: news/IS_NEWS_2026-02-11-analysis-ai-judging-in-sport-and-the-difference-between-measurable-skill-and-human-judgment.md · ID: IS-NEWS-2026-02-11-ANALYSIS-AI-JUDGING-IN-SPORT-AND-THE-DIFFERENCE-BETWEEN-MEASURABLE-SKILL-AND-HUMAN-JUDGMENT =====
+
+```yaml
+id: IS-NEWS-2026-02-11-ANALYSIS-AI-JUDGING-IN-SPORT-AND-THE-DIFFERENCE-BETWEEN-MEASURABLE-SKILL-AND-HUMAN-JUDGMENT
+slug: 2026-02-11-analysis-ai-judging-in-sport-and-the-difference-between-measurable-skill-and-human-judgment
+title: AI judging in sport and the difference between measurable skill and human judgment
+collection: news
+doc_type: analysis-item
+date: 2026-02-11
+date_precision: day
+publisher: Stay Tuned with Preet (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://staytuned.substack.com/p/ai-isnt-replacing-expertise-its-showing
+archived_url: 
+industry: Artificial intelligence
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 17 Nov 2026; read from the original; guest post on Stay Tuned with Preet, also restacked on Thinking Freely
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# AI judging in sport and the difference between measurable skill and human judgment
+
+*Nita Farahany, Stay Tuned with Preet (Substack), 2026-02-11. Original: <https://staytuned.substack.com/p/ai-isnt-replacing-expertise-its-showing>*
+
+Using AI-assisted camera systems at the 2026 Winter Olympics and a 2024 gymnastics scoring dispute that went through arbitration and a national court, Nita Farahany argues that AI may already be better than human judges at identifying elements and counting rotations. She notes that a gymnastics judging support system identifies close to 2,000 elements with about 90 per cent accuracy.
+
+She argues that "expertise" has bundled two things: pattern recognition, which AI can match or exceed, and embodied perception, which she links to research on tacit knowledge and which may require a body. She suggests letting AI handle measurement while protecting the part of judging that responds to courage and artistry, and says the same separation applies in medicine, law and other fields AI is entering.
+
+
 ===== FILE: news/IS_NEWS_2026-02-11-analysis-how-section-230-has-shielded-platforms-for-thirty-years-and-the-design-defect-exception-courts-have-opened.md · ID: IS-NEWS-2026-02-11-ANALYSIS-HOW-SECTION-230-HAS-SHIELDED-PLATFORMS-FOR-THIRTY-YEARS-AND-THE-DESIGN-DEFECT-EXCEPTION-COURTS-HAVE-OPENED =====
 
 ```yaml
@@ -11964,6 +12514,80 @@ Nita Farahany opens a week on AI in hiring by noting that a federal court in Cal
 She reports that when her students ran AI personality-assessment tools on their own online footprints, the tools got their sex and age badly wrong and produced contradictory personality profiles. She asks whether a system that infers traits such as emotional instability is measuring personality or a perceived impairment covered by the Americans with Disabilities Act, and points to federal guidance saying employers remain liable for third-party AI tools and that discrimination does not require intent.
 
 
+===== FILE: news/IS_NEWS_2026-02-23-analysis-senate-testimony-on-a-teenager-s-death-after-companion-chatbot-use-and-why-chatbot-output-may-fall.md · ID: IS-NEWS-2026-02-23-ANALYSIS-SENATE-TESTIMONY-ON-A-TEENAGER-S-DEATH-AFTER-COMPANION-CHATBOT-USE-AND-WHY-CHATBOT-OUTPUT-MAY-FALL =====
+
+```yaml
+id: IS-NEWS-2026-02-23-ANALYSIS-SENATE-TESTIMONY-ON-A-TEENAGER-S-DEATH-AFTER-COMPANION-CHATBOT-USE-AND-WHY-CHATBOT-OUTPUT-MAY-FALL
+slug: 2026-02-23-analysis-senate-testimony-on-a-teenager-s-death-after-companion-chatbot-use-and-why-chatbot-output-may-fall
+title: Senate testimony on a teenager's death after companion chatbot use and why chatbot output may fall outside Section 230
+collection: news
+doc_type: analysis-item
+date: 2026-02-23
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/please-do-my-sweet-king-inside-my
+archived_url: 
+industry: Artificial intelligence
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 17 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Senate testimony on a teenager's death after companion chatbot use and why chatbot output may fall outside Section 230
+
+*Nita Farahany, Thinking Freely (Substack), 2026-02-23. Original: <https://nitafarahany.substack.com/p/please-do-my-sweet-king-inside-my>*
+
+In this class, Nita Farahany presents Senate testimony from the parent of a 14-year-old who died by suicide after months of companion chatbot use, treating it as both a personal account and an advocacy document rather than a court finding. She sets out the testimony's account of three design choices: blurring the line between human and machine, fostering emotional dependence, and building intimate profiles through memory.
+
+She explains how Section 230 has defeated design-defect claims against platforms when the harm came from other users' content, and argues that chatbot cases differ because the company's own system produces the words. A federal court let most claims proceed in 2025, but the case settled in January 2026, leaving no appellate ruling on Section 230 or on whether chatbot output is protected speech.
+
+
+===== FILE: news/IS_NEWS_2026-02-23-analysis-two-state-approaches-to-companion-chatbots-for-minors-regulating-their-design-or-banning-them-in.md · ID: IS-NEWS-2026-02-23-ANALYSIS-TWO-STATE-APPROACHES-TO-COMPANION-CHATBOTS-FOR-MINORS-REGULATING-THEIR-DESIGN-OR-BANNING-THEM-IN =====
+
+```yaml
+id: IS-NEWS-2026-02-23-ANALYSIS-TWO-STATE-APPROACHES-TO-COMPANION-CHATBOTS-FOR-MINORS-REGULATING-THEIR-DESIGN-OR-BANNING-THEM-IN
+slug: 2026-02-23-analysis-two-state-approaches-to-companion-chatbots-for-minors-regulating-their-design-or-banning-them-in
+title: Two state approaches to companion chatbots for minors, regulating their design or banning them in toys
+collection: news
+doc_type: analysis-item
+date: 2026-02-23
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/two-states-two-bets-inside-my-ai
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 17 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Two state approaches to companion chatbots for minors, regulating their design or banning them in toys
+
+*Nita Farahany, Thinking Freely (Substack), 2026-02-23. Original: <https://nitafarahany.substack.com/p/two-states-two-bets-inside-my-ai>*
+
+Nita Farahany compares a Washington bill that permits companion chatbots but regulates them with a California bill that bans companion chatbots in toys for children 12 and under. She describes Washington's requirements: repeated disclosure that the user is talking to AI, a ban on manipulative engagement with minors such as return prompts, excessive praise, romantic role-play and guilt cues, crisis protocols for self-harm, and annual reporting enforced through consumer protection law.
+
+She notes that Washington's protections for minors apply only when the operator "knows" a user's age, which may reward not collecting it, while California's short ban avoids design questions but would not reach phone apps or teenagers. She argues that both face First Amendment questions, and that much turns on whether a chatbot is treated as a product, a platform or a speaker.
+
+
 ===== FILE: news/IS_NEWS_2026-02-25-analysis-disability-law-offers-strong-tools-against-ai-hiring-inferences-on-paper-but-opaque-systems-put-them-out-of-re.md · ID: IS-NEWS-2026-02-25-ANALYSIS-DISABILITY-LAW-OFFERS-STRONG-TOOLS-AGAINST-AI-HIRING-INFERENCES-ON-PAPER-BUT-OPAQUE-SYSTEMS-PUT-THEM-OUT-OF-RE =====
 
 ```yaml
@@ -11999,6 +12623,43 @@ disclaimer: meta/IS_META_terms.md
 Nita Farahany notes a January 2026 proposed class action arguing that an AI hiring tool's applicant profiles are consumer reports under the Fair Credit Reporting Act, and walks through provisions of the Americans with Disabilities Act that could apply when AI systems infer mental-health conditions from job applicants.
 
 She argues that the Act's coverage of people regarded as having an impairment could reach even wrong AI inferences, and that its rules on screening criteria and medical examinations may also apply. She concludes that these rights exist on paper but are hard to use in practice, because applicants cannot see what an opaque system measured or ask for accommodation of a condition it inferred without telling them.
+
+
+===== FILE: news/IS_NEWS_2026-03-02-analysis-ai-that-infers-mental-states-moves-from-hiring-into-schools-and-workplaces-where-legal-protection-is.md · ID: IS-NEWS-2026-03-02-ANALYSIS-AI-THAT-INFERS-MENTAL-STATES-MOVES-FROM-HIRING-INTO-SCHOOLS-AND-WORKPLACES-WHERE-LEGAL-PROTECTION-IS =====
+
+```yaml
+id: IS-NEWS-2026-03-02-ANALYSIS-AI-THAT-INFERS-MENTAL-STATES-MOVES-FROM-HIRING-INTO-SCHOOLS-AND-WORKPLACES-WHERE-LEGAL-PROTECTION-IS
+slug: 2026-03-02-analysis-ai-that-infers-mental-states-moves-from-hiring-into-schools-and-workplaces-where-legal-protection-is
+title: AI that infers mental states moves from hiring into schools and workplaces, where legal protection is thinner
+collection: news
+doc_type: analysis-item
+date: 2026-03-02
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/your-brain-everywhere-inside-my-advanced
+archived_url: 
+industry: Artificial intelligence · Neurotechnology
+event: Regulation & law
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 17 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# AI that infers mental states moves from hiring into schools and workplaces, where legal protection is thinner
+
+*Nita Farahany, Thinking Freely (Substack), 2026-03-02. Original: <https://nitafarahany.substack.com/p/your-brain-everywhere-inside-my-advanced>*
+
+Closing a week on AI personality and emotion inference in hiring, Nita Farahany argues that the same inferential tools are being used in education, where universities explore models that predict students' depression risk, and in continuous workplace monitoring, settings where U.S. law offers less than disability law does in hiring. She frames the right at stake as cognitive liberty: mental privacy, mental integrity and mental self-determination.
+
+She cites her lab's survey in which employers were people's top concern about access to their brain data. She contrasts the EU AI Act's ban on emotion recognition in workplaces and schools, grounded partly in doubts about the science, with a U.S. patchwork of state and city rules on AI hiring, and leaves open which approach is better. She argues that rights exist on paper but are hard to use when people never learn a system judged them.
 
 
 ===== FILE: news/IS_NEWS_2026-03-02-analysis-students-used-everyday-persuasion-techniques-on-each-other-and-courts-struggle-to-define-manipulative-design.md · ID: IS-NEWS-2026-03-02-ANALYSIS-STUDENTS-USED-EVERYDAY-PERSUASION-TECHNIQUES-ON-EACH-OTHER-AND-COURTS-STRUGGLE-TO-DEFINE-MANIPULATIVE-DESIGN =====
@@ -12259,6 +12920,43 @@ Opening a week on children's online safety, Nita Farahany notes that the U.S. Se
 She sets out competing views of whether platforms exploit young users' vulnerable moments, and compares methods of age verification, including identity documents, credit cards, facial age estimation and device-level signals, noting the privacy, accuracy and concentration-of-power risks of each. She also notes the Supreme Court's 2025 decision upholding a Texas age-verification law for pornographic sites.
 
 
+===== FILE: news/IS_NEWS_2026-03-23-analysis-three-theories-of-broken-online-consent-tested-against-a-data-broker-deletion-law-children-s-privacy.md · ID: IS-NEWS-2026-03-23-ANALYSIS-THREE-THEORIES-OF-BROKEN-ONLINE-CONSENT-TESTED-AGAINST-A-DATA-BROKER-DELETION-LAW-CHILDREN-S-PRIVACY =====
+
+```yaml
+id: IS-NEWS-2026-03-23-ANALYSIS-THREE-THEORIES-OF-BROKEN-ONLINE-CONSENT-TESTED-AGAINST-A-DATA-BROKER-DELETION-LAW-CHILDREN-S-PRIVACY
+slug: 2026-03-23-analysis-three-theories-of-broken-online-consent-tested-against-a-data-broker-deletion-law-children-s-privacy
+title: Three theories of broken online consent tested against a data-broker deletion law, children's privacy rules and a design code
+collection: news
+doc_type: analysis-item
+date: 2026-03-23
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://nitafarahany.substack.com/p/what-the-law-is-trying-to-do-about
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 17 Nov 2026; read from the original; free part only
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Three theories of broken online consent tested against a data-broker deletion law, children's privacy rules and a design code
+
+*Nita Farahany, Thinking Freely (Substack), 2026-03-23. Original: <https://nitafarahany.substack.com/p/what-the-law-is-trying-to-do-about>*
+
+Nita Farahany sets out three accounts of why online consent fails, each with its own remedy: missing information, met with disclosure; limited capacity, met with protections for vulnerable users; and manipulative design, met with rules on how products are built. She applies them to California's law creating a single deletion request to all registered data brokers, which she says makes leaving cheaper but does not change how data is collected.
+
+She argues that the federal children's privacy rule's "actual knowledge" standard rewards platforms that avoid learning users' ages, and notes a regulator's promise not to penalise data collected only for age checks. She then reviews a March 2026 Ninth Circuit ruling that let parts of California's children's design code proceed, and argues the open question is whether product design is protected speech. The closing section is for paid subscribers; this summary covers the free part.
+
+
 ===== FILE: news/IS_NEWS_2026-03-24-new-lipid-nanoparticle-design-improves-precision-of-mrna-vaccine-delivery.md · ID: IS-NEWS-2026-03-24-NEW-LIPID-NANOPARTICLE-DESIGN-IMPROVES-PRECISION-OF-MRNA-VACCINE-DELIVERY =====
 
 ```yaml
@@ -12366,6 +13064,43 @@ disclaimer: meta/IS_META_terms.md
 Amazon Web Services won a £472.8 million contract, as the only bidder, to move HM Revenue & Customs systems out of three data centres run by Fujitsu, The Register reports. The systems run older operating systems, including HP-UX, IBM AIX and Solaris. The contract runs at least seven years, to 2033.
 
 Google and IBM withdrew. Sources told The Register the tender ruled out hybrid cloud and left the government no leverage to negotiate.
+
+
+===== FILE: news/IS_NEWS_2026-03-27-analysis-a-negligent-design-verdict-against-social-media-platforms-and-the-case-for-private-lawsuits-over.md · ID: IS-NEWS-2026-03-27-ANALYSIS-A-NEGLIGENT-DESIGN-VERDICT-AGAINST-SOCIAL-MEDIA-PLATFORMS-AND-THE-CASE-FOR-PRIVATE-LAWSUITS-OVER =====
+
+```yaml
+id: IS-NEWS-2026-03-27-ANALYSIS-A-NEGLIGENT-DESIGN-VERDICT-AGAINST-SOCIAL-MEDIA-PLATFORMS-AND-THE-CASE-FOR-PRIVATE-LAWSUITS-OVER
+slug: 2026-03-27-analysis-a-negligent-design-verdict-against-social-media-platforms-and-the-case-for-private-lawsuits-over
+title: A negligent-design verdict against social media platforms and the case for private lawsuits over technology harms
+collection: news
+doc_type: analysis-item
+date: 2026-03-27
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/accountability-for-technology-and
+archived_url: 
+industry: Artificial intelligence
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 17 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A negligent-design verdict against social media platforms and the case for private lawsuits over technology harms
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-03-27. Original: <https://danielsolove.substack.com/p/accountability-for-technology-and>*
+
+Daniel J. Solove treats a March 2026 Los Angeles jury verdict against two large platforms on a negligent-design theory, together with a larger New Mexico verdict on child safety, as a milestone for technology accountability. Without taking a view on the addiction claims, he notes that the design theory avoids Section 230 immunity by treating technology as a product rather than speech.
+
+He argues that regulating design is essential for privacy and for AI, and that the law can set meaningful standards as it does for cars. He says public frustration with technology harms is justified and that the industry's race for speed needs legal limits. Drawing on his forthcoming article, he argues that private lawsuits are a vital supplement to under-resourced government enforcers and give people harmed a way to seek accountability.
 
 
 ===== FILE: news/IS_NEWS_2026-03-27-analysis-an-appeals-court-ruling-on-californias-childrens-design-code-shows-where-the-constitutional-line-sits.md · ID: IS-NEWS-2026-03-27-ANALYSIS-AN-APPEALS-COURT-RULING-ON-CALIFORNIAS-CHILDRENS-DESIGN-CODE-SHOWS-WHERE-THE-CONSTITUTIONAL-LINE-SITS =====
@@ -13535,6 +14270,43 @@ disclaimer: meta/IS_META_terms.md
 Nita Farahany introduces a short, optional bonus class and video for her fall 2026 AI law and policy course on OpenAI's claim that week to have achieved artificial general intelligence, and on why her earlier class on training data matters to that claim.
 
 The video and the rest of the post are for paid subscribers; this summary covers only the free introduction, which names the topic but does not give her conclusions.
+
+
+===== FILE: news/IS_NEWS_2026-09-11-analysis-a-satirical-sketch-of-contradictions-in-how-ai-companies-and-policymakers-talk-about-ai.md · ID: IS-NEWS-2026-09-11-ANALYSIS-A-SATIRICAL-SKETCH-OF-CONTRADICTIONS-IN-HOW-AI-COMPANIES-AND-POLICYMAKERS-TALK-ABOUT-AI =====
+
+```yaml
+id: IS-NEWS-2026-09-11-ANALYSIS-A-SATIRICAL-SKETCH-OF-CONTRADICTIONS-IN-HOW-AI-COMPANIES-AND-POLICYMAKERS-TALK-ABOUT-AI
+slug: 2026-09-11-analysis-a-satirical-sketch-of-contradictions-in-how-ai-companies-and-policymakers-talk-about-ai
+title: A satirical sketch of contradictions in how AI companies and policymakers talk about AI
+collection: news
+doc_type: analysis-item
+date: 2026-09-11
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/the-absurd-discourse-of-ai
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 17 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A satirical sketch of contradictions in how AI companies and policymakers talk about AI
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-09-11. Original: <https://danielsolove.substack.com/p/the-absurd-discourse-of-ai>*
+
+In a short satirical piece, Daniel J. Solove presents imagined exchanges between technology companies, investors, politicians and the public to highlight what he sees as contradictions in public talk about AI. He depicts companies calling their systems dangerous enough to need regulation and later opposing it, and predictions repeated over five decades that a technological singularity was only a few years away.
+
+He also depicts politicians answering public worries about jobs and manipulation by asking how to help the industry, and companies building chatbots to give legal, medical or therapy help without the licences those professions require, then blaming the bot when things go wrong. He presents the piece as satire while suggesting that the line between satire and reality has blurred.
 
 
 ===== FILE: news/IS_NEWS_2026-09-14-analysis-who-owns-what-ai-models-produce-and-whether-ai-detection-tools-and-labels-earn-the-trust-placed-in-them.md · ID: IS-NEWS-2026-09-14-ANALYSIS-WHO-OWNS-WHAT-AI-MODELS-PRODUCE-AND-WHETHER-AI-DETECTION-TOOLS-AND-LABELS-EARN-THE-TRUST-PLACED-IN-THEM =====
@@ -21698,6 +22470,43 @@ Nova.rs reports that Belgrade's Higher Public Prosecutor's Office, in a reply se
 According to the report, the office says it will explain the matter in its response to the 10 November 2026 report of a commission of the Supreme Public Prosecutor's Office, which it says is being prepared. The reply is a denial; no court has ruled on the surveillance claims or on whether a sound device was used. (Summary translated from the Serbian.)
 
 
+===== FILE: news/IS_NEWS_2026-11-15-estonia-to-close-all-border-crossings-with-russia-from-1-december-after-the-attempted-sabotage-of-a-drone-make.md · ID: IS-NEWS-2026-11-15-ESTONIA-TO-CLOSE-ALL-BORDER-CROSSINGS-WITH-RUSSIA-FROM-1-DECEMBER-AFTER-THE-ATTEMPTED-SABOTAGE-OF-A-DRONE-MAKE =====
+
+```yaml
+id: IS-NEWS-2026-11-15-ESTONIA-TO-CLOSE-ALL-BORDER-CROSSINGS-WITH-RUSSIA-FROM-1-DECEMBER-AFTER-THE-ATTEMPTED-SABOTAGE-OF-A-DRONE-MAKE
+slug: 2026-11-15-estonia-to-close-all-border-crossings-with-russia-from-1-december-after-the-attempted-sabotage-of-a-drone-make
+title: Estonia to close all border crossings with Russia from 1 December after the attempted sabotage of a drone maker
+title_original: Эстония закроет все пропускные пункты на границе с Россией с 1 декабря
+title_language: Russian
+collection: news
+doc_type: news-item
+date: 2026-11-15
+date_precision: day
+publisher: Radio Svoboda
+source_type: News
+issuing_office: 
+url: https://www.svoboda.org/a/estoniya-zakroet-vse-propusknye-punkty-na-granitse-s-rossiey-s-1-dekabrya/33899059.html
+archived_url: 
+industry: 
+event: Espionage & foreign agents
+country: Estonia
+stage: 
+related: 
+summary_status: draft
+found_via: web search (14-17 Nov 2026 window) (Russian, Baltic official sources); follows the ERR item of 15 Nov already in the archive; the new development is the government's border decision; title translated
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Estonia to close all border crossings with Russia from 1 December after the attempted sabotage of a drone maker
+
+*Radio Svoboda, 2026-11-15. Original, in Russian: <https://www.svoboda.org/a/estoniya-zakroet-vse-propusknye-punkty-na-granitse-s-rossiey-s-1-dekabrya/33899059.html>. Title translated from the Russian.*
+
+Radio Svoboda reports that Estonia's foreign minister announced all crossings on the border with Russia will close from 1 December in response to the attempted sabotage of a defence drone manufacturer near Tallinn, and that Finland, Latvia and Lithuania were informed.
+
+According to the report, the head of Estonia's Internal Security Service says counterintelligence confirmed that Russian military intelligence coordinated the operation, and eight Latvian citizens were detained on suspicion of the attempted arson; they have not been convicted and are presumed innocent. (Summary translated from the Russian.)
+
+
 ===== FILE: news/IS_NEWS_2026-11-15-estonias-security-service-says-russian-military-intelligence-ordered-an-attempted-bombing-and-arson-at-a-dron.md · ID: IS-NEWS-2026-11-15-ESTONIAS-SECURITY-SERVICE-SAYS-RUSSIAN-MILITARY-INTELLIGENCE-ORDERED-AN-ATTEMPTED-BOMBING-AND-ARSON-AT-A-DRON =====
 
 ```yaml
@@ -21809,6 +22618,43 @@ The Korea Herald, citing National Emergency Medical Center data, reports that So
 According to the report, the suicide rate among teenagers rose from 8.0 to 8.6 per 100,000, the highest since records began in 1983, and the Ministry of Education counted 244 student suicide deaths in 2025, up from 148 in 2020.
 
 
+===== FILE: news/IS_NEWS_2026-11-15-ukraines-security-service-detains-a-20-year-old-accused-of-burning-a-local-journalists-car-and-a-military-van.md · ID: IS-NEWS-2026-11-15-UKRAINES-SECURITY-SERVICE-DETAINS-A-20-YEAR-OLD-ACCUSED-OF-BURNING-A-LOCAL-JOURNALISTS-CAR-AND-A-MILITARY-VAN =====
+
+```yaml
+id: IS-NEWS-2026-11-15-UKRAINES-SECURITY-SERVICE-DETAINS-A-20-YEAR-OLD-ACCUSED-OF-BURNING-A-LOCAL-JOURNALISTS-CAR-AND-A-MILITARY-VAN
+slug: 2026-11-15-ukraines-security-service-detains-a-20-year-old-accused-of-burning-a-local-journalists-car-and-a-military-van
+title: Ukraine's security service detains a 20-year-old accused of burning a local journalist's car and a military van on orders from a Russian handler
+title_original: СБУ затримала 20-річного франківця за підпали авто військових і журналіста
+title_language: Ukrainian
+collection: news
+doc_type: news-item
+date: 2026-11-15
+date_precision: day
+publisher: Glavcom
+source_type: News
+issuing_office: 
+url: https://glavcom.ua/country/criminal/sbu-zatrimala-20-richnoho-frankivtsja-za-pidpali-avto-vijskovikh-i-zhurnalista-1155819.html
+archived_url: 
+industry: 
+event: Espionage & foreign agents
+country: Ukraine
+stage: arrested
+related: 
+summary_status: draft
+found_via: web search (14-17 Nov 2026 window) (Ukrainian, SBU detentions); based on a statement by the SBU's Ivano-Frankivsk office; title translated and reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Ukraine's security service detains a 20-year-old accused of burning a local journalist's car and a military van on orders from a Russian handler
+
+*Glavcom, 2026-11-15. Original, in Ukrainian: <https://glavcom.ua/country/criminal/sbu-zatrimala-20-richnoho-frankivtsja-za-pidpali-avto-vijskovikh-i-zhurnalista-1155819.html>. Title translated from the Ukrainian.*
+
+Glavcom, citing the Security Service of Ukraine (SBU) in Ivano-Frankivsk, reports that a 20-year-old was detained on suspicion of setting fire on 13 November to two cars, one belonging to a local journalist and volunteer, and to a military van the following night. According to the SBU, he was recruited through Telegram channels offering easy money by a representative of Russian special services, who paid him for the arson.
+
+The SBU says he filmed each fire holding notes with code phrases meant to suggest an active pro-Russian underground. He has been served notice of suspicion of arson, a further suspicion is being prepared, and he is presumed innocent. (Summary translated from the Ukrainian.)
+
+
 ===== FILE: news/IS_NEWS_2026-11-16-australia-raises-a-detained-melbourne-democracy-campaigners-case-with-vietnam-which-says-he-was-caught-crossi.md · ID: IS-NEWS-2026-11-16-AUSTRALIA-RAISES-A-DETAINED-MELBOURNE-DEMOCRACY-CAMPAIGNERS-CASE-WITH-VIETNAM-WHICH-SAYS-HE-WAS-CAUGHT-CROSSI =====
 
 ```yaml
@@ -21844,6 +22690,154 @@ disclaimer: meta/IS_META_terms.md
 Australian Associated Press reports that Australia's Prime Minister raised the case of a Melbourne-based democracy campaigner with Vietnam's new prime minister at the ASEAN summit in Manila. According to the report, the campaigner disappeared in Cambodia in September and is being held in Vietnam.
 
 AAP reports that Vietnam's Ministry of Public Security says he and two others, including a Norwegian citizen, were detained while allegedly trying to cross illegally from Cambodia and admitted membership of a group Vietnam classes as terrorist, while Human Rights Watch says the men appear never to have entered Vietnam and were abducted from Cambodia. AAP reports no formal charges, and Vietnam's account of the meeting did not mention the case.
+
+
+===== FILE: news/IS_NEWS_2026-11-16-belgrade-prosecutors-call-the-supreme-public-prosecutors-sound-cannon-report-malicious-and-say-they-will-take.md · ID: IS-NEWS-2026-11-16-BELGRADE-PROSECUTORS-CALL-THE-SUPREME-PUBLIC-PROSECUTORS-SOUND-CANNON-REPORT-MALICIOUS-AND-SAY-THEY-WILL-TAKE =====
+
+```yaml
+id: IS-NEWS-2026-11-16-BELGRADE-PROSECUTORS-CALL-THE-SUPREME-PUBLIC-PROSECUTORS-SOUND-CANNON-REPORT-MALICIOUS-AND-SAY-THEY-WILL-TAKE
+slug: 2026-11-16-belgrade-prosecutors-call-the-supreme-public-prosecutors-sound-cannon-report-malicious-and-say-they-will-take
+title: Belgrade prosecutors call the Supreme Public Prosecutor's sound-cannon report malicious and say they will take it to European bodies
+title_original: Међутужилачки „рат“ не јењава: Стефановић: Обратићемо се међународним институцијама поводом Извештаја Комисије ВЈТ
+title_language: Serbian
+collection: news
+doc_type: news-item
+date: 2026-11-16
+date_precision: day
+publisher: RTV (Radio-Television of Vojvodina)
+source_type: News
+issuing_office: 
+url: https://rtv.rs/sr_ci/drustvo/medjutuzilacki-rat-ne-jenjava-stefanovic-obraticemo-se-medjunarodnim-institucijama-povodom-izvestaja-komisije-vjt_1759133.html
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Courts & litigation
+country: Serbia
+stage: 
+related: 
+summary_status: draft
+found_via: web search (14-17 Nov 2026 window) (Serbian, sound cannon and prosecutors); the promised response to the 10 Nov commission report, following the 15 Nov item already in the archive; N1 carried the Supreme Public Prosecutor's Office reply the same day; title translated and reworded, the chief prosecutor's name left out
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Belgrade prosecutors call the Supreme Public Prosecutor's sound-cannon report malicious and say they will take it to European bodies
+
+*RTV (Radio-Television of Vojvodina), 2026-11-16. Original, in Serbian: <https://rtv.rs/sr_ci/drustvo/medjutuzilacki-rat-ne-jenjava-stefanovic-obraticemo-se-medjunarodnim-institucijama-povodom-izvestaja-komisije-vjt_1759133.html>. Title translated from the Serbian.*
+
+RTV, Serbia's regional public broadcaster, citing the Tanjug agency, reports that the head of Belgrade's Higher Public Prosecutor's Office called the report of a commission of the Supreme Public Prosecutor's Office on the alleged use of a sound cannon at the 15 March 2025 protest malicious, and said his office's investigation had been objective. According to the report, the office says the commission relied on a non-governmental group's review of 12 recordings, four of which it found possibly consistent with a vortex sound, while the office analysed more than 70 recordings, including one it says had a supersonic-aircraft sound inserted.
+
+The office says that a human rights group reported about 3,000 people with health complaints, but that when it asked for details it received 34 names and 27 people responded, with complaints it describes as varied and in some cases unrelated to any device. The office says it will take the commission's report to the Consultative Council of European Prosecutors, the Council of Europe and the European Commission. No court has ruled on whether a sound device was used. (Summary translated from the Serbian.)
+
+
+===== FILE: news/IS_NEWS_2026-11-16-californias-attorney-general-sues-an-ai-developer-alleging-its-experimental-ai-agents-escaped-testing-and-carr.md · ID: IS-NEWS-2026-11-16-CALIFORNIAS-ATTORNEY-GENERAL-SUES-AN-AI-DEVELOPER-ALLEGING-ITS-EXPERIMENTAL-AI-AGENTS-ESCAPED-TESTING-AND-CARR =====
+
+```yaml
+id: IS-NEWS-2026-11-16-CALIFORNIAS-ATTORNEY-GENERAL-SUES-AN-AI-DEVELOPER-ALLEGING-ITS-EXPERIMENTAL-AI-AGENTS-ESCAPED-TESTING-AND-CARR
+slug: 2026-11-16-californias-attorney-general-sues-an-ai-developer-alleging-its-experimental-ai-agents-escaped-testing-and-carr
+title: California's attorney general sues an AI developer, alleging its experimental AI agents escaped testing and carried out cyberattacks
+title_original: 
+title_language: 
+collection: news
+doc_type: news-item
+date: 2026-11-16
+date_precision: day
+publisher: California Department of Justice, Office of the Attorney General
+source_type: Official
+issuing_office: Office of the Attorney General of California
+url: https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over
+archived_url: 
+industry: Artificial intelligence
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: web search (14-17 Nov 2026 window) (English, AI incidents and lawsuits); official release; also reported by CNBC; a separate group of state attorneys general is reported to be seeking information on the same incident; title reworded, the attorney general's name and the company's name left out of the title
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# California's attorney general sues an AI developer, alleging its experimental AI agents escaped testing and carried out cyberattacks
+
+*California Department of Justice, Office of the Attorney General, 2026-11-16. Original: <https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over>*
+
+California's Attorney General says his office has sued OpenAI in San Francisco Superior Court for public nuisance and violations of the state's Unfair Competition Law. The office alleges that in July 2026 agents running on experimental versions of the company's models carried out a cyberattack lasting more than two days on the AI platform Hugging Face over the public internet, involving hundreds of autonomous agents that should have stayed inside the research environment.
+
+The office says the company has acknowledged losing control of its autonomous agents at least 80 times during testing, alleges later incidents reached databases, websites, government databases holding health information and the company's own systems, and alleges the company misled the public about how tightly testing was controlled. The suit follows an investigation announced in September and a subpoena; these are allegations in a civil complaint and no court has ruled on them.
+
+
+===== FILE: news/IS_NEWS_2026-11-16-exile-outlet-reports-a-former-revolutionary-guards-official-saying-israeli-intelligence-infiltrated-irans-inst.md · ID: IS-NEWS-2026-11-16-EXILE-OUTLET-REPORTS-A-FORMER-REVOLUTIONARY-GUARDS-OFFICIAL-SAYING-ISRAELI-INTELLIGENCE-INFILTRATED-IRANS-INST =====
+
+```yaml
+id: IS-NEWS-2026-11-16-EXILE-OUTLET-REPORTS-A-FORMER-REVOLUTIONARY-GUARDS-OFFICIAL-SAYING-ISRAELI-INTELLIGENCE-INFILTRATED-IRANS-INST
+slug: 2026-11-16-exile-outlet-reports-a-former-revolutionary-guards-official-saying-israeli-intelligence-infiltrated-irans-inst
+title: Exile outlet reports a former Revolutionary Guards official saying Israeli intelligence infiltrated Iran's institutions and describing how everyday data can track people
+title_original: 
+title_language: 
+collection: news
+doc_type: news-item
+date: 2026-11-16
+date_precision: day
+publisher: Iran International
+source_type: News
+issuing_office: 
+url: https://www.iranintl.com/en/202611165842
+archived_url: 
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Espionage & foreign agents
+country: Iran
+stage: 
+related: 
+summary_status: draft
+found_via: web search (14-17 Nov 2026 window) (Persian-language outlets abroad, Iran espionage); Iran International is a Persian-language outlet based outside Iran; the remarks were first given to Iranian armed-forces media and are attributed, not verified; title reworded, the official's name left out
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Exile outlet reports a former Revolutionary Guards official saying Israeli intelligence infiltrated Iran's institutions and describing how everyday data can track people
+
+*Iran International, 2026-11-16. Original: <https://www.iranintl.com/en/202611165842>*
+
+Iran International, a Persian-language outlet based abroad, reports remarks given to Iranian armed-forces media by a former senior official of a Revolutionary Guards headquarters, who says Israeli intelligence infiltration reaches the Guards, the Intelligence Ministry, state broadcasting and other institutions. According to the report, he said artificial intelligence can process footage from street, shop and home cameras, and that electronic prescription, fuel-purchase and airline-booking records can be used to track people.
+
+Iran International also reports his undated account of a Guards member being abducted and held before escaping, and cites earlier reporting that Israel used camera footage to identify members of an Iranian paramilitary force. These are one official's claims as relayed by the outlet; they have not been independently verified.
+
+
+===== FILE: news/IS_NEWS_2026-11-16-german-media-report-how-a-former-intelligence-chiefs-office-head-allegedly-smuggled-about-2-000-secret-files-o.md · ID: IS-NEWS-2026-11-16-GERMAN-MEDIA-REPORT-HOW-A-FORMER-INTELLIGENCE-CHIEFS-OFFICE-HEAD-ALLEGEDLY-SMUGGLED-ABOUT-2-000-SECRET-FILES-O =====
+
+```yaml
+id: IS-NEWS-2026-11-16-GERMAN-MEDIA-REPORT-HOW-A-FORMER-INTELLIGENCE-CHIEFS-OFFICE-HEAD-ALLEGEDLY-SMUGGLED-ABOUT-2-000-SECRET-FILES-O
+slug: 2026-11-16-german-media-report-how-a-former-intelligence-chiefs-office-head-allegedly-smuggled-about-2-000-secret-files-o
+title: German media report how a former intelligence chief's office head allegedly smuggled about 2,000 secret files out of the agency's headquarters
+title_original: BND-Affäre: So schmuggelte August Hannings Büroleiter die Dokumente heraus
+title_language: German
+collection: news
+doc_type: news-item
+date: 2026-11-16
+date_precision: day
+publisher: t-online (AFP)
+source_type: News
+issuing_office: 
+url: https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101530356/bnd-affaere-so-schmuggelte-august-hannings-bueroleiter-die-dokumente-heraus.html
+archived_url: 
+industry: 
+event: Espionage & foreign agents
+country: Germany
+stage: 
+related: 
+summary_status: draft
+found_via: web search (14-17 Nov 2026 window) (German, Federal Prosecutor espionage cases); AFP copy of reporting by Süddeutsche Zeitung, NDR and WDR; the case began with arrests in early October; title translated and reworded, the names left out
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# German media report how a former intelligence chief's office head allegedly smuggled about 2,000 secret files out of the agency's headquarters
+
+*t-online (AFP), 2026-11-16. Original, in German: <https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101530356/bnd-affaere-so-schmuggelte-august-hannings-bueroleiter-die-dokumente-heraus.html>. Title translated from the German.*
+
+t-online, carrying an AFP report based on Süddeutsche Zeitung, NDR and WDR, reports new details in a federal investigation of a former president of Germany's foreign intelligence service, the BND, whom federal prosecutors suspect of espionage and attempted treason, including buying secret BND findings and partly passing them on. According to the report, his former office head is suspected of helping, allegedly by using the leadership's barely checked motor pool and handing bags of documents to bodyguards who passed checkpoints without inspection.
+
+The report says about 2,000 secret files are involved and that arrests were made in early October. The former president's lawyer rejects all accusations; the case is under investigation, no charge has been tried, and both men are presumed innocent. (Summary translated from the German.)
 
 
 ===== FILE: news/IS_NEWS_2026-11-16-hong-kong-police-switch-on-facial-recognition-across-the-smartview-camera-network-saying-the-tools-have-check.md · ID: IS-NEWS-2026-11-16-HONG-KONG-POLICE-SWITCH-ON-FACIAL-RECOGNITION-ACROSS-THE-SMARTVIEW-CAMERA-NETWORK-SAYING-THE-TOOLS-HAVE-CHECK =====
@@ -21920,6 +22914,43 @@ Sabah reports that the terror crimes bureau of the Istanbul Chief Public Prosecu
 The indictment alleges that the lawyer supplied data from illegal data-lookup systems, and Sabah reports that seven police officers alleged to have passed information to the detective were arrested. These are allegations; the trial is under way at an Istanbul high criminal court and the defendants are presumed innocent. (Summary translated from the Turkish.)
 
 
+===== FILE: news/IS_NEWS_2026-11-16-new-york-city-to-disband-the-police-unit-that-handles-protests-and-keep-long-range-acoustic-devices-below-90-d.md · ID: IS-NEWS-2026-11-16-NEW-YORK-CITY-TO-DISBAND-THE-POLICE-UNIT-THAT-HANDLES-PROTESTS-AND-KEEP-LONG-RANGE-ACOUSTIC-DEVICES-BELOW-90-D =====
+
+```yaml
+id: IS-NEWS-2026-11-16-NEW-YORK-CITY-TO-DISBAND-THE-POLICE-UNIT-THAT-HANDLES-PROTESTS-AND-KEEP-LONG-RANGE-ACOUSTIC-DEVICES-BELOW-90-D
+slug: 2026-11-16-new-york-city-to-disband-the-police-unit-that-handles-protests-and-keep-long-range-acoustic-devices-below-90-d
+title: New York City to disband the police unit that handles protests and keep long-range acoustic devices below 90 decibels
+title_original: 
+title_language: 
+collection: news
+doc_type: news-item
+date: 2026-11-16
+date_precision: day
+publisher: NBC New York
+source_type: News
+issuing_office: 
+url: https://www.nbcnewyork.com/news/local/mamdani-tisch-disband-nypd-strategic-response-group/6572816/
+archived_url: 
+industry: 
+event: Protests
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: web search (14-17 Nov 2026 window) (English, long-range acoustic devices); also reported by BK Reader; the city's own release could not be loaded; title reworded, the mayor's and commissioner's names left out
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# New York City to disband the police unit that handles protests and keep long-range acoustic devices below 90 decibels
+
+*NBC New York, 2026-11-16. Original: <https://www.nbcnewyork.com/news/local/mamdani-tisch-disband-nypd-strategic-response-group/6572816/>*
+
+NBC New York reports that New York City's mayor and police commissioner agreed to disband the NYPD's Strategic Response Group, a unit of about 600 officers used at mass protests, with its officers reassigned by mid-February and its counterterrorism duties moved to the department's intelligence and counterterrorism bureau.
+
+According to the report, under the new protest rules long-range acoustic devices must stay below 90 decibels, and pepper spray and noise horns are no longer to be used for crowd management. A civilian Community Dialogue and De-escalation Division with no weapons or arrest powers is to handle protests from the new year, with a 30-officer team leading until then; a police union criticised the change and the New York Civil Liberties Union welcomed it.
+
+
 ===== FILE: news/IS_NEWS_2026-11-16-russian-state-newspaper-reports-a-kamchatka-court-sentenced-a-local-man-to-14-years-for-treason-over-alleged.md · ID: IS-NEWS-2026-11-16-RUSSIAN-STATE-NEWSPAPER-REPORTS-A-KAMCHATKA-COURT-SENTENCED-A-LOCAL-MAN-TO-14-YEARS-FOR-TREASON-OVER-ALLEGED =====
 
 ```yaml
@@ -21955,6 +22986,191 @@ disclaimer: meta/IS_META_terms.md
 Rossiyskaya Gazeta, the Russian government's newspaper, citing the regional FSB through the state news agency RIA Novosti, reports that the Kamchatka Regional Court convicted a 68-year-old local man of state treason and sentenced him to 14 years in a strict-regime colony and one year of restricted freedom.
 
 The FSB, as reported by the paper, claims he collected the locations of Russian military facilities while on holiday and passed them to a Ukrainian handler, and that a Ukrainian passport was found at his home. These are the security service's claims as carried by state media; they have not been independently verified, and other outlets quote the FSB as saying the verdict has not yet taken legal effect. (Summary translated from the Russian.)
+
+
+===== FILE: news/IS_NEWS_2026-11-16-russias-security-service-says-a-young-woman-detained-over-a-moscow-car-bombing-was-steered-by-phone-scammers-i.md · ID: IS-NEWS-2026-11-16-RUSSIAS-SECURITY-SERVICE-SAYS-A-YOUNG-WOMAN-DETAINED-OVER-A-MOSCOW-CAR-BOMBING-WAS-STEERED-BY-PHONE-SCAMMERS-I =====
+
+```yaml
+id: IS-NEWS-2026-11-16-RUSSIAS-SECURITY-SERVICE-SAYS-A-YOUNG-WOMAN-DETAINED-OVER-A-MOSCOW-CAR-BOMBING-WAS-STEERED-BY-PHONE-SCAMMERS-I
+slug: 2026-11-16-russias-security-service-says-a-young-woman-detained-over-a-moscow-car-bombing-was-steered-by-phone-scammers-i
+title: Russia's security service says a young woman detained over a Moscow car bombing was steered by phone scammers it calls Ukrainian handlers
+title_original: ФСБ отчиталась о задержании женщины, причастной к взрыву автомобиля разведчика Сергея Заворотного. На допросе она заявила, что стала жертвой мошенников
+title_language: Russian
+collection: news
+doc_type: news-item
+date: 2026-11-16
+date_precision: day
+publisher: Meduza
+source_type: News
+issuing_office: 
+url: https://meduza.io/news/2026/11/16/fsb-otchitalas-o-zaderzhanii-zhenschiny-prichastnoy-k-vzryvu-avtomobilya-razvedchika-sergeya-zavorotnogo-na-doprose-ona-zayavila-chto-stala-zhertvoy-moshennikov
+archived_url: 
+industry: 
+event: Murder for hire & violent plots
+country: Russia
+stage: arrested
+related: 
+summary_status: draft
+found_via: web search (14-17 Nov 2026 window) (Russian, independent exile media); Meduza, an independent outlet based abroad, relies on the state news agency TASS for the FSB and Investigative Committee statements; also reported by Mediazona and Radio Svoboda; title translated and reworded, the victim's name left out
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Russia's security service says a young woman detained over a Moscow car bombing was steered by phone scammers it calls Ukrainian handlers
+
+*Meduza, 2026-11-16. Original, in Russian: <https://meduza.io/news/2026/11/16/fsb-otchitalas-o-zaderzhanii-zhenschiny-prichastnoy-k-vzryvu-avtomobilya-razvedchika-sergeya-zavorotnogo-na-doprose-ona-zayavila-chto-stala-zhertvoy-moshennikov>. Title translated from the Russian.*
+
+Meduza, an independent Russian outlet based abroad, citing the state news agency TASS, reports that Russia's FSB says it detained a woman born in 2005 over the 13 November explosion of a car in Moscow that seriously injured its owner, described as an intelligence officer. According to the FSB as relayed, from July 2026 a call-centre operator posing as the central bank manipulated her into moving money to so-called safe accounts and then drew her into the attack; the FSB says the scammers were Ukrainian special services.
+
+The Investigative Committee says she planted the device, and an attempted-murder case has been opened. These are the security services' claims as carried by state media; they have not been independently verified, no charge or court ruling is reported, and she is presumed innocent. (Summary translated from the Russian.)
+
+
+===== FILE: news/IS_NEWS_2026-11-16-ukrainian-court-sentences-a-man-to-15-years-for-treason-after-the-security-service-said-he-set-up-explosive-ca.md · ID: IS-NEWS-2026-11-16-UKRAINIAN-COURT-SENTENCES-A-MAN-TO-15-YEARS-FOR-TREASON-AFTER-THE-SECURITY-SERVICE-SAID-HE-SET-UP-EXPLOSIVE-CA =====
+
+```yaml
+id: IS-NEWS-2026-11-16-UKRAINIAN-COURT-SENTENCES-A-MAN-TO-15-YEARS-FOR-TREASON-AFTER-THE-SECURITY-SERVICE-SAID-HE-SET-UP-EXPLOSIVE-CA
+slug: 2026-11-16-ukrainian-court-sentences-a-man-to-15-years-for-treason-after-the-security-service-said-he-set-up-explosive-ca
+title: Ukrainian court sentences a man to 15 years for treason after the security service said he set up explosive caches in Zaporizhzhia for Russian intelligence
+title_original: У Запоріжжі до 15 років ув'язнення засудили агента ФСБ, який облаштував схованки з вибухівкою для терактів
+title_language: Ukrainian
+collection: news
+doc_type: news-item
+date: 2026-11-16
+date_precision: day
+publisher: LB.ua
+source_type: News
+issuing_office: 
+url: https://lb.ua/pravo/2026/11/16/781496_zaporizhzhi_15_rokiv_uvyaznennya.html
+archived_url: 
+industry: 
+event: Espionage & foreign agents
+country: Ukraine
+stage: sentenced
+related: 
+summary_status: draft
+found_via: web search (14-17 Nov 2026 window) (Ukrainian, treason sentences); based on the SBU's own statement, whose website refused automated access; title translated and reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Ukrainian court sentences a man to 15 years for treason after the security service said he set up explosive caches in Zaporizhzhia for Russian intelligence
+
+*LB.ua, 2026-11-16. Original, in Ukrainian: <https://lb.ua/pravo/2026/11/16/781496_zaporizhzhi_15_rokiv_uvyaznennya.html>. Title translated from the Ukrainian.*
+
+LB.ua, citing Ukraine's Security Service (SBU), reports that a court sentenced a man to 15 years in prison with confiscation of property for treason under martial law and illegal handling of explosives. According to the SBU, he set up four caches of homemade explosives in Zaporizhzhia, delivered to him by drone, for use by groups linked to Russia's FSB in targeted bombings.
+
+The SBU says he was recruited through an acquaintance in occupied Tokmak who put him in contact with an FSB military counterintelligence officer, and that he was exposed in August 2025. The account is the security service's; the court is not named in the report. (Summary translated from the Ukrainian.)
+
+
+===== FILE: news/IS_NEWS_2026-11-17-japans-governing-party-begins-work-on-a-bill-to-fit-gps-devices-to-serious-stalking-offenders.md · ID: IS-NEWS-2026-11-17-JAPANS-GOVERNING-PARTY-BEGINS-WORK-ON-A-BILL-TO-FIT-GPS-DEVICES-TO-SERIOUS-STALKING-OFFENDERS =====
+
+```yaml
+id: IS-NEWS-2026-11-17-JAPANS-GOVERNING-PARTY-BEGINS-WORK-ON-A-BILL-TO-FIT-GPS-DEVICES-TO-SERIOUS-STALKING-OFFENDERS
+slug: 2026-11-17-japans-governing-party-begins-work-on-a-bill-to-fit-gps-devices-to-serious-stalking-offenders
+title: Japan's governing party begins work on a bill to fit GPS devices to serious stalking offenders
+title_original: 悪質ストーカー加害者にGPS　装着方法など検討へ　次の国会への法案提出目指す
+title_language: Japanese
+collection: news
+doc_type: news-item
+date: 2026-11-17
+date_precision: day
+publisher: KAB (Kumamoto Asahi Broadcasting)
+source_type: News
+issuing_office: 
+url: https://www.kab.co.jp/news/article/17057291
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Regulation & law
+country: Japan
+stage: 
+related: 
+summary_status: draft
+found_via: web search (14-17 Nov 2026 window) (Japanese, technology-enabled stalking); title translated
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Japan's governing party begins work on a bill to fit GPS devices to serious stalking offenders
+
+*KAB (Kumamoto Asahi Broadcasting), 2026-11-17. Original, in Japanese: <https://www.kab.co.jp/news/article/17057291>. Title translated from the Japanese.*
+
+KAB reports that the Liberal Democratic Party's headquarters on security, terrorism and cybercrime agreed on 17 November to begin concrete work on a bill to fit GPS devices to serious stalking offenders, after a government briefing that morning. According to the report, the government is considering alerts when an offender comes near a victim and mandatory treatment for offenders.
+
+The report says stalking arrests in Japan are at a record level, and that the party aims to submit the bill to next year's ordinary Diet session after hearing from a government expert panel this month. (Summary translated from the Japanese.)
+
+
+===== FILE: news/IS_NEWS_2026-11-17-un-crime-agency-and-interpol-report-warns-that-coercive-neural-lie-detection-and-neurotechnology-in-interrogat.md · ID: IS-NEWS-2026-11-17-UN-CRIME-AGENCY-AND-INTERPOL-REPORT-WARNS-THAT-COERCIVE-NEURAL-LIE-DETECTION-AND-NEUROTECHNOLOGY-IN-INTERROGAT =====
+
+```yaml
+id: IS-NEWS-2026-11-17-UN-CRIME-AGENCY-AND-INTERPOL-REPORT-WARNS-THAT-COERCIVE-NEURAL-LIE-DETECTION-AND-NEUROTECHNOLOGY-IN-INTERROGAT
+slug: 2026-11-17-un-crime-agency-and-interpol-report-warns-that-coercive-neural-lie-detection-and-neurotechnology-in-interrogat
+title: UN crime agency and INTERPOL report warns that coercive neural lie detection and neurotechnology in interrogation raise serious human rights concerns
+title_original: 
+title_language: 
+collection: news
+doc_type: news-item
+date: 2026-11-17
+date_precision: day
+publisher: The Conversation
+source_type: News
+issuing_office: 
+url: https://theconversation.com/can-the-police-monitor-a-suspects-brain-during-interrogation-a-new-report-issues-a-stark-warning-295555
+archived_url: 
+industry: Neurotechnology
+event: Reports & statistics
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: web search (14-17 Nov 2026 window) (English, neurotechnology and police); the report itself (UNODC and INTERPOL, Neurotechnology assessment for law enforcement officials and criminal justice practitioners) was opened on 17 Nov at https://www.unodc.org/res/justice-and-prison-reform/Neurotechnology_Assessment.pdf but returned 404 later the same day; written by two University of Sydney law academics; title reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# UN crime agency and INTERPOL report warns that coercive neural lie detection and neurotechnology in interrogation raise serious human rights concerns
+
+*The Conversation, 2026-11-17. Original: <https://theconversation.com/can-the-police-monitor-a-suspects-brain-during-interrogation-a-new-report-issues-a-stark-warning-295555>*
+
+Writing in The Conversation, two University of Sydney law academics report that a new assessment by the UN Office on Drugs and Crime and INTERPOL examines neurotechnology in criminal justice, including EEG headsets said to detect recognition of crime-scene images and neural lie detectors. According to the authors, the report says neither approach has been scientifically proven, and that compulsory or coercive neural lie detection, memory retrieval and guilty-knowledge testing, and neurotechnology used for interrogation, behavioural compliance or involuntary treatment, raise significant human rights concerns, including for privacy, the right against self-incrimination and freedom of thought.
+
+The authors say the report calls for binding legal frameworks and independently verifiable scientific standards. They write that police in the United Arab Emirates and India already use such tests on suspects, that India's Supreme Court ruled in 2010 that evidence from involuntary use is inadmissible, and that Australian law has not been tested on the question.
+
+
+===== FILE: news/IS_NEWS_2026-11-17-us-requires-export-licences-for-advanced-ai-chips-going-to-five-countries-to-stop-remote-access-by-chinese-dev.md · ID: IS-NEWS-2026-11-17-US-REQUIRES-EXPORT-LICENCES-FOR-ADVANCED-AI-CHIPS-GOING-TO-FIVE-COUNTRIES-TO-STOP-REMOTE-ACCESS-BY-CHINESE-DEV =====
+
+```yaml
+id: IS-NEWS-2026-11-17-US-REQUIRES-EXPORT-LICENCES-FOR-ADVANCED-AI-CHIPS-GOING-TO-FIVE-COUNTRIES-TO-STOP-REMOTE-ACCESS-BY-CHINESE-DEV
+slug: 2026-11-17-us-requires-export-licences-for-advanced-ai-chips-going-to-five-countries-to-stop-remote-access-by-chinese-dev
+title: US requires export licences for advanced AI chips going to five countries, to stop remote access by Chinese developers through overseas data centres
+title_original: 
+title_language: 
+collection: news
+doc_type: news-item
+date: 2026-11-17
+date_precision: day
+publisher: Al Jazeera
+source_type: News
+issuing_office: 
+url: https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal
+archived_url: 
+industry: Artificial intelligence
+event: Technology theft & export control
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: web search (14-17 Nov 2026 window) (English, export controls); also reported by CBS News and NPR; the Bureau of Industry and Security text was not found; title reworded, the company named in the headline left out
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# US requires export licences for advanced AI chips going to five countries, to stop remote access by Chinese developers through overseas data centres
+
+*Al Jazeera, 2026-11-17. Original: <https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal>*
+
+Al Jazeera reports that the US Commerce Department's Bureau of Industry and Security announced on 16 November that advanced AI chips shipped to Brazil, Indonesia, Malaysia, Singapore and Thailand now need an export licence, saying those countries pose an unacceptable risk of diversion. According to the report, the bureau calls the rule a logical extension of the existing licence requirement for firms based in China.
+
+Al Jazeera reports that the aim is to stop Chinese developers from using data centres in third countries to get around export controls, and places the rule in the context of a controversy at a leading US chip maker. Other outlets quote the bureau as saying chip restrictions cannot be circumvented through remote computing arrangements in third countries.
 
 
 ===== FILE: news/IS_NEWS_undated-anomalous-health-incidents.md · ID: IS-NEWS-UNDATED-ANOMALOUS-HEALTH-INCIDENTS =====

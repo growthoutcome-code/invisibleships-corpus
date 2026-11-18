@@ -264,15 +264,21 @@
       "year": 2024,
       "value": 30.812,
       "national_value": 29.1
+     },
+     {
+      "year": 2025,
+      "value": 29.436,
+      "national_value": 27.8
      }
     ],
     "basis": "CRUDE rate per 100,000 from Causes of Death Statistics — not age-standardised",
     "basis_short": "KOSTAT, CRUDE (not age-standardised)",
     "publisher": "Statistics Korea (KOSTAT)",
     "source_url": "https://kostat-sdg-kor.github.io/sdg-indicators/en/3-4-2/",
-    "tier": "A to 2022, B for 2023–24",
+    "tier": "A to 2022, B for 2023–25",
     "crude": true,
-    "note": "Crude, and partly reflects ageing. 2024's 14,872 deaths were a 13-year high. KOSTAT's OECD-standardised rate for 2023 is 24.8 — a different and lower measure."
+    "note": "Crude, and partly reflects ageing. 2024's 14,872 deaths were a 13-year high; 2025 fell to 14,144 deaths, 27.8 per 100,000 (Statistics Korea, 2025 Cause-of-Death Statistics, released 22 Sep 2026, as reported by The Korea Herald; the official page could not be opened from here). KOSTAT's OECD-standardised rate for 2024 is 26.2 — a different and lower measure.",
+    "sources_2025": "https://www.koreaherald.com/article/10908269"
    }
   },
   {
@@ -953,15 +959,20 @@
       "year": 2024,
       "value": 12.655,
       "national_value": 11.9
+     },
+     {
+      "year": 2025,
+      "value": 12.336,
+      "national_value": 11.6
      }
     ],
     "basis": "Age-standardised to the Australian 2001 population, by year of registration",
     "basis_short": "ABS, age-standardised (Australia 2001)",
     "publisher": "Australian Bureau of Statistics",
-    "source_url": "https://www.abs.gov.au/statistics/health/causes-death/intentional-self-harm-suicide-deaths/latest-release",
+    "source_url": "https://www.abs.gov.au/statistics/health/causes-death/intentional-self-harm-suicide-deaths/2025",
     "tier": "A",
     "crude": false,
-    "note": "2023 revised and 2024 preliminary; ABS revisions generally move the figure upward as coronial cases close."
+    "note": "2023 revised, 2024 preliminary revised and 2025 preliminary (ABS, released 27 Oct 2026; 3,283 deaths initially coded as suicide in 2025). ABS revisions generally move recent figures upward as coronial cases close."
    }
   },
   {
@@ -1649,5 +1660,33 @@
    "source_url": "https://www.who.int/news/item/05-05-2023-statement-on-the-fifteenth-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-coronavirus-disease-(covid-19)-pandemic"
   }
  ],
- "extension_note": "Lines continue past 2021 using each country's own national statistics, scaled to join the WHO series at 2021 so the join does not invent a step that never happened. The shape after 2021 is each country's real year-on-year movement; the level is carried over from the WHO series. Raw national figures, their basis and their sources are in each line's detail panel. Only five countries publish a series recent and complete enough to join this way."
+ "extension_note": "Lines continue past 2021 using each country's own national statistics, scaled to join the WHO series at 2021 so the join does not invent a step that never happened. The shape after 2021 is each country's real year-on-year movement; the level is carried over from the WHO series. Raw national figures, their basis and their sources are in each line's detail panel. Only five countries publish a series recent and complete enough to join this way.",
+ "updated": "2026-11-17",
+ "revisions": [
+  {
+   "date": "2026-11-17",
+   "changes": [
+    {
+     "series": "Australia",
+     "year": 2025,
+     "old": null,
+     "new": 11.6,
+     "basis": "national, age-standardised (Australia 2001)",
+     "source_url": "https://www.abs.gov.au/statistics/health/causes-death/intentional-self-harm-suicide-deaths/2025",
+     "released": "2026-10-27",
+     "note": "2023 (12.2) and 2024 (11.9) unchanged in this release"
+    },
+    {
+     "series": "South Korea",
+     "year": 2025,
+     "old": null,
+     "new": 27.8,
+     "basis": "national, crude",
+     "source_url": "https://www.koreaherald.com/article/10908269",
+     "released": "2026-09-22",
+     "note": "reported by The Korea Herald from the Statistics Korea release; 2023 (27.3) and 2024 (29.1) unchanged"
+    }
+   ]
+  }
+ ]
 }
