@@ -3,8 +3,8 @@ id: IS-BUNDLE-07-CONCEPTS-GLOSSARY-TERMS
 title: "Concepts, glossary and terms"
 collection: bundles
 doc_type: bundle
-files: 155
-approx_tokens: 152,781
+files: 178
+approx_tokens: 163,188
 contains: [concepts, glossary, glossary-site, meta]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -15,7 +15,7 @@ disclaimer: meta/IS_META_terms.md
 
 The archive's arguments and findings, both glossaries, and the terms, disclaimer and content warning.
 
-This file joins 155 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
+This file joins 178 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 
@@ -97,26 +97,46 @@ This file joins 155 files from the Invisible Ships archive so it can be uploaded
 - `glossary/IS_GLO_torment.md` — Glossary — torment
 - `glossary/IS_GLO_transparent-brain-computer-interfaces-bcis.md` — Glossary — transparent brain-computer interfaces (BCIs)
 - `glossary-site/README.md`
+- `glossary-site/IS_GLO_SITE_acoustic-sensing.md` — Glossary — acoustic sensing
+- `glossary-site/IS_GLO_SITE_analytics.md` — Glossary — analytics
+- `glossary-site/IS_GLO_SITE_announced-pledge.md` — Glossary — announced pledge
+- `glossary-site/IS_GLO_SITE_artificial-intelligence-and-machine-learning.md` — Glossary — artificial intelligence and machine learning (AI/ML)
 - `glossary-site/IS_GLO_SITE_assistance.md` — Glossary — assistance
 - `glossary-site/IS_GLO_SITE_atrocities.md` — Glossary — atrocities (atrocity crimes)
+- `glossary-site/IS_GLO_SITE_bid-protest.md` — Glossary — bid protest
 - `glossary-site/IS_GLO_SITE_blood-brain-barrier.md` — Glossary — blood–brain barrier (BBB)
 - `glossary-site/IS_GLO_SITE_breaching.md` — Glossary — Breaching
 - `glossary-site/IS_GLO_SITE_calcium-imaging.md` — Glossary — calcium imaging
+- `glossary-site/IS_GLO_SITE_case-management-software.md` — Glossary — case management software
+- `glossary-site/IS_GLO_SITE_cloud-compute.md` — Glossary — cloud compute
+- `glossary-site/IS_GLO_SITE_cloud-database.md` — Glossary — cloud database
+- `glossary-site/IS_GLO_SITE_cloud-security-operations.md` — Glossary — security operations
+- `glossary-site/IS_GLO_SITE_cloud-storage.md` — Glossary — cloud storage
 - `glossary-site/IS_GLO_SITE_colorado-privacy-act.md` — Glossary — Colorado Privacy Act
+- `glossary-site/IS_GLO_SITE_confidential-computing.md` — Glossary — confidential computing
 - `glossary-site/IS_GLO_SITE_contact-microphone.md` — Glossary — contact microphone
+- `glossary-site/IS_GLO_SITE_contract-award.md` — Glossary — contract award
 - `glossary-site/IS_GLO_SITE_counterterrorism.md` — Glossary — counterterrorism
 - `glossary-site/IS_GLO_SITE_crimes-against-humanity.md` — Glossary — crimes against humanity
+- `glossary-site/IS_GLO_SITE_data-fusion.md` — Glossary — data fusion
+- `glossary-site/IS_GLO_SITE_data-protection-authority.md` — Glossary — data-protection authority
+- `glossary-site/IS_GLO_SITE_development-platform.md` — Glossary — development platform
+- `glossary-site/IS_GLO_SITE_digital-evidence-management.md` — Glossary — digital evidence management
 - `glossary-site/IS_GLO_SITE_directed-energy.md` — Glossary — Directed-energy
 - `glossary-site/IS_GLO_SITE_diving.md` — Glossary — Diving
 - `glossary-site/IS_GLO_SITE_dumping-syndrome.md` — Glossary — dumping syndrome
+- `glossary-site/IS_GLO_SITE_e-government.md` — Glossary — e-government
+- `glossary-site/IS_GLO_SITE_edge-and-satellite-computing.md` — Glossary — edge and satellite computing
 - `glossary-site/IS_GLO_SITE_electrocorticography.md` — Glossary — electrocorticography (ECoG)
 - `glossary-site/IS_GLO_SITE_electromagnetic-field.md` — Glossary — electromagnetic field (EMF)
 - `glossary-site/IS_GLO_SITE_energy-harvesting.md` — Glossary — energy harvesting
 - `glossary-site/IS_GLO_SITE_euthanasia-outside-health-care.md` — Glossary — euthanasia outside legitimate health care
 - `glossary-site/IS_GLO_SITE_false-disclosure.md` — Glossary — false disclosure
+- `glossary-site/IS_GLO_SITE_fedramp.md` — Glossary — FedRAMP
 - `glossary-site/IS_GLO_SITE_gang-stalking.md` — Glossary — Gang stalking
 - `glossary-site/IS_GLO_SITE_gaslighting.md` — Glossary — Gaslighting
 - `glossary-site/IS_GLO_SITE_graphene.md` — Glossary — graphene
+- `glossary-site/IS_GLO_SITE_identity-and-biometrics.md` — Glossary — identity and biometrics
 - `glossary-site/IS_GLO_SITE_image-based-search.md` — Glossary — image-based search
 - `glossary-site/IS_GLO_SITE_independent-investigation.md` — Glossary — independent investigation
 - `glossary-site/IS_GLO_SITE_injectable-mesh-electronics.md` — Glossary — injectable mesh electronics
@@ -125,6 +145,7 @@ This file joins 155 files from the Invisible Ships archive so it can be uploaded
 - `glossary-site/IS_GLO_SITE_lipid-nanoparticle.md` — Glossary — lipid nanoparticle (LNP)
 - `glossary-site/IS_GLO_SITE_long-range-acoustic-device.md` — Glossary — long-range acoustic device (LRAD)
 - `glossary-site/IS_GLO_SITE_magnetoelectric-nanoparticles.md` — Glossary — magnetoelectric nanoparticles (MENPs)
+- `glossary-site/IS_GLO_SITE_market-size-estimate.md` — Glossary — market-size estimate
 - `glossary-site/IS_GLO_SITE_microwave-auditory-effect.md` — Glossary — microwave auditory effect
 - `glossary-site/IS_GLO_SITE_military-strategy.md` — Glossary — military strategy
 - `glossary-site/IS_GLO_SITE_military-ugly-workflow.md` — Glossary — military ugly workflow
@@ -159,7 +180,9 @@ This file joins 155 files from the Invisible Ships archive so it can be uploaded
 - `glossary-site/IS_GLO_SITE_schizoaffective-disorder.md` — Glossary — schizoaffective disorder
 - `glossary-site/IS_GLO_SITE_schizophrenia.md` — Glossary — schizophrenia
 - `glossary-site/IS_GLO_SITE_self-elected-suicide.md` — Glossary — self-elected suicide
+- `glossary-site/IS_GLO_SITE_sovereign-cloud.md` — Glossary — sovereign cloud
 - `glossary-site/IS_GLO_SITE_structure-borne-audio.md` — Glossary — structure-borne audio
+- `glossary-site/IS_GLO_SITE_surveillance-technology.md` — Glossary — surveillance technology
 - `glossary-site/IS_GLO_SITE_targeted-individual.md` — Glossary — Targeted individual (TI)
 - `glossary-site/IS_GLO_SITE_tinnitus.md` — Glossary — tinnitus
 - `glossary-site/IS_GLO_SITE_transnational-repression.md` — Glossary — transnational repression
@@ -5455,10 +5478,126 @@ disclaimer: meta/IS_META_terms.md
 
 # Site-authored glossary
 
-71 terms written for invisibleships.com to explain the work.
+94 terms written for invisibleships.com to explain the work.
 They are NOT extracted from the source document series and carry no
 source-document id. Terms drawn from the primary record are in
 `glossary/` and do carry one. Both sets appear on the site together.
+
+
+===== FILE: glossary-site/IS_GLO_SITE_acoustic-sensing.md · ID: IS-GLO-SITE-ACOUSTIC-SENSING =====
+
+```yaml
+id: IS-GLO-SITE-ACOUSTIC-SENSING
+title: Glossary — acoustic sensing
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: acoustic-sensing
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 164
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# acoustic sensing
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+Networks of microphones placed across an area that listen for particular sounds, such as gunfire, and locate where they came from by comparing when each microphone heard them.
+
+A government cloud term, used in Research › Government cloud. In the record: 2 capabilities in this category, from Flock Safety, SoundThinking. Examples: ShotSpotter: Acoustic gunshot detection; Raven: Acoustic event detection. See [Research › Government cloud › Capabilities](/research/government-cloud/capabilities).
+
+Related terms: [surveillance technology](/glossary/surveillance-technology), [digital evidence management](/glossary/digital-evidence-management)
+
+Sources: [Gunfire locator — Wikipedia](https://en.wikipedia.org/wiki/Gunfire_locator); [ShotSpotter Gunshot Detection System — soundthinking.com](https://www.soundthinking.com/law-enforcement/leading-gunshot-detection-system/); [Flock's Gunshot Detection Microphones Will Start Listening for Human Voices — eff.org](https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_analytics.md · ID: IS-GLO-SITE-ANALYTICS =====
+
+```yaml
+id: IS-GLO-SITE-ANALYTICS
+title: Glossary — analytics
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: analytics
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 193
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# analytics
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+Software for searching, querying and finding patterns in large amounts of stored data, from data warehouses that answer questions in SQL to link-analysis tools that map connections between people, places and events.
+
+A government cloud term, used in Research › Government cloud. In the record: 5 capabilities in this category, from Amazon Web Services, Google Cloud, Microsoft Azure, Palantir Technologies. Examples: FALCON: Analytical search & link analysis; GovCloud (US): Amazon Redshift; Google Cloud: BigQuery; Azure Government: Synapse Analytics. See [Research › Government cloud › Capabilities](/research/government-cloud/capabilities).
+
+Related terms: [data fusion](/glossary/data-fusion), [artificial intelligence and machine learning (AI/ML)](/glossary/artificial-intelligence-and-machine-learning), [cloud database](/glossary/cloud-database)
+
+Sources: [Analytics — Wikipedia](https://en.wikipedia.org/wiki/Analytics); [ICE seeks expanded LexisNexis data access with Palantir integration — biometricupdate.com](https://www.biometricupdate.com/202608/ice-seeks-expanded-lexisnexis-investigative-data-access-with-palantir-integration); [Services in AWS GovCloud (US) Regions — docs.aws.amazon.com](https://docs.aws.amazon.com/govcloud-us/latest/UserGuide/using-services.html)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_announced-pledge.md · ID: IS-GLO-SITE-ANNOUNCED-PLEDGE =====
+
+```yaml
+id: IS-GLO-SITE-ANNOUNCED-PLEDGE
+title: Glossary — announced pledge
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: announced-pledge
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 153
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# announced pledge
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+A public promise to invest or spend, usually over several years and often depending on milestones, made by a company or government. A pledge is not money paid, and it is never added to disclosed contract values.
+
+A government cloud term, used in Research › Government cloud. Pledges are shown in Procurement and Investment beside disclosed figures, never summed with them.
+
+Related terms: [contract award](/glossary/contract-award), [market-size estimate](/glossary/market-size-estimate)
+
+Sources: [AWS plans to invest EUR7.8 billion into European Sovereign Cloud — Amazon EU](https://www.aboutamazon.eu/news/aws/aws-plans-to-invest-7-8-billion-into-the-aws-european-sovereign-cloud); [AWS and HUMAIN announce a more than $5B investment — Amazon](https://www.aboutamazon.com/news/company-news/amazon-aws-humain-ai-investment-in-saudi-arabia)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_artificial-intelligence-and-machine-learning.md · ID: IS-GLO-SITE-ARTIFICIAL-INTELLIGENCE-AND-MACHINE-LEARNING =====
+
+```yaml
+id: IS-GLO-SITE-ARTIFICIAL-INTELLIGENCE-AND-MACHINE-LEARNING
+title: Glossary — artificial intelligence and machine learning (AI/ML)
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: artificial-intelligence-and-machine-learning
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 214
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# artificial intelligence and machine learning (AI/ML)
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+Software that learns patterns from data and uses them to classify, predict, generate text or images, or act on instructions, rather than following only rules written by hand. In government clouds it is offered as hosted models, including large language models, run inside the government's own accredited environment.
+
+A government cloud term, used in Research › Government cloud. In the record: 14 capabilities in this category, from Amazon Web Services, Axon, Google Cloud, IBM Cloud, Microsoft Azure, Oracle Cloud, Palantir Technologies. Examples: AIP: AI/LLM orchestration; IBM Cloud for Government: watsonx.ai; OCI Government: OCI Generative AI; watsonx: ALLaM (Arabic LLM). See [Research › Government cloud › Capabilities](/research/government-cloud/capabilities).
+
+Related terms: [analytics](/glossary/analytics), [data fusion](/glossary/data-fusion), [cloud compute](/glossary/cloud-compute), [confidential computing](/glossary/confidential-computing)
+
+Sources: [Artificial intelligence — Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence); [AIP, Foundry, and Apollo — palantir.com](https://www.palantir.com/docs/foundry/architecture-center/platforms); [IBM Expands FedRAMP Portfolio Including watsonx — prnewswire.com](https://www.prnewswire.com/news-releases/ibm-expands-fedramp-portfolio-with-authorization-of-11-software-solutions-including-watsonx-302730758.html)
 
 
 ===== FILE: glossary-site/IS_GLO_SITE_assistance.md · ID: IS-GLO-SITE-ASSISTANCE =====
@@ -5517,6 +5656,35 @@ Documented cases: the 1994 genocide in Rwanda, where the 1998 judgment against a
 Related terms: [crimes against humanity](/glossary/crimes-against-humanity), [war crimes](/glossary/war-crimes), [International Criminal Court](/glossary/international-criminal-court), [tribunal](/glossary/tribunal)
 
 Sources: [Definitions — UN Office on Genocide Prevention](https://www.un.org/en/genocide-prevention/definition) · [Framework of Analysis for Atrocity Crimes — OHCHR](https://www.ohchr.org/en/documents/tools-and-resources/framework-analysis-atrocity-crimes) · [Rwanda: the first conviction for genocide — USHMM](https://encyclopedia.ushmm.org/content/en/article/rwanda-the-first-conviction-for-genocide) · [Krstić case information sheet — ICTY](https://www.icty.org/x/cases/krstic/cis/en/cis_krstic_en.pdf) · [Mladić — International Residual Mechanism for Criminal Tribunals](https://www.irmct.org/en/cases/mict-13-56) · [The Khmer Rouge cases — USHMM](https://www.ushmm.org/genocide-prevention/countries/cambodia/the-cases)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_bid-protest.md · ID: IS-GLO-SITE-BID-PROTEST =====
+
+```yaml
+id: IS-GLO-SITE-BID-PROTEST
+title: Glossary — bid protest
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: bid-protest
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 126
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# bid protest
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+A formal challenge by a company to how a government contract was awarded, brought before an auditor such as the US Government Accountability Office or before a court.
+
+A government cloud term, used in Research › Government cloud. The record includes bid protests over the Pentagon's JEDI cloud contract.
+
+Related terms: [contract award](/glossary/contract-award)
+
+Sources: [Bid protests — U.S. Government Accountability Office](https://www.gao.gov/legal/bid-protests); [COFC Denies Oracle Protest of JEDI Contract — PilieroMazza](https://www.pilieromazza.com/blog-court-of-federal-claims-denies-oracle-protest-of-jedi-contract-is-this-it-for-oracle/)
 
 
 ===== FILE: glossary-site/IS_GLO_SITE_blood-brain-barrier.md · ID: IS-GLO-SITE-BLOOD-BRAIN-BARRIER =====
@@ -5610,6 +5778,151 @@ Related terms: [two-photon microscopy](/glossary/two-photon-microscopy), [neural
 Sources: [Calcium imaging — Wikipedia](https://en.wikipedia.org/wiki/Calcium_imaging); [Transparent Brain-Computer Interface Uses AI and Nanotech — Psychology Today (Cami Rosso, 24 Jan 2024)](https://www.psychologytoday.com/us/blog/the-future-brain/202401/transparent-brain-computer-interface-uses-ai-and-nanotech)
 
 
+===== FILE: glossary-site/IS_GLO_SITE_case-management-software.md · ID: IS-GLO-SITE-CASE-MANAGEMENT-SOFTWARE =====
+
+```yaml
+id: IS-GLO-SITE-CASE-MANAGEMENT-SOFTWARE
+title: Glossary — case management software
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: case-management-software
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 163
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# case management software
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+Software that gathers everything about one matter or one person into a single file that investigators or caseworkers work from: records, notes, links to other cases, and the steps taken.
+
+A government cloud term, used in Research › Government cloud. In the record: 2 capabilities in this category, from Palantir Technologies. Examples: ICM: Case management & data fusion; ImmigrationOS: Targeting & lifecycle management. See [Research › Government cloud › Capabilities](/research/government-cloud/capabilities).
+
+Related terms: [data fusion](/glossary/data-fusion), [digital evidence management](/glossary/digital-evidence-management), [analytics](/glossary/analytics)
+
+Sources: [ICE seeks expanded LexisNexis data access with Palantir integration — biometricupdate.com](https://www.biometricupdate.com/202608/ice-seeks-expanded-lexisnexis-investigative-data-access-with-palantir-integration); [ICE to Use ImmigrationOS by Palantir to Track Immigrants — americanimmigrationcouncil.org](https://www.americanimmigrationcouncil.org/blog/ice-immigrationos-palantir-ai-track-immigrants/)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_cloud-compute.md · ID: IS-GLO-SITE-CLOUD-COMPUTE =====
+
+```yaml
+id: IS-GLO-SITE-CLOUD-COMPUTE
+title: Glossary — cloud compute
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: cloud-compute
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 209
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# cloud compute
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+Rented processing power: virtual servers that run software on a provider's hardware, started and stopped on demand and paid for by use. Government versions are sold in separate regions, up to ones isolated from the internet for classified work.
+
+A government cloud term, used in Research › Government cloud. In the record: 4 capabilities in this category, from Amazon Web Services, Google Cloud, Microsoft Azure, Oracle Cloud. Examples: GovCloud (US) / Secret / Top Secret: Amazon EC2 compute; Google Distributed Cloud air-gapped: GDC air-gapped platform; OCI Government / National Security Regions: OCI compute regions; Azure Government: Government compute VMs. See [Research › Government cloud › Capabilities](/research/government-cloud/capabilities).
+
+Related terms: [cloud storage](/glossary/cloud-storage), [edge and satellite computing](/glossary/edge-and-satellite-computing), [confidential computing](/glossary/confidential-computing), [FedRAMP](/glossary/fedramp)
+
+Sources: [The NIST Definition of Cloud Computing, SP 800-145 — NIST](https://csrc.nist.gov/pubs/sp/800/145/final); [AWS GovCloud (US) — aws.amazon.com](https://aws.amazon.com/govcloud-us/); [Google Distributed Cloud air-gapped — cloud.google.com](https://cloud.google.com/distributed-cloud-air-gapped)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_cloud-database.md · ID: IS-GLO-SITE-CLOUD-DATABASE =====
+
+```yaml
+id: IS-GLO-SITE-CLOUD-DATABASE
+title: Glossary — cloud database
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: cloud-database
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 140
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# cloud database
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+A database run by the cloud provider as a service: the provider manages the hardware, backups and updates, and the customer stores and queries its data.
+
+A government cloud term, used in Research › Government cloud. In the record: 1 capability in this category, from Oracle Cloud. Examples: OCI Government: Autonomous Database. See [Research › Government cloud › Capabilities](/research/government-cloud/capabilities).
+
+Related terms: [cloud storage](/glossary/cloud-storage), [analytics](/glossary/analytics)
+
+Sources: [Database — Wikipedia](https://en.wikipedia.org/wiki/Database); [Oracle Unveils AI Data Platform for US Federal Government — oracle.com](https://www.oracle.com/news/announcement/oracle-unveils-ai-data-platform-for-us-federal-government-2026-03-31/)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_cloud-security-operations.md · ID: IS-GLO-SITE-CLOUD-SECURITY-OPERATIONS =====
+
+```yaml
+id: IS-GLO-SITE-CLOUD-SECURITY-OPERATIONS
+title: Glossary — security operations
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: cloud-security-operations
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 178
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# security operations
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+Tools that collect security data from across an organisation's systems, detect attacks and suspicious activity, and supply threat intelligence, often called a security operations centre (SOC) platform.
+
+A government cloud term, used in Research › Government cloud. In the record: 5 capabilities in this category, from Google Cloud, IBM Cloud, Microsoft Azure. Examples: Google Cloud: Google Security Operations (Chronicle); Google Cloud: Mandiant Threat Intelligence; IBM Cloud for Government: watsonx.governance; Google Cloud (commercial): Assured Workloads. See [Research › Government cloud › Capabilities](/research/government-cloud/capabilities).
+
+Related terms: [confidential computing](/glossary/confidential-computing), [sovereign cloud](/glossary/sovereign-cloud), [FedRAMP](/glossary/fedramp)
+
+Sources: [Computer security — Wikipedia](https://en.wikipedia.org/wiki/Computer_security); [Google Security Operations — cloud.google.com](https://cloud.google.com/security/products/security-operations); [IBM Expands FedRAMP Portfolio Including watsonx — prnewswire.com](https://www.prnewswire.com/news-releases/ibm-expands-fedramp-portfolio-with-authorization-of-11-software-solutions-including-watsonx-302730758.html)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_cloud-storage.md · ID: IS-GLO-SITE-CLOUD-STORAGE =====
+
+```yaml
+id: IS-GLO-SITE-CLOUD-STORAGE
+title: Glossary — cloud storage
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: cloud-storage
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 181
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# cloud storage
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+Rented space for keeping data on a provider's systems, from files and backups to large data lakes, kept encrypted and copied across sites.
+
+A government cloud term, used in Research › Government cloud. In the record: 2 capabilities in this category, from Amazon Web Services, Microsoft Azure. Examples: Azure Government: Blob / Data Lake Storage; GovCloud (US): Amazon S3 storage. See [Research › Government cloud › Capabilities](/research/government-cloud/capabilities).
+
+Related terms: [cloud compute](/glossary/cloud-compute), [cloud database](/glossary/cloud-database), [sovereign cloud](/glossary/sovereign-cloud)
+
+Sources: [The NIST Definition of Cloud Computing, SP 800-145 — NIST](https://csrc.nist.gov/pubs/sp/800/145/final); [Azure Government Top Secret now generally available — azure.microsoft.com](https://azure.microsoft.com/en-us/blog/azure-government-top-secret-now-generally-available-for-us-national-security-missions/); [Services in AWS GovCloud (US) Regions — docs.aws.amazon.com](https://docs.aws.amazon.com/govcloud-us/latest/UserGuide/using-services.html)
+
+
 ===== FILE: glossary-site/IS_GLO_SITE_colorado-privacy-act.md · ID: IS-GLO-SITE-COLORADO-PRIVACY-ACT =====
 
 ```yaml
@@ -5637,6 +5950,35 @@ An amendment, HB24-1058, in force since 7 August 2024, added biological data to 
 Related terms: [cognitive liberty](/glossary/cognitive-liberty), [neuro-forensics](/glossary/neuro-forensics), [brain–computer interface](/glossary/braincomputer-interface-bci)
 
 Sources: [Colorado Privacy Act — Colorado Attorney General](https://coag.gov/resources/colorado-privacy-act/) · [HB24-1058 — Colorado General Assembly](https://leg.colorado.gov/bills/hb24-1058)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_confidential-computing.md · ID: IS-GLO-SITE-CONFIDENTIAL-COMPUTING =====
+
+```yaml
+id: IS-GLO-SITE-CONFIDENTIAL-COMPUTING
+title: Glossary — confidential computing
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: confidential-computing
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 180
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# confidential computing
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+Hardware that keeps data encrypted and walled off even while it is being processed, so that the cloud provider's own staff and software cannot read it in memory.
+
+A government cloud term, used in Research › Government cloud. In the record: 3 capabilities in this category, from Amazon Web Services, Microsoft Azure. Examples: Azure Gov / Secret / Top Secret: Azure Confidential Computing; GovCloud / Secret / Top Secret: AWS Nitro System; GovCloud / Secret / Top Secret: Nitro Enclaves. See [Research › Government cloud › Capabilities](/research/government-cloud/capabilities).
+
+Related terms: [cloud compute](/glossary/cloud-compute), [security operations](/glossary/cloud-security-operations), [sovereign cloud](/glossary/sovereign-cloud)
+
+Sources: [Confidential computing — Wikipedia](https://en.wikipedia.org/wiki/Confidential_computing); [Azure Government Top Secret now generally available — azure.microsoft.com](https://azure.microsoft.com/en-us/blog/azure-government-top-secret-now-generally-available-for-us-national-security-missions/); [AWS Top Secret Cloud — aws.amazon.com](https://aws.amazon.com/federal/top-secret-cloud/)
 
 
 ===== FILE: glossary-site/IS_GLO_SITE_contact-microphone.md · ID: IS-GLO-SITE-CONTACT-MICROPHONE =====
@@ -5672,6 +6014,35 @@ One honest limit: vendor literature on technical surveillance countermeasures li
 Related terms: [structure-borne audio](/glossary/structure-borne-audio), [piezoelectricity](/glossary/piezoelectricity), [laser microphone](/glossary/laser-microphone), [sampling limit](/glossary/sampling-limit)
 
 Sources: [Contact microphone — Wikipedia](https://en.wikipedia.org/wiki/Contact_microphone); [Protection of speech information against laser eavesdropping — Journal of Vibroengineering (2016)](https://www.extrica.com/article/16943); [TSCM threats, detection equipment, practices and procedures — Bastille](https://bastille.net/centers-of-excellence/tscm-threats-detection-equipment-practices-procedures/)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_contract-award.md · ID: IS-GLO-SITE-CONTRACT-AWARD =====
+
+```yaml
+id: IS-GLO-SITE-CONTRACT-AWARD
+title: Glossary — contract award
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: contract-award
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 156
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# contract award
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+The decision by a government buyer to give a contract to a supplier, with its scope, value and term. The value published at award is often a ceiling, the most that may be spent, rather than what is actually paid.
+
+A government cloud term, used in Research › Government cloud. Awards are counted in Procurement; a disclosed award value is kept apart from pledges and estimates.
+
+Related terms: [announced pledge](/glossary/announced-pledge), [bid protest](/glossary/bid-protest), [FedRAMP](/glossary/fedramp)
+
+Sources: [USAspending.gov — U.S. Department of the Treasury](https://www.usaspending.gov/); [ICE and CBP Bought a Record $140M in Cloud — Forbes](https://www.forbes.com/sites/the-wiretap/2026/01/27/immigration-record-spend-on-amazon-and-trump/)
 
 
 ===== FILE: glossary-site/IS_GLO_SITE_counterterrorism.md · ID: IS-GLO-SITE-COUNTERTERRORISM =====
@@ -5732,6 +6103,122 @@ Documented cases: the Nuremberg tribunal's 1946 judgment established crimes agai
 Related terms: [war crimes](/glossary/war-crimes), [atrocities](/glossary/atrocities), [Nuremberg Code](/glossary/nuremberg-code), [International Criminal Court](/glossary/international-criminal-court)
 
 Sources: [Definitions — UN Office on Genocide Prevention](https://www.un.org/en/genocide-prevention/definition) · [International Military Tribunal at Nuremberg — USHMM](https://encyclopedia.ushmm.org/content/en/article/international-military-tribunal-at-nuremberg) · [The Doctors Trial — USHMM](https://encyclopedia.ushmm.org/content/en/article/the-doctors-trial-the-medical-case-of-the-subsequent-nuremberg-proceedings) · [The Khmer Rouge cases — USHMM](https://www.ushmm.org/genocide-prevention/countries/cambodia/the-cases) · [ICC sentences Ongwen — UN News](https://news.un.org/en/story/2021/05/1091472)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_data-fusion.md · ID: IS-GLO-SITE-DATA-FUSION =====
+
+```yaml
+id: IS-GLO-SITE-DATA-FUSION
+title: Glossary — data fusion
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: data-fusion
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 196
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# data fusion
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+Combining records from several separate sources into one joined view, so that information about the same person, place or event, held in different systems, can be searched and analysed together.
+
+A government cloud term, used in Research › Government cloud. In the record: 7 capabilities in this category, from Amazon Web Services, Google Cloud, IBM Cloud, Microsoft Azure, Oracle Cloud, Palantir Technologies. Examples: OCI Government: Oracle AI Data Platform for Federal; Foundry: Data integration & ontology; NHS Federated Data Platform: Care coordination & population health; Azure Government: Microsoft Fabric. See [Research › Government cloud › Capabilities](/research/government-cloud/capabilities).
+
+Related terms: [case management software](/glossary/case-management-software), [analytics](/glossary/analytics), [identity and biometrics](/glossary/identity-and-biometrics)
+
+Sources: [Data fusion — Wikipedia](https://en.wikipedia.org/wiki/Data_fusion); [Oracle Unveils AI Data Platform for US Federal Government — oracle.com](https://www.oracle.com/news/announcement/oracle-unveils-ai-data-platform-for-us-federal-government-2026-03-31/); [AIP, Foundry, and Apollo — palantir.com](https://www.palantir.com/docs/foundry/architecture-center/platforms)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_data-protection-authority.md · ID: IS-GLO-SITE-DATA-PROTECTION-AUTHORITY =====
+
+```yaml
+id: IS-GLO-SITE-DATA-PROTECTION-AUTHORITY
+title: Glossary — data-protection authority
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: data-protection-authority
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 148
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# data-protection authority
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+An independent public regulator that enforces a country's data-protection law: it investigates complaints, orders data deleted or processing stopped, and can fine organisations. In the European Union each member state has one, coordinated by the European Data Protection Board.
+
+A government cloud term, used in Research › Government cloud. Most of the cases in Litigation about facial recognition are decisions by these authorities.
+
+Related terms: [identity and biometrics](/glossary/identity-and-biometrics), [sovereign cloud](/glossary/sovereign-cloud)
+
+Sources: [Members — European Data Protection Board](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en); [Facial recognition: 20 million euros penalty against CLEARVIEW AI — CNIL](https://www.cnil.fr/en/facial-recognition-20-million-euros-penalty-against-clearview-ai)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_development-platform.md · ID: IS-GLO-SITE-DEVELOPMENT-PLATFORM =====
+
+```yaml
+id: IS-GLO-SITE-DEVELOPMENT-PLATFORM
+title: Glossary — development platform
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: development-platform
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 149
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# development platform
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+Services for building and connecting software rather than running it: tools that let one system offer its data to others through managed interfaces (APIs).
+
+A government cloud term, used in Research › Government cloud. In the record: 1 capability in this category, from Google Cloud. Examples: Google Cloud: Apigee. See [Research › Government cloud › Capabilities](/research/government-cloud/capabilities).
+
+Related terms: [cloud compute](/glossary/cloud-compute), [cloud database](/glossary/cloud-database)
+
+Sources: [The NIST Definition of Cloud Computing, SP 800-145 — NIST](https://csrc.nist.gov/pubs/sp/800/145/final); [Expanded Google Cloud security support for public sector — cloud.google.com](https://cloud.google.com/blog/products/identity-security/announcing-expanded-google-cloud-security-support-for-the-public-sector/)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_digital-evidence-management.md · ID: IS-GLO-SITE-DIGITAL-EVIDENCE-MANAGEMENT =====
+
+```yaml
+id: IS-GLO-SITE-DIGITAL-EVIDENCE-MANAGEMENT
+title: Glossary — digital evidence management
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: digital-evidence-management
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 146
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# digital evidence management
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+Systems that store and track evidence in digital form, such as body-camera video, photographs and files, recording who handled it and when so that it can be used in court.
+
+A government cloud term, used in Research › Government cloud. In the record: 1 capability in this category, from Axon. Examples: Evidence.com: Digital evidence management. See [Research › Government cloud › Capabilities](/research/government-cloud/capabilities).
+
+Related terms: [case management software](/glossary/case-management-software), [surveillance technology](/glossary/surveillance-technology)
+
+Sources: [Digital evidence — Wikipedia](https://en.wikipedia.org/wiki/Digital_evidence); [Inside the technological heart and mind of Axon — police1.com](https://www.police1.com/artificial-intelligence/inside-the-technological-heart-and-mind-of-axon)
 
 
 ===== FILE: glossary-site/IS_GLO_SITE_directed-energy.md · ID: IS-GLO-SITE-DIRECTED-ENERGY =====
@@ -5819,6 +6306,64 @@ A group of symptoms caused by food moving too quickly from the stomach into the 
 Early dumping begins within 30 minutes of eating; late dumping comes one to three hours after. The most common cause is surgery on the stomach or esophagus.
 
 Sources: [Dumping Syndrome — National Institute of Diabetes and Digestive and Kidney Diseases (NIH)](https://www.niddk.nih.gov/health-information/digestive-diseases/dumping-syndrome)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_e-government.md · ID: IS-GLO-SITE-E-GOVERNMENT =====
+
+```yaml
+id: IS-GLO-SITE-E-GOVERNMENT
+title: Glossary — e-government
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: e-government
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 181
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# e-government
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+Delivering public services and administration through digital systems: applying for benefits, paying tax, registering a birth or proving identity online, and the back-office systems that process them.
+
+A government cloud term, used in Research › Government cloud. In the record: 6 capabilities in this category, from Empresa de Tecnologia e Informacoes da Previdencia (Dataprev), Irembo, Rostelecom, Servico Federal de Processamento de Dados (SERPRO). Examples: Dataprev: Social security data platform; SERPRO federal systems: Government IT services; gov.br / Datavalid: Digital identity & verification; Absher: Government services portal. See [Research › Government cloud › Capabilities](/research/government-cloud/capabilities).
+
+Related terms: [identity and biometrics](/glossary/identity-and-biometrics), [sovereign cloud](/glossary/sovereign-cloud), [cloud database](/glossary/cloud-database)
+
+Sources: [E-government — Wikipedia](https://en.wikipedia.org/wiki/E-government); [Dataprev — dataprev.gov.br](https://www.dataprev.gov.br/); [Our services — serpro.gov.br](https://www.serpro.gov.br/en/our-services)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_edge-and-satellite-computing.md · ID: IS-GLO-SITE-EDGE-AND-SATELLITE-COMPUTING =====
+
+```yaml
+id: IS-GLO-SITE-EDGE-AND-SATELLITE-COMPUTING
+title: Glossary — edge and satellite computing
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: edge-and-satellite-computing
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 176
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# edge and satellite computing
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+Computing placed where the data is gathered rather than in a distant data centre: rugged portable devices in the field, equipment installed inside a government building, or ground stations that receive data from satellites.
+
+A government cloud term, used in Research › Government cloud. In the record: 3 capabilities in this category, from Amazon Web Services, Oracle Cloud. Examples: GovCloud (US): AWS Ground Station; GovCloud / tactical: AWS Snowball / Snowcone; OCI Government: Exadata Cloud@Customer. See [Research › Government cloud › Capabilities](/research/government-cloud/capabilities).
+
+Related terms: [cloud compute](/glossary/cloud-compute), [cloud storage](/glossary/cloud-storage)
+
+Sources: [Edge computing — Wikipedia](https://en.wikipedia.org/wiki/Edge_computing); [AWS GovCloud (US) — aws.amazon.com](https://aws.amazon.com/govcloud-us/); [OCI adds authorized services for US government customers — blogs.oracle.com](https://blogs.oracle.com/cloud-infrastructure/oci-adds-new-authorized-services-us-government)
 
 
 ===== FILE: glossary-site/IS_GLO_SITE_electrocorticography.md · ID: IS-GLO-SITE-ELECTROCORTICOGRAPHY =====
@@ -5974,6 +6519,35 @@ Related terms: [perceptual set](/glossary/perceptual-set), [cognitive liberty](/
 Sources: [Update on False UFO Disclosure — Steven Greer (Disclosure News)](https://www.disclosurenews.it/update-on-false-ufo-disclosure-steven-greer/); [Are Secret Space Program Disclosures Prelude to a False-Flag Alien Invasion? — Exopolitics](https://exopolitics.org/are-secret-space-program-disclosures-prelude-to-a-false-flag-alien-invasion/)
 
 
+===== FILE: glossary-site/IS_GLO_SITE_fedramp.md · ID: IS-GLO-SITE-FEDRAMP =====
+
+```yaml
+id: IS-GLO-SITE-FEDRAMP
+title: Glossary — FedRAMP
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: fedramp
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 128
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# FedRAMP
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+The Federal Risk and Authorization Management Program: the US government's standard process for assessing and authorising cloud services before federal agencies may use them, at low, moderate or high security levels.
+
+A government cloud term, used in Research › Government cloud. Many US deployments and capabilities in the record are described by their FedRAMP level.
+
+Related terms: [sovereign cloud](/glossary/sovereign-cloud), [cloud compute](/glossary/cloud-compute), [contract award](/glossary/contract-award)
+
+Sources: [FedRAMP — fedramp.gov](https://www.fedramp.gov/); [FedRAMP — Wikipedia](https://en.wikipedia.org/wiki/FedRAMP)
+
+
 ===== FILE: glossary-site/IS_GLO_SITE_gang-stalking.md · ID: IS-GLO-SITE-GANG-STALKING =====
 
 ```yaml
@@ -6063,6 +6637,35 @@ Graphene oxide is a different, chemically altered form, studied separately for u
 Related terms: [nanomaterial](/glossary/nanomaterial), [electrocorticography](/glossary/electrocorticography), [transparent brain-computer interfaces](/glossary/transparent-brain-computer-interfaces-bcis), [lipid nanoparticle](/glossary/lipid-nanoparticle)
 
 Sources: [The Nobel Prize in Physics 2010 — NobelPrize.org](https://www.nobelprize.org/prizes/physics/2010/summary/); [Transparent Brain-Computer Interface Uses AI and Nanotech — Psychology Today (Cami Rosso, 24 Jan 2024)](https://www.psychologytoday.com/us/blog/the-future-brain/202401/transparent-brain-computer-interface-uses-ai-and-nanotech)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_identity-and-biometrics.md · ID: IS-GLO-SITE-IDENTITY-AND-BIOMETRICS =====
+
+```yaml
+id: IS-GLO-SITE-IDENTITY-AND-BIOMETRICS
+title: Glossary — identity and biometrics
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: identity-and-biometrics
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 216
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# identity and biometrics
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+Systems that establish who a person is, from documents, records or the body itself: faces, fingerprints, irises or voice. A biometric system compares a new sample against stored ones, either to confirm a claimed identity (one to one) or to search for a match among many (one to many).
+
+A government cloud term, used in Research › Government cloud. In the record: 10 capabilities in this category, from Amazon Web Services, Clearview AI, Google Cloud, Microsoft Azure. Examples: GovCloud (US): Amazon Rekognition; Aadhaar / UIDAI: Biometric ID authentication & eKYC; Google Cloud / GDC: Vision AI; Azure Government: Azure AI Face. See [Research › Government cloud › Capabilities](/research/government-cloud/capabilities).
+
+Related terms: [surveillance technology](/glossary/surveillance-technology), [data fusion](/glossary/data-fusion), [data-protection authority](/glossary/data-protection-authority), [e-government](/glossary/e-government)
+
+Sources: [Biometrics — Wikipedia](https://en.wikipedia.org/wiki/Biometrics); [New AI/ML solutions in AWS GovCloud (US) — aws.amazon.com](https://aws.amazon.com/blogs/publicsector/new-ai-ml-solutions-in-aws-govcloud-us-underpin-responsible-innovation/); [Can Aadhaar be used for eKYC? — uidai.gov.in](https://www.uidai.gov.in/en/288-english-uk/faqs/your-aadhaar/use-of-aadhaar/18744-can-aadhaar-be-used-for-ekyc.html)
 
 
 ===== FILE: glossary-site/IS_GLO_SITE_image-based-search.md · ID: IS-GLO-SITE-IMAGE-BASED-SEARCH =====
@@ -6305,6 +6908,35 @@ Documented real-world example: magnetoelectric nanoparticles were part of DARPA�
 Related terms: [nanoparticle](/glossary/nanoparticle), [electromagnetic field](/glossary/electromagnetic-field), [blood–brain barrier](/glossary/blood-brain-barrier), [brain–computer interface](/glossary/braincomputer-interface-bci)
 
 Sources: [Battelle to develop injectable bi-directional brain-computer interface — Medical Design Briefs](https://www.medicaldesignbriefs.com/component/content/article/34496-battelle-to-develop-injectable-bi-directional-brain-computer-interface); [Controlling action potentials with magnetoelectric nanoparticles — Brain Stimulation (2024)](https://doaj.org/article/801d9135b2074d888babee5afd7992cc)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_market-size-estimate.md · ID: IS-GLO-SITE-MARKET-SIZE-ESTIMATE =====
+
+```yaml
+id: IS-GLO-SITE-MARKET-SIZE-ESTIMATE
+title: Glossary — market-size estimate
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: market-size-estimate
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 142
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# market-size estimate
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+An analyst firm's estimate of how much could be spent in a market over a period. Firms define markets and measure differently, so estimates of the same market can differ widely; they describe expectations, not spending.
+
+A government cloud term, used in Research › Government cloud. Market sizes are shown in Investment, by mission domain.
+
+Related terms: [announced pledge](/glossary/announced-pledge), [contract award](/glossary/contract-award)
+
+Sources: [Government Cloud Market Size, Share & 2030 Growth Trends — Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/government-cloud-market); [Military Cloud Computing Market Size, Share, Industry Report — MarketsandMarkets](https://www.marketsandmarkets.com/Market-Reports/military-cloud-market-133363531.html)
 
 
 ===== FILE: glossary-site/IS_GLO_SITE_microwave-auditory-effect.md · ID: IS-GLO-SITE-MICROWAVE-AUDITORY-EFFECT =====
@@ -7367,6 +7999,35 @@ Related terms: [euthanasia](/glossary/euthanisia), [Nuremberg Code](/glossary/nu
 Sources: [Medical aid in dying — Colorado Department of Public Health and Environment](https://cdphe.colorado.gov/center-for-health-and-environmental-data/registries-and-vital-statistics/medical-aid-in-dying) · [C.R.S. 18-3-104, manslaughter](https://colorado.public.law/statutes/crs_18-3-104) · [Medical assistance in dying — Government of Canada](https://www.canada.ca/en/health-canada/services/health-services-benefits/medical-assistance-dying.html) · [Legislative Summary of Bill C-62 — Library of Parliament](https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ResearchPublications/LegislativeSummaries/441C62E) · [Veterans minister on assisted-dying discussions — Global News](https://globalnews.ca/news/9352616/veterans-affairs-minister-year-end-maid/) · [Where assisted dying is legal — TIME, July 2026](https://time.com/article/2026/07/16/france-assisted-dying-bill-where-legal/)
 
 
+===== FILE: glossary-site/IS_GLO_SITE_sovereign-cloud.md · ID: IS-GLO-SITE-SOVEREIGN-CLOUD =====
+
+```yaml
+id: IS-GLO-SITE-SOVEREIGN-CLOUD
+title: Glossary — sovereign cloud
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: sovereign-cloud
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 221
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# sovereign cloud
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+A cloud kept under one country's control: its data centres are inside the country, it is operated by locally governed staff or companies, and it answers to that country's law rather than a foreign provider's. Some are run by the state itself, some by local partners licensing a foreign provider's technology.
+
+A government cloud term, used in Research › Government cloud. In the record: 5 capabilities in this category, from Core42 (G42 subsidiary), Delos Cloud, Gosoblako / GEOP (State Unified Cloud Platform), Huawei Cloud. Examples: Gosoblako / GEOP: Government IaaS/PaaS; Huawei Cloud Stack: National government cloud architecture; Delos Cloud: Sovereign cloud for public administration; Core42 Insight / Sovereign Public Cloud: Sovereign cloud compliance control plane. See [Research › Government cloud › Capabilities](/research/government-cloud/capabilities).
+
+Related terms: [FedRAMP](/glossary/fedramp), [cloud compute](/glossary/cloud-compute), [cloud storage](/glossary/cloud-storage), [data-protection authority](/glossary/data-protection-authority)
+
+Sources: [Huawei Cloud Stack National Government Cloud Reference Architecture — prnewswire.com](https://www.prnewswire.com/ae/news-releases/huawei-cloud-stack-interprets-its-national-government-cloud-reference-architecture-302254134.html); [adesso and Delos Cloud - Sovereign cloud for public administration — adesso.de](https://www.adesso.de/en/technologies/cloud/delos-cloud.jsp)
+
+
 ===== FILE: glossary-site/IS_GLO_SITE_structure-borne-audio.md · ID: IS-GLO-SITE-STRUCTURE-BORNE-AUDIO =====
 
 ```yaml
@@ -7400,6 +8061,35 @@ Two properties matter for anyone weighing a claim. Every documented method requi
 Related terms: [parametric array](/glossary/parametric-array), [piezoelectricity](/glossary/piezoelectricity), [Voice-to-skull](/glossary/voice-to-skull), [microwave auditory effect](/glossary/microwave-auditory-effect)
 
 Sources: [Body sound converter — Monacor](https://www.monacor.com/magazine/body-sound-converter); [Whispering Window — Feonic](https://www.feonic.com/blog/whispering-window/window-speaker-retail-store-sound-system/); [DAEX25 Sound Exciter Pair — Dayton Audio](https://www.daytonaudio.com/product/1087/daex25-sound-exciter-pair); [Ac2ated Sound — Continental](https://www.continental.com/en/press/press-releases/20170628-speakerless-audio/)
+
+
+===== FILE: glossary-site/IS_GLO_SITE_surveillance-technology.md · ID: IS-GLO-SITE-SURVEILLANCE-TECHNOLOGY =====
+
+```yaml
+id: IS-GLO-SITE-SURVEILLANCE-TECHNOLOGY
+title: Glossary — surveillance technology
+collection: glossary
+doc_type: term
+provenance: site-authored
+slug: surveillance-technology
+categories: [glossary, reference, glossary-government-cloud, glossary-technology]
+word_count: 164
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# surveillance technology
+
+*Site-authored. This term was written for invisibleships.com to explain the work; it is not extracted from the source document series, and it carries no source-document id for that reason. Terms drawn from the primary record are in `glossary/` and do carry one.*
+
+
+Systems that watch and record people, vehicles or places over time: camera networks, licence-plate readers and the centres that pull their feeds together for police.
+
+A government cloud term, used in Research › Government cloud. In the record: 2 capabilities in this category, from Axon, Flock Safety. Examples: Flock LPR / National Network: ALPR network & national lookup; Fusus: Real-time crime center. See [Research › Government cloud › Capabilities](/research/government-cloud/capabilities).
+
+Related terms: [acoustic sensing](/glossary/acoustic-sensing), [identity and biometrics](/glossary/identity-and-biometrics), [digital evidence management](/glossary/digital-evidence-management)
+
+Sources: [Automatic number-plate recognition — Wikipedia](https://en.wikipedia.org/wiki/Automatic_number-plate_recognition); [Audio Detection & Gunshot Detection — flocksafety.com](https://www.flocksafety.com/products/gunshot-detection); [Axon Fusus Real-Time Intelligence Platform — axon.com](https://www.axon.com/products/axon-fusus)
 
 
 ===== FILE: glossary-site/IS_GLO_SITE_targeted-individual.md · ID: IS-GLO-SITE-TARGETED-INDIVIDUAL =====

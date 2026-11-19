@@ -3,8 +3,8 @@ id: IS-BUNDLE-08-RESEARCH
 title: "Research: crime, public health, government cloud"
 collection: bundles
 doc_type: bundle
-files: 76
-approx_tokens: 255,399
+files: 82
+approx_tokens: 260,427
 contains: [crime, public-health, government-cloud, research]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -15,7 +15,7 @@ disclaimer: meta/IS_META_terms.md
 
 The research briefs and their row data (CSV). The JSON copies are in the zip for code.
 
-This file joins 76 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
+This file joins 82 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 
@@ -93,6 +93,12 @@ This file joins 76 files from the Invisible Ships archive so it can be uploaded 
 - `government-cloud/csv/regulations.csv`
 - `government-cloud/csv/sources.csv`
 - `government-cloud/csv/vendors.csv`
+- `government-cloud/systems/IS_SYS_ai-and-machine-learning.md` — What these systems are — AI and machine learning
+- `government-cloud/systems/IS_SYS_cameras-plate-readers-and-gunshot-sensors.md` — What these systems are — Cameras, plate readers and gunshot sensors
+- `government-cloud/systems/IS_SYS_cloud-infrastructure.md` — What these systems are — Government cloud infrastructure
+- `government-cloud/systems/IS_SYS_data-fusion-and-case-management.md` — What these systems are — Data fusion and case management
+- `government-cloud/systems/IS_SYS_facial-recognition-and-biometrics.md` — What these systems are — Facial recognition and biometrics
+- `government-cloud/systems/IS_SYS_sovereign-clouds-and-digital-government.md` — What these systems are — Sovereign clouds and digital government
 - `research/README-research.md`
 - `research/archive/README.md`
 - `research/crime/README.md`
@@ -183,7 +189,7 @@ source-document manifest** — like `government-cloud/` and `public-health/`, th
 is research output, not journal material, and it does not corroborate (and is not
 corroborated by) anything else in this corpus.
 
-Regenerated 2026-11-18 by `scripts/sync_corpus_crime.py`, which recomputes
+Regenerated 2026-11-19 by `scripts/sync_corpus_crime.py`, which recomputes
 every count below from the live data files.
 
 **Scope: the United States only.**
@@ -3255,7 +3261,7 @@ the source-document manifest** — like `government-cloud/`, this folder is rese
 output, not journal material, and it does not corroborate (and is not corroborated
 by) anything else in this corpus.
 
-Regenerated 2026-11-18 by `scripts/sync_corpus_health.py`, which
+Regenerated 2026-11-19 by `scripts/sync_corpus_health.py`, which
 recomputes every count below from the live data files.
 
 ## What this is
@@ -8253,6 +8259,250 @@ verily,Verily Life Sciences (Alphabet),US,isv
 vk-cloud,VK Cloud,RU,local
 yandex,Yandex Cloud,RU,local
 ```
+
+
+===== FILE: government-cloud/systems/IS_SYS_ai-and-machine-learning.md · ID: IS-SYS-AI-AND-MACHINE-LEARNING =====
+
+```yaml
+id: IS-SYS-AI-AND-MACHINE-LEARNING
+title: What these systems are — AI and machine learning
+collection: government-cloud
+doc_type: system
+provenance: site-authored
+slug: ai-and-machine-learning
+word_count: 308
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# AI and machine learning
+
+*Research › Government cloud › What these systems are. Site-authored: written for invisibleships.com to explain the record, not extracted from the source document series. Companies are named for identification only; no wrongdoing is implied.*
+
+Models that learn from data to classify, predict, translate or generate text and images, offered to governments as hosted services inside their own accredited clouds. In this record AI appears both as services the providers sell and as the stated reason for new data centres and national computing projects.
+
+## What it is
+
+Machine-learning software is trained on examples rather than written rule by rule. Once trained, a model can sort documents, recognise objects in images, transcribe speech, translate, or answer questions and draft text, as large language models do. Governments mostly use models built by cloud providers and AI companies, run inside the government's own environment so that its data stays there.
+
+## How governments use it
+
+Uses in this record include analysing imagery, triaging case files, answering questions over agency records, and building national computing capacity for AI. Many capabilities on the other pages, from face matching to link analysis, are themselves built on machine learning.
+
+## In this record
+
+The rows behind this page are in `government-cloud/json/tables/` (CSV copies in `government-cloud/csv/`): capabilities with category ai-ml; deployments whose workload mentions AI or machine learning; contract awards whose scope mentions AI or machine learning. The page lists each with its source and evidence grade.
+
+Related terms: [artificial intelligence and machine learning (AI/ML)](/glossary/artificial-intelligence-and-machine-learning), [analytics](/glossary/analytics), [confidential computing](/glossary/confidential-computing)
+
+Sources: [Artificial intelligence — Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence); [AIP, Foundry, and Apollo — palantir.com](https://www.palantir.com/docs/foundry/architecture-center/platforms); [IBM Expands FedRAMP Portfolio Including watsonx — prnewswire.com](https://www.prnewswire.com/news-releases/ibm-expands-fedramp-portfolio-with-authorization-of-11-software-solutions-including-watsonx-302730758.html)
+
+Page: https://www.invisibleships.com/research/government-cloud/systems/ai-and-machine-learning
+
+
+===== FILE: government-cloud/systems/IS_SYS_cameras-plate-readers-and-gunshot-sensors.md · ID: IS-SYS-CAMERAS-PLATE-READERS-AND-GUNSHOT-SENSORS =====
+
+```yaml
+id: IS-SYS-CAMERAS-PLATE-READERS-AND-GUNSHOT-SENSORS
+title: What these systems are — Cameras, plate readers and gunshot sensors
+collection: government-cloud
+doc_type: system
+provenance: site-authored
+slug: cameras-plate-readers-and-gunshot-sensors
+word_count: 399
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# Cameras, plate readers and gunshot sensors
+
+*Research › Government cloud › What these systems are. Site-authored: written for invisibleships.com to explain the record, not extracted from the source document series. Companies are named for identification only; no wrongdoing is implied.*
+
+Networks of cameras, licence-plate readers and microphones placed in streets and public places, and the systems that store what they record as evidence. Their recordings and alerts are kept and searched in the provider's cloud.
+
+## What it is
+
+Licence-plate readers are cameras that read the plate of every passing vehicle and log the time and place; networks of them can be searched to trace where a vehicle has been. Gunshot-detection systems use microphones spread across a neighbourhood to pick out sounds like gunfire and locate where they came from by comparing when each microphone heard them. Real-time crime centres bring camera feeds and alerts into one room for police to watch. Digital-evidence systems store the recordings, along with body-camera video, with a record of who handled each file.
+
+## How governments use it
+
+Police use these systems to send officers to likely gunfire, to search for a vehicle connected to a crime and to keep evidence for prosecution. Their alerts can lead directly to stops and arrests, which is where the cases in this record arise.
+
+## In this record
+
+SoundThinking offers acoustic gunshot detection (ShotSpotter); its two cases in this record, both in Chicago and both settled, concern police stops and a murder charge that followed its alerts. Flock Safety offers licence-plate reader cameras with a nationwide search across them; its case is a Fourth Amendment challenge to its camera network in Norfolk, Virginia, now on appeal. Axon offers real-time crime centre software and a digital-evidence service.
+
+The rows behind this page are in `government-cloud/json/tables/` (CSV copies in `government-cloud/csv/`): capabilities with category surveillance / acoustic-sensing / evidence-management; deployments with vendor_id flock / soundthinking / axon, or with domain_id municipal-sensing; contract awards with vendor_id flock / soundthinking / axon; litigation rows in category gov-cloud with vendor_id soundthinking / flock. The page lists each with its source and evidence grade.
+
+Related terms: [surveillance technology](/glossary/surveillance-technology), [acoustic sensing](/glossary/acoustic-sensing), [digital evidence management](/glossary/digital-evidence-management)
+
+Sources: [Automatic number-plate recognition — Wikipedia](https://en.wikipedia.org/wiki/Automatic_number-plate_recognition); [Gunfire locator — Wikipedia](https://en.wikipedia.org/wiki/Gunfire_locator); [Axon Fusus Real-Time Intelligence Platform — axon.com](https://www.axon.com/products/axon-fusus)
+
+Page: https://www.invisibleships.com/research/government-cloud/systems/cameras-plate-readers-and-gunshot-sensors
+
+
+===== FILE: government-cloud/systems/IS_SYS_cloud-infrastructure.md · ID: IS-SYS-CLOUD-INFRASTRUCTURE =====
+
+```yaml
+id: IS-SYS-CLOUD-INFRASTRUCTURE
+title: What these systems are — Government cloud infrastructure
+collection: government-cloud
+doc_type: system
+provenance: site-authored
+slug: cloud-infrastructure
+word_count: 432
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# Government cloud infrastructure
+
+*Research › Government cloud › What these systems are. Site-authored: written for invisibleships.com to explain the record, not extracted from the source document series. Companies are named for identification only; no wrongdoing is implied.*
+
+The rented computing, storage and databases that everything else runs on, sold to governments in separate regions with their own security approvals, up to regions cut off from the internet for classified work. Most deployments in this record are on these platforms, run by five US companies.
+
+## What it is
+
+Cloud infrastructure is processing power, storage and databases rented from a provider's data centres and paid for by use. Government versions are run as separate regions: set apart physically and legally, staffed by vetted people, and approved to hold government data at set security levels, such as FedRAMP in the United States. For secret and top-secret work the providers build regions isolated from the internet, and some install equipment inside the government's own buildings.
+
+## How governments use it
+
+Governments move tax, benefits, health, defence and research systems onto these platforms instead of running their own data centres. The contracts are large and long, and a few providers hold most of them, so which country's law applies to the data, and whose staff can reach it, comes up in procurement and before regulators.
+
+## In this record
+
+The five are Amazon Web Services, Microsoft Azure, Google Cloud, Oracle Cloud and IBM Cloud. Their cases in this record: data-protection decisions in France, Germany and at EU level on Microsoft hosting national health data and running Microsoft 365; a Danish data-protection decision on schools' use of Google Workspace; and bid protests by Oracle and Amazon over the Pentagon's JEDI cloud contract.
+
+The rows behind this page are in `government-cloud/json/tables/` (CSV copies in `government-cloud/csv/`): capabilities with category compute / storage / database / edge-satellite / confidential-compute / security / dev-platform; deployments whose vendor's vendor_class is hyperscaler; contract awards with vendor_id azure / gcp / oracle / aws, or whose vendor's vendor_class is hyperscaler; litigation rows in category gov-cloud with vendor_id azure / gcp / oracle / aws. The page lists each with its source and evidence grade.
+
+Related terms: [cloud compute](/glossary/cloud-compute), [cloud storage](/glossary/cloud-storage), [FedRAMP](/glossary/fedramp), [confidential computing](/glossary/confidential-computing), [edge and satellite computing](/glossary/edge-and-satellite-computing), [security operations](/glossary/cloud-security-operations)
+
+Sources: [The NIST Definition of Cloud Computing, SP 800-145 — NIST](https://csrc.nist.gov/pubs/sp/800/145/final); [AWS GovCloud (US) — aws.amazon.com](https://aws.amazon.com/govcloud-us/); [Azure Government Top Secret now generally available — azure.microsoft.com](https://azure.microsoft.com/en-us/blog/azure-government-top-secret-now-generally-available-for-us-national-security-missions/)
+
+Page: https://www.invisibleships.com/research/government-cloud/systems/cloud-infrastructure
+
+
+===== FILE: government-cloud/systems/IS_SYS_data-fusion-and-case-management.md · ID: IS-SYS-DATA-FUSION-AND-CASE-MANAGEMENT =====
+
+```yaml
+id: IS-SYS-DATA-FUSION-AND-CASE-MANAGEMENT
+title: What these systems are — Data fusion and case management
+collection: government-cloud
+doc_type: system
+provenance: site-authored
+slug: data-fusion-and-case-management
+word_count: 364
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# Data fusion and case management
+
+*Research › Government cloud › What these systems are. Site-authored: written for invisibleships.com to explain the record, not extracted from the source document series. Companies are named for identification only; no wrongdoing is implied.*
+
+Software that joins records held in separate systems into one searchable picture of a person, place or event, and the case files investigators work from. In this record it is used by police, immigration and public-health agencies.
+
+## What it is
+
+Government records are held in many separate systems: tax, health, benefits, immigration, policing. Data-fusion software links them, matching records that refer to the same person or thing, so they can be searched and analysed together. Case-management software gathers what is known about one matter into a single file, with notes, links to related cases and the steps taken. Analytics tools sit on top, from data warehouses queried in SQL to link-analysis tools that draw the connections between people, places and events.
+
+## How governments use it
+
+Agencies use these systems to run investigations, to manage caseloads and to plan services from joined data. Because they combine information collected for different purposes, their contracts and uses are often the subject of freedom-of-information requests and legal challenges, as in the cases below.
+
+## In this record
+
+Palantir Technologies offers data-integration, case-management and analysis software that joins agency records into one model. Its cases in this record are two in the UK over NHS data-platform contracts, and two US freedom-of-information cases over its systems at Immigration and Customs Enforcement.
+
+The rows behind this page are in `government-cloud/json/tables/` (CSV copies in `government-cloud/csv/`): capabilities with category data-fusion / case-management / analytics; deployments with vendor_id palantir; contract awards with vendor_id palantir; litigation rows in category gov-cloud with vendor_id palantir. The page lists each with its source and evidence grade.
+
+Related terms: [data fusion](/glossary/data-fusion), [case management software](/glossary/case-management-software), [analytics](/glossary/analytics)
+
+Sources: [Data fusion — Wikipedia](https://en.wikipedia.org/wiki/Data_fusion); [AIP, Foundry, and Apollo — palantir.com](https://www.palantir.com/docs/foundry/architecture-center/platforms); [ICE seeks expanded LexisNexis data access with Palantir integration — biometricupdate.com](https://www.biometricupdate.com/202608/ice-seeks-expanded-lexisnexis-investigative-data-access-with-palantir-integration)
+
+Page: https://www.invisibleships.com/research/government-cloud/systems/data-fusion-and-case-management
+
+
+===== FILE: government-cloud/systems/IS_SYS_facial-recognition-and-biometrics.md · ID: IS-SYS-FACIAL-RECOGNITION-AND-BIOMETRICS =====
+
+```yaml
+id: IS-SYS-FACIAL-RECOGNITION-AND-BIOMETRICS
+title: What these systems are — Facial recognition and biometrics
+collection: government-cloud
+doc_type: system
+provenance: site-authored
+slug: facial-recognition-and-biometrics
+word_count: 429
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# Facial recognition and biometrics
+
+*Research › Government cloud › What these systems are. Site-authored: written for invisibleships.com to explain the record, not extracted from the source document series. Companies are named for identification only; no wrongdoing is implied.*
+
+Systems that identify people from their faces, fingerprints, irises or voices by comparing a new image or sample against stored ones. In this record they run from national identity schemes to police face-search tools, and they are the subject of more cases than any other kind of system.
+
+## What it is
+
+A biometric system turns a face, fingerprint, iris or voice into a numerical template and compares it with stored templates. Used one to one, it confirms that a person is who they claim to be, as at a passport gate or when signing in to a government service. Used one to many, it searches a whole collection for possible matches to an unknown person, which is how police face-search tools work. A one-to-many search returns candidates ranked by similarity, not an identification.
+
+## How governments use it
+
+Governments use biometrics to issue and check identity documents, to give people access to benefits and online services, at borders, and in policing. The large cloud providers sell face-matching services inside their government regions, and some police forces also use specialised search tools, including one that compares a photograph against images collected from the public web.
+
+## In this record
+
+Clearview AI, which offers facial-recognition search of images collected from the public web, is a party in more cases in this record than any other company. Most are decisions by data-protection regulators in Europe, the UK, Australia and Canada on its collection of faces; in the US, privacy class actions and a wrongful-arrest case after a match, settled in 2025. Other cases here concern arrests that followed a facial-recognition misidentification.
+
+The rows behind this page are in `government-cloud/json/tables/` (CSV copies in `government-cloud/csv/`): capabilities with category identity-biometric; deployments with vendor_id clearview-ai, or with domain_id digital-identity; contract awards with vendor_id clearview-ai; litigation rows in category gov-cloud with vendor_id clearview-ai, or whose claim concerns the same kind of system. The page lists each with its source and evidence grade.
+
+Related terms: [identity and biometrics](/glossary/identity-and-biometrics), [surveillance technology](/glossary/surveillance-technology), [data-protection authority](/glossary/data-protection-authority)
+
+Sources: [Biometrics — Wikipedia](https://en.wikipedia.org/wiki/Biometrics); [New AI/ML solutions in AWS GovCloud (US) — aws.amazon.com](https://aws.amazon.com/blogs/publicsector/new-ai-ml-solutions-in-aws-govcloud-us-underpin-responsible-innovation/); [Facial recognition: 20 million euros penalty against CLEARVIEW AI — CNIL](https://www.cnil.fr/en/facial-recognition-20-million-euros-penalty-against-clearview-ai)
+
+Page: https://www.invisibleships.com/research/government-cloud/systems/facial-recognition-and-biometrics
+
+
+===== FILE: government-cloud/systems/IS_SYS_sovereign-clouds-and-digital-government.md · ID: IS-SYS-SOVEREIGN-CLOUDS-AND-DIGITAL-GOVERNMENT =====
+
+```yaml
+id: IS-SYS-SOVEREIGN-CLOUDS-AND-DIGITAL-GOVERNMENT
+title: What these systems are — Sovereign clouds and digital government
+collection: government-cloud
+doc_type: system
+provenance: site-authored
+slug: sovereign-clouds-and-digital-government
+word_count: 376
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# Sovereign clouds and digital government
+
+*Research › Government cloud › What these systems are. Site-authored: written for invisibleships.com to explain the record, not extracted from the source document series. Companies are named for identification only; no wrongdoing is implied.*
+
+Clouds built to stay under one country's control, and the national platforms through which people apply for benefits, pay tax and prove who they are. In this record they are run by state companies and local providers, some on technology licensed from a foreign provider.
+
+## What it is
+
+A sovereign cloud keeps data centres, staff and legal control inside one country, so that the data answers to that country's law rather than a foreign provider's. Some are run by the state itself, some by local partners licensing a foreign provider's technology. Digital government, or e-government, is the public face of these systems: the portals and back-office platforms for benefits, tax, registration and identity.
+
+## How governments use it
+
+Governments use sovereign clouds to keep national data at home while still using modern cloud software, and to build national platforms for services and identity. Brazil, for example, runs its social security and federal systems through two state-owned technology companies, Dataprev and SERPRO.
+
+## In this record
+
+The cases here are the European court cases on whether personal data may be sent to the United States, a question sovereign clouds are built around: two transfer arrangements were struck down, and a challenge to the third was dismissed and is under appeal.
+
+The rows behind this page are in `government-cloud/json/tables/` (CSV copies in `government-cloud/csv/`): capabilities with category sovereign-platform / e-government; deployments whose vendor's vendor_class is local; contract awards whose vendor's vendor_class is local; litigation rows in category gov-cloud whose claim concerns the same kind of system. The page lists each with its source and evidence grade.
+
+Related terms: [sovereign cloud](/glossary/sovereign-cloud), [e-government](/glossary/e-government), [data-protection authority](/glossary/data-protection-authority), [identity and biometrics](/glossary/identity-and-biometrics)
+
+Sources: [Huawei Cloud Stack National Government Cloud Reference Architecture — prnewswire.com](https://www.prnewswire.com/ae/news-releases/huawei-cloud-stack-interprets-its-national-government-cloud-reference-architecture-302254134.html); [adesso and Delos Cloud - Sovereign cloud for public administration — adesso.de](https://www.adesso.de/en/technologies/cloud/delos-cloud.jsp); [Dataprev — dataprev.gov.br](https://www.dataprev.gov.br/)
+
+Page: https://www.invisibleships.com/research/government-cloud/systems/sovereign-clouds-and-digital-government
 
 
 ===== FILE: research/README-research.md =====

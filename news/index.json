@@ -24,6 +24,28 @@
 "addedOn": "2026-11-18"
 },
 {
+"slug": "2026-11-17-us-court-sentences-a-man-recruited-by-irans-revolutionary-guards-to-more-than-27-years-over-a-plot-to-hire-ki",
+"file": "IS_NEWS_2026-11-17-us-court-sentences-a-man-recruited-by-irans-revolutionary-guards-to-more-than-27-years-over-a-plot-to-hire-ki.md",
+"title": "US court sentences a man recruited by Iran's Revolutionary Guards to more than 27 years over a plot to hire killers to assassinate US officials",
+"date": "2026-11-17",
+"precision": "day",
+"publisher": "U.S. Department of Justice, Office of Public Affairs",
+"sourceType": "Official",
+"office": "Office of Public Affairs",
+"url": "https://www.justice.gov/opa/pr/iranian-intelligence-agent-sentenced-over-27-years-prison-foiled-plot-assassinate-us",
+"archivedUrl": "",
+"industry": [],
+"event": "Murder for hire & violent plots",
+"country": "United States",
+"stage": "sentenced",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-19"
+},
+{
 "slug": "2026-11-17-un-crime-agency-and-interpol-report-warns-that-coercive-neural-lie-detection-and-neurotechnology-in-interrogat",
 "file": "IS_NEWS_2026-11-17-un-crime-agency-and-interpol-report-warns-that-coercive-neural-lie-detection-and-neurotechnology-in-interrogat.md",
 "title": "UN crime agency and INTERPOL report warns that coercive neural lie detection and neurotechnology in interrogation raise serious human rights concerns",
@@ -51,6 +73,178 @@
 "addedOn": "2026-11-18"
 },
 {
+"slug": "2026-11-17-uk-health-minister-says-the-nhs-national-data-platform-contract-will-run-to-2029-rather-than-ending-at-the-20",
+"file": "IS_NEWS_2026-11-17-uk-health-minister-says-the-nhs-national-data-platform-contract-will-run-to-2029-rather-than-ending-at-the-20.md",
+"title": "UK health minister says the NHS national data-platform contract will run to 2029 rather than ending at the 2027 break clause",
+"date": "2026-11-17",
+"precision": "day",
+"publisher": "Dataconomy",
+"sourceType": "Trade press",
+"office": "",
+"url": "https://dataconomy.com/2026/11/17/uk-to-end-palantirs-nhs-data-contract-in-2029/",
+"archivedUrl": "",
+"industry": [
+"Biotechnology & health",
+"Government cloud & surveillance technology"
+],
+"event": "Contracts & deployments",
+"country": "United Kingdom",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-19"
+},
+{
+"slug": "2026-11-17-turkish-court-remands-14-of-79-people-detained-in-a-42-province-operation-against-the-theft-and-sale-of-perso",
+"file": "IS_NEWS_2026-11-17-turkish-court-remands-14-of-79-people-detained-in-a-42-province-operation-against-the-theft-and-sale-of-perso.md",
+"title": "Turkish court remands 14 of 79 people detained in a 42-province operation against the theft and sale of personal data",
+"date": "2026-11-17",
+"precision": "day",
+"publisher": "Sivas Ekspres, carrying Anadolu Agency (state media)",
+"sourceType": "News",
+"office": "",
+"url": "https://www.sivasekspres.com/haber/42-ilde-kisisel-veri-operasyonu-14-tutuklama-100618.html",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology"
+],
+"event": "Courts & litigation",
+"country": "Turkey",
+"stage": "arrested/charged",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-19"
+},
+{
+"slug": "2026-11-17-taiwan-prosecutors-charge-three-private-investigators-accused-of-tracking-two-anti-china-online-commentators",
+"file": "IS_NEWS_2026-11-17-taiwan-prosecutors-charge-three-private-investigators-accused-of-tracking-two-anti-china-online-commentators.md",
+"title": "Taiwan prosecutors charge three private investigators accused of tracking two anti-China online commentators and their relatives for Chinese police",
+"date": "2026-11-17",
+"precision": "day",
+"publisher": "Public Television Service (PTS)",
+"sourceType": "News",
+"office": "",
+"url": "https://news.pts.org.tw/article/836077",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology"
+],
+"event": "Transnational repression",
+"country": "Taiwan",
+"stage": "charged",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-19"
+},
+{
+"slug": "2026-11-17-polands-data-protection-authority-fines-a-non-public-school-for-camera-monitoring-in-classrooms-and-a-gym",
+"file": "IS_NEWS_2026-11-17-polands-data-protection-authority-fines-a-non-public-school-for-camera-monitoring-in-classrooms-and-a-gym.md",
+"title": "Poland's data-protection authority fines a non-public school for camera monitoring in classrooms and a gym",
+"date": "2026-11-17",
+"precision": "day",
+"publisher": "Prawo.pl",
+"sourceType": "Trade press",
+"office": "",
+"url": "https://www.prawo.pl/szkoly-i-uczelnie/uodo-szkola-ukarana-za-monitoring-w-salach-lekcyjnych,1557823.html",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology"
+],
+"event": "Regulation & law",
+"country": "Poland",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-19"
+},
+{
+"slug": "2026-11-17-oregons-attorney-general-sues-an-ai-developer-for-about-2-billion-alleging-it-misrepresented-its-chatbots-saf",
+"file": "IS_NEWS_2026-11-17-oregons-attorney-general-sues-an-ai-developer-for-about-2-billion-alleging-it-misrepresented-its-chatbots-saf.md",
+"title": "Oregon's attorney general sues an AI developer for about $2 billion, alleging it misrepresented its chatbot's safety for children",
+"date": "2026-11-17",
+"precision": "day",
+"publisher": "Oregon Department of Justice",
+"sourceType": "Official",
+"office": "",
+"url": "https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-files-2b-lawsuit-against-open-ai-launches-keeping-kids-safe-initiative/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-19"
+},
+{
+"slug": "2026-11-17-north-macedonias-security-agency-says-it-broke-up-a-network-preparing-an-assassination-in-greece-on-the-order",
+"file": "IS_NEWS_2026-11-17-north-macedonias-security-agency-says-it-broke-up-a-network-preparing-an-assassination-in-greece-on-the-order.md",
+"title": "North Macedonia's security agency says it broke up a network preparing an assassination in Greece on the orders of a collaborator of Iran's security services",
+"date": "2026-11-17",
+"precision": "day",
+"publisher": "Iran International",
+"sourceType": "News",
+"office": "",
+"url": "https://www.iranintl.com/202611179799",
+"archivedUrl": "",
+"industry": [],
+"event": "Murder for hire & violent plots",
+"country": "North Macedonia",
+"stage": "arrested",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-19"
+},
+{
+"slug": "2026-11-17-north-dakota-city-denies-wrongdoing-over-a-months-long-detention-based-on-a-false-facial-recognition-match-bu",
+"file": "IS_NEWS_2026-11-17-north-dakota-city-denies-wrongdoing-over-a-months-long-detention-based-on-a-false-facial-recognition-match-bu.md",
+"title": "North Dakota city denies wrongdoing over a months-long detention based on a false facial-recognition match, but says its police had no written policy or training for the tool",
+"date": "2026-11-17",
+"precision": "day",
+"publisher": "Biometric Update",
+"sourceType": "Trade press",
+"office": "",
+"url": "https://www.biometricupdate.com/202611/police-deny-legal-wrongdoing-in-arrest-prompted-by-false-facial-recognition-match",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology",
+"Artificial intelligence"
+],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-19"
+},
+{
 "slug": "2026-11-17-japans-governing-party-begins-work-on-a-bill-to-fit-gps-devices-to-serious-stalking-offenders",
 "file": "IS_NEWS_2026-11-17-japans-governing-party-begins-work-on-a-bill-to-fit-gps-devices-to-serious-stalking-offenders.md",
 "title": "Japan's governing party begins work on a bill to fit GPS devices to serious stalking offenders",
@@ -73,6 +267,54 @@
 "commentator": "",
 "topics": [],
 "addedOn": "2026-11-18"
+},
+{
+"slug": "2026-11-17-japans-communications-minister-calls-three-nationwide-5g-outages-at-a-major-carrier-in-one-month-very-regrett",
+"file": "IS_NEWS_2026-11-17-japans-communications-minister-calls-three-nationwide-5g-outages-at-a-major-carrier-in-one-month-very-regrett.md",
+"title": "Japan's communications minister calls three nationwide 5G outages at a major carrier in one month very regrettable and asks for the root cause",
+"date": "2026-11-17",
+"precision": "day",
+"publisher": "ITmedia NEWS",
+"sourceType": "Trade press",
+"office": "",
+"url": "https://www.itmedia.co.jp/news/article/2611/17/2000003261/",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology"
+],
+"event": "Outages & disruptions",
+"country": "Japan",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-19"
+},
+{
+"slug": "2026-11-17-canadas-house-of-commons-advances-a-bill-to-allow-advance-requests-for-assisted-dying-and-keep-mental-illness",
+"file": "IS_NEWS_2026-11-17-canadas-house-of-commons-advances-a-bill-to-allow-advance-requests-for-assisted-dying-and-keep-mental-illness.md",
+"title": "Canada's House of Commons advances a bill to allow advance requests for assisted dying and keep mental illness alone excluded",
+"date": "2026-11-17",
+"precision": "day",
+"publisher": "The Canadian Press, via CHAT News Today",
+"sourceType": "News",
+"office": "",
+"url": "https://chatnewstoday.ca/2026/11/17/liberals-limit-debate-on-assisted-dying-bill-as-conservatives-call-for-changes/",
+"archivedUrl": "",
+"industry": [
+"Biotechnology & health"
+],
+"event": "Regulation & law",
+"country": "Canada",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-19"
 },
 {
 "slug": "2026-11-16-ukrainian-court-sentences-a-man-to-15-years-for-treason-after-the-security-service-said-he-set-up-explosive-ca",
@@ -257,6 +499,54 @@
 "commentator": "",
 "topics": [],
 "addedOn": "2026-11-18"
+},
+{
+"slug": "2026-11-16-dutch-digital-infrastructure-inspectorate-investigates-gps-disruption-reported-by-seven-aircraft",
+"file": "IS_NEWS_2026-11-16-dutch-digital-infrastructure-inspectorate-investigates-gps-disruption-reported-by-seven-aircraft.md",
+"title": "Dutch digital-infrastructure inspectorate investigates GPS disruption reported by seven aircraft",
+"date": "2026-11-16",
+"precision": "day",
+"publisher": "Reformatorisch Dagblad (ANP)",
+"sourceType": "News",
+"office": "",
+"url": "https://www.rd.nl/artikel/ministerie-zeven-vliegtuigen-meldden-storing-van-gps-signaal-1",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology"
+],
+"event": "Outages & disruptions",
+"country": "Netherlands",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-19"
+},
+{
+"slug": "2026-11-16-chinese-state-science-paper-says-a-brain-implant-maker-tested-its-fully-implanted-wireless-system-with-paraly",
+"file": "IS_NEWS_2026-11-16-chinese-state-science-paper-says-a-brain-implant-maker-tested-its-fully-implanted-wireless-system-with-paraly.md",
+"title": "Chinese state science paper says a brain-implant maker tested its fully implanted wireless system with paralysed users in a mock everyday-life site",
+"date": "2026-11-16",
+"precision": "day",
+"publisher": "Science and Technology Daily (state media)",
+"sourceType": "News",
+"office": "",
+"url": "https://www.stdaily.com/web/gdxw/2026-11/16/content_613749.html",
+"archivedUrl": "",
+"industry": [
+"Neurotechnology"
+],
+"event": "Research & breakthroughs",
+"country": "China",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-19"
 },
 {
 "slug": "2026-11-16-californias-attorney-general-sues-an-ai-developer-alleging-its-experimental-ai-agents-escaped-testing-and-carr",
@@ -7930,6 +8220,28 @@
 "addedOn": ""
 },
 {
+"slug": "2026-07-29-dhs-human-trafficking-arrests-and-rescues-during-the-world-cup",
+"file": "IS_NEWS_2026-07-29-dhs-human-trafficking-arrests-and-rescues-during-the-world-cup.md",
+"title": "DHS release: DHS Highlights Successful Arrests and Rescues in Crackdown on Human Trafficking During FIFA World Cup",
+"date": "2026-07-29",
+"precision": "day",
+"publisher": "U.S. Department of Homeland Security",
+"sourceType": "Official",
+"office": "Office of Public Affairs",
+"url": "https://www.dhs.gov/news/2026/07/29/dhs-highlights-successful-arrests-and-rescues-crackdown-human-trafficking-during",
+"archivedUrl": "",
+"industry": [],
+"event": "Reports & statistics",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "official",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-18"
+},
+{
 "slug": "2026-07-28-ebay-former-execs-settle-couple-s-cyberstalking-suit-for-55",
 "file": "IS_NEWS_2026-07-28-ebay-former-execs-settle-couple-s-cyberstalking-suit-for-55.md",
 "title": "eBay former execs settle couple's cyberstalking suit for $55.7M",
@@ -8125,6 +8437,30 @@
 "addedOn": ""
 },
 {
+"slug": "2026-06-06-analysis-orwell-or-huxley-both-dystopias-describe-today-s-world-but-neither-foresaw-the-role-of",
+"file": "IS_NEWS_2026-06-06-analysis-orwell-or-huxley-both-dystopias-describe-today-s-world-but-neither-foresaw-the-role-of.md",
+"title": "Orwell or Huxley: both dystopias describe today's world, but neither foresaw the role of corporations",
+"date": "2026-06-06",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/orwell-vs-huxley-which-dystopia-was",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology"
+],
+"event": "Research & breakthroughs",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [],
+"addedOn": "2026-11-19"
+},
+{
 "slug": "2026-06-04-american-citizen-pleads-guilty-to-working-as-an-agent-for",
 "file": "IS_NEWS_2026-06-04-american-citizen-pleads-guilty-to-working-as-an-agent-for.md",
 "title": "American Citizen Pleads Guilty to Working as an Agent for the People's Republic of China",
@@ -8154,6 +8490,32 @@
 "capturedOn": "2026-11-13",
 "capturedAt": "2026-11-13T23:06:59Z",
 "addedOn": ""
+},
+{
+"slug": "2026-06-02-analysis-state-consumer-privacy-laws-are-being-weakened-by-industry-lobbying-with-vermont-as-the-latest",
+"file": "IS_NEWS_2026-06-02-analysis-state-consumer-privacy-laws-are-being-weakened-by-industry-lobbying-with-vermont-as-the-latest.md",
+"title": "State consumer privacy laws are being weakened by industry lobbying, with Vermont as the latest example",
+"date": "2026-06-02",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/state-consumer-privacy-laws-are-being",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-19"
 },
 {
 "slug": "2026-06-01-ice-to-spend-25m-on-iris-recognition",
@@ -8189,6 +8551,56 @@
 "addedOn": ""
 },
 {
+"slug": "2026-05-30-analysis-a-1909-story-about-a-machine-run-society-as-a-warning-about-ai-replacing-first-hand-experience",
+"file": "IS_NEWS_2026-05-30-analysis-a-1909-story-about-a-machine-run-society-as-a-warning-about-ai-replacing-first-hand-experience.md",
+"title": "A 1909 story about a machine-run society as a warning about AI replacing first-hand experience",
+"date": "2026-05-30",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/a-century-ago-em-forsters-the-machine",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Research & breakthroughs",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [],
+"addedOn": "2026-11-19"
+},
+{
+"slug": "2026-05-22-analysis-minority-report-and-the-case-against-using-ai-to-predict-human-behaviour",
+"file": "IS_NEWS_2026-05-22-analysis-minority-report-and-the-case-against-using-ai-to-predict-human-behaviour.md",
+"title": "Minority Report and the case against using AI to predict human behaviour",
+"date": "2026-05-22",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/dangerous-oracles-minority-report",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-19"
+},
+{
 "slug": "2026-05-20-bronx-man-convicted-of-operating-police-station-for-the",
 "file": "IS_NEWS_2026-05-20-bronx-man-convicted-of-operating-police-station-for-the.md",
 "title": "Bronx Man Convicted of Operating Police Station for the Chinese Government in New York City and Obstruction of Justice",
@@ -8218,6 +8630,31 @@
 "capturedOn": "2026-11-13",
 "capturedAt": "2026-11-13T23:06:40Z",
 "addedOn": ""
+},
+{
+"slug": "2026-05-15-analysis-pacemaker-data-used-as-evidence-shows-how-personal-devices-let-police-turn-intimate-data",
+"file": "IS_NEWS_2026-05-15-analysis-pacemaker-data-used-as-evidence-shows-how-personal-devices-let-police-turn-intimate-data.md",
+"title": "Pacemaker data used as evidence shows how personal devices let police turn intimate data against their users",
+"date": "2026-05-15",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/your-pacemaker-can-now-testify-against",
+"archivedUrl": "",
+"industry": [
+"Biotechnology & health",
+"Government cloud & surveillance technology"
+],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [],
+"addedOn": "2026-11-19"
 },
 {
 "slug": "2026-05-11-arcadia-california-mayor-federally-charged-with-acting-as",
@@ -8279,6 +8716,32 @@
 "addedOn": "2026-11-17"
 },
 {
+"slug": "2026-04-25-analysis-a-proposed-federal-privacy-bill-would-leave-people-less-protected-and-could-wipe-out-stronger",
+"file": "IS_NEWS_2026-04-25-analysis-a-proposed-federal-privacy-bill-would-leave-people-less-protected-and-could-wipe-out-stronger.md",
+"title": "A proposed federal privacy bill would leave people less protected and could wipe out stronger state laws",
+"date": "2026-04-25",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/a-disastrous-federal-privacy-bill",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-19"
+},
+{
 "slug": "2026-04-22-analysis-ai-that-finds-software-flaws-faster-than-they-can-be-fixed-and-an-illinois-bill-to-shield-ai-companies-from-ca",
 "file": "IS_NEWS_2026-04-22-analysis-ai-that-finds-software-flaws-faster-than-they-can-be-fixed-and-an-illinois-bill-to-shield-ai-companies-from-ca.md",
 "title": "AI that finds software flaws faster than they can be fixed, and an Illinois bill to shield AI companies from catastrophe liability",
@@ -8338,6 +8801,30 @@
 "capturedAt": "2026-11-14T03:02:30Z",
 "capturedFrom": "wayback",
 "addedOn": ""
+},
+{
+"slug": "2026-04-08-analysis-a-children-s-book-read-as-a-parable-of-relentless-targeted-marketing-that-ignores-people-s",
+"file": "IS_NEWS_2026-04-08-analysis-a-children-s-book-read-as-a-parable-of-relentless-targeted-marketing-that-ignores-people-s.md",
+"title": "A children's book read as a parable of relentless targeted marketing that ignores people's refusals",
+"date": "2026-04-08",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/green-eggs-and-ham-how-not-to-market",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Research & breakthroughs",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [],
+"addedOn": "2026-11-19"
 },
 {
 "slug": "2026-04-07-analysis-the-first-amendment-wall-shields-users-and-platforms-alike-and-whether-an-algorithm-speaks-is-unsettled",
@@ -8867,6 +9354,30 @@
 "addedOn": ""
 },
 {
+"slug": "2026-03-04-analysis-why-fourth-amendment-warrants-alone-cannot-protect-privacy-against-government-power",
+"file": "IS_NEWS_2026-03-04-analysis-why-fourth-amendment-warrants-alone-cannot-protect-privacy-against-government-power.md",
+"title": "Why Fourth Amendment warrants alone cannot protect privacy against government power",
+"date": "2026-03-04",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/are-warrants-enough",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology"
+],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [],
+"addedOn": "2026-11-19"
+},
+{
 "slug": "2026-03-04-analysis-old-statutes-cannot-stretch-to-cover-new-persuasive-designs-and-the-bills-that-would-have-filled-the-gap-stall",
 "file": "IS_NEWS_2026-03-04-analysis-old-statutes-cannot-stretch-to-cover-new-persuasive-designs-and-the-bills-that-would-have-filled-the-gap-stall.md",
 "title": "Old statutes cannot stretch to cover new persuasive designs, and the bills that would have filled the gap stalled",
@@ -9053,6 +9564,32 @@
 "addedOn": ""
 },
 {
+"slug": "2026-02-20-analysis-three-television-advertisements-as-evidence-that-technology-companies-misread-public-concern",
+"file": "IS_NEWS_2026-02-20-analysis-three-television-advertisements-as-evidence-that-technology-companies-misread-public-concern.md",
+"title": "Three television advertisements as evidence that technology companies misread public concern about surveillance and AI",
+"date": "2026-02-20",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/three-tv-commercials-show-whats-wrong",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-19"
+},
+{
 "slug": "2026-02-16-analysis-companion-chatbots-are-built-to-validate-users-without-condition-which-sets-them-apart-legally-from-social-med",
 "file": "IS_NEWS_2026-02-16-analysis-companion-chatbots-are-built-to-validate-users-without-condition-which-sets-them-apart-legally-from-social-med.md",
 "title": "Companion chatbots are built to validate users without condition, which sets them apart legally from social media",
@@ -9077,6 +9614,32 @@
 "AI law"
 ],
 "addedOn": ""
+},
+{
+"slug": "2026-02-15-analysis-why-consent-cannot-legitimise-most-data-collection-in-the-age-of-ai-and-what-should-replace-it",
+"file": "IS_NEWS_2026-02-15-analysis-why-consent-cannot-legitimise-most-data-collection-in-the-age-of-ai-and-what-should-replace-it.md",
+"title": "Why consent cannot legitimise most data collection in the age of AI, and what should replace it",
+"date": "2026-02-15",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/why-consent-is-broken-for-privacy",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-19"
 },
 {
 "slug": "2026-02-13-analysis-is-a-recommendation-algorithm-protected-speech-or-a-product-and-what-that-means-for-regulating-platforms",
@@ -9205,6 +9768,30 @@
 "addedOn": ""
 },
 {
+"slug": "2026-02-03-analysis-protecting-privacy-against-authoritarianism-requires-regulating-corporate-data-collection-as",
+"file": "IS_NEWS_2026-02-03-analysis-protecting-privacy-against-authoritarianism-requires-regulating-corporate-data-collection-as.md",
+"title": "Protecting privacy against authoritarianism requires regulating corporate data collection as well as government surveillance",
+"date": "2026-02-03",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/privacy-in-authoritarian-times",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [],
+"addedOn": "2026-11-19"
+},
+{
 "slug": "2026-02-02-analysis-cancelling-a-subscription-takes-far-more-clicks-than-signing-up-and-regulators-have-fined-the-practice",
 "file": "IS_NEWS_2026-02-02-analysis-cancelling-a-subscription-takes-far-more-clicks-than-signing-up-and-regulators-have-fined-the-practice.md",
 "title": "Cancelling a subscription takes far more clicks than signing up, and regulators have fined the practice",
@@ -9308,6 +9895,30 @@
 "addedOn": ""
 },
 {
+"slug": "2026-01-28-analysis-privacy-teams-are-shrinking-as-their-workload-grows-and-privacy-offices-need-to-show-they",
+"file": "IS_NEWS_2026-01-28-analysis-privacy-teams-are-shrinking-as-their-workload-grows-and-privacy-offices-need-to-show-they.md",
+"title": "Privacy teams are shrinking as their workload grows, and privacy offices need to show they contribute to growth",
+"date": "2026-01-28",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/challenging-times-ahead-for-the-privacy",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Reports & statistics",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [],
+"addedOn": "2026-11-19"
+},
+{
 "slug": "2026-01-27-judge-holds-norfolk-s-license-plate-reader-use",
 "file": "IS_NEWS_2026-01-27-judge-holds-norfolk-s-license-plate-reader-use.md",
 "title": "Judge holds Norfolk's license plate reader use constitutional",
@@ -9395,6 +10006,35 @@
 "commentator": "Nita Farahany",
 "topics": [],
 "addedOn": ""
+},
+{
+"slug": "2026-01-20-analysis-a-review-of-privacy-and-ai-law-in-2025-no-new-state-privacy-laws-neural-data-on-the-agenda-and",
+"file": "IS_NEWS_2026-01-20-analysis-a-review-of-privacy-and-ai-law-in-2025-no-new-state-privacy-laws-neural-data-on-the-agenda-and.md",
+"title": "A review of privacy and AI law in 2025: no new state privacy laws, neural data on the agenda and a deregulatory turn",
+"date": "2026-01-20",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/privacy-and-ai-law-in-2025",
+"archivedUrl": "",
+"industry": [
+"Neurotechnology",
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [
+"Neuroethics",
+"Mental privacy",
+"AI law"
+],
+"addedOn": "2026-11-19"
 },
 {
 "slug": "2026-01-18-analysis-private-lawsuits-are-an-essential-part-of-enforcing-privacy-law-a-draft-article-argues",
@@ -13363,6 +14003,32 @@
 "addedOn": ""
 },
 {
+"slug": "2024-11-18-analysis-twenty-years-on-the-aggregation-of-personal-data-into-digital-dossiers-has-accelerated-with-ai",
+"file": "IS_NEWS_2024-11-18-analysis-twenty-years-on-the-aggregation-of-personal-data-into-digital-dossiers-has-accelerated-with-ai.md",
+"title": "Twenty years on, the aggregation of personal data into digital dossiers has accelerated with AI while privacy law lags",
+"date": "2024-11-18",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/digital-dossiers-and-the-aggregation",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-19"
+},
+{
 "slug": "2024-11-08-justice-department-announces-murder-for-hire-and-related",
 "file": "IS_NEWS_2024-11-08-justice-department-announces-murder-for-hire-and-related.md",
 "title": "Justice Department Announces Murder-For-Hire and Related Charges Against IRGC Asset and Two Local Operatives",
@@ -14153,6 +14819,32 @@
 "capturedOn": "2026-11-13",
 "capturedAt": "2026-11-13T05:22:24Z",
 "addedOn": ""
+},
+{
+"slug": "2024-04-25-analysis-privacy-consent-is-mostly-a-fiction-so-the-law-should-limit-what-it-permits-and-back-it-with",
+"file": "IS_NEWS_2024-04-25-analysis-privacy-consent-is-mostly-a-fiction-so-the-law-should-limit-what-it-permits-and-back-it-with.md",
+"title": "Privacy consent is mostly a fiction, so the law should limit what it permits and back it with duties",
+"date": "2024-04-25",
+"precision": "day",
+"publisher": "Solove on Tech (Substack)",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://danielsolove.substack.com/p/murky-consent-an-approach-to-the",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel J. Solove",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-19"
 },
 {
 "slug": "2024-04-12-exclusive-google-contract-shows-deal-with-israel-defense",

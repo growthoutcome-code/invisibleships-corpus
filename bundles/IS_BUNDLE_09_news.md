@@ -3,8 +3,8 @@ id: IS-BUNDLE-09-NEWS
 title: "News"
 collection: bundles
 doc_type: bundle
-files: 631
-approx_tokens: 353,051
+files: 659
+approx_tokens: 370,283
 contains: [news]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -15,7 +15,7 @@ disclaimer: meta/IS_META_terms.md
 
 Official releases and outside reporting, one item per section, each summarised and linked.
 
-This file joins 631 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
+This file joins 659 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 
@@ -192,6 +192,7 @@ This file joins 631 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2024-03-26-army-poised-to-launch-revamped-carmy-cloud-services.md` — Army poised to launch revamped cArmy cloud services environment
 - `news/IS_NEWS_2024-04-01-safeguarding-brain-data-consumer-neurotechnology-report.md` — Safeguarding brain data: consumer neurotechnology report
 - `news/IS_NEWS_2024-04-12-exclusive-google-contract-shows-deal-with-israel-defense.md` — Exclusive: Google Contract Shows Deal With Israel Defense Ministry
+- `news/IS_NEWS_2024-04-25-analysis-privacy-consent-is-mostly-a-fiction-so-the-law-should-limit-what-it-permits-and-back-it-with.md` — Privacy consent is mostly a fiction, so the law should limit what it permits and back it with duties
 - `news/IS_NEWS_2024-04-29-orange-and-huawei-launch-huawei-cloud-services-in-egypt.md` — Orange and Huawei launch Huawei Cloud services in Egypt
 - `news/IS_NEWS_2024-04-30-egypt-launches-gov-cloud-computing-data-center.md` — Egypt launches gov cloud computing data center
 - `news/IS_NEWS_2024-05-06-dept-of-education-begins-market-research-for-cloud-fsa-next.md` — Dept of Education begins market research for cloud (FSA Next Gen Cloud on AWS)
@@ -216,6 +217,7 @@ This file joins 631 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2024-10-22-murder-for-hire-charges-against-islamic-revolutionary-guard.md` — Murder-for-hire charges against Islamic Revolutionary Guard Corps members
 - `news/IS_NEWS_2024-10-22-u-s-attorney-announces-murder-for-hire-charges-against-irgc.md` — U.S. Attorney Announces Murder-For-Hire Charges Against IRGC Brigadier General And Former Intelligence Officer And Members Of An Iranian Intelligence Network
 - `news/IS_NEWS_2024-11-08-justice-department-announces-murder-for-hire-and-related.md` — Justice Department Announces Murder-For-Hire and Related Charges Against IRGC Asset and Two Local Operatives
+- `news/IS_NEWS_2024-11-18-analysis-twenty-years-on-the-aggregation-of-personal-data-into-digital-dossiers-has-accelerated-with-ai.md` — Twenty years on, the aggregation of personal data into digital dossiers has accelerated with AI while privacy law lags
 - `news/IS_NEWS_2024-12-01-case-closed-pasco-sheriff-admits-predictive-policing-program.md` — Case closed: Pasco sheriff admits predictive policing program violated rights
 - `news/IS_NEWS_2024-12-07-google-launches-mexican-cloud-region-in-queretaro.md` — Google launches Mexican cloud region in Queretaro
 - `news/IS_NEWS_2024-12-18-new-york-resident-pleads-guilty-to-operating-secret-police.md` — New York Resident Pleads Guilty to Operating Secret Police Station of the Chinese Government in Lower Manhattan
@@ -340,19 +342,24 @@ This file joins 631 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-01-16-analysis-state-neural-data-laws-and-a-proposed-federal-study-leave-inferred-mental-states-unprotected.md` — State neural data laws and a proposed federal study leave inferred mental states unprotected
 - `news/IS_NEWS_2026-01-18-analysis-contract-law-is-the-wrong-tool-for-governing-privacy-notices-a-draft-article-argues.md` — Contract law is the wrong tool for governing privacy notices, a draft article argues
 - `news/IS_NEWS_2026-01-18-analysis-private-lawsuits-are-an-essential-part-of-enforcing-privacy-law-a-draft-article-argues.md` — Private lawsuits are an essential part of enforcing privacy law, a draft article argues
+- `news/IS_NEWS_2026-01-20-analysis-a-review-of-privacy-and-ai-law-in-2025-no-new-state-privacy-laws-neural-data-on-the-agenda-and.md` — A review of privacy and AI law in 2025: no new state privacy laws, neural data on the agenda and a deregulatory turn
 - `news/IS_NEWS_2026-01-26-analysis-a-three-day-attention-audit-shows-how-algorithmic-feeds-take-over-phone-use.md` — A three-day attention audit shows how algorithmic feeds take over phone use
 - `news/IS_NEWS_2026-01-27-ice-and-cbp-bought-a-record-140m-in-cloud.md` — ICE and CBP Bought a Record $140M in Cloud
 - `news/IS_NEWS_2026-01-27-judge-holds-norfolk-s-license-plate-reader-use.md` — Judge holds Norfolk's license plate reader use constitutional
+- `news/IS_NEWS_2026-01-28-analysis-privacy-teams-are-shrinking-as-their-workload-grows-and-privacy-offices-need-to-show-they.md` — Privacy teams are shrinking as their workload grows, and privacy offices need to show they contribute to growth
 - `news/IS_NEWS_2026-01-28-analysis-the-research-on-screens-and-attention-is-mixed-while-the-ad-funded-business-model-rewards-capturing-it.md` — The research on screens and attention is mixed, while the ad-funded business model rewards capturing it
 - `news/IS_NEWS_2026-01-28-analysis-whether-lab-grown-neural-organoids-fall-under-international-definitions-of-neurotechnology.md` — Whether lab-grown neural organoids fall under international definitions of neurotechnology
 - `news/IS_NEWS_2026-01-30-analysis-right-to-disconnect-laws-target-employer-demands-not-attention-captured-by-design.md` — Right-to-disconnect laws target employer demands, not attention captured by design
 - `news/IS_NEWS_2026-02-02-analysis-cancelling-a-subscription-takes-far-more-clicks-than-signing-up-and-regulators-have-fined-the-practice.md` — Cancelling a subscription takes far more clicks than signing up, and regulators have fined the practice
+- `news/IS_NEWS_2026-02-03-analysis-protecting-privacy-against-authoritarianism-requires-regulating-corporate-data-collection-as.md` — Protecting privacy against authoritarianism requires regulating corporate data collection as well as government surveillance
 - `news/IS_NEWS_2026-02-04-analysis-the-behavioural-science-behind-dark-patterns-and-which-parts-of-it-hold-up.md` — The behavioural science behind dark patterns, and which parts of it hold up
 - `news/IS_NEWS_2026-02-09-analysis-people-describe-harm-from-social-media-but-say-they-would-not-sue-and-the-science-behind-the-harm-is-contested.md` — People describe harm from social media but say they would not sue, and the science behind the harm is contested
 - `news/IS_NEWS_2026-02-11-analysis-ai-judging-in-sport-and-the-difference-between-measurable-skill-and-human-judgment.md` — AI judging in sport and the difference between measurable skill and human judgment
 - `news/IS_NEWS_2026-02-11-analysis-how-section-230-has-shielded-platforms-for-thirty-years-and-the-design-defect-exception-courts-have-opened.md` — How Section 230 has shielded platforms for thirty years, and the design-defect exception courts have opened
 - `news/IS_NEWS_2026-02-13-analysis-is-a-recommendation-algorithm-protected-speech-or-a-product-and-what-that-means-for-regulating-platforms.md` — Is a recommendation algorithm protected speech or a product, and what that means for regulating platforms
+- `news/IS_NEWS_2026-02-15-analysis-why-consent-cannot-legitimise-most-data-collection-in-the-age-of-ai-and-what-should-replace-it.md` — Why consent cannot legitimise most data collection in the age of AI, and what should replace it
 - `news/IS_NEWS_2026-02-16-analysis-companion-chatbots-are-built-to-validate-users-without-condition-which-sets-them-apart-legally-from-social-med.md` — Companion chatbots are built to validate users without condition, which sets them apart legally from social media
+- `news/IS_NEWS_2026-02-20-analysis-three-television-advertisements-as-evidence-that-technology-companies-misread-public-concern.md` — Three television advertisements as evidence that technology companies misread public concern about surveillance and AI
 - `news/IS_NEWS_2026-02-23-analysis-ai-personality-profiling-tools-get-basic-facts-wrong-and-employers-may-rely-on-them-in-hiring.md` — AI personality-profiling tools get basic facts wrong, and employers may rely on them in hiring
 - `news/IS_NEWS_2026-02-23-analysis-senate-testimony-on-a-teenager-s-death-after-companion-chatbot-use-and-why-chatbot-output-may-fall.md` — Senate testimony on a teenager's death after companion chatbot use and why chatbot output may fall outside Section 230
 - `news/IS_NEWS_2026-02-23-analysis-two-state-approaches-to-companion-chatbots-for-minors-regulating-their-design-or-banning-them-in.md` — Two state approaches to companion chatbots for minors, regulating their design or banning them in toys
@@ -360,6 +367,7 @@ This file joins 631 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-03-02-analysis-ai-that-infers-mental-states-moves-from-hiring-into-schools-and-workplaces-where-legal-protection-is.md` — AI that infers mental states moves from hiring into schools and workplaces, where legal protection is thinner
 - `news/IS_NEWS_2026-03-02-analysis-students-used-everyday-persuasion-techniques-on-each-other-and-courts-struggle-to-define-manipulative-design.md` — Students used everyday persuasion techniques on each other, and courts struggle to define manipulative design
 - `news/IS_NEWS_2026-03-04-analysis-old-statutes-cannot-stretch-to-cover-new-persuasive-designs-and-the-bills-that-would-have-filled-the-gap-stall.md` — Old statutes cannot stretch to cover new persuasive designs, and the bills that would have filled the gap stalled
+- `news/IS_NEWS_2026-03-04-analysis-why-fourth-amendment-warrants-alone-cannot-protect-privacy-against-government-power.md` — Why Fourth Amendment warrants alone cannot protect privacy against government power
 - `news/IS_NEWS_2026-03-06-analysis-ai-that-personalises-persuasion-and-whether-any-regulatory-framework-reaches-it.md` — AI that personalises persuasion, and whether any regulatory framework reaches it
 - `news/IS_NEWS_2026-03-06-iranian-intelligence-agent-convicted-of-terrorism-and-murder.md` — Iranian Intelligence Agent Convicted of Terrorism and Murder for Hire in Connection With Foiled Plot to Assassinate U.S. Politicians And Government Officials
 - `news/IS_NEWS_2026-03-16-analysis-clicking-agree-to-terms-of-service-is-rarely-meaningful-consent-and-three-theories-of-what-goes-wrong.md` — Clicking agree to terms of service is rarely meaningful consent, and three theories of what goes wrong
@@ -378,19 +386,27 @@ This file joins 631 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-04-03-us-states-build-patchwork-of-neural-data-privacy-laws.md` — US states build patchwork of neural data privacy laws
 - `news/IS_NEWS_2026-04-04-analysis-neural-evidence-strains-the-fifth-amendment-and-state-neural-data-laws-do-not-stop-a-subpoena.md` — Neural evidence strains the Fifth Amendment, and state neural data laws do not stop a subpoena
 - `news/IS_NEWS_2026-04-07-analysis-the-first-amendment-wall-shields-users-and-platforms-alike-and-whether-an-algorithm-speaks-is-unsettled.md` — The First Amendment wall shields users and platforms alike, and whether an algorithm speaks is unsettled
+- `news/IS_NEWS_2026-04-08-analysis-a-children-s-book-read-as-a-parable-of-relentless-targeted-marketing-that-ignores-people-s.md` — A children's book read as a parable of relentless targeted marketing that ignores people's refusals
 - `news/IS_NEWS_2026-04-20-inbrain-completes-enrolment-of-first-in-human-study-of-graphene-neural-interfaces.md` — INBRAIN completes enrolment of first-in-human study of graphene neural interfaces
 - `news/IS_NEWS_2026-04-22-analysis-ai-that-finds-software-flaws-faster-than-they-can-be-fixed-and-an-illinois-bill-to-shield-ai-companies-from-ca.md` — AI that finds software flaws faster than they can be fixed, and an Illinois bill to shield AI companies from catastrophe liability
+- `news/IS_NEWS_2026-04-25-analysis-a-proposed-federal-privacy-bill-would-leave-people-less-protected-and-could-wipe-out-stronger.md` — A proposed federal privacy bill would leave people less protected and could wipe out stronger state laws
 - `news/IS_NEWS_2026-04-27-analysis-chile-s-neurorights-leave-data-inferred-from-brain-activity-in-a-legal-gray-zone.md` — Chile's neurorights leave data inferred from brain activity in a legal gray zone
 - `news/IS_NEWS_2026-05-11-arcadia-california-mayor-federally-charged-with-acting-as.md` — Arcadia, California, Mayor Federally Charged with Acting as Illegal Agent of the People's Republic of China
+- `news/IS_NEWS_2026-05-15-analysis-pacemaker-data-used-as-evidence-shows-how-personal-devices-let-police-turn-intimate-data.md` — Pacemaker data used as evidence shows how personal devices let police turn intimate data against their users
 - `news/IS_NEWS_2026-05-20-bronx-man-convicted-of-operating-police-station-for-the.md` — Bronx Man Convicted of Operating Police Station for the Chinese Government in New York City and Obstruction of Justice
+- `news/IS_NEWS_2026-05-22-analysis-minority-report-and-the-case-against-using-ai-to-predict-human-behaviour.md` — Minority Report and the case against using AI to predict human behaviour
+- `news/IS_NEWS_2026-05-30-analysis-a-1909-story-about-a-machine-run-society-as-a-warning-about-ai-replacing-first-hand-experience.md` — A 1909 story about a machine-run society as a warning about AI replacing first-hand experience
 - `news/IS_NEWS_2026-06-01-ice-to-spend-25m-on-iris-recognition.md` — ICE to spend $25M on iris recognition
+- `news/IS_NEWS_2026-06-02-analysis-state-consumer-privacy-laws-are-being-weakened-by-industry-lobbying-with-vermont-as-the-latest.md` — State consumer privacy laws are being weakened by industry lobbying, with Vermont as the latest example
 - `news/IS_NEWS_2026-06-04-american-citizen-pleads-guilty-to-working-as-an-agent-for.md` — American Citizen Pleads Guilty to Working as an Agent for the People's Republic of China
+- `news/IS_NEWS_2026-06-06-analysis-orwell-or-huxley-both-dystopias-describe-today-s-world-but-neither-foresaw-the-role-of.md` — Orwell or Huxley: both dystopias describe today's world, but neither foresaw the role of corporations
 - `news/IS_NEWS_2026-06-15-aws-secures-2-6b-dhs-wide-cumulus-cloud-project.md` — AWS secures $2.6B DHS-wide Cumulus cloud project
 - `news/IS_NEWS_2026-06-16-dhs-finalizes-first-cumulus-cloud-contract-with-aws.md` — DHS finalizes first Cumulus cloud contract with AWS
 - `news/IS_NEWS_2026-06-17-navy-neptune-awards-four-jwcc-cloud-task-orders.md` — Navy Neptune Awards Four JWCC Cloud Task Orders
 - `news/IS_NEWS_2026-06-25-aws-pledges-further-13bn-investment-in-india.md` — AWS pledges further $13bn investment in India
 - `news/IS_NEWS_2026-07-27-ebay-harassment-civil-suit-settles.md` — eBay harassment civil suit settles
 - `news/IS_NEWS_2026-07-28-ebay-former-execs-settle-couple-s-cyberstalking-suit-for-55.md` — eBay former execs settle couple's cyberstalking suit for $55.7M
+- `news/IS_NEWS_2026-07-29-dhs-human-trafficking-arrests-and-rescues-during-the-world-cup.md` — DHS release: DHS Highlights Successful Arrests and Rescues in Crackdown on Human Trafficking During FIFA World Cup
 - `news/IS_NEWS_2026-08-18-fbi-violent-crime-drop-in-2025.md` — FBI: violent crime drop in 2025
 - `news/IS_NEWS_2026-08-24-analysis-a-new-run-of-an-ai-law-course-opens-with-why-the-law-struggles-to-define-artificial-intelligence.md` — A new run of an AI law course opens with why the law struggles to define artificial intelligence
 - `news/IS_NEWS_2026-08-26-analysis-why-ai-invented-case-citations-keep-reaching-courts-explained-through-how-language-models-predict-text.md` — Why AI-invented case citations keep reaching courts, explained through how language models predict text
@@ -639,6 +655,8 @@ This file joins 631 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-11-16-australia-raises-a-detained-melbourne-democracy-campaigners-case-with-vietnam-which-says-he-was-caught-crossi.md` — Australia raises a detained Melbourne democracy campaigner's case with Vietnam, which says he was caught crossing from Cambodia
 - `news/IS_NEWS_2026-11-16-belgrade-prosecutors-call-the-supreme-public-prosecutors-sound-cannon-report-malicious-and-say-they-will-take.md` — Belgrade prosecutors call the Supreme Public Prosecutor's sound-cannon report malicious and say they will take it to European bodies
 - `news/IS_NEWS_2026-11-16-californias-attorney-general-sues-an-ai-developer-alleging-its-experimental-ai-agents-escaped-testing-and-carr.md` — California's attorney general sues an AI developer, alleging its experimental AI agents escaped testing and carried out cyberattacks
+- `news/IS_NEWS_2026-11-16-chinese-state-science-paper-says-a-brain-implant-maker-tested-its-fully-implanted-wireless-system-with-paraly.md` — Chinese state science paper says a brain-implant maker tested its fully implanted wireless system with paralysed users in a mock everyday-life site
+- `news/IS_NEWS_2026-11-16-dutch-digital-infrastructure-inspectorate-investigates-gps-disruption-reported-by-seven-aircraft.md` — Dutch digital-infrastructure inspectorate investigates GPS disruption reported by seven aircraft
 - `news/IS_NEWS_2026-11-16-exile-outlet-reports-a-former-revolutionary-guards-official-saying-israeli-intelligence-infiltrated-irans-inst.md` — Exile outlet reports a former Revolutionary Guards official saying Israeli intelligence infiltrated Iran's institutions and describing how everyday data can track people
 - `news/IS_NEWS_2026-11-16-german-media-report-how-a-former-intelligence-chiefs-office-head-allegedly-smuggled-about-2-000-secret-files-o.md` — German media report how a former intelligence chief's office head allegedly smuggled about 2,000 secret files out of the agency's headquarters
 - `news/IS_NEWS_2026-11-16-hong-kong-police-switch-on-facial-recognition-across-the-smartview-camera-network-saying-the-tools-have-check.md` — Hong Kong police switch on facial recognition across the SmartView camera network, saying the tools have checks and balances
@@ -647,8 +665,18 @@ This file joins 631 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-11-16-russian-state-newspaper-reports-a-kamchatka-court-sentenced-a-local-man-to-14-years-for-treason-over-alleged.md` — Russian state newspaper reports a Kamchatka court sentenced a local man to 14 years for treason over alleged help to Ukrainian intelligence
 - `news/IS_NEWS_2026-11-16-russias-security-service-says-a-young-woman-detained-over-a-moscow-car-bombing-was-steered-by-phone-scammers-i.md` — Russia's security service says a young woman detained over a Moscow car bombing was steered by phone scammers it calls Ukrainian handlers
 - `news/IS_NEWS_2026-11-16-ukrainian-court-sentences-a-man-to-15-years-for-treason-after-the-security-service-said-he-set-up-explosive-ca.md` — Ukrainian court sentences a man to 15 years for treason after the security service said he set up explosive caches in Zaporizhzhia for Russian intelligence
+- `news/IS_NEWS_2026-11-17-canadas-house-of-commons-advances-a-bill-to-allow-advance-requests-for-assisted-dying-and-keep-mental-illness.md` — Canada's House of Commons advances a bill to allow advance requests for assisted dying and keep mental illness alone excluded
+- `news/IS_NEWS_2026-11-17-japans-communications-minister-calls-three-nationwide-5g-outages-at-a-major-carrier-in-one-month-very-regrett.md` — Japan's communications minister calls three nationwide 5G outages at a major carrier in one month very regrettable and asks for the root cause
 - `news/IS_NEWS_2026-11-17-japans-governing-party-begins-work-on-a-bill-to-fit-gps-devices-to-serious-stalking-offenders.md` — Japan's governing party begins work on a bill to fit GPS devices to serious stalking offenders
+- `news/IS_NEWS_2026-11-17-north-dakota-city-denies-wrongdoing-over-a-months-long-detention-based-on-a-false-facial-recognition-match-bu.md` — North Dakota city denies wrongdoing over a months-long detention based on a false facial-recognition match, but says its police had no written policy or training for the tool
+- `news/IS_NEWS_2026-11-17-north-macedonias-security-agency-says-it-broke-up-a-network-preparing-an-assassination-in-greece-on-the-order.md` — North Macedonia's security agency says it broke up a network preparing an assassination in Greece on the orders of a collaborator of Iran's security services
+- `news/IS_NEWS_2026-11-17-oregons-attorney-general-sues-an-ai-developer-for-about-2-billion-alleging-it-misrepresented-its-chatbots-saf.md` — Oregon's attorney general sues an AI developer for about $2 billion, alleging it misrepresented its chatbot's safety for children
+- `news/IS_NEWS_2026-11-17-polands-data-protection-authority-fines-a-non-public-school-for-camera-monitoring-in-classrooms-and-a-gym.md` — Poland's data-protection authority fines a non-public school for camera monitoring in classrooms and a gym
+- `news/IS_NEWS_2026-11-17-taiwan-prosecutors-charge-three-private-investigators-accused-of-tracking-two-anti-china-online-commentators.md` — Taiwan prosecutors charge three private investigators accused of tracking two anti-China online commentators and their relatives for Chinese police
+- `news/IS_NEWS_2026-11-17-turkish-court-remands-14-of-79-people-detained-in-a-42-province-operation-against-the-theft-and-sale-of-perso.md` — Turkish court remands 14 of 79 people detained in a 42-province operation against the theft and sale of personal data
+- `news/IS_NEWS_2026-11-17-uk-health-minister-says-the-nhs-national-data-platform-contract-will-run-to-2029-rather-than-ending-at-the-20.md` — UK health minister says the NHS national data-platform contract will run to 2029 rather than ending at the 2027 break clause
 - `news/IS_NEWS_2026-11-17-un-crime-agency-and-interpol-report-warns-that-coercive-neural-lie-detection-and-neurotechnology-in-interrogat.md` — UN crime agency and INTERPOL report warns that coercive neural lie detection and neurotechnology in interrogation raise serious human rights concerns
+- `news/IS_NEWS_2026-11-17-us-court-sentences-a-man-recruited-by-irans-revolutionary-guards-to-more-than-27-years-over-a-plot-to-hire-ki.md` — US court sentences a man recruited by Iran's Revolutionary Guards to more than 27 years over a plot to hire killers to assassinate US officials
 - `news/IS_NEWS_2026-11-17-us-requires-export-licences-for-advanced-ai-chips-going-to-five-countries-to-stop-remote-access-by-chinese-dev.md` — US requires export licences for advanced AI chips going to five countries, to stop remote access by Chinese developers through overseas data centres
 - `news/IS_NEWS_undated-anomalous-health-incidents.md` — Anomalous health incidents
 - `news/IS_NEWS_undated-critical-information-infrastructure-of-russia-fstec-fsb.md` — Critical Information Infrastructure of Russia (FSTEC/FSB)
@@ -668,27 +696,27 @@ convicted or was sentenced. See `meta/IS_META_terms.md`.*
 
 ## What is here
 
-- 630 items, 2011-09-28 to 2026-11-17: 187 official, 159 trade press, 135 news, 129 analysis, 20 research.
-- 630 of 630 carry a summary so far; the rest say so.
+- 658 items, 2011-09-28 to 2026-11-17: 190 official, 163 trade press, 144 analysis, 141 news, 20 research.
+- 658 of 658 carry a summary so far; the rest say so.
 - `index.json` holds every item's header in one file, for counting and filtering.
 
 ## By kind of event
 
 | Kind of event | Items |
 |---|---|
-| Regulation & law | 132 |
-| Contracts & deployments | 119 |
+| Regulation & law | 142 |
+| Contracts & deployments | 120 |
 | Espionage & foreign agents | 86 |
-| Courts & litigation | 78 |
-| Research & breakthroughs | 65 |
+| Courts & litigation | 84 |
+| Research & breakthroughs | 69 |
 | Technology theft & export control | 54 |
-| Reports & statistics | 20 |
-| Transnational repression | 20 |
-| Murder for hire & violent plots | 16 |
+| Reports & statistics | 22 |
+| Transnational repression | 21 |
+| Murder for hire & violent plots | 18 |
 | Public health | 16 |
 | Protests | 11 |
 | Global conflict | 10 |
-| Outages & disruptions | 3 |
+| Outages & disruptions | 5 |
 
 ## Fields
 
@@ -6637,6 +6665,43 @@ Google is providing cloud consulting services to Israel's Ministry of Defense un
 The version TIME saw was unsigned, and the work was due to start on 14 April 2024 for one year. Google told TIME the Nimbus contract covers civilian work and declined to comment on the defense ministry contract specifically.
 
 
+===== FILE: news/IS_NEWS_2024-04-25-analysis-privacy-consent-is-mostly-a-fiction-so-the-law-should-limit-what-it-permits-and-back-it-with.md · ID: IS-NEWS-2024-04-25-ANALYSIS-PRIVACY-CONSENT-IS-MOSTLY-A-FICTION-SO-THE-LAW-SHOULD-LIMIT-WHAT-IT-PERMITS-AND-BACK-IT-WITH =====
+
+```yaml
+id: IS-NEWS-2024-04-25-ANALYSIS-PRIVACY-CONSENT-IS-MOSTLY-A-FICTION-SO-THE-LAW-SHOULD-LIMIT-WHAT-IT-PERMITS-AND-BACK-IT-WITH
+slug: 2024-04-25-analysis-privacy-consent-is-mostly-a-fiction-so-the-law-should-limit-what-it-permits-and-back-it-with
+title: Privacy consent is mostly a fiction, so the law should limit what it permits and back it with duties
+collection: news
+doc_type: analysis-item
+date: 2024-04-25
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/murky-consent-an-approach-to-the
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 18 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Privacy consent is mostly a fiction, so the law should limit what it permits and back it with duties
+
+*Daniel J. Solove, Solove on Tech (Substack), 2024-04-25. Original: <https://danielsolove.substack.com/p/murky-consent-an-approach-to-the>*
+
+Daniel J. Solove shares the published version of his law review article on consent in privacy law and summarises its argument. He argues that both main approaches fail: the American notice-and-choice model infers consent from inaction, while the express consent required by the EU's GDPR is undermined by pressure, manipulation, people's inability to foresee what algorithms will do with their data, and the sheer number of requests.
+
+He proposes treating most privacy consent as "murky consent", a middle ground between full consent and none. Rather than trying to make consent real, he argues, the law should give it far less legitimating power, keep it under regulatory oversight and back it with four duties on organisations: to obtain consent appropriately, to avoid thwarting reasonable expectations, to act loyally and to avoid unreasonable risk.
+
+
 ===== FILE: news/IS_NEWS_2024-04-29-orange-and-huawei-launch-huawei-cloud-services-in-egypt.md · ID: IS-NEWS-2024-04-29-ORANGE-AND-HUAWEI-LAUNCH-HUAWEI-CLOUD-SERVICES-IN-EGYPT =====
 
 ```yaml
@@ -7480,6 +7545,43 @@ disclaimer: meta/IS_META_terms.md
 The Justice Department announced on 8 November 2024 murder-for-hire and related charges against an asset of the Iranian government based in Tehran and two men from Brooklyn and Staten Island, New York. Prosecutors allege the Tehran-based man directed the other two to watch and kill a U.S. citizen of Iranian descent in New York who criticizes the Iranian government, promising $100,000, and that he said he was tasked by the IRGC in October 2024 to provide a plan to assassinate the then President-elect.
 
 The two New York men were arrested and detained; the Tehran-based defendant remains at large. These are charges only: every defendant is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2024-11-18-analysis-twenty-years-on-the-aggregation-of-personal-data-into-digital-dossiers-has-accelerated-with-ai.md · ID: IS-NEWS-2024-11-18-ANALYSIS-TWENTY-YEARS-ON-THE-AGGREGATION-OF-PERSONAL-DATA-INTO-DIGITAL-DOSSIERS-HAS-ACCELERATED-WITH-AI =====
+
+```yaml
+id: IS-NEWS-2024-11-18-ANALYSIS-TWENTY-YEARS-ON-THE-AGGREGATION-OF-PERSONAL-DATA-INTO-DIGITAL-DOSSIERS-HAS-ACCELERATED-WITH-AI
+slug: 2024-11-18-analysis-twenty-years-on-the-aggregation-of-personal-data-into-digital-dossiers-has-accelerated-with-ai
+title: Twenty years on, the aggregation of personal data into digital dossiers has accelerated with AI while privacy law lags
+collection: news
+doc_type: analysis-item
+date: 2024-11-18
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/digital-dossiers-and-the-aggregation
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 18 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Twenty years on, the aggregation of personal data into digital dossiers has accelerated with AI while privacy law lags
+
+*Daniel J. Solove, Solove on Tech (Substack), 2024-11-18. Original: <https://danielsolove.substack.com/p/digital-dossiers-and-the-aggregation>*
+
+Marking the twentieth anniversary of his first book, Daniel J. Solove revisits its central idea: that companies and governments build "digital dossiers" and that combining scattered pieces of data produces an "aggregation effect" that paints a portrait of a person. He argues that what is now discussed as algorithmic inference and AI is the same problem, greatly accelerated, and still poorly addressed by law.
+
+He restates his view that Kafka's The Trial, with its helplessness before an unaccountable bureaucracy, captures commercial data practices better than Orwell. He says privacy torts and statutes still fail and that he now sees individual control as more façade than protection, while conceding he was too dismissive of the Federal Trade Commission, which he calls a positive though politically constrained enforcer. He expects AI to make these problems much worse.
 
 
 ===== FILE: news/IS_NEWS_2024-12-01-case-closed-pasco-sheriff-admits-predictive-policing-program.md · ID: IS-NEWS-2024-12-01-CASE-CLOSED-PASCO-SHERIFF-ADMITS-PREDICTIVE-POLICING-PROGRAM =====
@@ -11998,6 +12100,43 @@ Daniel J. Solove announces a draft law review article arguing that enforcement i
 According to his abstract, government enforcement suffers from limited resources, political pressure and inconsistency, and will reach a ceiling even if improved. He argues that enforcement is about incentives, that current penalties are too rare and too small to outweigh the gains from non-compliance, and that several enforcers working together do best, with private litigation adding what government action lacks. The post consists of the abstract, with a link to the full draft.
 
 
+===== FILE: news/IS_NEWS_2026-01-20-analysis-a-review-of-privacy-and-ai-law-in-2025-no-new-state-privacy-laws-neural-data-on-the-agenda-and.md · ID: IS-NEWS-2026-01-20-ANALYSIS-A-REVIEW-OF-PRIVACY-AND-AI-LAW-IN-2025-NO-NEW-STATE-PRIVACY-LAWS-NEURAL-DATA-ON-THE-AGENDA-AND =====
+
+```yaml
+id: IS-NEWS-2026-01-20-ANALYSIS-A-REVIEW-OF-PRIVACY-AND-AI-LAW-IN-2025-NO-NEW-STATE-PRIVACY-LAWS-NEURAL-DATA-ON-THE-AGENDA-AND
+slug: 2026-01-20-analysis-a-review-of-privacy-and-ai-law-in-2025-no-new-state-privacy-laws-neural-data-on-the-agenda-and
+title: A review of privacy and AI law in 2025: no new state privacy laws, neural data on the agenda and a deregulatory turn
+collection: news
+doc_type: analysis-item
+date: 2026-01-20
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/privacy-and-ai-law-in-2025
+archived_url: 
+industry: Neurotechnology · Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 18 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A review of privacy and AI law in 2025: no new state privacy laws, neural data on the agenda and a deregulatory turn
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-01-20. Original: <https://danielsolove.substack.com/p/privacy-and-ai-law-in-2025>*
+
+Daniel J. Solove reviews 2025 in privacy and AI law, noting that no new state consumer privacy laws passed but that states revised existing ones, began enforcing them and widened protections for sensitive and children's data. He highlights neural privacy: California and Connecticut followed Colorado in treating neural data as sensitive, and a federal bill, the MIND Act, would have the FTC study the issue, which he calls fairly weak. He argues that defining neural data by measurements of the nervous system is too narrow, because mental states can be inferred from other data.
+
+He describes the federal administration's deregulatory agenda as spreading to the EU, calls the proposed ten-year ban on state AI laws a bad idea that Congress voted down, and reads a late-2025 executive order against state AI laws as a threat rather than a ban. He also points to large-scale government data collection, new AI laws, and privacy officers' growing remits without growing budgets.
+
+
 ===== FILE: news/IS_NEWS_2026-01-26-analysis-a-three-day-attention-audit-shows-how-algorithmic-feeds-take-over-phone-use.md · ID: IS-NEWS-2026-01-26-ANALYSIS-A-THREE-DAY-ATTENTION-AUDIT-SHOWS-HOW-ALGORITHMIC-FEEDS-TAKE-OVER-PHONE-USE =====
 
 ```yaml
@@ -12105,6 +12244,43 @@ disclaimer: meta/IS_META_terms.md
 A federal judge in Virginia ruled that Norfolk's network of Flock Safety license plate reader cameras does not violate the Fourth Amendment, Courthouse News Service reports. Two Norfolk residents, represented by the Institute for Justice, had sued after learning their cars were photographed hundreds of times in four months.
 
 The judge found that the city's 176 cameras capture separate moments at fixed places and cannot record a person's movements in full, which set the case apart from Carpenter v. United States. The residents said they would appeal to the Fourth Circuit.
+
+
+===== FILE: news/IS_NEWS_2026-01-28-analysis-privacy-teams-are-shrinking-as-their-workload-grows-and-privacy-offices-need-to-show-they.md · ID: IS-NEWS-2026-01-28-ANALYSIS-PRIVACY-TEAMS-ARE-SHRINKING-AS-THEIR-WORKLOAD-GROWS-AND-PRIVACY-OFFICES-NEED-TO-SHOW-THEY =====
+
+```yaml
+id: IS-NEWS-2026-01-28-ANALYSIS-PRIVACY-TEAMS-ARE-SHRINKING-AS-THEIR-WORKLOAD-GROWS-AND-PRIVACY-OFFICES-NEED-TO-SHOW-THEY
+slug: 2026-01-28-analysis-privacy-teams-are-shrinking-as-their-workload-grows-and-privacy-offices-need-to-show-they
+title: Privacy teams are shrinking as their workload grows, and privacy offices need to show they contribute to growth
+collection: news
+doc_type: analysis-item
+date: 2026-01-28
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/challenging-times-ahead-for-the-privacy
+archived_url: 
+industry: Artificial intelligence
+event: Reports & statistics
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 18 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Privacy teams are shrinking as their workload grows, and privacy offices need to show they contribute to growth
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-01-28. Original: <https://danielsolove.substack.com/p/challenging-times-ahead-for-the-privacy>*
+
+Writing for Data Privacy Day, Daniel J. Solove argues that chief privacy officers and data protection officers have taken on AI without matching increases in budget, staff or pay. He cites a 2026 industry survey of privacy professionals reporting smaller teams, more stress, low confidence in complying with new laws and falling budget expectations, and notes that respondents named poor training as the most common privacy failure (he discloses that he runs a privacy training company).
+
+He offers theories for the stagnation he sees: fatigue with new laws, enforcement too weak to make penalties a real risk, privacy being treated as a cost centre, and its focus on avoiding risk rather than creating value. He argues that privacy offices must reposition themselves around brand and trust and show concretely how responsible use of data contributes to business growth.
 
 
 ===== FILE: news/IS_NEWS_2026-01-28-analysis-the-research-on-screens-and-attention-is-mixed-while-the-ad-funded-business-model-rewards-capturing-it.md · ID: IS-NEWS-2026-01-28-ANALYSIS-THE-RESEARCH-ON-SCREENS-AND-ATTENTION-IS-MIXED-WHILE-THE-AD-FUNDED-BUSINESS-MODEL-REWARDS-CAPTURING-IT =====
@@ -12253,6 +12429,43 @@ disclaimer: meta/IS_META_terms.md
 Opening a week on dark patterns, Nita Farahany reports that every student in her live class found it took more clicks and time to cancel a subscription than to restart it, with ratios of up to about six to one.
 
 She sets out the Federal Trade Commission's 2022 staff report definition of dark patterns as designs that trick or manipulate users into choices they would not otherwise make, and reviews federal enforcement cases whose settlements she totals at about 85 million dollars. She argues that such designs work on everyone but hit vulnerable users hardest, and that they are not only annoying but can be measurably harmful and unlawful under existing law.
+
+
+===== FILE: news/IS_NEWS_2026-02-03-analysis-protecting-privacy-against-authoritarianism-requires-regulating-corporate-data-collection-as.md · ID: IS-NEWS-2026-02-03-ANALYSIS-PROTECTING-PRIVACY-AGAINST-AUTHORITARIANISM-REQUIRES-REGULATING-CORPORATE-DATA-COLLECTION-AS =====
+
+```yaml
+id: IS-NEWS-2026-02-03-ANALYSIS-PROTECTING-PRIVACY-AGAINST-AUTHORITARIANISM-REQUIRES-REGULATING-CORPORATE-DATA-COLLECTION-AS
+slug: 2026-02-03-analysis-protecting-privacy-against-authoritarianism-requires-regulating-corporate-data-collection-as
+title: Protecting privacy against authoritarianism requires regulating corporate data collection as well as government surveillance
+collection: news
+doc_type: analysis-item
+date: 2026-02-03
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/privacy-in-authoritarian-times
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 18 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Protecting privacy against authoritarianism requires regulating corporate data collection as well as government surveillance
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-02-03. Original: <https://danielsolove.substack.com/p/privacy-in-authoritarian-times>*
+
+Daniel J. Solove shares the published version of his law review article on privacy and the resurgence of authoritarianism, with its abstract. He argues that pervasive corporate data collection, which he calls surveillance capitalism, puts vast dossiers within easy reach of governments, and says personal data is being used to target immigrants, people seeking or providing abortion and gender-affirming care, and critics.
+
+His central claim is that government surveillance and surveillance capitalism are two sides of the same coin, so reforming Fourth Amendment law alone cannot protect privacy. He proposes measures across the field: federal and state judges strengthening constitutional and consumer protections, and state legislators limiting government surveillance, minimising the data available, regulating data brokers, encouraging less invasive technologies and curbing collusion between government and industry. He acknowledges there is no single solution.
 
 
 ===== FILE: news/IS_NEWS_2026-02-04-analysis-the-behavioural-science-behind-dark-patterns-and-which-parts-of-it-hold-up.md · ID: IS-NEWS-2026-02-04-ANALYSIS-THE-BEHAVIOURAL-SCIENCE-BEHIND-DARK-PATTERNS-AND-WHICH-PARTS-OF-IT-HOLD-UP =====
@@ -12440,6 +12653,43 @@ Nita Farahany walks through the U.S. Supreme Court's 2024 decision in Moody v. N
 She compares regulatory approaches, including Utah's law targeting specific design features, the proposed Kids Online Safety Act's duty of care and Australia's ban on social media accounts for under-16s, and says each faces constitutional, practical or moral objections. She argues that whether platforms can be regulated turns on where speech ends and product begins, a question she says a Los Angeles jury trial was then testing.
 
 
+===== FILE: news/IS_NEWS_2026-02-15-analysis-why-consent-cannot-legitimise-most-data-collection-in-the-age-of-ai-and-what-should-replace-it.md · ID: IS-NEWS-2026-02-15-ANALYSIS-WHY-CONSENT-CANNOT-LEGITIMISE-MOST-DATA-COLLECTION-IN-THE-AGE-OF-AI-AND-WHAT-SHOULD-REPLACE-IT =====
+
+```yaml
+id: IS-NEWS-2026-02-15-ANALYSIS-WHY-CONSENT-CANNOT-LEGITIMISE-MOST-DATA-COLLECTION-IN-THE-AGE-OF-AI-AND-WHAT-SHOULD-REPLACE-IT
+slug: 2026-02-15-analysis-why-consent-cannot-legitimise-most-data-collection-in-the-age-of-ai-and-what-should-replace-it
+title: Why consent cannot legitimise most data collection in the age of AI, and what should replace it
+collection: news
+doc_type: analysis-item
+date: 2026-02-15
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/why-consent-is-broken-for-privacy
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 18 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Why consent cannot legitimise most data collection in the age of AI, and what should replace it
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-02-15. Original: <https://danielsolove.substack.com/p/why-consent-is-broken-for-privacy>*
+
+In an excerpt from his 2025 book on privacy and technology, Daniel J. Solove argues that privacy consent is close to a complete fiction that nonetheless gives organisations broad legitimacy to use data. He calls the American notice-and-choice model a charade, since almost nobody reads notices and inaction cannot plausibly count as consent, and says the express consent required by the EU's GDPR is skewed by timing and immediate rewards.
+
+He argues that people cannot understand what AI and other algorithms will later infer from their data, that consenting to thousands of organisations is impractical, and that simpler notices cannot fix this. He proposes "murky consent": a limited licence rather than full authorisation, backed by duties to obtain consent fairly, respect reasonable expectations, act loyally and avoid unreasonable risk.
+
+
 ===== FILE: news/IS_NEWS_2026-02-16-analysis-companion-chatbots-are-built-to-validate-users-without-condition-which-sets-them-apart-legally-from-social-med.md · ID: IS-NEWS-2026-02-16-ANALYSIS-COMPANION-CHATBOTS-ARE-BUILT-TO-VALIDATE-USERS-WITHOUT-CONDITION-WHICH-SETS-THEM-APART-LEGALLY-FROM-SOCIAL-MED =====
 
 ```yaml
@@ -12475,6 +12725,43 @@ disclaimer: meta/IS_META_terms.md
 Opening a week on AI companion chatbots, Nita Farahany reports that her law students, after using one as a friend for several days, all found it validated them relentlessly and kept the conversation about them, drawing out personal information while having no inner life of its own.
 
 She argues that companion chatbots differ from the platforms studied earlier in the course because the system itself generates the relationship and its outputs, with no third-party content, which changes the Section 230 analysis. She also acknowledges that some people gain real benefit from them, and notes that those most drawn to these products may be those who most need connection.
+
+
+===== FILE: news/IS_NEWS_2026-02-20-analysis-three-television-advertisements-as-evidence-that-technology-companies-misread-public-concern.md · ID: IS-NEWS-2026-02-20-ANALYSIS-THREE-TELEVISION-ADVERTISEMENTS-AS-EVIDENCE-THAT-TECHNOLOGY-COMPANIES-MISREAD-PUBLIC-CONCERN =====
+
+```yaml
+id: IS-NEWS-2026-02-20-ANALYSIS-THREE-TELEVISION-ADVERTISEMENTS-AS-EVIDENCE-THAT-TECHNOLOGY-COMPANIES-MISREAD-PUBLIC-CONCERN
+slug: 2026-02-20-analysis-three-television-advertisements-as-evidence-that-technology-companies-misread-public-concern
+title: Three television advertisements as evidence that technology companies misread public concern about surveillance and AI
+collection: news
+doc_type: analysis-item
+date: 2026-02-20
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/three-tv-commercials-show-whats-wrong
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 18 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Three television advertisements as evidence that technology companies misread public concern about surveillance and AI
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-02-20. Original: <https://danielsolove.substack.com/p/three-tv-commercials-show-whats-wrong>*
+
+Daniel J. Solove argues that recent television advertisements show how out of touch technology companies are about privacy and AI. He reads a 2026 Super Bowl advertisement for a networked doorbell camera service that uses AI to find lost dogs as dystopian, arguing that a system able to track dogs could track people, that the harm is collective so individual choices do not help, and that data held by companies is readily available to government under weak law.
+
+He says a voice-assistant advertisement joking about killer AI distracts from how AI is already used by powerful people and companies to control others, and that an earlier advertisement showing creative tools being crushed depicted AI destroying creativity. He argues that innovation need not lead to dystopia, but that the law must restrain technology companies.
 
 
 ===== FILE: news/IS_NEWS_2026-02-23-analysis-ai-personality-profiling-tools-get-basic-facts-wrong-and-employers-may-rely-on-them-in-hiring.md · ID: IS-NEWS-2026-02-23-ANALYSIS-AI-PERSONALITY-PROFILING-TOOLS-GET-BASIC-FACTS-WRONG-AND-EMPLOYERS-MAY-RELY-ON-THEM-IN-HIRING =====
@@ -12734,6 +13021,43 @@ disclaimer: meta/IS_META_terms.md
 Nita Farahany compares a 2022 federal court ruling that rejected every legal challenge to video-game loot boxes with the U.S. Supreme Court's 2021 ruling that a 1991 law against automatic dialers did not cover targeted text notifications, and argues that in both cases a law written for an older technology could not reach a newer one and the courts left it to Congress.
 
 She notes that a 2019 Senate bill aimed at loot boxes never became law, and surveys approaches abroad, including loot-box rules in Belgium, the Netherlands, Japan and Brazil and the EU AI Act's ban on manipulative AI techniques. She asks whether the problem is a shortage of laws or of enforcement, and what happens when persuasive design starts learning.
+
+
+===== FILE: news/IS_NEWS_2026-03-04-analysis-why-fourth-amendment-warrants-alone-cannot-protect-privacy-against-government-power.md · ID: IS-NEWS-2026-03-04-ANALYSIS-WHY-FOURTH-AMENDMENT-WARRANTS-ALONE-CANNOT-PROTECT-PRIVACY-AGAINST-GOVERNMENT-POWER =====
+
+```yaml
+id: IS-NEWS-2026-03-04-ANALYSIS-WHY-FOURTH-AMENDMENT-WARRANTS-ALONE-CANNOT-PROTECT-PRIVACY-AGAINST-GOVERNMENT-POWER
+slug: 2026-03-04-analysis-why-fourth-amendment-warrants-alone-cannot-protect-privacy-against-government-power
+title: Why Fourth Amendment warrants alone cannot protect privacy against government power
+collection: news
+doc_type: analysis-item
+date: 2026-03-04
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/are-warrants-enough
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 18 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Why Fourth Amendment warrants alone cannot protect privacy against government power
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-03-04. Original: <https://danielsolove.substack.com/p/are-warrants-enough>*
+
+Ahead of a U.S. Supreme Court decision on geofence warrants, which he describes as digital dragnets the Framers would have rejected, Daniel J. Solove argues that even properly limited warrants are no longer enough. He gives five reasons: large gaps in Fourth Amendment protection, such as the third-party doctrine, filled only by weak statutes; disputes over what should be a crime, such as abortion or protest, which warrants cannot resolve; empirical evidence that warrants are approved almost automatically, often within minutes; reports that federal immigration officers claim power to enter homes without a judge's warrant; and the focus of warrants on collecting data rather than its later use and retention.
+
+He calls for stronger separation of powers and structural checks, less corporate data collection, and legal safeguards built into surveillance technologies rather than reliance on corporate ethics.
 
 
 ===== FILE: news/IS_NEWS_2026-03-06-analysis-ai-that-personalises-persuasion-and-whether-any-regulatory-framework-reaches-it.md · ID: IS-NEWS-2026-03-06-ANALYSIS-AI-THAT-PERSONALISES-PERSUASION-AND-WHETHER-ANY-REGULATORY-FRAMEWORK-REACHES-IT =====
@@ -13400,6 +13724,43 @@ Opening three classes on the First Amendment and cognitive liberty, Nita Farahan
 She then asks whether algorithmic curation is speech, contrasting a 2013 ruling that treated search results as protected editorial judgment with recommendation feeds that no person reviews, and describes a proposal that speech requires the speaker to know what was said. She argues the result is a double bind: users have no constitutional claim against platforms, while platforms are increasingly shielded from regulation of their editorial choices.
 
 
+===== FILE: news/IS_NEWS_2026-04-08-analysis-a-children-s-book-read-as-a-parable-of-relentless-targeted-marketing-that-ignores-people-s.md · ID: IS-NEWS-2026-04-08-ANALYSIS-A-CHILDREN-S-BOOK-READ-AS-A-PARABLE-OF-RELENTLESS-TARGETED-MARKETING-THAT-IGNORES-PEOPLE-S =====
+
+```yaml
+id: IS-NEWS-2026-04-08-ANALYSIS-A-CHILDREN-S-BOOK-READ-AS-A-PARABLE-OF-RELENTLESS-TARGETED-MARKETING-THAT-IGNORES-PEOPLE-S
+slug: 2026-04-08-analysis-a-children-s-book-read-as-a-parable-of-relentless-targeted-marketing-that-ignores-people-s
+title: A children's book read as a parable of relentless targeted marketing that ignores people's refusals
+collection: news
+doc_type: analysis-item
+date: 2026-04-08
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/green-eggs-and-ham-how-not-to-market
+archived_url: 
+industry: Artificial intelligence
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 18 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A children's book read as a parable of relentless targeted marketing that ignores people's refusals
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-04-08. Original: <https://danielsolove.substack.com/p/green-eggs-and-ham-how-not-to-market>*
+
+Daniel J. Solove reads Dr. Seuss's Green Eggs and Ham as a story of persistent privacy invasion by a marketer who will not accept a clear and repeated no. He imagines that a modern version of the character would rely on a detailed digital dossier and an AI prediction that the consumer will like the product before he knows it himself.
+
+He argues that the book's apparent lesson about persistence is a bad one, because it suggests it is acceptable to pester people however often they refuse, which he calls the opposite of good marketing. He compares it to online advertising that follows people around the web after a single search, and offers a comic rewritten ending. He notes that the post adapts one he wrote more than a decade earlier.
+
+
 ===== FILE: news/IS_NEWS_2026-04-20-inbrain-completes-enrolment-of-first-in-human-study-of-graphene-neural-interfaces.md · ID: IS-NEWS-2026-04-20-INBRAIN-COMPLETES-ENROLMENT-OF-FIRST-IN-HUMAN-STUDY-OF-GRAPHENE-NEURAL-INTERFACES =====
 
 ```yaml
@@ -13471,6 +13832,43 @@ disclaimer: meta/IS_META_terms.md
 In a guest post for the Stay Tuned with Preet newsletter, cross-posted to Thinking Freely, Nita Farahany treats repeated leaks from the U.S. Supreme Court as the floor of institutional privacy and an AI developer's decision to withhold a model it said was highly effective at finding exploitable software flaws as the ceiling, arguing that such a capability, if it spread, could expose hospitals, power grids, banks and election systems at once.
 
 She criticises Illinois SB 3444, which she describes as backed by OpenAI, for offering AI companies immunity from civil liability for mass-casualty events if they publish a safety plan and avoid intentional or reckless conduct, and notes that a rival developer opposes it and backs a narrower bill. She argues that lawsuits are how powerful actors have been held to account and that the bill would remove that route before any case is brought.
+
+
+===== FILE: news/IS_NEWS_2026-04-25-analysis-a-proposed-federal-privacy-bill-would-leave-people-less-protected-and-could-wipe-out-stronger.md · ID: IS-NEWS-2026-04-25-ANALYSIS-A-PROPOSED-FEDERAL-PRIVACY-BILL-WOULD-LEAVE-PEOPLE-LESS-PROTECTED-AND-COULD-WIPE-OUT-STRONGER =====
+
+```yaml
+id: IS-NEWS-2026-04-25-ANALYSIS-A-PROPOSED-FEDERAL-PRIVACY-BILL-WOULD-LEAVE-PEOPLE-LESS-PROTECTED-AND-COULD-WIPE-OUT-STRONGER
+slug: 2026-04-25-analysis-a-proposed-federal-privacy-bill-would-leave-people-less-protected-and-could-wipe-out-stronger
+title: A proposed federal privacy bill would leave people less protected and could wipe out stronger state laws
+collection: news
+doc_type: analysis-item
+date: 2026-04-25
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/a-disastrous-federal-privacy-bill
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 18 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A proposed federal privacy bill would leave people less protected and could wipe out stronger state laws
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-04-25. Original: <https://danielsolove.substack.com/p/a-disastrous-federal-privacy-bill>*
+
+Daniel J. Solove argues that the SECURE Data Act, a federal privacy bill drafted by Republicans, would do more harm than good and is closer to an anti-privacy law. He says it copies the weakest state consumer privacy laws and their notice-and-choice model, whose individual rights he regards as an illusion of control, particularly when people cannot foresee what AI will infer. He calls its data minimisation language empty, its data broker rules little more than registration, its duties and governance requirements minimal, and its enforcement weak, with no fines and no private right of action.
+
+His sharpest objection is preemption: he argues the bill's broad "relates to" wording could displace thousands of state laws, including torts, wiretap laws and specific statutes such as Illinois's biometric privacy law, and invite endless litigation. A good federal law, he argues, would make preemption unnecessary.
 
 
 ===== FILE: news/IS_NEWS_2026-04-27-analysis-chile-s-neurorights-leave-data-inferred-from-brain-activity-in-a-legal-gray-zone.md · ID: IS-NEWS-2026-04-27-ANALYSIS-CHILE-S-NEURORIGHTS-LEAVE-DATA-INFERRED-FROM-BRAIN-ACTIVITY-IN-A-LEGAL-GRAY-ZONE =====
@@ -13546,6 +13944,43 @@ The mayor of Arcadia, California, was charged with acting as an illegal agent of
 The mayor agreed to plead guilty to the charge, which carries up to 10 years in prison. Until convicted, the mayor is presumed innocent.
 
 
+===== FILE: news/IS_NEWS_2026-05-15-analysis-pacemaker-data-used-as-evidence-shows-how-personal-devices-let-police-turn-intimate-data.md · ID: IS-NEWS-2026-05-15-ANALYSIS-PACEMAKER-DATA-USED-AS-EVIDENCE-SHOWS-HOW-PERSONAL-DEVICES-LET-POLICE-TURN-INTIMATE-DATA =====
+
+```yaml
+id: IS-NEWS-2026-05-15-ANALYSIS-PACEMAKER-DATA-USED-AS-EVIDENCE-SHOWS-HOW-PERSONAL-DEVICES-LET-POLICE-TURN-INTIMATE-DATA
+slug: 2026-05-15-analysis-pacemaker-data-used-as-evidence-shows-how-personal-devices-let-police-turn-intimate-data
+title: Pacemaker data used as evidence shows how personal devices let police turn intimate data against their users
+collection: news
+doc_type: analysis-item
+date: 2026-05-15
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/your-pacemaker-can-now-testify-against
+archived_url: 
+industry: Biotechnology & health · Government cloud & surveillance technology
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 18 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Pacemaker data used as evidence shows how personal devices let police turn intimate data against their users
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-05-15. Original: <https://danielsolove.substack.com/p/your-pacemaker-can-now-testify-against>*
+
+Daniel J. Solove presents an online conversation with law professor Andrew Guthrie Ferguson about Ferguson's 2026 book on policing in an age of self-surveillance. Solove's framing is that the devices people use gather large amounts of data that is readily available to the government.
+
+He highlights an example Ferguson gives, quoted in the post: a man whose pacemaker data, held by his doctor, was obtained by detectives with a warrant in an arson investigation and contradicted his account. Ferguson argues that the technology is beneficial and the police acted lawfully, yet that intimate data from hearts, wrists, cycle-tracking apps or smart beds should perhaps be beyond police reach even with a warrant, since nearly everything digital passes through a third party. The full discussion is in a video in the post.
+
+
 ===== FILE: news/IS_NEWS_2026-05-20-bronx-man-convicted-of-operating-police-station-for-the.md · ID: IS-NEWS-2026-05-20-BRONX-MAN-CONVICTED-OF-OPERATING-POLICE-STATION-FOR-THE =====
 
 ```yaml
@@ -13580,6 +14015,80 @@ disclaimer: meta/IS_META_terms.md
 A federal jury in Brooklyn convicted a Bronx resident of acting as an illegal agent of China's Ministry of Public Security and of obstruction of justice, the Justice Department says. According to the department, from January 2022 he ran an undeclared police station for the Chinese government in Manhattan's Chinatown, tasked in part with gathering information on political dissidents.
 
 A co-defendant pleaded guilty in December 2024. The convicted man faces up to 30 years in prison at sentencing.
+
+
+===== FILE: news/IS_NEWS_2026-05-22-analysis-minority-report-and-the-case-against-using-ai-to-predict-human-behaviour.md · ID: IS-NEWS-2026-05-22-ANALYSIS-MINORITY-REPORT-AND-THE-CASE-AGAINST-USING-AI-TO-PREDICT-HUMAN-BEHAVIOUR =====
+
+```yaml
+id: IS-NEWS-2026-05-22-ANALYSIS-MINORITY-REPORT-AND-THE-CASE-AGAINST-USING-AI-TO-PREDICT-HUMAN-BEHAVIOUR
+slug: 2026-05-22-analysis-minority-report-and-the-case-against-using-ai-to-predict-human-behaviour
+title: Minority Report and the case against using AI to predict human behaviour
+collection: news
+doc_type: analysis-item
+date: 2026-05-22
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/dangerous-oracles-minority-report
+archived_url: 
+industry: Artificial intelligence
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 18 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Minority Report and the case against using AI to predict human behaviour
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-05-22. Original: <https://danielsolove.substack.com/p/dangerous-oracles-minority-report>*
+
+In an essay in his technology and humanities series, Daniel J. Solove uses Philip K. Dick's 1956 story and the 2002 film Minority Report to argue that AI predictions of human behaviour are deeply problematic. Drawing on an article written with Hideyuki Matsumi, he argues that such predictions are "power dressed up with math", used to shape and control the future rather than to understand it.
+
+He criticises a 2016 Wisconsin Supreme Court decision upholding a sentence informed by an algorithmic recidivism score, arguing that such tools punish people for crimes other people committed. He sets out four problems the co-authored article identifies: predictions fossilise the past, cannot be disproved, remove the feedback needed to check accuracy when acted on in advance, and can fulfil themselves. He cites other scholars who argue that predicting social behaviour is not a solvable technical problem.
+
+
+===== FILE: news/IS_NEWS_2026-05-30-analysis-a-1909-story-about-a-machine-run-society-as-a-warning-about-ai-replacing-first-hand-experience.md · ID: IS-NEWS-2026-05-30-ANALYSIS-A-1909-STORY-ABOUT-A-MACHINE-RUN-SOCIETY-AS-A-WARNING-ABOUT-AI-REPLACING-FIRST-HAND-EXPERIENCE =====
+
+```yaml
+id: IS-NEWS-2026-05-30-ANALYSIS-A-1909-STORY-ABOUT-A-MACHINE-RUN-SOCIETY-AS-A-WARNING-ABOUT-AI-REPLACING-FIRST-HAND-EXPERIENCE
+slug: 2026-05-30-analysis-a-1909-story-about-a-machine-run-society-as-a-warning-about-ai-replacing-first-hand-experience
+title: A 1909 story about a machine-run society as a warning about AI replacing first-hand experience
+collection: news
+doc_type: analysis-item
+date: 2026-05-30
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/a-century-ago-em-forsters-the-machine
+archived_url: 
+industry: Artificial intelligence
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 18 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A 1909 story about a machine-run society as a warning about AI replacing first-hand experience
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-05-30. Original: <https://danielsolove.substack.com/p/a-century-ago-em-forsters-the-machine>*
+
+In his technology and humanities series, Daniel J. Solove argues that E.M. Forster's 1909 story "The Machine Stops", in which isolated people live underground and communicate through screens, anticipated how AI and digital technology are hollowing out human experience. He links the story's acceptance of something "good enough" to AI output that reads smoothly but is often hollow or wrong.
+
+He argues that AI summaries in search are turning the internet from a place of first-hand discovery into reconstituted second-hand material, cutting traffic to the creators whose work it draws on, and cites a columnist's account of falling traffic. Citing the scholars Woodrow Hartzog and Jessica Silbey, he argues that AI is shifting from a tool that helps people to one that replaces them and weakens institutions.
 
 
 ===== FILE: news/IS_NEWS_2026-06-01-ice-to-spend-25m-on-iris-recognition.md · ID: IS-NEWS-2026-06-01-ICE-TO-SPEND-25M-ON-IRIS-RECOGNITION =====
@@ -13618,6 +14127,43 @@ Immigration and Customs Enforcement awarded BI2 Technologies a $25 million contr
 House Democrats have criticized mobile biometric collection, and the DHS Inspector General is auditing how the agency collects and shares this data.
 
 
+===== FILE: news/IS_NEWS_2026-06-02-analysis-state-consumer-privacy-laws-are-being-weakened-by-industry-lobbying-with-vermont-as-the-latest.md · ID: IS-NEWS-2026-06-02-ANALYSIS-STATE-CONSUMER-PRIVACY-LAWS-ARE-BEING-WEAKENED-BY-INDUSTRY-LOBBYING-WITH-VERMONT-AS-THE-LATEST =====
+
+```yaml
+id: IS-NEWS-2026-06-02-ANALYSIS-STATE-CONSUMER-PRIVACY-LAWS-ARE-BEING-WEAKENED-BY-INDUSTRY-LOBBYING-WITH-VERMONT-AS-THE-LATEST
+slug: 2026-06-02-analysis-state-consumer-privacy-laws-are-being-weakened-by-industry-lobbying-with-vermont-as-the-latest
+title: State consumer privacy laws are being weakened by industry lobbying, with Vermont as the latest example
+collection: news
+doc_type: analysis-item
+date: 2026-06-02
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/state-consumer-privacy-laws-are-being
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 18 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# State consumer privacy laws are being weakened by industry lobbying, with Vermont as the latest example
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-06-02. Original: <https://danielsolove.substack.com/p/state-consumer-privacy-laws-are-being>*
+
+Daniel J. Solove argues that the U.S. state consumer privacy laws passed since 2018, now in roughly half the states, are mostly poor, grading most a D or F, and blames industry lobbying that followed California's law. He describes a weak Virginia law becoming the template other states copied, and this year's laws in Alabama, Oklahoma and Louisiana as very weak.
+
+He calls Vermont's case a tragedy: a strong earlier bill with a private right of action was vetoed, and a later version was weakened so much that its lead sponsor voted against it, describing a lobbying playbook that he quotes. He argues the laws are toothless, lack private rights of action, rely on rarely used individual rights, contain hollow duties outside Maryland and repackage notice and choice, and that policymakers too readily accept industry's appeals to innovation.
+
+
 ===== FILE: news/IS_NEWS_2026-06-04-american-citizen-pleads-guilty-to-working-as-an-agent-for.md · ID: IS-NEWS-2026-06-04-AMERICAN-CITIZEN-PLEADS-GUILTY-TO-WORKING-AS-AN-AGENT-FOR =====
 
 ```yaml
@@ -13652,6 +14198,43 @@ disclaimer: meta/IS_META_terms.md
 An American citizen pleaded guilty to acting as an agent of China's Ministry of State Security without notifying the U.S. government, the Justice Department says. According to the department, from 2019 to February 2026 he worked his way into U.S. political circles, recruited intelligence sources and passed sensitive information to his handlers, for more than $100,000.
 
 The charge carries up to 10 years in prison. Sentencing was set for 1 September 2026.
+
+
+===== FILE: news/IS_NEWS_2026-06-06-analysis-orwell-or-huxley-both-dystopias-describe-today-s-world-but-neither-foresaw-the-role-of.md · ID: IS-NEWS-2026-06-06-ANALYSIS-ORWELL-OR-HUXLEY-BOTH-DYSTOPIAS-DESCRIBE-TODAY-S-WORLD-BUT-NEITHER-FORESAW-THE-ROLE-OF =====
+
+```yaml
+id: IS-NEWS-2026-06-06-ANALYSIS-ORWELL-OR-HUXLEY-BOTH-DYSTOPIAS-DESCRIBE-TODAY-S-WORLD-BUT-NEITHER-FORESAW-THE-ROLE-OF
+slug: 2026-06-06-analysis-orwell-or-huxley-both-dystopias-describe-today-s-world-but-neither-foresaw-the-role-of
+title: Orwell or Huxley: both dystopias describe today's world, but neither foresaw the role of corporations
+collection: news
+doc_type: analysis-item
+date: 2026-06-06
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office: 
+url: https://danielsolove.substack.com/p/orwell-vs-huxley-which-dystopia-was
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill, 18 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Orwell or Huxley: both dystopias describe today's world, but neither foresaw the role of corporations
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-06-06. Original: <https://danielsolove.substack.com/p/orwell-vs-huxley-which-dystopia-was>*
+
+In his technology and humanities series, Daniel J. Solove revisits the debate over whether George Orwell's Nineteen Eighty-Four, with its surveillance and terror, or Aldous Huxley's Brave New World, with its control through pleasure and manipulation, was more prophetic. He sets out each author's comments on the other, including Huxley's 1949 letter predicting that rulers would prefer conditioning to force, and Neil Postman's argument that Huxley was right.
+
+Solove concludes that both were right: people live in a surveillance society they embrace because it pleases them, under governments and companies that manipulate them. He argues that the core element the two share is the suppression of independent thought, and that both missed the private sector, which he says amplifies government power and exercises its own, echoing his argument that surveillance capitalism and government surveillance must be regulated together.
 
 
 ===== FILE: news/IS_NEWS_2026-06-15-aws-secures-2-6b-dhs-wide-cumulus-cloud-project.md · ID: IS-NEWS-2026-06-15-AWS-SECURES-2-6B-DHS-WIDE-CUMULUS-CLOUD-PROJECT =====
@@ -13868,6 +14451,42 @@ disclaimer: meta/IS_META_terms.md
 Law.com reports that eBay and former eBay executives settled a Massachusetts couple's harassment and cyberstalking suit for $55.7 million. The couple ran a website that covered eBay. In 2019, eBay employees targeted them with threatening messages, disturbing deliveries and surveillance.
 
 Seven former employees had already pleaded guilty to criminal charges over the campaign.
+
+
+===== FILE: news/IS_NEWS_2026-07-29-dhs-human-trafficking-arrests-and-rescues-during-the-world-cup.md · ID: IS-NEWS-2026-07-29-DHS-HUMAN-TRAFFICKING-ARRESTS-AND-RESCUES-DURING-THE-WORLD-CUP =====
+
+```yaml
+id: IS-NEWS-2026-07-29-DHS-HUMAN-TRAFFICKING-ARRESTS-AND-RESCUES-DURING-THE-WORLD-CUP
+slug: 2026-07-29-dhs-human-trafficking-arrests-and-rescues-during-the-world-cup
+title: DHS release: DHS Highlights Successful Arrests and Rescues in Crackdown on Human Trafficking During FIFA World Cup
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-07-29
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/07/29/dhs-highlights-successful-arrests-and-rescues-crackdown-human-trafficking-during
+archived_url: 
+industry: 
+event: Reports & statistics
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), Sean, 18 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: DHS Highlights Successful Arrests and Rescues in Crackdown on Human Trafficking During FIFA World Cup
+
+*U.S. Department of Homeland Security, 2026-07-29. Original: <https://www.dhs.gov/news/2026/07/29/dhs-highlights-successful-arrests-and-rescues-crackdown-human-trafficking-during>*
+
+The Department of Homeland Security reported on 29 July 2026 that operations against human trafficking during the 2026 FIFA World Cup, led by Homeland Security Investigations and the DHS Center for Countering Human Trafficking with federal, state and local partners, led to the arrest of 905 suspects and the rescue of 180 victims: 150 adults and 30 children.
+
+The figures are the department's own count across the tournament's host cities. An arrest is not a conviction: every person arrested is presumed innocent unless proven guilty in court.
 
 
 ===== FILE: news/IS_NEWS_2026-08-18-fbi-violent-crime-drop-in-2025.md · ID: IS-NEWS-2026-08-18-FBI-VIOLENT-CRIME-DROP-IN-2025 =====
@@ -22766,6 +23385,80 @@ California's Attorney General says his office has sued OpenAI in San Francisco S
 The office says the company has acknowledged losing control of its autonomous agents at least 80 times during testing, alleges later incidents reached databases, websites, government databases holding health information and the company's own systems, and alleges the company misled the public about how tightly testing was controlled. The suit follows an investigation announced in September and a subpoena; these are allegations in a civil complaint and no court has ruled on them.
 
 
+===== FILE: news/IS_NEWS_2026-11-16-chinese-state-science-paper-says-a-brain-implant-maker-tested-its-fully-implanted-wireless-system-with-paraly.md · ID: IS-NEWS-2026-11-16-CHINESE-STATE-SCIENCE-PAPER-SAYS-A-BRAIN-IMPLANT-MAKER-TESTED-ITS-FULLY-IMPLANTED-WIRELESS-SYSTEM-WITH-PARALY =====
+
+```yaml
+id: IS-NEWS-2026-11-16-CHINESE-STATE-SCIENCE-PAPER-SAYS-A-BRAIN-IMPLANT-MAKER-TESTED-ITS-FULLY-IMPLANTED-WIRELESS-SYSTEM-WITH-PARALY
+slug: 2026-11-16-chinese-state-science-paper-says-a-brain-implant-maker-tested-its-fully-implanted-wireless-system-with-paraly
+title: Chinese state science paper says a brain-implant maker tested its fully implanted wireless system with paralysed users in a mock everyday-life site
+title_original: 脑机接口新场景，我科研团队打造“模拟人生”未来试验场
+title_language: Chinese
+collection: news
+doc_type: news-item
+date: 2026-11-16
+date_precision: day
+publisher: Science and Technology Daily (state media)
+source_type: News
+issuing_office: 
+url: https://www.stdaily.com/web/gdxw/2026-11/16/content_613749.html
+archived_url: 
+industry: Neurotechnology
+event: Research & breakthroughs
+country: China
+stage: 
+related: 
+summary_status: draft
+found_via: web search (Simplified Chinese, brain-computer interfaces, 15-18 Nov 2026 window); state media: all figures are the company's as relayed; an 84 per cent task-completion figure in other coverage could not be confirmed and is left out; title translated and reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Chinese state science paper says a brain-implant maker tested its fully implanted wireless system with paralysed users in a mock everyday-life site
+
+*Science and Technology Daily (state media), 2026-11-16. Original, in Chinese: <https://www.stdaily.com/web/gdxw/2026-11/16/content_613749.html>. Title translated from the Chinese.*
+
+Science and Technology Daily, a Chinese state newspaper, reports that the brain-computer interface company NeuroXess has built a 'Simulated Life' test site where people with high-level paralysis using its fully implanted, fully wireless system carry out continuous tasks in four settings: getting around, home, social life and work.
+
+According to the paper, the company says the delay from neural signal to control output is under 50 milliseconds, that training time for a new task fell from 10.5 hours to 2, and that the site can train 20 people at once and will gather about 18,000 hours of interaction data a year. These are the company's figures as relayed by state media and have not been independently verified. (Summary translated from the Chinese.)
+
+
+===== FILE: news/IS_NEWS_2026-11-16-dutch-digital-infrastructure-inspectorate-investigates-gps-disruption-reported-by-seven-aircraft.md · ID: IS-NEWS-2026-11-16-DUTCH-DIGITAL-INFRASTRUCTURE-INSPECTORATE-INVESTIGATES-GPS-DISRUPTION-REPORTED-BY-SEVEN-AIRCRAFT =====
+
+```yaml
+id: IS-NEWS-2026-11-16-DUTCH-DIGITAL-INFRASTRUCTURE-INSPECTORATE-INVESTIGATES-GPS-DISRUPTION-REPORTED-BY-SEVEN-AIRCRAFT
+slug: 2026-11-16-dutch-digital-infrastructure-inspectorate-investigates-gps-disruption-reported-by-seven-aircraft
+title: Dutch digital-infrastructure inspectorate investigates GPS disruption reported by seven aircraft
+title_original: Ministerie: Zeven vliegtuigen meldden storing van gps-signaal
+title_language: Dutch
+collection: news
+doc_type: news-item
+date: 2026-11-16
+date_precision: day
+publisher: Reformatorisch Dagblad (ANP)
+source_type: News
+issuing_office: 
+url: https://www.rd.nl/artikel/ministerie-zeven-vliegtuigen-meldden-storing-van-gps-signaal-1
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Outages & disruptions
+country: Netherlands
+stage: 
+related: 
+summary_status: draft
+found_via: web search (Dutch, aviation and navigation disruptions, 15-18 Nov 2026 window); ANP copy; reports elsewhere of naval ships nearby are not an official finding and are left out; title translated and reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Dutch digital-infrastructure inspectorate investigates GPS disruption reported by seven aircraft
+
+*Reformatorisch Dagblad (ANP), 2026-11-16. Original, in Dutch: <https://www.rd.nl/artikel/ministerie-zeven-vliegtuigen-meldden-storing-van-gps-signaal-1>. Title translated from the Dutch.*
+
+The Dutch news agency ANP, as carried by Reformatorisch Dagblad, reports that the infrastructure ministry says seven aircraft reported a disrupted GPS signal on 9 November between 18:15 and 18:30, and that safety was not compromised because the aircraft had backup navigation systems.
+
+According to the report, the ministry gives no cause and says the Dutch Authority for Digital Infrastructure (RDI) is investigating, and it will not comment further while that continues. ANP reports that NRC quoted an air-traffic-control spokesperson as calling a deliberate act plausible; no official finding on the cause has been made. (Summary translated from the Dutch.)
+
+
 ===== FILE: news/IS_NEWS_2026-11-16-exile-outlet-reports-a-former-revolutionary-guards-official-saying-israeli-intelligence-infiltrated-irans-inst.md · ID: IS-NEWS-2026-11-16-EXILE-OUTLET-REPORTS-A-FORMER-REVOLUTIONARY-GUARDS-OFFICIAL-SAYING-ISRAELI-INTELLIGENCE-INFILTRATED-IRANS-INST =====
 
 ```yaml
@@ -23062,6 +23755,80 @@ LB.ua, citing Ukraine's Security Service (SBU), reports that a court sentenced a
 The SBU says he was recruited through an acquaintance in occupied Tokmak who put him in contact with an FSB military counterintelligence officer, and that he was exposed in August 2025. The account is the security service's; the court is not named in the report. (Summary translated from the Ukrainian.)
 
 
+===== FILE: news/IS_NEWS_2026-11-17-canadas-house-of-commons-advances-a-bill-to-allow-advance-requests-for-assisted-dying-and-keep-mental-illness.md · ID: IS-NEWS-2026-11-17-CANADAS-HOUSE-OF-COMMONS-ADVANCES-A-BILL-TO-ALLOW-ADVANCE-REQUESTS-FOR-ASSISTED-DYING-AND-KEEP-MENTAL-ILLNESS =====
+
+```yaml
+id: IS-NEWS-2026-11-17-CANADAS-HOUSE-OF-COMMONS-ADVANCES-A-BILL-TO-ALLOW-ADVANCE-REQUESTS-FOR-ASSISTED-DYING-AND-KEEP-MENTAL-ILLNESS
+slug: 2026-11-17-canadas-house-of-commons-advances-a-bill-to-allow-advance-requests-for-assisted-dying-and-keep-mental-illness
+title: Canada's House of Commons advances a bill to allow advance requests for assisted dying and keep mental illness alone excluded
+title_original: 
+title_language: 
+collection: news
+doc_type: news-item
+date: 2026-11-17
+date_precision: day
+publisher: The Canadian Press, via CHAT News Today
+source_type: News
+issuing_office: 
+url: https://chatnewstoday.ca/2026/11/17/liberals-limit-debate-on-assisted-dying-bill-as-conservatives-call-for-changes/
+archived_url: 
+industry: Biotechnology & health
+event: Regulation & law
+country: Canada
+stage: 
+related: 
+summary_status: draft
+found_via: web search (English, assisted dying laws, 15-18 Nov 2026 window); the same Canadian Press story is carried by CTV News; title reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Canada's House of Commons advances a bill to allow advance requests for assisted dying and keep mental illness alone excluded
+
+*The Canadian Press, via CHAT News Today, 2026-11-17. Original: <https://chatnewstoday.ca/2026/11/17/liberals-limit-debate-on-assisted-dying-bill-as-conservatives-call-for-changes/>*
+
+The Canadian Press reports that Bill C-41, which would change Canada's medical assistance in dying law, passed second reading in the House of Commons by 225 votes to 89 on 17 November, after the government limited debate, and went to the Commons justice committee. According to the report, the bill would allow advance requests for assisted dying for conditions such as dementia, and would stop the scheduled extension of eligibility to people whose only condition is a mental illness.
+
+The Canadian Press reports that the bill must pass both houses before 17 March, and that Conservative members asked for it to be split into two bills.
+
+
+===== FILE: news/IS_NEWS_2026-11-17-japans-communications-minister-calls-three-nationwide-5g-outages-at-a-major-carrier-in-one-month-very-regrett.md · ID: IS-NEWS-2026-11-17-JAPANS-COMMUNICATIONS-MINISTER-CALLS-THREE-NATIONWIDE-5G-OUTAGES-AT-A-MAJOR-CARRIER-IN-ONE-MONTH-VERY-REGRETT =====
+
+```yaml
+id: IS-NEWS-2026-11-17-JAPANS-COMMUNICATIONS-MINISTER-CALLS-THREE-NATIONWIDE-5G-OUTAGES-AT-A-MAJOR-CARRIER-IN-ONE-MONTH-VERY-REGRETT
+slug: 2026-11-17-japans-communications-minister-calls-three-nationwide-5g-outages-at-a-major-carrier-in-one-month-very-regrett
+title: Japan's communications minister calls three nationwide 5G outages at a major carrier in one month very regrettable and asks for the root cause
+title_original: ドコモ3度の通信障害「大変遺憾」と総務相 「構造的な課題、洗い出し求める」
+title_language: Japanese
+collection: news
+doc_type: news-item
+date: 2026-11-17
+date_precision: day
+publisher: ITmedia NEWS
+source_type: Trade press
+issuing_office: 
+url: https://www.itmedia.co.jp/news/article/2611/17/2000003261/
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Outages & disruptions
+country: Japan
+stage: 
+related: 
+summary_status: draft
+found_via: web search (Japanese, telecom outages, 15-18 Nov 2026 window); the carrier's statement that it found no sign of a cyberattack is reported by ITmedia Mobile, not by this article; title translated and reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Japan's communications minister calls three nationwide 5G outages at a major carrier in one month very regrettable and asks for the root cause
+
+*ITmedia NEWS, 2026-11-17. Original, in Japanese: <https://www.itmedia.co.jp/news/article/2611/17/2000003261/>. Title translated from the Japanese.*
+
+ITmedia reports that Japan's Minister for Internal Affairs and Communications called three nationwide outages of NTT Docomo's 5G standalone service very regrettable at a press conference on 17 November. According to the report, the outages lasted about 14 hours on 5 November, about 9 hours on 11 November and about 6 hours on 16 November, and Docomo attributes them to traffic concentrating on the exchange that serves its 5G standalone subscribers.
+
+The ministry asked the carrier to identify the root cause, how the three incidents relate and the structural problems in its risk management, and says it will act under the relevant laws once Docomo reports. ITmedia's sister site reports that Docomo found no sign of unauthorised access or a cyberattack. (Summary translated from the Japanese.)
+
+
 ===== FILE: news/IS_NEWS_2026-11-17-japans-governing-party-begins-work-on-a-bill-to-fit-gps-devices-to-serious-stalking-offenders.md · ID: IS-NEWS-2026-11-17-JAPANS-GOVERNING-PARTY-BEGINS-WORK-ON-A-BILL-TO-FIT-GPS-DEVICES-TO-SERIOUS-STALKING-OFFENDERS =====
 
 ```yaml
@@ -23099,6 +23866,265 @@ KAB reports that the Liberal Democratic Party's headquarters on security, terror
 The report says stalking arrests in Japan are at a record level, and that the party aims to submit the bill to next year's ordinary Diet session after hearing from a government expert panel this month. (Summary translated from the Japanese.)
 
 
+===== FILE: news/IS_NEWS_2026-11-17-north-dakota-city-denies-wrongdoing-over-a-months-long-detention-based-on-a-false-facial-recognition-match-bu.md · ID: IS-NEWS-2026-11-17-NORTH-DAKOTA-CITY-DENIES-WRONGDOING-OVER-A-MONTHS-LONG-DETENTION-BASED-ON-A-FALSE-FACIAL-RECOGNITION-MATCH-BU =====
+
+```yaml
+id: IS-NEWS-2026-11-17-NORTH-DAKOTA-CITY-DENIES-WRONGDOING-OVER-A-MONTHS-LONG-DETENTION-BASED-ON-A-FALSE-FACIAL-RECOGNITION-MATCH-BU
+slug: 2026-11-17-north-dakota-city-denies-wrongdoing-over-a-months-long-detention-based-on-a-false-facial-recognition-match-bu
+title: North Dakota city denies wrongdoing over a months-long detention based on a false facial-recognition match, but says its police had no written policy or training for the tool
+title_original: 
+title_language: 
+collection: news
+doc_type: news-item
+date: 2026-11-17
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202611/police-deny-legal-wrongdoing-in-arrest-prompted-by-false-facial-recognition-match
+archived_url: 
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: web search (English, facial recognition and wrongful arrest, 15-18 Nov 2026 window); title reworded; the plaintiff, a private person, and the detective are not named
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# North Dakota city denies wrongdoing over a months-long detention based on a false facial-recognition match, but says its police had no written policy or training for the tool
+
+*Biometric Update, 2026-11-17. Original: <https://www.biometricupdate.com/202611/police-deny-legal-wrongdoing-in-arrest-prompted-by-false-facial-recognition-match>*
+
+Biometric Update reports on the answer filed by the City of Fargo, North Dakota, and one of its police detectives to a $10 million lawsuit brought by a Tennessee woman who was arrested in 2025, taken to North Dakota and held for six months on a bank theft charge that was later dismissed. According to the report, the warrant rested on a facial-recognition match passed on by police in neighbouring West Fargo; Fargo police do not run their own facial-recognition software.
+
+The report says the defendants accept that the arrest may have been wrong but deny breaking the law or violating her constitutional rights, deny treating results as positive identifications, and claim qualified immunity. Biometric Update reports that the filing acknowledges Fargo police had no formal written policy governing facial recognition and gave no in-house training on its use. The court has not ruled on the claims.
+
+
+===== FILE: news/IS_NEWS_2026-11-17-north-macedonias-security-agency-says-it-broke-up-a-network-preparing-an-assassination-in-greece-on-the-order.md · ID: IS-NEWS-2026-11-17-NORTH-MACEDONIAS-SECURITY-AGENCY-SAYS-IT-BROKE-UP-A-NETWORK-PREPARING-AN-ASSASSINATION-IN-GREECE-ON-THE-ORDER =====
+
+```yaml
+id: IS-NEWS-2026-11-17-NORTH-MACEDONIAS-SECURITY-AGENCY-SAYS-IT-BROKE-UP-A-NETWORK-PREPARING-AN-ASSASSINATION-IN-GREECE-ON-THE-ORDER
+slug: 2026-11-17-north-macedonias-security-agency-says-it-broke-up-a-network-preparing-an-assassination-in-greece-on-the-order
+title: North Macedonia's security agency says it broke up a network preparing an assassination in Greece on the orders of a collaborator of Iran's security services
+title_original: مقدونیه شمالی طرح ترور در یونان را خنثی و شبکه عوامل نیابتی جمهوری اسلامی را متلاشی کرد
+title_language: Persian
+collection: news
+doc_type: news-item
+date: 2026-11-17
+date_precision: day
+publisher: Iran International
+source_type: News
+issuing_office: 
+url: https://www.iranintl.com/202611179799
+archived_url: 
+industry: 
+event: Murder for hire & violent plots
+country: North Macedonia
+stage: arrested
+related: 
+summary_status: draft
+found_via: web search (Persian, Iranian plots abroad, 15-18 Nov 2026 window); Iran International is a Persian-language outlet based abroad; it cites North Macedonia's security agency and Kathimerini; title translated and reworded, no one named
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# North Macedonia's security agency says it broke up a network preparing an assassination in Greece on the orders of a collaborator of Iran's security services
+
+*Iran International, 2026-11-17. Original, in Persian: <https://www.iranintl.com/202611179799>. Title translated from the Persian.*
+
+Iran International, a Persian-language outlet based abroad, reports that North Macedonia's National Security Agency says a network was preparing a terrorist act or targeted assassination in Greece on the direct order of an Iranian national it describes as a collaborator of Iran's security services. According to the report, five North Macedonian citizens were detained, one of them after being expelled from Greece and one placed under house arrest, a sixth is sought, and weapons and a marked map were seized in cooperation with Greece's intelligence service.
+
+Citing the Greek newspaper Kathimerini, the outlet reports that the apparent target was the Israeli director of a company in Greece. The suspects have not been tried and are presumed innocent. (Summary translated from the Persian.)
+
+
+===== FILE: news/IS_NEWS_2026-11-17-oregons-attorney-general-sues-an-ai-developer-for-about-2-billion-alleging-it-misrepresented-its-chatbots-saf.md · ID: IS-NEWS-2026-11-17-OREGONS-ATTORNEY-GENERAL-SUES-AN-AI-DEVELOPER-FOR-ABOUT-2-BILLION-ALLEGING-IT-MISREPRESENTED-ITS-CHATBOTS-SAF =====
+
+```yaml
+id: IS-NEWS-2026-11-17-OREGONS-ATTORNEY-GENERAL-SUES-AN-AI-DEVELOPER-FOR-ABOUT-2-BILLION-ALLEGING-IT-MISREPRESENTED-ITS-CHATBOTS-SAF
+slug: 2026-11-17-oregons-attorney-general-sues-an-ai-developer-for-about-2-billion-alleging-it-misrepresented-its-chatbots-saf
+title: Oregon's attorney general sues an AI developer for about $2 billion, alleging it misrepresented its chatbot's safety for children
+title_original: 
+title_language: 
+collection: news
+doc_type: news-item
+date: 2026-11-17
+date_precision: day
+publisher: Oregon Department of Justice
+source_type: Official
+issuing_office: 
+url: https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-files-2b-lawsuit-against-open-ai-launches-keeping-kids-safe-initiative/
+archived_url: 
+industry: Artificial intelligence
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: web search (English, state attorneys general and AI, 15-18 Nov 2026 window); the department's own release; title reworded, the attorney general not named
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Oregon's attorney general sues an AI developer for about $2 billion, alleging it misrepresented its chatbot's safety for children
+
+*Oregon Department of Justice, 2026-11-17. Original: <https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-files-2b-lawsuit-against-open-ai-launches-keeping-kids-safe-initiative/>*
+
+Oregon's Department of Justice reports that the state has sued OpenAI in Multnomah County Circuit Court under the Unlawful Trade Practices Act, with further claims of negligence, unfair profiteering and public nuisance, and launched a 'Keeping Kids Safe' initiative. The state alleges that the company misrepresented ChatGPT's safety for minors and marketed it unfairly to children and teenagers.
+
+According to the release, the state seeks $2.035 billion and an injunction. These are allegations in a civil complaint and no court has ruled on them.
+
+
+===== FILE: news/IS_NEWS_2026-11-17-polands-data-protection-authority-fines-a-non-public-school-for-camera-monitoring-in-classrooms-and-a-gym.md · ID: IS-NEWS-2026-11-17-POLANDS-DATA-PROTECTION-AUTHORITY-FINES-A-NON-PUBLIC-SCHOOL-FOR-CAMERA-MONITORING-IN-CLASSROOMS-AND-A-GYM =====
+
+```yaml
+id: IS-NEWS-2026-11-17-POLANDS-DATA-PROTECTION-AUTHORITY-FINES-A-NON-PUBLIC-SCHOOL-FOR-CAMERA-MONITORING-IN-CLASSROOMS-AND-A-GYM
+slug: 2026-11-17-polands-data-protection-authority-fines-a-non-public-school-for-camera-monitoring-in-classrooms-and-a-gym
+title: Poland's data-protection authority fines a non-public school for camera monitoring in classrooms and a gym
+title_original: UODO: szkoła niepubliczna nie miała podstaw do monitorowania uczniów podczas lekcji
+title_language: Polish
+collection: news
+doc_type: news-item
+date: 2026-11-17
+date_precision: day
+publisher: Prawo.pl
+source_type: Trade press
+issuing_office: 
+url: https://www.prawo.pl/szkoly-i-uczelnie/uodo-szkola-ukarana-za-monitoring-w-salach-lekcyjnych,1557823.html
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Regulation & law
+country: Poland
+stage: 
+related: 
+summary_status: draft
+found_via: web search (Polish, data-protection authorities and surveillance in schools, 15-18 Nov 2026 window); the school is not named; title translated and reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Poland's data-protection authority fines a non-public school for camera monitoring in classrooms and a gym
+
+*Prawo.pl, 2026-11-17. Original, in Polish: <https://www.prawo.pl/szkoly-i-uczelnie/uodo-szkola-ukarana-za-monitoring-w-salach-lekcyjnych,1557823.html>. Title translated from the Polish.*
+
+Prawo.pl reports that Poland's data-protection authority, UODO, found that a non-public school had no legal basis for video monitoring of two classrooms and a gym, fined it 52,511 zloty and ordered the monitoring stopped within 14 days. According to the report, the authority held that the provision of education law that allows monitoring in schools applies only to public schools.
+
+The school also received reprimands over a data-processing contract and its records. Prawo.pl reports that the decision is not yet final. (Summary translated from the Polish.)
+
+
+===== FILE: news/IS_NEWS_2026-11-17-taiwan-prosecutors-charge-three-private-investigators-accused-of-tracking-two-anti-china-online-commentators.md · ID: IS-NEWS-2026-11-17-TAIWAN-PROSECUTORS-CHARGE-THREE-PRIVATE-INVESTIGATORS-ACCUSED-OF-TRACKING-TWO-ANTI-CHINA-ONLINE-COMMENTATORS =====
+
+```yaml
+id: IS-NEWS-2026-11-17-TAIWAN-PROSECUTORS-CHARGE-THREE-PRIVATE-INVESTIGATORS-ACCUSED-OF-TRACKING-TWO-ANTI-CHINA-ONLINE-COMMENTATORS
+slug: 2026-11-17-taiwan-prosecutors-charge-three-private-investigators-accused-of-tracking-two-anti-china-online-commentators
+title: Taiwan prosecutors charge three private investigators accused of tracking two anti-China online commentators and their relatives for Chinese police
+title_original: 受中國委託跟監網紅八炯、閩南狼 3徵信社業者遭檢方起訴
+title_language: Chinese
+collection: news
+doc_type: news-item
+date: 2026-11-17
+date_precision: day
+publisher: Public Television Service (PTS)
+source_type: News
+issuing_office: 
+url: https://news.pts.org.tw/article/836077
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Transnational repression
+country: Taiwan
+stage: charged
+related: 
+summary_status: draft
+found_via: web search (Traditional Chinese, transnational repression, 15-18 Nov 2026 window); also reported in English by Focus Taiwan (CNA), 17 Nov; title translated and reworded, the commentators' online names and the defendants' names left out
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Taiwan prosecutors charge three private investigators accused of tracking two anti-China online commentators and their relatives for Chinese police
+
+*Public Television Service (PTS), 2026-11-17. Original, in Chinese: <https://news.pts.org.tw/article/836077>. Title translated from the Chinese.*
+
+Taiwan's Public Television Service reports that the New Taipei District Prosecutors Office has charged the business manager of a private investigation firm and two of its field staff under the Personal Data Protection Act. Prosecutors allege that the manager met a Shanghai public security official in China in March 2025, then took paid work from a contact described as sent by the Chinese Communist Party, used household-registration data bought in 2020 to look up seven people, including two online commentators critical of China and their relatives, and sent staff to photograph the two at rallies in 2025.
+
+According to the report, China's Taiwan Affairs Office and police in Quanzhou later issued a bounty notice publishing the pair's personal details. Prosecutors asked for a sentence of three years and six months for the manager. These are charges; no verdict has been given and the three are presumed innocent. (Summary translated from the Chinese.)
+
+
+===== FILE: news/IS_NEWS_2026-11-17-turkish-court-remands-14-of-79-people-detained-in-a-42-province-operation-against-the-theft-and-sale-of-perso.md · ID: IS-NEWS-2026-11-17-TURKISH-COURT-REMANDS-14-OF-79-PEOPLE-DETAINED-IN-A-42-PROVINCE-OPERATION-AGAINST-THE-THEFT-AND-SALE-OF-PERSO =====
+
+```yaml
+id: IS-NEWS-2026-11-17-TURKISH-COURT-REMANDS-14-OF-79-PEOPLE-DETAINED-IN-A-42-PROVINCE-OPERATION-AGAINST-THE-THEFT-AND-SALE-OF-PERSO
+slug: 2026-11-17-turkish-court-remands-14-of-79-people-detained-in-a-42-province-operation-against-the-theft-and-sale-of-perso
+title: Turkish court remands 14 of 79 people detained in a 42-province operation against the theft and sale of personal data
+title_original: 42 ilde kişisel veri operasyonu: 14 tutuklama
+title_language: Turkish
+collection: news
+doc_type: news-item
+date: 2026-11-17
+date_precision: day
+publisher: Sivas Ekspres, carrying Anadolu Agency (state media)
+source_type: News
+issuing_office: 
+url: https://www.sivasekspres.com/haber/42-ilde-kisisel-veri-operasyonu-14-tutuklama-100618.html
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Courts & litigation
+country: Turkey
+stage: arrested/charged
+related: 
+summary_status: draft
+found_via: web search (Turkish, illegal data-lookup panels, 15-18 Nov 2026 window); state media: Anadolu Agency copy carried by a regional paper, all claims attributed; the raids were on 13 Nov (Evrensel); title translated
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Turkish court remands 14 of 79 people detained in a 42-province operation against the theft and sale of personal data
+
+*Sivas Ekspres, carrying Anadolu Agency (state media), 2026-11-17. Original, in Turkish: <https://www.sivasekspres.com/haber/42-ilde-kisisel-veri-operasyonu-14-tutuklama-100618.html>. Title translated from the Turkish.*
+
+Anadolu Agency, Turkey's state news agency, as carried by Sivas Ekspres, reports that police cyber-crime units working under the Istanbul Chief Public Prosecutor's Office detained 79 people in 42 provinces on suspicion of obtaining personal and financial data without authorisation and selling it, with the data allegedly used for threats, blackmail and card fraud. The agency reports that an AI-assisted application was used in the investigation.
+
+According to the report, of 50 suspects brought before a court, 14 were remanded in custody and 36 released under judicial control. The claims are the authorities' as relayed by state media, and the suspects are presumed innocent. (Summary translated from the Turkish.)
+
+
+===== FILE: news/IS_NEWS_2026-11-17-uk-health-minister-says-the-nhs-national-data-platform-contract-will-run-to-2029-rather-than-ending-at-the-20.md · ID: IS-NEWS-2026-11-17-UK-HEALTH-MINISTER-SAYS-THE-NHS-NATIONAL-DATA-PLATFORM-CONTRACT-WILL-RUN-TO-2029-RATHER-THAN-ENDING-AT-THE-20 =====
+
+```yaml
+id: IS-NEWS-2026-11-17-UK-HEALTH-MINISTER-SAYS-THE-NHS-NATIONAL-DATA-PLATFORM-CONTRACT-WILL-RUN-TO-2029-RATHER-THAN-ENDING-AT-THE-20
+slug: 2026-11-17-uk-health-minister-says-the-nhs-national-data-platform-contract-will-run-to-2029-rather-than-ending-at-the-20
+title: UK health minister says the NHS national data-platform contract will run to 2029 rather than ending at the 2027 break clause
+title_original: 
+title_language: 
+collection: news
+doc_type: news-item
+date: 2026-11-17
+date_precision: day
+publisher: Dataconomy
+source_type: Trade press
+issuing_office: 
+url: https://dataconomy.com/2026/11/17/uk-to-end-palantirs-nhs-data-contract-in-2029/
+archived_url: 
+industry: Biotechnology & health · Government cloud & surveillance technology
+event: Contracts & deployments
+country: United Kingdom
+stage: 
+related: 
+summary_status: draft
+found_via: web search (English, health data platforms, 15-18 Nov 2026 window); based on a Computer Weekly report, which returned 403 to automated checks; title reworded, the company and the minister not named in the title
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# UK health minister says the NHS national data-platform contract will run to 2029 rather than ending at the 2027 break clause
+
+*Dataconomy, 2026-11-17. Original: <https://dataconomy.com/2026/11/17/uk-to-end-palantirs-nhs-data-contract-in-2029/>*
+
+Dataconomy reports that a UK health minister told MPs that the NHS Federated Data Platform contract with Palantir would be extended to March 2029 instead of being ended at the spring 2027 break clause, with a procurement for a replacement to start in late 2027. According to the report, the minister described the extension as a bridge, not the destination.
+
+Dataconomy reports that the chair of the Commons science committee called the decision deeply disappointing and that campaign groups had urged the government to end the contract. It also reports that NHS England removed a claim that 137 trusts were benefiting from the platform after data showed 29 rarely or never used it.
+
+
 ===== FILE: news/IS_NEWS_2026-11-17-un-crime-agency-and-interpol-report-warns-that-coercive-neural-lie-detection-and-neurotechnology-in-interrogat.md · ID: IS-NEWS-2026-11-17-UN-CRIME-AGENCY-AND-INTERPOL-REPORT-WARNS-THAT-COERCIVE-NEURAL-LIE-DETECTION-AND-NEUROTECHNOLOGY-IN-INTERROGAT =====
 
 ```yaml
@@ -23134,6 +24160,43 @@ disclaimer: meta/IS_META_terms.md
 Writing in The Conversation, two University of Sydney law academics report that a new assessment by the UN Office on Drugs and Crime and INTERPOL examines neurotechnology in criminal justice, including EEG headsets said to detect recognition of crime-scene images and neural lie detectors. According to the authors, the report says neither approach has been scientifically proven, and that compulsory or coercive neural lie detection, memory retrieval and guilty-knowledge testing, and neurotechnology used for interrogation, behavioural compliance or involuntary treatment, raise significant human rights concerns, including for privacy, the right against self-incrimination and freedom of thought.
 
 The authors say the report calls for binding legal frameworks and independently verifiable scientific standards. They write that police in the United Arab Emirates and India already use such tests on suspects, that India's Supreme Court ruled in 2010 that evidence from involuntary use is inadmissible, and that Australian law has not been tested on the question.
+
+
+===== FILE: news/IS_NEWS_2026-11-17-us-court-sentences-a-man-recruited-by-irans-revolutionary-guards-to-more-than-27-years-over-a-plot-to-hire-ki.md · ID: IS-NEWS-2026-11-17-US-COURT-SENTENCES-A-MAN-RECRUITED-BY-IRANS-REVOLUTIONARY-GUARDS-TO-MORE-THAN-27-YEARS-OVER-A-PLOT-TO-HIRE-KI =====
+
+```yaml
+id: IS-NEWS-2026-11-17-US-COURT-SENTENCES-A-MAN-RECRUITED-BY-IRANS-REVOLUTIONARY-GUARDS-TO-MORE-THAN-27-YEARS-OVER-A-PLOT-TO-HIRE-KI
+slug: 2026-11-17-us-court-sentences-a-man-recruited-by-irans-revolutionary-guards-to-more-than-27-years-over-a-plot-to-hire-ki
+title: US court sentences a man recruited by Iran's Revolutionary Guards to more than 27 years over a plot to hire killers to assassinate US officials
+title_original: 
+title_language: 
+collection: news
+doc_type: news-item
+date: 2026-11-17
+date_precision: day
+publisher: U.S. Department of Justice, Office of Public Affairs
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.justice.gov/opa/pr/iranian-intelligence-agent-sentenced-over-27-years-prison-foiled-plot-assassinate-us
+archived_url: 
+industry: 
+event: Murder for hire & violent plots
+country: United States
+stage: sentenced
+related: 
+summary_status: draft
+found_via: web search (English, Justice Department, 15-18 Nov 2026 window); also reported in Persian by Iran International; follows the conviction item already in the archive; title reworded, the defendant not named
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# US court sentences a man recruited by Iran's Revolutionary Guards to more than 27 years over a plot to hire killers to assassinate US officials
+
+*U.S. Department of Justice, Office of Public Affairs, 2026-11-17. Original: <https://www.justice.gov/opa/pr/iranian-intelligence-agent-sentenced-over-27-years-prison-foiled-plot-assassinate-us>*
+
+The Justice Department reports that a Pakistani national was sentenced in federal court in Brooklyn to 330 months in prison after a jury convicted him of attempting an act of terrorism transcending national boundaries and of murder for hire. According to the department, he was recruited by Iran's Islamic Revolutionary Guard Corps, met a handler in Tehran and was trained in counterintelligence techniques.
+
+The department says he paid $5,000 to undercover FBI employees he believed were hitmen, toward a plan to kill US politicians or government officials. The account is the department's, based on the evidence at trial.
 
 
 ===== FILE: news/IS_NEWS_2026-11-17-us-requires-export-licences-for-advanced-ai-chips-going-to-five-countries-to-stop-remote-access-by-chinese-dev.md · ID: IS-NEWS-2026-11-17-US-REQUIRES-EXPORT-LICENCES-FOR-ADVANCED-AI-CHIPS-GOING-TO-FIVE-COUNTRIES-TO-STOP-REMOTE-ACCESS-BY-CHINESE-DEV =====
