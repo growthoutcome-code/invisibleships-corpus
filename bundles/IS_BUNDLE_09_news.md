@@ -3,8 +3,8 @@ id: IS-BUNDLE-09-NEWS
 title: "News"
 collection: bundles
 doc_type: bundle
-files: 659
-approx_tokens: 370,283
+files: 725
+approx_tokens: 406,802
 contains: [news]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -15,7 +15,7 @@ disclaimer: meta/IS_META_terms.md
 
 Official releases and outside reporting, one item per section, each summarised and linked.
 
-This file joins 659 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
+This file joins 725 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 
@@ -177,14 +177,17 @@ This file joins 659 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2023-08-03-two-u-s-navy-servicemembers-arrested-for-transmitting.md` — Two U.S. Navy Servicemembers Arrested for Transmitting Military Information to the People's Republic of China
 - `news/IS_NEWS_2023-08-23-how-artificial-intelligence-gave-a-paralyzed-woman-her-voice.md` — How artificial intelligence gave a paralyzed woman her voice back
 - `news/IS_NEWS_2023-10-10-u-s-navy-service-member-pleads-guilty-to-transmitting.md` — U.S. Navy Service Member Pleads Guilty to Transmitting Sensitive U.S. Military Information to Chinese Intelligence Officer
+- `news/IS_NEWS_2023-10-19-analysis-handing-decisions-about-people-to-algorithms-alone-or-alongside-humans-is-harder-than-its.md` — Handing decisions about people to algorithms, alone or alongside humans, is harder than its advocates claim
 - `news/IS_NEWS_2023-10-31-microsoft-quietly-launches-israeli-azure-cloud-region.md` — Microsoft quietly launches Israeli Azure cloud region
 - `news/IS_NEWS_2023-11-02-european-commission-signs-oracle-cloud-deal-under-cloud-ii.md` — European Commission signs Oracle cloud deal under Cloud II
 - `news/IS_NEWS_2023-11-22-palantir-wins-gbp330m-nhs-contract.md` — Palantir wins GBP330m NHS contract
 - `news/IS_NEWS_2023-12-07-uk-government-renews-preferential-pricing-agreement-with-aws.md` — UK government renews preferential pricing agreement with AWS
 - `news/IS_NEWS_2023-12-19-rite-aid-banned-from-using-ai-facial-recognition.md` — Rite Aid banned from using AI facial recognition
 - `news/IS_NEWS_2024-01-01-transparent-brain-computer-interface-uses-ai-and-nanotech.md` — Transparent brain-computer interface uses AI and nanotech
+- `news/IS_NEWS_2024-01-06-analysis-kafka-s-fiction-and-why-giving-people-control-over-their-data-is-a-dead-end-for-privacy-law.md` — Kafka's fiction and why giving people control over their data is a dead end for privacy law
 - `news/IS_NEWS_2024-01-08-aws-wins-gbp94m-contract-with-uk-dwp.md` — AWS wins GBP94m contract with UK DWP
 - `news/IS_NEWS_2024-01-29-one-iranian-and-two-canadian-nationals-indicted-in-murder.md` — One Iranian and two Canadian nationals indicted in murder-for-hire scheme
+- `news/IS_NEWS_2024-02-01-analysis-ai-recombines-and-intensifies-old-privacy-problems-and-a-roadmap-for-how-privacy-law-should.md` — AI recombines and intensifies old privacy problems, and a roadmap for how privacy law should respond
 - `news/IS_NEWS_2024-03-01-microsoft-suspends-access-to-cloud-services-for-russian.md` — Microsoft suspends access to cloud services for Russian companies
 - `news/IS_NEWS_2024-03-04-brazil-has-the-world-most-accessed-online-citizen-services.md` — Brazil Has The World Most Accessed Online Citizen Services Platform
 - `news/IS_NEWS_2024-03-11-eu-use-of-microsoft-365-found-to-breach-data-protection.md` — EU use of Microsoft 365 found to breach data protection rules
@@ -198,7 +201,9 @@ This file joins 659 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2024-05-06-dept-of-education-begins-market-research-for-cloud-fsa-next.md` — Dept of Education begins market research for cloud (FSA Next Gen Cloud on AWS)
 - `news/IS_NEWS_2024-05-07-microsoft-deploys-air-gapped-ai-for-classified-customers.md` — Microsoft deploys air-gapped AI for classified customers
 - `news/IS_NEWS_2024-05-10-microsoft-launches-mexican-cloud-region.md` — Microsoft launches Mexican cloud region
+- `news/IS_NEWS_2024-07-03-analysis-scraping-personal-data-to-train-ai-clashes-with-core-privacy-principles-and-being-public-is-no.md` — Scraping personal data to train AI clashes with core privacy principles, and being public is no excuse
 - `news/IS_NEWS_2024-07-04-australian-government-signs-aws-to-deliver-2bn-top-secret.md` — Australian government signs AWS to deliver $2bn top-secret cloud
+- `news/IS_NEWS_2024-07-07-analysis-ai-as-a-rebrand-of-older-technology-and-the-risk-of-treating-it-as-an-exception-to-existing.md` — AI as a rebrand of older technology, and the risk of treating it as an exception to existing privacy law
 - `news/IS_NEWS_2024-07-25-two-men-plead-guilty-to-acting-as-illegal-agents-of-the.md` — Two men plead guilty to acting as illegal agents of the Chinese government and bribery
 - `news/IS_NEWS_2024-08-01-ai-act-enters-into-force.md` — AI Act enters into force
 - `news/IS_NEWS_2024-08-01-amazon-to-invest-7-2b-in-israel.md` — Amazon to invest $7.2b in Israel
@@ -219,6 +224,7 @@ This file joins 659 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2024-11-08-justice-department-announces-murder-for-hire-and-related.md` — Justice Department Announces Murder-For-Hire and Related Charges Against IRGC Asset and Two Local Operatives
 - `news/IS_NEWS_2024-11-18-analysis-twenty-years-on-the-aggregation-of-personal-data-into-digital-dossiers-has-accelerated-with-ai.md` — Twenty years on, the aggregation of personal data into digital dossiers has accelerated with AI while privacy law lags
 - `news/IS_NEWS_2024-12-01-case-closed-pasco-sheriff-admits-predictive-policing-program.md` — Case closed: Pasco sheriff admits predictive policing program violated rights
+- `news/IS_NEWS_2024-12-02-analysis-california-and-colorado-neural-data-laws-leave-key-terms-undefined-so-regulators-should.md` — California and Colorado neural data laws leave key terms undefined, so regulators should implement them flexibly
 - `news/IS_NEWS_2024-12-07-google-launches-mexican-cloud-region-in-queretaro.md` — Google launches Mexican cloud region in Queretaro
 - `news/IS_NEWS_2024-12-18-new-york-resident-pleads-guilty-to-operating-secret-police.md` — New York Resident Pleads Guilty to Operating Secret Police Station of the Chinese Government in Lower Manhattan
 - `news/IS_NEWS_2024-12-19-southern-california-political-operative-arrested-on-federal.md` — Southern California Political Operative Arrested on Federal Complaint Alleging He Acted as Illegal Agent of People's Republic of China
@@ -400,14 +406,24 @@ This file joins 659 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-06-02-analysis-state-consumer-privacy-laws-are-being-weakened-by-industry-lobbying-with-vermont-as-the-latest.md` — State consumer privacy laws are being weakened by industry lobbying, with Vermont as the latest example
 - `news/IS_NEWS_2026-06-04-american-citizen-pleads-guilty-to-working-as-an-agent-for.md` — American Citizen Pleads Guilty to Working as an Agent for the People's Republic of China
 - `news/IS_NEWS_2026-06-06-analysis-orwell-or-huxley-both-dystopias-describe-today-s-world-but-neither-foresaw-the-role-of.md` — Orwell or Huxley: both dystopias describe today's world, but neither foresaw the role of corporations
+- `news/IS_NEWS_2026-06-10-analysis-a-television-drama-read-as-a-study-of-authoritarian-rule-surveillance-and-the-people-who-serve.md` — A television drama read as a study of authoritarian rule, surveillance and the people who serve it
 - `news/IS_NEWS_2026-06-15-aws-secures-2-6b-dhs-wide-cumulus-cloud-project.md` — AWS secures $2.6B DHS-wide Cumulus cloud project
 - `news/IS_NEWS_2026-06-16-dhs-finalizes-first-cumulus-cloud-contract-with-aws.md` — DHS finalizes first Cumulus cloud contract with AWS
+- `news/IS_NEWS_2026-06-17-analysis-six-reasons-why-treating-personal-data-as-property-would-not-protect-privacy.md` — Six reasons why treating personal data as property would not protect privacy
 - `news/IS_NEWS_2026-06-17-navy-neptune-awards-four-jwcc-cloud-task-orders.md` — Navy Neptune Awards Four JWCC Cloud Task Orders
 - `news/IS_NEWS_2026-06-25-aws-pledges-further-13bn-investment-in-india.md` — AWS pledges further $13bn investment in India
+- `news/IS_NEWS_2026-06-28-analysis-a-satirical-television-series-about-a-tech-billionaire-as-a-portrait-of-an-industry-that-mines.md` — A satirical television series about a tech billionaire as a portrait of an industry that mines personal data
+- `news/IS_NEWS_2026-07-02-analysis-is-the-third-party-doctrine-dead-a-geofence-ruling-narrows-it-a-concurrence-offers-a-property.md` — Is the third-party doctrine dead? A geofence ruling narrows it, a concurrence offers a property theory, and warrants stay weak
+- `news/IS_NEWS_2026-07-08-analysis-italo-calvino-s-stories-as-a-warning-against-treating-data-as-an-idol-and-what-that-means-for.md` — Italo Calvino's stories as a warning against treating data as an idol, and what that means for AI
+- `news/IS_NEWS_2026-07-22-analysis-ai-already-acts-as-a-tax-on-society-by-pushing-its-costs-onto-the-public-an-essay-argues.md` — AI already acts as a tax on society by pushing its costs onto the public, an essay argues
+- `news/IS_NEWS_2026-07-23-analysis-young-people-do-care-about-privacy-and-why-what-they-share-online-does-not-show-otherwise.md` — Young people do care about privacy, and why what they share online does not show otherwise
 - `news/IS_NEWS_2026-07-27-ebay-harassment-civil-suit-settles.md` — eBay harassment civil suit settles
 - `news/IS_NEWS_2026-07-28-ebay-former-execs-settle-couple-s-cyberstalking-suit-for-55.md` — eBay former execs settle couple's cyberstalking suit for $55.7M
 - `news/IS_NEWS_2026-07-29-dhs-human-trafficking-arrests-and-rescues-during-the-world-cup.md` — DHS release: DHS Highlights Successful Arrests and Rescues in Crackdown on Human Trafficking During FIFA World Cup
+- `news/IS_NEWS_2026-08-02-analysis-an-asimov-story-about-a-computer-that-picks-an-election-winner-read-as-a-warning-about-faith-in.md` — An Asimov story about a computer that picks an election winner, read as a warning about faith in AI prediction
+- `news/IS_NEWS_2026-08-12-analysis-zamyatin-s-we-as-the-founding-modern-dystopia-and-a-warning-about-trading-freedom-for.md` — Zamyatin's We as the founding modern dystopia and a warning about trading freedom for efficiency
 - `news/IS_NEWS_2026-08-18-fbi-violent-crime-drop-in-2025.md` — FBI: violent crime drop in 2025
+- `news/IS_NEWS_2026-08-23-analysis-u-s-state-consumer-privacy-laws-share-more-than-they-differ-a-primer-on-scope-rights-and.md` — U.S. state consumer privacy laws share more than they differ: a primer on scope, rights and enforcement
 - `news/IS_NEWS_2026-08-24-analysis-a-new-run-of-an-ai-law-course-opens-with-why-the-law-struggles-to-define-artificial-intelligence.md` — A new run of an AI law course opens with why the law struggles to define artificial intelligence
 - `news/IS_NEWS_2026-08-26-analysis-why-ai-invented-case-citations-keep-reaching-courts-explained-through-how-language-models-predict-text.md` — Why AI-invented case citations keep reaching courts, explained through how language models predict text
 - `news/IS_NEWS_2026-08-31-analysis-what-open-means-for-an-ai-model-and-why-open-weight-releases-gained-the-upper-hand-in-2026.md` — What 'open' means for an AI model, and why open-weight releases gained the upper hand in 2026
@@ -429,10 +445,12 @@ This file joins 659 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-09-18-governor-issues-executive-order-to-accelerate-independent-oversight.md` — Governor issues executive order to accelerate independent oversight and advance the creation of an AI kill switch
 - `news/IS_NEWS_2026-09-19-lawsuit-says-ai-companies-made-illegal-deal-on-ai-slowdown.md` — Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown
 - `news/IS_NEWS_2026-09-22-analysis-who-pays-for-ai-data-centres-power-and-who-can-refuse-them-noise-water-air-and-electricity-bills.md` — Who pays for AI data centres' power and who can refuse them: noise, water, air and electricity bills
+- `news/IS_NEWS_2026-09-23-analysis-a-philip-roth-novel-as-a-lesson-in-how-the-privacy-torts-were-born-and-then-frozen.md` — A Philip Roth novel as a lesson in how the privacy torts were born and then frozen
 - `news/IS_NEWS_2026-09-23-analysis-ai-bias-in-hiring-pricing-credit-and-medicine-and-a-shift-in-u-s-disparate-impact-law-that-may-make-it-harder.md` — AI bias in hiring, pricing, credit and medicine, and a shift in U.S. disparate-impact law that may make it harder to prove
 - `news/IS_NEWS_2026-09-23-tech-ceo-russian-national-arrested-on-complaint-alleging.md` — Tech CEO, Russian National Arrested on Complaint Alleging They Hid Russian Ownership and Development of Software Sold to U.S. Government
 - `news/IS_NEWS_2026-09-24-openai-hacked-medicare-portal-prime-minister-says.md` — OpenAI hacked Medicare portal, Prime Minister says
 - `news/IS_NEWS_2026-09-25-precision-neuroscience-raises-250m-in-series-d-for-its-bci.md` — Precision Neuroscience raises $250M in Series D for its BCI
+- `news/IS_NEWS_2026-09-28-analysis-technology-design-shapes-behaviour-so-regulation-has-to-reach-design-from-defaults-to-human.md` — Technology design shapes behaviour, so regulation has to reach design, from defaults to human-seeming chatbots
 - `news/IS_NEWS_2026-09-29-analysis-seven-kinds-of-ai-transparency-and-what-each-one-is-actually-for.md` — Seven kinds of AI transparency and what each one is actually for
 - `news/IS_NEWS_2026-09-29-healthcare-campaigners-turn-up-the-heat-on-palantir-at-labour.md` — Healthcare campaigners turn up the heat on Palantir at Labour conference
 - `news/IS_NEWS_2026-09-30-analysis-deepfakes-are-now-cheap-to-make-and-hard-to-spot-and-the-worst-harm-falls-outside-elections.md` — Deepfakes are now cheap to make and hard to spot, and the worst harm falls outside elections
@@ -444,8 +462,10 @@ This file joins 659 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-10-01-the-clock-is-ticking-nationwide-protests-demand-nhs-cuts-ties-with-palantir.md` — 'The clock is ticking' – nationwide protests demand NHS cuts ties with Palantir
 - `news/IS_NEWS_2026-10-02-analysis-a-bonus-class-on-two-executive-orders-over-what-to-call-ai-and-a-white-house-accord-with-ai-company-leaders.md` — A bonus class on two executive orders over what to call AI and a White House accord with AI company leaders
 - `news/IS_NEWS_2026-10-03-ice-contract-reveals-network-infrastructure-behind-hsi-surveillance.md` — ICE contract reveals network infrastructure behind HSI surveillance operations
+- `news/IS_NEWS_2026-10-04-analysis-data-minimisation-has-little-effect-in-most-privacy-laws-and-how-to-make-it-meaningful.md` — Data minimisation has little effect in most privacy laws, and how to make it meaningful
 - `news/IS_NEWS_2026-10-04-ice-observer-lawsuit-shows-how-palantir-records-can-feed.md` — ICE observer lawsuit shows how Palantir records can feed border screening, analytics
 - `news/IS_NEWS_2026-10-05-3-scientists-share-nobel-prize-in-physiology-or-medicine-for.md` — 3 Scientists Share Nobel Prize in Physiology or Medicine for Optogenetics
+- `news/IS_NEWS_2026-10-05-analysis-when-ai-belongs-in-scholarly-writing-help-with-research-and-proofreading-but-not-drafting-the.md` — When AI belongs in scholarly writing: help with research and proofreading, but not drafting the argument
 - `news/IS_NEWS_2026-10-05-california-woman-arrested-on-charges-alleging-she-acted-as-agent.md` — California Woman Arrested on Charges Alleging She Acted as Agent of China and Spied on Relatives of U.S. Based High-Ranking Taiwanese Government Official
 - `news/IS_NEWS_2026-10-05-korean-banks-on-high-alert-after-wave-of-cyberattacks.md` — Korean banks on high alert after wave of cyberattacks
 - `news/IS_NEWS_2026-10-05-no-65-declaring-a-disaster-emergency-in-the-state-of-new-york.md` — No. 65: Declaring a Disaster Emergency in the State of New York Due to an Ongoing Measles Outbreak
@@ -582,6 +602,8 @@ This file joins 659 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-11-06-facial-recognition-firm-joins-spanish-police-forensic-ai-projects.md` — Facial recognition firm joins €14M Spanish police forensic AI projects
 - `news/IS_NEWS_2026-11-06-hong-kong-police-to-add-ai-facial-recognition-to-smartview-cctv-network.md` — Hong Kong police to add AI facial recognition to SmartView CCTV network
 - `news/IS_NEWS_2026-11-06-police-scotland-demonstrates-live-facial-recognition.md` — Police Scotland demonstrates live facial recognition as calls for legislation grow
+- `news/IS_NEWS_2026-11-09-dhs-meet-one-of-the-medias-non-criminals-ice-arrests-ms-13-member-in-idaho.md` — DHS release: Meet One of the Media’s ‘Non-Criminals’: ICE Arrests MS-13 Member in Idaho Charged with Terrorism in El Salvador
+- `news/IS_NEWS_2026-11-09-dhs-worst-of-the-worst-ice-arrests-murderers-pedophiles-and-sexual-predators.md` — DHS release: WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Sexual Predators
 - `news/IS_NEWS_2026-11-09-france-attributes-the-sabotage-of-refrigeration-controls-at-more-than-700-supermarkets-to-a-unit-linked-to-ira.md` — France attributes the sabotage of refrigeration controls at more than 700 supermarkets to a unit linked to Iran's Revolutionary Guard
 - `news/IS_NEWS_2026-11-09-saskatchewan-introduces-a-bill-writing-assisted-dying-safeguards-into-provincial-law.md` — Saskatchewan introduces a bill writing assisted-dying safeguards into provincial law
 - `news/IS_NEWS_2026-11-09-taiwan-drafts-harsher-penalties-for-helping-china-carry-out-transnational-repression.md` — Taiwan drafts harsher penalties for helping China carry out transnational repression
@@ -589,6 +611,14 @@ This file joins 659 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-11-10-australia-announces-an-ai-safety-regulator-and-accepts-all-review-recommendations-after-an-ai-agent-reached-a.md` — Australia announces an AI safety regulator and accepts all review recommendations after an AI agent reached a government health-statistics site
 - `news/IS_NEWS_2026-11-10-chinas-state-security-ministry-says-it-warned-a-man-who-anonymously-denounced-a-colleague-as-a-spy-state-media.md` — China's state security ministry says it warned a man who anonymously denounced a colleague as a spy (state media)
 - `news/IS_NEWS_2026-11-10-chinese-researchers-report-non-invasive-brain-interface-electrode-for-day-long-use.md` — Chinese researchers report non-invasive brain-interface electrode for day-long use
+- `news/IS_NEWS_2026-11-10-dhs-calls-on-mecklenburg-county-north-carolina-to-honor-ice-detainer.md` — DHS release: DHS Calls on Sanctuary Politicians in Mecklenburg County, North Carolina to Honor ICE Detainer and Not Release a Previously-Deported Rapist
+- `news/IS_NEWS_2026-11-10-dhs-highlights-worst-illegal-aliens-arrested-in-austin-texas.md` — DHS release: DHS Highlights Worst Illegal Aliens Arrested in Austin, Texas
+- `news/IS_NEWS_2026-11-10-dhs-is-taking-down-asylum-fraudsters.md` — DHS release: DHS is Taking Down Asylum Fraudsters
+- `news/IS_NEWS_2026-11-10-dhs-sanctuary-insanity-illinois-release-rather-than-honoring-ice-detainer.md` — DHS release: SANCTUARY INSANITY: DHS Condemns Sanctuary Politicians in Illinois for Releasing a Violent Criminal Rather Than Honoring ICE Detainer
+- `news/IS_NEWS_2026-11-10-dhs-secretary-joins-white-house-task-force-at-drone-security-forum.md` — DHS release: Secretary [name] Joins White House Task Force at Drone Security Forum to Protect the Homeland From Unauthorized Drone Threats
+- `news/IS_NEWS_2026-11-10-dhs-worst-of-the-worst-ice-arrests-murderers-sexual-predators-and-drug-traffickers.md` — DHS release: WORST OF THE WORST: ICE Arrests Murderers, Sexual Predators, and Drug Traffickers
+- `news/IS_NEWS_2026-11-10-fbi-service-lets-gun-sellers-identify-potentially-stolen-firearms-in-seconds.md` — FBI release: FBI Service Lets Gun Sellers Identify Potentially Stolen Firearms in Seconds
+- `news/IS_NEWS_2026-11-10-fbi-the-new-fbi-better-technology-to-meet-the-mission.md` — FBI release: The New FBI: Better Technology to Meet the Mission
 - `news/IS_NEWS_2026-11-10-french-interior-ministry-denies-gendarmes-used-long-range-acoustic-devices-at-a-bordeaux-protest-and-attribute.md` — French interior ministry denies gendarmes used long-range acoustic devices at a Bordeaux protest and attributes the sound to a vehicle siren
 - `news/IS_NEWS_2026-11-10-hawaii-health-department-reports-a-record-59-assisted-deaths-in-2025-and-says-its-follow-up-data-may-be-incomp.md` — Hawaii health department reports a record 59 assisted deaths in 2025 and says its follow-up data may be incomplete
 - `news/IS_NEWS_2026-11-10-karnataka-orders-ai-face-scan-attendance-in-government-schools.md` — Karnataka orders AI face-scan attendance in government schools
@@ -616,7 +646,14 @@ This file joins 659 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-11-11-south-korean-prosecutors-charge-seven-employees-of-an-equipment-contractor-and-the-company-over-an-alleged-att.md` — South Korean prosecutors charge seven employees of an equipment contractor and the company over an alleged attempt to move display process data to China
 - `news/IS_NEWS_2026-11-11-washington-appeals-court-upholds-a-protection-order-in-a-case-of-alleged-covert-listening-through-a-home-voice.md` — Washington appeals court upholds a protection order in a case of alleged covert listening through a home voice assistant
 - `news/IS_NEWS_2026-11-12-chinas-industry-ministry-approves-nine-brain-computer-interface-industry-standards-for-drafting-including-atte.md` — China's industry ministry approves nine brain-computer interface industry standards for drafting, including attention monitoring
+- `news/IS_NEWS_2026-11-12-dhs-highlights-worst-illegal-aliens-arrested-in-houston-texas.md` — DHS release: DHS Highlights Worst Illegal Aliens Arrested in Houston, Texas
+- `news/IS_NEWS_2026-11-12-dhs-ice-arrests-man-who-ran-over-and-dragged-officer-with-vehicle-in-chicago.md` — DHS release: ICE Arrests Illegal Alien Who Intentionally Ran Over and Dragged Officer with Vehicle in Chicago
+- `news/IS_NEWS_2026-11-12-dhs-ice-breaks-records-in-fiscal-year-2026-most-arrests-and-deportations.md` — DHS release: ICE Breaks Records in Fiscal Year 2026, With Most Arrests and Deportations in Agency’s History
+- `news/IS_NEWS_2026-11-12-dhs-ice-requests-local-authorities-not-release-man-who-attempted-to-hijack-a-plane.md` — DHS release: ICE Requests Local Authorities Not Release Criminal Illegal Alien Who Attempted To Hijack a Plane
+- `news/IS_NEWS_2026-11-12-dhs-st-new-saver-report-telemedicine-for-emergency-medical-services.md` — DHS release: New SAVER Report: Telemedicine for Emergency Medical Services
+- `news/IS_NEWS_2026-11-12-dhs-worst-of-the-worst-ice-arrests-murderers-pedophiles-and-drug-traffickers.md` — DHS release: WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Drug Traffickers
 - `news/IS_NEWS_2026-11-12-dutch-prosecutors-seek-up-to-20-years-for-six-defendants-accused-over-the-attempted-killing-of-an-iranian-acti.md` — Dutch prosecutors seek up to 20 years for six defendants accused over the attempted killing of an Iranian activist in Haarlem
+- `news/IS_NEWS_2026-11-12-fbi-operation-tornado-leads-to-more-than-350-arrests-across-14-countries.md` — FBI release: Operation TorNado Leads to More Than 350 Arrests Across 14 Countries
 - `news/IS_NEWS_2026-11-12-four-advocacy-groups-sue-five-leading-ai-developers-in-a-california-court-seeking-a-freeze-on-more-capable-ai.md` — Four advocacy groups sue five leading AI developers in a California court seeking a freeze on more capable AI models
 - `news/IS_NEWS_2026-11-12-german-state-bill-would-have-police-told-when-patients-involuntarily-committed-as-a-danger-to-others-are-discharged.md` — German state bill would have police told when patients involuntarily committed as a danger to others are discharged
 - `news/IS_NEWS_2026-11-12-germanys-federal-administrative-court-sets-out-what-counts-as-stasi-zersetzung-and-turns-down-two-compensation-claims.md` — Germany's Federal Administrative Court sets out what counts as Stasi Zersetzung and turns down two compensation claims
@@ -635,6 +672,9 @@ This file joins 659 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-11-12-who-says-bangladesh-and-india-have-banned-a-highly-toxic-pesticide-linked-to-suicide-and-parkinson-disease.md` — WHO says Bangladesh and India have banned a highly toxic pesticide linked to suicide and Parkinson disease
 - `news/IS_NEWS_2026-11-13-brain-implant-company-pauses-enrolment-in-trials-of-its-second-generation-device-after-a-signal-lead-underperf.md` — Brain-implant company pauses enrolment in trials of its second-generation device after a signal lead underperforms
 - `news/IS_NEWS_2026-11-13-chinese-report-says-about-120-people-in-china-now-live-with-implanted-brain-computer-interfaces-and-a-national-eeg-data.md` — Chinese report says about 120 people in China now live with implanted brain-computer interfaces and a national EEG data centre is to launch
+- `news/IS_NEWS_2026-11-13-dhs-ice-arrests-man-in-fatal-dui-case-after-illinois-release.md` — DHS release: ICE Arrests Illegal Alien Responsible for Fatal DUI After Illinois Sanctuary Politicians Released Him
+- `news/IS_NEWS_2026-11-13-dhs-icymi-secretaries-address-nationwide-faa-ground-stop-of-all-flights.md` — DHS release: ICYMI: Secretary [name] and Secretary [name] Address Nationwide FAA Ground Stop of All Flights
+- `news/IS_NEWS_2026-11-13-dhs-sanctuary-insanity-california-release-after-assault-and-robbery-arrest.md` — DHS release: SANCTUARY INSANITY: DHS Blasts Sanctuary California for Releasing Illegal Alien Gang Member Arrested for Assault and Robbery
 - `news/IS_NEWS_2026-11-13-faa-orders-nationwide-ground-stop-of-departing-flights-citing-a-telecommunications-outage.md` — FAA orders nationwide ground stop of departing flights, citing a telecommunications outage
 - `news/IS_NEWS_2026-11-13-germanys-domestic-intelligence-agency-confirms-it-interviews-arriving-russian-travellers-after-reports-of-ques.md` — Germany's domestic intelligence agency confirms it interviews arriving Russian travellers, after reports of questioning at Berlin airport
 - `news/IS_NEWS_2026-11-13-germanys-parliament-passes-intelligence-law-reform-allowing-biometric-image-matching-and-ai-analysis-by-the-in.md` — Germany's parliament passes intelligence-law reform allowing biometric image matching and AI analysis by the intelligence services
@@ -656,18 +696,30 @@ This file joins 659 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-11-16-belgrade-prosecutors-call-the-supreme-public-prosecutors-sound-cannon-report-malicious-and-say-they-will-take.md` — Belgrade prosecutors call the Supreme Public Prosecutor's sound-cannon report malicious and say they will take it to European bodies
 - `news/IS_NEWS_2026-11-16-californias-attorney-general-sues-an-ai-developer-alleging-its-experimental-ai-agents-escaped-testing-and-carr.md` — California's attorney general sues an AI developer, alleging its experimental AI agents escaped testing and carried out cyberattacks
 - `news/IS_NEWS_2026-11-16-chinese-state-science-paper-says-a-brain-implant-maker-tested-its-fully-implanted-wireless-system-with-paraly.md` — Chinese state science paper says a brain-implant maker tested its fully implanted wireless system with paralysed users in a mock everyday-life site
+- `news/IS_NEWS_2026-11-16-dhs-cbp-nationwide-encounters-in-october-lowest-ever-to-start-a-fiscal-year.md` — DHS release: Under President [name] and Secretary [name], CBP’s Nationwide Encounters in October Were the Lowest Ever to Start a Fiscal Year
+- `news/IS_NEWS_2026-11-16-dhs-secretary-attends-event-demonstrating-technology-for-countering-hostile-drones.md` — DHS release: Secretary [name] Attends Event Demonstrating Technology for Countering Hostile Drones
+- `news/IS_NEWS_2026-11-16-dhs-worst-of-the-worst-weekend-ice-arrests-murderers-pedophiles-and-child-abusers.md` — DHS release: WORST OF THE WORST: Over the Weekend, ICE Arrests Murderers, Pedophiles, and Child Abusers
 - `news/IS_NEWS_2026-11-16-dutch-digital-infrastructure-inspectorate-investigates-gps-disruption-reported-by-seven-aircraft.md` — Dutch digital-infrastructure inspectorate investigates GPS disruption reported by seven aircraft
 - `news/IS_NEWS_2026-11-16-exile-outlet-reports-a-former-revolutionary-guards-official-saying-israeli-intelligence-infiltrated-irans-inst.md` — Exile outlet reports a former Revolutionary Guards official saying Israeli intelligence infiltrated Iran's institutions and describing how everyday data can track people
 - `news/IS_NEWS_2026-11-16-german-media-report-how-a-former-intelligence-chiefs-office-head-allegedly-smuggled-about-2-000-secret-files-o.md` — German media report how a former intelligence chief's office head allegedly smuggled about 2,000 secret files out of the agency's headquarters
 - `news/IS_NEWS_2026-11-16-hong-kong-police-switch-on-facial-recognition-across-the-smartview-camera-network-saying-the-tools-have-check.md` — Hong Kong police switch on facial recognition across the SmartView camera network, saying the tools have checks and balances
+- `news/IS_NEWS_2026-11-16-investigation-reports-that-israels-military-uploaded-about-3-5-million-photographs-of-palestinians-to-a-commer.md` — Investigation reports that Israel's military uploaded about 3.5 million photographs of Palestinians to a commercial cloud facial-recognition service
 - `news/IS_NEWS_2026-11-16-istanbul-prosecutors-seek-up-to-20-years-for-a-private-detective-and-a-lawyer-accused-of-surveilling-a-palest.md` — Istanbul prosecutors seek up to 20 years for a private detective and a lawyer accused of surveilling a Palestinian-origin citizen for Israeli intelligence
 - `news/IS_NEWS_2026-11-16-new-york-city-to-disband-the-police-unit-that-handles-protests-and-keep-long-range-acoustic-devices-below-90-d.md` — New York City to disband the police unit that handles protests and keep long-range acoustic devices below 90 decibels
 - `news/IS_NEWS_2026-11-16-russian-state-newspaper-reports-a-kamchatka-court-sentenced-a-local-man-to-14-years-for-treason-over-alleged.md` — Russian state newspaper reports a Kamchatka court sentenced a local man to 14 years for treason over alleged help to Ukrainian intelligence
 - `news/IS_NEWS_2026-11-16-russias-security-service-says-a-young-woman-detained-over-a-moscow-car-bombing-was-steered-by-phone-scammers-i.md` — Russia's security service says a young woman detained over a Moscow car bombing was steered by phone scammers it calls Ukrainian handlers
 - `news/IS_NEWS_2026-11-16-ukrainian-court-sentences-a-man-to-15-years-for-treason-after-the-security-service-said-he-set-up-explosive-ca.md` — Ukrainian court sentences a man to 15 years for treason after the security service said he set up explosive caches in Zaporizhzhia for Russian intelligence
 - `news/IS_NEWS_2026-11-17-canadas-house-of-commons-advances-a-bill-to-allow-advance-requests-for-assisted-dying-and-keep-mental-illness.md` — Canada's House of Commons advances a bill to allow advance requests for assisted dying and keep mental illness alone excluded
+- `news/IS_NEWS_2026-11-17-chiles-congress-gives-final-approval-to-delaying-its-new-personal-data-law-and-data-protection-agency-to-octob.md` — Chile's Congress gives final approval to delaying its new personal-data law and data-protection agency to October 2027
+- `news/IS_NEWS_2026-11-17-costa-rican-court-sentences-a-gunman-to-30-years-over-the-2024-shooting-of-two-exiled-nicaraguan-opposition-fi.md` — Costa Rican court sentences a gunman to 30 years over the 2024 shooting of two exiled Nicaraguan opposition figures
+- `news/IS_NEWS_2026-11-17-dhs-sanctuary-insanity-new-york-release-after-attempted-murder-arrest.md` — DHS release: SANCTUARY INSANITY: DHS Calls Out Sanctuary Politicians in New York for Releasing Illegal Alien Arrested for Attempted Murder, Assault, and Other Crimes
+- `news/IS_NEWS_2026-11-17-dhs-st-eight-finalists-in-stage-one-of-the-ready-set-id-the-biothreat-prize-challenge.md` — DHS release: DHS S&T Announces Eight Finalists in Stage One of the “Ready, Set… ID the Biothreat” Prize Challenge
+- `news/IS_NEWS_2026-11-17-dhs-worst-of-the-worst-ice-arrests-violent-assailants-drug-traffickers-and-burglars.md` — DHS release: WORST OF THE WORST: ICE Arrests Violent Assailants, Drug Traffickers, and Burglars
+- `news/IS_NEWS_2026-11-17-hong-kongs-privacy-regulator-opens-a-compliance-check-on-a-facial-recognition-entry-system-planned-for-a-large.md` — Hong Kong's privacy regulator opens a compliance check on a facial-recognition entry system planned for a large private housing estate
+- `news/IS_NEWS_2026-11-17-irans-judiciary-says-it-has-seized-assets-of-critics-abroad-and-is-seeking-their-arrest-through-interpol-and-e.md` — Iran's judiciary says it has seized assets of critics abroad and is seeking their arrest through Interpol and extradition
 - `news/IS_NEWS_2026-11-17-japans-communications-minister-calls-three-nationwide-5g-outages-at-a-major-carrier-in-one-month-very-regrett.md` — Japan's communications minister calls three nationwide 5G outages at a major carrier in one month very regrettable and asks for the root cause
 - `news/IS_NEWS_2026-11-17-japans-governing-party-begins-work-on-a-bill-to-fit-gps-devices-to-serious-stalking-offenders.md` — Japan's governing party begins work on a bill to fit GPS devices to serious stalking offenders
+- `news/IS_NEWS_2026-11-17-japans-police-agency-publishes-provisional-suicide-figures-to-the-end-of-october-2026.md` — Japan's police agency publishes provisional suicide figures to the end of October 2026
 - `news/IS_NEWS_2026-11-17-north-dakota-city-denies-wrongdoing-over-a-months-long-detention-based-on-a-false-facial-recognition-match-bu.md` — North Dakota city denies wrongdoing over a months-long detention based on a false facial-recognition match, but says its police had no written policy or training for the tool
 - `news/IS_NEWS_2026-11-17-north-macedonias-security-agency-says-it-broke-up-a-network-preparing-an-assassination-in-greece-on-the-order.md` — North Macedonia's security agency says it broke up a network preparing an assassination in Greece on the orders of a collaborator of Iran's security services
 - `news/IS_NEWS_2026-11-17-oregons-attorney-general-sues-an-ai-developer-for-about-2-billion-alleging-it-misrepresented-its-chatbots-saf.md` — Oregon's attorney general sues an AI developer for about $2 billion, alleging it misrepresented its chatbot's safety for children
@@ -678,6 +730,20 @@ This file joins 659 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-11-17-un-crime-agency-and-interpol-report-warns-that-coercive-neural-lie-detection-and-neurotechnology-in-interrogat.md` — UN crime agency and INTERPOL report warns that coercive neural lie detection and neurotechnology in interrogation raise serious human rights concerns
 - `news/IS_NEWS_2026-11-17-us-court-sentences-a-man-recruited-by-irans-revolutionary-guards-to-more-than-27-years-over-a-plot-to-hire-ki.md` — US court sentences a man recruited by Iran's Revolutionary Guards to more than 27 years over a plot to hire killers to assassinate US officials
 - `news/IS_NEWS_2026-11-17-us-requires-export-licences-for-advanced-ai-chips-going-to-five-countries-to-stop-remote-access-by-chinese-dev.md` — US requires export licences for advanced AI chips going to five countries, to stop remote access by Chinese developers through overseas data centres
+- `news/IS_NEWS_2026-11-18-burkina-faso-opens-terrorism-cases-against-at-least-45-exiled-critics-and-seeks-their-arrest-abroad-a-rights-g.md` — Burkina Faso opens terrorism cases against at least 45 exiled critics and seeks their arrest abroad, a rights group reports
+- `news/IS_NEWS_2026-11-18-dhs-ccht-chronicle-november-2026.md` — DHS release: CCHT Chronicle: November 2026
+- `news/IS_NEWS_2026-11-18-dhs-denounces-texas-officials-for-allegedly-planning-to-end-cooperation-with-ice.md` — DHS release: DHS Denounces Texas Officials for Allegedly Planning to End Cooperation with ICE
+- `news/IS_NEWS_2026-11-18-dhs-ice-lodges-detainer-for-man-arrested-in-oklahoma.md` — DHS release: ICE Lodges Detainer for Alien Arrested in Oklahoma for Kidnapping and Raping a Minor
+- `news/IS_NEWS_2026-11-18-dhs-sanctuary-insanity-minneapolis-release-after-domestic-assault-arrest.md` — DHS release: SANCTUARY INSANITY: DHS Condemns Sanctuary Politicians in Minneapolis for Releasing Illegal Alien Arrested for Domestic Assault
+- `news/IS_NEWS_2026-11-18-dhs-worst-of-the-worst-ice-arrests-murderers-sexual-predators-and-violent-assailants.md` — DHS release: WORST OF THE WORST: ICE Arrests Murderers, Sexual Predators, and Violent Assailants
+- `news/IS_NEWS_2026-11-18-fbi-fly-with-the-fbis-tactical-helicopter-unit.md` — FBI release: Fly with the FBI’s Tactical Helicopter Unit
+- `news/IS_NEWS_2026-11-18-police-in-south-west-england-postpone-their-first-live-facial-recognition-deployment-in-bath-after-objections.md` — Police in south-west England postpone their first live facial-recognition deployment, in Bath, after objections from elected representatives
+- `news/IS_NEWS_2026-11-18-russias-security-service-tells-a-court-that-a-restricted-government-decree-is-the-basis-for-regional-mobile-in.md` — Russia's security service tells a court that a restricted government decree is the basis for regional mobile internet shutdowns
+- `news/IS_NEWS_2026-11-18-spains-health-ministry-reports-574-assisted-deaths-in-2025-and-382-applicants-who-died-while-their-request-was.md` — Spain's health ministry reports 574 assisted deaths in 2025 and 382 applicants who died while their request was being processed
+- `news/IS_NEWS_2026-11-18-us-indicts-a-russian-national-accused-of-acting-as-russias-agent-by-surveilling-and-stalking-employees-of-a-si.md` — US indicts a Russian national accused of acting as Russia's agent by surveilling and stalking employees of a Silicon Valley defence-technology company
+- `news/IS_NEWS_2026-11-18-us-intelligence-fbi-and-homeland-security-officials-tell-congress-the-recent-run-of-outages-showed-no-sign-of.md` — US intelligence, FBI and homeland security officials tell Congress the recent run of outages showed no sign of a cyberattack
+- `news/IS_NEWS_2026-11-18-white-house-fact-sheet-economic-deals-for-american-workers-and-leadership-in-asia.md` — White House release: Fact Sheet: President [name] Secures Historic Economic Deals for American Workers and Strengthens America’s Leadership in Asia
+- `news/IS_NEWS_2026-11-18-white-house-no-indication-of-a-cyberattack-on-recent-tech-outages.md` — White House release: “No Indication of a Cyberattack”: DNI [name] and Secretary [name] on Recent Tech Outages
 - `news/IS_NEWS_undated-anomalous-health-incidents.md` — Anomalous health incidents
 - `news/IS_NEWS_undated-critical-information-infrastructure-of-russia-fstec-fsb.md` — Critical Information Infrastructure of Russia (FSTEC/FSB)
 
@@ -696,27 +762,28 @@ convicted or was sentenced. See `meta/IS_META_terms.md`.*
 
 ## What is here
 
-- 658 items, 2011-09-28 to 2026-11-17: 190 official, 163 trade press, 144 analysis, 141 news, 20 research.
-- 658 of 658 carry a summary so far; the rest say so.
+- 724 items, 2011-09-28 to 2026-11-18: 227 official, 164 analysis, 163 trade press, 149 news, 21 research.
+- 724 of 724 carry a summary so far; the rest say so.
 - `index.json` holds every item's header in one file, for counting and filtering.
 
 ## By kind of event
 
 | Kind of event | Items |
 |---|---|
-| Regulation & law | 142 |
-| Contracts & deployments | 120 |
-| Espionage & foreign agents | 86 |
-| Courts & litigation | 84 |
-| Research & breakthroughs | 69 |
+| Regulation & law | 155 |
+| Contracts & deployments | 127 |
+| Courts & litigation | 88 |
+| Espionage & foreign agents | 87 |
+| Research & breakthroughs | 75 |
 | Technology theft & export control | 54 |
-| Reports & statistics | 22 |
-| Transnational repression | 21 |
-| Murder for hire & violent plots | 18 |
-| Public health | 16 |
+| Reports & statistics | 27 |
+| Transnational repression | 23 |
+|  | 22 |
+| Murder for hire & violent plots | 19 |
+| Public health | 17 |
 | Protests | 11 |
 | Global conflict | 10 |
-| Outages & disruptions | 5 |
+| Outages & disruptions | 9 |
 
 ## Fields
 
@@ -6138,6 +6205,43 @@ A U.S. Navy petty officer who held a security clearance at Naval Base Ventura Co
 The department says he used encrypted communications and destroyed evidence. Sentencing was set for 8 January 2024, and he faces up to 20 years in prison.
 
 
+===== FILE: news/IS_NEWS_2023-10-19-analysis-handing-decisions-about-people-to-algorithms-alone-or-alongside-humans-is-harder-than-its.md · ID: IS-NEWS-2023-10-19-ANALYSIS-HANDING-DECISIONS-ABOUT-PEOPLE-TO-ALGORITHMS-ALONE-OR-ALONGSIDE-HUMANS-IS-HARDER-THAN-ITS =====
+
+```yaml
+id: IS-NEWS-2023-10-19-ANALYSIS-HANDING-DECISIONS-ABOUT-PEOPLE-TO-ALGORITHMS-ALONE-OR-ALONGSIDE-HUMANS-IS-HARDER-THAN-ITS
+slug: 2023-10-19-analysis-handing-decisions-about-people-to-algorithms-alone-or-alongside-humans-is-harder-than-its
+title: Handing decisions about people to algorithms, alone or alongside humans, is harder than its advocates claim
+collection: news
+doc_type: analysis-item
+date: 2023-10-19
+date_precision: day
+publisher: TeachPrivacy (blog)
+source_type: Analysis
+issuing_office:
+url: https://teachprivacy.com/ai-algorithms-and-awful-humans/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage:
+related:
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill (analysis-backlog.md), 19 Nov 2026; listed from the TeachPrivacy AI category archive and read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Handing decisions about people to algorithms, alone or alongside humans, is harder than its advocates claim
+
+*Daniel J. Solove, TeachPrivacy (blog), 2023-10-19. Original: <https://teachprivacy.com/ai-algorithms-and-awful-humans/>*
+
+Daniel J. Solove, writing with Hideyuki Matsumi of Vrije Universiteit Brussel, introduces a short essay (then forthcoming in the Fordham Law Review) on two common cases for automation: that human decisions are so flawed that machines should take over, and that machines and people decide better together. The authors argue that both are too optimistic when the decision is about a person.
+
+They argue that algorithms do not reason like unbiased humans but reach conclusions by different routes, that prejudice can survive automation, and that machines lack the moral and emotional sensitivity that judgments about people's lives require. They add that automated systems favour what can be counted over qualitative information, which can change what a decision is, and that people are poor at checking machine outputs. In their view, society is adopting algorithmic decision-making too eagerly and should first understand these mismatches.
+
+
 ===== FILE: news/IS_NEWS_2023-10-31-microsoft-quietly-launches-israeli-azure-cloud-region.md · ID: IS-NEWS-2023-10-31-MICROSOFT-QUIETLY-LAUNCHES-ISRAELI-AZURE-CLOUD-REGION =====
 
 ```yaml
@@ -6347,6 +6451,43 @@ Researchers at UC San Diego built a transparent brain implant made of graphene t
 The work was demonstrated in laboratory mice and published in Nature Nanotechnology in January 2024.
 
 
+===== FILE: news/IS_NEWS_2024-01-06-analysis-kafka-s-fiction-and-why-giving-people-control-over-their-data-is-a-dead-end-for-privacy-law.md · ID: IS-NEWS-2024-01-06-ANALYSIS-KAFKA-S-FICTION-AND-WHY-GIVING-PEOPLE-CONTROL-OVER-THEIR-DATA-IS-A-DEAD-END-FOR-PRIVACY-LAW =====
+
+```yaml
+id: IS-NEWS-2024-01-06-ANALYSIS-KAFKA-S-FICTION-AND-WHY-GIVING-PEOPLE-CONTROL-OVER-THEIR-DATA-IS-A-DEAD-END-FOR-PRIVACY-LAW
+slug: 2024-01-06-analysis-kafka-s-fiction-and-why-giving-people-control-over-their-data-is-a-dead-end-for-privacy-law
+title: Kafka's fiction and why giving people control over their data is a dead end for privacy law
+collection: news
+doc_type: analysis-item
+date: 2024-01-06
+date_precision: day
+publisher: TeachPrivacy (blog)
+source_type: Analysis
+issuing_office:
+url: https://teachprivacy.com/kafka-in-the-age-of-ai-and-the-futility-of-privacy-as-control/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage:
+related:
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill (analysis-backlog.md), 19 Nov 2026; listed from the TeachPrivacy AI category archive and read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Kafka's fiction and why giving people control over their data is a dead end for privacy law
+
+*Daniel J. Solove, TeachPrivacy (blog), 2024-01-06. Original: <https://teachprivacy.com/kafka-in-the-age-of-ai-and-the-futility-of-privacy-as-control/>*
+
+Daniel J. Solove and Woodrow Hartzog of Boston University School of Law introduce an essay (then forthcoming in the Boston University Law Review) that reads Franz Kafka's fiction against modern privacy law. They argue that most privacy statutes follow what they call an individual control model, giving people rights to manage their own data, and that Kafka's characters, who submit to the systems that harm them and blame themselves, show why this fails.
+
+In their account, people handed control over their data tend to give it back to large organisations even at their own expense, and this would remain true if manipulative design were removed. They argue that AI deepens the problem. Their proposal is that privacy law should stop aiming chiefly at individual control and instead build a societal structure that keeps the collection, use and disclosure of personal data in check.
+
+
 ===== FILE: news/IS_NEWS_2024-01-08-aws-wins-gbp94m-contract-with-uk-dwp.md · ID: IS-NEWS-2024-01-08-AWS-WINS-GBP94M-CONTRACT-WITH-UK-DWP =====
 
 ```yaml
@@ -6415,6 +6556,43 @@ disclaimer: meta/IS_META_terms.md
 One Iranian and two Canadian nationals have been indicted in Minnesota on a charge of conspiring to use interstate commerce in a murder-for-hire plot, the Justice Department announced on 29 January 2024. Prosecutors allege they recruited people to travel to the United States to kill two Maryland residents who had defected from Iran, and negotiated a payment of $350,000 plus $20,000 in expenses.
 
 According to the department, the Iranian national is believed to be in Iran and the two Canadians are held in Canada on unrelated charges; one also faces firearms charges. These are charges only: every defendant is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2024-02-01-analysis-ai-recombines-and-intensifies-old-privacy-problems-and-a-roadmap-for-how-privacy-law-should.md · ID: IS-NEWS-2024-02-01-ANALYSIS-AI-RECOMBINES-AND-INTENSIFIES-OLD-PRIVACY-PROBLEMS-AND-A-ROADMAP-FOR-HOW-PRIVACY-LAW-SHOULD =====
+
+```yaml
+id: IS-NEWS-2024-02-01-ANALYSIS-AI-RECOMBINES-AND-INTENSIFIES-OLD-PRIVACY-PROBLEMS-AND-A-ROADMAP-FOR-HOW-PRIVACY-LAW-SHOULD
+slug: 2024-02-01-analysis-ai-recombines-and-intensifies-old-privacy-problems-and-a-roadmap-for-how-privacy-law-should
+title: AI recombines and intensifies old privacy problems, and a roadmap for how privacy law should respond
+collection: news
+doc_type: analysis-item
+date: 2024-02-01
+date_precision: day
+publisher: TeachPrivacy (blog)
+source_type: Analysis
+issuing_office:
+url: https://teachprivacy.com/artificial-intelligence-and-privacy/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage:
+related:
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill (analysis-backlog.md), 19 Nov 2026; listed from the TeachPrivacy AI category archive and read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# AI recombines and intensifies old privacy problems, and a roadmap for how privacy law should respond
+
+*Daniel J. Solove, TeachPrivacy (blog), 2024-02-01. Original: <https://teachprivacy.com/artificial-intelligence-and-privacy/>*
+
+Daniel J. Solove introduces his article "Artificial Intelligence and Privacy", which he describes as an attempt to map the whole relationship between AI and privacy and to set out how privacy law should govern AI. He answers sceptics who doubt that privacy law suits AI by arguing that current law falls well short but that, reconceived and properly structured, it could go a long way.
+
+He argues that the privacy problems arise both in the data AI systems take in and in what they produce, and that most are variations on long-standing problems rather than new ones. What is different, in his view, is that AI combines these problems in complex ways and often intensifies them to new levels. He calls AI no unexpected upheaval for privacy but a test that exposes the weaknesses and gaps in existing laws, which he says will need amendment or new legislation.
 
 
 ===== FILE: news/IS_NEWS_2024-03-01-microsoft-suspends-access-to-cloud-services-for-russian.md · ID: IS-NEWS-2024-03-01-MICROSOFT-SUSPENDS-ACCESS-TO-CLOUD-SERVICES-FOR-RUSSIAN =====
@@ -6877,6 +7055,43 @@ Microsoft has launched its first cloud region in Mexico, Azure Mexico Central, i
 DatacenterDynamics notes that AWS and Google had also announced regions near Querétaro, and that Huawei and Oracle already operate in Mexico.
 
 
+===== FILE: news/IS_NEWS_2024-07-03-analysis-scraping-personal-data-to-train-ai-clashes-with-core-privacy-principles-and-being-public-is-no.md · ID: IS-NEWS-2024-07-03-ANALYSIS-SCRAPING-PERSONAL-DATA-TO-TRAIN-AI-CLASHES-WITH-CORE-PRIVACY-PRINCIPLES-AND-BEING-PUBLIC-IS-NO =====
+
+```yaml
+id: IS-NEWS-2024-07-03-ANALYSIS-SCRAPING-PERSONAL-DATA-TO-TRAIN-AI-CLASHES-WITH-CORE-PRIVACY-PRINCIPLES-AND-BEING-PUBLIC-IS-NO
+slug: 2024-07-03-analysis-scraping-personal-data-to-train-ai-clashes-with-core-privacy-principles-and-being-public-is-no
+title: Scraping personal data to train AI clashes with core privacy principles, and being public is no excuse
+collection: news
+doc_type: analysis-item
+date: 2024-07-03
+date_precision: day
+publisher: TeachPrivacy (blog)
+source_type: Analysis
+issuing_office:
+url: https://teachprivacy.com/the-great-scrape-the-clash-between-scraping-and-privacy/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage:
+related:
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill (analysis-backlog.md), 19 Nov 2026; listed from the TeachPrivacy AI category archive and read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Scraping personal data to train AI clashes with core privacy principles, and being public is no excuse
+
+*Daniel J. Solove, TeachPrivacy (blog), 2024-07-03. Original: <https://teachprivacy.com/the-great-scrape-the-clash-between-scraping-and-privacy/>*
+
+Daniel J. Solove and Woodrow Hartzog introduce a draft essay on the automated bulk collection of web data that feeds facial recognition, deepfakes and generative AI. They accept that scraping has legitimate uses, such as search engines, archiving and research, but argue that scraping for AI can harm individuals and society.
+
+Their central claim is that scraping cuts against almost every principle behind privacy law, including fairness, individual rights, transparency, consent, purpose limits, data minimisation, limits on onward transfer and security. They argue that scrapers have escaped scrutiny by treating anything publicly reachable as free to take, and they reject that view, pointing out that privacy law already protects some public information. They call the current wave of collection a "great scrape" and argue that it needs a reconciliation with privacy law.
+
+
 ===== FILE: news/IS_NEWS_2024-07-04-australian-government-signs-aws-to-deliver-2bn-top-secret.md · ID: IS-NEWS-2024-07-04-AUSTRALIAN-GOVERNMENT-SIGNS-AWS-TO-DELIVER-2BN-TOP-SECRET =====
 
 ```yaml
@@ -6910,6 +7125,43 @@ disclaimer: meta/IS_META_terms.md
 The Australian government has signed Amazon Web Services to build a top-secret cloud for defence and national intelligence agencies, worth at least $2 billion over ten years, iTnews reported on 4 July 2024. According to iTnews, the cloud will host and analyse the country's most classified data, support AI and machine learning, and serve agencies including the Australian Signals Directorate and the Office of National Intelligence.
 
 iTnews notes the deal uses a single vendor, unlike the U.S. equivalent, and supports the separate $10 billion REDSPICE cyber program.
+
+
+===== FILE: news/IS_NEWS_2024-07-07-analysis-ai-as-a-rebrand-of-older-technology-and-the-risk-of-treating-it-as-an-exception-to-existing.md · ID: IS-NEWS-2024-07-07-ANALYSIS-AI-AS-A-REBRAND-OF-OLDER-TECHNOLOGY-AND-THE-RISK-OF-TREATING-IT-AS-AN-EXCEPTION-TO-EXISTING =====
+
+```yaml
+id: IS-NEWS-2024-07-07-ANALYSIS-AI-AS-A-REBRAND-OF-OLDER-TECHNOLOGY-AND-THE-RISK-OF-TREATING-IT-AS-AN-EXCEPTION-TO-EXISTING
+slug: 2024-07-07-analysis-ai-as-a-rebrand-of-older-technology-and-the-risk-of-treating-it-as-an-exception-to-existing
+title: AI as a rebrand of older technology, and the risk of treating it as an exception to existing privacy law
+collection: news
+doc_type: analysis-item
+date: 2024-07-07
+date_precision: day
+publisher: TeachPrivacy (blog)
+source_type: Analysis
+issuing_office:
+url: https://teachprivacy.com/ais-fishy-branding/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage:
+related:
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill (analysis-backlog.md), 19 Nov 2026; listed from the TeachPrivacy AI category archive and read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# AI as a rebrand of older technology, and the risk of treating it as an exception to existing privacy law
+
+*Daniel J. Solove, TeachPrivacy (blog), 2024-07-07. Original: <https://teachprivacy.com/ais-fishy-branding/>*
+
+Daniel J. Solove compares AI to fish that became fashionable after being renamed, arguing that much of what is sold as AI is long-established machine learning given a new label that draws hype and investment. He warns against what he calls AI exceptionalism, the idea that AI is a clean break from the past, because it could lead policymakers to overlook the privacy laws that already apply.
+
+In his view AI does not escape existing law so much as reveal its long-standing weaknesses. He also argues that popularity drives misuse, with AI pushed into tasks it was not built for, and suggests that many so-called hallucinations come from that mismatch. He concludes that framing shapes how a technology spreads, and that much of AI's power depends on how people perceive it.
 
 
 ===== FILE: news/IS_NEWS_2024-07-25-two-men-plead-guilty-to-acting-as-illegal-agents-of-the.md · ID: IS-NEWS-2024-07-25-TWO-MEN-PLEAD-GUILTY-TO-ACTING-AS-ILLEGAL-AGENTS-OF-THE =====
@@ -7616,6 +7868,43 @@ disclaimer: meta/IS_META_terms.md
 *Institute for Justice, 2024-12-01. Original: <https://ij.org/press-release/case-closed-pasco-sheriff-admits-predictive-policing-program-violated-residents-constitutional-rights>*
 
 The Pasco County Sheriff's Office in Florida has admitted that its predictive policing program violated the Constitution, the Institute for Justice says, closing a lawsuit over the program. Other news reports say the sheriff agreed to end the program to settle the lawsuit, which alleged harassment of residents.
+
+
+===== FILE: news/IS_NEWS_2024-12-02-analysis-california-and-colorado-neural-data-laws-leave-key-terms-undefined-so-regulators-should.md · ID: IS-NEWS-2024-12-02-ANALYSIS-CALIFORNIA-AND-COLORADO-NEURAL-DATA-LAWS-LEAVE-KEY-TERMS-UNDEFINED-SO-REGULATORS-SHOULD =====
+
+```yaml
+id: IS-NEWS-2024-12-02-ANALYSIS-CALIFORNIA-AND-COLORADO-NEURAL-DATA-LAWS-LEAVE-KEY-TERMS-UNDEFINED-SO-REGULATORS-SHOULD
+slug: 2024-12-02-analysis-california-and-colorado-neural-data-laws-leave-key-terms-undefined-so-regulators-should
+title: California and Colorado neural data laws leave key terms undefined, so regulators should implement them flexibly
+collection: news
+doc_type: analysis-item
+date: 2024-12-02
+date_precision: day
+publisher: Stanford Law School, Law and Biosciences Blog
+source_type: Analysis
+issuing_office:
+url: https://law.stanford.edu/2024/12/02/what-are-neural-data-an-invitation-to-flexible-regulatory-implementation/
+archived_url:
+industry: Neurotechnology
+event: Regulation & law
+country: United States
+stage:
+related:
+kind: analysis
+commentator: Walter Johnson
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill (analysis-backlog.md), 19 Nov 2026; listed by web search of the Law and Biosciences Blog and read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# California and Colorado neural data laws leave key terms undefined, so regulators should implement them flexibly
+
+*Walter Johnson, Stanford Law School, Law and Biosciences Blog, 2024-12-02. Original: <https://law.stanford.edu/2024/12/02/what-are-neural-data-an-invitation-to-flexible-regulatory-implementation/>*
+
+Walter Johnson, writing on the Stanford Law School Law and Biosciences Blog, examines the neural data provisions in California's and Colorado's privacy laws, using a smart-glasses wristband that reads muscle signals from the peripheral nervous system as a test case. He argues that California's definition creates three categories, central nervous system, peripheral nervous system and non-neural data, without defining them or the lines between them, and notes that a definition of neurotechnology was dropped from an earlier draft without explanation, leaving the law's aim unclear.
+
+He finds Colorado's approach, which places neural data within a wider category of biological data and focuses on risks to health, emotion and cognition, a more useful guide. Because both statutes are vague, he recommends principles-based implementation in which regulators consult widely, including consumer advocates and civil society as well as device makers, and refine the rules over time.
 
 
 ===== FILE: news/IS_NEWS_2024-12-07-google-launches-mexican-cloud-region-in-queretaro.md · ID: IS-NEWS-2024-12-07-GOOGLE-LAUNCHES-MEXICAN-CLOUD-REGION-IN-QUERETARO =====
@@ -14237,6 +14526,43 @@ In his technology and humanities series, Daniel J. Solove revisits the debate ov
 Solove concludes that both were right: people live in a surveillance society they embrace because it pleases them, under governments and companies that manipulate them. He argues that the core element the two share is the suppression of independent thought, and that both missed the private sector, which he says amplifies government power and exercises its own, echoing his argument that surveillance capitalism and government surveillance must be regulated together.
 
 
+===== FILE: news/IS_NEWS_2026-06-10-analysis-a-television-drama-read-as-a-study-of-authoritarian-rule-surveillance-and-the-people-who-serve.md · ID: IS-NEWS-2026-06-10-ANALYSIS-A-TELEVISION-DRAMA-READ-AS-A-STUDY-OF-AUTHORITARIAN-RULE-SURVEILLANCE-AND-THE-PEOPLE-WHO-SERVE =====
+
+```yaml
+id: IS-NEWS-2026-06-10-ANALYSIS-A-TELEVISION-DRAMA-READ-AS-A-STUDY-OF-AUTHORITARIAN-RULE-SURVEILLANCE-AND-THE-PEOPLE-WHO-SERVE
+slug: 2026-06-10-analysis-a-television-drama-read-as-a-study-of-authoritarian-rule-surveillance-and-the-people-who-serve
+title: A television drama read as a study of authoritarian rule, surveillance and the people who serve it
+collection: news
+doc_type: analysis-item
+date: 2026-06-10
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office:
+url: https://danielsolove.substack.com/p/andor-and-authoritarianism
+archived_url:
+industry: Government cloud & surveillance technology
+event: Research & breakthroughs
+country: 
+stage:
+related:
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill (analysis-backlog.md), 19 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A television drama read as a study of authoritarian rule, surveillance and the people who serve it
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-06-10. Original: <https://danielsolove.substack.com/p/andor-and-authoritarianism>*
+
+Daniel J. Solove argues that the Star Wars series Andor is one of the finest portrayals of authoritarian rule and of resistance to it, and that it explores surveillance, disinformation and the dehumanising effect of bureaucracy. He values its refusal to draw simple moral lines and reads its exhausting, costly picture of rebellion as a warning about what defending freedom takes.
+
+Drawing on Hannah Arendt, he argues that much harm is done by careerists who never decide whether to be good or evil, and he compares them to technology leaders who chase growth whatever the harm, while saying he does not consider those leaders evil. He treats technology as a tool of power rather than its source, and argues that such regimes grow through lies, manipulation and the capitulation of ordinary people, while their rigid bureaucracy leaves cracks for resistance.
+
+
 ===== FILE: news/IS_NEWS_2026-06-15-aws-secures-2-6b-dhs-wide-cumulus-cloud-project.md · ID: IS-NEWS-2026-06-15-AWS-SECURES-2-6B-DHS-WIDE-CUMULUS-CLOUD-PROJECT =====
 
 ```yaml
@@ -14309,6 +14635,43 @@ The Department of Homeland Security has finalized the first of four cloud awards
 DHS planned similar awards with Oracle, Google Cloud and Microsoft by the end of June 2026. The aim is to bring the department's cloud buying together and see its cloud spending in one place.
 
 
+===== FILE: news/IS_NEWS_2026-06-17-analysis-six-reasons-why-treating-personal-data-as-property-would-not-protect-privacy.md · ID: IS-NEWS-2026-06-17-ANALYSIS-SIX-REASONS-WHY-TREATING-PERSONAL-DATA-AS-PROPERTY-WOULD-NOT-PROTECT-PRIVACY =====
+
+```yaml
+id: IS-NEWS-2026-06-17-ANALYSIS-SIX-REASONS-WHY-TREATING-PERSONAL-DATA-AS-PROPERTY-WOULD-NOT-PROTECT-PRIVACY
+slug: 2026-06-17-analysis-six-reasons-why-treating-personal-data-as-property-would-not-protect-privacy
+title: Six reasons why treating personal data as property would not protect privacy
+collection: news
+doc_type: analysis-item
+date: 2026-06-17
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office:
+url: https://danielsolove.substack.com/p/privacy-as-property
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage:
+related:
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill (analysis-backlog.md), 19 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Six reasons why treating personal data as property would not protect privacy
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-06-17. Original: <https://danielsolove.substack.com/p/privacy-as-property>*
+
+Daniel J. Solove sets out the case for giving people ownership of their personal data and then argues against it on six grounds. He says that property can be sold, so companies would acquire people's data and could press them to give up protections that current law makes non-waivable; that labelling data as property would legitimise the existing trade of data for free services; and that people cannot price their data, because its risks depend on aggregation and unknown future uses.
+
+He adds that privacy's value is not only financial, that much data is shared between people and has no single owner, and that ownership is too individualistic when AI trained on other people's data affects everyone. He concludes that ownership and individual control are the wrong tools and argues for consumer-protection rules aimed at risk and harm.
+
+
 ===== FILE: news/IS_NEWS_2026-06-17-navy-neptune-awards-four-jwcc-cloud-task-orders.md · ID: IS-NEWS-2026-06-17-NAVY-NEPTUNE-AWARDS-FOUR-JWCC-CLOUD-TASK-ORDERS =====
 
 ```yaml
@@ -14379,6 +14742,191 @@ disclaimer: meta/IS_META_terms.md
 Amazon Web Services has pledged a further $13 billion for AI and cloud infrastructure in India, expanding data center capacity in Mumbai and Hyderabad, DatacenterDynamics reported on 25 June 2026. Amazon says this brings its total planned investment in India across all its businesses to $48 billion between 2026 and 2030.
 
 DatacenterDynamics notes that the split between the two regions was not disclosed. Earlier AWS commitments included $8.3 billion for the Mumbai region in 2025 and $7 billion for Hyderabad in December 2025.
+
+
+===== FILE: news/IS_NEWS_2026-06-28-analysis-a-satirical-television-series-about-a-tech-billionaire-as-a-portrait-of-an-industry-that-mines.md · ID: IS-NEWS-2026-06-28-ANALYSIS-A-SATIRICAL-TELEVISION-SERIES-ABOUT-A-TECH-BILLIONAIRE-AS-A-PORTRAIT-OF-AN-INDUSTRY-THAT-MINES =====
+
+```yaml
+id: IS-NEWS-2026-06-28-ANALYSIS-A-SATIRICAL-TELEVISION-SERIES-ABOUT-A-TECH-BILLIONAIRE-AS-A-PORTRAIT-OF-AN-INDUSTRY-THAT-MINES
+slug: 2026-06-28-analysis-a-satirical-television-series-about-a-tech-billionaire-as-a-portrait-of-an-industry-that-mines
+title: A satirical television series about a tech billionaire as a portrait of an industry that mines personal data
+collection: news
+doc_type: analysis-item
+date: 2026-06-28
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office:
+url: https://danielsolove.substack.com/p/the-audacity-big-tech-and-the-battle
+archived_url:
+industry: Artificial intelligence
+event: Research & breakthroughs
+country: 
+stage:
+related:
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill (analysis-backlog.md), 19 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A satirical television series about a tech billionaire as a portrait of an industry that mines personal data
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-06-28. Original: <https://danielsolove.substack.com/p/the-audacity-big-tech-and-the-battle>*
+
+Daniel J. Solove reviews the 2026 television series The Audacity, which he describes as a satire combining the bleakness of Succession with the workplace comedy of Silicon Valley. He argues that privacy is at its centre: the fictional company treats personal data as a resource to mine and sell, and he likens one of its business models, charging people for protection while selling the data of those who decline, to extortion.
+
+He argues that the series shows the technology industry itself as pathological, with constant pressure to attract investors pushing founders to abandon ethics, so that even powerful figures do not control the game. He recommends it to viewers who enjoy dark satire about privacy and technology.
+
+
+===== FILE: news/IS_NEWS_2026-07-02-analysis-is-the-third-party-doctrine-dead-a-geofence-ruling-narrows-it-a-concurrence-offers-a-property.md · ID: IS-NEWS-2026-07-02-ANALYSIS-IS-THE-THIRD-PARTY-DOCTRINE-DEAD-A-GEOFENCE-RULING-NARROWS-IT-A-CONCURRENCE-OFFERS-A-PROPERTY =====
+
+```yaml
+id: IS-NEWS-2026-07-02-ANALYSIS-IS-THE-THIRD-PARTY-DOCTRINE-DEAD-A-GEOFENCE-RULING-NARROWS-IT-A-CONCURRENCE-OFFERS-A-PROPERTY
+slug: 2026-07-02-analysis-is-the-third-party-doctrine-dead-a-geofence-ruling-narrows-it-a-concurrence-offers-a-property
+title: Is the third-party doctrine dead? A geofence ruling narrows it, a concurrence offers a property theory, and warrants stay weak
+collection: news
+doc_type: analysis-item
+date: 2026-07-02
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office:
+url: https://danielsolove.substack.com/p/is-the-fourth-amendment-third-party
+archived_url:
+industry: Government cloud & surveillance technology
+event: Courts & litigation
+country: United States
+stage:
+related:
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill (analysis-backlog.md), 19 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Is the third-party doctrine dead? A geofence ruling narrows it, a concurrence offers a property theory, and warrants stay weak
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-07-02. Original: <https://danielsolove.substack.com/p/is-the-fourth-amendment-third-party>*
+
+Daniel J. Solove reads the U.S. Supreme Court's 2026 geofence-warrant decision as holding that people have a reasonable expectation of privacy in location data held by a company, so the Fourth Amendment applies. He argues that the Court narrowed the third-party doctrine rather than abolishing it, and identifies three limits it drew: data that forms an exhaustive chronicle of a life, tools that are indispensable to daily life, and data people regard as their own.
+
+He discusses Justice Gorsuch's concurrence, which treats such data as a person's effects under a property theory; he says he is generally sceptical of property theories but thinks this one fits the Fourth Amendment better. He argues that geofence warrants resemble the general warrants the amendment was meant to stop, cites research showing warrants are almost always approved, and asks whether some data should be off-limits to the government even with a warrant.
+
+
+===== FILE: news/IS_NEWS_2026-07-08-analysis-italo-calvino-s-stories-as-a-warning-against-treating-data-as-an-idol-and-what-that-means-for.md · ID: IS-NEWS-2026-07-08-ANALYSIS-ITALO-CALVINO-S-STORIES-AS-A-WARNING-AGAINST-TREATING-DATA-AS-AN-IDOL-AND-WHAT-THAT-MEANS-FOR =====
+
+```yaml
+id: IS-NEWS-2026-07-08-ANALYSIS-ITALO-CALVINO-S-STORIES-AS-A-WARNING-AGAINST-TREATING-DATA-AS-AN-IDOL-AND-WHAT-THAT-MEANS-FOR
+slug: 2026-07-08-analysis-italo-calvino-s-stories-as-a-warning-against-treating-data-as-an-idol-and-what-that-means-for
+title: Italo Calvino's stories as a warning against treating data as an idol, and what that means for AI
+collection: news
+doc_type: analysis-item
+date: 2026-07-08
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office:
+url: https://danielsolove.substack.com/p/the-false-idolatry-of-data-calvinos
+archived_url:
+industry: Artificial intelligence
+event: Research & breakthroughs
+country: 
+stage:
+related:
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill (analysis-backlog.md), 19 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Italo Calvino's stories as a warning against treating data as an idol, and what that means for AI
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-07-08. Original: <https://danielsolove.substack.com/p/the-false-idolatry-of-data-calvinos>*
+
+Daniel J. Solove reads Italo Calvino's collection Numbers in the Dark as a prescient critique of excessive faith in data. He argues that the story "World Memory", about an archive meant to record everything before humanity ends, anticipates AI, with the collection becoming an end in itself and records starting to replace the people they describe.
+
+He finds a story Calvino wrote for a computer company playful but slight, while drawing from it the point that a machine can generate endless combinations yet cannot match open-ended human imagination. From the title story, in which a century-old accounting error grows into a distortion machines cannot correct, he draws what he calls the core lesson: AI is only as reliable as its underlying data, and flaws at the foundation keep compounding.
+
+
+===== FILE: news/IS_NEWS_2026-07-22-analysis-ai-already-acts-as-a-tax-on-society-by-pushing-its-costs-onto-the-public-an-essay-argues.md · ID: IS-NEWS-2026-07-22-ANALYSIS-AI-ALREADY-ACTS-AS-A-TAX-ON-SOCIETY-BY-PUSHING-ITS-COSTS-ONTO-THE-PUBLIC-AN-ESSAY-ARGUES =====
+
+```yaml
+id: IS-NEWS-2026-07-22-ANALYSIS-AI-ALREADY-ACTS-AS-A-TAX-ON-SOCIETY-BY-PUSHING-ITS-COSTS-ONTO-THE-PUBLIC-AN-ESSAY-ARGUES
+slug: 2026-07-22-analysis-ai-already-acts-as-a-tax-on-society-by-pushing-its-costs-onto-the-public-an-essay-argues
+title: AI already acts as a tax on society by pushing its costs onto the public, an essay argues
+collection: news
+doc_type: analysis-item
+date: 2026-07-22
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office:
+url: https://danielsolove.substack.com/p/ais-tax-on-society
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage:
+related:
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill (analysis-backlog.md), 19 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# AI already acts as a tax on society by pushing its costs onto the public, an essay argues
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-07-22. Original: <https://danielsolove.substack.com/p/ais-tax-on-society>*
+
+Daniel J. Solove argues that AI already works as a large tax on society, because it depends on constant venture investment and on shifting its costs to the public, and might not survive ordinary market pressure. He lists the costs he sees as externalised: water and electricity use that raises utility bills and harms the environment; training on personal data scraped from the internet, which he says is not free to take merely because it is online; and creative work used without payment.
+
+He adds the displacement of workers and creators, extra labour for schools and publishers dealing with misuse, and direct harms such as deepfakes and chatbots encouraging self-harm. He says he is not against AI, and argues that making companies bear their own costs, follow the same rules as everyone else and stop lobbying against controls would reveal its genuinely useful applications.
+
+
+===== FILE: news/IS_NEWS_2026-07-23-analysis-young-people-do-care-about-privacy-and-why-what-they-share-online-does-not-show-otherwise.md · ID: IS-NEWS-2026-07-23-ANALYSIS-YOUNG-PEOPLE-DO-CARE-ABOUT-PRIVACY-AND-WHY-WHAT-THEY-SHARE-ONLINE-DOES-NOT-SHOW-OTHERWISE =====
+
+```yaml
+id: IS-NEWS-2026-07-23-ANALYSIS-YOUNG-PEOPLE-DO-CARE-ABOUT-PRIVACY-AND-WHY-WHAT-THEY-SHARE-ONLINE-DOES-NOT-SHOW-OTHERWISE
+slug: 2026-07-23-analysis-young-people-do-care-about-privacy-and-why-what-they-share-online-does-not-show-otherwise
+title: Young people do care about privacy, and why what they share online does not show otherwise
+collection: news
+doc_type: analysis-item
+date: 2026-07-23
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office:
+url: https://danielsolove.substack.com/p/do-young-people-care-about-privacy
+archived_url:
+industry: Artificial intelligence
+event: Reports & statistics
+country: 
+stage:
+related:
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill (analysis-backlog.md), 19 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Young people do care about privacy, and why what they share online does not show otherwise
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-07-23. Original: <https://danielsolove.substack.com/p/do-young-people-care-about-privacy>*
+
+Daniel J. Solove rejects the common claim that young people do not care about privacy because they share so much online, arguing that older generations built a technological environment that pushes the young to disclose, and that blaming them shifts responsibility onto those with the least control. Reprinting an earlier essay, he cites research finding that young people's privacy attitudes differ little from older adults', and a poll in which college students ranked privacy and security as their top online concern.
+
+He offers four reasons for the gap between attitude and behaviour: teenagers may not weigh consequences carefully yet; digital tools are woven into daily life and hard to avoid; posting online lacks the social cues of speaking to a room; and young people understand privacy as managing who sees what, not as hiding everything.
 
 
 ===== FILE: news/IS_NEWS_2026-07-27-ebay-harassment-civil-suit-settles.md · ID: IS-NEWS-2026-07-27-EBAY-HARASSMENT-CIVIL-SUIT-SETTLES =====
@@ -14489,6 +15037,80 @@ The Department of Homeland Security reported on 29 July 2026 that operations aga
 The figures are the department's own count across the tournament's host cities. An arrest is not a conviction: every person arrested is presumed innocent unless proven guilty in court.
 
 
+===== FILE: news/IS_NEWS_2026-08-02-analysis-an-asimov-story-about-a-computer-that-picks-an-election-winner-read-as-a-warning-about-faith-in.md · ID: IS-NEWS-2026-08-02-ANALYSIS-AN-ASIMOV-STORY-ABOUT-A-COMPUTER-THAT-PICKS-AN-ELECTION-WINNER-READ-AS-A-WARNING-ABOUT-FAITH-IN =====
+
+```yaml
+id: IS-NEWS-2026-08-02-ANALYSIS-AN-ASIMOV-STORY-ABOUT-A-COMPUTER-THAT-PICKS-AN-ELECTION-WINNER-READ-AS-A-WARNING-ABOUT-FAITH-IN
+slug: 2026-08-02-analysis-an-asimov-story-about-a-computer-that-picks-an-election-winner-read-as-a-warning-about-faith-in
+title: An Asimov story about a computer that picks an election winner, read as a warning about faith in AI prediction
+collection: news
+doc_type: analysis-item
+date: 2026-08-02
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office:
+url: https://danielsolove.substack.com/p/blind-faith-in-tech-asimovs-franchise
+archived_url:
+industry: Artificial intelligence
+event: Courts & litigation
+country: United States
+stage:
+related:
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill (analysis-backlog.md), 19 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# An Asimov story about a computer that picks an election winner, read as a warning about faith in AI prediction
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-08-02. Original: <https://danielsolove.substack.com/p/blind-faith-in-tech-asimovs-franchise>*
+
+Daniel J. Solove uses Isaac Asimov's 1955 story "Franchise", in which a computer decides a national election by questioning one chosen citizen, to argue that blind faith in prediction has become literal. He says algorithmic forecasts now shape hiring, credit, education, pretrial detention and sentencing, although human behaviour remains hard to predict reliably.
+
+Drawing on other scholars, he argues that predictions about people tend to steer outcomes rather than simply foresee them, taking choices away from individuals, and that people defer too readily to machines and to AI companies' promotional claims. He points to a Wisconsin court decision that refused a defendant access to a proprietary risk algorithm used at sentencing, arguing that it let a trade-secret claim outweigh due process and shows how law can entrench unjustified trust in technology.
+
+
+===== FILE: news/IS_NEWS_2026-08-12-analysis-zamyatin-s-we-as-the-founding-modern-dystopia-and-a-warning-about-trading-freedom-for.md · ID: IS-NEWS-2026-08-12-ANALYSIS-ZAMYATIN-S-WE-AS-THE-FOUNDING-MODERN-DYSTOPIA-AND-A-WARNING-ABOUT-TRADING-FREEDOM-FOR =====
+
+```yaml
+id: IS-NEWS-2026-08-12-ANALYSIS-ZAMYATIN-S-WE-AS-THE-FOUNDING-MODERN-DYSTOPIA-AND-A-WARNING-ABOUT-TRADING-FREEDOM-FOR
+slug: 2026-08-12-analysis-zamyatin-s-we-as-the-founding-modern-dystopia-and-a-warning-about-trading-freedom-for
+title: Zamyatin's We as the founding modern dystopia and a warning about trading freedom for efficiency
+collection: news
+doc_type: analysis-item
+date: 2026-08-12
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office:
+url: https://danielsolove.substack.com/p/the-novel-that-influenced-a-century
+archived_url:
+industry: Government cloud & surveillance technology
+event: Research & breakthroughs
+country: 
+stage:
+related:
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill (analysis-backlog.md), 19 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Zamyatin's We as the founding modern dystopia and a warning about trading freedom for efficiency
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-08-12. Original: <https://danielsolove.substack.com/p/the-novel-that-influenced-a-century>*
+
+Daniel J. Solove argues that Yevgeny Zamyatin's novel We deserves recognition as a founding dystopian work, because it shaped later books including Orwell's Nineteen Eighty-Four. He recounts how the manuscript was smuggled out of the Soviet Union and how Zamyatin died in poverty in Paris, and reads the novel chiefly as a commentary on the Soviet state and the loss of individuality, in a world of numbered citizens and glass buildings.
+
+Disagreeing with a reading that faults the book's focus on rational order, he argues that an excess of almost anything, efficiency included, produces dystopia, and sees in it a critique of scientific management that persists in corporations. He links its warning to present-day fulfilment centres, gig-work apps, data brokers, licence-plate and facial-recognition cameras, and government efficiency drives.
+
+
 ===== FILE: news/IS_NEWS_2026-08-18-fbi-violent-crime-drop-in-2025.md · ID: IS-NEWS-2026-08-18-FBI-VIOLENT-CRIME-DROP-IN-2025 =====
 
 ```yaml
@@ -14523,6 +15145,43 @@ disclaimer: meta/IS_META_terms.md
 Axios reports FBI figures showing violent crime in the United States fell 9.7% in 2025, which the FBI calls the largest one-year drop since its national estimates began in 1936. Murder and non-negligent manslaughter fell 18.1%, to a rate of 4.1 per 100,000 people.
 
 The figures are estimates built from about 17,000 law enforcement agencies covering more than 96% of the population. Axios notes the drop was broad enough that no single policy explains it.
+
+
+===== FILE: news/IS_NEWS_2026-08-23-analysis-u-s-state-consumer-privacy-laws-share-more-than-they-differ-a-primer-on-scope-rights-and.md · ID: IS-NEWS-2026-08-23-ANALYSIS-U-S-STATE-CONSUMER-PRIVACY-LAWS-SHARE-MORE-THAN-THEY-DIFFER-A-PRIMER-ON-SCOPE-RIGHTS-AND =====
+
+```yaml
+id: IS-NEWS-2026-08-23-ANALYSIS-U-S-STATE-CONSUMER-PRIVACY-LAWS-SHARE-MORE-THAN-THEY-DIFFER-A-PRIMER-ON-SCOPE-RIGHTS-AND
+slug: 2026-08-23-analysis-u-s-state-consumer-privacy-laws-share-more-than-they-differ-a-primer-on-scope-rights-and
+title: U.S. state consumer privacy laws share more than they differ: a primer on scope, rights and enforcement
+collection: news
+doc_type: analysis-item
+date: 2026-08-23
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office:
+url: https://danielsolove.substack.com/p/understanding-the-patchwork-of-us
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage:
+related:
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill (analysis-backlog.md), 19 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# U.S. state consumer privacy laws share more than they differ: a primer on scope, rights and enforcement
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-08-23. Original: <https://danielsolove.substack.com/p/understanding-the-patchwork-of-us>*
+
+Daniel J. Solove argues that the U.S. state consumer privacy laws that began with California's in 2018, and by 2026 covered nearly half the states, look like a daunting patchwork but share a common framework. He explains that they reach out-of-state businesses serving residents, mostly exempt small businesses, and all exempt data covered by federal laws such as HIPAA and FERPA.
+
+He describes their basic approach as notice and choice, with opt-in consent and impact assessments for sensitive data in most states, though the sensitive categories vary. He says the individual rights are broadly consistent: to know, access, delete, port and usually correct data, and to opt out of targeted advertising, profiling and sales. Enforcement, he notes, rests mostly with state attorneys general, with modest fines, cure periods and rarely a private right of action, while a few states, such as Maryland with strict data minimisation, go further.
 
 
 ===== FILE: news/IS_NEWS_2026-08-24-analysis-a-new-run-of-an-ai-law-course-opens-with-why-the-law-struggles-to-define-artificial-intelligence.md · ID: IS-NEWS-2026-08-24-ANALYSIS-A-NEW-RUN-OF-AN-AI-LAW-COURSE-OPENS-WITH-WHY-THE-LAW-STRUGGLES-TO-DEFINE-ARTIFICIAL-INTELLIGENCE =====
@@ -15292,6 +15951,43 @@ In the eighth class of her fall 2026 AI law and policy course, Nita Farahany ope
 On bills, she notes evidence that a large new customer can raise or lower prices depending on private utility deals that are often sealed, and describes state responses such as public price lists and Ohio's rule that data centres pay for 85% of reserved power. She covers two House bills, a ratepayer protection bill that passed 417 to 3 and stalled in the Senate, and a bill to bar AI data centres from federal land, and notes that none of these laws address what the models inside the buildings do.
 
 
+===== FILE: news/IS_NEWS_2026-09-23-analysis-a-philip-roth-novel-as-a-lesson-in-how-the-privacy-torts-were-born-and-then-frozen.md · ID: IS-NEWS-2026-09-23-ANALYSIS-A-PHILIP-ROTH-NOVEL-AS-A-LESSON-IN-HOW-THE-PRIVACY-TORTS-WERE-BORN-AND-THEN-FROZEN =====
+
+```yaml
+id: IS-NEWS-2026-09-23-ANALYSIS-A-PHILIP-ROTH-NOVEL-AS-A-LESSON-IN-HOW-THE-PRIVACY-TORTS-WERE-BORN-AND-THEN-FROZEN
+slug: 2026-09-23-analysis-a-philip-roth-novel-as-a-lesson-in-how-the-privacy-torts-were-born-and-then-frozen
+title: A Philip Roth novel as a lesson in how the privacy torts were born and then frozen
+collection: news
+doc_type: analysis-item
+date: 2026-09-23
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office:
+url: https://danielsolove.substack.com/p/a-privacy-torts-lesson-from-philip
+archived_url:
+industry: Government cloud & surveillance technology
+event: Courts & litigation
+country: United States
+stage:
+related:
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill (analysis-backlog.md), 19 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A Philip Roth novel as a lesson in how the privacy torts were born and then frozen
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-09-23. Original: <https://danielsolove.substack.com/p/a-privacy-torts-lesson-from-philip>*
+
+Daniel J. Solove starts from a scene in Philip Roth's novel Operation Shylock in which a character lectures on William Prosser's four privacy torts, and supplies the history the novel leaves out. He describes how Warren and Brandeis's 1890 article, a response to sensational journalism and portable cameras, drew little response at first, how a 1902 New York ruling against a privacy claim prompted a state statute, and how adoption stayed slow for decades.
+
+He credits Prosser's 1960 article and the Restatement of Torts with spreading the torts, but argues that Prosser's four-category framework froze the law and ended the judicial innovation Warren and Brandeis had hoped for. He concludes that digital technology strains these torts and that Warren and Brandeis would likely call for new ones today.
+
+
 ===== FILE: news/IS_NEWS_2026-09-23-analysis-ai-bias-in-hiring-pricing-credit-and-medicine-and-a-shift-in-u-s-disparate-impact-law-that-may-make-it-harder.md · ID: IS-NEWS-2026-09-23-ANALYSIS-AI-BIAS-IN-HIRING-PRICING-CREDIT-AND-MEDICINE-AND-A-SHIFT-IN-U-S-DISPARATE-IMPACT-LAW-THAT-MAY-MAKE-IT-HARDER =====
 
 ```yaml
@@ -15435,6 +16131,43 @@ disclaimer: meta/IS_META_terms.md
 MassDevice reported on 25 September 2026 that brain-computer interface company Precision Neuroscience has raised $250 million in a Series D funding round from a group of investment firms, bringing its total funding to about $430 million.
 
 According to the report, the company plans to use the money for clinical programs, further FDA review of its Layer 7 cortical interface (which received FDA clearance in April 2025), and building out commercial operations. MassDevice says the company has carried out more than 100 patient procedures at 18 medical institutions.
+
+
+===== FILE: news/IS_NEWS_2026-09-28-analysis-technology-design-shapes-behaviour-so-regulation-has-to-reach-design-from-defaults-to-human.md · ID: IS-NEWS-2026-09-28-ANALYSIS-TECHNOLOGY-DESIGN-SHAPES-BEHAVIOUR-SO-REGULATION-HAS-TO-REACH-DESIGN-FROM-DEFAULTS-TO-HUMAN =====
+
+```yaml
+id: IS-NEWS-2026-09-28-ANALYSIS-TECHNOLOGY-DESIGN-SHAPES-BEHAVIOUR-SO-REGULATION-HAS-TO-REACH-DESIGN-FROM-DEFAULTS-TO-HUMAN
+slug: 2026-09-28-analysis-technology-design-shapes-behaviour-so-regulation-has-to-reach-design-from-defaults-to-human
+title: Technology design shapes behaviour, so regulation has to reach design, from defaults to human-seeming chatbots
+collection: news
+doc_type: analysis-item
+date: 2026-09-28
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office:
+url: https://danielsolove.substack.com/p/technological-design-is-power
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage:
+related:
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill (analysis-backlog.md), 19 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Technology design shapes behaviour, so regulation has to reach design, from defaults to human-seeming chatbots
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-09-28. Original: <https://danielsolove.substack.com/p/technological-design-is-power>*
+
+Daniel J. Solove argues that technological design shapes what people can do and how they behave and decide, so regulating technology without addressing design is nearly impossible, even though policymakers have been reluctant to try. He goes through examples: ranking algorithms that favour divisive material, for which he says companies should answer; default settings, which he argues should protect privacy because most people never change them; and an app whose competitive design encouraged reckless driving.
+
+He calls for visible signals when devices are recording and limits on recording in sensitive places, restrictions on deceptive interfaces and click tricks, built-in access limits on government tracking tools, and curbs on dark patterns. He also argues that chatbots presenting themselves as human, with first-person and emotional language, should be treated as deceptive or unfair.
 
 
 ===== FILE: news/IS_NEWS_2026-09-29-analysis-seven-kinds-of-ai-transparency-and-what-each-one-is-actually-for.md · ID: IS-NEWS-2026-09-29-ANALYSIS-SEVEN-KINDS-OF-AI-TRANSPARENCY-AND-WHAT-EACH-ONE-IS-ACTUALLY-FOR =====
@@ -15833,6 +16566,43 @@ Biometric Update reported on 3 October 2026, from federal procurement records, t
 The publication says ICE's justification states that an unplanned change of internet provider in April 2025 left wiretaps down for months, and that this was the reason for renewing with the current provider without competition. It also reports other ICE contracts that support wiretap collection, monitoring and transcription.
 
 
+===== FILE: news/IS_NEWS_2026-10-04-analysis-data-minimisation-has-little-effect-in-most-privacy-laws-and-how-to-make-it-meaningful.md · ID: IS-NEWS-2026-10-04-ANALYSIS-DATA-MINIMISATION-HAS-LITTLE-EFFECT-IN-MOST-PRIVACY-LAWS-AND-HOW-TO-MAKE-IT-MEANINGFUL =====
+
+```yaml
+id: IS-NEWS-2026-10-04-ANALYSIS-DATA-MINIMISATION-HAS-LITTLE-EFFECT-IN-MOST-PRIVACY-LAWS-AND-HOW-TO-MAKE-IT-MEANINGFUL
+slug: 2026-10-04-analysis-data-minimisation-has-little-effect-in-most-privacy-laws-and-how-to-make-it-meaningful
+title: Data minimisation has little effect in most privacy laws, and how to make it meaningful
+collection: news
+doc_type: analysis-item
+date: 2026-10-04
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office:
+url: https://danielsolove.substack.com/p/meaningful-data-minimization
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage:
+related:
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill (analysis-backlog.md), 19 Nov 2026; read from the original
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Data minimisation has little effect in most privacy laws, and how to make it meaningful
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-10-04. Original: <https://danielsolove.substack.com/p/meaningful-data-minimization>*
+
+Daniel J. Solove presents a paper written with Woodrow Hartzog, free on SSRN, on data minimisation, the principle that organisations should collect and use only the personal data needed for a legitimate purpose. The authors argue that it is central to privacy law yet has little real effect in most statutes, as companies keep expanding collection, processing and sharing.
+
+They identify two components found across laws, the purpose for which data is handled and how tightly each use is tailored to it, and argue that both are too loose: companies can list broad, vague purposes, and the usual test of "reasonably necessary" constrains little. They propose that laws list permissible and impermissible purposes and require each data activity to be strictly necessary, and they argue that without such changes privacy laws will do little to restrain surveillance-driven data practices.
+
+
 ===== FILE: news/IS_NEWS_2026-10-04-ice-observer-lawsuit-shows-how-palantir-records-can-feed.md · ID: IS-NEWS-2026-10-04-ICE-OBSERVER-LAWSUIT-SHOWS-HOW-PALANTIR-RECORDS-CAN-FEED =====
 
 ```yaml
@@ -15903,6 +16673,43 @@ disclaimer: meta/IS_META_terms.md
 AJMC reported on 5 October 2026 that the Nobel Assembly at Karolinska Institutet awarded the 2026 Nobel Prize in Physiology or Medicine to three scientists, from Stanford University in the United States and from Humboldt University of Berlin and the University of Würzburg in Germany, "for their discoveries concerning light-gated ion channels and optogenetics."
 
 The publication explains that optogenetics lets researchers switch specific nerve cells on or off with light, so they can test which brain circuits cause which behaviours. It says the method is used to study conditions such as depression, addiction, dementia and epilepsy, and is being tried as a way to restore some vision in people with retinitis pigmentosa.
+
+
+===== FILE: news/IS_NEWS_2026-10-05-analysis-when-ai-belongs-in-scholarly-writing-help-with-research-and-proofreading-but-not-drafting-the.md · ID: IS-NEWS-2026-10-05-ANALYSIS-WHEN-AI-BELONGS-IN-SCHOLARLY-WRITING-HELP-WITH-RESEARCH-AND-PROOFREADING-BUT-NOT-DRAFTING-THE =====
+
+```yaml
+id: IS-NEWS-2026-10-05-ANALYSIS-WHEN-AI-BELONGS-IN-SCHOLARLY-WRITING-HELP-WITH-RESEARCH-AND-PROOFREADING-BUT-NOT-DRAFTING-THE
+slug: 2026-10-05-analysis-when-ai-belongs-in-scholarly-writing-help-with-research-and-proofreading-but-not-drafting-the
+title: When AI belongs in scholarly writing: help with research and proofreading, but not drafting the argument
+collection: news
+doc_type: analysis-item
+date: 2026-10-05
+date_precision: day
+publisher: Solove on Tech (Substack)
+source_type: Analysis
+issuing_office:
+url: https://danielsolove.substack.com/p/ai-in-scholarship-yes-sometimes-or
+archived_url:
+industry: Artificial intelligence
+event: Research & breakthroughs
+country: 
+stage:
+related:
+kind: analysis
+commentator: Daniel J. Solove
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), backfill (analysis-backlog.md), 19 Nov 2026; read from the original; the post also points to a recorded discussion, which was not summarised
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# When AI belongs in scholarly writing: help with research and proofreading, but not drafting the argument
+
+*Daniel J. Solove, Solove on Tech (Substack), 2026-10-05. Original: <https://danielsolove.substack.com/p/ai-in-scholarship-yes-sometimes-or>*
+
+Daniel J. Solove sets out his own position on AI in academic writing, alongside a recorded discussion with two other law professors. He argues that AI is acceptable for supporting tasks such as research help, sharpening ideas, formatting citations and proofreading, much like a copyeditor, but not for drafting whole articles or large parts of them; partial drafting, he says, depends on whether the AI-written part is background or carries the interpretation and argument, a line he admits is hard to draw.
+
+His underlying view is that scholarship is a dialogue between human thinkers and a form of art, so readers should know they are engaging a person. He also points to practical risks, including hallucinations that can make checking costlier than writing, and harsh judgement of even appropriate use, and advises caution while scholarly norms remain unsettled.
 
 
 ===== FILE: news/IS_NEWS_2026-10-05-california-woman-arrested-on-charges-alleging-she-acted-as-agent.md · ID: IS-NEWS-2026-10-05-CALIFORNIA-WOMAN-ARRESTED-ON-CHARGES-ALLEGING-SHE-ACTED-AS-AGENT =====
@@ -20730,6 +21537,78 @@ Biometric Update reports that Police Scotland held a demonstration of live facia
 The publication says the Scottish Biometrics Commissioner has repeatedly called for primary legislation before police use the technology, describing it in his latest annual report as highly intrusive mass public surveillance. It reports that the decision on whether to legislate rests with the Scottish Parliament. Meanwhile, the UK government plans a statutory framework for England and Wales.
 
 
+===== FILE: news/IS_NEWS_2026-11-09-dhs-meet-one-of-the-medias-non-criminals-ice-arrests-ms-13-member-in-idaho.md · ID: IS-NEWS-2026-11-09-DHS-MEET-ONE-OF-THE-MEDIAS-NON-CRIMINALS-ICE-ARRESTS-MS-13-MEMBER-IN-IDAHO =====
+
+```yaml
+id: IS-NEWS-2026-11-09-DHS-MEET-ONE-OF-THE-MEDIAS-NON-CRIMINALS-ICE-ARRESTS-MS-13-MEMBER-IN-IDAHO
+slug: 2026-11-09-dhs-meet-one-of-the-medias-non-criminals-ice-arrests-ms-13-member-in-idaho
+title: DHS release: Meet One of the Media’s ‘Non-Criminals’: ICE Arrests MS-13 Member in Idaho Charged with Terrorism in El Salvador
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-09
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/09/meet-one-medias-non-criminals-ice-arrests-ms-13-member-idaho-charged-terrorism-el
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 19 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: Meet One of the Media’s ‘Non-Criminals’: ICE Arrests MS-13 Member in Idaho Charged with Terrorism in El Salvador
+
+*U.S. Department of Homeland Security, 2026-11-09. Original: <https://www.dhs.gov/news/2026/11/09/meet-one-medias-non-criminals-ice-arrests-ms-13-member-idaho-charged-terrorism-el>*
+
+DHS said ICE arrested a Salvadoran national in Victor, Idaho, on 5 November 2026 during a targeted operation, and said his record in El Salvador includes charges linking him to the MS-13 gang, among them terrorist-organisation charges. DHS said he has no criminal history in the United States and remains in ICE custody pending removal to El Salvador.
+
+The charges abroad are accusations: every person arrested or charged is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-11-09-dhs-worst-of-the-worst-ice-arrests-murderers-pedophiles-and-sexual-predators.md · ID: IS-NEWS-2026-11-09-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-MURDERERS-PEDOPHILES-AND-SEXUAL-PREDATORS =====
+
+```yaml
+id: IS-NEWS-2026-11-09-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-MURDERERS-PEDOPHILES-AND-SEXUAL-PREDATORS
+slug: 2026-11-09-dhs-worst-of-the-worst-ice-arrests-murderers-pedophiles-and-sexual-predators
+title: DHS release: WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Sexual Predators
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-09
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/09/worst-worst-ice-arrests-murderers-pedophiles-and-sexual-predators
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 19 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Sexual Predators
+
+*U.S. Department of Homeland Security, 2026-11-09. Original: <https://www.dhs.gov/news/2026/11/09/worst-worst-ice-arrests-murderers-pedophiles-and-sexual-predators>*
+
+DHS said ICE arrested 15 people over a weekend whom it described as criminal illegal aliens, from Mexico (five), Guatemala (three), Cuba (three), El Salvador, the Bahamas, Jordan and the Dominican Republic. DHS listed prior convictions including vehicular homicide, sexual offences including against children, assault, drug offences, burglary, fraud and a firearms sale.
+
+The descriptions are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
+
+
 ===== FILE: news/IS_NEWS_2026-11-09-france-attributes-the-sabotage-of-refrigeration-controls-at-more-than-700-supermarkets-to-a-unit-linked-to-ira.md · ID: IS-NEWS-2026-11-09-FRANCE-ATTRIBUTES-THE-SABOTAGE-OF-REFRIGERATION-CONTROLS-AT-MORE-THAN-700-SUPERMARKETS-TO-A-UNIT-LINKED-TO-IRA =====
 
 ```yaml
@@ -20984,6 +21863,288 @@ disclaimer: meta/IS_META_terms.md
 The Star, republishing a South China Morning Post report, says researchers at Guangxi University, Guangxi Medical University and Tsinghua University have made a soft, hydrogel-based electrode for non-invasive brain-computer interfaces, described in npj Flexible Electronics. According to the article, in a 14-hour test one subject reached over 94% accuracy on a flickering-keyboard typing task, while commercial gel electrodes became nearly unusable within four to five hours.
 
 The publication reports that an eight-channel cap gave eight hours of stable recordings during walking, eating, reading and sleeping, that tests on mice showed no adverse reactions, and that a batch can yield 300 electrodes. It says the researchers see possible uses in health care, sleep monitoring and epilepsy warnings, which the article describes as potential rather than demonstrated.
+
+
+===== FILE: news/IS_NEWS_2026-11-10-dhs-calls-on-mecklenburg-county-north-carolina-to-honor-ice-detainer.md · ID: IS-NEWS-2026-11-10-DHS-CALLS-ON-MECKLENBURG-COUNTY-NORTH-CAROLINA-TO-HONOR-ICE-DETAINER =====
+
+```yaml
+id: IS-NEWS-2026-11-10-DHS-CALLS-ON-MECKLENBURG-COUNTY-NORTH-CAROLINA-TO-HONOR-ICE-DETAINER
+slug: 2026-11-10-dhs-calls-on-mecklenburg-county-north-carolina-to-honor-ice-detainer
+title: DHS release: DHS Calls on Sanctuary Politicians in Mecklenburg County, North Carolina to Honor ICE Detainer and Not Release a Previously-Deported Rapist
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-10
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/10/dhs-calls-sanctuary-politicians-mecklenburg-county-north-carolina-honor-ice
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 19 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: DHS Calls on Sanctuary Politicians in Mecklenburg County, North Carolina to Honor ICE Detainer and Not Release a Previously-Deported Rapist
+
+*U.S. Department of Homeland Security, 2026-11-10. Original: <https://www.dhs.gov/news/2026/11/10/dhs-calls-sanctuary-politicians-mecklenburg-county-north-carolina-honor-ice>*
+
+DHS said ICE lodged a detainer on 19 October 2026 asking Mecklenburg County, North Carolina, not to release a Honduran national held in the county jail after an arrest on burglary and sexual-offence charges, and said he had been deported four times since 2014. DHS said the county accounts for 240 of the 381 ICE detainers it says were not honoured in North Carolina between 20 January 2025 and 1 November 2026.
+
+The current charges are accusations: every person arrested or charged is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-11-10-dhs-highlights-worst-illegal-aliens-arrested-in-austin-texas.md · ID: IS-NEWS-2026-11-10-DHS-HIGHLIGHTS-WORST-ILLEGAL-ALIENS-ARRESTED-IN-AUSTIN-TEXAS =====
+
+```yaml
+id: IS-NEWS-2026-11-10-DHS-HIGHLIGHTS-WORST-ILLEGAL-ALIENS-ARRESTED-IN-AUSTIN-TEXAS
+slug: 2026-11-10-dhs-highlights-worst-illegal-aliens-arrested-in-austin-texas
+title: DHS release: DHS Highlights Worst Illegal Aliens Arrested in Austin, Texas
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-10
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/10/dhs-highlights-worst-illegal-aliens-arrested-austin-texas
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 19 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: DHS Highlights Worst Illegal Aliens Arrested in Austin, Texas
+
+*U.S. Department of Homeland Security, 2026-11-10. Original: <https://www.dhs.gov/news/2026/11/10/dhs-highlights-worst-illegal-aliens-arrested-austin-texas>*
+
+DHS said ICE arrested five people in Austin, Texas, between 5 October and 1 November 2026, from Honduras (two), Mexico (two) and Venezuela, whom it described as among the worst illegal aliens arrested in the city. DHS listed convictions and charges including murder, sexual assault, aggravated battery, arson and fraud, and said several had been deported before, one of them five times.
+
+The descriptions are DHS's own: every person arrested or charged is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-11-10-dhs-is-taking-down-asylum-fraudsters.md · ID: IS-NEWS-2026-11-10-DHS-IS-TAKING-DOWN-ASYLUM-FRAUDSTERS =====
+
+```yaml
+id: IS-NEWS-2026-11-10-DHS-IS-TAKING-DOWN-ASYLUM-FRAUDSTERS
+slug: 2026-11-10-dhs-is-taking-down-asylum-fraudsters
+title: DHS release: DHS is Taking Down Asylum Fraudsters
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-10
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/10/dhs-taking-down-asylum-fraudsters
+archived_url: 
+industry: 
+event: Courts & litigation
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 19 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: DHS is Taking Down Asylum Fraudsters
+
+*U.S. Department of Homeland Security, 2026-11-10. Original: <https://www.dhs.gov/news/2026/11/10/dhs-taking-down-asylum-fraudsters>*
+
+DHS said U.S. Citizenship and Immigration Services has supported federal prosecutions of asylum fraud over the past year, and that in May it directed ICE to take further steps against fraudulent asylum claims, including action against immigration attorneys who file false claims. DHS cited cases including six people sentenced in Florida on 29 October 2026 over a smuggling, asylum-fraud and money-laundering scheme run through a sham immigration business, as well as other indictments, guilty pleas and a removal.
+
+Anyone charged and not convicted is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-11-10-dhs-sanctuary-insanity-illinois-release-rather-than-honoring-ice-detainer.md · ID: IS-NEWS-2026-11-10-DHS-SANCTUARY-INSANITY-ILLINOIS-RELEASE-RATHER-THAN-HONORING-ICE-DETAINER =====
+
+```yaml
+id: IS-NEWS-2026-11-10-DHS-SANCTUARY-INSANITY-ILLINOIS-RELEASE-RATHER-THAN-HONORING-ICE-DETAINER
+slug: 2026-11-10-dhs-sanctuary-insanity-illinois-release-rather-than-honoring-ice-detainer
+title: DHS release: SANCTUARY INSANITY: DHS Condemns Sanctuary Politicians in Illinois for Releasing a Violent Criminal Rather Than Honoring ICE Detainer
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-10
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/10/sanctuary-insanity-dhs-condemns-sanctuary-politicians-illinois-releasing-violent
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 19 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: SANCTUARY INSANITY: DHS Condemns Sanctuary Politicians in Illinois for Releasing a Violent Criminal Rather Than Honoring ICE Detainer
+
+*U.S. Department of Homeland Security, 2026-11-10. Original: <https://www.dhs.gov/news/2026/11/10/sanctuary-insanity-dhs-condemns-sanctuary-politicians-illinois-releasing-violent>*
+
+DHS said ICE lodged a detainer on 28 May 2026 for a national of Turkmenistan, admitted lawfully in March 2024 and later overstaying, who was convicted in Chicago of aggravated battery with a deadly weapon and sentenced to two years in prison. DHS said Illinois authorities released him without honouring the detainer or notifying ICE and that he remains at large, and it called on Illinois to change its sanctuary policies.
+
+
+===== FILE: news/IS_NEWS_2026-11-10-dhs-secretary-joins-white-house-task-force-at-drone-security-forum.md · ID: IS-NEWS-2026-11-10-DHS-SECRETARY-JOINS-WHITE-HOUSE-TASK-FORCE-AT-DRONE-SECURITY-FORUM =====
+
+```yaml
+id: IS-NEWS-2026-11-10-DHS-SECRETARY-JOINS-WHITE-HOUSE-TASK-FORCE-AT-DRONE-SECURITY-FORUM
+slug: 2026-11-10-dhs-secretary-joins-white-house-task-force-at-drone-security-forum
+title: DHS release: Secretary [name] Joins White House Task Force at Drone Security Forum to Protect the Homeland From Unauthorized Drone Threats
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-10
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/10/secretary-mullin-joins-white-house-task-force-drone-security-forum-protect-homeland
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Contracts & deployments
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 19 Nov 2026; title is the department's own, quoted; [name] replaces a personal name in the headline
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: Secretary [name] Joins White House Task Force at Drone Security Forum to Protect the Homeland From Unauthorized Drone Threats
+
+*U.S. Department of Homeland Security, 2026-11-10. Original: <https://www.dhs.gov/news/2026/11/10/secretary-mullin-joins-white-house-task-force-drone-security-forum-protect-homeland>*
+
+DHS said the Secretary of Homeland Security joined the White House Task Force on the 2028 Summer Olympics at a drone security forum for industry and state, local, tribal and territorial governments at National Harbor, Maryland, which discussed detecting, identifying, tracking and responding to drones. DHS said its Counter-UAS Grant Program provides $500 million over two years: $250 million in fiscal year 2026 for the 11 states hosting FIFA World Cup matches and the National Capital Region, and $250 million in fiscal year 2027 open to all 56 states and territories.
+
+
+===== FILE: news/IS_NEWS_2026-11-10-dhs-worst-of-the-worst-ice-arrests-murderers-sexual-predators-and-drug-traffickers.md · ID: IS-NEWS-2026-11-10-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-MURDERERS-SEXUAL-PREDATORS-AND-DRUG-TRAFFICKERS =====
+
+```yaml
+id: IS-NEWS-2026-11-10-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-MURDERERS-SEXUAL-PREDATORS-AND-DRUG-TRAFFICKERS
+slug: 2026-11-10-dhs-worst-of-the-worst-ice-arrests-murderers-sexual-predators-and-drug-traffickers
+title: DHS release: WORST OF THE WORST: ICE Arrests Murderers, Sexual Predators, and Drug Traffickers
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-10
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/10/worst-worst-ice-arrests-murderers-sexual-predators-and-drug-traffickers
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 19 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: WORST OF THE WORST: ICE Arrests Murderers, Sexual Predators, and Drug Traffickers
+
+*U.S. Department of Homeland Security, 2026-11-10. Original: <https://www.dhs.gov/news/2026/11/10/worst-worst-ice-arrests-murderers-sexual-predators-and-drug-traffickers>*
+
+DHS said ICE arrested five people whom it described as criminal illegal aliens, from Mexico (three), Cambodia and Colombia, in Idaho, Texas, Illinois, California and Pennsylvania. DHS listed prior convictions including second-degree murder, sexual assault, drug trafficking, aggravated assault and robbery.
+
+The descriptions are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-11-10-fbi-service-lets-gun-sellers-identify-potentially-stolen-firearms-in-seconds.md · ID: IS-NEWS-2026-11-10-FBI-SERVICE-LETS-GUN-SELLERS-IDENTIFY-POTENTIALLY-STOLEN-FIREARMS-IN-SECONDS =====
+
+```yaml
+id: IS-NEWS-2026-11-10-FBI-SERVICE-LETS-GUN-SELLERS-IDENTIFY-POTENTIALLY-STOLEN-FIREARMS-IN-SECONDS
+slug: 2026-11-10-fbi-service-lets-gun-sellers-identify-potentially-stolen-firearms-in-seconds
+title: FBI release: FBI Service Lets Gun Sellers Identify Potentially Stolen Firearms in Seconds
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-10
+date_precision: day
+publisher: Federal Bureau of Investigation
+source_type: Official
+issuing_office: 
+url: https://www.fbi.gov/news/stories/fbi-service-lets-gun-sellers-identify-potentially-stolen-firearms-in-seconds
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Contracts & deployments
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 19 Nov 2026; title is the department's own, quoted; fbi.gov refused automated access (HTTP 403), so the summary rests on the FBI email's own text
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# FBI release: FBI Service Lets Gun Sellers Identify Potentially Stolen Firearms in Seconds
+
+*Federal Bureau of Investigation, 2026-11-10. Original: <https://www.fbi.gov/news/stories/fbi-service-lets-gun-sellers-identify-potentially-stolen-firearms-in-seconds>*
+
+The FBI said licensed U.S. gun dealers can now search an FBI-managed database when someone offers to sell them a firearm, and learn within seconds whether it may have been reported stolen.
+
+
+===== FILE: news/IS_NEWS_2026-11-10-fbi-the-new-fbi-better-technology-to-meet-the-mission.md · ID: IS-NEWS-2026-11-10-FBI-THE-NEW-FBI-BETTER-TECHNOLOGY-TO-MEET-THE-MISSION =====
+
+```yaml
+id: IS-NEWS-2026-11-10-FBI-THE-NEW-FBI-BETTER-TECHNOLOGY-TO-MEET-THE-MISSION
+slug: 2026-11-10-fbi-the-new-fbi-better-technology-to-meet-the-mission
+title: FBI release: The New FBI: Better Technology to Meet the Mission
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-10
+date_precision: day
+publisher: Federal Bureau of Investigation
+source_type: Official
+issuing_office: 
+url: https://www.fbi.gov/news/press-releases/the-new-fbi-better-technology-to-meet-the-mission
+archived_url: 
+industry: Artificial intelligence · Government cloud & surveillance technology
+event: Contracts & deployments
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 19 Nov 2026; title is the department's own, quoted; fbi.gov refused automated access (HTTP 403), so the summary was read from the piece as Nextgov/FCW published it
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# FBI release: The New FBI: Better Technology to Meet the Mission
+
+*Federal Bureau of Investigation, 2026-11-10. Original: <https://www.fbi.gov/news/press-releases/the-new-fbi-better-technology-to-meet-the-mission>*
+
+The FBI republished an opinion piece by the FBI Director, first published by Nextgov/FCW on 10 November 2026, on the Bureau's technology. In it the Director wrote that the FBI has expanded its use of tools it calls super intelligence, including an internal chatbot that summarises large sets of documents and a platform for analysing case data, has automated repetitive tasks across 29 offices, and has created a Cyber Branch that puts its offensive and defensive cyber operations under one leadership chain.
+
+The figures in the piece are the Director's own.
 
 
 ===== FILE: news/IS_NEWS_2026-11-10-french-interior-ministry-denies-gendarmes-used-long-range-acoustic-devices-at-a-bordeaux-protest-and-attribute.md · ID: IS-NEWS-2026-11-10-FRENCH-INTERIOR-MINISTRY-DENIES-GENDARMES-USED-LONG-RANGE-ACOUSTIC-DEVICES-AT-A-BORDEAUX-PROTEST-AND-ATTRIBUTE =====
@@ -21967,6 +23128,220 @@ Stnn reports that China's Ministry of Industry and Information Technology has ap
 According to the report, the standards cover product grading, risk management, interaction interfaces, wireless communication for invasive devices, data and algorithm management, and application scenarios including sports training and "attention monitoring". The individual titles were not published in the coverage. (Summary translated from the Chinese.)
 
 
+===== FILE: news/IS_NEWS_2026-11-12-dhs-highlights-worst-illegal-aliens-arrested-in-houston-texas.md · ID: IS-NEWS-2026-11-12-DHS-HIGHLIGHTS-WORST-ILLEGAL-ALIENS-ARRESTED-IN-HOUSTON-TEXAS =====
+
+```yaml
+id: IS-NEWS-2026-11-12-DHS-HIGHLIGHTS-WORST-ILLEGAL-ALIENS-ARRESTED-IN-HOUSTON-TEXAS
+slug: 2026-11-12-dhs-highlights-worst-illegal-aliens-arrested-in-houston-texas
+title: DHS release: DHS Highlights Worst Illegal Aliens Arrested in Houston, Texas
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-12
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/12/dhs-highlights-worst-illegal-aliens-arrested-houston-texas
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 19 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: DHS Highlights Worst Illegal Aliens Arrested in Houston, Texas
+
+*U.S. Department of Homeland Security, 2026-11-12. Original: <https://www.dhs.gov/news/2026/11/12/dhs-highlights-worst-illegal-aliens-arrested-houston-texas>*
+
+DHS said ICE arrested five people in Houston, Texas, between 2 and 27 October 2026, from Mexico (two), El Salvador, Venezuela and Honduras, whom it described as among the worst illegal aliens arrested in the city. DHS listed convictions and charges including the killing of a police officer, murder, burglary, aggravated kidnapping and a sexual offence against a child, and said two of them had been deported before.
+
+The descriptions are DHS's own: every person arrested or charged is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-11-12-dhs-ice-arrests-man-who-ran-over-and-dragged-officer-with-vehicle-in-chicago.md · ID: IS-NEWS-2026-11-12-DHS-ICE-ARRESTS-MAN-WHO-RAN-OVER-AND-DRAGGED-OFFICER-WITH-VEHICLE-IN-CHICAGO =====
+
+```yaml
+id: IS-NEWS-2026-11-12-DHS-ICE-ARRESTS-MAN-WHO-RAN-OVER-AND-DRAGGED-OFFICER-WITH-VEHICLE-IN-CHICAGO
+slug: 2026-11-12-dhs-ice-arrests-man-who-ran-over-and-dragged-officer-with-vehicle-in-chicago
+title: DHS release: ICE Arrests Illegal Alien Who Intentionally Ran Over and Dragged Officer with Vehicle in Chicago
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-12
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/12/ice-arrests-illegal-alien-who-intentionally-ran-over-and-dragged-officer-vehicle
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 19 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: ICE Arrests Illegal Alien Who Intentionally Ran Over and Dragged Officer with Vehicle in Chicago
+
+*U.S. Department of Homeland Security, 2026-11-12. Original: <https://www.dhs.gov/news/2026/11/12/ice-arrests-illegal-alien-who-intentionally-ran-over-and-dragged-officer-vehicle>*
+
+DHS said that on 10 November 2026, during a targeted enforcement operation in Chicago Heights, Illinois, a Mexican national stopped by ICE drove away with an officer partly inside his vehicle, and the officer was thrown out and struck, suffering a leg injury; DHS said the officer was treated in hospital and released. DHS said ICE arrested the man later that day and that he had earlier arrests and had been deported seven times.
+
+The release lists no criminal charge for the incident; anyone accused is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-11-12-dhs-ice-breaks-records-in-fiscal-year-2026-most-arrests-and-deportations.md · ID: IS-NEWS-2026-11-12-DHS-ICE-BREAKS-RECORDS-IN-FISCAL-YEAR-2026-MOST-ARRESTS-AND-DEPORTATIONS =====
+
+```yaml
+id: IS-NEWS-2026-11-12-DHS-ICE-BREAKS-RECORDS-IN-FISCAL-YEAR-2026-MOST-ARRESTS-AND-DEPORTATIONS
+slug: 2026-11-12-dhs-ice-breaks-records-in-fiscal-year-2026-most-arrests-and-deportations
+title: DHS release: ICE Breaks Records in Fiscal Year 2026, With Most Arrests and Deportations in Agency’s History
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-12
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/12/ice-breaks-records-fiscal-year-2026-most-arrests-and-deportations-agencys-history
+archived_url: 
+industry: 
+event: Reports & statistics
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 19 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: ICE Breaks Records in Fiscal Year 2026, With Most Arrests and Deportations in Agency’s History
+
+*U.S. Department of Homeland Security, 2026-11-12. Original: <https://www.dhs.gov/news/2026/11/12/ice-breaks-records-fiscal-year-2026-most-arrests-and-deportations-agencys-history>*
+
+DHS said ICE made more than 491,000 immigration arrests and 483,200 deportations in fiscal year 2026, both records for the agency, against 442,640 deportations in fiscal year 2025. DHS said August 2026 had the most arrests of any single month, 50,925, and that there have been nearly 1.2 million deportations since the current administration took office.
+
+The figures are the department's own count.
+
+
+===== FILE: news/IS_NEWS_2026-11-12-dhs-ice-requests-local-authorities-not-release-man-who-attempted-to-hijack-a-plane.md · ID: IS-NEWS-2026-11-12-DHS-ICE-REQUESTS-LOCAL-AUTHORITIES-NOT-RELEASE-MAN-WHO-ATTEMPTED-TO-HIJACK-A-PLANE =====
+
+```yaml
+id: IS-NEWS-2026-11-12-DHS-ICE-REQUESTS-LOCAL-AUTHORITIES-NOT-RELEASE-MAN-WHO-ATTEMPTED-TO-HIJACK-A-PLANE
+slug: 2026-11-12-dhs-ice-requests-local-authorities-not-release-man-who-attempted-to-hijack-a-plane
+title: DHS release: ICE Requests Local Authorities Not Release Criminal Illegal Alien Who Attempted To Hijack a Plane
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-12
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/12/ice-requests-local-authorities-not-release-criminal-illegal-alien-who-attempted
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 19 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: ICE Requests Local Authorities Not Release Criminal Illegal Alien Who Attempted To Hijack a Plane
+
+*U.S. Department of Homeland Security, 2026-11-12. Original: <https://www.dhs.gov/news/2026/11/12/ice-requests-local-authorities-not-release-criminal-illegal-alien-who-attempted>*
+
+DHS said ICE lodged a detainer on 10 November 2026 for a Honduran national who, DHS said, tried to force his way into the cockpit of a United Airlines flight from Newark to New Orleans on 9 November while claiming to have a bomb. DHS said he was taken into custody on landing and charged with offences including a felony bomb threat and terroristic threats, and it asked local authorities not to release him without notifying ICE.
+
+He is charged, not convicted: every person arrested or charged is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-11-12-dhs-st-new-saver-report-telemedicine-for-emergency-medical-services.md · ID: IS-NEWS-2026-11-12-DHS-ST-NEW-SAVER-REPORT-TELEMEDICINE-FOR-EMERGENCY-MEDICAL-SERVICES =====
+
+```yaml
+id: IS-NEWS-2026-11-12-DHS-ST-NEW-SAVER-REPORT-TELEMEDICINE-FOR-EMERGENCY-MEDICAL-SERVICES
+slug: 2026-11-12-dhs-st-new-saver-report-telemedicine-for-emergency-medical-services
+title: DHS release: New SAVER Report: Telemedicine for Emergency Medical Services
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-12
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: DHS Science and Technology Directorate, National Urban Security Technology Laboratory
+url: https://www.dhs.gov/science-and-technology/saver/telemedicine-emergency-medical-services
+archived_url: 
+industry: Biotechnology & health
+event: Reports & statistics
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 19 Nov 2026; title is the department's own, quoted; the email announces the report and links to its page, used as the source
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: New SAVER Report: Telemedicine for Emergency Medical Services
+
+*U.S. Department of Homeland Security, 2026-11-12. Original: <https://www.dhs.gov/science-and-technology/saver/telemedicine-emergency-medical-services>*
+
+DHS's Science and Technology Directorate said its National Urban Security Technology Laboratory has published a market survey of telemedicine for emergency medical services under its SAVER programme. The directorate said the report compares 11 commercially available hardware and software products on secure communications, medical-device integration, connectivity, electronic patient-record interoperability, customisation and price, to help first-responder agencies plan and buy such systems.
+
+
+===== FILE: news/IS_NEWS_2026-11-12-dhs-worst-of-the-worst-ice-arrests-murderers-pedophiles-and-drug-traffickers.md · ID: IS-NEWS-2026-11-12-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-MURDERERS-PEDOPHILES-AND-DRUG-TRAFFICKERS =====
+
+```yaml
+id: IS-NEWS-2026-11-12-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-MURDERERS-PEDOPHILES-AND-DRUG-TRAFFICKERS
+slug: 2026-11-12-dhs-worst-of-the-worst-ice-arrests-murderers-pedophiles-and-drug-traffickers
+title: DHS release: WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Drug Traffickers
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-12
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/12/worst-worst-ice-arrests-murderers-pedophiles-and-drug-traffickers
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 19 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Drug Traffickers
+
+*U.S. Department of Homeland Security, 2026-11-12. Original: <https://www.dhs.gov/news/2026/11/12/worst-worst-ice-arrests-murderers-pedophiles-and-drug-traffickers>*
+
+DHS said ICE arrested five people on 11 November 2026 whom it described as criminal illegal aliens, from Mexico (two), Guatemala, Haiti and Trinidad and Tobago. DHS listed prior convictions including murder, sexual offences against children, cocaine distribution, burglary and illegal re-entry.
+
+The descriptions are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
+
+
 ===== FILE: news/IS_NEWS_2026-11-12-dutch-prosecutors-seek-up-to-20-years-for-six-defendants-accused-over-the-attempted-killing-of-an-iranian-acti.md · ID: IS-NEWS-2026-11-12-DUTCH-PROSECUTORS-SEEK-UP-TO-20-YEARS-FOR-SIX-DEFENDANTS-ACCUSED-OVER-THE-ATTEMPTED-KILLING-OF-AN-IRANIAN-ACTI =====
 
 ```yaml
@@ -22002,6 +23377,42 @@ disclaimer: meta/IS_META_terms.md
 ANP reports that at the secure courtroom at Schiphol, Dutch prosecutors asked for prison sentences of up to 20 years for five men and a woman accused of preparing and attempting the June 2024 killing of an Iranian activist in Haarlem; the 20-year demand was made in absentia against the alleged leader, who has not been found.
 
 According to the prosecution service, the Dutch security service AIVD considers Iran the likely instigator, but Iran's role is not part of this criminal case. The defendants are presumed innocent, and the court is due to rule on 21 December 2026. (Summary translated from the Dutch.)
+
+
+===== FILE: news/IS_NEWS_2026-11-12-fbi-operation-tornado-leads-to-more-than-350-arrests-across-14-countries.md · ID: IS-NEWS-2026-11-12-FBI-OPERATION-TORNADO-LEADS-TO-MORE-THAN-350-ARRESTS-ACROSS-14-COUNTRIES =====
+
+```yaml
+id: IS-NEWS-2026-11-12-FBI-OPERATION-TORNADO-LEADS-TO-MORE-THAN-350-ARRESTS-ACROSS-14-COUNTRIES
+slug: 2026-11-12-fbi-operation-tornado-leads-to-more-than-350-arrests-across-14-countries
+title: FBI release: Operation TorNado Leads to More Than 350 Arrests Across 14 Countries
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-12
+date_precision: day
+publisher: Federal Bureau of Investigation
+source_type: Official
+issuing_office: 
+url: https://www.fbi.gov/news/stories/operation-tornado-leads-to-more-than-350-arrests-across-14-countries
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 19 Nov 2026; title is the department's own, quoted; fbi.gov refused automated access (HTTP 403), so the summary rests on the FBI email's own text
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# FBI release: Operation TorNado Leads to More Than 350 Arrests Across 14 Countries
+
+*Federal Bureau of Investigation, 2026-11-12. Original: <https://www.fbi.gov/news/stories/operation-tornado-leads-to-more-than-350-arrests-across-14-countries>*
+
+The FBI said an international operation against drug trafficking on the dark web, named Operation TorNado, led to 354 arrests across 14 countries and the seizure of more than 5.7 metric tons of drugs and more than $234 million in cryptocurrency and cash.
+
+An arrest is not a conviction: every person arrested or charged is presumed innocent unless proven guilty in court.
 
 
 ===== FILE: news/IS_NEWS_2026-11-12-four-advocacy-groups-sue-five-leading-ai-developers-in-a-california-court-seeking-a-freeze-on-more-capable-ai.md · ID: IS-NEWS-2026-11-12-FOUR-ADVOCACY-GROUPS-SUE-FIVE-LEADING-AI-DEVELOPERS-IN-A-CALIFORNIA-COURT-SEEKING-A-FREEZE-ON-MORE-CAPABLE-AI =====
@@ -22651,6 +24062,112 @@ disclaimer: meta/IS_META_terms.md
 The Paper, a state-owned outlet, quotes a chief scientist at a Shanghai laboratory as saying that about 120 people in China have now kept a brain-computer interface implant for more than a month, and lists the trial stages of several devices, including one invasive device it says was registered in March and has issued 12 commercial prescriptions.
 
 According to the report, a national EEG data centre with nodes in Shanghai and Beijing is to launch at a conference in December. The article does not discuss consent, ethics or data privacy. (Figures as reported by The Paper.) (Summary translated from the Chinese.)
+
+
+===== FILE: news/IS_NEWS_2026-11-13-dhs-ice-arrests-man-in-fatal-dui-case-after-illinois-release.md · ID: IS-NEWS-2026-11-13-DHS-ICE-ARRESTS-MAN-IN-FATAL-DUI-CASE-AFTER-ILLINOIS-RELEASE =====
+
+```yaml
+id: IS-NEWS-2026-11-13-DHS-ICE-ARRESTS-MAN-IN-FATAL-DUI-CASE-AFTER-ILLINOIS-RELEASE
+slug: 2026-11-13-dhs-ice-arrests-man-in-fatal-dui-case-after-illinois-release
+title: DHS release: ICE Arrests Illegal Alien Responsible for Fatal DUI After Illinois Sanctuary Politicians Released Him
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-13
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/13/ice-arrests-illegal-alien-responsible-fatal-dui-after-illinois-sanctuary
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 19 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: ICE Arrests Illegal Alien Responsible for Fatal DUI After Illinois Sanctuary Politicians Released Him
+
+*U.S. Department of Homeland Security, 2026-11-13. Original: <https://www.dhs.gov/news/2026/11/13/ice-arrests-illegal-alien-responsible-fatal-dui-after-illinois-sanctuary>*
+
+DHS said ICE arrested a Mexican national in Wauconda, Illinois, on 11 November 2026, nine days after a state prison released him on parole without honouring an ICE detainer. DHS said he was convicted in 2012 of aggravated driving under the influence resulting in a death and injuries in a 2011 crash and sentenced to 25 years, and that he had received a final removal order in 2010.
+
+DHS said he is in ICE custody pending removal proceedings.
+
+
+===== FILE: news/IS_NEWS_2026-11-13-dhs-icymi-secretaries-address-nationwide-faa-ground-stop-of-all-flights.md · ID: IS-NEWS-2026-11-13-DHS-ICYMI-SECRETARIES-ADDRESS-NATIONWIDE-FAA-GROUND-STOP-OF-ALL-FLIGHTS =====
+
+```yaml
+id: IS-NEWS-2026-11-13-DHS-ICYMI-SECRETARIES-ADDRESS-NATIONWIDE-FAA-GROUND-STOP-OF-ALL-FLIGHTS
+slug: 2026-11-13-dhs-icymi-secretaries-address-nationwide-faa-ground-stop-of-all-flights
+title: DHS release: ICYMI: Secretary [name] and Secretary [name] Address Nationwide FAA Ground Stop of All Flights
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-13
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/13/icymi-secretary-mullin-and-secretary-duffy-address-nationwide-faa-ground-stop-all
+archived_url: 
+industry: 
+event: Outages & disruptions
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 19 Nov 2026; title is the department's own, quoted; [name] replaces a personal name in the headline
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: ICYMI: Secretary [name] and Secretary [name] Address Nationwide FAA Ground Stop of All Flights
+
+*U.S. Department of Homeland Security, 2026-11-13. Original: <https://www.dhs.gov/news/2026/11/13/icymi-secretary-mullin-and-secretary-duffy-address-nationwide-faa-ground-stop-all>*
+
+DHS republished a White House briefing in which the Secretary of Homeland Security and the Secretary of Transportation addressed a nationwide FAA ground stop of all flights that followed a temporary telecommunications outage. DHS said the Secretary of Homeland Security reported no evidence of a cyberattack, said all passengers were safe and blamed the outdated air traffic control system, and that both Secretaries urged Congress to fund its modernisation.
+
+
+===== FILE: news/IS_NEWS_2026-11-13-dhs-sanctuary-insanity-california-release-after-assault-and-robbery-arrest.md · ID: IS-NEWS-2026-11-13-DHS-SANCTUARY-INSANITY-CALIFORNIA-RELEASE-AFTER-ASSAULT-AND-ROBBERY-ARREST =====
+
+```yaml
+id: IS-NEWS-2026-11-13-DHS-SANCTUARY-INSANITY-CALIFORNIA-RELEASE-AFTER-ASSAULT-AND-ROBBERY-ARREST
+slug: 2026-11-13-dhs-sanctuary-insanity-california-release-after-assault-and-robbery-arrest
+title: DHS release: SANCTUARY INSANITY: DHS Blasts Sanctuary California for Releasing Illegal Alien Gang Member Arrested for Assault and Robbery
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-13
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/13/sanctuary-insanity-dhs-blasts-sanctuary-california-releasing-illegal-alien-gang
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 19 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: SANCTUARY INSANITY: DHS Blasts Sanctuary California for Releasing Illegal Alien Gang Member Arrested for Assault and Robbery
+
+*U.S. Department of Homeland Security, 2026-11-13. Original: <https://www.dhs.gov/news/2026/11/13/sanctuary-insanity-dhs-blasts-sanctuary-california-releasing-illegal-alien-gang>*
+
+DHS said ICE lodged a detainer on 5 November 2026 for a Mexican national, whom DHS described as a gang member, arrested by the San Diego County Sheriff's Office on domestic-violence and restraining-order charges, and that San Diego authorities released him despite the detainer; DHS said he remains at large. DHS said his record includes a conviction for driving under the influence and earlier arrests for assault, robbery and theft, and it urged California to end its sanctuary policies.
+
+Every person arrested or charged is presumed innocent unless proven guilty in court.
 
 
 ===== FILE: news/IS_NEWS_2026-11-13-faa-orders-nationwide-ground-stop-of-departing-flights-citing-a-telecommunications-outage.md · ID: IS-NEWS-2026-11-13-FAA-ORDERS-NATIONWIDE-GROUND-STOP-OF-DEPARTING-FLIGHTS-CITING-A-TELECOMMUNICATIONS-OUTAGE =====
@@ -23422,6 +24939,114 @@ Science and Technology Daily, a Chinese state newspaper, reports that the brain-
 According to the paper, the company says the delay from neural signal to control output is under 50 milliseconds, that training time for a new task fell from 10.5 hours to 2, and that the site can train 20 people at once and will gather about 18,000 hours of interaction data a year. These are the company's figures as relayed by state media and have not been independently verified. (Summary translated from the Chinese.)
 
 
+===== FILE: news/IS_NEWS_2026-11-16-dhs-cbp-nationwide-encounters-in-october-lowest-ever-to-start-a-fiscal-year.md · ID: IS-NEWS-2026-11-16-DHS-CBP-NATIONWIDE-ENCOUNTERS-IN-OCTOBER-LOWEST-EVER-TO-START-A-FISCAL-YEAR =====
+
+```yaml
+id: IS-NEWS-2026-11-16-DHS-CBP-NATIONWIDE-ENCOUNTERS-IN-OCTOBER-LOWEST-EVER-TO-START-A-FISCAL-YEAR
+slug: 2026-11-16-dhs-cbp-nationwide-encounters-in-october-lowest-ever-to-start-a-fiscal-year
+title: DHS release: Under President [name] and Secretary [name], CBP’s Nationwide Encounters in October Were the Lowest Ever to Start a Fiscal Year
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-16
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/16/under-president-trump-and-secretary-mullin-cbps-nationwide-encounters-october-were
+archived_url: 
+industry: 
+event: Reports & statistics
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Sean's inbox, DHS email of 16 Nov 2026 (decision 0052); title is the department's own, quoted; [name] replaces a personal name in the headline
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: Under President [name] and Secretary [name], CBP’s Nationwide Encounters in October Were the Lowest Ever to Start a Fiscal Year
+
+*U.S. Department of Homeland Security, 2026-11-16. Original: <https://www.dhs.gov/news/2026/11/16/under-president-trump-and-secretary-mullin-cbps-nationwide-encounters-october-were>*
+
+DHS said U.S. Customs and Border Protection recorded 27,890 encounters nationwide in October 2026, which it described as the lowest ever for the first month of a fiscal year, and 8,288 Border Patrol apprehensions at the southwest border, both 7% below September. DHS said October was the 18th consecutive month with no releases at the border and that combined drug seizures rose 44% from September.
+
+The figures are the department's own count.
+
+
+===== FILE: news/IS_NEWS_2026-11-16-dhs-secretary-attends-event-demonstrating-technology-for-countering-hostile-drones.md · ID: IS-NEWS-2026-11-16-DHS-SECRETARY-ATTENDS-EVENT-DEMONSTRATING-TECHNOLOGY-FOR-COUNTERING-HOSTILE-DRONES =====
+
+```yaml
+id: IS-NEWS-2026-11-16-DHS-SECRETARY-ATTENDS-EVENT-DEMONSTRATING-TECHNOLOGY-FOR-COUNTERING-HOSTILE-DRONES
+slug: 2026-11-16-dhs-secretary-attends-event-demonstrating-technology-for-countering-hostile-drones
+title: DHS release: Secretary [name] Attends Event Demonstrating Technology for Countering Hostile Drones
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-16
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/16/secretary-mullin-attends-event-demonstrating-technology-countering-hostile-drones
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Contracts & deployments
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Sean's inbox, DHS email of 16 Nov 2026 (decision 0052); title is the department's own, quoted; [name] replaces a personal name in the headline
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: Secretary [name] Attends Event Demonstrating Technology for Countering Hostile Drones
+
+*U.S. Department of Homeland Security, 2026-11-16. Original: <https://www.dhs.gov/news/2026/11/16/secretary-mullin-attends-event-demonstrating-technology-countering-hostile-drones>*
+
+DHS said the Secretary of Homeland Security attended the Kinetic IV counter-drone test event on 12 November 2026 at the Choctaw Nation of Oklahoma's Emerging Aviation Technology Center in Stringtown, Oklahoma, the first such event at the site. DHS said officials from DHS, the U.S. Coast Guard, the Federal Aviation Administration, the Choctaw Nation and the Kingdom of Bahrain discussed requirements and standards and watched live demonstrations of kinetic interceptors and entanglement systems designed to bring down drones.
+
+DHS said its Science and Technology Directorate is evaluating such technologies with government, industry and international partners.
+
+
+===== FILE: news/IS_NEWS_2026-11-16-dhs-worst-of-the-worst-weekend-ice-arrests-murderers-pedophiles-and-child-abusers.md · ID: IS-NEWS-2026-11-16-DHS-WORST-OF-THE-WORST-WEEKEND-ICE-ARRESTS-MURDERERS-PEDOPHILES-AND-CHILD-ABUSERS =====
+
+```yaml
+id: IS-NEWS-2026-11-16-DHS-WORST-OF-THE-WORST-WEEKEND-ICE-ARRESTS-MURDERERS-PEDOPHILES-AND-CHILD-ABUSERS
+slug: 2026-11-16-dhs-worst-of-the-worst-weekend-ice-arrests-murderers-pedophiles-and-child-abusers
+title: DHS release: WORST OF THE WORST: Over the Weekend, ICE Arrests Murderers, Pedophiles, and Child Abusers
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-16
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/16/worst-worst-over-weekend-ice-arrests-murderers-pedophiles-and-child-abusers
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Sean's inbox, DHS email of 16 Nov 2026 (decision 0052); title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: WORST OF THE WORST: Over the Weekend, ICE Arrests Murderers, Pedophiles, and Child Abusers
+
+*U.S. Department of Homeland Security, 2026-11-16. Original: <https://www.dhs.gov/news/2026/11/16/worst-worst-over-weekend-ice-arrests-murderers-pedophiles-and-child-abusers>*
+
+DHS said ICE arrested 14 people over a weekend whom it described as criminal illegal aliens, from Mexico (six), El Salvador (two), India, Micronesia, Syria, Guatemala, Morocco and Nigeria. DHS listed prior convictions including manslaughter, vehicular homicide while intoxicated, sexual offences against children, child cruelty, kidnapping, sexual assault, drug offences and fraud.
+
+The descriptions are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
+
+
 ===== FILE: news/IS_NEWS_2026-11-16-dutch-digital-infrastructure-inspectorate-investigates-gps-disruption-reported-by-seven-aircraft.md · ID: IS-NEWS-2026-11-16-DUTCH-DIGITAL-INFRASTRUCTURE-INSPECTORATE-INVESTIGATES-GPS-DISRUPTION-REPORTED-BY-SEVEN-AIRCRAFT =====
 
 ```yaml
@@ -23568,6 +25193,41 @@ disclaimer: meta/IS_META_terms.md
 Hong Kong Free Press reports that police were to switch on facial recognition across the SmartView CCTV network on Monday 16 November, as part of a HK$4 billion expansion. According to the report, the programme covers about 5,000 police cameras and 6,000 third-party feeds, with a target of 60,000 cameras by 2028, and police say it has helped solve 1,659 cases.
 
 The Commissioner of Police told the broadcaster TVB that the tools have checks and balances so they "won't be abused", would mainly be used for missing persons and criminal cases, and would not be used casually; he declined to give technical details. HKFP notes that the police website lists safeguarding national security first among SmartView's four purposes, and that talks to link private shopping-mall cameras were said last month to be in their final stages.
+
+
+===== FILE: news/IS_NEWS_2026-11-16-investigation-reports-that-israels-military-uploaded-about-3-5-million-photographs-of-palestinians-to-a-commer.md · ID: IS-NEWS-2026-11-16-INVESTIGATION-REPORTS-THAT-ISRAELS-MILITARY-UPLOADED-ABOUT-3-5-MILLION-PHOTOGRAPHS-OF-PALESTINIANS-TO-A-COMMER =====
+
+```yaml
+id: IS-NEWS-2026-11-16-INVESTIGATION-REPORTS-THAT-ISRAELS-MILITARY-UPLOADED-ABOUT-3-5-MILLION-PHOTOGRAPHS-OF-PALESTINIANS-TO-A-COMMER
+slug: 2026-11-16-investigation-reports-that-israels-military-uploaded-about-3-5-million-photographs-of-palestinians-to-a-commer
+title: Investigation reports that Israel's military uploaded about 3.5 million photographs of Palestinians to a commercial cloud facial-recognition service
+collection: news
+doc_type: news-item
+date: 2026-11-16
+date_precision: day
+publisher: The Jerusalem Post
+source_type: News
+issuing_office: 
+url: https://www.jpost.com/israel-news/defense-news/article-915065
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Contracts & deployments
+country: Israel
+stage: 
+related: 
+summary_status: draft
+found_via: Middle East search (English and Hebrew, 17-19 Nov 2026 window); first published by The Guardian on 16 Nov with Israeli reporting partners and followed by ynet and others, 16-18 Nov; included one day before the window because no earlier run caught it; title in our own words, no company named
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Investigation reports that Israel's military uploaded about 3.5 million photographs of Palestinians to a commercial cloud facial-recognition service
+
+*The Jerusalem Post, 2026-11-16. Original: <https://www.jpost.com/israel-news/defense-news/article-915065>*
+
+The Jerusalem Post reports on a Guardian investigation, based on leaked documents and military sources, which found that in the early months of the Gaza war an Israeli military unit uploaded about 3.5 million photographs of Palestinians, including images associated with checkpoints, to a cloud data centre near Tel Aviv in order to run them through Amazon's Rekognition facial-recognition service, notifying the provider in early 2024.
+
+According to the report, the military said it does not comment on contracts or services related to operational needs, and the provider told the Guardian it has no visibility into customer workloads. Neither has confirmed the account, and the reporting does not establish how the matches were used.
 
 
 ===== FILE: news/IS_NEWS_2026-11-16-istanbul-prosecutors-seek-up-to-20-years-for-a-private-detective-and-a-lawyer-accused-of-surveilling-a-palest.md · ID: IS-NEWS-2026-11-16-ISTANBUL-PROSECUTORS-SEEK-UP-TO-20-YEARS-FOR-A-PRIVATE-DETECTIVE-AND-A-LAWYER-ACCUSED-OF-SURVEILLING-A-PALEST =====
@@ -23792,6 +25452,260 @@ The Canadian Press reports that Bill C-41, which would change Canada's medical a
 The Canadian Press reports that the bill must pass both houses before 17 March, and that Conservative members asked for it to be split into two bills.
 
 
+===== FILE: news/IS_NEWS_2026-11-17-chiles-congress-gives-final-approval-to-delaying-its-new-personal-data-law-and-data-protection-agency-to-octob.md · ID: IS-NEWS-2026-11-17-CHILES-CONGRESS-GIVES-FINAL-APPROVAL-TO-DELAYING-ITS-NEW-PERSONAL-DATA-LAW-AND-DATA-PROTECTION-AGENCY-TO-OCTOB =====
+
+```yaml
+id: IS-NEWS-2026-11-17-CHILES-CONGRESS-GIVES-FINAL-APPROVAL-TO-DELAYING-ITS-NEW-PERSONAL-DATA-LAW-AND-DATA-PROTECTION-AGENCY-TO-OCTOB
+slug: 2026-11-17-chiles-congress-gives-final-approval-to-delaying-its-new-personal-data-law-and-data-protection-agency-to-octob
+title: Chile's Congress gives final approval to delaying its new personal-data law and data-protection agency to October 2027
+title_original: Congreso aprueba postergación de la entrada en vigencia de la Ley de Protección de Datos
+title_language: Spanish
+collection: news
+doc_type: news-item
+date: 2026-11-17
+date_precision: day
+publisher: La Tercera
+source_type: News
+issuing_office: 
+url: https://www.latercera.com/pulso/noticia/congreso-aprueba-postergacion-de-la-ley-de-proteccion-de-datos/
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Regulation & law
+country: Chile
+stage: 
+related: 
+summary_status: draft
+found_via: Spanish-language search, follow-up from 18 Nov (17-19 Nov 2026 window); the Chamber of Deputies' own release returned 403; title translated
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Chile's Congress gives final approval to delaying its new personal-data law and data-protection agency to October 2027
+
+*La Tercera, 2026-11-17. Original, in Spanish: <https://www.latercera.com/pulso/noticia/congreso-aprueba-postergacion-de-la-ley-de-proteccion-de-datos/>. Title translated from the Spanish.*
+
+La Tercera reports that on 17 November Chile's Chamber of Deputies completed congressional approval of a bill postponing the entry into force of Law 21.719 on personal data protection from 1 December 2026 to 15 October 2027, after a cross-party agreement in the Senate.
+
+According to the report, the council of the new data-protection agency will grow from three to five members with six-year terms, and a proposal to let all companies receive written warnings instead of fines for their first year was rejected, though the government says it will raise it again. The law must still be published. (Summary translated from the Spanish.)
+
+
+===== FILE: news/IS_NEWS_2026-11-17-costa-rican-court-sentences-a-gunman-to-30-years-over-the-2024-shooting-of-two-exiled-nicaraguan-opposition-fi.md · ID: IS-NEWS-2026-11-17-COSTA-RICAN-COURT-SENTENCES-A-GUNMAN-TO-30-YEARS-OVER-THE-2024-SHOOTING-OF-TWO-EXILED-NICARAGUAN-OPPOSITION-FI =====
+
+```yaml
+id: IS-NEWS-2026-11-17-COSTA-RICAN-COURT-SENTENCES-A-GUNMAN-TO-30-YEARS-OVER-THE-2024-SHOOTING-OF-TWO-EXILED-NICARAGUAN-OPPOSITION-FI
+slug: 2026-11-17-costa-rican-court-sentences-a-gunman-to-30-years-over-the-2024-shooting-of-two-exiled-nicaraguan-opposition-fi
+title: Costa Rican court sentences a gunman to 30 years over the 2024 shooting of two exiled Nicaraguan opposition figures
+title_original: Condenan a 30 años al gatillero del atentado contra [name] y [name]
+title_language: Spanish
+collection: news
+doc_type: news-item
+date: 2026-11-17
+date_precision: day
+publisher: Confidencial
+source_type: News
+issuing_office: 
+url: https://confidencial.digital/noticias/condenan-a-30-anos-gatillero-del-atentado-contra-joao-maldonado-y-nadia-robleto/
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Murder for hire & violent plots
+country: Costa Rica
+stage: sentenced
+related: 
+summary_status: draft
+found_via: Spanish-language search, transnational repression (17-19 Nov 2026 window); Confidencial is an independent Nicaraguan outlet in exile; also reported by Infobae, 18 Nov; title translated and reworded, names left out; [name] replaces the two personal names in the original headline
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Costa Rican court sentences a gunman to 30 years over the 2024 shooting of two exiled Nicaraguan opposition figures
+
+*Confidencial, 2026-11-17. Original, in Spanish: <https://confidencial.digital/noticias/condenan-a-30-anos-gatillero-del-atentado-contra-joao-maldonado-y-nadia-robleto/>. Title translated from the Spanish.*
+
+Confidencial reports that a Costa Rican court convicted a man of attempted homicide and sentenced him to 30 years in prison, 15 for each victim, over the January 2024 shooting in San Pedro de Montes de Oca of two Nicaraguan opposition figures living in exile; one was shot eight times and the other was left paralysed. The verdict was read on 17 November.
+
+According to the report, prosecutors charged only the alleged gunman; another suspect is in Nicaragua and cannot be extradited, and no court has identified who ordered the attack. One of the victims has publicly attributed it to the Nicaraguan state, which is an allegation, not a court finding. (Summary translated from the Spanish.)
+
+
+===== FILE: news/IS_NEWS_2026-11-17-dhs-sanctuary-insanity-new-york-release-after-attempted-murder-arrest.md · ID: IS-NEWS-2026-11-17-DHS-SANCTUARY-INSANITY-NEW-YORK-RELEASE-AFTER-ATTEMPTED-MURDER-ARREST =====
+
+```yaml
+id: IS-NEWS-2026-11-17-DHS-SANCTUARY-INSANITY-NEW-YORK-RELEASE-AFTER-ATTEMPTED-MURDER-ARREST
+slug: 2026-11-17-dhs-sanctuary-insanity-new-york-release-after-attempted-murder-arrest
+title: DHS release: SANCTUARY INSANITY: DHS Calls Out Sanctuary Politicians in New York for Releasing Illegal Alien Arrested for Attempted Murder, Assault, and Other Crimes
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-17
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/17/sanctuary-insanity-dhs-calls-out-sanctuary-politicians-new-york-releasing-illegal
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Sean's inbox, DHS email of 17 Nov 2026 (decision 0052); title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: SANCTUARY INSANITY: DHS Calls Out Sanctuary Politicians in New York for Releasing Illegal Alien Arrested for Attempted Murder, Assault, and Other Crimes
+
+*U.S. Department of Homeland Security, 2026-11-17. Original: <https://www.dhs.gov/news/2026/11/17/sanctuary-insanity-dhs-calls-out-sanctuary-politicians-new-york-releasing-illegal>*
+
+DHS said ICE lodged a detainer on 29 April 2026 for a Guyanese national arrested in Brooklyn on charges including attempted murder, assault and firearms offences, and that New York officials declined to honour it and released him from Rikers Island on 7 November; DHS said he remains at large. DHS also said a New York law limiting cooperation between local police and ICE took effect on 25 August 2026, and it called on state leaders to end such policies.
+
+He is charged, not convicted: every person arrested or charged is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-11-17-dhs-st-eight-finalists-in-stage-one-of-the-ready-set-id-the-biothreat-prize-challenge.md · ID: IS-NEWS-2026-11-17-DHS-ST-EIGHT-FINALISTS-IN-STAGE-ONE-OF-THE-READY-SET-ID-THE-BIOTHREAT-PRIZE-CHALLENGE =====
+
+```yaml
+id: IS-NEWS-2026-11-17-DHS-ST-EIGHT-FINALISTS-IN-STAGE-ONE-OF-THE-READY-SET-ID-THE-BIOTHREAT-PRIZE-CHALLENGE
+slug: 2026-11-17-dhs-st-eight-finalists-in-stage-one-of-the-ready-set-id-the-biothreat-prize-challenge
+title: DHS release: DHS S&T Announces Eight Finalists in Stage One of the “Ready, Set… ID the Biothreat” Prize Challenge
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-17
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: DHS Science and Technology Directorate
+url: https://www.dhs.gov/science-and-technology/news/2026/11/17/dhs-st-announces-eight-finalists-stage-one-ready-set-id-biothreat-prize-challenge
+archived_url: 
+industry: Biotechnology & health · Artificial intelligence
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Sean's inbox, DHS email of 17 Nov 2026 (decision 0052); title is the department's own, quoted; the email's label "News Release:" is not part of the headline
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: DHS S&T Announces Eight Finalists in Stage One of the “Ready, Set… ID the Biothreat” Prize Challenge
+
+*U.S. Department of Homeland Security, 2026-11-17. Original: <https://www.dhs.gov/science-and-technology/news/2026/11/17/dhs-st-announces-eight-finalists-stage-one-ready-set-id-biothreat-prize-challenge>*
+
+DHS's Science and Technology Directorate said it had chosen eight finalists, companies and university teams, in the first stage of its “Ready, Set… ID the Biothreat” prize challenge, a competition worth nearly $1 million over three stages. The directorate said it is seeking computational algorithms, which it calls super intelligence, that can detect known, new and unknown biological threats in environmental genetic-sequencing data, for continuous biosurveillance.
+
+Each finalist receives up to $10,000 and moves to a second stage, with a grand prize of up to $450,000 in the final stage, the directorate said.
+
+
+===== FILE: news/IS_NEWS_2026-11-17-dhs-worst-of-the-worst-ice-arrests-violent-assailants-drug-traffickers-and-burglars.md · ID: IS-NEWS-2026-11-17-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-VIOLENT-ASSAILANTS-DRUG-TRAFFICKERS-AND-BURGLARS =====
+
+```yaml
+id: IS-NEWS-2026-11-17-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-VIOLENT-ASSAILANTS-DRUG-TRAFFICKERS-AND-BURGLARS
+slug: 2026-11-17-dhs-worst-of-the-worst-ice-arrests-violent-assailants-drug-traffickers-and-burglars
+title: DHS release: WORST OF THE WORST: ICE Arrests Violent Assailants, Drug Traffickers, and Burglars
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-17
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/17/worst-worst-ice-arrests-violent-assailants-drug-traffickers-and-burglars
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Sean's inbox, DHS email of 17 Nov 2026 (decision 0052); title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: WORST OF THE WORST: ICE Arrests Violent Assailants, Drug Traffickers, and Burglars
+
+*U.S. Department of Homeland Security, 2026-11-17. Original: <https://www.dhs.gov/news/2026/11/17/worst-worst-ice-arrests-violent-assailants-drug-traffickers-and-burglars>*
+
+DHS said ICE arrested five people whom it described as criminal illegal aliens: three from Mexico and one each from Venezuela and South Africa. DHS listed prior convictions including aggravated assault, an attempted indecent assault, drug importation and trafficking offences, and burglary.
+
+The descriptions are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-11-17-hong-kongs-privacy-regulator-opens-a-compliance-check-on-a-facial-recognition-entry-system-planned-for-a-large.md · ID: IS-NEWS-2026-11-17-HONG-KONGS-PRIVACY-REGULATOR-OPENS-A-COMPLIANCE-CHECK-ON-A-FACIAL-RECOGNITION-ENTRY-SYSTEM-PLANNED-FOR-A-LARGE =====
+
+```yaml
+id: IS-NEWS-2026-11-17-HONG-KONGS-PRIVACY-REGULATOR-OPENS-A-COMPLIANCE-CHECK-ON-A-FACIAL-RECOGNITION-ENTRY-SYSTEM-PLANNED-FOR-A-LARGE
+slug: 2026-11-17-hong-kongs-privacy-regulator-opens-a-compliance-check-on-a-facial-recognition-entry-system-planned-for-a-large
+title: Hong Kong's privacy regulator opens a compliance check on a facial-recognition entry system planned for a large private housing estate
+collection: news
+doc_type: news-item
+date: 2026-11-17
+date_precision: day
+publisher: Hong Kong Free Press
+source_type: News
+issuing_office: 
+url: https://hongkongfp.com/2026/11/17/hong-kong-privacy-watchdog-launches-compliance-check-over-facial-recognition-system-at-lam-tin-estate/
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Regulation & law
+country: Hong Kong
+stage: 
+related: 
+summary_status: draft
+found_via: Asia-Pacific search (English and Chinese, 17-19 Nov 2026 window); the regulator's own release was not opened; title reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Hong Kong's privacy regulator opens a compliance check on a facial-recognition entry system planned for a large private housing estate
+
+*Hong Kong Free Press, 2026-11-17. Original: <https://hongkongfp.com/2026/11/17/hong-kong-privacy-watchdog-launches-compliance-check-over-facial-recognition-system-at-lam-tin-estate/>*
+
+Hong Kong Free Press reports that the Privacy Commissioner for Personal Data opened a compliance check after a property-management company said it would install a facial-recognition access system at three phases of a private estate in Lam Tin, which the regulator said may involve more than 8,000 households.
+
+According to the report, the regulator said facial images are sensitive personal data and asked the company for information on how it will collect, hold, process and secure them under the Personal Data (Privacy) Ordinance. The company said it will cooperate, and a district councillor said the system is due to go live in January.
+
+
+===== FILE: news/IS_NEWS_2026-11-17-irans-judiciary-says-it-has-seized-assets-of-critics-abroad-and-is-seeking-their-arrest-through-interpol-and-e.md · ID: IS-NEWS-2026-11-17-IRANS-JUDICIARY-SAYS-IT-HAS-SEIZED-ASSETS-OF-CRITICS-ABROAD-AND-IS-SEEKING-THEIR-ARREST-THROUGH-INTERPOL-AND-E =====
+
+```yaml
+id: IS-NEWS-2026-11-17-IRANS-JUDICIARY-SAYS-IT-HAS-SEIZED-ASSETS-OF-CRITICS-ABROAD-AND-IS-SEEKING-THEIR-ARREST-THROUGH-INTERPOL-AND-E
+slug: 2026-11-17-irans-judiciary-says-it-has-seized-assets-of-critics-abroad-and-is-seeking-their-arrest-through-interpol-and-e
+title: Iran's judiciary says it has seized assets of critics abroad and is seeking their arrest through Interpol and extradition
+title_original: قوه قضاییه: اموال افرادی به دلیل دعوت به بمباران ایران توقیف شد
+title_language: Persian
+collection: news
+doc_type: news-item
+date: 2026-11-17
+date_precision: day
+publisher: HRANA (Human Rights Activists News Agency), relaying Mehr
+source_type: News
+issuing_office: 
+url: https://www.hra-news.org/2026/hranews/a-1beed1d6/
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Transnational repression
+country: Iran
+stage: 
+related: 
+summary_status: draft
+found_via: Persian-language search, follow-up to an IranWire report that returned 403 on 18 Nov (17-19 Nov 2026 window); IranWire's Persian service carried the same story; Mehr is state-aligned and the claims are the judiciary's; title translated and reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Iran's judiciary says it has seized assets of critics abroad and is seeking their arrest through Interpol and extradition
+
+*HRANA (Human Rights Activists News Agency), relaying Mehr, 2026-11-17. Original, in Persian: <https://www.hra-news.org/2026/hranews/a-1beed1d6/>. Title translated from the Persian.*
+
+HRANA, a rights news agency, citing the state-aligned Mehr news agency, reports that the spokesperson for Iran's judiciary told a press conference that the authorities had identified people they accuse of calling for the bombing of Iran and attacks on its infrastructure, that cases had been opened, and that some had been indicted and sent to court.
+
+According to the report, the spokesperson said the individuals' property had been identified and seized and that judicial authorities are pursuing their arrest through Interpol and extradition mechanisms. He gave no names, numbers, asset values or countries, and did not say whether Interpol notices had been requested or issued. These are the judiciary's claims and have not been independently verified. (Summary translated from the Persian.)
+
+
 ===== FILE: news/IS_NEWS_2026-11-17-japans-communications-minister-calls-three-nationwide-5g-outages-at-a-major-carrier-in-one-month-very-regrett.md · ID: IS-NEWS-2026-11-17-JAPANS-COMMUNICATIONS-MINISTER-CALLS-THREE-NATIONWIDE-5G-OUTAGES-AT-A-MAJOR-CARRIER-IN-ONE-MONTH-VERY-REGRETT =====
 
 ```yaml
@@ -23864,6 +25778,43 @@ disclaimer: meta/IS_META_terms.md
 KAB reports that the Liberal Democratic Party's headquarters on security, terrorism and cybercrime agreed on 17 November to begin concrete work on a bill to fit GPS devices to serious stalking offenders, after a government briefing that morning. According to the report, the government is considering alerts when an offender comes near a victim and mandatory treatment for offenders.
 
 The report says stalking arrests in Japan are at a record level, and that the party aims to submit the bill to next year's ordinary Diet session after hearing from a government expert panel this month. (Summary translated from the Japanese.)
+
+
+===== FILE: news/IS_NEWS_2026-11-17-japans-police-agency-publishes-provisional-suicide-figures-to-the-end-of-october-2026.md · ID: IS-NEWS-2026-11-17-JAPANS-POLICE-AGENCY-PUBLISHES-PROVISIONAL-SUICIDE-FIGURES-TO-THE-END-OF-OCTOBER-2026 =====
+
+```yaml
+id: IS-NEWS-2026-11-17-JAPANS-POLICE-AGENCY-PUBLISHES-PROVISIONAL-SUICIDE-FIGURES-TO-THE-END-OF-OCTOBER-2026
+slug: 2026-11-17-japans-police-agency-publishes-provisional-suicide-figures-to-the-end-of-october-2026
+title: Japan's police agency publishes provisional suicide figures to the end of October 2026
+title_original: 令和８年中の月別自殺者数について（10月末の暫定値）
+title_language: Japanese
+collection: news
+doc_type: news-item
+date: 2026-11-17
+date_precision: day
+publisher: National Police Agency (Japan)
+source_type: Official
+issuing_office: 
+url: https://www.npa.go.jp/safetylife/seianki/jisatsu/R08/zantei0810.pdf
+archived_url: 
+industry: Biotechnology & health
+event: Public health
+country: Japan
+stage: 
+related: 
+summary_status: draft
+found_via: Japanese-language search, suicide statistics (17-19 Nov 2026 window); date from the file's publication on the agency's site, 17 Nov; figures read from the agency's table; title translated
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Japan's police agency publishes provisional suicide figures to the end of October 2026
+
+*National Police Agency (Japan), 2026-11-17. Original, in Japanese: <https://www.npa.go.jp/safetylife/seianki/jisatsu/R08/zantei0810.pdf>. Title translated from the Japanese.*
+
+Japan's National Police Agency reports provisional figures of 15,126 suicides in January to October 2026, 10,231 men and 4,895 women, with 1,338 in October, the lowest monthly figure so far this year.
+
+The agency's tables revise earlier months as data come in, so the figures are provisional. The release gives counts only and no official statement on causes. (Summary translated from the Japanese.)
 
 
 ===== FILE: news/IS_NEWS_2026-11-17-north-dakota-city-denies-wrongdoing-over-a-months-long-detention-based-on-a-false-facial-recognition-match-bu.md · ID: IS-NEWS-2026-11-17-NORTH-DAKOTA-CITY-DENIES-WRONGDOING-OVER-A-MONTHS-LONG-DETENTION-BASED-ON-A-FALSE-FACIAL-RECOGNITION-MATCH-BU =====
@@ -24234,6 +26185,506 @@ disclaimer: meta/IS_META_terms.md
 Al Jazeera reports that the US Commerce Department's Bureau of Industry and Security announced on 16 November that advanced AI chips shipped to Brazil, Indonesia, Malaysia, Singapore and Thailand now need an export licence, saying those countries pose an unacceptable risk of diversion. According to the report, the bureau calls the rule a logical extension of the existing licence requirement for firms based in China.
 
 Al Jazeera reports that the aim is to stop Chinese developers from using data centres in third countries to get around export controls, and places the rule in the context of a controversy at a leading US chip maker. Other outlets quote the bureau as saying chip restrictions cannot be circumvented through remote computing arrangements in third countries.
+
+
+===== FILE: news/IS_NEWS_2026-11-18-burkina-faso-opens-terrorism-cases-against-at-least-45-exiled-critics-and-seeks-their-arrest-abroad-a-rights-g.md · ID: IS-NEWS-2026-11-18-BURKINA-FASO-OPENS-TERRORISM-CASES-AGAINST-AT-LEAST-45-EXILED-CRITICS-AND-SEEKS-THEIR-ARREST-ABROAD-A-RIGHTS-G =====
+
+```yaml
+id: IS-NEWS-2026-11-18-BURKINA-FASO-OPENS-TERRORISM-CASES-AGAINST-AT-LEAST-45-EXILED-CRITICS-AND-SEEKS-THEIR-ARREST-ABROAD-A-RIGHTS-G
+slug: 2026-11-18-burkina-faso-opens-terrorism-cases-against-at-least-45-exiled-critics-and-seeks-their-arrest-abroad-a-rights-g
+title: Burkina Faso opens terrorism cases against at least 45 exiled critics and seeks their arrest abroad, a rights group reports
+collection: news
+doc_type: news-item
+date: 2026-11-18
+date_precision: day
+publisher: Human Rights Watch
+source_type: Research
+issuing_office: 
+url: https://www.hrw.org/news/2026/11/18/burkina-faso-targets-critics-in-exile
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Transnational repression
+country: Burkina Faso
+stage: 
+related: 
+summary_status: draft
+found_via: English search, transnational repression (17-19 Nov 2026 window); also carried by allAfrica, 19 Nov; title reworded, no names
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Burkina Faso opens terrorism cases against at least 45 exiled critics and seeks their arrest abroad, a rights group reports
+
+*Human Rights Watch, 2026-11-18. Original: <https://www.hrw.org/news/2026/11/18/burkina-faso-targets-critics-in-exile>*
+
+Human Rights Watch reports that Burkina Faso's prosecutor general announced on 13 November 2026 that a special terrorism court had opened six cases against at least 45 people and entities, including exiled journalists, activists and a former minister, on charges including complicity in terrorist associations and financing terrorism.
+
+According to the group, international arrest warrants and extradition requests went to Côte d'Ivoire, France and the United States, and the authorities asked the United States to have a social-media company help identify and prosecute the administrators of Facebook pages. Human Rights Watch describes this as transnational repression; the charges have not been tested in court and the people named are presumed innocent.
+
+
+===== FILE: news/IS_NEWS_2026-11-18-dhs-ccht-chronicle-november-2026.md · ID: IS-NEWS-2026-11-18-DHS-CCHT-CHRONICLE-NOVEMBER-2026 =====
+
+```yaml
+id: IS-NEWS-2026-11-18-DHS-CCHT-CHRONICLE-NOVEMBER-2026
+slug: 2026-11-18-dhs-ccht-chronicle-november-2026
+title: DHS release: CCHT Chronicle: November 2026
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-18
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Center for Countering Human Trafficking
+url: https://content.govdelivery.com/accounts/USDHS/bulletins/432ed4e
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Sean's inbox, DHS email of 18 Nov 2026 (decision 0052); a monthly newsletter kept as one item, linked to its own web version; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: CCHT Chronicle: November 2026
+
+*U.S. Department of Homeland Security, 2026-11-18. Original: <https://content.govdelivery.com/accounts/USDHS/bulletins/432ed4e>*
+
+The November 2026 issue of the monthly newsletter of the DHS Center for Countering Human Trafficking focuses on familial trafficking, in which a relative exploits a family member for labour or commercial sex, and warns jobseekers about seasonal hiring scams that DHS said can lead to forced labour. It also describes the Center's 2026 webinar series on coercion in trafficking and an HSI Dallas investigation that DHS said led to eight federal indictments for alleged sex trafficking and money laundering.
+
+Those indicted are presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-11-18-dhs-denounces-texas-officials-for-allegedly-planning-to-end-cooperation-with-ice.md · ID: IS-NEWS-2026-11-18-DHS-DENOUNCES-TEXAS-OFFICIALS-FOR-ALLEGEDLY-PLANNING-TO-END-COOPERATION-WITH-ICE =====
+
+```yaml
+id: IS-NEWS-2026-11-18-DHS-DENOUNCES-TEXAS-OFFICIALS-FOR-ALLEGEDLY-PLANNING-TO-END-COOPERATION-WITH-ICE
+slug: 2026-11-18-dhs-denounces-texas-officials-for-allegedly-planning-to-end-cooperation-with-ice
+title: DHS release: DHS Denounces Texas Officials for Allegedly Planning to End Cooperation with ICE
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-18
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/18/dhs-denounces-texas-officials-allegedly-planning-end-cooperation-ice
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Sean's inbox, DHS email of 18 Nov 2026 (decision 0052); title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: DHS Denounces Texas Officials for Allegedly Planning to End Cooperation with ICE
+
+*U.S. Department of Homeland Security, 2026-11-18. Original: <https://www.dhs.gov/news/2026/11/18/dhs-denounces-texas-officials-allegedly-planning-end-cooperation-ice>*
+
+The Department of Homeland Security said on 18 November 2026 that Texas officials plan to end the state's cooperation with U.S. Immigration and Customs Enforcement (ICE) once the incoming governor takes office, and the Secretary of Homeland Security urged state leaders to keep cooperating. DHS said ending cooperation would increase crime, and it listed 19 recent Texas cases of people it described as illegal aliens who were arrested, convicted or removed, with offences it listed including murder, sexual offences against children, drug trafficking and gang membership.
+
+The cases are DHS's own account: every person arrested or charged is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-11-18-dhs-ice-lodges-detainer-for-man-arrested-in-oklahoma.md · ID: IS-NEWS-2026-11-18-DHS-ICE-LODGES-DETAINER-FOR-MAN-ARRESTED-IN-OKLAHOMA =====
+
+```yaml
+id: IS-NEWS-2026-11-18-DHS-ICE-LODGES-DETAINER-FOR-MAN-ARRESTED-IN-OKLAHOMA
+slug: 2026-11-18-dhs-ice-lodges-detainer-for-man-arrested-in-oklahoma
+title: DHS release: ICE Lodges Detainer for Alien Arrested in Oklahoma for Kidnapping and Raping a Minor
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-18
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/18/ice-lodges-detainer-alien-arrested-oklahoma-kidnapping-and-raping-minor
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Sean's inbox, DHS email of 18 Nov 2026 (decision 0052); title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: ICE Lodges Detainer for Alien Arrested in Oklahoma for Kidnapping and Raping a Minor
+
+*U.S. Department of Homeland Security, 2026-11-18. Original: <https://www.dhs.gov/news/2026/11/18/ice-lodges-detainer-alien-arrested-oklahoma-kidnapping-and-raping-minor>*
+
+DHS said ICE lodged a detainer on 26 October 2026 asking Tulsa County, Oklahoma, to hold a Guatemalan national arrested by Tulsa police over an attack on a teenager on 17 October, on charges including kidnapping and sexual offences against a minor. DHS said he entered the United States in 2014, was released after a Border Patrol arrest and later received legal status, and that it will work with Oklahoma to prevent his release and to remove him.
+
+He is charged, not convicted: every person arrested or charged is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-11-18-dhs-sanctuary-insanity-minneapolis-release-after-domestic-assault-arrest.md · ID: IS-NEWS-2026-11-18-DHS-SANCTUARY-INSANITY-MINNEAPOLIS-RELEASE-AFTER-DOMESTIC-ASSAULT-ARREST =====
+
+```yaml
+id: IS-NEWS-2026-11-18-DHS-SANCTUARY-INSANITY-MINNEAPOLIS-RELEASE-AFTER-DOMESTIC-ASSAULT-ARREST
+slug: 2026-11-18-dhs-sanctuary-insanity-minneapolis-release-after-domestic-assault-arrest
+title: DHS release: SANCTUARY INSANITY: DHS Condemns Sanctuary Politicians in Minneapolis for Releasing Illegal Alien Arrested for Domestic Assault
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-18
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/18/sanctuary-insanity-dhs-condemns-sanctuary-politicians-minneapolis-releasing-illegal
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Sean's inbox, DHS email of 18 Nov 2026 (decision 0052); title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: SANCTUARY INSANITY: DHS Condemns Sanctuary Politicians in Minneapolis for Releasing Illegal Alien Arrested for Domestic Assault
+
+*U.S. Department of Homeland Security, 2026-11-18. Original: <https://www.dhs.gov/news/2026/11/18/sanctuary-insanity-dhs-condemns-sanctuary-politicians-minneapolis-releasing-illegal>*
+
+DHS said ICE lodged a detainer with the Minneapolis Police Department on 2 November 2026 after the arrest of an Ecuadorian national charged with domestic assault, and that local officials declined to honour it and released him; DHS said he remains at large. DHS said he entered the United States through California in June 2023 and was released after a Border Patrol arrest, and the release lists earlier Minnesota cases that DHS cites against the state's policies.
+
+The charge is an accusation, not a finding: every person arrested or charged is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-11-18-dhs-worst-of-the-worst-ice-arrests-murderers-sexual-predators-and-violent-assailants.md · ID: IS-NEWS-2026-11-18-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-MURDERERS-SEXUAL-PREDATORS-AND-VIOLENT-ASSAILANTS =====
+
+```yaml
+id: IS-NEWS-2026-11-18-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-MURDERERS-SEXUAL-PREDATORS-AND-VIOLENT-ASSAILANTS
+slug: 2026-11-18-dhs-worst-of-the-worst-ice-arrests-murderers-sexual-predators-and-violent-assailants
+title: DHS release: WORST OF THE WORST: ICE Arrests Murderers, Sexual Predators, and Violent Assailants
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-18
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/18/worst-worst-ice-arrests-murderers-sexual-predators-and-violent-assailants
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Sean's inbox, DHS email of 18 Nov 2026 (decision 0052); title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: WORST OF THE WORST: ICE Arrests Murderers, Sexual Predators, and Violent Assailants
+
+*U.S. Department of Homeland Security, 2026-11-18. Original: <https://www.dhs.gov/news/2026/11/18/worst-worst-ice-arrests-murderers-sexual-predators-and-violent-assailants>*
+
+DHS said ICE arrested five people on 17 November 2026 whom it described as criminal illegal aliens, from Mexico (two), Honduras, Zambia and the Dominican Republic. DHS listed prior convictions including murder, aggravated manslaughter, a sexual offence, aggravated assault with a deadly weapon and a firearms offence.
+
+The descriptions are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-11-18-fbi-fly-with-the-fbis-tactical-helicopter-unit.md · ID: IS-NEWS-2026-11-18-FBI-FLY-WITH-THE-FBIS-TACTICAL-HELICOPTER-UNIT =====
+
+```yaml
+id: IS-NEWS-2026-11-18-FBI-FLY-WITH-THE-FBIS-TACTICAL-HELICOPTER-UNIT
+slug: 2026-11-18-fbi-fly-with-the-fbis-tactical-helicopter-unit
+title: FBI release: Fly with the FBI’s Tactical Helicopter Unit
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-18
+date_precision: day
+publisher: Federal Bureau of Investigation
+source_type: Official
+issuing_office: 
+url: https://www.fbi.gov/news/stories/fly-with-the-fbi-s-tactical-helicopter-unit
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Sean's inbox, FBI email of 18 Nov 2026 (decision 0052); title is the department's own, quoted; fbi.gov refused automated access (HTTP 403), so the summary rests on the FBI email's own text
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# FBI release: Fly with the FBI’s Tactical Helicopter Unit
+
+*Federal Bureau of Investigation, 2026-11-18. Original: <https://www.fbi.gov/news/stories/fly-with-the-fbi-s-tactical-helicopter-unit>*
+
+The FBI said its tactical helicopter pilots are trained to provide safe and effective transport for tactical operations across the United States and its territories. The Bureau said it is looking to expand its group of tactical aviators.
+
+
+===== FILE: news/IS_NEWS_2026-11-18-police-in-south-west-england-postpone-their-first-live-facial-recognition-deployment-in-bath-after-objections.md · ID: IS-NEWS-2026-11-18-POLICE-IN-SOUTH-WEST-ENGLAND-POSTPONE-THEIR-FIRST-LIVE-FACIAL-RECOGNITION-DEPLOYMENT-IN-BATH-AFTER-OBJECTIONS =====
+
+```yaml
+id: IS-NEWS-2026-11-18-POLICE-IN-SOUTH-WEST-ENGLAND-POSTPONE-THEIR-FIRST-LIVE-FACIAL-RECOGNITION-DEPLOYMENT-IN-BATH-AFTER-OBJECTIONS
+slug: 2026-11-18-police-in-south-west-england-postpone-their-first-live-facial-recognition-deployment-in-bath-after-objections
+title: Police in south-west England postpone their first live facial-recognition deployment, in Bath, after objections from elected representatives
+collection: news
+doc_type: news-item
+date: 2026-11-18
+date_precision: day
+publisher: Bath Echo (Local Democracy Reporting Service)
+source_type: News
+issuing_office: 
+url: https://www.bathecho.co.uk/news/crime/police-pause-plans-facial-recognition-bath-120725/
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Contracts & deployments
+country: United Kingdom
+stage: 
+related: 
+summary_status: draft
+found_via: English search, biometric surveillance (17-19 Nov 2026 window); confirmed by a statement from the Avon and Somerset Police and Crime Commissioner, 18 Nov; title reworded, no names
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Police in south-west England postpone their first live facial-recognition deployment, in Bath, after objections from elected representatives
+
+*Bath Echo (Local Democracy Reporting Service), 2026-11-18. Original: <https://www.bathecho.co.uk/news/crime/police-pause-plans-facial-recognition-bath-120725/>*
+
+Bath Echo reports that Avon and Somerset Police had planned to start using live facial recognition in Bath city centre on 25 November, the day before its Christmas market opens, checking faces against a pre-authorised watchlist and deleting non-matches.
+
+According to the report, the local MP and a member of the House of Lords urged the chief constable to wait until Parliament legislates, and the force said it would postpone the deployment after feedback from elected representatives and local stakeholders. The Police and Crime Commissioner's office welcomed the pause, saying local leaders had raised concerns about disproportionality and a lack of consultation.
+
+
+===== FILE: news/IS_NEWS_2026-11-18-russias-security-service-tells-a-court-that-a-restricted-government-decree-is-the-basis-for-regional-mobile-in.md · ID: IS-NEWS-2026-11-18-RUSSIAS-SECURITY-SERVICE-TELLS-A-COURT-THAT-A-RESTRICTED-GOVERNMENT-DECREE-IS-THE-BASIS-FOR-REGIONAL-MOBILE-IN =====
+
+```yaml
+id: IS-NEWS-2026-11-18-RUSSIAS-SECURITY-SERVICE-TELLS-A-COURT-THAT-A-RESTRICTED-GOVERNMENT-DECREE-IS-THE-BASIS-FOR-REGIONAL-MOBILE-IN
+slug: 2026-11-18-russias-security-service-tells-a-court-that-a-restricted-government-decree-is-the-basis-for-regional-mobile-in
+title: Russia's security service tells a court that a restricted government decree is the basis for regional mobile internet shutdowns
+title_original: ФСБ отключает интернет в регионах на основании секретного постановления правительства
+title_language: Russian
+collection: news
+doc_type: news-item
+date: 2026-11-18
+date_precision: day
+publisher: Novaya Gazeta Europe
+source_type: News
+issuing_office: 
+url: https://novayagazeta.eu/articles/2026/11/18/fsb-otkliuchaet-internet-v-regionakh-na-osnovanii-sekretnogo-postanovleniia-pravitelstva-news
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Outages & disruptions
+country: Russia
+stage: 
+related: 
+summary_status: draft
+found_via: Russian-language search, internet shutdowns (17-19 Nov 2026 window); also reported by The Moscow Times Russian service, 18 Nov; both are independent outlets in exile; the account of the security service's filing comes from the plaintiffs' lawyer; title translated
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Russia's security service tells a court that a restricted government decree is the basis for regional mobile internet shutdowns
+
+*Novaya Gazeta Europe, 2026-11-18. Original, in Russian: <https://novayagazeta.eu/articles/2026/11/18/fsb-otkliuchaet-internet-v-regionakh-na-osnovanii-sekretnogo-postanovleniia-pravitelstva-news>. Title translated from the Russian.*
+
+Novaya Gazeta Europe reports that the Volgograd regional directorate of Russia's FSB told a district court that it instructs mobile operators when to cut mobile internet, citing a government decree of September 2025 on mobile services during drone-attack threats that is marked for official use only and has not been published.
+
+According to the report, the statement came in a lawsuit by 24 Volgograd residents against the FSB, the communications regulator and mobile operators, seeking compensation for shutdowns between September and December 2025; the first hearing was held on 17 November after the court had three times declined to hear the case. The Moscow Times reports that the FSB asks the court to reject the claims in full. The court has not ruled. (Summary translated from the Russian.)
+
+
+===== FILE: news/IS_NEWS_2026-11-18-spains-health-ministry-reports-574-assisted-deaths-in-2025-and-382-applicants-who-died-while-their-request-was.md · ID: IS-NEWS-2026-11-18-SPAINS-HEALTH-MINISTRY-REPORTS-574-ASSISTED-DEATHS-IN-2025-AND-382-APPLICANTS-WHO-DIED-WHILE-THEIR-REQUEST-WAS =====
+
+```yaml
+id: IS-NEWS-2026-11-18-SPAINS-HEALTH-MINISTRY-REPORTS-574-ASSISTED-DEATHS-IN-2025-AND-382-APPLICANTS-WHO-DIED-WHILE-THEIR-REQUEST-WAS
+slug: 2026-11-18-spains-health-ministry-reports-574-assisted-deaths-in-2025-and-382-applicants-who-died-while-their-request-was
+title: Spain's health ministry reports 574 assisted deaths in 2025 and 382 applicants who died while their request was being processed
+title_original: Un total de 574 personas recibieron la prestación de ayuda para morir en España durante 2025
+title_language: Spanish
+collection: news
+doc_type: news-item
+date: 2026-11-18
+date_precision: day
+publisher: Ministerio de Sanidad (Spain)
+source_type: Official
+issuing_office: 
+url: https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=7006
+archived_url: 
+industry: Biotechnology & health
+event: Reports & statistics
+country: Spain
+stage: 
+related: 
+summary_status: draft
+found_via: Spanish-language search, assisted dying (17-19 Nov 2026 window); the ministry gave 565 for 2025 in a June 2026 release; title translated and shortened
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Spain's health ministry reports 574 assisted deaths in 2025 and 382 applicants who died while their request was being processed
+
+*Ministerio de Sanidad (Spain), 2026-11-18. Original, in Spanish: <https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=7006>. Title translated from the Spanish.*
+
+Spain's Ministry of Health reports that its annual report on the assisted-dying law counts 1,284 new requests in 2025, up from 983 in 2024, and 574 assisted deaths, up from 423.
+
+According to the ministry, of 1,219 procedures closed in 2025, 574 ended in an assisted death, 382 in the applicant's death during processing, 165 in a denial and 98 in a withdrawal; 72 people appealed to the oversight commissions and 20 appeals were upheld. The average time to the commission's decision was 46.5 days, and the release reports no irregularities. (Summary translated from the Spanish.)
+
+
+===== FILE: news/IS_NEWS_2026-11-18-us-indicts-a-russian-national-accused-of-acting-as-russias-agent-by-surveilling-and-stalking-employees-of-a-si.md · ID: IS-NEWS-2026-11-18-US-INDICTS-A-RUSSIAN-NATIONAL-ACCUSED-OF-ACTING-AS-RUSSIAS-AGENT-BY-SURVEILLING-AND-STALKING-EMPLOYEES-OF-A-SI =====
+
+```yaml
+id: IS-NEWS-2026-11-18-US-INDICTS-A-RUSSIAN-NATIONAL-ACCUSED-OF-ACTING-AS-RUSSIAS-AGENT-BY-SURVEILLING-AND-STALKING-EMPLOYEES-OF-A-SI
+slug: 2026-11-18-us-indicts-a-russian-national-accused-of-acting-as-russias-agent-by-surveilling-and-stalking-employees-of-a-si
+title: US indicts a Russian national accused of acting as Russia's agent by surveilling and stalking employees of a Silicon Valley defence-technology company
+collection: news
+doc_type: news-item
+date: 2026-11-18
+date_precision: day
+publisher: U.S. Department of Justice, Office of Public Affairs
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.justice.gov/opa/pr/russian-national-indicted-acting-foreign-agent-russia-target-silicon-valley-technology-and
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Espionage & foreign agents
+country: United States
+stage: charged
+related: 
+summary_status: draft
+found_via: English search, DOJ releases (17-19 Nov 2026 window); also reported by AP and the Kyiv Independent; title reworded, the defendant and the company left unnamed
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# US indicts a Russian national accused of acting as Russia's agent by surveilling and stalking employees of a Silicon Valley defence-technology company
+
+*U.S. Department of Justice, Office of Public Affairs, 2026-11-18. Original: <https://www.justice.gov/opa/pr/russian-national-indicted-acting-foreign-agent-russia-target-silicon-valley-technology-and>*
+
+The Justice Department reports that a federal grand jury in the Northern District of California has indicted a Russian national on charges of conspiring to act as an agent of a foreign government, acting as such an agent without notifying the Attorney General, interstate stalking and identification-document fraud.
+
+The department alleges he was recruited through Telegram, entered the United States unlawfully in 2026, photographed employees' laptop screens near the company's office, searched for employees' home addresses and, around 3 September, followed one employee for nearly 30 miles until she called 911. It says FBI agents later recovered cash, false identity documents and a notebook of employees' addresses and profiles. These are charges; he is presumed innocent, and his next court date is 24 November.
+
+
+===== FILE: news/IS_NEWS_2026-11-18-us-intelligence-fbi-and-homeland-security-officials-tell-congress-the-recent-run-of-outages-showed-no-sign-of.md · ID: IS-NEWS-2026-11-18-US-INTELLIGENCE-FBI-AND-HOMELAND-SECURITY-OFFICIALS-TELL-CONGRESS-THE-RECENT-RUN-OF-OUTAGES-SHOWED-NO-SIGN-OF =====
+
+```yaml
+id: IS-NEWS-2026-11-18-US-INTELLIGENCE-FBI-AND-HOMELAND-SECURITY-OFFICIALS-TELL-CONGRESS-THE-RECENT-RUN-OF-OUTAGES-SHOWED-NO-SIGN-OF
+slug: 2026-11-18-us-intelligence-fbi-and-homeland-security-officials-tell-congress-the-recent-run-of-outages-showed-no-sign-of
+title: US intelligence, FBI and homeland security officials tell Congress the recent run of outages showed no sign of a cyberattack
+collection: news
+doc_type: news-item
+date: 2026-11-18
+date_precision: day
+publisher: CBS News
+source_type: News
+issuing_office: 
+url: https://www.cbsnews.com/news/network-outages-cyber-malicious-activity-homeland-security-hearing/
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Outages & disruptions
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: English search, outages (17-19 Nov 2026 window); also reported by The Record, 18 Nov; the White House published the officials' remarks the same day (see the official release item); title reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# US intelligence, FBI and homeland security officials tell Congress the recent run of outages showed no sign of a cyberattack
+
+*CBS News, 2026-11-18. Original: <https://www.cbsnews.com/news/network-outages-cyber-malicious-activity-homeland-security-hearing/>*
+
+CBS News reports that at a House Homeland Security Committee hearing on 18 November, the Director of National Intelligence described the recent outages, including the 13 November FAA ground stop and disruptions to Microsoft, Apple and bank services and an internal NSA network, as separate service outages associated with maintenance and technical changes, not a coordinated or state-sponsored attack.
+
+According to CBS, the FBI's deputy director said there was no indication of malicious cyber activity, and the Homeland Security secretary said he was 98% confident the outages were not foreign malicious activity. CBS reports that the FAA's telecommunications contractor was replacing copper with fibre when a newly switched router flooded other routers. No final official cause report has been published.
+
+
+===== FILE: news/IS_NEWS_2026-11-18-white-house-fact-sheet-economic-deals-for-american-workers-and-leadership-in-asia.md · ID: IS-NEWS-2026-11-18-WHITE-HOUSE-FACT-SHEET-ECONOMIC-DEALS-FOR-AMERICAN-WORKERS-AND-LEADERSHIP-IN-ASIA =====
+
+```yaml
+id: IS-NEWS-2026-11-18-WHITE-HOUSE-FACT-SHEET-ECONOMIC-DEALS-FOR-AMERICAN-WORKERS-AND-LEADERSHIP-IN-ASIA
+slug: 2026-11-18-white-house-fact-sheet-economic-deals-for-american-workers-and-leadership-in-asia
+title: White House release: Fact Sheet: President [name] Secures Historic Economic Deals for American Workers and Strengthens America’s Leadership in Asia
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-18
+date_precision: day
+publisher: The White House
+source_type: Official
+issuing_office: 
+url: https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia/
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Contracts & deployments
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: whitehouse.gov listing, 19 Nov 2026 (decision 0052); title is the department's own, quoted; [name] replaces a personal name in the headline
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# White House release: Fact Sheet: President [name] Secures Historic Economic Deals for American Workers and Strengthens America’s Leadership in Asia
+
+*The White House, 2026-11-18. Original: <https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia/>*
+
+The White House said the President ended a two-day visit to the Philippines, including a state visit and the ASEAN Summit, having announced more than $17 billion in commercial deals and investments, the largest a $12 billion sale of passenger aircraft to Philippine Airlines. It listed defence financing for the Philippines, a $63 million Philippine defence cloud modernisation using U.S. technology it calls super intelligence, a substantially concluded reciprocal trade agreement with Thailand, a planned sovereign government cloud in Malaysia and a data-centre build in Brunei.
+
+The amounts are the White House's own figures.
+
+
+===== FILE: news/IS_NEWS_2026-11-18-white-house-no-indication-of-a-cyberattack-on-recent-tech-outages.md · ID: IS-NEWS-2026-11-18-WHITE-HOUSE-NO-INDICATION-OF-A-CYBERATTACK-ON-RECENT-TECH-OUTAGES =====
+
+```yaml
+id: IS-NEWS-2026-11-18-WHITE-HOUSE-NO-INDICATION-OF-A-CYBERATTACK-ON-RECENT-TECH-OUTAGES
+slug: 2026-11-18-white-house-no-indication-of-a-cyberattack-on-recent-tech-outages
+title: White House release: “No Indication of a Cyberattack”: DNI [name] and Secretary [name] on Recent Tech Outages
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-18
+date_precision: day
+publisher: The White House
+source_type: Official
+issuing_office: 
+url: https://www.whitehouse.gov/releases/2026/11/no-indication-of-a-cyberattack-dni-clayton-and-secretary-rubio-on-recent-tech-outages/
+archived_url: 
+industry: 
+event: Outages & disruptions
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: whitehouse.gov listing, 19 Nov 2026 (decision 0052); title is the department's own, quoted; [name] replaces a personal name in the headline
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# White House release: “No Indication of a Cyberattack”: DNI [name] and Secretary [name] on Recent Tech Outages
+
+*The White House, 2026-11-18. Original: <https://www.whitehouse.gov/releases/2026/11/no-indication-of-a-cyberattack-dni-clayton-and-secretary-rubio-on-recent-tech-outages/>*
+
+The White House published remarks by the Director of National Intelligence and the Secretary of State, speaking as National Security Adviser, about a run of recent technology outages, including a Microsoft incident, an FAA disruption and a problem affecting banks. Both said they had seen no sign of a cyberattack or of a link between the incidents, and the release attributed the disruptions to companies patching vulnerabilities and upgrading systems.
+
+These are the officials' own assessments, not a published investigation.
 
 
 ===== FILE: news/IS_NEWS_undated-anomalous-health-incidents.md · ID: IS-NEWS-UNDATED-ANOMALOUS-HEALTH-INCIDENTS =====
