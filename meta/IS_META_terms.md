@@ -7,8 +7,8 @@ canonical: true
 supersedes: [IS_META_copyright.md, IS_META_disclaimer.md]
 source: lib/terms.ts (the same source the website renders)
 generated_by: scripts/export_terms_md.mjs
-section_count: 8
-word_count: 2694
+section_count: 9
+word_count: 2849
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 ---
@@ -49,6 +49,14 @@ A statement in these transcripts is **testimony**: a dated first-person report, 
 ### On named organisations
 
 Law-enforcement agencies, government bodies and technology companies employ large numbers of people. A statement naming an organisation is not a statement about any individual within it, and this archive does not treat it as one. No agency, company or official named anywhere in the Journal has been shown by this archive to have done anything wrong, and the author asserts no such thing.
+
+## A possible technological explanation
+
+*Fact:* a long-range acoustic device (LRAD) is a powerful directional loudspeaker. Police use it to speak to people inside buildings, including in barricade and hostage situations, and sound aimed at a building makes its windows and walls vibrate and carry it inside.
+
+*Speculation, from the author’s personal research:* aimed at a home or office building, this technology could turn the building into a giant speaker carrying a ghastly whisper that everyone inside would experience. The sound described throughout this archive may have a technological explanation of this kind.
+
+*Read more: [long-range acoustic device](/glossary/long-range-acoustic-device) · [structure-borne audio](/glossary/structure-borne-audio) · [Are Denver citizens subject to acoustic weapons?](/concepts/denver-acoustic-weapons) · [What is the neurotech bullhorn?](/concepts/the-neurotech-bullhorn). Sources for the fact: [Houston police SWAT communications](https://genasys.com/case-studies/houston-tx-law-enforcement-swat) and [a Pittsburgh barricade](https://genasys.com/content/uploads/2024/02/Pittsburgh-PA-PD.pdf), case studies published by Genasys, the maker of LRAD.*
 
 ## Where the Research and Concepts material comes from
 

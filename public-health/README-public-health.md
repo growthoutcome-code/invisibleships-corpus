@@ -5,7 +5,7 @@ the source-document manifest** — like `government-cloud/`, this folder is rese
 output, not journal material, and it does not corroborate (and is not corroborated
 by) anything else in this corpus.
 
-Regenerated 2026-11-20 by `scripts/sync_corpus_health.py`, which
+Regenerated 2026-11-21 by `scripts/sync_corpus_health.py`, which
 recomputes every count below from the live data files.
 
 ## What this is
@@ -38,6 +38,8 @@ publisher, access date).
 | manifest.json | — | Table counts, tier legend, method note |
 | charts/suicide_international.json | 14 series | 14 series x 22 years on the WHO age-standardised basis (2000-2021), plus national-statistics extensions for 5 countries running to 2025 on each country's own method |
 | charts/suicide_international.csv | — | The same series as a wide CSV, one row per country |
+| charts/prescriptions_*.json, diagnoses*.json, symptoms*.json, before_suicide.json, reporting_gap.json | — | Prescriptions, diagnoses, symptoms, recorded circumstances before suicide, and the reporting gap: each file carries its sources, caveats and release dates (build_health_series.py) |
+| charts/causes_of_death/ | 67 cause files | 201 places x 67 causes, 2000-2021, WHO age-standardised estimates; each country labelled by years of registered deaths (94 registered, 17 partly, 83 model only) |
 | charts/overdose_us.csv | 27 | US overdose deaths by year, with rate and final/provisional status |
 
 Source register: 79 Tier A · 23 Tier B · 2 Tier C.
@@ -59,6 +61,17 @@ own method** — different standard populations, and in three cases crude rather
 age-standardised rates. They are stored separately, marked per country, and drawn
 dotted on the site precisely because they are not cross-country comparable. Do not
 splice them into the WHO segment without rebasing.
+
+## Causes of death
+
+`charts/causes_of_death/` holds WHO's Global Health Estimates for every country and
+region WHO covers: `index.json` (causes, places, method, caveats, and for each
+country how many years of its own registered, cause-coded deaths it reported to the
+WHO Mortality Database), one `cause_<id>.json` per cause (values by place, 2000-2021,
+deaths per 100,000, age-standardised to the world standard population) and
+`changes.json` (each place's values in 2000, 2010, 2019 and 2021, every cause).
+A country labelled "estimate" registered few or no deaths with their cause: its
+line is WHO's model, not counted deaths. Rebuilt by `scripts/build_causes_of_death.py`.
 
 ## The overdose series
 

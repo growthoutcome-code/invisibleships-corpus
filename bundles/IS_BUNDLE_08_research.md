@@ -4,7 +4,7 @@ title: "Research: crime, public health, government cloud"
 collection: bundles
 doc_type: bundle
 files: 82
-approx_tokens: 260,427
+approx_tokens: 260,707
 contains: [crime, public-health, government-cloud, research]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -189,7 +189,7 @@ source-document manifest** — like `government-cloud/` and `public-health/`, th
 is research output, not journal material, and it does not corroborate (and is not
 corroborated by) anything else in this corpus.
 
-Regenerated 2026-11-20 by `scripts/sync_corpus_crime.py`, which recomputes
+Regenerated 2026-11-21 by `scripts/sync_corpus_crime.py`, which recomputes
 every count below from the live data files.
 
 **Scope: the United States only.**
@@ -3261,7 +3261,7 @@ the source-document manifest** — like `government-cloud/`, this folder is rese
 output, not journal material, and it does not corroborate (and is not corroborated
 by) anything else in this corpus.
 
-Regenerated 2026-11-20 by `scripts/sync_corpus_health.py`, which
+Regenerated 2026-11-21 by `scripts/sync_corpus_health.py`, which
 recomputes every count below from the live data files.
 
 ## What this is
@@ -3294,6 +3294,8 @@ publisher, access date).
 | manifest.json | — | Table counts, tier legend, method note |
 | charts/suicide_international.json | 14 series | 14 series x 22 years on the WHO age-standardised basis (2000-2021), plus national-statistics extensions for 5 countries running to 2025 on each country's own method |
 | charts/suicide_international.csv | — | The same series as a wide CSV, one row per country |
+| charts/prescriptions_*.json, diagnoses*.json, symptoms*.json, before_suicide.json, reporting_gap.json | — | Prescriptions, diagnoses, symptoms, recorded circumstances before suicide, and the reporting gap: each file carries its sources, caveats and release dates (build_health_series.py) |
+| charts/causes_of_death/ | 67 cause files | 201 places x 67 causes, 2000-2021, WHO age-standardised estimates; each country labelled by years of registered deaths (94 registered, 17 partly, 83 model only) |
 | charts/overdose_us.csv | 27 | US overdose deaths by year, with rate and final/provisional status |
 
 Source register: 79 Tier A · 23 Tier B · 2 Tier C.
@@ -3315,6 +3317,17 @@ own method** — different standard populations, and in three cases crude rather
 age-standardised rates. They are stored separately, marked per country, and drawn
 dotted on the site precisely because they are not cross-country comparable. Do not
 splice them into the WHO segment without rebasing.
+
+## Causes of death
+
+`charts/causes_of_death/` holds WHO's Global Health Estimates for every country and
+region WHO covers: `index.json` (causes, places, method, caveats, and for each
+country how many years of its own registered, cause-coded deaths it reported to the
+WHO Mortality Database), one `cause_<id>.json` per cause (values by place, 2000-2021,
+deaths per 100,000, age-standardised to the world standard population) and
+`changes.json` (each place's values in 2000, 2010, 2019 and 2021, every cause).
+A country labelled "estimate" registered few or no deaths with their cause: its
+line is WHO's model, not counted deaths. Rebuilt by `scripts/build_causes_of_death.py`.
 
 ## The overdose series
 
@@ -4629,25 +4642,25 @@ year,deaths,age_adjusted_rate_per_100k,status,source_id
 
 ```csv
 country,basis,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025
-"United States","WHO age-standardised",11.17,11.55,11.87,11.76,11.92,11.83,11.96,12.31,12.65,12.82,13.2,13.44,13.67,13.7,14.1,14.42,14.63,15.19,15.44,15.11,14.96,15.63,,,,
-"United States","CDC, age-adjusted (US 2000 standard)",,,,,,,,,,,,,,,,,,,,,,,14.2,14.1,13.7,
-"South Korea","WHO age-standardised",15.06,16.14,19.56,24.9,26.21,27.58,24.45,27.55,29.29,35.12,34.92,35.49,31.01,31.21,29.35,28.23,27.06,25.61,28.28,28.44,27.16,27.53,,,,
-"South Korea","KOSTAT, CRUDE (not age-standardised)",,,,,,,,,,,,,,,,,,,,,,,25.2,27.3,29.1,
-"Russia","WHO age-standardised",53.06,51.79,50.72,49.35,47.44,45.17,41.44,39.63,38.39,36.84,35.78,34.61,33.6,32.83,32.61,31.12,30.2,27.3,25.9,24.47,21.01,21.37,,,,
-"Japan","WHO age-standardised",24.12,23.4,24.05,25.81,24.31,24.56,24.09,25.19,24.62,25.12,24.31,23.52,21.8,21.54,20.23,19.3,17.67,17.19,16.87,16.47,17.16,17.43,,,,
-"Japan","MHLW/NPA, CRUDE (not age-standardised)",,,,,,,,,,,,,,,,,,,,,,,17.5,17.6,16.4,15.6
-"France","WHO age-standardised",20.32,19.57,19.9,20.18,19.53,19.17,18.46,18.03,18.26,18.43,18.23,18.04,17.13,16.98,15.66,15.57,14.63,14.78,15.17,15.05,16.25,16.58,,,,
-"India","WHO age-standardised",15.93,15.1,15.14,15.03,15.4,15.68,15.86,15.86,15.8,15.68,15.9,15.85,15.88,15.68,15.12,14.63,14.62,14.87,14.31,13.98,13.01,12.56,,,,
-"Germany","WHO age-standardised",14.42,14.47,14.56,14.37,13.99,13.28,12.78,12.38,12.52,12.74,13.23,13.24,12.92,13.48,13.44,13.3,12.99,12.53,12.82,12.49,12.87,12.9,,,,
-"Australia","WHO age-standardised",12.83,13.04,12.15,11.08,10.79,11.67,11.21,11.5,12.1,11.65,12.13,11.57,12.16,11.92,13.09,13.64,12.5,13.9,13.4,13.98,13.03,13.08,,,,
-"Australia","ABS, age-standardised (Australia 2001)",,,,,,,,,,,,,,,,,,,,,,,12.6,12.2,11.9,
-"Canada","WHO age-standardised",12.45,12.78,12.45,13.09,12.39,12.87,11.86,12.18,12.34,12.83,12.89,12.02,12.6,12.86,13.38,13.43,11.49,11.82,12.56,12.69,11.64,9.44,,,,
-"China","WHO age-standardised",15.49,15.14,14.93,15.02,15.01,14.23,13.02,12.18,11.61,11.1,10.58,9.97,9.41,9.07,8.86,8.69,8.65,8.62,8.7,8.75,8.82,8.95,,,,
-"UK","WHO age-standardised",8.51,8.23,8.27,7.99,8.2,7.9,7.83,7.54,8.05,7.94,7.8,8.33,8.27,8.74,8.45,8.62,8.25,7.98,9.16,9.39,8.9,9.55,,,,
-"UK","ONS, age-standardised (ESP 2013)",,,,,,,,,,,,,,,,,,,,,,,11.1,10.1,,
-"Israel","WHO age-standardised",6.83,6.45,5.7,6.38,6.06,6.93,5.58,5.27,5.29,5.98,6.71,5.63,6.03,5.09,4.98,4.51,5.13,5.07,5.36,5.03,5.08,4.37,,,,
-"West Bank & Gaza","WHO age-standardised",0.63,0.64,0.66,0.64,0.64,0.63,0.59,0.63,0.59,0.55,0.53,0.57,0.67,0.8,0.92,0.76,0.65,0.66,0.68,0.66,0.64,0.65,,,,
-"World","WHO age-standardised",12.51,12.16,12.1,12.05,11.95,11.73,11.3,11.07,10.95,10.82,10.67,10.48,10.27,10.1,9.94,9.74,9.62,9.6,9.54,9.42,9.06,9.13,,,,
+United States,WHO age-standardised,11.17,11.55,11.87,11.76,11.92,11.83,11.96,12.31,12.65,12.82,13.2,13.44,13.67,13.7,14.1,14.42,14.63,15.19,15.44,15.11,14.96,15.63,,,,
+United States,"CDC, age-adjusted (US 2000 standard)",,,,,,,,,,,,,,,,,,,,,,,14.2,14.1,13.7,
+South Korea,WHO age-standardised,15.06,16.14,19.56,24.9,26.21,27.58,24.45,27.55,29.29,35.12,34.92,35.49,31.01,31.21,29.35,28.23,27.06,25.61,28.28,28.44,27.16,27.53,,,,
+South Korea,"KOSTAT, CRUDE (not age-standardised)",,,,,,,,,,,,,,,,,,,,,,,25.2,27.3,29.1,27.8
+Russia,WHO age-standardised,53.06,51.79,50.72,49.35,47.44,45.17,41.44,39.63,38.39,36.84,35.78,34.61,33.6,32.83,32.61,31.12,30.2,27.3,25.9,24.47,21.01,21.37,,,,
+Japan,WHO age-standardised,24.12,23.4,24.05,25.81,24.31,24.56,24.09,25.19,24.62,25.12,24.31,23.52,21.8,21.54,20.23,19.3,17.67,17.19,16.87,16.47,17.16,17.43,,,,
+Japan,"MHLW/NPA, CRUDE (not age-standardised)",,,,,,,,,,,,,,,,,,,,,,,17.5,17.6,16.4,15.6
+France,WHO age-standardised,20.32,19.57,19.9,20.18,19.53,19.17,18.46,18.03,18.26,18.43,18.23,18.04,17.13,16.98,15.66,15.57,14.63,14.78,15.17,15.05,16.25,16.58,,,,
+India,WHO age-standardised,15.93,15.1,15.14,15.03,15.4,15.68,15.86,15.86,15.8,15.68,15.9,15.85,15.88,15.68,15.12,14.63,14.62,14.87,14.31,13.98,13.01,12.56,,,,
+Germany,WHO age-standardised,14.42,14.47,14.56,14.37,13.99,13.28,12.78,12.38,12.52,12.74,13.23,13.24,12.92,13.48,13.44,13.3,12.99,12.53,12.82,12.49,12.87,12.9,,,,
+Australia,WHO age-standardised,12.83,13.04,12.15,11.08,10.79,11.67,11.21,11.5,12.1,11.65,12.13,11.57,12.16,11.92,13.09,13.64,12.5,13.9,13.4,13.98,13.03,13.08,,,,
+Australia,"ABS, age-standardised (Australia 2001)",,,,,,,,,,,,,,,,,,,,,,,12.6,12.2,11.9,11.6
+Canada,WHO age-standardised,12.45,12.78,12.45,13.09,12.39,12.87,11.86,12.18,12.34,12.83,12.89,12.02,12.6,12.86,13.38,13.43,11.49,11.82,12.56,12.69,11.64,9.44,,,,
+China,WHO age-standardised,15.49,15.14,14.93,15.02,15.01,14.23,13.02,12.18,11.61,11.1,10.58,9.97,9.41,9.07,8.86,8.69,8.65,8.62,8.7,8.75,8.82,8.95,,,,
+UK,WHO age-standardised,8.51,8.23,8.27,7.99,8.2,7.9,7.83,7.54,8.05,7.94,7.8,8.33,8.27,8.74,8.45,8.62,8.25,7.98,9.16,9.39,8.9,9.55,,,,
+UK,"ONS, age-standardised (ESP 2013)",,,,,,,,,,,,,,,,,,,,,,,11.3,11.0,,
+Israel,WHO age-standardised,6.83,6.45,5.7,6.38,6.06,6.93,5.58,5.27,5.29,5.98,6.71,5.63,6.03,5.09,4.98,4.51,5.13,5.07,5.36,5.03,5.08,4.37,,,,
+West Bank & Gaza,WHO age-standardised,0.63,0.64,0.66,0.64,0.64,0.63,0.59,0.63,0.59,0.55,0.53,0.57,0.67,0.8,0.92,0.76,0.65,0.66,0.68,0.66,0.64,0.65,,,,
+World,WHO age-standardised,12.51,12.16,12.1,12.05,11.95,11.73,11.3,11.07,10.95,10.82,10.67,10.48,10.27,10.1,9.94,9.74,9.62,9.6,9.54,9.42,9.06,9.13,,,,
 ```
 
 

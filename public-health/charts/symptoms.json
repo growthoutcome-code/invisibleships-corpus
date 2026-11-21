@@ -1,0 +1,145 @@
+{
+ "chart_id": "symptoms",
+ "title": "One in four US adults reports trouble with memory",
+ "unit": "Percent of US adults",
+ "axis": "percent",
+ "x": [
+  2019,
+  2020,
+  2021,
+  2022,
+  2023,
+  2024,
+  2025
+ ],
+ "context": "One in four US adults now reports difficulty remembering or concentrating, up from one in six in 2019, while feelings of depression held flat. The survey records what people report, not why.",
+ "ask": "What could make memory and concentration worse across a whole population: illness, medication, stress, or something no survey asks about? This archive documents reports of unconsented technological harassment; no dataset here can show whether it plays any part.",
+ "series": [
+  {
+   "id": "Remembering or concentrating",
+   "label": "Remembering or concentrating",
+   "role": "focus",
+   "dashed": false,
+   "values": [
+    16.4,
+    17.5,
+    20.6,
+    20.2,
+    20.5,
+    23.6,
+    25.4
+   ],
+   "about": "US adults who say they have at least some difficulty remembering or concentrating (Washington Group functioning question)."
+  },
+  {
+   "id": "Seeing",
+   "label": "Seeing",
+   "role": "context",
+   "dashed": false,
+   "values": [
+    16.4,
+    16.6,
+    17.0,
+    18.4,
+    18.8,
+    18.0,
+    20.4
+   ],
+   "about": "US adults with at least some difficulty seeing, even with glasses."
+  },
+  {
+   "id": "Hearing",
+   "label": "Hearing",
+   "role": "context",
+   "dashed": false,
+   "values": [
+    14.6,
+    13.8,
+    14.4,
+    15.5,
+    15.4,
+    15.7,
+    16.0
+   ],
+   "about": "US adults with at least some difficulty hearing, even with a hearing aid."
+  },
+  {
+   "id": "Anxiety, regularly",
+   "label": "Anxiety, regularly",
+   "role": "context",
+   "dashed": true,
+   "values": [
+    11.1,
+    11.2,
+    11.3,
+    12.7,
+    12.5,
+    12.2,
+    12.5
+   ],
+   "about": "US adults who feel worried, nervous or anxious daily or weekly."
+  },
+  {
+   "id": "Communicating",
+   "label": "Communicating",
+   "role": "context",
+   "dashed": false,
+   "values": [
+    5.0,
+    4.8,
+    5.1,
+    5.6,
+    5.9,
+    5.8,
+    6.7
+   ],
+   "about": "US adults with at least some difficulty communicating in their usual language: understanding or being understood."
+  },
+  {
+   "id": "Depression, regularly",
+   "label": "Depression, regularly",
+   "role": "context",
+   "dashed": true,
+   "values": [
+    4.7,
+    4.4,
+    4.5,
+    5.1,
+    4.9,
+    4.8,
+    4.5
+   ],
+   "about": "US adults who feel depressed daily or weekly."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "16.4% → 25.4%",
+   "text": "difficulty remembering or concentrating, 2019 to 2025."
+  },
+  {
+   "value": "41% → 50%",
+   "text": "report at least some functional difficulty."
+  },
+  {
+   "value": "4.5%",
+   "text": "regularly feel depressed: flat since 2019."
+  }
+ ],
+ "caption": "Percent of US adults, National Health Interview Survey. Self-reported, not diagnoses. Dashed lines are feelings; solid lines are functional difficulties.",
+ "sources": [
+  {
+   "publisher": "CDC / NCHS",
+   "title": "NHIS Adult Summary Health Statistics",
+   "url": "https://data.cdc.gov/d/25m4-6qqq",
+   "released": "2026-08"
+  }
+ ],
+ "caveats": [
+  "Survey estimates; confidence intervals are in the source.",
+  "The survey says nothing about cause."
+ ],
+ "accessed": "2026-11-20",
+ "revisions": [],
+ "tier": "A"
+}

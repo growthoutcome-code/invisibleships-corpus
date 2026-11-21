@@ -1,6 +1,6 @@
 {
  "name": "Invisible Ships \u2014 Public Health Signals",
- "generated": "2026-11-20",
+ "generated": "2026-11-21",
  "method_note": "All figures verified against fetched primary sources on 2026-08-19; 22 headline figures re-derived by independent second-pass verification (21 confirmed, 1 partially confirmed). Causes reported as attributed, never asserted. Overlaps with the Government Cloud dataset are structural/pattern observations only. This dataset does not corroborate the journal, and the Government Cloud dataset does not corroborate this one.",
  "tier_legend": {
   "A": "documented \u2014 official statistical agency or peer-reviewed source fetched and read",
@@ -20,6 +20,7 @@
  },
  "charts": {
   "suicide_international.json": "14 series x 22 years on the WHO age-standardised basis (2000-2021), plus national-statistics extensions for 5 countries running to 2025 on each country's own method",
+  "causes_of_death/": "201 places x 67 causes, 2000-2021, WHO age-standardised estimates; each country labelled by years of registered deaths (94 registered, 17 partly, 83 model only)",
   "overdose_us.csv": "US drug overdose deaths 1999-2025, 27 rows: counts, age-adjusted rates, and final/provisional status per year"
  }
 }

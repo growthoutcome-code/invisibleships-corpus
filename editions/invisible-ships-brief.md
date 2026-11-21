@@ -36,10 +36,11 @@ You have been given files from the Invisible Ships archive (invisibleships.com),
 | Journal Part 03 | 29 Sep – 8 Nov 2025 | 57 | `bundles/IS_BUNDLE_04_*.md` |
 | Journal Part 04 | 9 Nov 2025 – 2026 | 82 | `bundles/IS_BUNDLE_05_*.md` |
 | Discovery Notes | Apr – May 2026 (unofficial) | 23 | `bundles/IS_BUNDLE_05_*.md` |
+| Administrative notes | Nov 2026 (written for the site) | 0 | `bundles/IS_BUNDLE_05_*.md` |
 | Documents |  | 242 | `bundles/IS_BUNDLE_06_*.md` |
-| Concepts, glossary, terms |  | 60 | `bundles/IS_BUNDLE_07_*.md` |
+| Concepts, glossary, terms |  | 61 | `bundles/IS_BUNDLE_07_*.md` |
 | Research |  | 55 | `bundles/IS_BUNDLE_08_*.md` |
-| News |  | 726 | `bundles/IS_BUNDLE_09_*.md` |
+| News |  | 781 | `bundles/IS_BUNDLE_09_*.md` |
 
 ## Recaps
 

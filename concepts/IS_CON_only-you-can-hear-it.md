@@ -11,7 +11,7 @@ topics: [proposed-solutions, technology, law-government, health-effects]
 verification: verified
 series: [hearing-something-no-one-else-hears]
 generated_by: scripts/export_concepts_md.mjs
-word_count: 639
+word_count: 652
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -26,6 +26,8 @@ disclaimer: meta/IS_META_terms.md
 **Written for: Households and individuals · Clinicians · Press and researchers.**
 
 **Series: Hearing something no one else hears, part 1 of 5.** 1. “Only I can hear it” is not, by itself, unusual (this concept) · 2. [Can you record it?](IS_CON_can-you-record-it.md) · 3. [Your house is not haunted](IS_CON_what-produces-the-feeling.md) · 4. [Are Denver citizens subject to acoustic weapons?](IS_CON_denver-acoustic-weapons.md) · 5. [Does the explanation itself do harm?](IS_CON_explanation-is-part-of-the-harm.md)
+
+*Sound described here may have a technological explanation; see [the disclaimer](/disclaimer#technology).*
 
 A sound that one person hears and the person beside them does not is often treated — by the person experiencing it, and by whoever they tell — as the strangest part of the account, and therefore as the part that demands an exotic explanation. It is the opposite. High-frequency hearing declines with age, steadily and in everyone, and the highest frequencies go first. A tone can sit precisely where one person hears it easily and another, ten years older, hears nothing at all. This is ordinary biology with a name, and it has been built into a commercial product deployed on public streets for two decades. None of this establishes what any particular person has heard. It establishes something narrower and more useful: that this specific feature of an account — that others did not hear it — carries far less weight as evidence than it seems to, and should not be the thing that convinces anyone, in either direction.
 

@@ -1290,26 +1290,26 @@
    ],
    "extension": {
     "joins_at": 2021,
-    "scale_factor": 0.8604,
+    "scale_factor": 0.8527,
     "points": [
      {
       "year": 2022,
-      "value": 9.55,
-      "national_value": 11.1
+      "value": 9.636,
+      "national_value": 11.3
      },
      {
       "year": 2023,
-      "value": 8.69,
-      "national_value": 10.1
+      "value": 9.38,
+      "national_value": 11.0
      }
     ],
     "basis": "Age-standardised to the 2013 European Standard Population, England & Wales, by year of occurrence",
     "basis_short": "ONS, age-standardised (ESP 2013)",
     "publisher": "UK Office for National Statistics",
-    "source_url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/suicidesintheunitedkingdom/2024registrations",
+    "source_url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/suicideinenglandandwales",
     "tier": "A",
     "crude": false,
-    "note": "2023 is incomplete — only 38.7% of deaths registered in 2024 occurred that year, so recent occurrence years rise with later registrations. The UK also counts undetermined-intent deaths aged 15+."
+    "note": "Occurrences as revised by ONS on 13 Oct 2026 (Suicide occurrences in England and Wales, 2024, Table 1), with registrations to the end of 2025 and revised population estimates. 2024 (9.8) is held back: it is still incomplete and will rise as inquests conclude. The UK also counts undetermined-intent deaths aged 15+."
    }
   },
   {
@@ -1661,7 +1661,7 @@
   }
  ],
  "extension_note": "Lines continue past 2021 using each country's own national statistics, scaled to join the WHO series at 2021 so the join does not invent a step that never happened. The shape after 2021 is each country's real year-on-year movement; the level is carried over from the WHO series. Raw national figures, their basis and their sources are in each line's detail panel. Only five countries publish a series recent and complete enough to join this way.",
- "updated": "2026-11-17",
+ "updated": "2026-11-20",
  "revisions": [
   {
    "date": "2026-11-17",
@@ -1685,6 +1685,41 @@
      "source_url": "https://www.koreaherald.com/article/10908269",
      "released": "2026-09-22",
      "note": "reported by The Korea Herald from the Statistics Korea release; 2023 (27.3) and 2024 (29.1) unchanged"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "changes": [
+    {
+     "series": "UK",
+     "year": 2021,
+     "old": 11.1,
+     "new": 11.2,
+     "basis": "national join year, ONS occurrences (ESP 2013)",
+     "source_url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/suicideinenglandandwales",
+     "released": "2026-10-13",
+     "note": "join factor 0.8604 -> 0.8527"
+    },
+    {
+     "series": "UK",
+     "year": 2022,
+     "old": 11.1,
+     "new": 11.3,
+     "basis": "ONS occurrences, age-standardised (ESP 2013)",
+     "source_url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/suicideinenglandandwales",
+     "released": "2026-10-13",
+     "note": "chart value 9.55 -> 9.636"
+    },
+    {
+     "series": "UK",
+     "year": 2023,
+     "old": 10.1,
+     "new": 11.0,
+     "basis": "ONS occurrences, age-standardised (ESP 2013)",
+     "source_url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/suicideinenglandandwales",
+     "released": "2026-10-13",
+     "note": "chart value 8.69 -> 9.38; the earlier 10.1 was incomplete"
     }
    ]
   }

@@ -1,0 +1,133 @@
+{
+ "chart_id": "symptoms_diagnoses_medication",
+ "title": "US: symptoms outpace diagnoses and medication",
+ "unit": "Percent",
+ "axis": "percent",
+ "x": [
+  2019,
+  2020,
+  2021,
+  2022,
+  2023,
+  2024,
+  2025
+ ],
+ "context": "Reported trouble with memory and concentration has risen more than three times as fast as depression diagnoses, and about seven times as fast as medication for depression.",
+ "ask": "If more people are struggling, where are they going for help, and what are they being asked when they get there?",
+ "series": [
+  {
+   "id": "Memory, concentration",
+   "label": "Memory, concentration",
+   "role": "focus",
+   "dashed": false,
+   "values": [
+    16.4,
+    17.5,
+    20.6,
+    20.2,
+    20.5,
+    23.6,
+    25.4
+   ],
+   "about": "US adults with at least some difficulty remembering or concentrating: a symptom people report, not a diagnosis."
+  },
+  {
+   "id": "told",
+   "label": "Ever told depression",
+   "role": "context",
+   "values": [
+    19.7,
+    19.2,
+    20.4,
+    21.6,
+    21.8,
+    21.7,
+    22.3
+   ],
+   "about": "US adults ever told by a health professional they have depression (BRFSS, median of states): a diagnosis."
+  },
+  {
+   "id": "Medication for anxiety",
+   "label": "Medication for anxiety",
+   "role": "context",
+   "dashed": false,
+   "values": [
+    11.7,
+    12.1,
+    12.9,
+    14.1,
+    14.3,
+    14.3,
+    13.8
+   ],
+   "about": "US adults taking prescription medicine for feelings of worry, nervousness or anxiety."
+  },
+  {
+   "id": "Medication for depression",
+   "label": "Medication for depression",
+   "role": "context",
+   "dashed": false,
+   "values": [
+    9.8,
+    10.3,
+    10.6,
+    11.5,
+    11.4,
+    11.6,
+    11.0
+   ],
+   "about": "US adults taking prescription medicine for feelings of depression."
+  },
+  {
+   "id": "adhd",
+   "label": "Children: ever told ADHD",
+   "role": "faint",
+   "dashed": true,
+   "values": [
+    8.8,
+    10.3,
+    9.5,
+    10.2,
+    12.0,
+    12.0,
+    12.2
+   ],
+   "about": "US children ever told they have ADHD: a diagnosis, shown for comparison."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "+9.0 points",
+   "text": "trouble remembering or concentrating, 16.4% to 25.4%."
+  },
+  {
+   "value": "+2.6 points",
+   "text": "ever told they have depression, 19.7% to 22.3%."
+  },
+  {
+   "value": "+1.2 points",
+   "text": "taking medication for depression, 9.8% to 11.0%."
+  }
+ ],
+ "caption": "Percent of US adults (children for ADHD). Symptoms and medication: National Health Interview Survey. Depression diagnosis: BRFSS, median of states. Each line is a different survey question.",
+ "sources": [
+  {
+   "publisher": "CDC / NCHS",
+   "title": "NHIS Adult and Child Summary Health Statistics",
+   "url": "https://data.cdc.gov/d/25m4-6qqq",
+   "released": "2026-08"
+  },
+  {
+   "publisher": "CDC",
+   "title": "BRFSS Prevalence & Trends: Depression",
+   "url": "https://data.cdc.gov/d/dttw-5yxu",
+   "released": "2026"
+  }
+ ],
+ "caveats": [
+  "Different questions in different surveys: the point is how fast each line moves, not where it sits."
+ ],
+ "accessed": "2026-11-20",
+ "revisions": [],
+ "tier": "A"
+}

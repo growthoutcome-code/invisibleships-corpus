@@ -1,0 +1,77 @@
+{
+ "chart_id": "reporting_gap",
+ "title": "The newest years are always missing",
+ "context": "Every chart on these pages stops at the last year its publisher has counted, between four months and three and a half years behind today.",
+ "ask": "When a chart's last year shows a fall, is it a real fall or a count that is not finished?",
+ "unit": "Months between a source's latest data and November 2026",
+ "rows": [
+  {
+   "source": "NHS England prescribing",
+   "data_to": "March 2026",
+   "published": "July 2026",
+   "months": 4,
+   "url": "https://www.nhsbsa.nhs.uk/statistical-collections/medicines-used-mental-health-england",
+   "about": "Counted from every community prescription dispensed in England, so it is complete within months. The annual release each July covers the financial year to March."
+  },
+  {
+   "source": "US health survey (NHIS)",
+   "data_to": "2025",
+   "published": "August 2026",
+   "months": 8,
+   "url": "https://data.cdc.gov/d/25m4-6qqq",
+   "about": "A national household interview survey run all year; CDC publishes the year's estimates the following summer."
+  },
+  {
+   "source": "CDC provisional deaths",
+   "data_to": "September 2025",
+   "published": "2026",
+   "months": 11,
+   "url": "https://data.cdc.gov/d/489q-934x",
+   "about": "Death certificates counted as they arrive. Provisional figures cover all causes within months but rise as late certificates and pending investigations are added."
+  },
+  {
+   "source": "CDC final deaths",
+   "data_to": "2024",
+   "published": "2025–26",
+   "months": 18,
+   "url": "https://www.cdc.gov/nchs/products/databriefs.htm",
+   "about": "The complete US death file for a year, published after every certificate is coded: about a year and a half later."
+  },
+  {
+   "source": "WHO death estimates",
+   "data_to": "2021",
+   "published": "July 2024",
+   "months": 36,
+   "url": "https://www.who.int/data/global-health-estimates",
+   "about": "WHO's modelled estimates for every country on one method. They wait for countries' own records, then for the modelling: about three years."
+  },
+  {
+   "source": "US prescriptions survey (NHANES)",
+   "data_to": "August 2023",
+   "published": "2026",
+   "months": 36,
+   "url": "https://data.cdc.gov/d/kusj-ex57",
+   "about": "A survey with a physical exam and a check of the medicines in the home, run in multi-year cycles; the newest cycle ended in 2023."
+  },
+  {
+   "source": "Brain tumour registry (CBTRUS)",
+   "data_to": "2022",
+   "published": "October 2025",
+   "months": 40,
+   "url": "https://cbtrus.org/",
+   "about": "Every primary brain tumour reported to US cancer registries, published as five-year averages about three years after the last year."
+  },
+  {
+   "source": "US cancer registries",
+   "data_to": "2022",
+   "published": "January 2026",
+   "months": 42,
+   "url": "https://seer.cancer.gov/",
+   "about": "Every new cancer reported to state registries; cases take time to be confirmed and coded, so the newest year is about three and a half years old."
+  }
+ ],
+ "caption": "How far each source's newest figures lag behind November 2026. A chart's last year is the latest year a publisher has counted, not the latest year that happened.",
+ "entered_from": "each publisher's release page, read 20 November 2026",
+ "accessed": "2026-11-20",
+ "revisions": []
+}

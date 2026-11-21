@@ -1,0 +1,163 @@
+{
+ "chart_id": "diagnoses",
+ "title": "Diagnoses are rising in England and the US",
+ "unit": "Percent",
+ "axis": "percent",
+ "x": [
+  2011,
+  2012,
+  2013,
+  2014,
+  2015,
+  2016,
+  2017,
+  2018,
+  2019,
+  2020,
+  2021,
+  2022,
+  2023,
+  2024,
+  2025
+ ],
+ "context": "Recorded depression is rising on both sides of the Atlantic, and so are ADHD diagnoses in US children. A diagnosis count rises when more people are ill, and also when more people are assessed.",
+ "ask": "Is the rise in illness, in awareness, or in who gets assessed?",
+ "series": [
+  {
+   "id": "eng",
+   "label": "England: depression register",
+   "role": "focus",
+   "values": [
+    null,
+    5.84,
+    6.52,
+    7.33,
+    8.26,
+    9.09,
+    9.88,
+    10.74,
+    11.56,
+    12.29,
+    12.65,
+    13.25,
+    null,
+    14.27,
+    null
+   ],
+   "about": "Adults on GP depression registers in England (financial years, plotted at their first year). It counts people diagnosed and not marked resolved."
+  },
+  {
+   "id": "us",
+   "label": "US: ever told depression",
+   "role": "context",
+   "values": [
+    17.5,
+    17.6,
+    18.7,
+    18.7,
+    18.9,
+    17.3,
+    20.0,
+    19.6,
+    19.7,
+    19.2,
+    20.4,
+    21.6,
+    21.8,
+    21.7,
+    22.3
+   ],
+   "about": "US adults who say a doctor or other health professional has ever told them they have a depressive disorder (BRFSS, median of the states)."
+  },
+  {
+   "id": "co",
+   "label": "Colorado: ever told depression",
+   "role": "faint",
+   "values": [
+    17.6,
+    17.4,
+    18.2,
+    17.0,
+    19.3,
+    18.5,
+    17.4,
+    15.7,
+    17.2,
+    18.4,
+    20.4,
+    21.4,
+    21.4,
+    23.04,
+    22.33
+   ],
+   "about": "The same question asked of adults in Colorado."
+  },
+  {
+   "id": "adhd",
+   "label": "US children: ever told ADHD",
+   "role": "context",
+   "dashed": true,
+   "values": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    8.8,
+    10.3,
+    9.5,
+    10.2,
+    12.0,
+    12.0,
+    12.2
+   ],
+   "about": "US children under 18 whose parents say a doctor has ever told them the child has ADHD (National Health Interview Survey)."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "×2.4",
+   "text": "England's depression register, 5.8% to 14.3% of adults, 2012/13 to 2024/25."
+  },
+  {
+   "value": "17.5% → 22.3%",
+   "text": "US adults ever told they have depression, 2011 to 2025. Colorado: 17.6% to 22.3%."
+  },
+  {
+   "value": "8.8% → 12.2%",
+   "text": "US children ever told they have ADHD, 2019 to 2025."
+  }
+ ],
+ "caption": "England: adults on GP depression registers (financial years, plotted at their first year). US and Colorado: adults ever told by a health professional they have depression (BRFSS, median of states). US children: ever told ADHD (NHIS). Different measures: compare direction, not level.",
+ "sources": [
+  {
+   "publisher": "OHID Fingertips (NHS England QOF)",
+   "title": "Depression: QOF prevalence (18+)",
+   "url": "https://fingertips.phe.org.uk/profile/mental-health-and-wellbeing",
+   "released": "2025"
+  },
+  {
+   "publisher": "CDC",
+   "title": "BRFSS Prevalence & Trends: Depression",
+   "url": "https://data.cdc.gov/d/dttw-5yxu",
+   "released": "2026"
+  },
+  {
+   "publisher": "CDC / NCHS",
+   "title": "NHIS Child Summary Health Statistics",
+   "url": "https://data.cdc.gov/d/wxz7-ekz9",
+   "released": "2026-08"
+  }
+ ],
+ "caveats": [
+  "England's register keeps everyone diagnosed since April 2006 unless marked resolved, so it grows even when new diagnoses are flat.",
+  "The US has no national GP register; 'ever told' survey answers are the nearest equivalent.",
+  "There is no US equivalent of England's psychosis register."
+ ],
+ "accessed": "2026-11-20",
+ "revisions": [],
+ "tier": "A"
+}

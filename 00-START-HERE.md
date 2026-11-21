@@ -1,6 +1,6 @@
 # Invisible Ships — start here
 
-*The research archive behind invisibleships.com, compiled by Sean C. Harris · generated 2026-11-20 · 2,255 files · about 2,346,000 words*
+*The research archive behind invisibleships.com, compiled by Sean C. Harris · generated 2026-11-21 · 2,388 files · about 2,365,000 words*
 
 This is the first file to read, for a person or for an AI assistant. It covers:
 1. Instructions for an AI assistant that has been given this archive
@@ -82,13 +82,13 @@ Use these formats:
 | **Journal Part 01** | Aug 2024 – 22 Aug 2025 · typed entries, then recordings; front matter | 151 | 349,000 | `summaries/IS_SUM_J01.md` |
 | **Journal Part 02** | 23 Aug – 28 Sep 2025 · recordings and entries | 115 | 344,000 | `summaries/IS_SUM_J02.md` |
 | **Journal Part 03** | 29 Sep – 8 Nov 2025 · recordings and entries | 57 | 207,000 | `summaries/IS_SUM_J03.md` |
-| **Journal Part 04** | 9 Nov 2025 – 2026 · recordings, then typed entries | 82 | 248,000 | `summaries/IS_SUM_J04.md` |
+| **Journal Part 04** | 9 Nov 2025 – 2026 · recordings, then typed entries; administrative notes written for the site | 82 | 248,000 | `summaries/IS_SUM_J04.md` |
 | **Discovery Notes** | Apr – May 2026 · unofficial notes the entries are written from | 23 | 28,000 | `summaries/IS_SUM_JDN.md` |
 | **Documents** | Six reference documents, section by section | 243 | 138,000 | `summaries/IS_SUM_documents.md` |
-| **Concepts** | The archive's arguments and headline findings | 60 | 107,000 | `summaries/IS_SUM_concepts.md` |
+| **Concepts** | The archive's arguments and headline findings | 61 | 109,000 | `summaries/IS_SUM_concepts.md` |
 | **Glossary** | Terms from the source series and terms written for the site | 113 | 49,000 | `summaries/IS_SUM_glossary.md` |
-| **Research** | Crime, public health, government cloud: briefs and row data | 155 | 259,000 | `summaries/IS_SUM_research.md` |
-| **News** | Official releases, outside reporting and thought leaders' analysis, summarised and linked; neurorights and the law | 734 | 378,000 | `summaries/IS_SUM_news.md` |
+| **Research** | Crime, public health, government cloud: briefs and row data | 232 | 259,000 | `summaries/IS_SUM_research.md` |
+| **News** | Official releases, outside reporting and thought leaders' analysis, summarised and linked; neurorights and the law | 789 | 406,000 | `summaries/IS_SUM_news.md` |
 | **Terms** | Disclaimer, copyright, content warning, vocabulary | 10 | 6,000 | `summaries/IS_SUM_terms.md` |
 | **Recaps** | Short recaps of every part and month (AI-assisted) | 31 | 34,000 | `summaries/IS_SUM_00_overview.md` |
 
@@ -118,9 +118,9 @@ The archive is also provided as 9 large files, one per part, so you never have t
 | 04 | `bundles/IS_BUNDLE_04_journal-part-03.md` | Journal Part 03 (29 Sep – 8 Nov 2025) | 57 | 210,000 | 0.8 MB |
 | 05 | `bundles/IS_BUNDLE_05_journal-part-04-and-discovery-notes.md` | Journal Part 04 (9 Nov 2025 – 2026) and Discovery Notes | 105 | 282,000 | 1.1 MB |
 | 06 | `bundles/IS_BUNDLE_06_documents.md` | Documents | 243 | 160,000 | 0.6 MB |
-| 07 | `bundles/IS_BUNDLE_07_concepts-glossary-terms.md` | Concepts, glossary and terms | 178 | 168,000 | 0.7 MB |
-| 08 | `bundles/IS_BUNDLE_08_research.md` | Research: crime, public health, government cloud | 82 | 262,000 | 1.1 MB |
-| 09 | `bundles/IS_BUNDLE_09_news.md` | News | 725 | 444,000 | 1.8 MB |
+| 07 | `bundles/IS_BUNDLE_07_concepts-glossary-terms.md` | Concepts, glossary and terms | 179 | 170,000 | 0.7 MB |
+| 08 | `bundles/IS_BUNDLE_08_research.md` | Research: crime, public health, government cloud | 82 | 263,000 | 1.1 MB |
+| 09 | `bundles/IS_BUNDLE_09_news.md` | News | 780 | 478,000 | 1.9 MB |
 
 Smaller downloads are in the `editions/` folder and on https://github.com/growthoutcome-code/invisibleships-corpus: **the brief** (under 20,000 tokens, for free plans) and **the study edition** (about 100,000 tokens: every recap, a catalogue of every journal file, a concordance and the headline findings — one file an AI can read completely). Start with one of those, or with **bundle 01** (this file, plus every recap). Then add the bundle for the part you want to ask about. The individual files in the other folders are the same content, kept separate for citing and for code.
 
@@ -252,15 +252,15 @@ The Journal, Concepts, Research and Glossary pages on **invisibleships.com** are
 
 | Folder | Files | What it is |
 |---|---|---|
-| `news/` | 726 | Official releases and outside reporting, each summarised and linked to the original. |
+| `news/` | 781 | Official releases and outside reporting, each summarised and linked to the original. |
 | `evidence/` | 478 | Each news article as captured on the day it was collected, credited to its publisher, with a change log. |
 | `journal/` | 428 | The primary record — dated entries and verbatim transcripts. |
 | `references/` | 242 | The analysis and reference documents, chunked by section. |
+| `public-health/` | 108 | Suicide, overdose and the indicators around them. |
 | `glossary-site/` | 95 | Terms written for the site to explain the work. |
-| `concepts/` | 60 | The archive's arguments, each labelled by basis, origin, theme and reader. |
+| `concepts/` | 61 | The archive's arguments, each labelled by basis, origin, theme and reader. |
 | `government-cloud/` | 58 | Awards, deployments, litigation and capital flows. |
 | `crime/` | 55 | Nine findings, their row data, and every source behind them. |
-| `public-health/` | 31 | Suicide, overdose and the indicators around them. |
 | `summaries/` | 31 | AI-assisted recaps of every part and month. They describe the record; they are not part of it. |
 | `glossary/` | 18 | Terms drawn from the source document series. |
 | `research/` | 11 | The raw researched rows the charts were built from. |
@@ -270,7 +270,7 @@ The Journal, Concepts, Research and Glossary pages on **invisibleships.com** are
 | `upcoming/` | 2 | Planning notes for content not yet written. Not completed entries — do not cite. |
 | `documents/` | 1 | The register of the source document series. |
 
-**Concepts** are labelled with a BASIS (documented 32 · structural 11 · pattern 9 · testimony 2), an ORIGIN (ai / author), a THEME and the readers they were written for. The tiers are ranked and never mixed inside one concept. A reader who accepts only `documented` concepts can rely on every one of those and set the rest aside.
+**Concepts** are labelled with a BASIS (documented 33 · structural 11 · pattern 9 · testimony 2), an ORIGIN (ai / author), a THEME and the readers they were written for. The tiers are ranked and never mixed inside one concept. A reader who accepts only `documented` concepts can rely on every one of those and set the rest aside.
 
 **Evidence tiers.** Every figure in the research folders carries one:
 - **A — documented.** A primary source states it: an agency table, a court record, a statistical release.

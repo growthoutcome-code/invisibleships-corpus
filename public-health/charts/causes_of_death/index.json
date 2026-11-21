@@ -1,0 +1,2004 @@
+{
+ "chart_id": "causes_of_death",
+ "title": "Causes of death around the world",
+ "unit": "Deaths per 100,000, age-standardized (WHO world standard population)",
+ "years": [
+  2000,
+  2001,
+  2002,
+  2003,
+  2004,
+  2005,
+  2006,
+  2007,
+  2008,
+  2009,
+  2010,
+  2011,
+  2012,
+  2013,
+  2014,
+  2015,
+  2016,
+  2017,
+  2018,
+  2019,
+  2020,
+  2021
+ ],
+ "publisher": "World Health Organization, Global Health Estimates 2021 (July 2024), via Our World in Data",
+ "credit": "World Health Organization (2024) – with major processing by Our World in Data",
+ "source_url": "https://www.who.int/data/global-health-estimates",
+ "data_url": "https://catalog.ourworldindata.org/grapher/who/2024-07-30/ghe/ghe.feather",
+ "registration_source": {
+  "publisher": "World Health Organization, Mortality Database",
+  "url": "https://www.who.int/data/data-collection-tools/who-mortality-database",
+  "file": "list_ctry_years_feb2026.xls",
+  "note": "Years from 2000 to 2021 for which each country reported registered deaths, coded by cause, to WHO."
+ },
+ "tier": "B",
+ "accessed": "2026-11-20",
+ "note": "WHO's estimates put every country on one method so they can be compared. For a country that registers nearly every death with its cause, the estimate follows those records closely. For a country that registers few, the line is mostly WHO's model. Each country is labelled by how many years of its own registered deaths WHO had to work from.",
+ "grades": {
+  "registered": "15 or more of the 22 years: the line rests mainly on the country's own death records.",
+  "partly registered": "5 to 14 years: part counted, part modelled.",
+  "estimate": "Fewer than 5 years: the line is WHO's model, not counted deaths.",
+  "aggregate": "A region or the world: a sum of the countries in it, counted and modelled alike."
+ },
+ "caveats": [
+  "2020 and 2021 include the COVID-19 pandemic; WHO counts COVID-19 deaths as their own cause.",
+  "Dementia's rise is partly a change in how death certificates are written, not only more deaths.",
+  "Sepsis is not one of WHO's causes: a death is counted under the illness that led to the infection. Only sepsis in newborns has its own line.",
+  "These are WHO's estimates, which differ from each country's own published rates because they use the world standard population.",
+  "The newest year is 2021. Countries' own records run later; see the reporting gap on the page."
+ ],
+ "causes": [
+  {
+   "id": "all_causes",
+   "label": "All causes",
+   "group": "Overall"
+  },
+  {
+   "id": "noncommunicable_diseases",
+   "label": "Noncommunicable diseases",
+   "group": "Overall"
+  },
+  {
+   "id": "communicable__maternal__perinatal_and_nutritional_conditions",
+   "label": "Infectious, maternal, newborn and nutritional",
+   "group": "Overall"
+  },
+  {
+   "id": "injuries",
+   "label": "Injuries",
+   "group": "Overall"
+  },
+  {
+   "id": "covid_19",
+   "label": "COVID-19",
+   "group": "Overall"
+  },
+  {
+   "id": "malignant_neoplasms",
+   "label": "All cancers",
+   "group": "Cancer"
+  },
+  {
+   "id": "trachea__bronchus__lung_cancers",
+   "label": "Lung cancer",
+   "group": "Cancer"
+  },
+  {
+   "id": "colon_and_rectum_cancers",
+   "label": "Colorectal cancer",
+   "group": "Cancer"
+  },
+  {
+   "id": "breast_cancer",
+   "label": "Breast cancer",
+   "group": "Cancer"
+  },
+  {
+   "id": "prostate_cancer",
+   "label": "Prostate cancer",
+   "group": "Cancer"
+  },
+  {
+   "id": "pancreas_cancer",
+   "label": "Pancreatic cancer",
+   "group": "Cancer"
+  },
+  {
+   "id": "liver_cancer",
+   "label": "Liver cancer",
+   "group": "Cancer"
+  },
+  {
+   "id": "stomach_cancer",
+   "label": "Stomach cancer",
+   "group": "Cancer"
+  },
+  {
+   "id": "oesophagus_cancer",
+   "label": "Oesophageal cancer",
+   "group": "Cancer"
+  },
+  {
+   "id": "brain_and_nervous_system_cancers",
+   "label": "Brain and nervous system cancer",
+   "group": "Cancer"
+  },
+  {
+   "id": "leukaemia",
+   "label": "Leukaemia",
+   "group": "Cancer"
+  },
+  {
+   "id": "lymphomas__multiple_myeloma",
+   "label": "Lymphomas and myeloma",
+   "group": "Cancer"
+  },
+  {
+   "id": "ovary_cancer",
+   "label": "Ovarian cancer",
+   "group": "Cancer"
+  },
+  {
+   "id": "cervix_uteri_cancer",
+   "label": "Cervical cancer",
+   "group": "Cancer"
+  },
+  {
+   "id": "kidney_cancer",
+   "label": "Kidney cancer",
+   "group": "Cancer"
+  },
+  {
+   "id": "bladder_cancer",
+   "label": "Bladder cancer",
+   "group": "Cancer"
+  },
+  {
+   "id": "malignant_skin_melanoma",
+   "label": "Melanoma",
+   "group": "Cancer"
+  },
+  {
+   "id": "cardiovascular_diseases",
+   "label": "Heart and circulatory diseases",
+   "group": "Heart and circulation"
+  },
+  {
+   "id": "ischaemic_heart_disease",
+   "label": "Ischaemic heart disease",
+   "group": "Heart and circulation"
+  },
+  {
+   "id": "stroke",
+   "label": "Stroke",
+   "group": "Heart and circulation"
+  },
+  {
+   "id": "hypertensive_heart_disease",
+   "label": "Hypertensive heart disease",
+   "group": "Heart and circulation"
+  },
+  {
+   "id": "cardiomyopathy__myocarditis__endocarditis",
+   "label": "Cardiomyopathy, myocarditis, endocarditis",
+   "group": "Heart and circulation"
+  },
+  {
+   "id": "digestive_diseases",
+   "label": "Digestive diseases",
+   "group": "Digestive"
+  },
+  {
+   "id": "cirrhosis_of_the_liver",
+   "label": "Liver cirrhosis",
+   "group": "Digestive"
+  },
+  {
+   "id": "pancreatitis",
+   "label": "Pancreatitis",
+   "group": "Digestive"
+  },
+  {
+   "id": "paralytic_ileus_and_intestinal_obstruction",
+   "label": "Intestinal obstruction",
+   "group": "Digestive"
+  },
+  {
+   "id": "peptic_ulcer_disease",
+   "label": "Peptic ulcer",
+   "group": "Digestive"
+  },
+  {
+   "id": "gallbladder_and_biliary_diseases",
+   "label": "Gallbladder and bile duct diseases",
+   "group": "Digestive"
+  },
+  {
+   "id": "inflammatory_bowel_disease",
+   "label": "Inflammatory bowel disease",
+   "group": "Digestive"
+  },
+  {
+   "id": "appendicitis",
+   "label": "Appendicitis",
+   "group": "Digestive"
+  },
+  {
+   "id": "diabetes_mellitus",
+   "label": "Diabetes",
+   "group": "Kidney and metabolic"
+  },
+  {
+   "id": "kidney_diseases",
+   "label": "Kidney diseases",
+   "group": "Kidney and metabolic"
+  },
+  {
+   "id": "chronic_kidney_disease_due_to_diabetes",
+   "label": "Kidney disease due to diabetes",
+   "group": "Kidney and metabolic"
+  },
+  {
+   "id": "respiratory_diseases",
+   "label": "Chronic respiratory diseases",
+   "group": "Respiratory"
+  },
+  {
+   "id": "chronic_obstructive_pulmonary_disease",
+   "label": "COPD",
+   "group": "Respiratory"
+  },
+  {
+   "id": "asthma",
+   "label": "Asthma",
+   "group": "Respiratory"
+  },
+  {
+   "id": "lower_respiratory_infections",
+   "label": "Pneumonia and lower respiratory infections",
+   "group": "Infections"
+  },
+  {
+   "id": "tuberculosis",
+   "label": "Tuberculosis",
+   "group": "Infections"
+  },
+  {
+   "id": "hiv_aids",
+   "label": "HIV/AIDS",
+   "group": "Infections"
+  },
+  {
+   "id": "diarrhoeal_diseases",
+   "label": "Diarrhoeal diseases",
+   "group": "Infections"
+  },
+  {
+   "id": "meningitis",
+   "label": "Meningitis",
+   "group": "Infections"
+  },
+  {
+   "id": "malaria",
+   "label": "Malaria",
+   "group": "Infections"
+  },
+  {
+   "id": "hepatitis",
+   "label": "Hepatitis",
+   "group": "Infections"
+  },
+  {
+   "id": "neonatal_sepsis_and_infections",
+   "label": "Newborn sepsis and infections",
+   "group": "Infections"
+  },
+  {
+   "id": "neurological_conditions",
+   "label": "Neurological conditions",
+   "group": "Brain and nervous system"
+  },
+  {
+   "id": "alzheimer_disease_and_other_dementias",
+   "label": "Alzheimer's and other dementias",
+   "group": "Brain and nervous system"
+  },
+  {
+   "id": "parkinson_disease",
+   "label": "Parkinson's disease",
+   "group": "Brain and nervous system"
+  },
+  {
+   "id": "epilepsy",
+   "label": "Epilepsy",
+   "group": "Brain and nervous system"
+  },
+  {
+   "id": "multiple_sclerosis",
+   "label": "Multiple sclerosis",
+   "group": "Brain and nervous system"
+  },
+  {
+   "id": "drug_use_disorders",
+   "label": "Drug use disorders",
+   "group": "Substance use"
+  },
+  {
+   "id": "opioid_use_disorders",
+   "label": "Opioid use disorders",
+   "group": "Substance use"
+  },
+  {
+   "id": "alcohol_use_disorders",
+   "label": "Alcohol use disorders",
+   "group": "Substance use"
+  },
+  {
+   "id": "self_harm",
+   "label": "Suicide (self-harm)",
+   "group": "Injuries"
+  },
+  {
+   "id": "interpersonal_violence",
+   "label": "Homicide (interpersonal violence)",
+   "group": "Injuries"
+  },
+  {
+   "id": "road_injury",
+   "label": "Road injuries",
+   "group": "Injuries"
+  },
+  {
+   "id": "falls",
+   "label": "Falls",
+   "group": "Injuries"
+  },
+  {
+   "id": "poisonings",
+   "label": "Poisonings",
+   "group": "Injuries"
+  },
+  {
+   "id": "drowning",
+   "label": "Drowning",
+   "group": "Injuries"
+  },
+  {
+   "id": "collective_violence_and_legal_intervention",
+   "label": "War and legal intervention",
+   "group": "Injuries"
+  },
+  {
+   "id": "maternal_conditions",
+   "label": "Maternal conditions",
+   "group": "Mothers and newborns"
+  },
+  {
+   "id": "neonatal_conditions",
+   "label": "Newborn conditions",
+   "group": "Mothers and newborns"
+  },
+  {
+   "id": "protein_energy_malnutrition",
+   "label": "Malnutrition",
+   "group": "Mothers and newborns"
+  }
+ ],
+ "countries": [
+  {
+   "name": "World",
+   "region": true,
+   "registration": "aggregate",
+   "registered_years": null,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Africa",
+   "region": true,
+   "registration": "aggregate",
+   "registered_years": null,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Asia",
+   "region": true,
+   "registration": "aggregate",
+   "registered_years": null,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Europe",
+   "region": true,
+   "registration": "aggregate",
+   "registered_years": null,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "North America",
+   "region": true,
+   "registration": "aggregate",
+   "registered_years": null,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Oceania",
+   "region": true,
+   "registration": "aggregate",
+   "registered_years": null,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "South America",
+   "region": true,
+   "registration": "aggregate",
+   "registered_years": null,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Afghanistan",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Albania",
+   "region": false,
+   "registration": "partly registered",
+   "registered_years": 11,
+   "latest_registered": 2010,
+   "note": null
+  },
+  {
+   "name": "Algeria",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Andorra",
+   "region": false,
+   "registration": "partly registered",
+   "registered_years": 10,
+   "latest_registered": 2020,
+   "note": null
+  },
+  {
+   "name": "Angola",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Antigua and Barbuda",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2021,
+   "note": null
+  },
+  {
+   "name": "Argentina",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Armenia",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 20,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Australia",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 21,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Austria",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Azerbaijan",
+   "region": false,
+   "registration": "partly registered",
+   "registered_years": 6,
+   "latest_registered": 2007,
+   "note": null
+  },
+  {
+   "name": "Bahamas",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 17,
+   "latest_registered": 2016,
+   "note": null
+  },
+  {
+   "name": "Bahrain",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 15,
+   "latest_registered": 2014,
+   "note": null
+  },
+  {
+   "name": "Bangladesh",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Barbados",
+   "region": false,
+   "registration": "partly registered",
+   "registered_years": 14,
+   "latest_registered": 2013,
+   "note": null
+  },
+  {
+   "name": "Belarus",
+   "region": false,
+   "registration": "partly registered",
+   "registered_years": 12,
+   "latest_registered": 2018,
+   "note": null
+  },
+  {
+   "name": "Belgium",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2022,
+   "note": null
+  },
+  {
+   "name": "Belize",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2022,
+   "note": null
+  },
+  {
+   "name": "Benin",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Bhutan",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Bolivia",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 4,
+   "latest_registered": 2003,
+   "note": null
+  },
+  {
+   "name": "Bosnia and Herzegovina",
+   "region": false,
+   "registration": "partly registered",
+   "registered_years": 8,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Botswana",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 1,
+   "latest_registered": 2021,
+   "note": null
+  },
+  {
+   "name": "Brazil",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Brunei",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Bulgaria",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Burkina Faso",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Burundi",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Cambodia",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Cameroon",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Canada",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Cape Verde",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 2,
+   "latest_registered": 2012,
+   "note": null
+  },
+  {
+   "name": "Central African Republic",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Chad",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Chile",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "China",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": "China reports deaths from a national sample of surveillance points, not from registering every death."
+  },
+  {
+   "name": "Colombia",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Comoros",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Congo",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Cook Islands",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 1,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Costa Rica",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Cote d'Ivoire",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Croatia",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Cuba",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Cyprus",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 19,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Czechia",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Democratic Republic of Congo",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Denmark",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2022,
+   "note": null
+  },
+  {
+   "name": "Djibouti",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Dominica",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 21,
+   "latest_registered": 2022,
+   "note": null
+  },
+  {
+   "name": "Dominican Republic",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2022,
+   "note": null
+  },
+  {
+   "name": "East Timor",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Ecuador",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Egypt",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 20,
+   "latest_registered": 2019,
+   "note": null
+  },
+  {
+   "name": "El Salvador",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 19,
+   "latest_registered": 2018,
+   "note": null
+  },
+  {
+   "name": "Equatorial Guinea",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Eritrea",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Estonia",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Eswatini",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Ethiopia",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Fiji",
+   "region": false,
+   "registration": "partly registered",
+   "registered_years": 12,
+   "latest_registered": 2019,
+   "note": null
+  },
+  {
+   "name": "Finland",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "France",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Gabon",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Gambia",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Georgia",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 19,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Germany",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2022,
+   "note": null
+  },
+  {
+   "name": "Ghana",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Greece",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2022,
+   "note": null
+  },
+  {
+   "name": "Grenada",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 21,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Guatemala",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Guinea",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Guinea-Bissau",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Guyana",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 20,
+   "latest_registered": 2020,
+   "note": null
+  },
+  {
+   "name": "Haiti",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 4,
+   "latest_registered": 2004,
+   "note": null
+  },
+  {
+   "name": "Honduras",
+   "region": false,
+   "registration": "partly registered",
+   "registered_years": 6,
+   "latest_registered": 2013,
+   "note": null
+  },
+  {
+   "name": "Hungary",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Iceland",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "India",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": "India's cause-of-death reporting covers only part of the country; WHO's figures are largely modelled."
+  },
+  {
+   "name": "Indonesia",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Iran",
+   "region": false,
+   "registration": "partly registered",
+   "registered_years": 5,
+   "latest_registered": 2017,
+   "note": null
+  },
+  {
+   "name": "Iraq",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 3,
+   "latest_registered": 2016,
+   "note": null
+  },
+  {
+   "name": "Ireland",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2022,
+   "note": null
+  },
+  {
+   "name": "Israel",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Italy",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Jamaica",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 20,
+   "latest_registered": 2021,
+   "note": null
+  },
+  {
+   "name": "Japan",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Jordan",
+   "region": false,
+   "registration": "partly registered",
+   "registered_years": 11,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Kazakhstan",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Kenya",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Kiribati",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 2,
+   "latest_registered": 2001,
+   "note": null
+  },
+  {
+   "name": "Kuwait",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 20,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Kyrgyzstan",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Laos",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Latvia",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Lebanon",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 3,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Lesotho",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Liberia",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Libya",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Lithuania",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Luxembourg",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Madagascar",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Malawi",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Malaysia",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 21,
+   "latest_registered": 2020,
+   "note": null
+  },
+  {
+   "name": "Maldives",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 20,
+   "latest_registered": 2021,
+   "note": null
+  },
+  {
+   "name": "Mali",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Malta",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2022,
+   "note": null
+  },
+  {
+   "name": "Marshall Islands",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Mauritania",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Mauritius",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Mexico",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Micronesia (country)",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 4,
+   "latest_registered": 2022,
+   "note": null
+  },
+  {
+   "name": "Moldova",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Monaco",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": 1987,
+   "note": null
+  },
+  {
+   "name": "Mongolia",
+   "region": false,
+   "registration": "partly registered",
+   "registered_years": 6,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Montenegro",
+   "region": false,
+   "registration": "partly registered",
+   "registered_years": 12,
+   "latest_registered": 2019,
+   "note": null
+  },
+  {
+   "name": "Morocco",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 17,
+   "latest_registered": 2021,
+   "note": null
+  },
+  {
+   "name": "Mozambique",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Myanmar",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": 1978,
+   "note": null
+  },
+  {
+   "name": "Namibia",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Nauru",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Nepal",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Netherlands",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "New Zealand",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 21,
+   "latest_registered": 2020,
+   "note": null
+  },
+  {
+   "name": "Nicaragua",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2022,
+   "note": null
+  },
+  {
+   "name": "Niger",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Nigeria",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Niue",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "North Korea",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "North Macedonia",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 21,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Norway",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Oman",
+   "region": false,
+   "registration": "partly registered",
+   "registered_years": 9,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Pakistan",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Palau",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Panama",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 21,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Papua New Guinea",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 1,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Paraguay",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2022,
+   "note": null
+  },
+  {
+   "name": "Peru",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2022,
+   "note": null
+  },
+  {
+   "name": "Philippines",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 15,
+   "latest_registered": 2019,
+   "note": null
+  },
+  {
+   "name": "Poland",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Portugal",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 19,
+   "latest_registered": 2022,
+   "note": null
+  },
+  {
+   "name": "Qatar",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 19,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Romania",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Russia",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 20,
+   "latest_registered": 2019,
+   "note": "Russian registration is complete in count, but research finds many deaths coded to vague or undetermined causes."
+  },
+  {
+   "name": "Rwanda",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Saint Kitts and Nevis",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2022,
+   "note": null
+  },
+  {
+   "name": "Saint Lucia",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 20,
+   "latest_registered": 2020,
+   "note": null
+  },
+  {
+   "name": "Saint Vincent and the Grenadines",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2022,
+   "note": null
+  },
+  {
+   "name": "Samoa",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "San Marino",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 18,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Sao Tome and Principe",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": 1987,
+   "note": null
+  },
+  {
+   "name": "Saudi Arabia",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 3,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Senegal",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Serbia",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Seychelles",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 20,
+   "latest_registered": 2021,
+   "note": null
+  },
+  {
+   "name": "Sierra Leone",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Singapore",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2022,
+   "note": null
+  },
+  {
+   "name": "Slovakia",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 20,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Slovenia",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Solomon Islands",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 2,
+   "latest_registered": 2018,
+   "note": null
+  },
+  {
+   "name": "Somalia",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "South Africa",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 21,
+   "latest_registered": 2020,
+   "note": null
+  },
+  {
+   "name": "South Korea",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "South Sudan",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Spain",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Sri Lanka",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 16,
+   "latest_registered": 2019,
+   "note": null
+  },
+  {
+   "name": "Sudan",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Suriname",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 15,
+   "latest_registered": 2014,
+   "note": null
+  },
+  {
+   "name": "Sweden",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Switzerland",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Syria",
+   "region": false,
+   "registration": "partly registered",
+   "registered_years": 11,
+   "latest_registered": 2010,
+   "note": null
+  },
+  {
+   "name": "Tajikistan",
+   "region": false,
+   "registration": "partly registered",
+   "registered_years": 12,
+   "latest_registered": 2022,
+   "note": null
+  },
+  {
+   "name": "Tanzania",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Thailand",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 20,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Togo",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Tonga",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Trinidad and Tobago",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 21,
+   "latest_registered": 2020,
+   "note": null
+  },
+  {
+   "name": "Tunisia",
+   "region": false,
+   "registration": "partly registered",
+   "registered_years": 5,
+   "latest_registered": 2021,
+   "note": null
+  },
+  {
+   "name": "Turkey",
+   "region": false,
+   "registration": "partly registered",
+   "registered_years": 13,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Turkmenistan",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 16,
+   "latest_registered": 2015,
+   "note": null
+  },
+  {
+   "name": "Tuvalu",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Uganda",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Ukraine",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 18,
+   "latest_registered": 2019,
+   "note": null
+  },
+  {
+   "name": "United Arab Emirates",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 3,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "United Kingdom",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 21,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "United States",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 22,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Uruguay",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 21,
+   "latest_registered": 2023,
+   "note": null
+  },
+  {
+   "name": "Uzbekistan",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 19,
+   "latest_registered": 2024,
+   "note": null
+  },
+  {
+   "name": "Vanuatu",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Venezuela",
+   "region": false,
+   "registration": "registered",
+   "registered_years": 17,
+   "latest_registered": 2016,
+   "note": null
+  },
+  {
+   "name": "Vietnam",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Yemen",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Zambia",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": null,
+   "note": null
+  },
+  {
+   "name": "Zimbabwe",
+   "region": false,
+   "registration": "estimate",
+   "registered_years": 0,
+   "latest_registered": 1990,
+   "note": null
+  }
+ ],
+ "updated": "2026-11-20",
+ "revisions": []
+}

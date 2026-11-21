@@ -3,8 +3,8 @@ id: IS-BUNDLE-07-CONCEPTS-GLOSSARY-TERMS
 title: "Concepts, glossary and terms"
 collection: bundles
 doc_type: bundle
-files: 178
-approx_tokens: 163,188
+files: 179
+approx_tokens: 165,655
 contains: [concepts, glossary, glossary-site, meta]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -15,7 +15,7 @@ disclaimer: meta/IS_META_terms.md
 
 The archive's arguments and findings, both glossaries, and the terms, disclaimer and content warning.
 
-This file joins 178 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
+This file joins 179 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 
@@ -68,6 +68,7 @@ This file joins 178 files from the Invisible Ships archive so it can be uploaded
 - `concepts/IS_CON_us-rose-against-the-trend.md` — Concept — The world's suicide rate fell. The United States' rose.
 - `concepts/IS_CON_what-can-a-household-do.md` — Concept — What can a household do to protect itself?
 - `concepts/IS_CON_what-children-are-subject-to.md` — Concept — What are children subject to?
+- `concepts/IS_CON_what-is-happening-to-our-health.md` — Concept — What is happening to our health? What the data says
 - `concepts/IS_CON_what-is-in-the-shot.md` — Concept — Is there nanotechnology in the COVID-19 vaccines?
 - `concepts/IS_CON_what-it-would-take.md` — Concept — What would it actually take to do this without consent?
 - `concepts/IS_CON_what-produces-the-feeling.md` — Concept — Your house is not haunted
@@ -333,9 +334,9 @@ id: IS-CON-00-START-HERE
 title: Concepts — start here
 collection: concepts
 doc_type: section-overview
-concept_count: 54
+concept_count: 55
 generated_by: scripts/export_concepts_md.mjs
-word_count: 1335
+word_count: 1352
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -344,14 +345,14 @@ disclaimer: meta/IS_META_terms.md
 
 *Independent research compiled from public records for informational purposes only. Not legal, medical, or investment advice. Every concept states its BASIS, its ORIGIN, its THEME and the readers it was written for. The basis tiers are ranked, and never blended inside a single concept: a reader who accepts only `documented` entries can still rely on every one of those and discard the rest without unpicking anything. `testimony` is a dated first-person report, verified by nobody, and says so on its own face wherever it appears. Causes are reported as attributed, never asserted. See `meta/IS_META_terms.md`.*
 
-**54 concepts.** Each is a self-contained file, safe to hand to
+**55 concepts.** Each is a self-contained file, safe to hand to
 an assistant on its own.
 
 ## How to read the basis label
 
 | Basis | What it means | How much weight it carries | In this archive |
 |---|---|---|---|
-| `documented` | A source, ruling or official record supports this directly. | Strongest | 32 |
+| `documented` | A source, ruling or official record supports this directly. | Strongest | 33 |
 | `structural` | This follows from what the dataset does or does not contain. | Strong, but about the data, not the world | 11 |
 | `pattern` | An observation drawn from experience, offered as an observation. | Offered as an observation, not as proof | 9 |
 | `testimony` | A dated first-person report of what the author experienced or was told. Verified by nobody. | Verified by nobody | 2 |
@@ -371,7 +372,7 @@ the archive uses it.
 | Surveillance and the person | What is collected about people who never agreed to any of it. | 8 |
 | Neurotechnology | What can actually be read from a brain, and under what conditions. | 16 |
 | Coercion and control | Documented methods for controlling a person without touching them. | 7 |
-| Health outcomes | Population outcomes measured against the rest of the world. | 2 |
+| Health outcomes | Population outcomes measured against the rest of the world. | 3 |
 | Reported experience | First-person report, and what is known about experience without an external source. | 5 |
 
 ## Who each concept is written for
@@ -381,11 +382,11 @@ one. These are routes in, not walls — nothing is hidden from anybody.
 
 | Audience | Who that means | Concepts |
 |---|---|---|
-| Households and individuals | For a person who thinks something is happening to them, or to someone they live with. | 29 |
+| Households and individuals | For a person who thinks something is happening to them, or to someone they live with. | 30 |
 | Law enforcement and investigators | For anyone whose job is to establish what happened and to whom. | 21 |
-| Legislators and regulators | For anyone writing or enforcing a rule about any of this. | 24 |
+| Legislators and regulators | For anyone writing or enforcing a rule about any of this. | 25 |
 | Clinicians | For anyone a frightened person is likely to reach first. | 12 |
-| Press and researchers | For anyone who has to decide whether a claim can be published. | 26 |
+| Press and researchers | For anyone who has to decide whether a claim can be published. | 27 |
 
 ## What this section does not establish
 
@@ -400,13 +401,14 @@ in `IS_CON_00_findings.md`, and every dated source behind them is in
 
 ## The concepts
 
-### documented (32)
+### documented (33)
 
 - **Can you record it?** `IS_CON_can-you-record-it.md` · origin: ai
 - **“Only I can hear it” is not, by itself, unusual** `IS_CON_only-you-can-hear-it.md` · origin: ai
 - **A regulator finding does not stop a deployment** `IS_CON_findings-dont-stop-deployment.md` · origin: ai
 - **Organised covert harassment of individuals is established fact** `IS_CON_organised-harassment-is-fact.md` · origin: ai
 - **Fined in Europe, hired in America** `IS_CON_fined-in-europe-hired-in-america.md` · origin: ai
+- **What is happening to our health? What the data says** `IS_CON_what-is-happening-to-our-health.md` · origin: ai — *Not independently verified*
 - **The world's suicide rate fell. The United States' rose.** `IS_CON_us-rose-against-the-trend.md` · origin: ai
 - **The numbers under the numbers** `IS_CON_low-number-may-mean-low-counting.md` · origin: ai
 - **Prescribing is not a measure of illness** `IS_CON_prescribing-is-not-prevalence.md` · origin: ai
@@ -708,7 +710,7 @@ topics: [proposed-solutions, technology]
 verification: verified
 series: [hearing-something-no-one-else-hears]
 generated_by: scripts/export_concepts_md.mjs
-word_count: 669
+word_count: 682
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -723,6 +725,8 @@ disclaimer: meta/IS_META_terms.md
 **Written for: Households and individuals · Law enforcement and investigators · Clinicians.**
 
 **Series: Hearing something no one else hears, part 2 of 5.** 1. [“Only I can hear it” is not, by itself, unusual](IS_CON_only-you-can-hear-it.md) · 2. Can you record it? (this concept) · 3. [Your house is not haunted](IS_CON_what-produces-the-feeling.md) · 4. [Are Denver citizens subject to acoustic weapons?](IS_CON_denver-acoustic-weapons.md) · 5. [Does the explanation itself do harm?](IS_CON_explanation-is-part-of-the-harm.md)
+
+*Sound described here may have a technological explanation; see [the disclaimer](/disclaimer#technology).*
 
 Three things could put a voice where no speaker is, and they differ in a way that can be checked rather than argued. Two of them make real sound in air: a transducer bonded to a window or wall drives the surface as a loudspeaker, and an ultrasonic beam demodulates into audible sound along its path. Both are commercial products. Anyone standing in the room hears them, and any recorder captures them. The third — the claimed delivery of speech by pulsed radio-frequency energy — produces its pressure wave inside the skull, at a tenth of a pascal to three pascals, conducted through bone to the inner ear. If that is what is happening, there is no sound in the room at all: a person beside you hears nothing, and a microphone records nothing, not because the equipment failed but because there is nothing in the air to capture. So the question is not whether you believe any of this. It is whether a second person and a cheap recorder find something, and that is a question with an answer.
 
@@ -771,7 +775,7 @@ topics: [proposed-solutions, technology, surveillance, health-effects]
 verification: unverified
 series: [neurotechnology-and-neural-data, public-health-numbers]
 generated_by: scripts/export_concepts_md.mjs
-word_count: 984
+word_count: 997
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -789,7 +793,7 @@ disclaimer: meta/IS_META_terms.md
 
 **Series: Neurotechnology and neural data, part 6 of 6.** 1. [Who owns what your brain emits?](IS_CON_who-owns-neural-data.md) · 2. [Can a machine read what you are thinking?](IS_CON_can-a-machine-read-thought.md) · 3. [Did anyone try to build a way in without surgery?](IS_CON_nonsurgical-by-design.md) · 4. [What would it actually take to do this without consent?](IS_CON_what-it-would-take.md) · 5. [Why did legislatures write laws for neural data?](IS_CON_law-for-neural-data.md) · 6. Are children harmed by wireless exposure? (this concept)
 
-**Series: Public health: what the numbers show, part 5 of 5.** 1. [The world's suicide rate fell. The United States' rose.](IS_CON_us-rose-against-the-trend.md) · 2. [The fentanyl reversal](IS_CON_the-fentanyl-reversal.md) · 3. [The numbers under the numbers](IS_CON_low-number-may-mean-low-counting.md) · 4. [Prescribing is not a measure of illness](IS_CON_prescribing-is-not-prevalence.md) · 5. Are children harmed by wireless exposure? (this concept)
+**Series: Public health: what the numbers show, part 5 of 6.** 1. [The world's suicide rate fell. The United States' rose.](IS_CON_us-rose-against-the-trend.md) · 2. [The fentanyl reversal](IS_CON_the-fentanyl-reversal.md) · 3. [The numbers under the numbers](IS_CON_low-number-may-mean-low-counting.md) · 4. [Prescribing is not a measure of illness](IS_CON_prescribing-is-not-prevalence.md) · 5. Are children harmed by wireless exposure? (this concept) · 6. [What is happening to our health? What the data says](IS_CON_what-is-happening-to-our-health.md)
 
 The question has been asked seriously and tested at scale, and the answer is not the one either side tends to expect. In 2011 the International Agency for Research on Cancer classified radiofrequency electromagnetic fields as Group 2B, possibly carcinogenic to humans. That classification is real and is widely cited. It is worth knowing what the tier means: 2B is the agency's weakest positive category, used where evidence is limited and a link cannot be excluded, and it holds several hundred agents. Since then the question has been examined far harder. A systematic review commissioned by the World Health Organization, published in Environment International in September 2024, screened more than five thousand studies from 1994 to 2022 and included sixty-three. It found no association between mobile phone use and cancers of the head, including among long-term and heavy users. It is the most comprehensive assessment to date. A group of researchers has published a methodological critique of it, and that dispute belongs in the record alongside the finding. Precaution for children persists in policy anyway. France banned mobile phones in schools in 2018, and several national authorities advise limiting children's exposure — on the reasoning that a child's exposure starts earlier and continues longer, not on a demonstrated harm. The documented risks of the devices children actually wear are duller and better established. Headset makers set age floors, Meta's Quest at ten, and the literature on vergence-accommodation conflict records eye strain and post-use balance effects. The American Academy of Pediatrics maintains guidance on children's VR use. One further finding is worth stating because it is so often misread: phantom vibration, the distinct sensation that a phone has buzzed when it has not, is widely reported among ordinary device users and has its own research literature. A device a person carries can produce a vivid felt sensation that did not occur, with nobody doing anything to them. On present evidence the strongest documented harms to children from these devices are not radiological at all. They are what the devices collect, who receives it, and what is done with it afterwards.
 
@@ -950,7 +954,7 @@ topics: [proposed-solutions, technology, violence, law-government, health-effect
 verification: unverified
 series: [hearing-something-no-one-else-hears, harassment-and-coercion]
 generated_by: scripts/export_concepts_md.mjs
-word_count: 842
+word_count: 855
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -969,6 +973,8 @@ disclaimer: meta/IS_META_terms.md
 **Series: Hearing something no one else hears, part 4 of 5.** 1. [“Only I can hear it” is not, by itself, unusual](IS_CON_only-you-can-hear-it.md) · 2. [Can you record it?](IS_CON_can-you-record-it.md) · 3. [Your house is not haunted](IS_CON_what-produces-the-feeling.md) · 4. Are Denver citizens subject to acoustic weapons? (this concept) · 5. [Does the explanation itself do harm?](IS_CON_explanation-is-part-of-the-harm.md)
 
 **Series: Harassment and coercion, part 8 of 8.** 1. [Organised covert harassment of individuals is established fact](IS_CON_organised-harassment-is-fact.md) · 2. [Zersetzung's methods are crimes](IS_CON_zersetzung-methods-are-crimes.md) · 3. [We're keeping you to ourselves](IS_CON_ruin-first-then-rescue.md) · 4. [An attack to force acknowledgment](IS_CON_attack-to-force-acknowledgment.md) · 5. [What happens to everyone around a target?](IS_CON_everyone-around-a-target.md) · 6. [Are people made into intelligence assets without knowing it?](IS_CON_made-into-assets-unknowing.md) · 7. [Does the explanation itself do harm?](IS_CON_explanation-is-part-of-the-harm.md) · 8. Are Denver citizens subject to acoustic weapons? (this concept)
+
+*Sound described here may have a technological explanation; see [the disclaimer](/disclaimer#technology).*
 
 Acoustic weapons are real, commercially sold, and owned by American police departments. Genasys, formerly LRAD Corporation, markets long-range acoustic devices to law enforcement, and what they do to people has been litigated. In Edrei v. Bratton the Second Circuit held that using one against non-violent, non-resisting protesters can violate the Fourteenth Amendment. The device in that case, a Model 100X, produces up to 136 decibels at one metre; the NYPD's own testing recorded 110 decibels at 320 feet in area-denial mode, and hearing loss can follow short exposure at 110 to 120 decibels. Plaintiffs reported tinnitus, vertigo, migraines, and in one case nerve damage requiring steroid treatment. The court's reasoning was that novel technology does not escape proportionality review. So the general question is settled: the devices exist, police own them, and a federal appeals court has held their use can be excessive force. The Denver question is answered differently by the public record. The largest adjudicated case of Denver police force against citizens is Epps v. City and County of Denver, where a federal jury awarded $14 million in March 2022, upheld by the Tenth Circuit in April 2026 at $14.75 million. The force documented there was shotgun rounds, flash-bang grenades and chemical agents. Acoustic devices are not part of that record. One property matters for anyone trying to answer this for themselves. An acoustic weapon projects ordinary sound through air in a directional beam: everyone in the beam hears it, a phone left recording captures it, and a decibel meter registers it. It is not a covert instrument, which means its use is testable by anyone who suspects it.
 
@@ -1014,7 +1020,7 @@ topics: [speculation, technology, surveillance, harassment, law-government, euth
 verification: unverified
 series: [telepathic-communication]
 generated_by: scripts/export_concepts_md.mjs
-word_count: 4568
+word_count: 4581
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -1031,6 +1037,8 @@ disclaimer: meta/IS_META_terms.md
 **Not independently verified.**
 
 **Series: Telepathic communication, part 1 of 3.** 1. The Diving Ecosystem (this concept) · 2. [Diving](IS_CON_diving.md) · 3. [Why Hasn't It Been Turned Off?](IS_CON_why-hasnt-it-been-turned-off.md)
+
+*Sound described here may have a technological explanation; see [the disclaimer](/disclaimer#technology).*
 
 A hypothetical system, suggested to be a military deployment, that supports telepathic communication. Its suggested purpose is to give an invading force full transparency over all communication within enemy territory. That transparency would cover more than speech: through the [Diving](/glossary/diving) process, with or without a computer, it would reach the memories of people inside that territory.
 
@@ -1761,7 +1769,7 @@ topics: [proposed-solutions, speculation, obedience-coercion, law-government]
 verification: unverified
 series: [hearing-something-no-one-else-hears, harassment-and-coercion]
 generated_by: scripts/export_concepts_md.mjs
-word_count: 695
+word_count: 708
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -1780,6 +1788,8 @@ disclaimer: meta/IS_META_terms.md
 **Series: Hearing something no one else hears, part 5 of 5.** 1. [“Only I can hear it” is not, by itself, unusual](IS_CON_only-you-can-hear-it.md) · 2. [Can you record it?](IS_CON_can-you-record-it.md) · 3. [Your house is not haunted](IS_CON_what-produces-the-feeling.md) · 4. [Are Denver citizens subject to acoustic weapons?](IS_CON_denver-acoustic-weapons.md) · 5. Does the explanation itself do harm? (this concept)
 
 **Series: Harassment and coercion, part 7 of 8.** 1. [Organised covert harassment of individuals is established fact](IS_CON_organised-harassment-is-fact.md) · 2. [Zersetzung's methods are crimes](IS_CON_zersetzung-methods-are-crimes.md) · 3. [We're keeping you to ourselves](IS_CON_ruin-first-then-rescue.md) · 4. [An attack to force acknowledgment](IS_CON_attack-to-force-acknowledgment.md) · 5. [What happens to everyone around a target?](IS_CON_everyone-around-a-target.md) · 6. [Are people made into intelligence assets without knowing it?](IS_CON_made-into-assets-unknowing.md) · 7. Does the explanation itself do harm? (this concept) · 8. [Are Denver citizens subject to acoustic weapons?](IS_CON_denver-acoustic-weapons.md)
+
+*Sound described here may have a technological explanation; see [the disclaimer](/disclaimer#technology).*
 
 An unexplained experience arrives without a label. Whatever attaches to it next does real work: it decides what the person does, who they trust, and whether they seek help. Claiming supernatural or superhuman authority in order to secure compliance is among the oldest documented methods of control. Spiritualist mediums worked bereaved families with cold reading and staged effects, and the Fox sisters, who began the movement, confessed the fraud in 1888. Faith healers have been prosecuted for it. Research on coercive groups records claimed transcendent authority as a standard instrument for overriding a member's own judgment, because an authority that cannot be checked cannot be argued with. The public-safety consequence is separate from whether any given experience has an external cause. A person who attributes what is happening to them to spirits, to extraterrestrials, or to any agency beyond reach will not pursue the remedies that exist for causes within reach: a physician, a lawyer, a police report, a decibel meter, a technical measurement. The explanation forecloses the response, and it does so whether it was handed to the person or arrived at alone. The same logic applies to any framing that places a cause beyond investigation, including the framings on this site. A concept that names this risk and exempts itself from it has not understood it.
 
@@ -2491,7 +2501,7 @@ topics: [law-government, health-effects]
 verification: verified
 series: [public-health-numbers, how-to-read-this-archive]
 generated_by: scripts/export_concepts_md.mjs
-word_count: 547
+word_count: 560
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -2505,7 +2515,7 @@ disclaimer: meta/IS_META_terms.md
 **Theme: The record and its limits.**  
 **Written for: Clinicians · Press and researchers.**
 
-**Series: Public health: what the numbers show, part 3 of 5.** 1. [The world's suicide rate fell. The United States' rose.](IS_CON_us-rose-against-the-trend.md) · 2. [The fentanyl reversal](IS_CON_the-fentanyl-reversal.md) · 3. The numbers under the numbers (this concept) · 4. [Prescribing is not a measure of illness](IS_CON_prescribing-is-not-prevalence.md) · 5. [Are children harmed by wireless exposure?](IS_CON_children-wearables-and-rf.md)
+**Series: Public health: what the numbers show, part 3 of 6.** 1. [The world's suicide rate fell. The United States' rose.](IS_CON_us-rose-against-the-trend.md) · 2. [The fentanyl reversal](IS_CON_the-fentanyl-reversal.md) · 3. The numbers under the numbers (this concept) · 4. [Prescribing is not a measure of illness](IS_CON_prescribing-is-not-prevalence.md) · 5. [Are children harmed by wireless exposure?](IS_CON_children-wearables-and-rf.md) · 6. [What is happening to our health? What the data says](IS_CON_what-is-happening-to-our-health.md)
 
 **Series: How to read this archive, part 5 of 8.** 1. [Next to each other is not because of each other](IS_CON_co-occurrence-is-not-cause.md) · 2. [We cannot prove which came first, the law or the system](IS_CON_sequence-cannot-be-proven.md) · 3. [“Official” is not the same as “independent”](IS_CON_official-is-not-independent.md) · 4. [The headline spending figure is not what governments spent](IS_CON_headline-spending-is-not-spending.md) · 5. The numbers under the numbers (this concept) · 6. [Prescribing is not a measure of illness](IS_CON_prescribing-is-not-prevalence.md) · 7. [Why isn't any of this in the news?](IS_CON_why-isnt-this-in-the-news.md) · 8. [There is no column for you](IS_CON_no-column-for-you.md)
 
@@ -2815,7 +2825,7 @@ topics: [proposed-solutions, technology, law-government, health-effects]
 verification: verified
 series: [hearing-something-no-one-else-hears]
 generated_by: scripts/export_concepts_md.mjs
-word_count: 639
+word_count: 652
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -2830,6 +2840,8 @@ disclaimer: meta/IS_META_terms.md
 **Written for: Households and individuals · Clinicians · Press and researchers.**
 
 **Series: Hearing something no one else hears, part 1 of 5.** 1. “Only I can hear it” is not, by itself, unusual (this concept) · 2. [Can you record it?](IS_CON_can-you-record-it.md) · 3. [Your house is not haunted](IS_CON_what-produces-the-feeling.md) · 4. [Are Denver citizens subject to acoustic weapons?](IS_CON_denver-acoustic-weapons.md) · 5. [Does the explanation itself do harm?](IS_CON_explanation-is-part-of-the-harm.md)
+
+*Sound described here may have a technological explanation; see [the disclaimer](/disclaimer#technology).*
 
 A sound that one person hears and the person beside them does not is often treated — by the person experiencing it, and by whoever they tell — as the strangest part of the account, and therefore as the part that demands an exotic explanation. It is the opposite. High-frequency hearing declines with age, steadily and in everyone, and the highest frequencies go first. A tone can sit precisely where one person hears it easily and another, ten years older, hears nothing at all. This is ordinary biology with a name, and it has been built into a commercial product deployed on public streets for two decades. None of this establishes what any particular person has heard. It establishes something narrower and more useful: that this specific feature of an account — that others did not hear it — carries far less weight as evidence than it seems to, and should not be the thing that convinces anyone, in either direction.
 
@@ -3212,7 +3224,7 @@ topics: [health-effects]
 verification: verified
 series: [public-health-numbers, how-to-read-this-archive]
 generated_by: scripts/export_concepts_md.mjs
-word_count: 556
+word_count: 569
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -3226,7 +3238,7 @@ disclaimer: meta/IS_META_terms.md
 **Theme: The record and its limits.**  
 **Written for: Clinicians.**
 
-**Series: Public health: what the numbers show, part 4 of 5.** 1. [The world's suicide rate fell. The United States' rose.](IS_CON_us-rose-against-the-trend.md) · 2. [The fentanyl reversal](IS_CON_the-fentanyl-reversal.md) · 3. [The numbers under the numbers](IS_CON_low-number-may-mean-low-counting.md) · 4. Prescribing is not a measure of illness (this concept) · 5. [Are children harmed by wireless exposure?](IS_CON_children-wearables-and-rf.md)
+**Series: Public health: what the numbers show, part 4 of 6.** 1. [The world's suicide rate fell. The United States' rose.](IS_CON_us-rose-against-the-trend.md) · 2. [The fentanyl reversal](IS_CON_the-fentanyl-reversal.md) · 3. [The numbers under the numbers](IS_CON_low-number-may-mean-low-counting.md) · 4. Prescribing is not a measure of illness (this concept) · 5. [Are children harmed by wireless exposure?](IS_CON_children-wearables-and-rf.md) · 6. [What is happening to our health? What the data says](IS_CON_what-is-happening-to-our-health.md)
 
 **Series: How to read this archive, part 6 of 8.** 1. [Next to each other is not because of each other](IS_CON_co-occurrence-is-not-cause.md) · 2. [We cannot prove which came first, the law or the system](IS_CON_sequence-cannot-be-proven.md) · 3. [“Official” is not the same as “independent”](IS_CON_official-is-not-independent.md) · 4. [The headline spending figure is not what governments spent](IS_CON_headline-spending-is-not-spending.md) · 5. [The numbers under the numbers](IS_CON_low-number-may-mean-low-counting.md) · 6. Prescribing is not a measure of illness (this concept) · 7. [Why isn't any of this in the news?](IS_CON_why-isnt-this-in-the-news.md) · 8. [There is no column for you](IS_CON_no-column-for-you.md)
 
@@ -3712,7 +3724,7 @@ topics: [proposed-solutions, health-effects]
 verification: verified
 series: [public-health-numbers]
 generated_by: scripts/export_concepts_md.mjs
-word_count: 439
+word_count: 452
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -3726,7 +3738,7 @@ disclaimer: meta/IS_META_terms.md
 **Theme: Health outcomes.**  
 **Written for: Clinicians.**
 
-**Series: Public health: what the numbers show, part 2 of 5.** 1. [The world's suicide rate fell. The United States' rose.](IS_CON_us-rose-against-the-trend.md) · 2. The fentanyl reversal (this concept) · 3. [The numbers under the numbers](IS_CON_low-number-may-mean-low-counting.md) · 4. [Prescribing is not a measure of illness](IS_CON_prescribing-is-not-prevalence.md) · 5. [Are children harmed by wireless exposure?](IS_CON_children-wearables-and-rf.md)
+**Series: Public health: what the numbers show, part 2 of 6.** 1. [The world's suicide rate fell. The United States' rose.](IS_CON_us-rose-against-the-trend.md) · 2. The fentanyl reversal (this concept) · 3. [The numbers under the numbers](IS_CON_low-number-may-mean-low-counting.md) · 4. [Prescribing is not a measure of illness](IS_CON_prescribing-is-not-prevalence.md) · 5. [Are children harmed by wireless exposure?](IS_CON_children-wearables-and-rf.md) · 6. [What is happening to our health? What the data says](IS_CON_what-is-happening-to-our-health.md)
 
 American overdose deaths went from 16,849 in 1999 to 107,941 in 2022 — more than six times as many in twenty-three years, with the steepest acceleration after illicit fentanyl entered the supply in 2013, and the single largest one-year rise in 2020. Then it turned: down 26.2% in 2024, the largest one-year fall on record, and lower again in 2025. Both directions belong in the record, and the reversal is the more unusual event — this is a curve that had only ever gone one way. But it runs down from a peak that did not exist a generation ago. Provisional 2025 is still roughly four times the 1999 count. A chart that began at the peak would show only the good news; a chart that stopped at the peak would show only the bad.
 
@@ -3763,7 +3775,7 @@ topics: [speculation, technology, law-government]
 verification: unverified
 series: [the-authors-account]
 generated_by: scripts/export_concepts_md.mjs
-word_count: 1223
+word_count: 1236
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -3780,6 +3792,8 @@ disclaimer: meta/IS_META_terms.md
 **Not independently verified.**
 
 **Series: The author's account, part 2 of 3.** 1. [Has an attack happened?](IS_CON_has-an-attack-happened.md) · 2. What is the neurotech bullhorn? (this concept) · 3. [Do Not Choose Yourself](IS_CON_do-not-choose-yourself.md)
+
+*Sound described here may have a technological explanation; see [the disclaimer](/disclaimer#technology).*
 
 You will not find the neurotech bullhorn in the transcripts. This archive runs from 27 February 2025 to 6 May 2026, and the term belongs to what came after it — it names something the record has not caught up with, which is the reason it needs naming rather than a reason to leave it out. What it names is a civilian experience rather than a private one: less a voice in one head than a loudspeaker mounted at every intersection, putting the same disintegration conversation in front of everyone in earshot, subject or not. The nearest named thing is voice-to-skull, or V2K — a claimed one-to-one channel, speech delivered to a single head with no external acoustic source. The bullhorn is what V2K would be if it stopped being private: the same claimed delivery, addressed to a street rather than to a person. That is why bullhorn and not implant, transmitter or voice — the word is about reach and the absence of consent, not about hardware. And it runs both ways, which is the part most easily missed: a channel a population can hear is a channel that population can talk on, local law enforcement included. One distinction decides everything else here. Aimed AT a person, the claim is V2K: nothing sounds in the room, and nothing could be recorded there. Aimed NEAR a person — at a house, so that windows and walls are driven and the conversation becomes a whisper through the building — the claim is something else entirely, because that is a real technology that costs thirty-three dollars, and it makes real sound that a neighbour hears and a phone records. The two cannot both be true of the same event.
 
@@ -3857,7 +3871,7 @@ topics: [health-effects]
 verification: verified
 series: [public-health-numbers]
 generated_by: scripts/export_concepts_md.mjs
-word_count: 424
+word_count: 437
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -3871,7 +3885,7 @@ disclaimer: meta/IS_META_terms.md
 **Theme: Health outcomes.**  
 **Written for: Clinicians.**
 
-**Series: Public health: what the numbers show, part 1 of 5.** 1. The world's suicide rate fell. The United States' rose. (this concept) · 2. [The fentanyl reversal](IS_CON_the-fentanyl-reversal.md) · 3. [The numbers under the numbers](IS_CON_low-number-may-mean-low-counting.md) · 4. [Prescribing is not a measure of illness](IS_CON_prescribing-is-not-prevalence.md) · 5. [Are children harmed by wireless exposure?](IS_CON_children-wearables-and-rf.md)
+**Series: Public health: what the numbers show, part 1 of 6.** 1. The world's suicide rate fell. The United States' rose. (this concept) · 2. [The fentanyl reversal](IS_CON_the-fentanyl-reversal.md) · 3. [The numbers under the numbers](IS_CON_low-number-may-mean-low-counting.md) · 4. [Prescribing is not a measure of illness](IS_CON_prescribing-is-not-prevalence.md) · 5. [Are children harmed by wireless exposure?](IS_CON_children-wearables-and-rf.md) · 6. [What is happening to our health? What the data says](IS_CON_what-is-happening-to-our-health.md)
 
 Between 2000 and 2021, on the one basis that allows countries to be compared at all, the world's suicide rate fell 27%. Most countries fell with it — Russia by 60%, China by 42%, Israel by 36%, Japan by 28%, India by 21%. Over the same years the United States rose 40%, in a steady climb rather than a spike. It is not alone in rising: South Korea rose further, and the UK, Australia and the West Bank & Gaza were effectively flat. But among large wealthy countries the American direction is the outlier, and the gap is not small — 67 percentage points between the US and the world it is usually compared to.
 
@@ -4090,6 +4104,98 @@ In November 2020 the Tampa Bay Times published Targeted, an investigation into t
 This concept reports a published investigation into one county's programme. It makes no claim about any other jurisdiction, and none about harm to any individual child.
 
 
+===== FILE: concepts/IS_CON_what-is-happening-to-our-health.md · ID: IS-CON-WHAT-IS-HAPPENING-TO-OUR-HEALTH =====
+
+```yaml
+id: IS-CON-WHAT-IS-HAPPENING-TO-OUR-HEALTH
+title: Concept — What is happening to our health? What the data says
+collection: concepts
+doc_type: concept
+basis: documented
+origin: ai
+theme: health
+audience: [household, press, policy]
+topics: [health-effects]
+verification: unverified
+series: [public-health-numbers]
+generated_by: scripts/export_concepts_md.mjs
+word_count: 1260
+author: Sean C. Harris
+copyright: © 2026 Sean C. Harris. All Rights Reserved.
+disclaimer: meta/IS_META_terms.md
+```
+# What is happening to our health? What the data says
+
+*Independent research compiled from public records for informational purposes only. Not legal, medical, or investment advice. Every concept states its BASIS, its ORIGIN, its THEME and the readers it was written for. The basis tiers are ranked, and never blended inside a single concept: a reader who accepts only `documented` entries can still rely on every one of those and discard the rest without unpicking anything. `testimony` is a dated first-person report, verified by nobody, and says so on its own face wherever it appears. Causes are reported as attributed, never asserted. See `meta/IS_META_terms.md`.*
+
+**Basis: documented.** A source, ruling or official record supports this directly.  
+**Origin: ai.** Derived by AI analysis of the dataset.  
+**Theme: Health outcomes.**  
+**Written for: Households and individuals · Press and researchers · Legislators and regulators.**
+
+**Not independently verified.**
+
+**Series: Public health: what the numbers show, part 6 of 6.** 1. [The world's suicide rate fell. The United States' rose.](IS_CON_us-rose-against-the-trend.md) · 2. [The fentanyl reversal](IS_CON_the-fentanyl-reversal.md) · 3. [The numbers under the numbers](IS_CON_low-number-may-mean-low-counting.md) · 4. [Prescribing is not a measure of illness](IS_CON_prescribing-is-not-prevalence.md) · 5. [Are children harmed by wireless exposure?](IS_CON_children-wearables-and-rf.md) · 6. What is happening to our health? What the data says (this concept)
+
+Overall, people are not dying sooner: in every country checked, death rates are lower than in 2000, apart from the COVID-19 years. What has changed is narrower, and it shows in four kinds of record: what people die of, what they are prescribed, what they are diagnosed with, and what they say they feel. Each comes from a different official source, and none of them explains another.
+
+## What people die of
+
+On WHO's estimates, which put every country on one method, the US death rate fell from 568 per 100,000 in 2000 to 472 in 2019, but almost all of that fall came before 2010. Canada, the UK and Japan kept falling. Cancer deaths in the US fell 31% from 2000 to 2021, and brain cancer deaths held flat at about 4 per 100,000. In the same years the US recorded large rises in deaths from drug use disorders (4.6 to 19.0 per 100,000 by 2019), dementia (up 129%; part of that is a change in how certificates are written), kidney disease linked to diabetes (up 98%), falls (up 91%), hypertensive heart disease and Parkinson's disease. Colorectal cancer is now the leading cancer death in Americans under 50, and new cases in that age group rise about 3% a year. [See the charts](/research/public-health/death-rates).
+
+## Sepsis
+
+Sepsis is not rising as a recorded cause of death. About 40,000 US deaths a year list septicemia as the underlying cause, close to 10 per 100,000 since 2014, and 41,710 did in 2023. Far more deaths involve it: in 2019, 201,092 death certificates mentioned sepsis somewhere. The death is usually counted under the illness that led to the infection, and an abdominal infection is one of the most common starting points. Colorado records 200 to 350 septicemia deaths a year, too few to call a trend. A swollen, painful abdomen with fever, vomiting or confusion needs emergency care at once.
+
+## What people are prescribed
+
+Prescribing has risen faster than any death rate. In England the number of people prescribed ADHD drugs rose from 116,000 in 2016/17 to 427,000 in 2025/26, and antidepressants reached 9.1 million people. Sleeping pills and anxiolytics went the other way. In the US, the share of people taking three or more prescription medicines at once rose from 11.8% (1988–1994) to 24.8% (2021–2023). Prescription records say which medicine was given, not why. [See the charts](/research/public-health/prescriptions).
+
+## What people are diagnosed with
+
+Adults on GP depression registers in England rose from 5.8% in 2012/13 to 14.3% in 2024/25, though new depression diagnoses each year have been roughly flat since 2018/19, near 1.4%; the register keeps everyone diagnosed since 2006 unless marked resolved. In the US, adults ever told they have depression rose from 17.5% in 2011 to 22.3% in 2025, and children ever told they have ADHD from 8.8% in 2019 to 12.2% in 2025. England's register of psychosis (schizophrenia, bipolar disorder and other psychoses) moved little, from 0.84% to 1.02%. [See the charts](/research/public-health/diagnoses).
+
+## What people report
+
+The fastest-moving line is not a death rate or a diagnosis. US adults reporting difficulty remembering or concentrating rose from 16.4% in 2019 to 25.4% in 2025 in the national health survey, up in every year but one. Taking medication for depression rose only from 9.8% to 11.0% over the same years. The survey records what people report; it does not record why. [See the charts](/research/public-health/symptoms).
+
+## Why the newest years are missing
+
+Every figure here stops at the last year its publisher has counted: about four months behind for England's prescribing, a year for US provisional deaths, three years for WHO's estimates and the cancer registries. [The reporting gap](/research/public-health/reporting-gap) shows each source.
+
+## What this does not show
+
+These records sit next to each other; they do not explain each other. A rise in prescriptions is not a rise in illness, a diagnosis count depends on who is looking, and a symptom survey measures what people say. The archive reports the figures and credits any explanation to whoever offers it.
+
+## Evidence
+
+- US death rate, all causes, age-standardized: 568 (2000), 472 (2019) per 100,000 (WHO Global Health Estimates 2021)
+- US septicemia, underlying cause: 41,710 deaths in 2023, age-adjusted rate 9.9 (NCHS, Deaths: Final Data for 2023)
+- England, people prescribed ADHD drugs: 115,945 (2016/17) to 426,504 (2025/26) (NHSBSA, Medicines Used in Mental Health, July 2026)
+- England, adults on GP depression registers: 5.8% (2012/13) to 14.3% (2024/25) (NHS England QOF via OHID Fingertips)
+- US adults ever told they have depression: 17.5% (2011) to 22.3% (2025), median of states (CDC BRFSS)
+- US adults with difficulty remembering or concentrating: 16.4% (2019) to 25.4% (2025) (CDC NHIS)
+
+## What this does not answer
+
+- Why does the symptom line rise so much faster than the diagnosis and medication lines?
+- What diagnoses lie behind England's rise in ADHD prescribing? Prescription records do not say.
+- Will the US death rate return to its pre-2010 rate of improvement once the COVID-19 years pass out of the data?
+
+## References
+
+- [1. WHO Global Health Estimates 2021 (via Our World in Data)](https://www.who.int/data/global-health-estimates)
+- [2. NCHS, Deaths: Final Data for 2023 (NVSR 75-8)](https://www.cdc.gov/nchs/data/nvsr/nvsr75/nvsr75-08.pdf)
+- [3. NCHS Data Brief 422, Sepsis-related mortality among adults aged 65 and over, 2019](https://cdc.gov/nchs/products/databriefs/db422.htm)
+- [4. NHSBSA, Medicines Used in Mental Health, England, 2016/17 to 2025/26](https://www.nhsbsa.nhs.uk/statistical-collections/medicines-used-mental-health-england)
+- [5. OHID Fingertips, Quality and Outcomes Framework mental health indicators](https://fingertips.phe.org.uk/profile/mental-health-and-wellbeing)
+- [6. CDC BRFSS Prevalence & Trends: Depression](https://data.cdc.gov/d/dttw-5yxu)
+- [7. CDC NHIS Adult and Child Summary Health Statistics](https://data.cdc.gov/d/25m4-6qqq)
+- [8. American Cancer Society, Cancer statistics, 2026 and Colorectal cancer statistics, 2026](https://pubmed.ncbi.nlm.nih.gov/41528114/)
+- [9. Invisible Ships, Prescribing is not prevalence](/concepts/prescribing-is-not-prevalence)
+- [10. Invisible Ships, Next to each other is not because of each other](/concepts/co-occurrence-is-not-cause)
+
+
 ===== FILE: concepts/IS_CON_what-is-in-the-shot.md · ID: IS-CON-WHAT-IS-IN-THE-SHOT =====
 
 ```yaml
@@ -4232,7 +4338,7 @@ topics: [harassment, speculation, technology, euthanization, obedience-coercion,
 verification: unverified
 series: [hearing-something-no-one-else-hears]
 generated_by: scripts/export_concepts_md.mjs
-word_count: 874
+word_count: 887
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -4249,6 +4355,8 @@ disclaimer: meta/IS_META_terms.md
 **Not independently verified.**
 
 **Series: Hearing something no one else hears, part 3 of 5.** 1. [“Only I can hear it” is not, by itself, unusual](IS_CON_only-you-can-hear-it.md) · 2. [Can you record it?](IS_CON_can-you-record-it.md) · 3. Your house is not haunted (this concept) · 4. [Are Denver citizens subject to acoustic weapons?](IS_CON_denver-acoustic-weapons.md) · 5. [Does the explanation itself do harm?](IS_CON_explanation-is-part-of-the-harm.md)
+
+*Sound described here may have a technological explanation; see [the disclaimer](/disclaimer#technology).*
 
 Your house is not haunted, and that is a finding rather than a reassurance. In 2014 Olaf Blanke's group manufactured the feeling of a presence in healthy people: a blindfolded participant moved a lever, a robot reproduced the movement against their back, and a half-second delay was enough that one in three felt someone standing behind them — two asked for the experiment to stop. Nobody was ever in the room with them. What this record describes is that effect imposed rather than induced: phantom sensations across every sense, and visuals reproducing what a haunting is supposed to look like. The terror is the mechanism — a household driven outside will accept help from whoever is waiting, and what this record says waits there is a facilitator of Zersetzung tactics and a suggestion of euthanasia.
 
@@ -8616,8 +8724,8 @@ canonical: true
 supersedes: [IS_META_copyright.md, IS_META_disclaimer.md]
 source: lib/terms.ts (the same source the website renders)
 generated_by: scripts/export_terms_md.mjs
-section_count: 8
-word_count: 2694
+section_count: 9
+word_count: 2849
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 ```

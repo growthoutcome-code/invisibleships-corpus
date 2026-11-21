@@ -1,0 +1,245 @@
+{
+ "chart_id": "prescriptions_england",
+ "title": "Prescribing rises faster than any death rate",
+ "unit": "People prescribed each group, England, 2016/17 = 100",
+ "axis": "index",
+ "x": [
+  "2016/17",
+  "2017/18",
+  "2018/19",
+  "2019/20",
+  "2020/21",
+  "2021/22",
+  "2022/23",
+  "2023/24",
+  "2024/25",
+  "2025/26"
+ ],
+ "context": "In England, the number of people prescribed ADHD drugs has nearly quadrupled since 2016/17, far faster than antidepressants or recorded depression. Prescription records say which medicine was given, never why.",
+ "ask": "What symptoms and diagnoses sit behind these prescriptions, and who decided a medicine was the answer?",
+ "series": [
+  {
+   "id": "ADHD drugs",
+   "label": "ADHD drugs",
+   "role": "focus",
+   "values": [
+    100.0,
+    107.6,
+    117.5,
+    133.6,
+    140.4,
+    165.7,
+    201.4,
+    239.5,
+    281.6,
+    367.9
+   ],
+   "raw": [
+    115945,
+    124789,
+    136211,
+    154858,
+    162838,
+    192105,
+    233474,
+    277640,
+    326450,
+    426504
+   ],
+   "raw_unit": "people",
+   "about": "People in England given at least one prescription for a stimulant or other ADHD medicine (BNF 4.4) in the year, counted once however many items they received."
+  },
+  {
+   "id": "Antidepressants",
+   "label": "Antidepressants",
+   "role": "context",
+   "values": [
+    100.0,
+    102.6,
+    106.2,
+    109.9,
+    110.7,
+    117.0,
+    119.8,
+    122.4,
+    124.4,
+    127.1
+   ],
+   "raw": [
+    7147694,
+    7332606,
+    7590802,
+    7856297,
+    7909516,
+    8359838,
+    8563148,
+    8747095,
+    8888229,
+    9086160
+   ],
+   "raw_unit": "people",
+   "about": "People given at least one antidepressant (BNF 4.3) in the year. Antidepressants are also prescribed for pain, sleep and anxiety, so this is not a count of people with depression."
+  },
+  {
+   "id": "Dementia drugs",
+   "label": "Dementia drugs",
+   "role": "context",
+   "values": [
+    100.0,
+    104.1,
+    107.0,
+    111.5,
+    109.9,
+    110.4,
+    116.7,
+    123.3,
+    129.9,
+    135.9
+   ],
+   "raw": [
+    250818,
+    261039,
+    268486,
+    279596,
+    275595,
+    276987,
+    292704,
+    309238,
+    325803,
+    340791
+   ],
+   "raw_unit": "people",
+   "about": "People given at least one drug for dementia (BNF 4.11) in the year. These slow symptoms; they do not stop the disease."
+  },
+  {
+   "id": "Antipsychotics",
+   "label": "Antipsychotics",
+   "role": "context",
+   "values": [
+    100.0,
+    103.0,
+    104.6,
+    107.6,
+    114.1,
+    112.9,
+    114.2,
+    115.8,
+    117.2,
+    118.4
+   ],
+   "raw": [
+    744476,
+    766806,
+    778648,
+    800700,
+    849605,
+    840819,
+    850219,
+    862145,
+    872860,
+    881713
+   ],
+   "raw_unit": "people",
+   "about": "People given at least one drug used in psychoses and related disorders (BNF 4.2). Most antipsychotic prescribing in England is for conditions other than schizophrenia."
+  },
+  {
+   "id": "Sleeping pills and anxiolytics",
+   "label": "Sleeping pills and anxiolytics",
+   "role": "context",
+   "values": [
+    100.0,
+    96.5,
+    93.5,
+    90.1,
+    83.1,
+    82.3,
+    80.7,
+    79.1,
+    77.0,
+    77.9
+   ],
+   "raw": [
+    2399103,
+    2315121,
+    2243280,
+    2160534,
+    1993511,
+    1973818,
+    1936934,
+    1896610,
+    1846207,
+    1867857
+   ],
+   "raw_unit": "people",
+   "about": "People given at least one hypnotic or anxiolytic (BNF 4.1), mostly benzodiazepines and z-drugs. Guidance since the 2010s discourages long-term use."
+  },
+  {
+   "id": "depression_register",
+   "label": "Depression diagnoses (GP register)",
+   "role": "faint",
+   "values": [
+    100.0,
+    109.6,
+    121.2,
+    132.9,
+    142.2,
+    148.9,
+    158.0,
+    null,
+    174.7,
+    null
+   ],
+   "raw": [
+    4187797,
+    4589213,
+    5077090,
+    5565443,
+    5955865,
+    6235456,
+    6618681,
+    null,
+    7317368,
+    null
+   ],
+   "raw_unit": "adults on register",
+   "about": "Adults on GP practice depression registers: anyone diagnosed since April 2006 whose depression has not been marked resolved. A record of diagnosis, not a count of people currently ill."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "426,504",
+   "text": "people in England on ADHD drugs in 2025/26, from 115,945 in 2016/17."
+  },
+  {
+   "value": "9.1 million",
+   "text": "on antidepressants in 2025/26, up 27%."
+  },
+  {
+   "value": "+75%",
+   "text": "adults on GP depression registers, 2016/17 to 2024/25 (faint line)."
+  }
+ ],
+ "caption": "Each line starts at 100 in 2016/17. ADHD drugs are the bold line; the faint line is adults on GP depression registers, on the same index. No register figure was published for 2023/24.",
+ "sources": [
+  {
+   "publisher": "NHS Business Services Authority",
+   "title": "Medicines Used in Mental Health, England, 2016/17 to 2025/26",
+   "url": "https://www.nhsbsa.nhs.uk/statistical-collections/medicines-used-mental-health-england",
+   "released": "2026-07-23"
+  },
+  {
+   "publisher": "OHID Fingertips (NHS England, Quality and Outcomes Framework)",
+   "title": "Depression: QOF prevalence (18+)",
+   "url": "https://fingertips.phe.org.uk/profile/mental-health-and-wellbeing",
+   "released": "2025"
+  }
+ ],
+ "caveats": [
+  "Prescribing is not prevalence: these lines count people given a medicine, not people who are ill.",
+  "Prescription data records the medicine, not the reason it was prescribed.",
+  "Community prescribing only: hospitals, prisons and private prescribers are not included."
+ ],
+ "accessed": "2026-11-20",
+ "revisions": [],
+ "tier": "A"
+}

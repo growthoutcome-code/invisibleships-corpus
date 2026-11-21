@@ -1,0 +1,119 @@
+{
+ "chart_id": "diagnoses_england",
+ "title": "Depression in England: new diagnoses flat, the register grows",
+ "unit": "Percent of patients",
+ "axis": "percent",
+ "x": [
+  "2012/13",
+  "2013/14",
+  "2014/15",
+  "2015/16",
+  "2016/17",
+  "2017/18",
+  "2018/19",
+  "2019/20",
+  "2020/21",
+  "2021/22",
+  "2022/23",
+  "2023/24",
+  "2024/25"
+ ],
+ "context": "England's depression register has more than doubled, but new diagnoses each year have barely moved since 2018/19: the register grows because people stay on it.",
+ "ask": "How many people on the register are still depressed today, and how many were never taken off?",
+ "series": [
+  {
+   "id": "register",
+   "label": "Depression register",
+   "role": "focus",
+   "values": [
+    5.84,
+    6.52,
+    7.33,
+    8.26,
+    9.09,
+    9.88,
+    10.74,
+    11.56,
+    12.29,
+    12.65,
+    13.25,
+    null,
+    14.27
+   ],
+   "about": "Adults on GP depression registers: diagnosed since April 2006 and not marked resolved. It grows whenever more people are added than taken off."
+  },
+  {
+   "id": "new",
+   "label": "New depression diagnoses",
+   "role": "context",
+   "values": [
+    null,
+    1.06,
+    1.2,
+    1.44,
+    1.52,
+    1.57,
+    1.67,
+    1.53,
+    1.39,
+    1.53,
+    1.37,
+    1.48,
+    1.39
+   ],
+   "about": "Adults newly diagnosed with depression in the year, as a share of adult patients: the measure of how many new cases doctors are recording."
+  },
+  {
+   "id": "smi",
+   "label": "Psychosis register",
+   "role": "context",
+   "dashed": true,
+   "values": [
+    0.84,
+    0.86,
+    0.88,
+    0.9,
+    0.92,
+    0.94,
+    0.96,
+    0.93,
+    0.95,
+    0.95,
+    1.0,
+    0.96,
+    1.02
+   ],
+   "about": "Patients of all ages on the register for schizophrenia, bipolar disorder and other psychoses, or treated with lithium."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "2.6m → 7.3m",
+   "text": "adults on GP depression registers."
+  },
+  {
+   "value": "1.1% → 1.4%",
+   "text": "newly diagnosed each year; peak 1.7% in 2018/19."
+  },
+  {
+   "value": "0.84% → 1.02%",
+   "text": "on the psychosis register (schizophrenia, bipolar, other psychoses)."
+  }
+ ],
+ "caption": "England, GP records (Quality and Outcomes Framework). Depression: adults 18+. Psychosis register: all ages.",
+ "sources": [
+  {
+   "publisher": "OHID Fingertips (NHS England QOF)",
+   "title": "Depression prevalence, depression incidence, mental health prevalence",
+   "url": "https://fingertips.phe.org.uk/profile/mental-health-and-wellbeing",
+   "released": "2025"
+  }
+ ],
+ "caveats": [
+  "No depression register figure was published for 2023/24.",
+  "A register counts people diagnosed and not resolved; incidence counts new diagnoses in the year."
+ ],
+ "accessed": "2026-11-20",
+ "revisions": [],
+ "tier": "A"
+}

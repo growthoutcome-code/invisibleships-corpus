@@ -1,0 +1,94 @@
+{
+ "chart_id": "before_suicide",
+ "title": "What is recorded before a suicide",
+ "context": "In Colorado, more than half of the people who died by suicide had a recorded mental health problem, but fewer than a third were in treatment when they died.",
+ "ask": "What did investigators record, and what could they not see?",
+ "unit": "Share of suicides with known circumstances (toxicology: of those tested)",
+ "rows": [
+  {
+   "label": "A current mental health problem",
+   "about": "Investigators found a mental health condition diagnosed by a professional, current at the time of death.",
+   "value": 54.8
+  },
+  {
+   "label": "Diagnosed depression",
+   "about": "A current diagnosis of depression or dysthymia was recorded.",
+   "value": 41.1
+  },
+  {
+   "label": "Current depressed mood",
+   "about": "Family, friends or records described the person as depressed or down at the time, whether or not a diagnosis existed.",
+   "value": 42.4
+  },
+  {
+   "label": "Diagnosed anxiety",
+   "about": "A current diagnosis of an anxiety disorder was recorded.",
+   "value": 17.1
+  },
+  {
+   "label": "Diagnosed bipolar disorder",
+   "about": "A current diagnosis of bipolar disorder was recorded.",
+   "value": 9.2
+  },
+  {
+   "label": "Diagnosed schizophrenia",
+   "about": "A current diagnosis of schizophrenia was recorded.",
+   "value": 3.1
+  },
+  {
+   "label": "Diagnosed ADHD",
+   "about": "A current diagnosis of attention-deficit/hyperactivity disorder was recorded.",
+   "value": 2.3
+  },
+  {
+   "label": "Ever treated for mental health or substance use",
+   "about": "Any record of treatment at any time: counselling, medication or a programme.",
+   "value": 41.6
+  },
+  {
+   "label": "In treatment at the time",
+   "about": "The person was receiving mental health or substance use treatment when they died.",
+   "value": 28.3
+  },
+  {
+   "label": "Antidepressant found at death",
+   "about": "An antidepressant was found in the toxicology tests after death. It shows the drug was taken, not why or whether it was prescribed to that person.",
+   "value": 13.2
+  },
+  {
+   "label": "Amphetamine found at death (prescribed or not)",
+   "about": "An amphetamine was found in toxicology. The test does not separate a prescribed ADHD medicine from illicit methamphetamine.",
+   "value": 12.7
+  }
+ ],
+ "place": "Colorado residents, 2018–2022 (6,220 suicides with known circumstances)",
+ "source": {
+  "publisher": "Colorado Department of Public Health and Environment",
+  "title": "HealthWatch No. 128: Suicide in Colorado, 2018–2022 (Colorado Violent Death Reporting System)",
+  "url": "https://cdphe.colorado.gov/center-for-health-and-environmental-data/registries-and-vital-statistics/colorado-violent-death-reporting-system"
+ },
+ "elsewhere": [
+  {
+   "text": "26% of people who died by suicide in the UK, 2013–2023, had been in contact with mental health services in the year before.",
+   "publisher": "National Confidential Inquiry into Suicide and Safety in Mental Health, Annual Report 2026",
+   "url": "https://sites.manchester.ac.uk/ncish/reports/annual-report-2026/"
+  },
+  {
+   "text": "Studies of people later diagnosed with a first psychosis find attention and memory problems often present years before.",
+   "publisher": "Cohort research, e.g. Brewer et al., American Journal of Psychiatry, 2005",
+   "url": "https://psychiatryonline.org/doi/10.1176/appi.ajp.162.1.71"
+  },
+  {
+   "text": "A 2024 hospital case-control study linked high-dose prescription amphetamine to 5.3 times the odds of a first psychosis or mania. It does not prove cause.",
+   "publisher": "Moran et al., American Journal of Psychiatry, 2024",
+   "url": "https://psychiatryonline.org/doi/10.1176/appi.ajp.20230329"
+  }
+ ],
+ "caveats": [
+  "Circumstances are what investigators recorded from death certificates, coroner and police reports; categories overlap.",
+  "These describe what is written down, not a path any one person takes."
+ ],
+ "entered_from": "the report's Tables 4, 5 and 6, read 20 November 2026",
+ "accessed": "2026-11-20",
+ "revisions": []
+}

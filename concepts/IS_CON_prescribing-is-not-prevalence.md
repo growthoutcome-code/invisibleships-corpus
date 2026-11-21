@@ -11,7 +11,7 @@ topics: [health-effects]
 verification: verified
 series: [public-health-numbers, how-to-read-this-archive]
 generated_by: scripts/export_concepts_md.mjs
-word_count: 556
+word_count: 569
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -25,7 +25,7 @@ disclaimer: meta/IS_META_terms.md
 **Theme: The record and its limits.**  
 **Written for: Clinicians.**
 
-**Series: Public health: what the numbers show, part 4 of 5.** 1. [The world's suicide rate fell. The United States' rose.](IS_CON_us-rose-against-the-trend.md) · 2. [The fentanyl reversal](IS_CON_the-fentanyl-reversal.md) · 3. [The numbers under the numbers](IS_CON_low-number-may-mean-low-counting.md) · 4. Prescribing is not a measure of illness (this concept) · 5. [Are children harmed by wireless exposure?](IS_CON_children-wearables-and-rf.md)
+**Series: Public health: what the numbers show, part 4 of 6.** 1. [The world's suicide rate fell. The United States' rose.](IS_CON_us-rose-against-the-trend.md) · 2. [The fentanyl reversal](IS_CON_the-fentanyl-reversal.md) · 3. [The numbers under the numbers](IS_CON_low-number-may-mean-low-counting.md) · 4. Prescribing is not a measure of illness (this concept) · 5. [Are children harmed by wireless exposure?](IS_CON_children-wearables-and-rf.md) · 6. [What is happening to our health? What the data says](IS_CON_what-is-happening-to-our-health.md)
 
 **Series: How to read this archive, part 6 of 8.** 1. [Next to each other is not because of each other](IS_CON_co-occurrence-is-not-cause.md) · 2. [We cannot prove which came first, the law or the system](IS_CON_sequence-cannot-be-proven.md) · 3. [“Official” is not the same as “independent”](IS_CON_official-is-not-independent.md) · 4. [The headline spending figure is not what governments spent](IS_CON_headline-spending-is-not-spending.md) · 5. [The numbers under the numbers](IS_CON_low-number-may-mean-low-counting.md) · 6. Prescribing is not a measure of illness (this concept) · 7. [Why isn't any of this in the news?](IS_CON_why-isnt-this-in-the-news.md) · 8. [There is no column for you](IS_CON_no-column-for-you.md)
 

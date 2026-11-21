@@ -5,7 +5,7 @@ collection: bundles
 doc_type: bundle
 files: 105
 approx_tokens: 278,628
-contains: [journal/part-04, journal/discovery-notes]
+contains: [journal/part-04, journal/discovery-notes, journal/administrative-notes]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -13,7 +13,7 @@ disclaimer: meta/IS_META_terms.md
 
 # Invisible Ships — Journal Part 04 (9 Nov 2025 – 2026) and Discovery Notes
 
-Entries and recordings, then the unofficial Discovery Notes.
+Entries and recordings, then the unofficial Discovery Notes, then administrative notes written for the site (decision 0054).
 
 This file joins 105 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
 

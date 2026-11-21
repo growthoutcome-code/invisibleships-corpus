@@ -1,0 +1,93 @@
+{
+ "chart_id": "prescriptions_us",
+ "title": "Americans on several prescriptions at once",
+ "unit": "Percent of people who used prescription medicines in the past 30 days, age-adjusted",
+ "axis": "percent",
+ "x": [
+  "1988-1994",
+  "2001-2004",
+  "2005-2008",
+  "2009-2012",
+  "2013-2016",
+  "2017-3/2020",
+  "8/2021-8/2023"
+ ],
+ "context": "A quarter of Americans now take three or more prescription medicines at once, double the share in the early 1990s.",
+ "ask": "Are more people ill, or are more conditions now treated with medicine?",
+ "series": [
+  {
+   "id": "One or more",
+   "label": "One or more",
+   "role": "context",
+   "values": [
+    39.1,
+    46.7,
+    47.2,
+    47.3,
+    45.8,
+    46.8,
+    49.9
+   ],
+   "about": "Americans of all ages who took at least one prescription medicine in the 30 days before the survey's health check."
+  },
+  {
+   "id": "Three or more",
+   "label": "Three or more",
+   "role": "focus",
+   "values": [
+    11.8,
+    20.2,
+    20.8,
+    20.6,
+    21.8,
+    21.8,
+    24.8
+   ],
+   "about": "Americans who took three or more prescription medicines in the past 30 days: a common measure of how many medicines people combine."
+  },
+  {
+   "id": "Five or more",
+   "label": "Five or more",
+   "role": "context",
+   "values": [
+    4.0,
+    9.2,
+    10.2,
+    10.1,
+    11.2,
+    11.7,
+    12.6
+   ],
+   "about": "Americans who took five or more prescription medicines in the past 30 days, often called polypharmacy, which raises the risk of interactions."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "11.8% → 24.8%",
+   "text": "on three or more prescriptions, 1988-1994 to 8/2021-8/2023."
+  },
+  {
+   "value": "4.0% → 12.6%",
+   "text": "on five or more."
+  },
+  {
+   "value": "49.9%",
+   "text": "on at least one, 8/2021-8/2023."
+  }
+ ],
+ "caption": "United States, all ages, from the national health and nutrition survey's medicine check. Survey periods run several years each.",
+ "sources": [
+  {
+   "publisher": "CDC / National Center for Health Statistics",
+   "title": "Prescription medication use in the past 30 days (NHANES)",
+   "url": "https://data.cdc.gov/d/kusj-ex57",
+   "released": "2026-08"
+  }
+ ],
+ "caveats": [
+  "Survey estimates with confidence intervals; 1995–2000 periods are not shown where CDC publishes none."
+ ],
+ "accessed": "2026-11-20",
+ "revisions": [],
+ "tier": "A"
+}
