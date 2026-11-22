@@ -3,8 +3,8 @@ id: IS-BUNDLE-09-NEWS
 title: "News"
 collection: bundles
 doc_type: bundle
-files: 780
-approx_tokens: 438,215
+files: 827
+approx_tokens: 463,316
 contains: [news]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -15,7 +15,7 @@ disclaimer: meta/IS_META_terms.md
 
 Official releases and outside reporting, one item per section, each summarised and linked.
 
-This file joins 780 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
+This file joins 827 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 
@@ -203,6 +203,7 @@ This file joins 780 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2024-05-06-dept-of-education-begins-market-research-for-cloud-fsa-next.md` — Dept of Education begins market research for cloud (FSA Next Gen Cloud on AWS)
 - `news/IS_NEWS_2024-05-07-microsoft-deploys-air-gapped-ai-for-classified-customers.md` — Microsoft deploys air-gapped AI for classified customers
 - `news/IS_NEWS_2024-05-10-microsoft-launches-mexican-cloud-region.md` — Microsoft launches Mexican cloud region
+- `news/IS_NEWS_2024-06-01-analysis-ai-will-take-what-it-can-and-people-will-get-used-to-it-so-lawmakers-need-duties-design-rules-defaults.md` — AI developers will take what they can and people will get used to it, so lawmakers need duties, design rules, defaults and limits on collection
 - `news/IS_NEWS_2024-07-03-analysis-scraping-personal-data-to-train-ai-clashes-with-core-privacy-principles-and-being-public-is-no.md` — Scraping personal data to train AI clashes with core privacy principles, and being public is no excuse
 - `news/IS_NEWS_2024-07-04-australian-government-signs-aws-to-deliver-2bn-top-secret.md` — Australian government signs AWS to deliver $2bn top-secret cloud
 - `news/IS_NEWS_2024-07-07-analysis-ai-as-a-rebrand-of-older-technology-and-the-risk-of-treating-it-as-an-exception-to-existing.md` — AI as a rebrand of older technology, and the risk of treating it as an exception to existing privacy law
@@ -561,6 +562,7 @@ This file joins 780 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-10-17-us-state-department-awards-paravision-up-to-6-5m-for-digital-identity-assurance.md` — US State Department awards Paravision up to $6.5M for digital identity assurance
 - `news/IS_NEWS_2026-10-18-protests-against-data-centers-have-also-arrived-in-italy.md` — Protests against data centers have also arrived in Italy
 - `news/IS_NEWS_2026-10-19-analysis-ai-and-privacy-what-models-keep-what-they-infer-what-gets-retained-and-three-options-for-the-law.md` — AI and privacy: what models keep, what they infer, what gets retained, and three options for the law
+- `news/IS_NEWS_2026-10-19-fbi-isis-inspired-man-sentenced-for-attacking-prison-guards.md` — FBI release: ISIS-Inspired Terrorist Sentenced for Attacking Guards While Serving Sentence for Separate NYC Terror Plot
 - `news/IS_NEWS_2026-10-19-lilly-partners-with-hong-kongs-metis-in-deal-to-bolster-ai-nanoparticle-discovery.md` — Lilly partners with Hong Kong's Metis in $1.1B deal to bolster AI nanoparticle discovery
 - `news/IS_NEWS_2026-10-19-paradromics-and-siemens-healthineers-launch-imaging-initiative-for-bcis.md` — Paradromics and Siemens Healthineers Launch Strategic Initiative to Build Advanced Imaging Foundation for the Future of Brain-Computer Interfaces
 - `news/IS_NEWS_2026-10-19-serbian-rectors-phone-was-infected-with-spyware-during-student-protests.md` — Serbian rector's phone was infected with spyware during student protests, group says
@@ -595,22 +597,40 @@ This file joins 780 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-10-23-attorney-general-sues-openai-and-ceo-for-lying-to-users-and-harming-texans.md` — Attorney General Sues OpenAI and CEO for Lying to Users and Harming Texans
 - `news/IS_NEWS_2026-10-23-austria-expels-4-russian-diplomats-linked-to-espionage.md` — Austria expels 4 Russian diplomats linked to espionage, official says
 - `news/IS_NEWS_2026-10-23-coherence-neuro-raises-45m-for-implantable-cancer-technology.md` — Coherence Neuro raises $45M for implantable cancer technology
+- `news/IS_NEWS_2026-10-23-dhs-secretary-visits-coast-guard-facilities-in-north-carolina.md` — DHS release: Secretary [name] Visits U.S. Coast Guard Facilities in North Carolina
 - `news/IS_NEWS_2026-10-23-uk-home-office-publishes-lfr-privacy-assessment-for-immigration-enforcement.md` — UK Home Office publishes LFR privacy assessment for immigration enforcement
 - `news/IS_NEWS_2026-10-23-us-government-contractor-arrested-for-allegedly-leaking-national-defense-information.md` — U.S. Government Contractor Arrested for Allegedly Leaking National Defense Information
+- `news/IS_NEWS_2026-10-24-dhs-highlights-worst-illegal-aliens-arrested-in-georgia.md` — DHS release: DHS Highlights Worst Illegal Aliens Arrested in Georgia
+- `news/IS_NEWS_2026-10-24-dhs-secretary-highlights-working-with-tribal-nations-in-north-carolina.md` — DHS release: Secretary [name] Highlights Importance of Working with Tribal Nations in North Carolina
 - `news/IS_NEWS_2026-10-25-ice-expansion-deepens-dependence-on-proprietary-digital-identity-network-infrastructure.md` — ICE expansion deepens dependence on proprietary digital identity, network infrastructure
 - `news/IS_NEWS_2026-10-25-us-judge-finds-doge-access-to-federal-personnel-data-violated-privacy-law.md` — U.S. judge finds DOGE access to federal personnel data violated privacy law
 - `news/IS_NEWS_2026-10-25-us-voter-investigations-combined-identity-data-with-election-enforcement.md` — U.S. voter investigations combined identity data with election enforcement
 - `news/IS_NEWS_2026-10-26-analysis-how-much-does-ai-raise-the-risk-of-weapons-of-mass-destruction-and-who-gets-watched-to-fin.md` — How much does AI raise the risk of weapons of mass destruction, and who gets watched to find out?
 - `news/IS_NEWS_2026-10-26-cbp-plans-up-to-50m-contract-for-biometrics-ai-integration.md` — CBP plans up to $50M contract for biometrics, AI integration
+- `news/IS_NEWS_2026-10-26-dhs-highlights-worst-illegal-aliens-arrested-in-michigan.md` — DHS release: DHS Highlights Worst Illegal Aliens Arrested in Michigan
+- `news/IS_NEWS_2026-10-26-dhs-ice-hsi-arrests-five-non-citizens-charged-with-illegally-voting-in-florida.md` — DHS release: ICE HSI Arrests Five Non-Citizens Charged with Illegally Voting in Florida
 - `news/IS_NEWS_2026-10-26-doj-appeals-ruling-lifting-ban-on-anthropic-use-for-us-agencies.md` — DOJ Appeals Ruling Lifting Ban on Anthropic Use for US Agencies
 - `news/IS_NEWS_2026-10-26-paradromics-receives-fda-approval-to-expand-connexus-bci-study-recruitment.md` — Paradromics Receives FDA Approval to Expand Connexus® Brain-Computer Interface Clinical Study Recruitment Nationwide
 - `news/IS_NEWS_2026-10-26-serbian-autocrat-loses-election-following-reports-of-digital-repression.md` — Serbian autocrat loses election following widespread reports of digital repression
+- `news/IS_NEWS_2026-10-27-dhs-highlights-deportations-to-third-countries.md` — DHS release: DHS Highlights Most Barbaric Illegal Aliens Deported to Third Countries Because Their Home Countries Wouldn’t Take Them Back
+- `news/IS_NEWS_2026-10-27-dhs-highlights-worst-arrests-of-people-in-ice-custody.md` — DHS release: DHS Highlights Worst Arrests of Illegal Aliens, Including Murderers, Child Abusers, Robbers, and Gang Members in ICE Custody
+- `news/IS_NEWS_2026-10-27-dhs-secretary-meets-coast-guard-helicopter-interdiction-tactical-squadron.md` — DHS release: Secretary [name] Meets with Coast Guard’s Elite Helicopter Interdiction Tactical Squadron
+- `news/IS_NEWS_2026-10-27-dhs-worst-of-the-worst-ice-arrests-murderers-pedophiles-and-sexual-predators.md` — DHS release: WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Sexual Predators
+- `news/IS_NEWS_2026-10-27-fbi-national-security-division-first-near-miss-non-prosecution-agreement.md` — FBI release: National Security Division Announces First “Near Miss” Non-Prosecution Agreement Under the Department-wide Corporate Enforcement Policy
 - `news/IS_NEWS_2026-10-28-analysis-a-recorded-conversation-on-mice-with-a-mostly-human-derived-cortex-what-the-model-allows-and-the-ethical-quest.md` — A recorded conversation on mice with a mostly human-derived cortex, what the model allows and the ethical questions
 - `news/IS_NEWS_2026-10-28-analysis-a-video-interview-on-the-economics-of-privacy-and-the-gap-between-privacy-concerns-and-behaviour.md` — A video interview on the economics of privacy and the gap between privacy concerns and behaviour
+- `news/IS_NEWS_2026-10-28-dhs-blocks-chinese-genomics-companies-linked-to-forced-labor.md` — DHS release: Under President [name], DHS Blocks Chinese Genomics Companies Linked to Forced Labor
+- `news/IS_NEWS_2026-10-28-dhs-highlights-worst-illegal-aliens-arrested-in-ohio.md` — DHS release: DHS Highlights Worst Illegal Aliens Arrested in Ohio
+- `news/IS_NEWS_2026-10-28-dhs-highlights-worst-illegal-aliens-arrested-in-texas.md` — DHS release: DHS Highlights Worst Illegal Aliens Arrested in Texas
+- `news/IS_NEWS_2026-10-28-dhs-ice-arrests-in-nationwide-voter-fraud-crackdown.md` — DHS release: Dozens of Illegal Aliens Arrested In Nationwide Voter Fraud Crackdown
+- `news/IS_NEWS_2026-10-28-dhs-sanctuary-insanity-new-york-release-after-assault-on-police-officer-arrest.md` — DHS release: SANCTUARY INSANITY: DHS Slams New York Sanctuary Politicians for Releasing Illegal Alien from Jail After Assaulting a Police Officer
+- `news/IS_NEWS_2026-10-28-dhs-worst-of-the-worst-ice-arrests-murderers-pedophiles-and-violent-assailants.md` — DHS release: WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Violent Assailants
 - `news/IS_NEWS_2026-10-29-analysis-private-tiger-ownership-is-more-tightly-regulated-than-ai-an-analogy-argues.md` — Private tiger ownership is more tightly regulated than AI, an analogy argues
+- `news/IS_NEWS_2026-10-29-dhs-uscis-reports-2-2-million-enforcement-actions.md` — DHS release: Under President [name]’s Leadership, USCIS Takes Unprecedented 2.2 Million Enforcement Actions Protecting Americans Across the Nation
 - `news/IS_NEWS_2026-10-29-fbi-man-pleads-guilty-to-federal-hate-crimes-in-boulder-attack.md` — FBI release: Man Pleads Guilty to Federal Hate Crimes in Deadly Attack on Boulder, Colorado, Gathering
 - `news/IS_NEWS_2026-10-29-report-says-us-intelligence-linked-a-suspected-chinese-intelligence-source-to-a-us-chipmakers-chief-executive.md` — Report says U.S. intelligence linked a suspected Chinese intelligence source to a U.S. chipmaker's chief executive; company and China deny
 - `news/IS_NEWS_2026-10-30-analysis-how-organisations-govern-ai-in-practice-from-shared-responsibility-to-vendors-and-boards.md` — How organisations govern AI in practice, from shared responsibility to vendors and boards
+- `news/IS_NEWS_2026-10-30-dhs-ice-detainer-for-man-charged-with-attempted-murder-and-kidnapping-in-baltimore.md` — DHS release: ICE Lodges Detainer for Illegal Alien Charged with Attempted Murder and Kidnapping After Stabbing Teenage Girl
 - `news/IS_NEWS_2026-10-30-dhs-wanted-man-released-by-maryland-county-despite-ice-detainer.md` — DHS release: WANTED CRIMINAL RELEASED BY SANCTUARY POLITICIANS: MS-13 Gang Member with Prior Arrests for Attempted Murder and Sexually Assaulting a Minor Released from Jail by Maryland Sanctuary Politicians
 - `news/IS_NEWS_2026-10-30-dhs-worst-of-the-worst-ice-arrests-murderers-rapists-and-pedophiles.md` — DHS release: WORST OF THE WORST: ICE Arrests Murderers, Rapists, and Pedophiles
 - `news/IS_NEWS_2026-11-02-analysis-a-conversation-with-a-former-in-house-ai-ethics-lead-on-doing-ethics-work-inside-ai-companies.md` — A conversation with a former in-house AI ethics lead on doing ethics work inside AI companies
@@ -745,6 +765,7 @@ This file joins 780 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-11-16-russian-state-newspaper-reports-a-kamchatka-court-sentenced-a-local-man-to-14-years-for-treason-over-alleged.md` — Russian state newspaper reports a Kamchatka court sentenced a local man to 14 years for treason over alleged help to Ukrainian intelligence
 - `news/IS_NEWS_2026-11-16-russias-security-service-says-a-young-woman-detained-over-a-moscow-car-bombing-was-steered-by-phone-scammers-i.md` — Russia's security service says a young woman detained over a Moscow car bombing was steered by phone scammers it calls Ukrainian handlers
 - `news/IS_NEWS_2026-11-16-ukrainian-court-sentences-a-man-to-15-years-for-treason-after-the-security-service-said-he-set-up-explosive-ca.md` — Ukrainian court sentences a man to 15 years for treason after the security service said he set up explosive caches in Zaporizhzhia for Russian intelligence
+- `news/IS_NEWS_2026-11-17-analysis-addiction-is-better-understood-as-a-response-to-distress-than-as-a-brain-disease.md` — Addiction is better understood as a response to distress than as a brain disease
 - `news/IS_NEWS_2026-11-17-analysis-machines-that-could-suffer-are-a-reason-not-to-try-to-make-ai-conscious.md` — Machines that could suffer are a reason not to try to make AI conscious
 - `news/IS_NEWS_2026-11-17-canadas-house-of-commons-advances-a-bill-to-allow-advance-requests-for-assisted-dying-and-keep-mental-illness.md` — Canada's House of Commons advances a bill to allow advance requests for assisted dying and keep mental illness alone excluded
 - `news/IS_NEWS_2026-11-17-chiles-congress-gives-final-approval-to-delaying-its-new-personal-data-law-and-data-protection-agency-to-octob.md` — Chile's Congress gives final approval to delaying its new personal-data law and data-protection agency to October 2027
@@ -769,6 +790,7 @@ This file joins 780 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-11-17-un-crime-agency-and-interpol-report-warns-that-coercive-neural-lie-detection-and-neurotechnology-in-interrogat.md` — UN crime agency and INTERPOL report warns that coercive neural lie detection and neurotechnology in interrogation raise serious human rights concerns
 - `news/IS_NEWS_2026-11-17-us-commerce-and-justice-departments-say-a-singapore-company-has-been-under-investigation-since-2024-for-possi.md` — US Commerce and Justice departments say a Singapore company has been under investigation since 2024 for possible diversion of advanced AI chips
 - `news/IS_NEWS_2026-11-17-us-court-sentences-a-man-recruited-by-irans-revolutionary-guards-to-more-than-27-years-over-a-plot-to-hire-ki.md` — US court sentences a man recruited by Iran's Revolutionary Guards to more than 27 years over a plot to hire killers to assassinate US officials
+- `news/IS_NEWS_2026-11-17-us-house-intelligence-committee-votes-to-release-an-unclassified-interim-report-on-how-intelligence-agencies-h.md` — US House Intelligence Committee votes to release an unclassified interim report on how intelligence agencies handled anomalous health incidents
 - `news/IS_NEWS_2026-11-17-us-requires-export-licences-for-advanced-ai-chips-going-to-five-countries-to-stop-remote-access-by-chinese-dev.md` — US requires export licences for advanced AI chips going to five countries, to stop remote access by Chinese developers through overseas data centres
 - `news/IS_NEWS_2026-11-18-burkina-faso-opens-terrorism-cases-against-at-least-45-exiled-critics-and-seeks-their-arrest-abroad-a-rights-g.md` — Burkina Faso opens terrorism cases against at least 45 exiled critics and seeks their arrest abroad, a rights group reports
 - `news/IS_NEWS_2026-11-18-dhs-ccht-chronicle-november-2026.md` — DHS release: CCHT Chronicle: November 2026
@@ -777,10 +799,13 @@ This file joins 780 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-11-18-dhs-sanctuary-insanity-minneapolis-release-after-domestic-assault-arrest.md` — DHS release: SANCTUARY INSANITY: DHS Condemns Sanctuary Politicians in Minneapolis for Releasing Illegal Alien Arrested for Domestic Assault
 - `news/IS_NEWS_2026-11-18-dhs-worst-of-the-worst-ice-arrests-murderers-sexual-predators-and-violent-assailants.md` — DHS release: WORST OF THE WORST: ICE Arrests Murderers, Sexual Predators, and Violent Assailants
 - `news/IS_NEWS_2026-11-18-fbi-fly-with-the-fbis-tactical-helicopter-unit.md` — FBI release: Fly with the FBI’s Tactical Helicopter Unit
+- `news/IS_NEWS_2026-11-18-germanys-parliament-passes-an-intelligence-reform-obliging-carmakers-and-transport-firms-to-hand-vehicle-data.md` — Germany's parliament passes an intelligence reform obliging carmakers and transport firms to hand vehicle data to the intelligence services
 - `news/IS_NEWS_2026-11-18-police-in-south-west-england-postpone-their-first-live-facial-recognition-deployment-in-bath-after-objections.md` — Police in south-west England postpone their first live facial-recognition deployment, in Bath, after objections from elected representatives
 - `news/IS_NEWS_2026-11-18-russias-security-service-tells-a-court-that-a-restricted-government-decree-is-the-basis-for-regional-mobile-in.md` — Russia's security service tells a court that a restricted government decree is the basis for regional mobile internet shutdowns
 - `news/IS_NEWS_2026-11-18-spains-health-ministry-reports-574-assisted-deaths-in-2025-and-382-applicants-who-died-while-their-request-was.md` — Spain's health ministry reports 574 assisted deaths in 2025 and 382 applicants who died while their request was being processed
 - `news/IS_NEWS_2026-11-18-uk-home-office-publishes-its-live-facial-recognition-policy-for-immigration-enforcement-and-lists-city-centre.md` — UK Home Office publishes its live facial-recognition policy for immigration enforcement and lists city-centre deployments in Manchester
+- `news/IS_NEWS_2026-11-18-us-audit-office-covertly-tests-four-widely-used-ai-chatbots-and-obtains-workable-attack-plans-from-all-of-them.md` — US audit office covertly tests four widely used AI chatbots and obtains workable attack plans from all of them
+- `news/IS_NEWS_2026-11-18-us-health-statistics-agency-moves-provisional-death-rates-to-a-new-dashboard-showing-the-12-month-suicide-rate.md` — US health statistics agency moves provisional death rates to a new dashboard, showing the 12-month suicide rate at 13.2 per 100,000 to July 2026
 - `news/IS_NEWS_2026-11-18-us-indicts-a-russian-national-accused-of-acting-as-russias-agent-by-surveilling-and-stalking-employees-of-a-si.md` — US indicts a Russian national accused of acting as Russia's agent by surveilling and stalking employees of a Silicon Valley defence-technology company
 - `news/IS_NEWS_2026-11-18-us-intelligence-fbi-and-homeland-security-officials-tell-congress-the-recent-run-of-outages-showed-no-sign-of.md` — US intelligence, FBI and homeland security officials tell Congress the recent run of outages showed no sign of a cyberattack
 - `news/IS_NEWS_2026-11-18-us-woman-sues-a-technology-company-alleging-its-tracking-tags-let-a-former-partner-secretly-follow-her-for-ye.md` — US woman sues a technology company alleging its tracking tags let a former partner secretly follow her for years
@@ -794,11 +819,33 @@ This file joins 780 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-11-19-serbian-security-agency-wiretapped-a-news-magazines-newsroom-for-four-months-under-court-orders-citing-espion.md` — Serbian security agency wiretapped a news magazine's newsroom for four months under court orders citing espionage, then told the court it had found no espionage
 - `news/IS_NEWS_2026-11-19-taiwans-justice-ministry-adds-a-transnational-repression-offence-to-its-draft-anti-infiltration-act-amendment.md` — Taiwan's justice ministry adds a transnational-repression offence to its draft Anti-Infiltration Act amendment and sends it to the cabinet
 - `news/IS_NEWS_2026-11-19-texas-county-pulls-a-proposed-no-bid-contract-for-a-facial-recognition-tool-built-on-scraped-online-images-fr.md` — Texas county pulls a proposed no-bid contract for a facial-recognition tool built on scraped online images from its commissioners' agenda
+- `news/IS_NEWS_2026-11-19-uk-surveillance-tribunal-rules-the-government-must-confirm-it-served-a-secret-encryption-access-notice-on-a-te.md` — UK surveillance tribunal rules the government must confirm it served a secret encryption-access notice on a technology company
+- `news/IS_NEWS_2026-11-19-us-immigration-agency-pays-a-major-telecom-carrier-for-access-to-its-raw-call-data-and-analysts-an-internal-do.md` — US immigration agency pays a major telecom carrier for access to its raw call data and analysts, an internal document shows
 - `news/IS_NEWS_2026-11-19-white-house-icymi-interview-from-shenzhen-on-china-iran-and-super-intelligence.md` — White House release: ICYMI: President [name] Talks China, Iran, Super Intelligence, and the Path Ahead in Exclusive Interview from Shenzhen
 - `news/IS_NEWS_2026-11-19-white-house-national-rural-health-day-rural-health-investment.md` — White House release: NATIONAL RURAL HEALTH DAY: President [name] Delivers Largest Rural Health Investment in History
+- `news/IS_NEWS_2026-11-19-white-house-presidential-message-on-national-rural-health-day.md` — White House release: Presidential Message on National Rural Health Day
 - `news/IS_NEWS_2026-11-19-white-house-us-russia-china-heads-of-state-declaration-toward-peace.md` — White House release: U.S.-Russia-China Heads of State Declaration toward Peace
+- `news/IS_NEWS_2026-11-20-brain-implant-trial-participants-call-for-ownership-of-their-neural-data-post-trial-care-and-fairer-consent.md` — Brain-implant trial participants call for ownership of their neural data, post-trial care and fairer consent
+- `news/IS_NEWS_2026-11-20-denmark-expels-russias-defence-attache-after-a-failed-assassination-attempt-its-security-service-links-to-a-ban.md` — Denmark expels Russia's defence attaché after a failed assassination attempt its security service links to a banned gang
+- `news/IS_NEWS_2026-11-20-dhs-50-year-sentence-in-nebraska-child-exploitation-case.md` — DHS release: ICE HSI, Nebraska State Patrol Secure 50-Year Sentence for Child Exploitation Offender
+- `news/IS_NEWS_2026-11-20-dhs-sanctuary-insanity-minnesota-release-after-sexual-assault-arrest.md` — DHS release: SANCTUARY INSANITY: DHS Slams Minnesota Sanctuary Politicians for Releasing Illegal Alien Sex Offender from Jail
+- `news/IS_NEWS_2026-11-20-dhs-worst-of-the-worst-ice-arrests-child-sex-offenders-violent-assailants-and-drug-traffickers.md` — DHS release: WORST OF THE WORST: ICE Protects American Families by Arresting Child Sex Offenders, Violent Assailants, and Drug Traffickers
+- `news/IS_NEWS_2026-11-20-fbi-addition-to-the-ten-most-wanted-fugitives-list.md` — FBI release: [name] Added to FBI’s Ten Most Wanted Fugitives List
 - `news/IS_NEWS_2026-11-20-irans-revolutionary-guards-spokesman-names-a-london-based-persian-language-broadcaster-among-the-guards-milit.md` — Iran's Revolutionary Guards spokesman names a London-based Persian-language broadcaster among the Guards' military targets, the broadcaster reports
 - `news/IS_NEWS_2026-11-20-london-police-begin-a-six-month-pilot-letting-100-officers-photograph-people-on-phones-and-match-them-against.md` — London police begin a six-month pilot letting 100 officers photograph people on phones and match them against about a million custody images
+- `news/IS_NEWS_2026-11-20-new-york-citys-police-inspector-general-finds-facial-recognition-policy-breaches-and-disclosure-gaps-across-ab.md` — New York City's police inspector general finds facial-recognition policy breaches and disclosure gaps across about 26,000 searches
+- `news/IS_NEWS_2026-11-20-us-court-sentences-a-man-to-more-than-19-years-for-a-murder-for-hire-plot-against-a-us-activist-that-prosecuto.md` — US court sentences a man to more than 19 years for a murder-for-hire plot against a US activist that prosecutors say an Indian government employee directed
+- `news/IS_NEWS_2026-11-20-white-house-at-press-briefing-president-touts-wins-signals-healthcare-deal-making.md` — White House release: At Press Briefing, President [name] Touts Historic Wins for Americans, Signals Deal-Making on Healthcare
+- `news/IS_NEWS_2026-11-20-white-house-executive-order-on-executive-privilege-in-federal-contracting.md` — White House release: PROTECTING THE EXECUTIVE’S PRIVILEGES AND ENHANCING EFFICIENCIES IN FEDERAL CONTRACTING
+- `news/IS_NEWS_2026-11-20-white-house-fact-sheet-asia-trip-economic-growth-and-security.md` — White House release: President [name] Brings Home Billions in Economic Growth and Strengthens America’s Security
+- `news/IS_NEWS_2026-11-20-white-house-fact-sheet-executive-privilege-in-federal-contracting.md` — White House release: Fact Sheet: President [name] Protects the Executive’s Privileges and Enhances Efficiencies in Federal Contracting
+- `news/IS_NEWS_2026-11-20-white-house-hr-10167-common-cents-act.md` — White House release: H.R. 10167 – Common Cents Act
+- `news/IS_NEWS_2026-11-20-white-house-national-adoption-month-2026.md` — White House release: NATIONAL ADOPTION MONTH, 2026
+- `news/IS_NEWS_2026-11-20-white-house-pentagon-cyber-chief-named-national-cyber-director.md` — White House release: President [name] Taps Pentagon Cyber Chief [name] as National Cyber Director
+- `news/IS_NEWS_2026-11-20-white-house-three-congressional-bills-signed-into-law.md` — White House release: Congressional Bills H.R. 5284, H.R. 8352, and H.R. 10159 Signed into Law
+- `news/IS_NEWS_2026-11-20-white-house-what-they-are-saying-american-affordability-and-jobs-act.md` — White House release: WHAT THEY ARE SAYING: Send the Bipartisan American Affordability and Jobs Act to President [name]’s Desk
+- `news/IS_NEWS_2026-11-21-irans-judiciary-warns-citizens-abroad-that-critical-posts-online-could-lead-to-frozen-assets-and-arrest-on-ret.md` — Iran's judiciary warns citizens abroad that critical posts online could lead to frozen assets and arrest on return, an exile broadcaster reports
+- `news/IS_NEWS_2026-11-21-taiwan-prosecutors-indict-a-local-election-candidate-and-four-others-under-the-anti-infiltration-act-over-alle.md` — Taiwan prosecutors indict a local-election candidate and four others under the Anti-Infiltration Act over alleged Chinese funding and fake-account support
 - `news/IS_NEWS_undated-anomalous-health-incidents.md` — Anomalous health incidents
 - `news/IS_NEWS_undated-critical-information-infrastructure-of-russia-fstec-fsb.md` — Critical Information Infrastructure of Russia (FSTEC/FSB)
 
@@ -817,26 +864,26 @@ convicted or was sentenced. See `meta/IS_META_terms.md`.*
 
 ## What is here
 
-- 779 items, 2011-09-28 to 2026-11-20: 256 official, 181 analysis, 165 trade press, 155 news, 22 research.
-- 779 of 779 carry a summary so far; the rest say so.
+- 826 items, 2011-09-28 to 2026-11-21: 293 official, 183 analysis, 166 trade press, 162 news, 22 research.
+- 826 of 826 carry a summary so far; the rest say so.
 - `index.json` holds every item's header in one file, for counting and filtering.
 
 ## By kind of event
 
 | Kind of event | Items |
 |---|---|
-| Regulation & law | 173 |
-| Contracts & deployments | 132 |
-| Courts & litigation | 93 |
-| Espionage & foreign agents | 87 |
-| Research & breakthroughs | 76 |
-| Technology theft & export control | 55 |
-|  | 40 |
-| Reports & statistics | 29 |
-| Transnational repression | 25 |
-| Public health | 19 |
-| Murder for hire & violent plots | 19 |
-| Global conflict | 11 |
+| Regulation & law | 182 |
+| Contracts & deployments | 133 |
+| Courts & litigation | 96 |
+| Espionage & foreign agents | 88 |
+| Research & breakthroughs | 77 |
+|  | 61 |
+| Technology theft & export control | 56 |
+| Reports & statistics | 32 |
+| Transnational repression | 26 |
+| Public health | 22 |
+| Murder for hire & violent plots | 21 |
+| Global conflict | 12 |
 | Protests | 11 |
 | Outages & disruptions | 9 |
 
@@ -7182,6 +7229,43 @@ disclaimer: meta/IS_META_terms.md
 Microsoft has launched its first cloud region in Mexico, Azure Mexico Central, in the Querétaro metropolitan area, DatacenterDynamics reported on 10 May 2024. The region is part of a $1.1 billion investment announced in 2020 and offers Azure, Microsoft 365, Dynamics 365 and Power Platform services locally.
 
 DatacenterDynamics notes that AWS and Google had also announced regions near Querétaro, and that Huawei and Oracle already operate in Mexico.
+
+
+===== FILE: news/IS_NEWS_2024-06-01-analysis-ai-will-take-what-it-can-and-people-will-get-used-to-it-so-lawmakers-need-duties-design-rules-defaults.md · ID: IS-NEWS-2024-06-01-ANALYSIS-AI-WILL-TAKE-WHAT-IT-CAN-AND-PEOPLE-WILL-GET-USED-TO-IT-SO-LAWMAKERS-NEED-DUTIES-DESIGN-RULES-DEFAULTS =====
+
+```yaml
+id: IS-NEWS-2024-06-01-ANALYSIS-AI-WILL-TAKE-WHAT-IT-CAN-AND-PEOPLE-WILL-GET-USED-TO-IT-SO-LAWMAKERS-NEED-DUTIES-DESIGN-RULES-DEFAULTS
+slug: 2024-06-01-analysis-ai-will-take-what-it-can-and-people-will-get-used-to-it-so-lawmakers-need-duties-design-rules-defaults
+title: AI developers will take what they can and people will get used to it, so lawmakers need duties, design rules, defaults and limits on collection
+collection: news
+doc_type: analysis-item
+date: 2024-06-01
+date_precision: year
+publisher: Yale Journal of Law & Technology (Yale Information Society Project, Digital Public Sphere series)
+source_type: Analysis
+issuing_office:
+url: https://law.yale.edu/isp/publications/digital-public-sphere/artificial-intelligence-and-digital-public-sphere/two-ai
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country:
+stage:
+related:
+kind: analysis
+commentator: Woodrow Hartzog
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 21 Nov 2026; read from the essay PDF (26 Yale J.L. & Tech. 595, 2024); the essay gives the year only, so the date is the year and the day shown is a placeholder; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# AI developers will take what they can and people will get used to it, so lawmakers need duties, design rules, defaults and limits on collection
+
+*Woodrow Hartzog, Yale Journal of Law & Technology (Yale Information Society Project, Digital Public Sphere series), 2024. Original: <https://law.yale.edu/isp/publications/digital-public-sphere/artificial-intelligence-and-digital-public-sphere/two-ai>*
+
+Woodrow Hartzog, a law professor at Boston University, argues in an essay titled "Two AI Truths and a Lie" that two things are true of AI, that industry will take everything it can and that people will get used to it, while the claim that this is done for our benefit is the lie. He says that unless lawmakers address what he calls dangerous extraction, harmful normalization and adversarial self-dealing, AI systems will likely do more harm than good.
+
+He argues that transparency and consent rules will not be enough, because people can be conditioned into agreeing to harmful practices, and that regulating only the use of data ignores how collection itself confers power. He proposes four layers instead: duties of loyalty binding companies, design rules, defaults that limit collection to what is needed, and outright "data dead ends" that prohibit some collection altogether.
 
 
 ===== FILE: news/IS_NEWS_2024-07-03-analysis-scraping-personal-data-to-train-ai-clashes-with-core-privacy-principles-and-being-public-is-no.md · ID: IS-NEWS-2024-07-03-ANALYSIS-SCRAPING-PERSONAL-DATA-TO-TRAIN-AI-CLASHES-WITH-CORE-PRIVACY-PRINCIPLES-AND-BEING-PUBLIC-IS-NO =====
@@ -20159,6 +20243,42 @@ Nita Farahany reviews a 2024 opinion of European data protection regulators that
 She sets out three options: laws aimed at harmful uses of data rather than at categories of data, opt-in consent before conversations are used for training, and data intermediaries acting as fiduciaries for users. She notes each would bring trade-offs of its own.
 
 
+===== FILE: news/IS_NEWS_2026-10-19-fbi-isis-inspired-man-sentenced-for-attacking-prison-guards.md · ID: IS-NEWS-2026-10-19-FBI-ISIS-INSPIRED-MAN-SENTENCED-FOR-ATTACKING-PRISON-GUARDS =====
+
+```yaml
+id: IS-NEWS-2026-10-19-FBI-ISIS-INSPIRED-MAN-SENTENCED-FOR-ATTACKING-PRISON-GUARDS
+slug: 2026-10-19-fbi-isis-inspired-man-sentenced-for-attacking-prison-guards
+title: FBI release: ISIS-Inspired Terrorist Sentenced for Attacking Guards While Serving Sentence for Separate NYC Terror Plot
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-19
+date_precision: day
+publisher: Federal Bureau of Investigation
+source_type: Official
+issuing_office: 
+url: https://www.fbi.gov/news/press-releases/isis-inspired-terrorist-sentenced-for-attacking-guards-while-serving-sentence-for-separate-nyc-terror-plot
+archived_url: 
+industry: 
+event: Courts & litigation
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 21 Nov 2026; FBI email of 27 Oct 2026; title is the department's own, quoted; fbi.gov refused automated access (HTTP 403), so the summary rests on the FBI email's own text
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# FBI release: ISIS-Inspired Terrorist Sentenced for Attacking Guards While Serving Sentence for Separate NYC Terror Plot
+
+*Federal Bureau of Investigation, 2026-10-19. Original: <https://www.fbi.gov/news/press-releases/isis-inspired-terrorist-sentenced-for-attacking-guards-while-serving-sentence-for-separate-nyc-terror-plot>*
+
+The FBI said a 28-year-old man from Ontario, Canada, was sentenced to 50 years in prison for offences related to a 2020 attack on correctional officers. The headline describes him as ISIS-inspired and says he was already serving a sentence for a separate terror plot in New York City.
+
+The email did not give further detail, and the full release on fbi.gov could not be read for this summary.
+
+
 ===== FILE: news/IS_NEWS_2026-10-19-lilly-partners-with-hong-kongs-metis-in-deal-to-bolster-ai-nanoparticle-discovery.md · ID: IS-NEWS-2026-10-19-LILLY-PARTNERS-WITH-HONG-KONGS-METIS-IN-DEAL-TO-BOLSTER-AI-NANOPARTICLE-DISCOVERY =====
 
 ```yaml
@@ -21361,6 +21481,40 @@ MobiHealthNews reports that Coherence Neuro, a San Francisco company, has raised
 The publication says the devices are investigational and are not approved by the U.S. FDA or Australia's Therapeutic Goods Administration. It also says preclinical work in mice is continuing and has not been shown to apply to humans.
 
 
+===== FILE: news/IS_NEWS_2026-10-23-dhs-secretary-visits-coast-guard-facilities-in-north-carolina.md · ID: IS-NEWS-2026-10-23-DHS-SECRETARY-VISITS-COAST-GUARD-FACILITIES-IN-NORTH-CAROLINA =====
+
+```yaml
+id: IS-NEWS-2026-10-23-DHS-SECRETARY-VISITS-COAST-GUARD-FACILITIES-IN-NORTH-CAROLINA
+slug: 2026-10-23-dhs-secretary-visits-coast-guard-facilities-in-north-carolina
+title: DHS release: Secretary [name] Visits U.S. Coast Guard Facilities in North Carolina
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-23
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/23/secretary-mullin-visits-us-coast-guard-facilities-north-carolina
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 21 Nov 2026; title is the department's own, quoted; a personal name in the headline is replaced with [name]
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: Secretary [name] Visits U.S. Coast Guard Facilities in North Carolina
+
+*U.S. Department of Homeland Security, 2026-10-23. Original: <https://www.dhs.gov/news/2026/10/23/secretary-mullin-visits-us-coast-guard-facilities-north-carolina>*
+
+DHS said the Secretary of Homeland Security visited the Coast Guard's Aviation Logistics Center and Aviation Technical Training Center in Elizabeth City, North Carolina, on Friday 23 October 2026, watching demonstrations of the Coast Guard's aviation capabilities and touring the construction of a training site for its rescue swimmers. DHS said the logistics center is the Coast Guard's only aircraft depot maintenance and overhaul facility and employs nearly 2,000 military, civilian and contractor personnel.
+
+
 ===== FILE: news/IS_NEWS_2026-10-23-uk-home-office-publishes-lfr-privacy-assessment-for-immigration-enforcement.md · ID: IS-NEWS-2026-10-23-UK-HOME-OFFICE-PUBLISHES-LFR-PRIVACY-ASSESSMENT-FOR-IMMIGRATION-ENFORCEMENT =====
 
 ```yaml
@@ -21429,6 +21583,76 @@ disclaimer: meta/IS_META_terms.md
 The Justice Department says the FBI has arrested a government contractor who held a Top Secret/SCI clearance and has charged him by criminal complaint with unlawfully transmitting national defense information. According to the release, he first worked for a U.S. government agency and, from 2022, for a contractor providing services to the CIA. The department alleges that he obtained classified information beyond his duties and passed it to a person he had a personal relationship with, who runs an online publication on Substack.
 
 The department says the case began with a referral from the CIA and was investigated by the FBI's Chicago and Washington field offices, and that it is being prosecuted by the National Security Division and the U.S. Attorney's Office for the Eastern District of Virginia. The case is at the complaint stage: the defendant is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-24-dhs-highlights-worst-illegal-aliens-arrested-in-georgia.md · ID: IS-NEWS-2026-10-24-DHS-HIGHLIGHTS-WORST-ILLEGAL-ALIENS-ARRESTED-IN-GEORGIA =====
+
+```yaml
+id: IS-NEWS-2026-10-24-DHS-HIGHLIGHTS-WORST-ILLEGAL-ALIENS-ARRESTED-IN-GEORGIA
+slug: 2026-10-24-dhs-highlights-worst-illegal-aliens-arrested-in-georgia
+title: DHS release: DHS Highlights Worst Illegal Aliens Arrested in Georgia
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-24
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/24/dhs-highlights-worst-illegal-aliens-arrested-georgia
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 21 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: DHS Highlights Worst Illegal Aliens Arrested in Georgia
+
+*U.S. Department of Homeland Security, 2026-10-24. Original: <https://www.dhs.gov/news/2026/10/24/dhs-highlights-worst-illegal-aliens-arrested-georgia>*
+
+DHS listed five people arrested by ICE in Georgia between 13 and 18 October 2026, in Eatonton, Lawrenceville, Decatur and Mableton, two from Honduras and one each from Peru, Guatemala and Mexico. DHS said their records include convictions for aggravated assault and arrests for cruelty to children, family-violence battery, false imprisonment and drink-driving, and that one had re-entered the country after being deported in 2021.
+
+The descriptions are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-24-dhs-secretary-highlights-working-with-tribal-nations-in-north-carolina.md · ID: IS-NEWS-2026-10-24-DHS-SECRETARY-HIGHLIGHTS-WORKING-WITH-TRIBAL-NATIONS-IN-NORTH-CAROLINA =====
+
+```yaml
+id: IS-NEWS-2026-10-24-DHS-SECRETARY-HIGHLIGHTS-WORKING-WITH-TRIBAL-NATIONS-IN-NORTH-CAROLINA
+slug: 2026-10-24-dhs-secretary-highlights-working-with-tribal-nations-in-north-carolina
+title: DHS release: Secretary [name] Highlights Importance of Working with Tribal Nations in North Carolina
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-24
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/24/secretary-mullin-highlights-importance-working-tribal-nations-north-carolina
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 21 Nov 2026; title is the department's own, quoted; a personal name in the headline is replaced with [name]
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: Secretary [name] Highlights Importance of Working with Tribal Nations in North Carolina
+
+*U.S. Department of Homeland Security, 2026-10-24. Original: <https://www.dhs.gov/news/2026/10/24/secretary-mullin-highlights-importance-working-tribal-nations-north-carolina>*
+
+DHS said the Secretary of Homeland Security met leaders of the Lumbee Tribe and spoke in Lumberton, North Carolina, on Friday 23 October 2026, joined by the tribe's chairman, the Assistant Secretary for Indian Affairs and the local member of Congress. DHS quoted the Secretary on enforcing the nation's laws, including on reservations, and noted that legislation signed in December 2025 added the Lumbee Tribe to the official list of federally recognised tribes.
 
 
 ===== FILE: news/IS_NEWS_2026-10-25-ice-expansion-deepens-dependence-on-proprietary-digital-identity-network-infrastructure.md · ID: IS-NEWS-2026-10-25-ICE-EXPANSION-DEEPENS-DEPENDENCE-ON-PROPRIETARY-DIGITAL-IDENTITY-NETWORK-INFRASTRUCTURE =====
@@ -21609,6 +21833,78 @@ Biometric Update reports that U.S. Customs and Border Protection is preparing to
 The publication says the updated forecast puts the solicitation in mid-November and the award at the end of December 2026, with work running to March 2029. It notes that the forecast does not say which applications would gain biometric features, and that the statement of work expected with the solicitation may make this clearer.
 
 
+===== FILE: news/IS_NEWS_2026-10-26-dhs-highlights-worst-illegal-aliens-arrested-in-michigan.md · ID: IS-NEWS-2026-10-26-DHS-HIGHLIGHTS-WORST-ILLEGAL-ALIENS-ARRESTED-IN-MICHIGAN =====
+
+```yaml
+id: IS-NEWS-2026-10-26-DHS-HIGHLIGHTS-WORST-ILLEGAL-ALIENS-ARRESTED-IN-MICHIGAN
+slug: 2026-10-26-dhs-highlights-worst-illegal-aliens-arrested-in-michigan
+title: DHS release: DHS Highlights Worst Illegal Aliens Arrested in Michigan
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-26
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/26/dhs-highlights-worst-illegal-aliens-arrested-michigan
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 21 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: DHS Highlights Worst Illegal Aliens Arrested in Michigan
+
+*U.S. Department of Homeland Security, 2026-10-26. Original: <https://www.dhs.gov/news/2026/10/26/dhs-highlights-worst-illegal-aliens-arrested-michigan>*
+
+DHS listed five people arrested by ICE in Grand Rapids and Detroit, Michigan, between 12 and 18 October 2026, three from Venezuela and one each from the Philippines and Guatemala. DHS said their records include arrests for armed robbery, assault, weapons offences and retail fraud and, for one person, convictions for aggravated identity theft against a person aged 60 or older and domestic violence; it said several had been released into the country under the previous administration.
+
+The descriptions are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-26-dhs-ice-hsi-arrests-five-non-citizens-charged-with-illegally-voting-in-florida.md · ID: IS-NEWS-2026-10-26-DHS-ICE-HSI-ARRESTS-FIVE-NON-CITIZENS-CHARGED-WITH-ILLEGALLY-VOTING-IN-FLORIDA =====
+
+```yaml
+id: IS-NEWS-2026-10-26-DHS-ICE-HSI-ARRESTS-FIVE-NON-CITIZENS-CHARGED-WITH-ILLEGALLY-VOTING-IN-FLORIDA
+slug: 2026-10-26-dhs-ice-hsi-arrests-five-non-citizens-charged-with-illegally-voting-in-florida
+title: DHS release: ICE HSI Arrests Five Non-Citizens Charged with Illegally Voting in Florida
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-26
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/26/ice-hsi-arrests-five-non-citizens-charged-illegally-voting-florida
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 21 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: ICE HSI Arrests Five Non-Citizens Charged with Illegally Voting in Florida
+
+*U.S. Department of Homeland Security, 2026-10-26. Original: <https://www.dhs.gov/news/2026/10/26/ice-hsi-arrests-five-non-citizens-charged-illegally-voting-florida>*
+
+DHS said ICE's Homeland Security Investigations arrested five lawful permanent residents, two from Canada, two from Cuba and one from Brazil, on 21 and 22 October 2026, after the U.S. Attorney's Office for the Middle District of Florida announced charges of voting by an alien in elections between 2022 and 2024. DHS said some of them have earlier criminal records, and the release lists other recent voting cases.
+
+The characterisations are DHS's own; every person arrested or charged is presumed innocent unless proven guilty in court.
+
+
 ===== FILE: news/IS_NEWS_2026-10-26-doj-appeals-ruling-lifting-ban-on-anthropic-use-for-us-agencies.md · ID: IS-NEWS-2026-10-26-DOJ-APPEALS-RULING-LIFTING-BAN-ON-ANTHROPIC-USE-FOR-US-AGENCIES =====
 
 ```yaml
@@ -21715,6 +22011,184 @@ The Record reports that Serbia's long-serving leader conceded defeat on Sunday i
 The article cites Amnesty International as saying that authorities used phone-extraction tools during interrogations and arrests, sometimes to install spyware, and cites a Serbian digital-rights group as counting at least 15 people targeted with mercenary spyware this year. It says the Serbian Foreign Ministry did not immediately respond to a request for comment. The publication does not claim the spyware reports caused the result.
 
 
+===== FILE: news/IS_NEWS_2026-10-27-dhs-highlights-deportations-to-third-countries.md · ID: IS-NEWS-2026-10-27-DHS-HIGHLIGHTS-DEPORTATIONS-TO-THIRD-COUNTRIES =====
+
+```yaml
+id: IS-NEWS-2026-10-27-DHS-HIGHLIGHTS-DEPORTATIONS-TO-THIRD-COUNTRIES
+slug: 2026-10-27-dhs-highlights-deportations-to-third-countries
+title: DHS release: DHS Highlights Most Barbaric Illegal Aliens Deported to Third Countries Because Their Home Countries Wouldn’t Take Them Back
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-27
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/27/dhs-highlights-most-barbaric-illegal-aliens-deported-third-countries-because-their
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 21 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: DHS Highlights Most Barbaric Illegal Aliens Deported to Third Countries Because Their Home Countries Wouldn’t Take Them Back
+
+*U.S. Department of Homeland Security, 2026-10-27. Original: <https://www.dhs.gov/news/2026/10/27/dhs-highlights-most-barbaric-illegal-aliens-deported-third-countries-because-their>*
+
+DHS listed 20 people it said were deported between May and October 2025 to countries other than their own under third-country agreements, saying their home countries would not take them back. DHS said they came from countries including Mexico, Cuba, Laos, Vietnam, Jamaica, Yemen, Cape Verde, Sierra Leone, Somalia, Gambia, Italy and Cambodia, and that their records include murder, attempted murder, rape, child sexual offences, robbery and drug trafficking.
+
+The characterisations are DHS's own; the release reports no new charge.
+
+
+===== FILE: news/IS_NEWS_2026-10-27-dhs-highlights-worst-arrests-of-people-in-ice-custody.md · ID: IS-NEWS-2026-10-27-DHS-HIGHLIGHTS-WORST-ARRESTS-OF-PEOPLE-IN-ICE-CUSTODY =====
+
+```yaml
+id: IS-NEWS-2026-10-27-DHS-HIGHLIGHTS-WORST-ARRESTS-OF-PEOPLE-IN-ICE-CUSTODY
+slug: 2026-10-27-dhs-highlights-worst-arrests-of-people-in-ice-custody
+title: DHS release: DHS Highlights Worst Arrests of Illegal Aliens, Including Murderers, Child Abusers, Robbers, and Gang Members in ICE Custody
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-27
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/27/dhs-highlights-worst-arrests-illegal-aliens-including-murderers-child-abusers
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 21 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: DHS Highlights Worst Arrests of Illegal Aliens, Including Murderers, Child Abusers, Robbers, and Gang Members in ICE Custody
+
+*U.S. Department of Homeland Security, 2026-10-27. Original: <https://www.dhs.gov/news/2026/10/27/dhs-highlights-worst-arrests-illegal-aliens-including-murderers-child-abusers>*
+
+DHS listed 20 people it said are in ICE custody, arrested between 2021 and October 2026, from Vietnam, Mexico, Kenya, El Salvador, Cuba and Guatemala, most of whom it described as gang members. DHS said their records include murder, attempted murder, manslaughter, robbery, extortion, continuous sexual abuse of a child and first-degree child abuse resulting in death, mostly in California, with others in Texas and Maryland.
+
+The descriptions are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-27-dhs-secretary-meets-coast-guard-helicopter-interdiction-tactical-squadron.md · ID: IS-NEWS-2026-10-27-DHS-SECRETARY-MEETS-COAST-GUARD-HELICOPTER-INTERDICTION-TACTICAL-SQUADRON =====
+
+```yaml
+id: IS-NEWS-2026-10-27-DHS-SECRETARY-MEETS-COAST-GUARD-HELICOPTER-INTERDICTION-TACTICAL-SQUADRON
+slug: 2026-10-27-dhs-secretary-meets-coast-guard-helicopter-interdiction-tactical-squadron
+title: DHS release: Secretary [name] Meets with Coast Guard’s Elite Helicopter Interdiction Tactical Squadron
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-27
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/27/secretary-mullin-meets-coast-guards-elite-helicopter-interdiction-tactical-squadron
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 2026-10-23-dhs-secretary-visits-coast-guard-facilities-in-north-carolina
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 21 Nov 2026; title is the department's own, quoted; a personal name in the headline is replaced with [name]
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: Secretary [name] Meets with Coast Guard’s Elite Helicopter Interdiction Tactical Squadron
+
+*U.S. Department of Homeland Security, 2026-10-27. Original: <https://www.dhs.gov/news/2026/10/27/secretary-mullin-meets-coast-guards-elite-helicopter-interdiction-tactical-squadron>*
+
+DHS said the Secretary of Homeland Security visited the Coast Guard's Helicopter Interdiction Tactical Squadron (HITRON) in Jacksonville on Monday 26 October 2026, where he took part in a demonstration of airborne use of force against non-compliant vessels engaged in drug trafficking and watched an offshore live-fire gunnery exercise. DHS said the visit followed his tour of Coast Guard aviation facilities in Elizabeth City, North Carolina, the previous week.
+
+
+===== FILE: news/IS_NEWS_2026-10-27-dhs-worst-of-the-worst-ice-arrests-murderers-pedophiles-and-sexual-predators.md · ID: IS-NEWS-2026-10-27-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-MURDERERS-PEDOPHILES-AND-SEXUAL-PREDATORS =====
+
+```yaml
+id: IS-NEWS-2026-10-27-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-MURDERERS-PEDOPHILES-AND-SEXUAL-PREDATORS
+slug: 2026-10-27-dhs-worst-of-the-worst-ice-arrests-murderers-pedophiles-and-sexual-predators
+title: DHS release: WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Sexual Predators
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-27
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/27/worst-worst-ice-arrests-murderers-pedophiles-and-sexual-predators
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 21 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Sexual Predators
+
+*U.S. Department of Homeland Security, 2026-10-27. Original: <https://www.dhs.gov/news/2026/10/27/worst-worst-ice-arrests-murderers-pedophiles-and-sexual-predators>*
+
+DHS said ICE arrested five people on 26 October 2026 whom it described as criminal illegal aliens, four from Mexico and one from Honduras. DHS listed prior convictions including first-degree murder, statutory rape of a person under 14, continuous sexual abuse of a child, sexual assault, and drug, identity-theft and drink-driving offences, in Washington, Missouri, California, Utah and Virginia.
+
+The descriptions are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-27-fbi-national-security-division-first-near-miss-non-prosecution-agreement.md · ID: IS-NEWS-2026-10-27-FBI-NATIONAL-SECURITY-DIVISION-FIRST-NEAR-MISS-NON-PROSECUTION-AGREEMENT =====
+
+```yaml
+id: IS-NEWS-2026-10-27-FBI-NATIONAL-SECURITY-DIVISION-FIRST-NEAR-MISS-NON-PROSECUTION-AGREEMENT
+slug: 2026-10-27-fbi-national-security-division-first-near-miss-non-prosecution-agreement
+title: FBI release: National Security Division Announces First “Near Miss” Non-Prosecution Agreement Under the Department-wide Corporate Enforcement Policy
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-27
+date_precision: day
+publisher: Federal Bureau of Investigation
+source_type: Official
+issuing_office: National Security Division
+url: https://www.fbi.gov/news/press-releases/national-security-division-announces-first-near-miss-non-prosecution-agreement-under-the-department-wide-corporate-enforcement-policy
+archived_url: 
+industry: 
+event: Technology theft & export control
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 21 Nov 2026; FBI email of 28 Oct 2026; title is the department's own, quoted; a Justice Department (National Security Division) release relayed by the FBI; fbi.gov refused automated access (HTTP 403), so the summary rests on the FBI email's own text
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# FBI release: National Security Division Announces First “Near Miss” Non-Prosecution Agreement Under the Department-wide Corporate Enforcement Policy
+
+*Federal Bureau of Investigation, 2026-10-27. Original: <https://www.fbi.gov/news/press-releases/national-security-division-announces-first-near-miss-non-prosecution-agreement-under-the-department-wide-corporate-enforcement-policy>*
+
+The FBI relayed a Justice Department announcement that the department had entered into a non-prosecution agreement with a company, which agreed to pay criminal penalties totalling $975,721.84 to resolve the department's investigation of sanctions and export control offences. The headline describes it as the first "near miss" non-prosecution agreement under the department-wide corporate enforcement policy.
+
+A non-prosecution agreement is not a conviction. The email gave no further detail, and the full release on fbi.gov could not be read for this summary.
+
+
 ===== FILE: news/IS_NEWS_2026-10-28-analysis-a-recorded-conversation-on-mice-with-a-mostly-human-derived-cortex-what-the-model-allows-and-the-ethical-quest.md · ID: IS-NEWS-2026-10-28-ANALYSIS-A-RECORDED-CONVERSATION-ON-MICE-WITH-A-MOSTLY-HUMAN-DERIVED-CORTEX-WHAT-THE-MODEL-ALLOWS-AND-THE-ETHICAL-QUEST =====
 
 ```yaml
@@ -21789,6 +22263,222 @@ Daniel J. Solove introduces a video interview with an MIT researcher who studies
 The post summarises a selection of the researcher's studies, which Solove describes as finding that people often do act to protect their privacy, that privacy notices can be used to nudge how much people disclose, and that some shoppers will pay more to buy from retailers that protect privacy. Solove also points readers to his own article arguing against the idea of a privacy paradox. The interview itself is a video and is not summarised here.
 
 
+===== FILE: news/IS_NEWS_2026-10-28-dhs-blocks-chinese-genomics-companies-linked-to-forced-labor.md · ID: IS-NEWS-2026-10-28-DHS-BLOCKS-CHINESE-GENOMICS-COMPANIES-LINKED-TO-FORCED-LABOR =====
+
+```yaml
+id: IS-NEWS-2026-10-28-DHS-BLOCKS-CHINESE-GENOMICS-COMPANIES-LINKED-TO-FORCED-LABOR
+slug: 2026-10-28-dhs-blocks-chinese-genomics-companies-linked-to-forced-labor
+title: DHS release: Under President [name], DHS Blocks Chinese Genomics Companies Linked to Forced Labor
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-28
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/28/under-president-trump-dhs-blocks-chinese-genomics-companies-linked-forced-labor
+archived_url: 
+industry: Biotechnology & health · Government cloud & surveillance technology
+event: Regulation & law
+country: China
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 21 Nov 2026; title is the department's own, quoted; a personal name in the headline is replaced with [name]
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: Under President [name], DHS Blocks Chinese Genomics Companies Linked to Forced Labor
+
+*U.S. Department of Homeland Security, 2026-10-28. Original: <https://www.dhs.gov/news/2026/10/28/under-president-trump-dhs-blocks-chinese-genomics-companies-linked-forced-labor>*
+
+DHS said the Forced Labor Enforcement Task Force had added three affiliated Chinese genomics companies based in Shenzhen to the Uyghur Forced Labor Prevention Act Entity List, so that from 29 October 2026 their goods are presumed barred from entering the United States unless an importer shows they were not made with forced labour. DHS said the task force determined that the companies help the government of the Xinjiang Uyghur Autonomous Region build and run mass surveillance that uses genetic data to monitor ethnic minorities and supports labour-transfer programmes and internment. DHS said the list now holds 190 entities.
+
+The findings are the task force's own determination; the release reports a trade restriction, not a criminal charge.
+
+
+===== FILE: news/IS_NEWS_2026-10-28-dhs-highlights-worst-illegal-aliens-arrested-in-ohio.md · ID: IS-NEWS-2026-10-28-DHS-HIGHLIGHTS-WORST-ILLEGAL-ALIENS-ARRESTED-IN-OHIO =====
+
+```yaml
+id: IS-NEWS-2026-10-28-DHS-HIGHLIGHTS-WORST-ILLEGAL-ALIENS-ARRESTED-IN-OHIO
+slug: 2026-10-28-dhs-highlights-worst-illegal-aliens-arrested-in-ohio
+title: DHS release: DHS Highlights Worst Illegal Aliens Arrested in Ohio
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-28
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/28/dhs-highlights-worst-illegal-aliens-arrested-ohio
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 21 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: DHS Highlights Worst Illegal Aliens Arrested in Ohio
+
+*U.S. Department of Homeland Security, 2026-10-28. Original: <https://www.dhs.gov/news/2026/10/28/dhs-highlights-worst-illegal-aliens-arrested-ohio>*
+
+DHS listed five people arrested by ICE in Ohio between 2 and 21 October 2026, in Columbus, Chillicothe and Clairsville, one each from Mexico, Colombia, Guatemala, Uzbekistan and Honduras. DHS said their records include gross sexual imposition, conspiracy to commit burglary, strangulation, drink-driving, aggravated assault, robbery and cocaine trafficking.
+
+The descriptions are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-28-dhs-highlights-worst-illegal-aliens-arrested-in-texas.md · ID: IS-NEWS-2026-10-28-DHS-HIGHLIGHTS-WORST-ILLEGAL-ALIENS-ARRESTED-IN-TEXAS =====
+
+```yaml
+id: IS-NEWS-2026-10-28-DHS-HIGHLIGHTS-WORST-ILLEGAL-ALIENS-ARRESTED-IN-TEXAS
+slug: 2026-10-28-dhs-highlights-worst-illegal-aliens-arrested-in-texas
+title: DHS release: DHS Highlights Worst Illegal Aliens Arrested in Texas
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-28
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/28/dhs-highlights-worst-illegal-aliens-arrested-texas
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 21 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: DHS Highlights Worst Illegal Aliens Arrested in Texas
+
+*U.S. Department of Homeland Security, 2026-10-28. Original: <https://www.dhs.gov/news/2026/10/28/dhs-highlights-worst-illegal-aliens-arrested-texas>*
+
+DHS listed five people from Mexico arrested by ICE in Texas between 2 September and 13 October 2026, four in Corpus Christi and one in Lubbock, two of whom it described as gang members. DHS said their records include manslaughter, drug possession and delivery offences, theft, burglary, assault on a family member, making a false police report and drink-driving.
+
+The descriptions are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-28-dhs-ice-arrests-in-nationwide-voter-fraud-crackdown.md · ID: IS-NEWS-2026-10-28-DHS-ICE-ARRESTS-IN-NATIONWIDE-VOTER-FRAUD-CRACKDOWN =====
+
+```yaml
+id: IS-NEWS-2026-10-28-DHS-ICE-ARRESTS-IN-NATIONWIDE-VOTER-FRAUD-CRACKDOWN
+slug: 2026-10-28-dhs-ice-arrests-in-nationwide-voter-fraud-crackdown
+title: DHS release: Dozens of Illegal Aliens Arrested In Nationwide Voter Fraud Crackdown
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-28
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/28/dozens-illegal-aliens-arrested-nationwide-voter-fraud-crackdown
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 21 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: Dozens of Illegal Aliens Arrested In Nationwide Voter Fraud Crackdown
+
+*U.S. Department of Homeland Security, 2026-10-28. Original: <https://www.dhs.gov/news/2026/10/28/dozens-illegal-aliens-arrested-nationwide-voter-fraud-crackdown>*
+
+DHS said ICE has arrested dozens of people across the United States in connection with alleged voter fraud and election offences, including people it said admitted registering to vote or voting unlawfully. DHS gave 13 examples, from countries including Honduras, Somalia, Mexico, Cuba, Germany, Nicaragua, Vietnam, Venezuela, Cambodia and Guatemala, whom it said voted in elections between 1992 and 2026, and it listed earlier voting cases and DHS election-security measures.
+
+The characterisations are DHS's own; the release reports arrests and investigations, not convictions, and every person arrested or charged is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-28-dhs-sanctuary-insanity-new-york-release-after-assault-on-police-officer-arrest.md · ID: IS-NEWS-2026-10-28-DHS-SANCTUARY-INSANITY-NEW-YORK-RELEASE-AFTER-ASSAULT-ON-POLICE-OFFICER-ARREST =====
+
+```yaml
+id: IS-NEWS-2026-10-28-DHS-SANCTUARY-INSANITY-NEW-YORK-RELEASE-AFTER-ASSAULT-ON-POLICE-OFFICER-ARREST
+slug: 2026-10-28-dhs-sanctuary-insanity-new-york-release-after-assault-on-police-officer-arrest
+title: DHS release: SANCTUARY INSANITY: DHS Slams New York Sanctuary Politicians for Releasing Illegal Alien from Jail After Assaulting a Police Officer
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-28
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/28/sanctuary-insanity-dhs-slams-new-york-sanctuary-politicians-releasing-illegal-alien
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 21 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: SANCTUARY INSANITY: DHS Slams New York Sanctuary Politicians for Releasing Illegal Alien from Jail After Assaulting a Police Officer
+
+*U.S. Department of Homeland Security, 2026-10-28. Original: <https://www.dhs.gov/news/2026/10/28/sanctuary-insanity-dhs-slams-new-york-sanctuary-politicians-releasing-illegal-alien>*
+
+DHS said ICE lodged a detainer on 7 October 2026 for a man from Guinea arrested in Queens, New York, that day on charges including aggravated assault on a police officer with a deadly weapon and resisting arrest, and that the New York City Police Department released him without notifying ICE; DHS said he remains at large and that two earlier New York arrests also ended in his release. DHS said that from 20 January 2025 to 8 October 2026 New York did not honour 16,070 ICE detainers, associated with 52,503 criminal charges and convictions. The release also lists earlier cases that DHS cites against the state's policies.
+
+The figures are the department's own count. The release reports arrests and charges, not convictions; every person arrested or charged is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-28-dhs-worst-of-the-worst-ice-arrests-murderers-pedophiles-and-violent-assailants.md · ID: IS-NEWS-2026-10-28-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-MURDERERS-PEDOPHILES-AND-VIOLENT-ASSAILANTS =====
+
+```yaml
+id: IS-NEWS-2026-10-28-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-MURDERERS-PEDOPHILES-AND-VIOLENT-ASSAILANTS
+slug: 2026-10-28-dhs-worst-of-the-worst-ice-arrests-murderers-pedophiles-and-violent-assailants
+title: DHS release: WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Violent Assailants
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-28
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/28/worst-worst-ice-arrests-murderers-pedophiles-and-violent-assailants
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 21 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Violent Assailants
+
+*U.S. Department of Homeland Security, 2026-10-28. Original: <https://www.dhs.gov/news/2026/10/28/worst-worst-ice-arrests-murderers-pedophiles-and-violent-assailants>*
+
+DHS said ICE arrested five people on 27 October 2026 whom it described as criminal illegal aliens, from Mexico (three), Honduras and Ecuador. DHS listed prior convictions including murder and gang activity resulting in death, predatory criminal sexual assault of a child, aggravated assault and burglary, and cocaine and heroin distribution offences, in Maryland, Illinois, Utah, Florida and Minnesota.
+
+The descriptions are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
+
+
 ===== FILE: news/IS_NEWS_2026-10-29-analysis-private-tiger-ownership-is-more-tightly-regulated-than-ai-an-analogy-argues.md · ID: IS-NEWS-2026-10-29-ANALYSIS-PRIVATE-TIGER-OWNERSHIP-IS-MORE-TIGHTLY-REGULATED-THAN-AI-AN-ANALOGY-ARGUES =====
 
 ```yaml
@@ -21824,6 +22514,42 @@ disclaimer: meta/IS_META_terms.md
 Daniel J. Solove responds to news reports of AI systems used in cyberattacks by arguing that the law grants AI an exceptional freedom from the kinds of controls and liability that apply to almost everything else. He points to an AI developer's stock-offering filing that suggests insurers may not be able to cover a catastrophic AI incident.
 
 He compares AI with privately kept big cats, which U.S. federal law now largely bans outside accredited zoos and for which keepers are strictly liable if an animal injures someone. In his view the law treats tigers more sensibly than AI models, which are released widely for almost any use.
+
+
+===== FILE: news/IS_NEWS_2026-10-29-dhs-uscis-reports-2-2-million-enforcement-actions.md · ID: IS-NEWS-2026-10-29-DHS-USCIS-REPORTS-2-2-MILLION-ENFORCEMENT-ACTIONS =====
+
+```yaml
+id: IS-NEWS-2026-10-29-DHS-USCIS-REPORTS-2-2-MILLION-ENFORCEMENT-ACTIONS
+slug: 2026-10-29-dhs-uscis-reports-2-2-million-enforcement-actions
+title: DHS release: Under President [name]’s Leadership, USCIS Takes Unprecedented 2.2 Million Enforcement Actions Protecting Americans Across the Nation
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-29
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/29/under-president-trumps-leadership-uscis-takes-unprecedented-22-million-enforcement
+archived_url: 
+industry: 
+event: Reports & statistics
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 21 Nov 2026; title is the department's own, quoted; a personal name in the headline is replaced with [name]
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: Under President [name]’s Leadership, USCIS Takes Unprecedented 2.2 Million Enforcement Actions Protecting Americans Across the Nation
+
+*U.S. Department of Homeland Security, 2026-10-29. Original: <https://www.dhs.gov/news/2026/10/29/under-president-trumps-leadership-uscis-takes-unprecedented-22-million-enforcement>*
+
+DHS said U.S. Citizenship and Immigration Services (USCIS) has taken immigration enforcement actions to revoke or terminate the status of about 2.2 million people since 20 January 2025, which it said is nearly seven times as many enforcement actions as in the previous administration's final two years combined. DHS said the actions include ending Temporary Protected Status designations, denying applications to extend or change status, issuing Notices to Appear that start removal proceedings, ending the automatic extension of work permits and terminating categorical parole programmes.
+
+The figures are the department's own count, and the characterisations are DHS's own.
 
 
 ===== FILE: news/IS_NEWS_2026-10-29-fbi-man-pleads-guilty-to-federal-hate-crimes-in-boulder-attack.md · ID: IS-NEWS-2026-10-29-FBI-MAN-PLEADS-GUILTY-TO-FEDERAL-HATE-CRIMES-IN-BOULDER-ATTACK =====
@@ -21932,6 +22658,42 @@ disclaimer: meta/IS_META_terms.md
 Daniel J. Solove introduces a video conversation with an AI governance lawyer and author about running AI governance inside an organisation. The post is a description of the discussion rather than a transcript, so this summary covers only the topics it lists.
 
 According to the post, the conversation covers who is and should be responsible for AI governance, why it needs work across departments, the need to oversee vendors that also use AI, the difficulty of governing AI that is now built into existing software and services, and the need for governance staff to explain ethical concerns to executives and boards in business terms.
+
+
+===== FILE: news/IS_NEWS_2026-10-30-dhs-ice-detainer-for-man-charged-with-attempted-murder-and-kidnapping-in-baltimore.md · ID: IS-NEWS-2026-10-30-DHS-ICE-DETAINER-FOR-MAN-CHARGED-WITH-ATTEMPTED-MURDER-AND-KIDNAPPING-IN-BALTIMORE =====
+
+```yaml
+id: IS-NEWS-2026-10-30-DHS-ICE-DETAINER-FOR-MAN-CHARGED-WITH-ATTEMPTED-MURDER-AND-KIDNAPPING-IN-BALTIMORE
+slug: 2026-10-30-dhs-ice-detainer-for-man-charged-with-attempted-murder-and-kidnapping-in-baltimore
+title: DHS release: ICE Lodges Detainer for Illegal Alien Charged with Attempted Murder and Kidnapping After Stabbing Teenage Girl
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-30
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/30/ice-lodges-detainer-illegal-alien-charged-attempted-murder-and-kidnapping-after
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 21 Nov 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: ICE Lodges Detainer for Illegal Alien Charged with Attempted Murder and Kidnapping After Stabbing Teenage Girl
+
+*U.S. Department of Homeland Security, 2026-10-30. Original: <https://www.dhs.gov/news/2026/10/30/ice-lodges-detainer-illegal-alien-charged-attempted-murder-and-kidnapping-after>*
+
+DHS said Baltimore police arrested a man from Sierra Leone and charged him with attempted first-degree murder and kidnapping after a 15-year-old girl was stabbed on 22 October 2026, citing local reporting, and that ICE lodged a detainer on 24 October asking Maryland authorities not to release him. DHS said New York City had not honoured an earlier ICE detainer after his arrest there in July 2026 on a forged-instrument charge, and that he entered the United States through Arizona in December 2023 and was released into the country under the previous administration.
+
+The characterisations are DHS's own; the release reports arrests and charges, not convictions, and every person arrested or charged is presumed innocent unless proven guilty in court.
 
 
 ===== FILE: news/IS_NEWS_2026-10-30-dhs-wanted-man-released-by-maryland-county-despite-ice-detainer.md · ID: IS-NEWS-2026-10-30-DHS-WANTED-MAN-RELEASED-BY-MARYLAND-COUNTY-DESPITE-ICE-DETAINER =====
@@ -26782,6 +27544,43 @@ LB.ua, citing Ukraine's Security Service (SBU), reports that a court sentenced a
 The SBU says he was recruited through an acquaintance in occupied Tokmak who put him in contact with an FSB military counterintelligence officer, and that he was exposed in August 2025. The account is the security service's; the court is not named in the report. (Summary translated from the Ukrainian.)
 
 
+===== FILE: news/IS_NEWS_2026-11-17-analysis-addiction-is-better-understood-as-a-response-to-distress-than-as-a-brain-disease.md · ID: IS-NEWS-2026-11-17-ANALYSIS-ADDICTION-IS-BETTER-UNDERSTOOD-AS-A-RESPONSE-TO-DISTRESS-THAN-AS-A-BRAIN-DISEASE =====
+
+```yaml
+id: IS-NEWS-2026-11-17-ANALYSIS-ADDICTION-IS-BETTER-UNDERSTOOD-AS-A-RESPONSE-TO-DISTRESS-THAN-AS-A-BRAIN-DISEASE
+slug: 2026-11-17-analysis-addiction-is-better-understood-as-a-response-to-distress-than-as-a-brain-disease
+title: Addiction is better understood as a response to distress than as a brain disease
+collection: news
+doc_type: analysis-item
+date: 2026-11-17
+date_precision: day
+publisher: Off Label (Substack), cross-posted in Thinking Freely
+source_type: Analysis
+issuing_office:
+url: https://nitafarahany.substack.com/cp/225849113
+archived_url:
+industry: Biotechnology & health
+event: Public health
+country: United States
+stage:
+related:
+kind: analysis
+commentator: Sally Satel
+summary_status: draft
+found_via: Sean's inbox, Thinking Freely email of 20 Nov 2026, which cross-posted this post from the author's own newsletter with a one-line note; the author is not on the followed list (the run asks Sean whether to follow her); read from the free web page of the cross-post; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Addiction is better understood as a response to distress than as a brain disease
+
+*Sally Satel, Off Label (Substack), cross-posted in Thinking Freely, 2026-11-17. Original: <https://nitafarahany.substack.com/cp/225849113>*
+
+Sally Satel, a psychiatrist and senior fellow at the American Enterprise Institute, introduces her book "Not a Disease" by arguing that addiction is better seen as a symptom of psychic distress than as a chronic brain disease. Drawing on a year she spent practising psychiatry in Ironton, Ohio, she says the disease model overstates the power of drugs over the brain and understates the social and personal circumstances that lead people to use them.
+
+She also criticises policy responses to prescription opioid addiction, which she says have left many pain patients suffering needlessly, and says the book proposes a more humane framework for treatment, pain care, recovery and drug policy.
+
+
 ===== FILE: news/IS_NEWS_2026-11-17-analysis-machines-that-could-suffer-are-a-reason-not-to-try-to-make-ai-conscious.md · ID: IS-NEWS-2026-11-17-ANALYSIS-MACHINES-THAT-COULD-SUFFER-ARE-A-REASON-NOT-TO-TRY-TO-MAKE-AI-CONSCIOUS =====
 
 ```yaml
@@ -27661,6 +28460,41 @@ The Justice Department reports that a Pakistani national was sentenced in federa
 The department says he paid $5,000 to undercover FBI employees he believed were hitmen, toward a plan to kill US politicians or government officials. The account is the department's, based on the evidence at trial.
 
 
+===== FILE: news/IS_NEWS_2026-11-17-us-house-intelligence-committee-votes-to-release-an-unclassified-interim-report-on-how-intelligence-agencies-h.md · ID: IS-NEWS-2026-11-17-US-HOUSE-INTELLIGENCE-COMMITTEE-VOTES-TO-RELEASE-AN-UNCLASSIFIED-INTERIM-REPORT-ON-HOW-INTELLIGENCE-AGENCIES-H =====
+
+```yaml
+id: IS-NEWS-2026-11-17-US-HOUSE-INTELLIGENCE-COMMITTEE-VOTES-TO-RELEASE-AN-UNCLASSIFIED-INTERIM-REPORT-ON-HOW-INTELLIGENCE-AGENCIES-H
+slug: 2026-11-17-us-house-intelligence-committee-votes-to-release-an-unclassified-interim-report-on-how-intelligence-agencies-h
+title: US House Intelligence Committee votes to release an unclassified interim report on how intelligence agencies handled anomalous health incidents
+collection: news
+doc_type: news-item
+date: 2026-11-17
+date_precision: day
+publisher: U.S. House Permanent Select Committee on Intelligence
+source_type: Official
+issuing_office: 
+url: https://intelligence.house.gov/2026/11/17/house-intelligence-committee-approves-release-of-committees-unclassified-investigative-report-into-anomalous-health-incidents/
+archived_url: 
+industry: 
+event: Regulation & law
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: English search, acknowledgement watch (anomalous health incidents), 21 Nov 2026; dated a day before this run's window but not yet in the archive; read on the committee's own page; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# US House Intelligence Committee votes to release an unclassified interim report on how intelligence agencies handled anomalous health incidents
+
+*U.S. House Permanent Select Committee on Intelligence, 2026-11-17. Original: <https://intelligence.house.gov/2026/11/17/house-intelligence-committee-approves-release-of-committees-unclassified-investigative-report-into-anomalous-health-incidents/>*
+
+The House Permanent Select Committee on Intelligence said it voted at a business meeting to approve the release of an unclassified interim report on part of its investigation into the Intelligence Community's handling of anomalous health incidents. The committee said the report addresses a limited topic within a complex issue and will be released once a security review is complete.
+
+The committee's chairman said the issue is far more complex than public reporting can depict and that he looks forward to the report's imminent release. No findings have been published.
+
+
 ===== FILE: news/IS_NEWS_2026-11-17-us-requires-export-licences-for-advanced-ai-chips-going-to-five-countries-to-stop-remote-access-by-chinese-dev.md · ID: IS-NEWS-2026-11-17-US-REQUIRES-EXPORT-LICENCES-FOR-ADVANCED-AI-CHIPS-GOING-TO-FIVE-COUNTRIES-TO-STOP-REMOTE-ACCESS-BY-CHINESE-DEV =====
 
 ```yaml
@@ -27947,6 +28781,43 @@ disclaimer: meta/IS_META_terms.md
 The FBI said its tactical helicopter pilots are trained to provide safe and effective transport for tactical operations across the United States and its territories. The Bureau said it is looking to expand its group of tactical aviators.
 
 
+===== FILE: news/IS_NEWS_2026-11-18-germanys-parliament-passes-an-intelligence-reform-obliging-carmakers-and-transport-firms-to-hand-vehicle-data.md · ID: IS-NEWS-2026-11-18-GERMANYS-PARLIAMENT-PASSES-AN-INTELLIGENCE-REFORM-OBLIGING-CARMAKERS-AND-TRANSPORT-FIRMS-TO-HAND-VEHICLE-DATA =====
+
+```yaml
+id: IS-NEWS-2026-11-18-GERMANYS-PARLIAMENT-PASSES-AN-INTELLIGENCE-REFORM-OBLIGING-CARMAKERS-AND-TRANSPORT-FIRMS-TO-HAND-VEHICLE-DATA
+slug: 2026-11-18-germanys-parliament-passes-an-intelligence-reform-obliging-carmakers-and-transport-firms-to-hand-vehicle-data
+title: Germany's parliament passes an intelligence reform obliging carmakers and transport firms to hand vehicle data to the intelligence services
+title_original: Heimlicher Zugriff auf Fahrzeugdaten: Die Auto-Branche als verlängerter Arm der Geheimdienste
+title_language: German
+collection: news
+doc_type: news-item
+date: 2026-11-18
+date_precision: day
+publisher: netzpolitik.org
+source_type: News
+issuing_office: 
+url: https://netzpolitik.org/2026/heimlicher-zugriff-auf-fahrzeugdaten-die-auto-branche-als-verlaengerter-arm-der-geheimdienste/
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Regulation & law
+country: Germany
+stage: 
+related: 
+summary_status: draft
+found_via: German-language search, government cloud and surveillance technology, 18-21 Nov 2026 window; the article gives the vote only as last Friday; whether the Bundesrat must still act was not confirmed; title reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Germany's parliament passes an intelligence reform obliging carmakers and transport firms to hand vehicle data to the intelligence services
+
+*netzpolitik.org, 2026-11-18. Original, in German: <https://netzpolitik.org/2026/heimlicher-zugriff-auf-fahrzeugdaten-die-auto-branche-als-verlaengerter-arm-der-geheimdienste/>. Title translated from the German.*
+
+Netzpolitik.org, a digital-rights news outlet, reports that the Bundestag passed by majority a broad reform of the intelligence laws under which carmakers and workshops, rental, carsharing and freight companies and operators of reservation systems must hand vehicle data to the domestic intelligence agency and the foreign intelligence service on request, covertly. According to the report, the data can include vehicle identification numbers, telemetry such as speed and mileage, driving profiles and seat occupancy, GPS routes and parking positions, and possibly identifiers of phones connected to the car.
+
+The outlet reports objections and requests for clearer definitions from industry associations. The article does not say when the law takes effect. (Summary translated from the German.)
+
+
 ===== FILE: news/IS_NEWS_2026-11-18-police-in-south-west-england-postpone-their-first-live-facial-recognition-deployment-in-bath-after-objections.md · ID: IS-NEWS-2026-11-18-POLICE-IN-SOUTH-WEST-ENGLAND-POSTPONE-THEIR-FIRST-LIVE-FACIAL-RECOGNITION-DEPLOYMENT-IN-BATH-AFTER-OBJECTIONS =====
 
 ```yaml
@@ -28089,6 +28960,76 @@ disclaimer: meta/IS_META_terms.md
 The Home Office published a policy paper on 18 November setting out how Immigration Enforcement uses overt live facial recognition in public places. The policy says only people in strict predefined categories, such as those under a current deportation order, are placed on watchlists, under-18s are excluded, images that raise no alert are deleted automatically and alert data within 24 hours, and no action is taken on a system alert alone.
 
 The department says the policy creates no new powers. On 19 November it listed its next deployments, in Manchester city centre on 25 and 26 November 2026.
+
+
+===== FILE: news/IS_NEWS_2026-11-18-us-audit-office-covertly-tests-four-widely-used-ai-chatbots-and-obtains-workable-attack-plans-from-all-of-them.md · ID: IS-NEWS-2026-11-18-US-AUDIT-OFFICE-COVERTLY-TESTS-FOUR-WIDELY-USED-AI-CHATBOTS-AND-OBTAINS-WORKABLE-ATTACK-PLANS-FROM-ALL-OF-THEM =====
+
+```yaml
+id: IS-NEWS-2026-11-18-US-AUDIT-OFFICE-COVERTLY-TESTS-FOUR-WIDELY-USED-AI-CHATBOTS-AND-OBTAINS-WORKABLE-ATTACK-PLANS-FROM-ALL-OF-THEM
+slug: 2026-11-18-us-audit-office-covertly-tests-four-widely-used-ai-chatbots-and-obtains-workable-attack-plans-from-all-of-them
+title: US audit office covertly tests four widely used AI chatbots and obtains workable attack plans from all of them
+collection: news
+doc_type: news-item
+date: 2026-11-18
+date_precision: day
+publisher: U.S. Government Accountability Office
+source_type: Official
+issuing_office: 
+url: https://www.gao.gov/products/gao-27-108814
+archived_url: 
+industry: Artificial intelligence
+event: Reports & statistics
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: English search, AI incidents and government use, 18-21 Nov 2026 window; FedScoop reported the companies' responses the same day; title in our own words, platforms not named
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# US audit office covertly tests four widely used AI chatbots and obtains workable attack plans from all of them
+
+*U.S. Government Accountability Office, 2026-11-18. Original: <https://www.gao.gov/products/gao-27-108814>*
+
+The Government Accountability Office said its testers prompted four widely used generative AI platforms in spring 2026 and that all four produced information that could help plan an attack: two on an explosive device intended to cause mass casualties and two on attacking the electrical grid. GAO said the platforms' safeguards were triggered but were bypassed using common techniques, and that experts judged the resulting plans viable.
+
+GAO said the information itself was not new, but that the systems assembled it into workable plans in under 12 hours.
+
+
+===== FILE: news/IS_NEWS_2026-11-18-us-health-statistics-agency-moves-provisional-death-rates-to-a-new-dashboard-showing-the-12-month-suicide-rate.md · ID: IS-NEWS-2026-11-18-US-HEALTH-STATISTICS-AGENCY-MOVES-PROVISIONAL-DEATH-RATES-TO-A-NEW-DASHBOARD-SHOWING-THE-12-MONTH-SUICIDE-RATE =====
+
+```yaml
+id: IS-NEWS-2026-11-18-US-HEALTH-STATISTICS-AGENCY-MOVES-PROVISIONAL-DEATH-RATES-TO-A-NEW-DASHBOARD-SHOWING-THE-12-MONTH-SUICIDE-RATE
+slug: 2026-11-18-us-health-statistics-agency-moves-provisional-death-rates-to-a-new-dashboard-showing-the-12-month-suicide-rate
+title: US health statistics agency moves provisional death rates to a new dashboard, showing the 12-month suicide rate at 13.2 per 100,000 to July 2026
+collection: news
+doc_type: news-item
+date: 2026-11-18
+date_precision: day
+publisher: CDC National Center for Health Statistics
+source_type: Official
+issuing_office: National Center for Health Statistics
+url: https://www.cdc.gov/nchs/nvss/vsrr/viser.html
+archived_url: 
+industry: Biotechnology & health
+event: Public health
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: Health sources check, CDC/NCHS, 21 Nov 2026; figures read from the dataset on data.cdc.gov (Vital Statistics Early Release); whether the rates are age-adjusted was not confirmed, so they are reported as given and not charted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# US health statistics agency moves provisional death rates to a new dashboard, showing the 12-month suicide rate at 13.2 per 100,000 to July 2026
+
+*CDC National Center for Health Statistics, 2026-11-18. Original: <https://www.cdc.gov/nchs/nvss/vsrr/viser.html>*
+
+The CDC's National Center for Health Statistics said its quarterly provisional mortality dashboard was archived on 18 November 2026 and that provisional figures now appear on its Vital Statistics Early Release dashboard. According to the dataset, for the 12 months ending July 2026 the suicide rate was 13.2 deaths per 100,000, against 13.7 a year earlier, and the rates for all causes, cancer, Alzheimer disease, stroke, chronic liver disease and kidney disease were also lower than a year before.
+
+The agency notes that provisional figures lag by about three months, and by six months for drug overdose, whose latest 12-month rate is 18.8 per 100,000 to April 2026. The figures are provisional and may be revised.
 
 
 ===== FILE: news/IS_NEWS_2026-11-18-us-indicts-a-russian-national-accused-of-acting-as-russias-agent-by-surveilling-and-stalking-employees-of-a-si.md · ID: IS-NEWS-2026-11-18-US-INDICTS-A-RUSSIAN-NATIONAL-ACCUSED-OF-ACTING-AS-RUSSIAS-AGENT-BY-SURVEILLING-AND-STALKING-EMPLOYEES-OF-A-SI =====
@@ -28559,6 +29500,76 @@ Houston Public Media reports that Harris County, Texas, removed from its commiss
 According to the report, a sheriff's office spokesperson said the item was postponed because it was not ready and did not say whether it would return. The outlet adds that the county is separately reviewing who can access data from its licence-plate-reader cameras.
 
 
+===== FILE: news/IS_NEWS_2026-11-19-uk-surveillance-tribunal-rules-the-government-must-confirm-it-served-a-secret-encryption-access-notice-on-a-te.md · ID: IS-NEWS-2026-11-19-UK-SURVEILLANCE-TRIBUNAL-RULES-THE-GOVERNMENT-MUST-CONFIRM-IT-SERVED-A-SECRET-ENCRYPTION-ACCESS-NOTICE-ON-A-TE =====
+
+```yaml
+id: IS-NEWS-2026-11-19-UK-SURVEILLANCE-TRIBUNAL-RULES-THE-GOVERNMENT-MUST-CONFIRM-IT-SERVED-A-SECRET-ENCRYPTION-ACCESS-NOTICE-ON-A-TE
+slug: 2026-11-19-uk-surveillance-tribunal-rules-the-government-must-confirm-it-served-a-secret-encryption-access-notice-on-a-te
+title: UK surveillance tribunal rules the government must confirm it served a secret encryption-access notice on a technology company
+collection: news
+doc_type: news-item
+date: 2026-11-19
+date_precision: day
+publisher: The Record (Recorded Future News)
+source_type: News
+issuing_office: 
+url: https://therecord.media/apple-uk-encryption-notice
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Courts & litigation
+country: United Kingdom
+stage: 
+related: 
+summary_status: draft
+found_via: English search, UK Investigatory Powers Tribunal rulings, 18-21 Nov 2026 window; also reported by heise, 20 Nov; title in our own words, company not named
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# UK surveillance tribunal rules the government must confirm it served a secret encryption-access notice on a technology company
+
+*The Record (Recorded Future News), 2026-11-19. Original: <https://therecord.media/apple-uk-encryption-notice>*
+
+The Record reports that a three-judge panel of the Investigatory Powers Tribunal rejected the UK government's "neither confirm nor deny" stance and found that confirming the existence of a technical capability notice served on a technology company would not harm national security. According to the report, the notice requires the company to keep the ability to access users' cloud-stored content, and the company withdrew its end-to-end encrypted cloud option for UK users in February.
+
+The Record says the ruling does not decide whether the notice is lawful, and that a full hearing is expected in the first half of 2027.
+
+
+===== FILE: news/IS_NEWS_2026-11-19-us-immigration-agency-pays-a-major-telecom-carrier-for-access-to-its-raw-call-data-and-analysts-an-internal-do.md · ID: IS-NEWS-2026-11-19-US-IMMIGRATION-AGENCY-PAYS-A-MAJOR-TELECOM-CARRIER-FOR-ACCESS-TO-ITS-RAW-CALL-DATA-AND-ANALYSTS-AN-INTERNAL-DO =====
+
+```yaml
+id: IS-NEWS-2026-11-19-US-IMMIGRATION-AGENCY-PAYS-A-MAJOR-TELECOM-CARRIER-FOR-ACCESS-TO-ITS-RAW-CALL-DATA-AND-ANALYSTS-AN-INTERNAL-DO
+slug: 2026-11-19-us-immigration-agency-pays-a-major-telecom-carrier-for-access-to-its-raw-call-data-and-analysts-an-internal-do
+title: US immigration agency pays a major telecom carrier for access to its raw call data and analysts, an internal document shows
+collection: news
+doc_type: news-item
+date: 2026-11-19
+date_precision: day
+publisher: 404 Media
+source_type: News
+issuing_office: 
+url: https://www.404media.co/ice-is-paying-at-t-to-dig-through-a-mountain-of-call-records-hemisphere-data-analytical-services/
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Contracts & deployments
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: English search, government cloud and surveillance contracts, 18-21 Nov 2026 window; part of the article is paywalled and only the free part was read; title in our own words, company not named
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# US immigration agency pays a major telecom carrier for access to its raw call data and analysts, an internal document shows
+
+*404 Media, 2026-11-19. Original: <https://www.404media.co/ice-is-paying-at-t-to-dig-through-a-mountain-of-call-records-hemisphere-data-analytical-services/>*
+
+404 Media reports that an internal Immigration and Customs Enforcement document describes paying a major U.S. telecom carrier millions of dollars for a "Data Analytical Services" product that, in the document's words, gives the agency access to the carrier's raw data and experienced analysts. The outlet says the product appears related to Hemisphere, an earlier call-records programme that was shut down.
+
+According to the report, the carrier says it provides data only under valid legal process; experts quoted by the outlet note that the process is an administrative subpoena, which needs no judge's approval, and civil-liberties advocates describe the arrangement as mass surveillance. No court or regulator has ruled on it.
+
+
 ===== FILE: news/IS_NEWS_2026-11-19-white-house-icymi-interview-from-shenzhen-on-china-iran-and-super-intelligence.md · ID: IS-NEWS-2026-11-19-WHITE-HOUSE-ICYMI-INTERVIEW-FROM-SHENZHEN-ON-CHINA-IRAN-AND-SUPER-INTELLIGENCE =====
 
 ```yaml
@@ -28631,6 +29642,42 @@ For National Rural Health Day, the White House said the $50 billion Rural Health
 The figures and descriptions are the White House's own.
 
 
+===== FILE: news/IS_NEWS_2026-11-19-white-house-presidential-message-on-national-rural-health-day.md · ID: IS-NEWS-2026-11-19-WHITE-HOUSE-PRESIDENTIAL-MESSAGE-ON-NATIONAL-RURAL-HEALTH-DAY =====
+
+```yaml
+id: IS-NEWS-2026-11-19-WHITE-HOUSE-PRESIDENTIAL-MESSAGE-ON-NATIONAL-RURAL-HEALTH-DAY
+slug: 2026-11-19-white-house-presidential-message-on-national-rural-health-day
+title: White House release: Presidential Message on National Rural Health Day
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-19
+date_precision: day
+publisher: The White House
+source_type: Official
+issuing_office: 
+url: https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-rural-health-day/
+archived_url: 
+industry: Biotechnology & health
+event: Public health
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: whitehouse.gov listing, 21 Nov 2026 (decision 0052); title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# White House release: Presidential Message on National Rural Health Day
+
+*The White House, 2026-11-19. Original: <https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-rural-health-day/>*
+
+In a presidential message for National Rural Health Day, the White House honoured rural health workers and pointed to the $50 billion Rural Health Transformation Program, which it said is active in all 50 states for the workforce, facilities and telehealth. The message ties the programme to the administration's "Make America Healthy Again" agenda, citing mobile clinics, screenings and remote monitoring of chronic conditions.
+
+The figures and descriptions are the White House's own.
+
+
 ===== FILE: news/IS_NEWS_2026-11-19-white-house-us-russia-china-heads-of-state-declaration-toward-peace.md · ID: IS-NEWS-2026-11-19-WHITE-HOUSE-US-RUSSIA-CHINA-HEADS-OF-STATE-DECLARATION-TOWARD-PEACE =====
 
 ```yaml
@@ -28665,6 +29712,222 @@ disclaimer: meta/IS_META_terms.md
 The White House published a joint declaration by the leaders of the United States, Russia and China after a trilateral meeting in Shenzhen, China. According to the text, the three committed to maintaining strategic stability, to reforming the United Nations, to increasing the production and supply of refined petroleum products, and to limiting the jurisdiction of the International Criminal Court and similar bodies over state officials.
 
 The declaration restates that a nuclear war cannot be won and must never be fought, and says the three countries will hold a dialogue on reducing nuclear risks and preventing the spread of nuclear weapons.
+
+
+===== FILE: news/IS_NEWS_2026-11-20-brain-implant-trial-participants-call-for-ownership-of-their-neural-data-post-trial-care-and-fairer-consent.md · ID: IS-NEWS-2026-11-20-BRAIN-IMPLANT-TRIAL-PARTICIPANTS-CALL-FOR-OWNERSHIP-OF-THEIR-NEURAL-DATA-POST-TRIAL-CARE-AND-FAIRER-CONSENT =====
+
+```yaml
+id: IS-NEWS-2026-11-20-BRAIN-IMPLANT-TRIAL-PARTICIPANTS-CALL-FOR-OWNERSHIP-OF-THEIR-NEURAL-DATA-POST-TRIAL-CARE-AND-FAIRER-CONSENT
+slug: 2026-11-20-brain-implant-trial-participants-call-for-ownership-of-their-neural-data-post-trial-care-and-fairer-consent
+title: Brain-implant trial participants call for ownership of their neural data, post-trial care and fairer consent
+collection: news
+doc_type: news-item
+date: 2026-11-20
+date_precision: day
+publisher: STAT
+source_type: News
+issuing_office: 
+url: https://www.statnews.com/2026/11/20/ian-burkhart-how-brain-implant-trials-can-serve-patients-better/
+archived_url: 
+industry: Neurotechnology
+event: Research & breakthroughs
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: English search, acknowledgement watch (neural data and brain-computer interfaces), 18-21 Nov 2026 window; the coalition's recommendations were first reported by The Debrief (archived 11 Nov), this is later reporting with new interviews; title in our own words, no personal names
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Brain-implant trial participants call for ownership of their neural data, post-trial care and fairer consent
+
+*STAT, 2026-11-20. Original: <https://www.statnews.com/2026/11/20/ian-burkhart-how-brain-implant-trials-can-serve-patients-better/>*
+
+STAT reports that a coalition of early brain-computer-interface trial participants has published 13 recommendations for companies, researchers and regulators on post-trial care, informed consent and the privacy of neural data. A co-founder of the coalition told STAT his own implant was removed when funding for an earlier study ran out, called current consent forms one-sided in favour of research teams, and proposed that participants own their neural data, with the research team getting first access.
+
+A university ethicist quoted by STAT said there is no good solution yet for protecting participants, and mentioned ideas such as mandatory insurance and escrow funds.
+
+
+===== FILE: news/IS_NEWS_2026-11-20-denmark-expels-russias-defence-attache-after-a-failed-assassination-attempt-its-security-service-links-to-a-ban.md · ID: IS-NEWS-2026-11-20-DENMARK-EXPELS-RUSSIAS-DEFENCE-ATTACHE-AFTER-A-FAILED-ASSASSINATION-ATTEMPT-ITS-SECURITY-SERVICE-LINKS-TO-A-BAN =====
+
+```yaml
+id: IS-NEWS-2026-11-20-DENMARK-EXPELS-RUSSIAS-DEFENCE-ATTACHE-AFTER-A-FAILED-ASSASSINATION-ATTEMPT-ITS-SECURITY-SERVICE-LINKS-TO-A-BAN
+slug: 2026-11-20-denmark-expels-russias-defence-attache-after-a-failed-assassination-attempt-its-security-service-links-to-a-ban
+title: Denmark expels Russia's defence attaché after a failed assassination attempt its security service links to a banned gang
+title_original: Russisk diplomat bliver udvist af Danmark efter sag om attentatforsøg
+title_language: Danish
+collection: news
+doc_type: news-item
+date: 2026-11-20
+date_precision: day
+publisher: DR
+source_type: News
+issuing_office: 
+url: https://www.dr.dk/nyheder/indland/russisk-diplomat-bliver-udvist-af-danmark-efter-sag-om-attentatforsoeg
+archived_url: 
+industry: 
+event: Murder for hire & violent plots
+country: Denmark
+stage: 
+related: 
+summary_status: draft
+found_via: Danish-language reporting found through the murder-for-hire and foreign-intelligence sabotage topics, 18-21 Nov 2026 window; the same day Meduza reported it in English; title reworded
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Denmark expels Russia's defence attaché after a failed assassination attempt its security service links to a banned gang
+
+*DR, 2026-11-20. Original, in Danish: <https://www.dr.dk/nyheder/indland/russisk-diplomat-bliver-udvist-af-danmark-efter-sag-om-attentatforsoeg>. Title translated from the Danish.*
+
+DR, the Danish public broadcaster, reports that Denmark's foreign minister announced on 20 November that Russia's defence attaché is being expelled and must leave within seven days, and that the Russian ambassador was called to the foreign ministry, after what the government called a failed Russian assassination attempt in September against a Ukrainian-American rapper. According to the report, the Danish security service PET said there are indications that leading members of a banned gang helped plan the attempt.
+
+DR reports that the government will also stop issuing non-essential visas to Russian citizens and plans bills raising penalties for crimes committed on behalf of a foreign state. The report does not give a Russian response; the people suspected in the case have not been convicted and are presumed innocent. (Summary translated from the Danish.)
+
+
+===== FILE: news/IS_NEWS_2026-11-20-dhs-50-year-sentence-in-nebraska-child-exploitation-case.md · ID: IS-NEWS-2026-11-20-DHS-50-YEAR-SENTENCE-IN-NEBRASKA-CHILD-EXPLOITATION-CASE =====
+
+```yaml
+id: IS-NEWS-2026-11-20-DHS-50-YEAR-SENTENCE-IN-NEBRASKA-CHILD-EXPLOITATION-CASE
+slug: 2026-11-20-dhs-50-year-sentence-in-nebraska-child-exploitation-case
+title: DHS release: ICE HSI, Nebraska State Patrol Secure 50-Year Sentence for Child Exploitation Offender
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-20
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/20/ice-hsi-nebraska-state-patrol-secure-50-year-sentence-child-exploitation-offender
+archived_url: 
+industry: 
+event: Courts & litigation
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Sean's inbox, DHS email of 20 Nov 2026 (decision 0052); title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: ICE HSI, Nebraska State Patrol Secure 50-Year Sentence for Child Exploitation Offender
+
+*U.S. Department of Homeland Security, 2026-11-20. Original: <https://www.dhs.gov/news/2026/11/20/ice-hsi-nebraska-state-patrol-secure-50-year-sentence-child-exploitation-offender>*
+
+DHS said a 42-year-old Omaha man was sentenced in federal court in Omaha on 4 November 2026 to 50 years in prison, followed by 15 years of supervised release, after his conviction for producing and possessing child sexual abuse material, in an investigation led by the Nebraska State Patrol with help from ICE's Homeland Security Investigations (HSI). DHS said the case was brought under the Justice Department's Project Safe Childhood, and it listed recent HSI child-exploitation sentences in Florida, Texas, New Jersey, Kentucky and Pennsylvania. DHS said HSI opened more than 7,200 child sexual exploitation and abuse investigations in fiscal year 2026, made 4,989 arrests and identified or rescued more than 1,900 victims.
+
+The figures are the department's own count. The release reports sentences after conviction, not a new charge.
+
+
+===== FILE: news/IS_NEWS_2026-11-20-dhs-sanctuary-insanity-minnesota-release-after-sexual-assault-arrest.md · ID: IS-NEWS-2026-11-20-DHS-SANCTUARY-INSANITY-MINNESOTA-RELEASE-AFTER-SEXUAL-ASSAULT-ARREST =====
+
+```yaml
+id: IS-NEWS-2026-11-20-DHS-SANCTUARY-INSANITY-MINNESOTA-RELEASE-AFTER-SEXUAL-ASSAULT-ARREST
+slug: 2026-11-20-dhs-sanctuary-insanity-minnesota-release-after-sexual-assault-arrest
+title: DHS release: SANCTUARY INSANITY: DHS Slams Minnesota Sanctuary Politicians for Releasing Illegal Alien Sex Offender from Jail
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-20
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/20/sanctuary-insanity-dhs-slams-minnesota-sanctuary-politicians-releasing-illegal
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Sean's inbox, DHS email of 20 Nov 2026 (decision 0052); title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: SANCTUARY INSANITY: DHS Slams Minnesota Sanctuary Politicians for Releasing Illegal Alien Sex Offender from Jail
+
+*U.S. Department of Homeland Security, 2026-11-20. Original: <https://www.dhs.gov/news/2026/11/20/sanctuary-insanity-dhs-slams-minnesota-sanctuary-politicians-releasing-illegal>*
+
+DHS said ICE placed a detainer on 11 November 2026 on an Ecuadorian national held at the Hennepin County Jail in Minneapolis, Minnesota, after his arrest for criminal sexual conduct, and that the jail released him without notifying ICE; DHS said he remains at large. DHS said he entered the United States illegally in 2021 and was released into the country under the previous administration. The release also lists earlier Minnesota cases that DHS cites against the state's policies.
+
+The characterisations are DHS's own; the release reports an arrest, not a conviction, and anyone arrested or charged is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-11-20-dhs-worst-of-the-worst-ice-arrests-child-sex-offenders-violent-assailants-and-drug-traffickers.md · ID: IS-NEWS-2026-11-20-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-CHILD-SEX-OFFENDERS-VIOLENT-ASSAILANTS-AND-DRUG-TRAFFICKERS =====
+
+```yaml
+id: IS-NEWS-2026-11-20-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-CHILD-SEX-OFFENDERS-VIOLENT-ASSAILANTS-AND-DRUG-TRAFFICKERS
+slug: 2026-11-20-dhs-worst-of-the-worst-ice-arrests-child-sex-offenders-violent-assailants-and-drug-traffickers
+title: DHS release: WORST OF THE WORST: ICE Protects American Families by Arresting Child Sex Offenders, Violent Assailants, and Drug Traffickers
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-20
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/11/20/worst-worst-ice-protects-american-families-arresting-child-sex-offenders-violent
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Sean's inbox, DHS email of 20 Nov 2026 (decision 0052); title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: WORST OF THE WORST: ICE Protects American Families by Arresting Child Sex Offenders, Violent Assailants, and Drug Traffickers
+
+*U.S. Department of Homeland Security, 2026-11-20. Original: <https://www.dhs.gov/news/2026/11/20/worst-worst-ice-protects-american-families-arresting-child-sex-offenders-violent>*
+
+DHS said ICE arrested five people on 19 November 2026 whom it described as criminal illegal aliens, from Mexico (two), El Salvador, Laos and Honduras. DHS listed prior convictions including aggravated sexual assault on a child, second-degree exploitation of a minor, first-degree assault, heroin and cocaine trafficking and racketeering conspiracy, in Texas, North Carolina, Connecticut, Ohio and New Jersey.
+
+The descriptions are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-11-20-fbi-addition-to-the-ten-most-wanted-fugitives-list.md · ID: IS-NEWS-2026-11-20-FBI-ADDITION-TO-THE-TEN-MOST-WANTED-FUGITIVES-LIST =====
+
+```yaml
+id: IS-NEWS-2026-11-20-FBI-ADDITION-TO-THE-TEN-MOST-WANTED-FUGITIVES-LIST
+slug: 2026-11-20-fbi-addition-to-the-ten-most-wanted-fugitives-list
+title: FBI release: [name] Added to FBI’s Ten Most Wanted Fugitives List
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-20
+date_precision: day
+publisher: Federal Bureau of Investigation
+source_type: Official
+issuing_office: 
+url: https://www.fbi.gov/news/stories/satinderjeet-singh-added-to-fbis-ten-most-wanted-fugitives-list
+archived_url: 
+industry: 
+event: 
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: Sean's inbox, FBI email of 20 Nov 2026 (decision 0052); title is the department's own, quoted; a personal name in the headline is replaced with [name]; the email's label "FBI Top Stories:" is not part of the headline; fbi.gov refused automated access (HTTP 403), so the summary rests on the FBI email's own text
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# FBI release: [name] Added to FBI’s Ten Most Wanted Fugitives List
+
+*Federal Bureau of Investigation, 2026-11-20. Original: <https://www.fbi.gov/news/stories/satinderjeet-singh-added-to-fbis-ten-most-wanted-fugitives-list>*
+
+The FBI said it had added to its Ten Most Wanted Fugitives list a man it alleges is the North American leader of a transnational organised crime group. The FBI said the group is a transnational criminal syndicate that has allegedly committed violent crimes across the United States and Canada.
+
+The email did not give the charges or any reward, and the full story on fbi.gov could not be read for this summary. The allegations are the FBI's own; every person charged is presumed innocent unless proven guilty in court.
 
 
 ===== FILE: news/IS_NEWS_2026-11-20-irans-revolutionary-guards-spokesman-names-a-london-based-persian-language-broadcaster-among-the-guards-milit.md · ID: IS-NEWS-2026-11-20-IRANS-REVOLUTIONARY-GUARDS-SPOKESMAN-NAMES-A-LONDON-BASED-PERSIAN-LANGUAGE-BROADCASTER-AMONG-THE-GUARDS-MILIT =====
@@ -28735,6 +29998,466 @@ disclaimer: meta/IS_META_terms.md
 The Evening Standard, carrying Press Association reporting, says the Metropolitan Police began a six-month pilot on 17 November in which 100 officers can use a phone app to compare a person's face against about one million custody images. According to the report, the force said officers must tell people before taking a photograph but do not need their permission, will not use force if someone covers their face, and will not photograph under-18s.
 
 A police commander told the Press Association that 15 photographs were uploaded in the first 24 hours and that officers would not photograph people who are not suspected of an offence. The report says a civil-liberties group and a stop-and-search monitoring group raised concerns about intrusion and racial bias.
+
+
+===== FILE: news/IS_NEWS_2026-11-20-new-york-citys-police-inspector-general-finds-facial-recognition-policy-breaches-and-disclosure-gaps-across-ab.md · ID: IS-NEWS-2026-11-20-NEW-YORK-CITYS-POLICE-INSPECTOR-GENERAL-FINDS-FACIAL-RECOGNITION-POLICY-BREACHES-AND-DISCLOSURE-GAPS-ACROSS-AB =====
+
+```yaml
+id: IS-NEWS-2026-11-20-NEW-YORK-CITYS-POLICE-INSPECTOR-GENERAL-FINDS-FACIAL-RECOGNITION-POLICY-BREACHES-AND-DISCLOSURE-GAPS-ACROSS-AB
+slug: 2026-11-20-new-york-citys-police-inspector-general-finds-facial-recognition-policy-breaches-and-disclosure-gaps-across-ab
+title: New York City's police inspector general finds facial-recognition policy breaches and disclosure gaps across about 26,000 searches
+collection: news
+doc_type: news-item
+date: 2026-11-20
+date_precision: day
+publisher: Biometric Update
+source_type: Trade press
+issuing_office: 
+url: https://www.biometricupdate.com/202611/nypd-facial-recognition-oversight-gaps-exposed-after-26000-searches
+archived_url: 
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Reports & statistics
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: English search, biometric surveillance and facial recognition, 18-21 Nov 2026 window; the inspector general's report is dated 17 Nov and its PDF was not opened, so the summary rests on the trade-press account; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# New York City's police inspector general finds facial-recognition policy breaches and disclosure gaps across about 26,000 searches
+
+*Biometric Update, 2026-11-20. Original: <https://www.biometricupdate.com/202611/nypd-facial-recognition-oversight-gaps-exposed-after-26000-searches>*
+
+Biometric Update reports that the Inspector General for the New York Police Department, in the city's Department of Investigation, found the department ran about 26,000 facial-recognition analyses in 2025 and largely complies with the city's surveillance-technology disclosure law, but breached some of its own policies. According to the report, these included 98 searches outside police image repositories that did not follow the policy then in force, seven searches of juvenile arrest photos, no supervisory review for about a third of one division's searches, and image editing beyond policy limits; the inspector general also found that naming vendors but not products was contrary to the disclosure law.
+
+The report makes 17 recommendations. Biometric Update says the department told the inspector general it has centralised searches and does not use real-time facial recognition.
+
+
+===== FILE: news/IS_NEWS_2026-11-20-us-court-sentences-a-man-to-more-than-19-years-for-a-murder-for-hire-plot-against-a-us-activist-that-prosecuto.md · ID: IS-NEWS-2026-11-20-US-COURT-SENTENCES-A-MAN-TO-MORE-THAN-19-YEARS-FOR-A-MURDER-FOR-HIRE-PLOT-AGAINST-A-US-ACTIVIST-THAT-PROSECUTO =====
+
+```yaml
+id: IS-NEWS-2026-11-20-US-COURT-SENTENCES-A-MAN-TO-MORE-THAN-19-YEARS-FOR-A-MURDER-FOR-HIRE-PLOT-AGAINST-A-US-ACTIVIST-THAT-PROSECUTO
+slug: 2026-11-20-us-court-sentences-a-man-to-more-than-19-years-for-a-murder-for-hire-plot-against-a-us-activist-that-prosecuto
+title: US court sentences a man to more than 19 years for a murder-for-hire plot against a US activist that prosecutors say an Indian government employee directed
+collection: news
+doc_type: news-item
+date: 2026-11-20
+date_precision: day
+publisher: U.S. Department of Justice, Office of Public Affairs
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.justice.gov/opa/pr/indian-national-sentenced-over-19-years-prison-plotting-assassinate-us-citizen-new-york-city
+archived_url: 
+industry: 
+event: Murder for hire & violent plots
+country: India
+stage: sentenced
+related: 
+summary_status: draft
+found_via: English search, murder for hire and violent plots against dissidents, 18-21 Nov 2026 window; read through the Justice Department's news feed, as justice.gov listing pages refuse automated requests; title in our own words, without personal names
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# US court sentences a man to more than 19 years for a murder-for-hire plot against a US activist that prosecutors say an Indian government employee directed
+
+*U.S. Department of Justice, Office of Public Affairs, 2026-11-20. Original: <https://www.justice.gov/opa/pr/indian-national-sentenced-over-19-years-prison-plotting-assassinate-us-citizen-new-york-city>*
+
+The Justice Department said an Indian national was sentenced in federal court in Manhattan to 235 months in prison after pleading guilty in February 2026 to murder-for-hire, conspiracy to commit murder-for-hire and money-laundering conspiracy, over a plot to kill a U.S.-citizen attorney and activist in New York City. The department said the plot was directed by an employee of India's Cabinet Secretariat, which houses the country's foreign intelligence service, who agreed to pay $100,000, about $15,000 of it in advance in June 2023.
+
+According to the department, the man hired for the killing was in fact an undercover officer working with a Drug Enforcement Administration source. The official alleged to have directed the plot has been charged but not arrested, and is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-11-20-white-house-at-press-briefing-president-touts-wins-signals-healthcare-deal-making.md · ID: IS-NEWS-2026-11-20-WHITE-HOUSE-AT-PRESS-BRIEFING-PRESIDENT-TOUTS-WINS-SIGNALS-HEALTHCARE-DEAL-MAKING =====
+
+```yaml
+id: IS-NEWS-2026-11-20-WHITE-HOUSE-AT-PRESS-BRIEFING-PRESIDENT-TOUTS-WINS-SIGNALS-HEALTHCARE-DEAL-MAKING
+slug: 2026-11-20-white-house-at-press-briefing-president-touts-wins-signals-healthcare-deal-making
+title: White House release: At Press Briefing, President [name] Touts Historic Wins for Americans, Signals Deal-Making on Healthcare
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-20
+date_precision: day
+publisher: The White House
+source_type: Official
+issuing_office: 
+url: https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: whitehouse.gov listing, 21 Nov 2026 (decision 0052); title is the department's own, quoted; [name] replaces a personal name in the headline
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# White House release: At Press Briefing, President [name] Touts Historic Wins for Americans, Signals Deal-Making on Healthcare
+
+*The White House, 2026-11-20. Original: <https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/>*
+
+The White House said the President, joined by the Vice President and the Secretary of State, cited more than $17 billion in deals from his Asia trip at a press briefing and signalled openness to bipartisan deal-making on healthcare. According to the release, he also said data centres should be kept in the United States rather than built abroad.
+
+These are the President's statements as the White House presents them.
+
+
+===== FILE: news/IS_NEWS_2026-11-20-white-house-executive-order-on-executive-privilege-in-federal-contracting.md · ID: IS-NEWS-2026-11-20-WHITE-HOUSE-EXECUTIVE-ORDER-ON-EXECUTIVE-PRIVILEGE-IN-FEDERAL-CONTRACTING =====
+
+```yaml
+id: IS-NEWS-2026-11-20-WHITE-HOUSE-EXECUTIVE-ORDER-ON-EXECUTIVE-PRIVILEGE-IN-FEDERAL-CONTRACTING
+slug: 2026-11-20-white-house-executive-order-on-executive-privilege-in-federal-contracting
+title: White House release: PROTECTING THE EXECUTIVE’S PRIVILEGES AND ENHANCING EFFICIENCIES IN FEDERAL CONTRACTING
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-20
+date_precision: day
+publisher: The White House
+source_type: Official
+issuing_office: 
+url: https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/
+archived_url: 
+industry: 
+event: Regulation & law
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: whitehouse.gov listing, 21 Nov 2026 (decision 0052); title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# White House release: PROTECTING THE EXECUTIVE’S PRIVILEGES AND ENHANCING EFFICIENCIES IN FEDERAL CONTRACTING
+
+*The White House, 2026-11-20. Original: <https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/>*
+
+The White House published an executive order requiring federal contractors and subcontractors to notify the White House and the contracting agency promptly of any congressional request about their work for the executive branch, and to follow instructions to withhold communications the executive deems privileged. According to the text, agencies must consider termination, suspension or debarment for contractors that do not comply.
+
+The order states that it creates no rights enforceable by anyone against the United States.
+
+
+===== FILE: news/IS_NEWS_2026-11-20-white-house-fact-sheet-asia-trip-economic-growth-and-security.md · ID: IS-NEWS-2026-11-20-WHITE-HOUSE-FACT-SHEET-ASIA-TRIP-ECONOMIC-GROWTH-AND-SECURITY =====
+
+```yaml
+id: IS-NEWS-2026-11-20-WHITE-HOUSE-FACT-SHEET-ASIA-TRIP-ECONOMIC-GROWTH-AND-SECURITY
+slug: 2026-11-20-white-house-fact-sheet-asia-trip-economic-growth-and-security
+title: White House release: President [name] Brings Home Billions in Economic Growth and Strengthens America’s Security
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-20
+date_precision: day
+publisher: The White House
+source_type: Official
+issuing_office: 
+url: https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/
+archived_url: 
+industry: 
+event: Global conflict
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: whitehouse.gov listing, 21 Nov 2026 (decision 0052); title is the department's own, quoted; [name] replaces a personal name in the headline
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# White House release: President [name] Brings Home Billions in Economic Growth and Strengthens America’s Security
+
+*The White House, 2026-11-20. Original: <https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/>*
+
+The White House said the President's four-day trip to the Philippines and China produced more than $17 billion in deals, including a trade agreement with Thailand and approval of an Alaska liquefied natural gas pipeline. It said the trip included the first three-way meeting with the leaders of Russia and China, at which the President called for fewer nuclear weapons and an end to the war in Ukraine, and that ASEAN adopted a work plan against online scams.
+
+The figures and descriptions are the White House's own.
+
+
+===== FILE: news/IS_NEWS_2026-11-20-white-house-fact-sheet-executive-privilege-in-federal-contracting.md · ID: IS-NEWS-2026-11-20-WHITE-HOUSE-FACT-SHEET-EXECUTIVE-PRIVILEGE-IN-FEDERAL-CONTRACTING =====
+
+```yaml
+id: IS-NEWS-2026-11-20-WHITE-HOUSE-FACT-SHEET-EXECUTIVE-PRIVILEGE-IN-FEDERAL-CONTRACTING
+slug: 2026-11-20-white-house-fact-sheet-executive-privilege-in-federal-contracting
+title: White House release: Fact Sheet: President [name] Protects the Executive’s Privileges and Enhances Efficiencies in Federal Contracting
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-20
+date_precision: day
+publisher: The White House
+source_type: Official
+issuing_office: 
+url: https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-protects-the-executives-privileges-and-enhances-efficiencies-in-federal-contracting/
+archived_url: 
+industry: 
+event: Regulation & law
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: whitehouse.gov listing, 21 Nov 2026 (decision 0052); title is the department's own, quoted; [name] replaces a personal name in the headline
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# White House release: Fact Sheet: President [name] Protects the Executive’s Privileges and Enhances Efficiencies in Federal Contracting
+
+*The White House, 2026-11-20. Original: <https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-protects-the-executives-privileges-and-enhances-efficiencies-in-federal-contracting/>*
+
+In a fact sheet accompanying the executive order on contractors and congressional requests, the White House said protecting confidential executive-branch information lets agencies share sensitive matters with contractors without fear that they will be disclosed. The fact sheet also lists what the White House presents as the administration's wider record.
+
+The descriptions are the White House's own.
+
+
+===== FILE: news/IS_NEWS_2026-11-20-white-house-hr-10167-common-cents-act.md · ID: IS-NEWS-2026-11-20-WHITE-HOUSE-HR-10167-COMMON-CENTS-ACT =====
+
+```yaml
+id: IS-NEWS-2026-11-20-WHITE-HOUSE-HR-10167-COMMON-CENTS-ACT
+slug: 2026-11-20-white-house-hr-10167-common-cents-act
+title: White House release: H.R. 10167 – Common Cents Act
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-20
+date_precision: day
+publisher: The White House
+source_type: Official
+issuing_office: 
+url: https://www.whitehouse.gov/briefings-statements/2026/11/h-r-10167-common-cents-act/
+archived_url: 
+industry: 
+event: Regulation & law
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: whitehouse.gov listing, 21 Nov 2026 (decision 0052); title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# White House release: H.R. 10167 – Common Cents Act
+
+*The White House, 2026-11-20. Original: <https://www.whitehouse.gov/briefings-statements/2026/11/h-r-10167-common-cents-act/>*
+
+The White House said the President signed the Common Cents Act, which it said directs the Treasury to stop minting pennies except for collectors, gives guidance on rounding cash transactions, and allows cheaper materials for nickels.
+
+
+===== FILE: news/IS_NEWS_2026-11-20-white-house-national-adoption-month-2026.md · ID: IS-NEWS-2026-11-20-WHITE-HOUSE-NATIONAL-ADOPTION-MONTH-2026 =====
+
+```yaml
+id: IS-NEWS-2026-11-20-WHITE-HOUSE-NATIONAL-ADOPTION-MONTH-2026
+slug: 2026-11-20-white-house-national-adoption-month-2026
+title: White House release: NATIONAL ADOPTION MONTH, 2026
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-20
+date_precision: day
+publisher: The White House
+source_type: Official
+issuing_office: 
+url: https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026/
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: whitehouse.gov listing, 21 Nov 2026 (decision 0052); title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# White House release: NATIONAL ADOPTION MONTH, 2026
+
+*The White House, 2026-11-20. Original: <https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026/>*
+
+The White House published a presidential proclamation marking November 2026 as National Adoption Month. The proclamation honours adoptive families and cites expanded adoption and child tax credits and the administration's "Fostering the Future" initiatives.
+
+The descriptions are the White House's own.
+
+
+===== FILE: news/IS_NEWS_2026-11-20-white-house-pentagon-cyber-chief-named-national-cyber-director.md · ID: IS-NEWS-2026-11-20-WHITE-HOUSE-PENTAGON-CYBER-CHIEF-NAMED-NATIONAL-CYBER-DIRECTOR =====
+
+```yaml
+id: IS-NEWS-2026-11-20-WHITE-HOUSE-PENTAGON-CYBER-CHIEF-NAMED-NATIONAL-CYBER-DIRECTOR
+slug: 2026-11-20-white-house-pentagon-cyber-chief-named-national-cyber-director
+title: White House release: President [name] Taps Pentagon Cyber Chief [name] as National Cyber Director
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-20
+date_precision: day
+publisher: The White House
+source_type: Official
+issuing_office: 
+url: https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/
+archived_url: 
+industry: Government cloud & surveillance technology
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: whitehouse.gov listing, 21 Nov 2026 (decision 0052); title is the department's own, quoted; [name] replaces a personal name in the headline
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# White House release: President [name] Taps Pentagon Cyber Chief [name] as National Cyber Director
+
+*The White House, 2026-11-20. Original: <https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/>*
+
+The White House said the President has chosen the Pentagon's Chief Information Officer to lead the Office of the National Cyber Director. The release cites the administration's national cyber strategy and a 2030 deadline for moving high-value federal systems to post-quantum cryptography.
+
+The descriptions are the White House's own.
+
+
+===== FILE: news/IS_NEWS_2026-11-20-white-house-three-congressional-bills-signed-into-law.md · ID: IS-NEWS-2026-11-20-WHITE-HOUSE-THREE-CONGRESSIONAL-BILLS-SIGNED-INTO-LAW =====
+
+```yaml
+id: IS-NEWS-2026-11-20-WHITE-HOUSE-THREE-CONGRESSIONAL-BILLS-SIGNED-INTO-LAW
+slug: 2026-11-20-white-house-three-congressional-bills-signed-into-law
+title: White House release: Congressional Bills H.R. 5284, H.R. 8352, and H.R. 10159 Signed into Law
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-20
+date_precision: day
+publisher: The White House
+source_type: Official
+issuing_office: 
+url: https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-5284-h-r-8352-and-h-r-10159-signed-into-law/
+archived_url: 
+industry: 
+event: Regulation & law
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: whitehouse.gov listing, 21 Nov 2026 (decision 0052); title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# White House release: Congressional Bills H.R. 5284, H.R. 8352, and H.R. 10159 Signed into Law
+
+*The White House, 2026-11-20. Original: <https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-5284-h-r-8352-and-h-r-10159-signed-into-law/>*
+
+The White House said the President signed three bills into law: the Claiming Age Clarity Act, which changes Social Security terminology; the Criminal History Access Act of 2026, which lets the Justice Department share criminal identification records with state, District of Columbia and territory agencies that set standards and training for peace officers; and H.R. 10159, which transfers land at Fort Bragg to North Carolina for a veterans' home.
+
+
+===== FILE: news/IS_NEWS_2026-11-20-white-house-what-they-are-saying-american-affordability-and-jobs-act.md · ID: IS-NEWS-2026-11-20-WHITE-HOUSE-WHAT-THEY-ARE-SAYING-AMERICAN-AFFORDABILITY-AND-JOBS-ACT =====
+
+```yaml
+id: IS-NEWS-2026-11-20-WHITE-HOUSE-WHAT-THEY-ARE-SAYING-AMERICAN-AFFORDABILITY-AND-JOBS-ACT
+slug: 2026-11-20-white-house-what-they-are-saying-american-affordability-and-jobs-act
+title: White House release: WHAT THEY ARE SAYING: Send the Bipartisan American Affordability and Jobs Act to President [name]’s Desk
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-20
+date_precision: day
+publisher: The White House
+source_type: Official
+issuing_office: 
+url: https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk/
+archived_url: 
+industry: 
+event: Regulation & law
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: whitehouse.gov listing, 21 Nov 2026 (decision 0052); title is the department's own, quoted; [name] replaces a personal name in the headline
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# White House release: WHAT THEY ARE SAYING: Send the Bipartisan American Affordability and Jobs Act to President [name]’s Desk
+
+*The White House, 2026-11-20. Original: <https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk/>*
+
+The White House collected statements urging the House to pass the American Affordability and Jobs Act, which it said the Senate has passed. According to the release, the bill would set enforceable deadlines for environmental reviews under the National Environmental Policy Act, speed up electricity transmission projects and reduce delays from litigation.
+
+The descriptions are the White House's own; the bill awaits a House vote.
+
+
+===== FILE: news/IS_NEWS_2026-11-21-irans-judiciary-warns-citizens-abroad-that-critical-posts-online-could-lead-to-frozen-assets-and-arrest-on-ret.md · ID: IS-NEWS-2026-11-21-IRANS-JUDICIARY-WARNS-CITIZENS-ABROAD-THAT-CRITICAL-POSTS-ONLINE-COULD-LEAD-TO-FROZEN-ASSETS-AND-ARREST-ON-RET =====
+
+```yaml
+id: IS-NEWS-2026-11-21-IRANS-JUDICIARY-WARNS-CITIZENS-ABROAD-THAT-CRITICAL-POSTS-ONLINE-COULD-LEAD-TO-FROZEN-ASSETS-AND-ARREST-ON-RET
+slug: 2026-11-21-irans-judiciary-warns-citizens-abroad-that-critical-posts-online-could-lead-to-frozen-assets-and-arrest-on-ret
+title: Iran's judiciary warns citizens abroad that critical posts online could lead to frozen assets and arrest on return, an exile broadcaster reports
+collection: news
+doc_type: news-item
+date: 2026-11-21
+date_precision: day
+publisher: Iran International
+source_type: News
+issuing_office: 
+url: https://www.iranintl.com/en/liveblog/202611214578#202611210347
+archived_url: 
+industry: 
+event: Transnational repression
+country: Iran
+stage: 
+related: 
+summary_status: draft
+found_via: English and Persian search, asset freezes against exiles, 18-21 Nov 2026 window; the broadcaster cites an Iranian outlet, which was not opened; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Iran's judiciary warns citizens abroad that critical posts online could lead to frozen assets and arrest on return, an exile broadcaster reports
+
+*Iran International, 2026-11-21. Original: <https://www.iranintl.com/en/liveblog/202611214578#202611210347>*
+
+Iran International, a London-based Persian-language broadcaster, reports that the spokesman for Iran's judiciary said people abroad who post criticism under their real names are identified from law-enforcement reports and could have their assets in Iran frozen and be arrested if they return. According to the broadcaster, citing an Iranian outlet, the spokesman said the authorities could also seek arrests through Interpol, impose travel restrictions and suspend some government services case by case.
+
+The account of the remarks is the broadcaster's own, relayed from Iranian media, and has not been independently confirmed.
+
+
+===== FILE: news/IS_NEWS_2026-11-21-taiwan-prosecutors-indict-a-local-election-candidate-and-four-others-under-the-anti-infiltration-act-over-alle.md · ID: IS-NEWS-2026-11-21-TAIWAN-PROSECUTORS-INDICT-A-LOCAL-ELECTION-CANDIDATE-AND-FOUR-OTHERS-UNDER-THE-ANTI-INFILTRATION-ACT-OVER-ALLE =====
+
+```yaml
+id: IS-NEWS-2026-11-21-TAIWAN-PROSECUTORS-INDICT-A-LOCAL-ELECTION-CANDIDATE-AND-FOUR-OTHERS-UNDER-THE-ANTI-INFILTRATION-ACT-OVER-ALLE
+slug: 2026-11-21-taiwan-prosecutors-indict-a-local-election-candidate-and-four-others-under-the-anti-infiltration-act-over-alle
+title: Taiwan prosecutors indict a local-election candidate and four others under the Anti-Infiltration Act over alleged Chinese funding and fake-account support
+collection: news
+doc_type: news-item
+date: 2026-11-21
+date_precision: day
+publisher: Taipei Times
+source_type: News
+issuing_office: New Taipei District Prosecutors' Office
+url: https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868135
+archived_url: 
+industry: 
+event: Espionage & foreign agents
+country: Taiwan
+stage: charged
+related: 
+summary_status: draft
+found_via: English search, espionage and foreign influence, 18-21 Nov 2026 window; title in our own words, without personal names
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Taiwan prosecutors indict a local-election candidate and four others under the Anti-Infiltration Act over alleged Chinese funding and fake-account support
+
+*Taipei Times, 2026-11-21. Original: <https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868135>*
+
+The Taipei Times reports that the New Taipei District Prosecutors' Office indicted a local-election candidate and four others under the Anti-Infiltration Act, alleging she received NT$300,000 a month, free online campaign support and US$10,000 in cash in Xiamen from two Chinese officials, and that about 20,000 fake accounts were used to boost her posts. According to the report, prosecutors say the officials expected access to political intelligence and stopped the funding after she lost a primary, and they are seeking a six-year sentence.
+
+The charges also include data-protection and breach-of-trust offences. These are accusations; every defendant is presumed innocent unless proven guilty in court.
 
 
 ===== FILE: news/IS_NEWS_undated-anomalous-health-incidents.md · ID: IS-NEWS-UNDATED-ANOMALOUS-HEALTH-INCIDENTS =====
