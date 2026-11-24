@@ -10,28 +10,28 @@ convicted or was sentenced. See `meta/IS_META_terms.md`.*
 
 ## What is here
 
-- 868 items, 2011-09-28 to 2026-11-21: 314 official, 193 analysis, 172 news, 167 trade press, 22 research.
-- 868 of 868 carry a summary so far; the rest say so.
+- 911 items, 2011-09-28 to 2026-11-23: 336 official, 203 analysis, 183 news, 167 trade press, 22 research.
+- 911 of 911 carry a summary so far; the rest say so.
 - `index.json` holds every item's header in one file, for counting and filtering.
 
 ## By kind of event
 
 | Kind of event | Items |
 |---|---|
-| Regulation & law | 196 |
+| Regulation & law | 208 |
 | Contracts & deployments | 133 |
-| Courts & litigation | 99 |
-| Espionage & foreign agents | 90 |
-| Research & breakthroughs | 79 |
-|  | 76 |
+| Courts & litigation | 103 |
+| Espionage & foreign agents | 94 |
+|  | 93 |
+| Research & breakthroughs | 80 |
 | Technology theft & export control | 57 |
-| Reports & statistics | 34 |
-| Transnational repression | 29 |
+| Reports & statistics | 35 |
+| Transnational repression | 30 |
+| Murder for hire & violent plots | 22 |
 | Public health | 22 |
-| Murder for hire & violent plots | 21 |
+| Protests | 12 |
 | Global conflict | 12 |
-| Protests | 11 |
-| Outages & disruptions | 9 |
+| Outages & disruptions | 10 |
 
 ## Fields
 

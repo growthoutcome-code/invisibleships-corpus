@@ -3,8 +3,8 @@ id: IS-BUNDLE-09-NEWS
 title: "News"
 collection: bundles
 doc_type: bundle
-files: 869
-approx_tokens: 488,218
+files: 912
+approx_tokens: 514,506
 contains: [news]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -15,7 +15,7 @@ disclaimer: meta/IS_META_terms.md
 
 Official releases and outside reporting, one item per section, each summarised and linked.
 
-This file joins 869 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
+This file joins 912 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 
@@ -151,10 +151,13 @@ This file joins 869 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2022-10-20-facial-recognition-20-million-euros-penalty-against.md` — Facial recognition: 20 million euros penalty against Clearview AI
 - `news/IS_NEWS_2022-10-24-chinese-intelligence-officers-charged-with-using-academic.md` — Chinese Intelligence Officers Charged with Using Academic Cover to Target Individuals in United States
 - `news/IS_NEWS_2022-10-24-two-arrested-and-13-charged-in-three-separate-cases-alleging.md` — Two arrested and 13 charged in three separate cases alleging malign schemes in the United States
+- `news/IS_NEWS_2022-11-03-analysis-enforcement-of-europe-s-data-protection-law-on-automated-decisions-holds-lessons-for-the-eu-ai-act.md` — Enforcement of Europe's data protection law on automated decisions holds lessons for the EU AI Act
+- `news/IS_NEWS_2022-11-17-analysis-extended-reality-headsets-depend-on-body-based-data-that-current-privacy-laws-may-not-clearly-cover.md` — Extended reality headsets depend on body-based data that current privacy laws may not clearly cover
 - `news/IS_NEWS_2022-11-30-microsoft-365-faces-more-gdpr-headwinds-in-germany-dsk.md` — Microsoft 365 faces more GDPR headwinds in Germany (DSK assessment)
 - `news/IS_NEWS_2022-12-07-pentagon-awards-9b-cloud-contract-to-amazon-google-microsoft.md` — Pentagon Awards $9B Cloud Contract to Amazon, Google, Microsoft, Oracle
 - `news/IS_NEWS_2022-12-07-pentagon-awards-aws-google-microsoft-oracle-spots-on-9b-jwcc.md` — Pentagon awards AWS, Google, Microsoft, Oracle spots on $9B JWCC
 - `news/IS_NEWS_2022-12-08-us-dod-awards-9bn-jwcc.md` — US DoD awards $9bn JWCC
+- `news/IS_NEWS_2022-12-12-analysis-public-comments-on-the-ftc-s-proposed-privacy-rulemaking-agree-on-data-minimisation-and-split-on.md` — Public comments on the FTC's proposed privacy rulemaking agree on data minimisation and split on the agency's authority
 - `news/IS_NEWS_2022-12-12-cloud-based-fingerprint-system-for-uk-police-nears.md` — Cloud-based fingerprint system for UK police nears completion
 - `news/IS_NEWS_2022-12-13-medical-software-in-russia-egisz-emias.md` — Medical software in Russia (EGISZ / EMIAS)
 - `news/IS_NEWS_2022-12-21-veterans-minister-on-assisted-dying-discussions.md` — Veterans minister on assisted-dying discussions
@@ -164,6 +167,7 @@ This file joins 869 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2023-02-08-mod-issues-revised-cloud-strategy.md` — MoD issues revised cloud strategy
 - `news/IS_NEWS_2023-03-23-gds-goes-serverless-with-one-login.md` — GDS goes serverless with One Login
 - `news/IS_NEWS_2023-03-24-russian-national-illegal-charged-with-acting-as-agent-of-a.md` — Russian National "Illegal" Charged with Acting as Agent of a Russian Intelligence Service in the United States
+- `news/IS_NEWS_2023-03-30-analysis-workplaces-adopting-large-language-models-need-policies-on-data-ownership-and-bias.md` — Workplaces adopting large language models need policies on data, ownership and bias
 - `news/IS_NEWS_2023-04-01-analysis-online-harassment-persists-because-the-law-gives-platforms-little-reason-to-act.md` — Online harassment persists because the law gives platforms little reason to act, so their legal shield should depend on reasonable care
 - `news/IS_NEWS_2023-04-17-40-officers-of-china-s-national-police-charged-in.md` — 40 officers of China's national police charged in transnational repression schemes targeting U.S. residents
 - `news/IS_NEWS_2023-04-17-two-arrested-for-operating-illegal-overseas-police-station.md` — Two arrested for operating illegal overseas police station of the Chinese government
@@ -256,6 +260,7 @@ This file joins 869 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2025-02-07-analysis-giving-a-new-government-team-access-to-federal-databases-breaks-privacy-act-commitments.md` — Giving a new government team access to federal databases breaks the founding commitments of the Privacy Act of 1974
 - `news/IS_NEWS_2025-02-19-meta-s-mind-reader-brain2qwerty-translates-thoughts-into.md` — Meta's mind reader: Brain2Qwerty translates thoughts into text
 - `news/IS_NEWS_2025-02-26-analysis-u-s-health-data-privacy-is-a-patchwork-that-leaves-app-and-wearable-data-including-mental-health.md` — U.S. health-data privacy is a patchwork that leaves app and wearable data, including mental-health data, exposed
+- `news/IS_NEWS_2025-03-01-analysis-transparency-bias-fixes-ethics-principles-and-user-choice-are-ai-half-measures-so-lawmakers-must.md` — Transparency, bias fixes, ethics principles and user choice are AI half measures, so lawmakers must draw substantive lines
 - `news/IS_NEWS_2025-03-05-justice-department-charges-12-chinese-contract-hackers-and.md` — Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns
 - `news/IS_NEWS_2025-03-06-active-duty-and-former-u-s-army-soldiers-arrested-for-theft.md` — Active-Duty and Former U.S. Army Soldiers Arrested for Theft of Government Property and Bribery Scheme
 - `news/IS_NEWS_2025-03-06-israel-military-ai-surveillance.md` — Israel military AI surveillance
@@ -331,6 +336,7 @@ This file joins 869 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2025-09-25-the-mind-act-neural-data-bill-in-congress.md` — The MIND Act: neural data bill in Congress
 - `news/IS_NEWS_2025-09-29-analysis-why-ai-decisions-are-hard-to-explain-and-why-transparency-laws-may-not-help-the-people-affected.md` — Why AI decisions are hard to explain, and why transparency laws may not help the people affected
 - `news/IS_NEWS_2025-09-30-analysis-a-consumer-neural-wristband-launches-but-cameras-reading-faces-may-already-reveal-brain-activity.md` — A consumer neural wristband launches, but cameras reading faces may already reveal brain activity
+- `news/IS_NEWS_2025-10-01-analysis-brain-data-is-becoming-readable-so-the-mind-needs-a-right-to-cognitive-liberty.md` — Brain data is becoming readable, so the mind needs a right to cognitive liberty
 - `news/IS_NEWS_2025-10-01-analysis-who-pays-when-ai-causes-harm-product-liability-europe-s-withdrawn-directive-and-a-proposed-u-s.md` — Who pays when AI causes harm? Product liability, Europe's withdrawn directive and a proposed U.S. federal law
 - `news/IS_NEWS_2025-10-06-analysis-testing-ai-for-safety-when-models-can-tell-they-are-being-tested.md` — Testing AI for safety when models can tell they are being tested
 - `news/IS_NEWS_2025-10-08-analysis-how-the-law-treats-people-who-probe-ai-for-flaws-and-how-two-u-s-states-answered-differently.md` — How the law treats people who probe AI for flaws, and how two U.S. states answered differently
@@ -356,6 +362,7 @@ This file joins 869 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2025-11-19-analysis-rolling-back-privacy-and-ai-rules-will-not-spur-innovation-an-argument-aimed-at-europe-s.md` — Rolling back privacy and AI rules will not spur innovation, an argument aimed at Europe's simplification push
 - `news/IS_NEWS_2025-11-19-analysis-u-s-chip-export-controls-as-a-tool-for-managing-ai-risk-and-their-limits.md` — U.S. chip export controls as a tool for managing AI risk, and their limits
 - `news/IS_NEWS_2025-11-26-analysis-an-executive-order-frames-a-federal-ai-science-initiative-as-a-wartime-project-raising-questions-of.md` — An executive order frames a federal AI science initiative as a wartime project, raising questions of authority
+- `news/IS_NEWS_2025-12-01-analysis-ai-systems-are-built-in-ways-that-erode-expertise-decision-making-and-human-connection-and-so.md` — AI systems are built in ways that erode expertise, decision-making and human connection, and so threaten civic institutions
 - `news/IS_NEWS_2025-12-01-analysis-how-china-governs-ai-three-layers-coordinated-agencies-and-a-bid-for-global-rules.md` — How China governs AI: three layers, coordinated agencies and a bid for global rules
 - `news/IS_NEWS_2025-12-09-analysis-when-ai-agents-act-on-their-own-failures-agency-law-and-the-gaps-in-governance.md` — When AI agents act on their own: failures, agency law and the gaps in governance
 - `news/IS_NEWS_2025-12-12-analysis-the-executive-order-aimed-at-state-ai-laws-and-the-constitutional-questions-it-raises.md` — The executive order aimed at state AI laws, and the constitutional questions it raises
@@ -403,6 +410,7 @@ This file joins 869 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-03-16-analysis-a-public-guide-to-protecting-brain-data-from-consumer-neurotechnology-with-a-mental-privacy.md` — A public guide to protecting brain data from consumer neurotechnology, with a mental-privacy checklist
 - `news/IS_NEWS_2026-03-16-analysis-clicking-agree-to-terms-of-service-is-rarely-meaningful-consent-and-three-theories-of-what-goes-wrong.md` — Clicking agree to terms of service is rarely meaningful consent, and three theories of what goes wrong
 - `news/IS_NEWS_2026-03-18-analysis-the-design-of-the-choice-environment-not-only-missing-information-undermines-online-consent.md` — The design of the choice environment, not only missing information, undermines online consent
+- `news/IS_NEWS_2026-03-19-analysis-non-medical-neurotechnology-should-be-presumptively-restricted-and-regulated-by-what-is-inferred.md` — Non-medical neurotechnology should be presumptively restricted and regulated by what is inferred from brain data
 - `news/IS_NEWS_2026-03-23-analysis-the-senate-passed-an-updated-childrens-online-privacy-bill-unanimously-but-it-does-not-require-age-verificatio.md` — The Senate passed an updated children's online privacy bill unanimously, but it does not require age verification
 - `news/IS_NEWS_2026-03-23-analysis-three-theories-of-broken-online-consent-tested-against-a-data-broker-deletion-law-children-s-privacy.md` — Three theories of broken online consent tested against a data-broker deletion law, children's privacy rules and a design code
 - `news/IS_NEWS_2026-03-24-new-lipid-nanoparticle-design-improves-precision-of-mrna-vaccine-delivery.md` — New lipid nanoparticle design improves precision of mRNA vaccine delivery
@@ -432,6 +440,7 @@ This file joins 869 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-06-04-american-citizen-pleads-guilty-to-working-as-an-agent-for.md` — American Citizen Pleads Guilty to Working as an Agent for the People's Republic of China
 - `news/IS_NEWS_2026-06-06-analysis-orwell-or-huxley-both-dystopias-describe-today-s-world-but-neither-foresaw-the-role-of.md` — Orwell or Huxley: both dystopias describe today's world, but neither foresaw the role of corporations
 - `news/IS_NEWS_2026-06-10-analysis-a-television-drama-read-as-a-study-of-authoritarian-rule-surveillance-and-the-people-who-serve.md` — A television drama read as a study of authoritarian rule, surveillance and the people who serve it
+- `news/IS_NEWS_2026-06-15-analysis-privacy-law-should-protect-obscurity-as-a-right-grounded-in-dignity-with-bans-for-some-threats-and.md` — Privacy law should protect obscurity as a right grounded in dignity, with bans for some threats and targeted remedies for others
 - `news/IS_NEWS_2026-06-15-aws-secures-2-6b-dhs-wide-cumulus-cloud-project.md` — AWS secures $2.6B DHS-wide Cumulus cloud project
 - `news/IS_NEWS_2026-06-16-dhs-finalizes-first-cumulus-cloud-contract-with-aws.md` — DHS finalizes first Cumulus cloud contract with AWS
 - `news/IS_NEWS_2026-06-17-analysis-six-reasons-why-treating-personal-data-as-property-would-not-protect-privacy.md` — Six reasons why treating personal data as property would not protect privacy
@@ -453,6 +462,7 @@ This file joins 869 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-08-23-analysis-u-s-state-consumer-privacy-laws-share-more-than-they-differ-a-primer-on-scope-rights-and.md` — U.S. state consumer privacy laws share more than they differ: a primer on scope, rights and enforcement
 - `news/IS_NEWS_2026-08-24-analysis-a-new-run-of-an-ai-law-course-opens-with-why-the-law-struggles-to-define-artificial-intelligence.md` — A new run of an AI law course opens with why the law struggles to define artificial intelligence
 - `news/IS_NEWS_2026-08-26-analysis-why-ai-invented-case-citations-keep-reaching-courts-explained-through-how-language-models-predict-text.md` — Why AI-invented case citations keep reaching courts, explained through how language models predict text
+- `news/IS_NEWS_2026-08-27-analysis-watermarks-on-ai-generated-text-are-imperfect-provenance-data-and-should-not-be-treated-as-proof-of.md` — Watermarks on AI-generated text are imperfect provenance data and should not be treated as proof of authorship
 - `news/IS_NEWS_2026-08-31-analysis-what-open-means-for-an-ai-model-and-why-open-weight-releases-gained-the-upper-hand-in-2026.md` — What 'open' means for an AI model, and why open-weight releases gained the upper hand in 2026
 - `news/IS_NEWS_2026-09-01-american-citizen-who-worked-as-an-agent-for-the-prc.md` — American Citizen who Worked as an Agent for the PRC Sentenced to Two Years in Prison
 - `news/IS_NEWS_2026-09-02-analysis-four-questions-for-judging-any-open-weight-ai-release-and-three-ways-to-govern-such-models.md` — Four questions for judging any open-weight AI release, and three ways to govern such models
@@ -498,9 +508,11 @@ This file joins 869 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-10-05-no-65-declaring-a-disaster-emergency-in-the-state-of-new-york.md` — No. 65: Declaring a Disaster Emergency in the State of New York Due to an Ongoing Measles Outbreak
 - `news/IS_NEWS_2026-10-06-aepd-sets-out-safeguards-for-ai-in-video-surveillance-systems.md` — The AEPD sets out the safeguards for incorporating artificial intelligence into video surveillance systems
 - `news/IS_NEWS_2026-10-06-analysis-election-deepfake-laws-at-six-points-of-intervention-and-why-speed-and-the-first-amendment-defeat-most-of-them.md` — Election deepfake laws at six points of intervention, and why speed and the First Amendment defeat most of them
+- `news/IS_NEWS_2026-10-06-fbi-former-federal-employee-pleads-guilty-to-defrauding-the-government-of-194-million.md` — FBI release: Former Federal Employee Pleads Guilty to Defrauding the Federal Government of Approximately $194 Million
 - `news/IS_NEWS_2026-10-06-festnahmen-wegen-mutmasslicher-landesverraeterischer-ausspaehung.md` — Arrests for alleged treasonous espionage, gathering of state secrets, attempted treason and spying
 - `news/IS_NEWS_2026-10-06-us-social-security-awards-identity-biometrics-deal-worth-up-to-29-6m.md` — US Social Security awards Carahsoft identity, biometrics deal worth up to $29.6M
 - `news/IS_NEWS_2026-10-07-bridge-neurotech-and-butterfly-network-partner-on-non-invasive-bci.md` — Bridge Neurotech and Butterfly Network Announce Partnership to Develop Fully Non-Invasive Brain-Computer Interface
+- `news/IS_NEWS_2026-10-07-fbi-man-charged-in-alleged-isis-inspired-mall-of-america-shooting-plot.md` — FBI release: Man Arrested and Charged for Role in Plotting to Conduct a Mass-Shooting Event in Support of ISIS at the Mall of America
 - `news/IS_NEWS_2026-10-07-graphene-technology-provides-real-time-insight-into-brain-vulnerability-after-stroke.md` — Graphene technology provides real-time insight into brain vulnerability after stroke
 - `news/IS_NEWS_2026-10-07-inbrain-and-minigraph-consortium-develop-magnetically-guided-robotic-implantation-for-graphene-bcis.md` — INBRAIN and MINIGRAPH consortium develop magnetically guided robotic implantation for ultra-thin graphene brain-computer interfaces
 - `news/IS_NEWS_2026-10-07-pennsylvania-measles-outbreak-update-cases-reach-1078-in-41-counties.md` — Pennsylvania Department of Health Provides Statewide Update on Measles Outbreak as Cases Reach 1,078 in 41 Counties
@@ -519,6 +531,10 @@ This file joins 869 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-10-08-yandex-data-center-hit-in-drone-attack-in-russia.md` — Yandex data center hit in drone attack in Russia
 - `news/IS_NEWS_2026-10-09-a-breakthrough-approach-for-treating-parkinsons-disease.md` — A breakthrough approach for treating Parkinson's disease
 - `news/IS_NEWS_2026-10-09-analysis-telling-ai-manipulation-apart-from-ai-harm-and-why-the-label-decides-which-laws-and-controls-apply.md` — Telling AI manipulation apart from AI harm, and why the label decides which laws and controls apply
+- `news/IS_NEWS_2026-10-09-dhs-disputes-new-york-officials-on-ice-shooting-in-the-bronx.md` — DHS release: DHS Debunks New York Sanctuary Politicians' Lies About ICE Shooting of Illegal Alien Gang Member, Condemns Sanctuary New York for Refusing to Honor Nearly 15,000 ICE Detainers
+- `news/IS_NEWS_2026-10-09-dhs-highlights-worst-illegal-aliens-arrested-in-syracuse-new-york.md` — DHS release: DHS Highlights Worst Illegal Aliens Arrested in Syracuse, New York
+- `news/IS_NEWS_2026-10-09-dhs-make-america-safe-again-deportations-of-gang-members.md` — DHS release: MAKE AMERICA SAFE AGAIN: DHS Deports Illegal Alien Gangsters, Including Attempted Murderers, Violent Assailants, Robbers, and Drunk Drivers
+- `news/IS_NEWS_2026-10-09-dhs-worst-of-the-worst-ice-arrests-murderers-pedophiles-and-rapists.md` — DHS release: WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Rapists
 - `news/IS_NEWS_2026-10-09-how-nanomedicine-could-turn-immune-resistant-tumors-against-themselves.md` — How nanomedicine could turn immune-resistant tumors against themselves
 - `news/IS_NEWS_2026-10-09-ice-scraps-visa-vetting-system-recompete-in-favor-of-palantir-foundry.md` — ICE scraps visa vetting system recompete in favor of Palantir Foundry
 - `news/IS_NEWS_2026-10-09-ice-voter-data-nonprofit-investigations-expose-expansive-surveillance-machinery.md` — ICE voter data, nonprofit investigations expose expansive surveillance machinery
@@ -531,11 +547,17 @@ This file joins 869 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-10-09-us-surpasses-4000-measles-cases-with-infections-confirmed-in-45-states.md` — US surpasses 4,000 measles cases with infections confirmed in 45 states: CDC
 - `news/IS_NEWS_2026-10-11-dhs-biometric-overhaul-remains-tied-to-thales-as-hart-deadline-passes.md` — DHS biometric overhaul remains tied to Thales as HART deadline passes
 - `news/IS_NEWS_2026-10-12-cedars-sinai-cancer-smart-bomb-to-get-development-boost.md` — Cedars-Sinai Cancer 'Smart Bomb' to Get Development Boost
+- `news/IS_NEWS_2026-10-12-dhs-highlights-victims-of-crime-in-sanctuary-new-york.md` — DHS release: DHS Highlights Victims of Illegal Alien Crime in Sanctuary New York
+- `news/IS_NEWS_2026-10-12-dhs-new-data-new-york-refused-more-than-16000-ice-detainers.md` — DHS release: DHS Releases New Data Revealing that New York has Refused to Honor More Than 16,000 ICE Detainers
 - `news/IS_NEWS_2026-10-12-memphis-council-delays-decision-on-year-long-data-center-moratorium.md` — Memphis council delays decision on year-long data center moratorium despite protests
 - `news/IS_NEWS_2026-10-12-russian-military-takes-out-more-ukrainian-data-centers.md` — Russian military takes out more Ukrainian data centers
 - `news/IS_NEWS_2026-10-12-super-micro-contractor-pleaded-guilty-to-smuggling-ai-servers-to-china.md` — Super Micro contractor pleaded guilty to smuggling $2.5B in Nvidia AI servers to China
 - `news/IS_NEWS_2026-10-12-third-strike-on-yandex-data-center-in-russia.md` — Third strike on Yandex data center in Russia
 - `news/IS_NEWS_2026-10-13-council-unanimously-approves-data-center-moratorium.md` — Council Unanimously Approves Data Center Moratorium
+- `news/IS_NEWS_2026-10-13-dhs-ccht-chronicle-october-2026.md` — DHS release: CCHT Chronicle: October 2026
+- `news/IS_NEWS_2026-10-13-dhs-hsi-arrests-non-citizen-charged-with-illegally-voting-in-pennsylvania.md` — DHS release: HSI Arrests Alien Charged with Illegally Voting in Pennsylvania
+- `news/IS_NEWS_2026-10-13-dhs-ice-arrests-couple-after-multi-state-jewelry-theft-charges.md` — DHS release: ILLEGAL ALIEN BONNIE AND CLYDE: ICE Arrests Illegal Alien Couple After Multi-State Jewelry Theft Spree
+- `news/IS_NEWS_2026-10-13-dhs-worst-of-the-worst-columbus-day-weekend-ice-arrests.md` — DHS release: WORST OF THE WORST: Over Columbus Day Weekend, ICE Arrests Murderers, Pedophiles, Rapists, Drug Traffickers, and Drunk Drivers
 - `news/IS_NEWS_2026-10-13-home-office-asylum-ai-flunks-one-in-five-accuracy-checks.md` — Home Office asylum AI flunks one in five accuracy checks
 - `news/IS_NEWS_2026-10-13-ice-contract-reveals-ai-social-media-monitoring-capabilities.md` — ICE contract reveals AI social media monitoring capabilities, raises surveillance questions
 - `news/IS_NEWS_2026-10-13-ice-seeks-voice-biometrics-to-identify-detainees-outside-callers.md` — ICE seeks voice biometrics to identify detainees, outside callers in AI surveillance system
@@ -547,7 +569,10 @@ This file joins 869 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-10-13-statement-on-smart-glasses.md` — Statement on Smart glasses
 - `news/IS_NEWS_2026-10-14-analysis-five-legal-models-for-governing-ai-manipulation-from-liability-after-harm-to-a-right-to-cognitive-liberty.md` — Five legal models for governing AI manipulation, from liability after harm to a right to cognitive liberty
 - `news/IS_NEWS_2026-10-14-cdc-to-deploy-additional-support-to-pennsylvania-to-probe-measles-outbreak.md` — CDC to deploy additional support to Pennsylvania to probe measles outbreak
+- `news/IS_NEWS_2026-10-14-dhs-ice-hsi-arrests-cuban-national-for-illegally-voting-in-missouri.md` — DHS release: ICE HSI Arrests Cuban Alien for Illegally Voting in Past Elections in Missouri
+- `news/IS_NEWS_2026-10-14-dhs-worst-of-the-worst-ice-arrests-pedophiles-sexual-predators-and-domestic-assailants.md` — DHS release: WORST OF THE WORST: ICE Arrests Pedophiles, Sexual Predators, and Domestic Assailants
 - `news/IS_NEWS_2026-10-14-eus-ai-rules-face-first-enforcement-test-over-lab-incidents.md` — EU's AI rules face first enforcement test over lab incidents
+- `news/IS_NEWS_2026-10-14-fbi-special-agents-graduate-from-national-academy-program-for-the-first-time.md` — FBI release: FBI Special Agents Graduate from National Academy Program for the First Time
 - `news/IS_NEWS_2026-10-14-federal-law-enforcement-cbp-and-ice-should-improve-body-worn-camera-program-management.md` — Federal Law Enforcement: CBP and ICE Should Improve Body-Worn Camera Program Management
 - `news/IS_NEWS_2026-10-14-quantum-computing-federal-actions-needed-to-prepare-for-emerging-cyber-threat.md` — Quantum Computing: Federal Actions Needed to Prepare for Emerging Cyber Threat
 - `news/IS_NEWS_2026-10-14-reno-pd-liability-in-facial-recognition-arrest-lawsuit-comes-down-to-training.md` — Reno PD liability in facial recognition arrest lawsuit comes down to training
@@ -556,6 +581,11 @@ This file joins 869 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-10-15-a-new-lipid-recipe-helps-mrna-delivery-stay-on-target.md` — A new lipid recipe helps mRNA delivery stay on target
 - `news/IS_NEWS_2026-10-15-analysis-disclosing-ai-use-in-academic-writing-runs-into-vague-and-inconsistent-journal-rules.md` — Disclosing AI use in academic writing runs into vague and inconsistent journal rules
 - `news/IS_NEWS_2026-10-15-dhs-audit-exposes-tsa-access-control-failures-amid-biometric-expansion.md` — DHS audit exposes TSA access control failures amid biometric expansion
+- `news/IS_NEWS_2026-10-15-dhs-hsi-arrest-of-man-released-by-oregon-sanctuary-politicians.md` — DHS release: HSI Investigation Leads to Arrest of Sex Offender Illegal Alien Released by Oregon Sanctuary Politicians
+- `news/IS_NEWS_2026-10-15-dhs-hsi-arrests-naturalized-citizen-for-illegally-voting-in-new-jersey.md` — DHS release: HSI Arrests Naturalized Citizen for Illegally Voting in New Jersey Prior to Naturalization
+- `news/IS_NEWS_2026-10-15-dhs-ice-arrests-five-time-deported-man-during-traffic-stop-in-california.md` — DHS release: ICE Arrests Five-Time Deported Felon During Traffic Stop in California
+- `news/IS_NEWS_2026-10-15-dhs-st-feature-article-next-gen-911-interoperability-one-step-closer.md` — DHS release: Feature Article: Next-Gen 911 Interoperability - One Step Closer
+- `news/IS_NEWS_2026-10-15-dhs-worst-of-the-worst-ice-arrests-killers-pedophiles-and-violent-assailants.md` — DHS release: WORST OF THE WORST: ICE Arrests Killers, Pedophiles, and Violent Assailants
 - `news/IS_NEWS_2026-10-15-exposing-adfection-targeted-ads-pipeline-for-zero-click-mercenary-spyware.md` — Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware
 - `news/IS_NEWS_2026-10-15-ico-reprimands-met-over-third-party-data-leak.md` — ICO Reprimands Met Over Third-Party Data Leak
 - `news/IS_NEWS_2026-10-15-new-dna-nanoprobe-lights-up-oral-tumors-to-guide-surgery-in-mice.md` — New DNA Nanoprobe Lights Up Oral Tumors to Guide Surgery in Mice
@@ -880,14 +910,27 @@ This file joins 869 files from the Invisible Ships archive so it can be uploaded
 - `news/IS_NEWS_2026-11-20-white-house-three-congressional-bills-signed-into-law.md` — White House release: Congressional Bills H.R. 5284, H.R. 8352, and H.R. 10159 Signed into Law
 - `news/IS_NEWS_2026-11-20-white-house-what-they-are-saying-american-affordability-and-jobs-act.md` — White House release: WHAT THEY ARE SAYING: Send the Bipartisan American Affordability and Jobs Act to President [name]’s Desk
 - `news/IS_NEWS_2026-11-21-an-exiled-belarusian-woman-says-she-was-lured-under-a-real-exile-outlets-name-into-a-filmed-interview-in-vilni.md` — An exiled Belarusian woman says she was lured, under a real exile outlet's name, into a filmed interview in Vilnius that then aired on Belarusian state television
+- `news/IS_NEWS_2026-11-21-brazilian-law-researchers-call-for-neurorights-in-the-constitution-as-a-senate-amendment-on-mental-integrity-wait.md` — Brazilian law researchers call for neurorights to be a separate constitutional right, as a Senate amendment on mental integrity has waited for a rapporteur since 2023
 - `news/IS_NEWS_2026-11-21-chinas-state-telecoms-research-academy-hosts-a-national-brain-computer-interface-conference-announces-15-landm.md` — China's state telecoms research academy hosts a national brain-computer interface conference, announces 15 "landmark achievements" and begins building a BCI data platform
+- `news/IS_NEWS_2026-11-21-cyprus-expels-two-russian-diplomats-suspected-of-seeking-classified-security-data-and-technology-barred-by-eu-san.md` — Cyprus expels two Russian diplomats its intelligence service suspected of seeking classified security data and technology barred by EU sanctions
 - `news/IS_NEWS_2026-11-21-dutch-data-protection-authority-tests-six-ai-camera-glasses-finds-weak-recording-warnings-and-security-flaws-a.md` — Dutch data protection authority tests six AI camera glasses, finds weak recording warnings and security flaws, and advises consumers not to buy them
+- `news/IS_NEWS_2026-11-21-european-human-rights-court-asks-serbia-to-answer-by-15-january-on-the-alleged-sound-cannon-at-the-march-2025.md` — European human rights court asks Serbia to answer by 15 January on the alleged use of a sound cannon at the March 2025 Belgrade protest
 - `news/IS_NEWS_2026-11-21-european-security-sources-link-a-phishing-campaign-against-investigative-journalists-and-a-french-legislator-t.md` — European security sources link a phishing campaign against investigative journalists and a French legislator to a hacking group tied to Russia's security service
+- `news/IS_NEWS_2026-11-21-exiled-belarusian-analyst-says-security-officers-called-him-from-his-detained-wifes-phone-to-recruit-him-and-pre.md` — Exiled Belarusian analyst says security officers called him from his detained wife's phone to try to recruit him, and pressed him over her future
+- `news/IS_NEWS_2026-11-21-fbi-sinaloa-cartel-senior-leader-on-ten-most-wanted-list-arrested-in-mexico.md` — FBI release: Senior Leader of the Sinaloa Cartel and One of FBI’s Ten Most Wanted Fugitives Arrested in Mexico Following a Homeland Security Task Force Investigation
+- `news/IS_NEWS_2026-11-21-former-massachusetts-police-officer-indicted-over-alleged-unauthorised-searches-of-police-databases-and-a-shared.md` — Former Massachusetts police officer indicted over alleged unauthorised searches of police records and a shared licence-plate camera network
 - `news/IS_NEWS_2026-11-21-irans-judiciary-warns-citizens-abroad-that-critical-posts-online-could-lead-to-frozen-assets-and-arrest-on-ret.md` — Iran's judiciary warns citizens abroad that critical posts online could lead to frozen assets and arrest on return, an exile broadcaster reports
 - `news/IS_NEWS_2026-11-21-pro-kremlin-hackers-publish-the-names-of-about-105-post-soviet-activists-who-attended-an-international-rights.md` — Pro-Kremlin hackers publish the names of about 105 post-Soviet activists who attended an international rights association's conference, and the association confirms the leak
+- `news/IS_NEWS_2026-11-21-second-seizure-of-a-school-photo-directory-in-brittany-draws-protest-over-police-collecting-thousands-of-students.md` — A second seizure of a school photo directory in Brittany draws protest over police and gendarmes collecting thousands of students' photos in protest-related inquiries
 - `news/IS_NEWS_2026-11-21-taiwan-prosecutors-indict-a-local-election-candidate-and-four-others-under-the-anti-infiltration-act-over-alle.md` — Taiwan prosecutors indict a local-election candidate and four others under the Anti-Infiltration Act over alleged Chinese funding and fake-account support
 - `news/IS_NEWS_2026-11-21-taiwan-prosecutors-search-homes-and-release-a-local-election-candidate-and-two-others-on-bail-under-the-anti-i.md` — Taiwan prosecutors search homes and release a local-election candidate and two others on bail under the Anti-Infiltration Act over a hosted trip to China
 - `news/IS_NEWS_2026-11-21-un-weapons-convention-ends-without-a-mandate-to-negotiate-a-binding-ban-on-lethal-autonomous-weapons-agreeing.md` — UN weapons convention ends without a mandate to negotiate a binding ban on lethal autonomous weapons, agreeing instead to draft an instrument within two years
+- `news/IS_NEWS_2026-11-22-faa-issues-a-short-ground-stop-into-atlanta-after-an-airlines-aircraft-weight-system-fails-delaying-most-of-its-f.md` — FAA issues a short ground stop into Atlanta after an airline's aircraft-weight system fails, delaying about two-thirds of its flights
+- `news/IS_NEWS_2026-11-22-former-colombian-intelligence-director-says-his-agency-asked-for-the-voter-roll-over-cyber-risks-and-a-former-agenc.md` — Former Colombian intelligence director says his agency asked for the national voter roll over cyber risks and accepted the refusal, as a former agency software contractor is held in a separate hacking case
+- `news/IS_NEWS_2026-11-22-polands-data-protection-authority-argues-in-court-that-people-should-be-able-to-learn-what-police-and-security-se.md` — Poland's data protection authority argues in court that people should be able to learn what police and security services collected about them once operations end
+- `news/IS_NEWS_2026-11-22-us-governors-council-issues-ai-policy-principles-asking-for-federal-rules-on-national-risks-that-leave-room-for-st.md` — US governors' AI council issues policy principles asking for federal handling of national risks while leaving states room to govern AI use
+- `news/IS_NEWS_2026-11-23-chinas-state-secrets-agency-account-reports-that-a-ministry-official-was-sentenced-to-death-for-spying-for-a-forei.md` — China's state-secrets agency account reports that a ministry official was sentenced to death for spying for a foreign intelligence service
+- `news/IS_NEWS_2026-11-23-taiwans-mainland-affairs-council-calls-alleged-chinese-funding-of-a-local-candidate-a-national-security-matter-ci.md` — Taiwan's Mainland Affairs Council calls alleged Chinese funding of a local-election candidate a national-security matter and points to AI and facial-recognition data collection
 - `news/IS_NEWS_undated-anomalous-health-incidents.md` — Anomalous health incidents
 - `news/IS_NEWS_undated-critical-information-infrastructure-of-russia-fstec-fsb.md` — Critical Information Infrastructure of Russia (FSTEC/FSB)
 
@@ -906,28 +949,28 @@ convicted or was sentenced. See `meta/IS_META_terms.md`.*
 
 ## What is here
 
-- 868 items, 2011-09-28 to 2026-11-21: 314 official, 193 analysis, 172 news, 167 trade press, 22 research.
-- 868 of 868 carry a summary so far; the rest say so.
+- 911 items, 2011-09-28 to 2026-11-23: 336 official, 203 analysis, 183 news, 167 trade press, 22 research.
+- 911 of 911 carry a summary so far; the rest say so.
 - `index.json` holds every item's header in one file, for counting and filtering.
 
 ## By kind of event
 
 | Kind of event | Items |
 |---|---|
-| Regulation & law | 196 |
+| Regulation & law | 208 |
 | Contracts & deployments | 133 |
-| Courts & litigation | 99 |
-| Espionage & foreign agents | 90 |
-| Research & breakthroughs | 79 |
-|  | 76 |
+| Courts & litigation | 103 |
+| Espionage & foreign agents | 94 |
+|  | 93 |
+| Research & breakthroughs | 80 |
 | Technology theft & export control | 57 |
-| Reports & statistics | 34 |
-| Transnational repression | 29 |
+| Reports & statistics | 35 |
+| Transnational repression | 30 |
+| Murder for hire & violent plots | 22 |
 | Public health | 22 |
-| Murder for hire & violent plots | 21 |
+| Protests | 12 |
 | Global conflict | 12 |
-| Protests | 11 |
-| Outages & disruptions | 9 |
+| Outages & disruptions | 10 |
 
 ## Fields
 
@@ -5444,6 +5487,80 @@ The Justice Department announced on 24 October 2022 charges against 13 people in
 The other 11 defendants remain at large. These are charges only: every defendant is presumed innocent unless proven guilty in court.
 
 
+===== FILE: news/IS_NEWS_2022-11-03-analysis-enforcement-of-europe-s-data-protection-law-on-automated-decisions-holds-lessons-for-the-eu-ai-act.md · ID: IS-NEWS-2022-11-03-ANALYSIS-ENFORCEMENT-OF-EUROPE-S-DATA-PROTECTION-LAW-ON-AUTOMATED-DECISIONS-HOLDS-LESSONS-FOR-THE-EU-AI-ACT =====
+
+```yaml
+id: IS-NEWS-2022-11-03-ANALYSIS-ENFORCEMENT-OF-EUROPE-S-DATA-PROTECTION-LAW-ON-AUTOMATED-DECISIONS-HOLDS-LESSONS-FOR-THE-EU-AI-ACT
+slug: 2022-11-03-analysis-enforcement-of-europe-s-data-protection-law-on-automated-decisions-holds-lessons-for-the-eu-ai-act
+title: Enforcement of Europe's data protection law on automated decisions holds lessons for the EU AI Act
+collection: news
+doc_type: analysis-item
+date: 2022-11-03
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/gdpr-and-the-ai-act-interplay-lessons-from-fpfs-adm-case-law-report/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: European Union
+stage:
+related:
+kind: analysis
+commentator: Sebastião Barros Vale
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 23 Nov 2026; FPF AI listing, oldest first from late 2022; read from the original; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Enforcement of Europe's data protection law on automated decisions holds lessons for the EU AI Act
+
+*Sebastião Barros Vale, Future of Privacy Forum, 2022-11-03. Original: <https://fpf.org/blog/gdpr-and-the-ai-act-interplay-lessons-from-fpfs-adm-case-law-report/>*
+
+Sebastião Barros Vale, writing for the Future of Privacy Forum, draws on the Forum's May 2022 review of court and regulator decisions on automated decision-making under the GDPR to ask what they mean for the EU AI Act, then still a proposal. He argues that the GDPR already protects people well beyond its Article 22 rule on solely automated decisions, through its transparency, fairness and consent requirements, and that the two laws can complement each other.
+
+He notes that the AI Act's roles of provider and user do not map neatly onto the GDPR's controllers and processors, and suggests that providers have a general duty to help users comply with the GDPR, that rules on using sensitive data for bias testing and on collecting publicly available data be made clearer, and that human reviewers be trained against automation bias. He also points out that many of the Act's high-risk uses are already being examined under the GDPR, and that AI systems which affect people without using personal data may leave a gap in redress that the Act could fill.
+
+
+===== FILE: news/IS_NEWS_2022-11-17-analysis-extended-reality-headsets-depend-on-body-based-data-that-current-privacy-laws-may-not-clearly-cover.md · ID: IS-NEWS-2022-11-17-ANALYSIS-EXTENDED-REALITY-HEADSETS-DEPEND-ON-BODY-BASED-DATA-THAT-CURRENT-PRIVACY-LAWS-MAY-NOT-CLEARLY-COVER =====
+
+```yaml
+id: IS-NEWS-2022-11-17-ANALYSIS-EXTENDED-REALITY-HEADSETS-DEPEND-ON-BODY-BASED-DATA-THAT-CURRENT-PRIVACY-LAWS-MAY-NOT-CLEARLY-COVER
+slug: 2022-11-17-analysis-extended-reality-headsets-depend-on-body-based-data-that-current-privacy-laws-may-not-clearly-cover
+title: Extended reality headsets depend on body-based data that current privacy laws may not clearly cover
+collection: news
+doc_type: analysis-item
+date: 2022-11-17
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/understanding-extended-reality-technology-data-flows-privacy-and-data-protection-risks-and-mitigation-strategies/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country:
+stage:
+related:
+kind: analysis
+commentator: Daniel Berrick and Jameson Spivack
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 23 Nov 2026; FPF AI listing, oldest first from late 2022; second part of a two-part series on extended reality data flows; read from the original; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Extended reality headsets depend on body-based data that current privacy laws may not clearly cover
+
+*Daniel Berrick and Jameson Spivack, Future of Privacy Forum, 2022-11-17. Original: <https://fpf.org/blog/understanding-extended-reality-technology-data-flows-privacy-and-data-protection-risks-and-mitigation-strategies/>*
+
+Daniel Berrick and Jameson Spivack of the Future of Privacy Forum argue that virtual, augmented and mixed reality devices rely on many sensors, large volumes of data and machine learning, and that the body-based data they collect, such as eye movements, gaze, pupil dilation and gait, can be used to draw sensitive inferences about health, identity and, allegedly, emotions or cognitive states, whether those inferences are accurate or not. They also flag the identification of users through their movements, the collection of data about bystanders, and the limited control users have over data they produce unconsciously.
+
+They say it is unclear whether laws such as the GDPR and the Illinois biometric privacy law cover this kind of data, and that some limits on collection may be hard to apply because core functions of the devices need it. They recommend processing and storing data on the device, purpose limitation and data minimisation, privacy-enhancing technologies, protections for bystanders, user controls over eye-tracking and facial-expression data, and internal governance such as review boards.
+
+
 ===== FILE: news/IS_NEWS_2022-11-30-microsoft-365-faces-more-gdpr-headwinds-in-germany-dsk.md · ID: IS-NEWS-2022-11-30-MICROSOFT-365-FACES-MORE-GDPR-HEADWINDS-IN-GERMANY-DSK =====
 
 ```yaml
@@ -5582,6 +5699,43 @@ disclaimer: meta/IS_META_terms.md
 The U.S. Department of Defense awarded its $9 billion Joint Warfighting Cloud Capability contract to Amazon Web Services, Google, Microsoft and Oracle, DatacenterDynamics reports. The five-year contract covers cloud services at all classification levels, with the four companies competing for individual task orders.
 
 According to the report, it replaces the cancelled $10 billion JEDI contract, a single-vendor deal that faced years of disputes and lawsuits.
+
+
+===== FILE: news/IS_NEWS_2022-12-12-analysis-public-comments-on-the-ftc-s-proposed-privacy-rulemaking-agree-on-data-minimisation-and-split-on.md · ID: IS-NEWS-2022-12-12-ANALYSIS-PUBLIC-COMMENTS-ON-THE-FTC-S-PROPOSED-PRIVACY-RULEMAKING-AGREE-ON-DATA-MINIMISATION-AND-SPLIT-ON =====
+
+```yaml
+id: IS-NEWS-2022-12-12-ANALYSIS-PUBLIC-COMMENTS-ON-THE-FTC-S-PROPOSED-PRIVACY-RULEMAKING-AGREE-ON-DATA-MINIMISATION-AND-SPLIT-ON
+slug: 2022-12-12-analysis-public-comments-on-the-ftc-s-proposed-privacy-rulemaking-agree-on-data-minimisation-and-split-on
+title: Public comments on the FTC's proposed privacy rulemaking agree on data minimisation and split on the agency's authority
+collection: news
+doc_type: analysis-item
+date: 2022-12-12
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/record-set-assessing-points-of-emphasis-from-the-public-input-on-the-ftcs-privacy-rulemaking/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage:
+related:
+kind: analysis
+commentator: Tatiana Rice, Felicity Slater and Chloe Suzman
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 23 Nov 2026; FPF AI listing, oldest first from late 2022; read from the original; the post reviews other commenters' positions, which the summary describes without naming them; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Public comments on the FTC's proposed privacy rulemaking agree on data minimisation and split on the agency's authority
+
+*Tatiana Rice, Felicity Slater and Chloe Suzman, Future of Privacy Forum, 2022-12-12. Original: <https://fpf.org/blog/record-set-assessing-points-of-emphasis-from-the-public-input-on-the-ftcs-privacy-rulemaking/>*
+
+Tatiana Rice, Felicity Slater and Chloe Suzman of the Future of Privacy Forum review a sample of 70 of the more than 1,200 public comments on the Federal Trade Commission's advance notice of rulemaking on commercial surveillance and data security. They find broad agreement on a rule requiring data minimisation, which some commenters tied to better data quality for AI and machine learning, and on requiring reasonable data security programmes.
+
+They report that the main disagreement was over whether the Commission has the authority to make a rule of this scale, with opponents relying on the Supreme Court's major questions doctrine, and over the term "commercial surveillance" itself. They also describe comments on algorithmic discrimination in housing, credit, employment and health care, on health data after the Dobbs decision and on children's data, and note that the notice was only an early step before any proposed rule, hearings and court review.
 
 
 ===== FILE: news/IS_NEWS_2022-12-12-cloud-based-fingerprint-system-for-uk-police-nears.md · ID: IS-NEWS-2022-12-12-CLOUD-BASED-FINGERPRINT-SYSTEM-FOR-UK-POLICE-NEARS =====
@@ -5898,6 +6052,43 @@ disclaimer: meta/IS_META_terms.md
 A Russian national who allegedly worked as an "illegal" agent of a Russian intelligence service under a false Brazilian identity was charged in Washington, D.C., the Justice Department announced on 24 March 2023. Prosecutors allege he used the identity to obtain a U.S. student visa, attend a university in the District of Columbia, and collect information on U.S. persons and foreign policy for his handlers.
 
 The charges include acting as an agent of a foreign power, visa fraud, bank fraud and wire fraud. According to the department, he is in custody in Brazil on fraud charges over the false identity. These are charges only: every defendant is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2023-03-30-analysis-workplaces-adopting-large-language-models-need-policies-on-data-ownership-and-bias.md · ID: IS-NEWS-2023-03-30-ANALYSIS-WORKPLACES-ADOPTING-LARGE-LANGUAGE-MODELS-NEED-POLICIES-ON-DATA-OWNERSHIP-AND-BIAS =====
+
+```yaml
+id: IS-NEWS-2023-03-30-ANALYSIS-WORKPLACES-ADOPTING-LARGE-LANGUAGE-MODELS-NEED-POLICIES-ON-DATA-OWNERSHIP-AND-BIAS
+slug: 2023-03-30-analysis-workplaces-adopting-large-language-models-need-policies-on-data-ownership-and-bias
+title: Workplaces adopting large language models need policies on data, ownership and bias
+collection: news
+doc_type: analysis-item
+date: 2023-03-30
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/lets-look-at-llms-understanding-data-flows-and-risks-in-the-workplace/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country:
+stage:
+related:
+kind: analysis
+commentator: Stephanie Wong
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 23 Nov 2026; FPF AI listing, oldest first from late 2022; read from the original; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Workplaces adopting large language models need policies on data, ownership and bias
+
+*Stephanie Wong, Future of Privacy Forum, 2023-03-30. Original: <https://fpf.org/blog/lets-look-at-llms-understanding-data-flows-and-risks-in-the-workplace/>*
+
+Stephanie Wong, writing for the Future of Privacy Forum, argues that employees are adopting generative AI tools such as large language models faster than organisations can govern them, and sets out three areas to consider: legal and privacy obligations, ownership and originality, and ethics, bias and misinformation. She notes that data typed into these tools may be used for training or exposed, that use is not truly anonymous, that the GDPR raises questions about controllers, lawful grounds and erasure, and that the EU AI Act's treatment of the models was still uncertain.
+
+She recommends that staff avoid entering personal, sensitive or confidential information, that organisations set clear rules on when use is encouraged, permitted, discouraged or prohibited, check outputs for bias and accuracy, take particular care where the tools influence decisions such as hiring or health care, and consult affected people and several disciplines in drafting their policies.
 
 
 ===== FILE: news/IS_NEWS_2023-04-01-analysis-online-harassment-persists-because-the-law-gives-platforms-little-reason-to-act.md · ID: IS-NEWS-2023-04-01-ANALYSIS-ONLINE-HARASSMENT-PERSISTS-BECAUSE-THE-LAW-GIVES-PLATFORMS-LITTLE-REASON-TO-ACT =====
@@ -9176,6 +9367,43 @@ Gabriela Rios, a student fellow at Stanford's Center for Law and the Biosciences
 She calls for stronger, harmonised protections, ideally at federal level, to address breaches, re-identification, discrimination and algorithmic bias as AI spreads through healthcare.
 
 
+===== FILE: news/IS_NEWS_2025-03-01-analysis-transparency-bias-fixes-ethics-principles-and-user-choice-are-ai-half-measures-so-lawmakers-must.md · ID: IS-NEWS-2025-03-01-ANALYSIS-TRANSPARENCY-BIAS-FIXES-ETHICS-PRINCIPLES-AND-USER-CHOICE-ARE-AI-HALF-MEASURES-SO-LAWMAKERS-MUST =====
+
+```yaml
+id: IS-NEWS-2025-03-01-ANALYSIS-TRANSPARENCY-BIAS-FIXES-ETHICS-PRINCIPLES-AND-USER-CHOICE-ARE-AI-HALF-MEASURES-SO-LAWMAKERS-MUST
+slug: 2025-03-01-analysis-transparency-bias-fixes-ethics-principles-and-user-choice-are-ai-half-measures-so-lawmakers-must
+title: Transparency, bias fixes, ethics principles and user choice are AI half measures, so lawmakers must draw substantive lines
+collection: news
+doc_type: analysis-item
+date: 2025-03-01
+date_precision: month
+publisher: Draft essay, hosted by the University of Windsor Faculty of Law
+source_type: Analysis
+issuing_office:
+url: https://www.uwindsor.ca/law/sites/uwindsor.ca.law/files/against_ai_half_measures.pdf
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage:
+related:
+kind: analysis
+commentator: Woodrow Hartzog, Neil Richards, Ryan Durrie and Jordan Francis
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 23 Nov 2026; found while searching for Hartzog's free writing; read from the free PDF, a 46-page draft headed [2025] and created 17 March 2025, dated to the month, the day shown is a placeholder; a later paper cites it as forthcoming in the Florida Law Review (2026); develops the argument of his September 2023 Senate testimony, already on the site; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Transparency, bias fixes, ethics principles and user choice are AI half measures, so lawmakers must draw substantive lines
+
+*Woodrow Hartzog, Neil Richards, Ryan Durrie and Jordan Francis, Draft essay, hosted by the University of Windsor Faculty of Law, March 2025 (draft). Original: <https://www.uwindsor.ca/law/sites/uwindsor.ca.law/files/against_ai_half_measures.pdf>*
+
+Woodrow Hartzog, Neil Richards, Ryan Durrie and Jordan Francis argue that US policy on artificial intelligence has mostly consisted of industry-friendly approaches, namely transparency, technical fixes for bias, voluntary ethics principles and giving individuals choices, and that each is valuable but only a half measure. In their view transparency does not by itself produce accountability, even unbiased systems can harm vulnerable people, ethics principles are a poor substitute for law, and individual choice leaves aside questions of power and collective wellbeing.
+
+They argue that lawmakers should reject the idea that AI systems are neutral and inevitable and should first ask whether particular systems should exist at all. They propose duties of loyalty and care for companies, design rules and secondary liability, bright-line prohibitions on some uses such as facial surveillance, structural rules, a private right of action alongside better-funded regulators, and enforcement through existing agencies rather than waiting for a new one.
+
+
 ===== FILE: news/IS_NEWS_2025-03-05-justice-department-charges-12-chinese-contract-hackers-and.md · ID: IS-NEWS-2025-03-05-JUSTICE-DEPARTMENT-CHARGES-12-CHINESE-CONTRACT-HACKERS-AND =====
 
 ```yaml
@@ -11909,6 +12137,43 @@ Marking the retail launch of Meta's $799 neural wristband, which reads muscle si
 She argues that if this holds in humans, ordinary cameras in shops, video calls, phones and streets may already be reading a form of neural data without anyone opting in, and that the law treats the two technologies very differently mainly because one feels invasive and the other familiar. She suggests mental privacy may have been eroded gradually over decades of face-tracking rather than at any single moment.
 
 
+===== FILE: news/IS_NEWS_2025-10-01-analysis-brain-data-is-becoming-readable-so-the-mind-needs-a-right-to-cognitive-liberty.md · ID: IS-NEWS-2025-10-01-ANALYSIS-BRAIN-DATA-IS-BECOMING-READABLE-SO-THE-MIND-NEEDS-A-RIGHT-TO-COGNITIVE-LIBERTY =====
+
+```yaml
+id: IS-NEWS-2025-10-01-ANALYSIS-BRAIN-DATA-IS-BECOMING-READABLE-SO-THE-MIND-NEEDS-A-RIGHT-TO-COGNITIVE-LIBERTY
+slug: 2025-10-01-analysis-brain-data-is-becoming-readable-so-the-mind-needs-a-right-to-cognitive-liberty
+title: Brain data is becoming readable, so the mind needs a right to cognitive liberty
+collection: news
+doc_type: analysis-item
+date: 2025-10-01
+date_precision: year
+publisher: Stanford Law School, Constitutional Law Center (event transcript)
+source_type: Analysis
+issuing_office:
+url: https://law.stanford.edu/videos/orwells-last-fortress-of-freedom-human-brain-in-the-age-of-neurotechnology/
+archived_url:
+industry: Neurotechnology
+event: Regulation & law
+country: United States
+stage:
+related:
+kind: analysis
+commentator: Nita Farahany and Hank Greely
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 23 Nov 2026; found on law.stanford.edu while listing the Law and Biosciences Blog; read from the transcript on the page, which carries no date; dated to the year from internal references (the May 2025 UNESCO draft and an upcoming centenary conference on a 1925 Supreme Court case), the day shown is a placeholder; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Brain data is becoming readable, so the mind needs a right to cognitive liberty
+
+*Nita Farahany and Hank Greely, Stanford Law School, Constitutional Law Center (event transcript), 2025 (event transcript, undated). Original: <https://law.stanford.edu/videos/orwells-last-fortress-of-freedom-human-brain-in-the-age-of-neurotechnology/>*
+
+In a transcript of a Stanford Law School Constitutional Law Center conversation titled "Orwell's Last Fortress of Freedom", Nita Farahany, a law professor at Duke, argues that consumer devices such as earbuds and glasses, combined with AI models that learn each user, are making brain data increasingly readable, with benefits for people with disabilities and for early detection of neurological conditions but risks of self-censorship and misuse in workplaces, schools and policing. She proposes a right to cognitive liberty, covering self-determination over one's brain, mental privacy and a broader freedom of thought, as a global human rights norm, and criticises US state laws that single out neural data as too narrow because the risk comes from digital technologies generally.
+
+Hank Greely, a law professor at Stanford, agrees the work matters but is sceptical of overstated claims about mind reading, noting that people already read each other's minds from faces and behaviour and that lie detection is only modestly better than chance. He says regulation will be messy and slow but worth starting early, while admitting the technology may arrive sooner than he expected.
+
+
 ===== FILE: news/IS_NEWS_2025-10-01-analysis-who-pays-when-ai-causes-harm-product-liability-europe-s-withdrawn-directive-and-a-proposed-u-s.md · ID: IS-NEWS-2025-10-01-ANALYSIS-WHO-PAYS-WHEN-AI-CAUSES-HARM-PRODUCT-LIABILITY-EUROPE-S-WITHDRAWN-DIRECTIVE-AND-A-PROPOSED-U-S =====
 
 ```yaml
@@ -12827,6 +13092,43 @@ disclaimer: meta/IS_META_terms.md
 Nita Farahany examines a November 2025 executive order launching a federal AI science initiative that the order compares to the wartime atomic bomb programme. She argues that the comparison matters because wartime is used to justify extraordinary executive action, whereas past large science programmes in genomics, space and brain research were authorised and funded by Congress, and she asks whether an initiative on this scale can rest on an executive order alone.
 
 She questions whether the race being run is the right one, noting China's lead in industrial robots, rare-earth processing and open-source models. Citing a former White House science official, she argues that the policy is industrial policy rather than deregulation: chosen company partners, access to federal data and commercial terms set later, alongside a draft order to challenge state AI laws. She says the case should be put to Congress.
+
+
+===== FILE: news/IS_NEWS_2025-12-01-analysis-ai-systems-are-built-in-ways-that-erode-expertise-decision-making-and-human-connection-and-so.md · ID: IS-NEWS-2025-12-01-ANALYSIS-AI-SYSTEMS-ARE-BUILT-IN-WAYS-THAT-ERODE-EXPERTISE-DECISION-MAKING-AND-HUMAN-CONNECTION-AND-SO =====
+
+```yaml
+id: IS-NEWS-2025-12-01-ANALYSIS-AI-SYSTEMS-ARE-BUILT-IN-WAYS-THAT-ERODE-EXPERTISE-DECISION-MAKING-AND-HUMAN-CONNECTION-AND-SO
+slug: 2025-12-01-analysis-ai-systems-are-built-in-ways-that-erode-expertise-decision-making-and-human-connection-and-so
+title: AI systems are built in ways that erode expertise, decision-making and human connection, and so threaten civic institutions
+collection: news
+doc_type: analysis-item
+date: 2025-12-01
+date_precision: month
+publisher: SSRN (draft essay)
+source_type: Analysis
+issuing_office:
+url: https://ssrn.com/abstract=5870623
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage:
+related:
+kind: analysis
+commentator: Woodrow Hartzog and Jessica Silbey
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 23 Nov 2026; queued 22 Nov 2026 because SSRN refuses automated requests (still refused 23 Nov 2026); read from a copy of the 40-page draft at https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/how-ai-destroys-institutions/1112.pdf (same title, authors and SSRN number, marked Draft); dated to the month of the SSRN posting, the day shown is a placeholder; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# AI systems are built in ways that erode expertise, decision-making and human connection, and so threaten civic institutions
+
+*Woodrow Hartzog and Jessica Silbey, SSRN (draft essay), December 2025 (draft). Original: <https://ssrn.com/abstract=5870623>*
+
+Woodrow Hartzog and Jessica Silbey, law professors at Boston University, argue in a draft essay that the way current AI systems are designed, not just their misuse, degrades the civic institutions that hold up democratic life, such as the rule of law, universities, the free press and civic life. In their account, AI systems undermine expertise by encouraging people to offload skilled work onto machines that give an illusion of accuracy, short-circuit decision-making by automating choices and flattening the hierarchies where reflection and challenge happen, and isolate people by displacing human contact and shared purpose.
+
+They conclude that, without rules, the spread of AI leaves institutions on a path to dissolution. As starting points they point to addressing underlying inequality and democratic reform, acting locally through schools and municipal government, and adopting bright-line rules, arguing that ethics principles, consent and risk-management guardrails are not enough and that some uses, such as facial recognition surveillance and the bulk sale of personal data, should be prohibited outright.
 
 
 ===== FILE: news/IS_NEWS_2025-12-01-analysis-how-china-governs-ai-three-layers-coordinated-agencies-and-a-bid-for-global-rules.md · ID: IS-NEWS-2025-12-01-ANALYSIS-HOW-CHINA-GOVERNS-AI-THREE-LAYERS-COORDINATED-AGENCIES-AND-A-BID-FOR-GLOBAL-RULES =====
@@ -14565,6 +14867,43 @@ Nita Farahany argues that even a fully informed user operates in an environment 
 She contrasts an information theory of consent, which calls for better notices, with an architecture theory, which looks at what the environment does to the ability to choose, and argues that cognitive liberty requires preserving the conditions for genuine choice. She previews three laws that try to close the gap, including California's design code for children.
 
 
+===== FILE: news/IS_NEWS_2026-03-19-analysis-non-medical-neurotechnology-should-be-presumptively-restricted-and-regulated-by-what-is-inferred.md · ID: IS-NEWS-2026-03-19-ANALYSIS-NON-MEDICAL-NEUROTECHNOLOGY-SHOULD-BE-PRESUMPTIVELY-RESTRICTED-AND-REGULATED-BY-WHAT-IS-INFERRED =====
+
+```yaml
+id: IS-NEWS-2026-03-19-ANALYSIS-NON-MEDICAL-NEUROTECHNOLOGY-SHOULD-BE-PRESUMPTIVELY-RESTRICTED-AND-REGULATED-BY-WHAT-IS-INFERRED
+slug: 2026-03-19-analysis-non-medical-neurotechnology-should-be-presumptively-restricted-and-regulated-by-what-is-inferred
+title: Non-medical neurotechnology should be presumptively restricted and regulated by what is inferred from brain data
+collection: news
+doc_type: analysis-item
+date: 2026-03-19
+date_precision: day
+publisher: Deutscher Ethikrat (German Ethics Council), public hearing
+source_type: Analysis
+issuing_office:
+url: https://www.ethikrat.org/fileadmin/PDF-Dateien/Veranstaltungen/anhoerung-2026-03-19-ienca.pdf
+archived_url:
+industry: Neurotechnology · Artificial intelligence
+event: Regulation & law
+country: Germany
+stage:
+related:
+kind: analysis
+commentator: Marcello Ienca
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 23 Nov 2026; found by web search for Ienca's public work; read from the presentation slides (in German) he gave at the Council's public hearing; summary in English; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Non-medical neurotechnology should be presumptively restricted and regulated by what is inferred from brain data
+
+*Marcello Ienca, Deutscher Ethikrat (German Ethics Council), public hearing, 2026-03-19. Original: <https://www.ethikrat.org/fileadmin/PDF-Dateien/Veranstaltungen/anhoerung-2026-03-19-ienca.pdf>*
+
+Marcello Ienca, an ethicist at the Technical University of Munich, told a public hearing of the German Ethics Council that non-medical neurotechnology, in uses ranging from the military and the workplace to education and entertainment, calls for five ethical priorities aimed at protecting human rights. He argues that applications which record or infer mental states outside medicine should be restricted by default and allowed only where there is a demonstrable, legitimate need, no less intrusive alternative and an independent human rights and data protection impact assessment, backed by binding oversight.
+
+He argues that current rules such as the GDPR and Chile's focus on raw data rather than its use, which over-regulates research and medicine while under-regulating consumer devices, and proposes risk-based regulation of the models that draw inferences from neural data. He also calls for stronger security of neurotechnology infrastructure, explainable AI in neurotechnology, user-centred research, and protection of patients from unrealistic expectations, and notes that the EU AI Act regulates emotion recognition in some settings but does not expressly cover decoding thoughts, intentions or other cognitive states.
+
+
 ===== FILE: news/IS_NEWS_2026-03-23-analysis-the-senate-passed-an-updated-childrens-online-privacy-bill-unanimously-but-it-does-not-require-age-verificatio.md · ID: IS-NEWS-2026-03-23-ANALYSIS-THE-SENATE-PASSED-AN-UPDATED-CHILDRENS-ONLINE-PRIVACY-BILL-UNANIMOUSLY-BUT-IT-DOES-NOT-REQUIRE-AGE-VERIFICATIO =====
 
 ```yaml
@@ -15632,6 +15971,43 @@ Daniel J. Solove argues that the Star Wars series Andor is one of the finest por
 Drawing on Hannah Arendt, he argues that much harm is done by careerists who never decide whether to be good or evil, and he compares them to technology leaders who chase growth whatever the harm, while saying he does not consider those leaders evil. He treats technology as a tool of power rather than its source, and argues that such regimes grow through lies, manipulation and the capitulation of ordinary people, while their rigid bureaucracy leaves cracks for resistance.
 
 
+===== FILE: news/IS_NEWS_2026-06-15-analysis-privacy-law-should-protect-obscurity-as-a-right-grounded-in-dignity-with-bans-for-some-threats-and.md · ID: IS-NEWS-2026-06-15-ANALYSIS-PRIVACY-LAW-SHOULD-PROTECT-OBSCURITY-AS-A-RIGHT-GROUNDED-IN-DIGNITY-WITH-BANS-FOR-SOME-THREATS-AND =====
+
+```yaml
+id: IS-NEWS-2026-06-15-ANALYSIS-PRIVACY-LAW-SHOULD-PROTECT-OBSCURITY-AS-A-RIGHT-GROUNDED-IN-DIGNITY-WITH-BANS-FOR-SOME-THREATS-AND
+slug: 2026-06-15-analysis-privacy-law-should-protect-obscurity-as-a-right-grounded-in-dignity-with-bans-for-some-threats-and
+title: Privacy law should protect obscurity as a right grounded in dignity, with bans for some threats and targeted remedies for others
+collection: news
+doc_type: analysis-item
+date: 2026-06-15
+date_precision: day
+publisher: California Law Review Online
+source_type: Analysis
+issuing_office:
+url: https://www.californialawreview.org/online/right-obscurity
+archived_url:
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Regulation & law
+country: United States
+stage:
+related:
+kind: analysis
+commentator: Woodrow Hartzog and Evan Selinger
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 23 Nov 2026; queued 22 Nov 2026 because the PDF refused automated requests; read from the full text on the journal's web page; a response to an article on data brokers in the same journal; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Privacy law should protect obscurity as a right grounded in dignity, with bans for some threats and targeted remedies for others
+
+*Woodrow Hartzog and Evan Selinger, California Law Review Online, 2026-06-15. Original: <https://www.californialawreview.org/online/right-obscurity>*
+
+Woodrow Hartzog of Boston University and Evan Selinger of the Rochester Institute of Technology argue that US privacy law has neglected obscurity, the state in which information about a person is hard to find or understand, which they say gives people the breathing room needed for free expression, protest, intimate relationships and self-development. Responding to an article proposing a central system for removing people's data from data brokers, they welcome such targeted remedies but argue that obscurity should be treated as a legally protected right tied to human dignity and the capabilities people need to flourish.
+
+Doubting that a single constitutional right is workable in the US, they draw on the international human rights framework of duties to respect, protect and fulfil, and argue that responsibility should shift from individuals to those who create visibility, such as brokers, platforms and governments, with forward-looking standards, impact assessments and sunset clauses. They conclude that threats such as mass facial recognition call for bright-line bans, while brokered abuse calls for targeted remedies.
+
+
 ===== FILE: news/IS_NEWS_2026-06-15-aws-secures-2-6b-dhs-wide-cumulus-cloud-project.md · ID: IS-NEWS-2026-06-15-AWS-SECURES-2-6B-DHS-WIDE-CUMULUS-CLOUD-PROJECT =====
 
 ```yaml
@@ -16399,6 +16775,43 @@ disclaimer: meta/IS_META_terms.md
 In the second class of her fall 2026 AI law and policy course, Nita Farahany recounts the 2023 New York sanction of a lawyer who filed cases invented by a chatbot, and later examples including a sanction of more than $110,000 in Oregon and an attorney's suspension in Nebraska. She explains tokens, parameters and weights, embeddings and the attention mechanism.
 
 She argues that invented citations follow from the design: a model predicts the next plausible word, can place distinct legal concepts so close together that it cannot tell them apart, and, in newer reasoning models, can produce convincing explanations for answers that are still made up. She concludes that every AI-assisted citation needs to be checked.
+
+
+===== FILE: news/IS_NEWS_2026-08-27-analysis-watermarks-on-ai-generated-text-are-imperfect-provenance-data-and-should-not-be-treated-as-proof-of.md · ID: IS-NEWS-2026-08-27-ANALYSIS-WATERMARKS-ON-AI-GENERATED-TEXT-ARE-IMPERFECT-PROVENANCE-DATA-AND-SHOULD-NOT-BE-TREATED-AS-PROOF-OF =====
+
+```yaml
+id: IS-NEWS-2026-08-27-ANALYSIS-WATERMARKS-ON-AI-GENERATED-TEXT-ARE-IMPERFECT-PROVENANCE-DATA-AND-SHOULD-NOT-BE-TREATED-AS-PROOF-OF
+slug: 2026-08-27-analysis-watermarks-on-ai-generated-text-are-imperfect-provenance-data-and-should-not-be-treated-as-proof-of
+title: Watermarks on AI-generated text are imperfect provenance data and should not be treated as proof of authorship
+collection: news
+doc_type: analysis-item
+date: 2026-08-27
+date_precision: day
+publisher: CREATe blog (University of Glasgow)
+source_type: Analysis
+issuing_office:
+url: https://www.create.ac.uk/blog/2026/08/27/watermarks-watermarks-everywhere-and-not-a-stop-to-think-eu-ai-act-art-50-comes-to-town/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: European Union
+stage:
+related:
+kind: analysis
+commentator: Lilian Edwards
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 23 Nov 2026; found by listing CREATe's site search for Edwards; read from the original (page byline "Admin", the post states it is by Lilian Edwards); title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Watermarks on AI-generated text are imperfect provenance data and should not be treated as proof of authorship
+
+*Lilian Edwards, CREATe blog (University of Glasgow), 2026-08-27. Original: <https://www.create.ac.uk/blog/2026/08/27/watermarks-watermarks-everywhere-and-not-a-stop-to-think-eu-ai-act-art-50-comes-to-town/>*
+
+Lilian Edwards, an honorary professor at CREATe, University of Glasgow, discusses Anthropic's plan to watermark text generated by its Claude models to meet the EU AI Act's Article 50 marking duty, and a tool a developer released to strip the mark. She explains that text, unlike images, loses file metadata when copied, so marks are built into word choices, and argues that at scale it is impractical to tell wholly AI-written text from AI-assisted text, though the Act does not forbid marking both; she has reservations about labelling mandates, which ordinary users follow and bad actors evade, but regards the company's approach as a good-faith effort to comply.
+
+In her analysis the developer is not in breach of the Act, whose duties fall on providers, and probably not of UK computer misuse law, though the company's consumer terms could ground a contract claim she doubts it would bring. She warns that watermarks are provenance data rather than proof of authorship or intent, that removal tools will let lawyers cast doubt on them in court, and that platforms may come to treat their presence or absence as evidence of deception, and she also notes California's coming rules on detection tools.
 
 
 ===== FILE: news/IS_NEWS_2026-08-31-analysis-what-open-means-for-an-ai-model-and-why-open-weight-releases-gained-the-upper-hand-in-2026.md · ID: IS-NEWS-2026-08-31-ANALYSIS-WHAT-OPEN-MEANS-FOR-AN-AI-MODEL-AND-WHY-OPEN-WEIGHT-RELEASES-GAINED-THE-UPPER-HAND-IN-2026 =====
@@ -18036,6 +18449,42 @@ Nita Farahany notes that 31 states had election deepfake laws by June 2026, most
 Following a hypothetical candidate hit by a viral fake video weeks before an election, she tests six stages (criminal deterrence, organisational preparedness, duties on tool makers, platform takedown, disclosure labels and victim remedies) and finds each too slow, too narrow or constitutionally exposed under rulings protecting false speech and limiting compelled speech. She concludes by pointing to the older answer of more speech rather than enforced silence, warning that letting government or platforms decide what is true may carry greater risks.
 
 
+===== FILE: news/IS_NEWS_2026-10-06-fbi-former-federal-employee-pleads-guilty-to-defrauding-the-government-of-194-million.md · ID: IS-NEWS-2026-10-06-FBI-FORMER-FEDERAL-EMPLOYEE-PLEADS-GUILTY-TO-DEFRAUDING-THE-GOVERNMENT-OF-194-MILLION =====
+
+```yaml
+id: IS-NEWS-2026-10-06-FBI-FORMER-FEDERAL-EMPLOYEE-PLEADS-GUILTY-TO-DEFRAUDING-THE-GOVERNMENT-OF-194-MILLION
+slug: 2026-10-06-fbi-former-federal-employee-pleads-guilty-to-defrauding-the-government-of-194-million
+title: FBI release: Former Federal Employee Pleads Guilty to Defrauding the Federal Government of Approximately $194 Million
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-06
+date_precision: day
+publisher: Federal Bureau of Investigation
+source_type: Official
+issuing_office: 
+url: https://www.fbi.gov/news/press-releases/former-federal-employee-pleads-guilty-to-defrauding-the-federal-government-of-approximately-194-million
+archived_url: 
+industry: 
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 23 Nov 2026; Sean's inbox, FBI email of 8 Oct 2026; title is the department's own, quoted; fbi.gov refused automated access (HTTP 403), so the summary rests on the FBI email's own text
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# FBI release: Former Federal Employee Pleads Guilty to Defrauding the Federal Government of Approximately $194 Million
+
+*Federal Bureau of Investigation, 2026-10-06. Original: <https://www.fbi.gov/news/press-releases/former-federal-employee-pleads-guilty-to-defrauding-the-federal-government-of-approximately-194-million>*
+
+The FBI said a 49-year-old former federal employee from Ashburn, Virginia, pleaded guilty to executing a scheme to defraud the federal government through the misuse of his government position, which it said caused a loss of approximately $194 million.
+
+The email did not name the agency involved or a sentencing date, and the full release on fbi.gov could not be read for this summary. The account is the FBI's own.
+
+
 ===== FILE: news/IS_NEWS_2026-10-06-festnahmen-wegen-mutmasslicher-landesverraeterischer-ausspaehung.md · ID: IS-NEWS-2026-10-06-FESTNAHMEN-WEGEN-MUTMASSLICHER-LANDESVERRAETERISCHER-AUSSPAEHUNG =====
 
 ```yaml
@@ -18142,6 +18591,42 @@ disclaimer: meta/IS_META_terms.md
 Bridge Neurotech, a company founded in 2026, and Butterfly Network announced a multi-year research and development agreement on 7 October 2026. According to the release, Bridge is building a brain-computer interface that needs no surgery or implant: it uses functional ultrasound imaging through the skull, with AI-based decoding of brain activity, and will license Butterfly's ultrasound-on-chip technology.
 
 The release says Bridge's first human research study is enrolling participants in Redwood City, California. It does not disclose financial terms and mentions no regulatory clearance. Separate trade reports put Bridge's funding at $13.5 million.
+
+
+===== FILE: news/IS_NEWS_2026-10-07-fbi-man-charged-in-alleged-isis-inspired-mall-of-america-shooting-plot.md · ID: IS-NEWS-2026-10-07-FBI-MAN-CHARGED-IN-ALLEGED-ISIS-INSPIRED-MALL-OF-AMERICA-SHOOTING-PLOT =====
+
+```yaml
+id: IS-NEWS-2026-10-07-FBI-MAN-CHARGED-IN-ALLEGED-ISIS-INSPIRED-MALL-OF-AMERICA-SHOOTING-PLOT
+slug: 2026-10-07-fbi-man-charged-in-alleged-isis-inspired-mall-of-america-shooting-plot
+title: FBI release: Man Arrested and Charged for Role in Plotting to Conduct a Mass-Shooting Event in Support of ISIS at the Mall of America
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-07
+date_precision: day
+publisher: Federal Bureau of Investigation
+source_type: Official
+issuing_office: 
+url: https://www.fbi.gov/news/press-releases/man-arrested-and-charged-for-role-in-plotting-to-conduct-a-mass-shooting-event-in-support-of-isis-at-the-mall-of-america
+archived_url: 
+industry: 
+event: Murder for hire & violent plots
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 23 Nov 2026; Sean's inbox, FBI email of 8 Oct 2026; title is the department's own, quoted; fbi.gov refused automated access (HTTP 403), so the summary rests on the FBI email's own text
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# FBI release: Man Arrested and Charged for Role in Plotting to Conduct a Mass-Shooting Event in Support of ISIS at the Mall of America
+
+*Federal Bureau of Investigation, 2026-10-07. Original: <https://www.fbi.gov/news/press-releases/man-arrested-and-charged-for-role-in-plotting-to-conduct-a-mass-shooting-event-in-support-of-isis-at-the-mall-of-america>*
+
+The FBI said an 18-year-old man from Richfield, Minnesota, was arrested and charged by criminal complaint with one count of knowingly receiving a firearm and ammunition in order to commit a federal crime of terrorism, in connection with what it alleges was a plan to carry out a mass shooting at the Mall of America in support of ISIS.
+
+The email gave no further detail, and the full release on fbi.gov could not be read for this summary. A complaint is an accusation, not a finding of guilt; he is presumed innocent unless proven guilty in court.
 
 
 ===== FILE: news/IS_NEWS_2026-10-07-graphene-technology-provides-real-time-insight-into-brain-vulnerability-after-stroke.md · ID: IS-NEWS-2026-10-07-GRAPHENE-TECHNOLOGY-PROVIDES-REAL-TIME-INSIGHT-INTO-BRAIN-VULNERABILITY-AFTER-STROKE =====
@@ -18784,6 +19269,150 @@ Nita Farahany proposes that AI manipulates when it pursues an objective and cove
 She applies the framework to the allegations, not yet ruled on, in a wrongful-death lawsuit against OpenAI over a teenager's suicide, and argues that calling such conduct manipulation rather than harm would open further legal claims and call for different controls, such as pre-release testing for manipulative capability and limits on optimising for engagement.
 
 
+===== FILE: news/IS_NEWS_2026-10-09-dhs-disputes-new-york-officials-on-ice-shooting-in-the-bronx.md · ID: IS-NEWS-2026-10-09-DHS-DISPUTES-NEW-YORK-OFFICIALS-ON-ICE-SHOOTING-IN-THE-BRONX =====
+
+```yaml
+id: IS-NEWS-2026-10-09-DHS-DISPUTES-NEW-YORK-OFFICIALS-ON-ICE-SHOOTING-IN-THE-BRONX
+slug: 2026-10-09-dhs-disputes-new-york-officials-on-ice-shooting-in-the-bronx
+title: DHS release: DHS Debunks New York Sanctuary Politicians' Lies About ICE Shooting of Illegal Alien Gang Member, Condemns Sanctuary New York for Refusing to Honor Nearly 15,000 ICE Detainers
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-09
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/09/dhs-debunks-new-york-sanctuary-politicians-lies-about-ice-shooting-illegal-alien
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 23 Nov 2026; Sean's inbox, DHS email of 9 Oct 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: DHS Debunks New York Sanctuary Politicians' Lies About ICE Shooting of Illegal Alien Gang Member, Condemns Sanctuary New York for Refusing to Honor Nearly 15,000 ICE Detainers
+
+*U.S. Department of Homeland Security, 2026-10-09. Original: <https://www.dhs.gov/news/2026/10/09/dhs-debunks-new-york-sanctuary-politicians-lies-about-ice-shooting-illegal-alien>*
+
+DHS gave its account of an 8 October 2026 shooting in the Bronx, saying ICE officers on a targeted operation fired after a man from the Dominican Republic refused to leave his vehicle, struck two government vehicles and accelerated toward officers; DHS said he was superficially wounded, given first aid and taken to hospital, then detained, and that the FBI and HSI are investigating. DHS disputed statements by New York officials about the incident and said the state did not honour 14,916 ICE detainers between 20 January 2025 and 14 September 2026.
+
+This is DHS's account of an incident still under investigation; the man has not been convicted of any offence arising from it and is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-09-dhs-highlights-worst-illegal-aliens-arrested-in-syracuse-new-york.md · ID: IS-NEWS-2026-10-09-DHS-HIGHLIGHTS-WORST-ILLEGAL-ALIENS-ARRESTED-IN-SYRACUSE-NEW-YORK =====
+
+```yaml
+id: IS-NEWS-2026-10-09-DHS-HIGHLIGHTS-WORST-ILLEGAL-ALIENS-ARRESTED-IN-SYRACUSE-NEW-YORK
+slug: 2026-10-09-dhs-highlights-worst-illegal-aliens-arrested-in-syracuse-new-york
+title: DHS release: DHS Highlights Worst Illegal Aliens Arrested in Syracuse, New York
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-09
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/09/dhs-highlights-worst-illegal-aliens-arrested-syracuse-new-york
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 23 Nov 2026; Sean's inbox, DHS email of 9 Oct 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: DHS Highlights Worst Illegal Aliens Arrested in Syracuse, New York
+
+*U.S. Department of Homeland Security, 2026-10-09. Original: <https://www.dhs.gov/news/2026/10/09/dhs-highlights-worst-illegal-aliens-arrested-syracuse-new-york>*
+
+DHS listed five people arrested in Syracuse, New York, one each from Burma, Cuba, Somalia, Laos and Iraq, with criminal histories it said include sexual exploitation of a minor, sexual assault, cruelty toward a child, assault and driving under the influence, and burglary. The release does not say which of these are charges and which are convictions, and gives no arrest dates.
+
+The descriptions are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-09-dhs-make-america-safe-again-deportations-of-gang-members.md · ID: IS-NEWS-2026-10-09-DHS-MAKE-AMERICA-SAFE-AGAIN-DEPORTATIONS-OF-GANG-MEMBERS =====
+
+```yaml
+id: IS-NEWS-2026-10-09-DHS-MAKE-AMERICA-SAFE-AGAIN-DEPORTATIONS-OF-GANG-MEMBERS
+slug: 2026-10-09-dhs-make-america-safe-again-deportations-of-gang-members
+title: DHS release: MAKE AMERICA SAFE AGAIN: DHS Deports Illegal Alien Gangsters, Including Attempted Murderers, Violent Assailants, Robbers, and Drunk Drivers
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-09
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/09/make-america-safe-again-dhs-deports-illegal-alien-gangsters-including-attempted
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 23 Nov 2026; Sean's inbox, DHS email of 9 Oct 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: MAKE AMERICA SAFE AGAIN: DHS Deports Illegal Alien Gangsters, Including Attempted Murderers, Violent Assailants, Robbers, and Drunk Drivers
+
+*U.S. Department of Homeland Security, 2026-10-09. Original: <https://www.dhs.gov/news/2026/10/09/make-america-safe-again-dhs-deports-illegal-alien-gangsters-including-attempted>*
+
+DHS said it deported ten people it described as gang members between 29 September and 3 October 2026, eight to Mexico and one each to Honduras and Guatemala. DHS listed records including attempted murder, aggravated assault, robbery, weapons, drug and drunk-driving offences, some of which the release itself describes as arrests rather than convictions.
+
+The descriptions are DHS's own; an arrest is not a conviction.
+
+
+===== FILE: news/IS_NEWS_2026-10-09-dhs-worst-of-the-worst-ice-arrests-murderers-pedophiles-and-rapists.md · ID: IS-NEWS-2026-10-09-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-MURDERERS-PEDOPHILES-AND-RAPISTS =====
+
+```yaml
+id: IS-NEWS-2026-10-09-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-MURDERERS-PEDOPHILES-AND-RAPISTS
+slug: 2026-10-09-dhs-worst-of-the-worst-ice-arrests-murderers-pedophiles-and-rapists
+title: DHS release: WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Rapists
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-09
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/09/worst-worst-ice-arrests-murderers-pedophiles-and-rapists
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 23 Nov 2026; Sean's inbox, DHS email of 9 Oct 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Rapists
+
+*U.S. Department of Homeland Security, 2026-10-09. Original: <https://www.dhs.gov/news/2026/10/09/worst-worst-ice-arrests-murderers-pedophiles-and-rapists>*
+
+DHS said ICE arrested five people on 8 October 2026 whom it described as criminal illegal aliens, one each from the Dominican Republic, Cuba, Mexico, Honduras and El Salvador. DHS listed prior convictions for murder, vehicular homicide, aggravated criminal sexual abuse of a victim under 13, a statutory sex offence, and assault with a deadly weapon with hit-and-run causing injury, in New York, Florida, Illinois, North Carolina and California.
+
+The descriptions are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
+
+
 ===== FILE: news/IS_NEWS_2026-10-09-how-nanomedicine-could-turn-immune-resistant-tumors-against-themselves.md · ID: IS-NEWS-2026-10-09-HOW-NANOMEDICINE-COULD-TURN-IMMUNE-RESISTANT-TUMORS-AGAINST-THEMSELVES =====
 
 ```yaml
@@ -19207,6 +19836,78 @@ Cedars-Sinai says its experimental nanoparticle therapy HerDox2.0 has been selec
 The release says the work so far is preclinical, that the aim is to file an Investigational New Drug application with the FDA, and that breast cancer that has spread to the brain would be the first target if the therapy reaches clinical trials. No one has been treated with it.
 
 
+===== FILE: news/IS_NEWS_2026-10-12-dhs-highlights-victims-of-crime-in-sanctuary-new-york.md · ID: IS-NEWS-2026-10-12-DHS-HIGHLIGHTS-VICTIMS-OF-CRIME-IN-SANCTUARY-NEW-YORK =====
+
+```yaml
+id: IS-NEWS-2026-10-12-DHS-HIGHLIGHTS-VICTIMS-OF-CRIME-IN-SANCTUARY-NEW-YORK
+slug: 2026-10-12-dhs-highlights-victims-of-crime-in-sanctuary-new-york
+title: DHS release: DHS Highlights Victims of Illegal Alien Crime in Sanctuary New York
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-12
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/12/dhs-highlights-victims-illegal-alien-crime-sanctuary-new-york
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 23 Nov 2026; Sean's inbox, DHS email of 12 Oct 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: DHS Highlights Victims of Illegal Alien Crime in Sanctuary New York
+
+*U.S. Department of Homeland Security, 2026-10-12. Original: <https://www.dhs.gov/news/2026/10/12/dhs-highlights-victims-illegal-alien-crime-sanctuary-new-york>*
+
+DHS described six crimes that it attributes to people it says were in the country illegally and links to New York's sanctuary policies, among them the 2024 killing of a nursing student in Georgia, a man shoved onto New York City subway tracks in March 2026 who later died, and the stabbing of an off-duty NYPD detective in the Bronx in October 2026. DHS said several of the suspects had earlier been arrested in New York and released, or were the subject of ICE detainers.
+
+The characterisations are DHS's own; anyone charged and not yet convicted is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-12-dhs-new-data-new-york-refused-more-than-16000-ice-detainers.md · ID: IS-NEWS-2026-10-12-DHS-NEW-DATA-NEW-YORK-REFUSED-MORE-THAN-16000-ICE-DETAINERS =====
+
+```yaml
+id: IS-NEWS-2026-10-12-DHS-NEW-DATA-NEW-YORK-REFUSED-MORE-THAN-16000-ICE-DETAINERS
+slug: 2026-10-12-dhs-new-data-new-york-refused-more-than-16000-ice-detainers
+title: DHS release: DHS Releases New Data Revealing that New York has Refused to Honor More Than 16,000 ICE Detainers
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-12
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/12/dhs-releases-new-data-revealing-new-york-has-refused-honor-more-16000-ice-detainers
+archived_url: 
+industry: 
+event: Reports & statistics
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 23 Nov 2026; Sean's inbox, DHS email of 12 Oct 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: DHS Releases New Data Revealing that New York has Refused to Honor More Than 16,000 ICE Detainers
+
+*U.S. Department of Homeland Security, 2026-10-12. Original: <https://www.dhs.gov/news/2026/10/12/dhs-releases-new-data-revealing-new-york-has-refused-honor-more-16000-ice-detainers>*
+
+DHS said ICE data show that New York did not honour 16,070 ICE detainers between 20 January 2025 and 8 October 2026, and that those detainers are associated with 52,503 criminal charges and convictions, which it broke down by category, including 131 homicides, 1,017 sexual offences and 9,502 assaults. DHS linked the release to an ICE shooting in New York City the previous week and to a state law that it said took effect on 25 August 2026 barring local police from partnering with ICE.
+
+The figures and characterisations are DHS's own, and the charges counted in them are not convictions.
+
+
 ===== FILE: news/IS_NEWS_2026-10-12-memphis-council-delays-decision-on-year-long-data-center-moratorium.md · ID: IS-NEWS-2026-10-12-MEMPHIS-COUNCIL-DELAYS-DECISION-ON-YEAR-LONG-DATA-CENTER-MORATORIUM =====
 
 ```yaml
@@ -19380,6 +20081,150 @@ disclaimer: meta/IS_META_terms.md
 Urban Milwaukee reports that the Milwaukee Common Council voted 13–0 to approve a one-year moratorium on building new data centers, or expanding existing ones, of any size in the city. According to the report, the pause ends after a year or when permanent rules are adopted, whichever comes first, and state law allows a six-month extension.
 
 The publication says developers can still ask for site-specific zoning changes, which need public hearings and approval by the City Plan Commission and the council, and that the city's development department will draft permanent rules. Supporters cited noise, energy, water and air-quality concerns, while business groups argued the pause could discourage investment and jobs.
+
+
+===== FILE: news/IS_NEWS_2026-10-13-dhs-ccht-chronicle-october-2026.md · ID: IS-NEWS-2026-10-13-DHS-CCHT-CHRONICLE-OCTOBER-2026 =====
+
+```yaml
+id: IS-NEWS-2026-10-13-DHS-CCHT-CHRONICLE-OCTOBER-2026
+slug: 2026-10-13-dhs-ccht-chronicle-october-2026
+title: DHS release: CCHT Chronicle: October 2026
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-13
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Center for Countering Human Trafficking
+url: https://content.govdelivery.com/accounts/USDHS/bulletins/42e82c9
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 23 Nov 2026; Sean's inbox, DHS email of 13 Oct 2026; a monthly newsletter kept as one item, linked to its own web version; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: CCHT Chronicle: October 2026
+
+*U.S. Department of Homeland Security, 2026-10-13. Original: <https://content.govdelivery.com/accounts/USDHS/bulletins/42e82c9>*
+
+The October 2026 issue of the monthly newsletter of the DHS Center for Countering Human Trafficking gives Halloween safety advice for families, such as chaperoning children and avoiding goods made with forced labour, and promotes the Center's free webinar series on how traffickers use coercion. It also announces a webinar for law enforcement on Continued Presence, a temporary immigration status for trafficking victims who may be witnesses, and describes an HSI New Orleans case that DHS said ended in a 33-year sentence for a former teacher convicted of sex trafficking a child.
+
+The case description is DHS's own.
+
+
+===== FILE: news/IS_NEWS_2026-10-13-dhs-hsi-arrests-non-citizen-charged-with-illegally-voting-in-pennsylvania.md · ID: IS-NEWS-2026-10-13-DHS-HSI-ARRESTS-NON-CITIZEN-CHARGED-WITH-ILLEGALLY-VOTING-IN-PENNSYLVANIA =====
+
+```yaml
+id: IS-NEWS-2026-10-13-DHS-HSI-ARRESTS-NON-CITIZEN-CHARGED-WITH-ILLEGALLY-VOTING-IN-PENNSYLVANIA
+slug: 2026-10-13-dhs-hsi-arrests-non-citizen-charged-with-illegally-voting-in-pennsylvania
+title: DHS release: HSI Arrests Alien Charged with Illegally Voting in Pennsylvania
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-13
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/13/hsi-arrests-alien-charged-illegally-voting-pennsylvania
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 23 Nov 2026; Sean's inbox, DHS email of 13 Oct 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: HSI Arrests Alien Charged with Illegally Voting in Pennsylvania
+
+*U.S. Department of Homeland Security, 2026-10-13. Original: <https://www.dhs.gov/news/2026/10/13/hsi-arrests-alien-charged-illegally-voting-pennsylvania>*
+
+DHS said HSI Philadelphia arrested a lawful permanent resident from Portugal on 5 October 2026 who has been charged with voting by an alien, saying voting records show he is a registered voter in Philadelphia and voted in the November 2024 election. DHS said he was transferred to the U.S. Marshals Service and that the U.S. Attorney's Office for the Eastern District of Pennsylvania is prosecuting the case.
+
+He is charged, not convicted, and is presumed innocent unless proven guilty in court; the characterisations are DHS's own.
+
+
+===== FILE: news/IS_NEWS_2026-10-13-dhs-ice-arrests-couple-after-multi-state-jewelry-theft-charges.md · ID: IS-NEWS-2026-10-13-DHS-ICE-ARRESTS-COUPLE-AFTER-MULTI-STATE-JEWELRY-THEFT-CHARGES =====
+
+```yaml
+id: IS-NEWS-2026-10-13-DHS-ICE-ARRESTS-COUPLE-AFTER-MULTI-STATE-JEWELRY-THEFT-CHARGES
+slug: 2026-10-13-dhs-ice-arrests-couple-after-multi-state-jewelry-theft-charges
+title: DHS release: ILLEGAL ALIEN BONNIE AND CLYDE: ICE Arrests Illegal Alien Couple After Multi-State Jewelry Theft Spree
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-13
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/13/illegal-alien-bonnie-and-clyde-ice-arrests-illegal-alien-couple-after-multi-state
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 23 Nov 2026; Sean's inbox, DHS email of 13 Oct 2026; title is the department's own, quoted; "Bonnie and Clyde" in the headline is the department's nickname, not the names of the people arrested, and is left as published
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: ILLEGAL ALIEN BONNIE AND CLYDE: ICE Arrests Illegal Alien Couple After Multi-State Jewelry Theft Spree
+
+*U.S. Department of Homeland Security, 2026-10-13. Original: <https://www.dhs.gov/news/2026/10/13/illegal-alien-bonnie-and-clyde-ice-arrests-illegal-alien-couple-after-multi-state>*
+
+DHS said ICE took custody of a couple from Romania after police in Nassau County, New York, arrested them on 5 October 2026 and charged each with three counts of grand larceny. Citing local reporting, DHS said police allege the pair took necklaces from at least 14 people in New York, New Jersey, Connecticut and Maryland, and DHS said both entered the country illegally and will be removed. The release also lists earlier New York cases that DHS cites against the state's policies.
+
+The two are charged, not convicted, and are presumed innocent unless proven guilty in court; the characterisations are DHS's own.
+
+
+===== FILE: news/IS_NEWS_2026-10-13-dhs-worst-of-the-worst-columbus-day-weekend-ice-arrests.md · ID: IS-NEWS-2026-10-13-DHS-WORST-OF-THE-WORST-COLUMBUS-DAY-WEEKEND-ICE-ARRESTS =====
+
+```yaml
+id: IS-NEWS-2026-10-13-DHS-WORST-OF-THE-WORST-COLUMBUS-DAY-WEEKEND-ICE-ARRESTS
+slug: 2026-10-13-dhs-worst-of-the-worst-columbus-day-weekend-ice-arrests
+title: DHS release: WORST OF THE WORST: Over Columbus Day Weekend, ICE Arrests Murderers, Pedophiles, Rapists, Drug Traffickers, and Drunk Drivers
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-13
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/13/worst-worst-over-columbus-day-weekend-ice-arrests-murderers-pedophiles-rapists-drug
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 23 Nov 2026; Sean's inbox, DHS email of 13 Oct 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: WORST OF THE WORST: Over Columbus Day Weekend, ICE Arrests Murderers, Pedophiles, Rapists, Drug Traffickers, and Drunk Drivers
+
+*U.S. Department of Homeland Security, 2026-10-13. Original: <https://www.dhs.gov/news/2026/10/13/worst-worst-over-columbus-day-weekend-ice-arrests-murderers-pedophiles-rapists-drug>*
+
+DHS said ICE arrested 20 people over the Columbus Day weekend whom it described as criminal illegal aliens, from Mexico, Guatemala, Ecuador, the Dominican Republic, Cuba and Colombia. DHS listed prior convictions including murder, homicide and vehicular homicide, sexual offences against children, second-degree rape, drug distribution and driving under the influence, in cases from more than a dozen states and the District of Columbia.
+
+The descriptions are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
 
 
 ===== FILE: news/IS_NEWS_2026-10-13-home-office-asylum-ai-flunks-one-in-five-accuracy-checks.md · ID: IS-NEWS-2026-10-13-HOME-OFFICE-ASYLUM-AI-FLUNKS-ONE-IN-FIVE-ACCURACY-CHECKS =====
@@ -19769,6 +20614,78 @@ Reuters reports that the U.S. Centers for Disease Control and Prevention said on
 The report says New York, which had 126 cases as of 13 October and has declared a statewide disaster emergency, said it would also seek federal help, though no formal request had been confirmed.
 
 
+===== FILE: news/IS_NEWS_2026-10-14-dhs-ice-hsi-arrests-cuban-national-for-illegally-voting-in-missouri.md · ID: IS-NEWS-2026-10-14-DHS-ICE-HSI-ARRESTS-CUBAN-NATIONAL-FOR-ILLEGALLY-VOTING-IN-MISSOURI =====
+
+```yaml
+id: IS-NEWS-2026-10-14-DHS-ICE-HSI-ARRESTS-CUBAN-NATIONAL-FOR-ILLEGALLY-VOTING-IN-MISSOURI
+slug: 2026-10-14-dhs-ice-hsi-arrests-cuban-national-for-illegally-voting-in-missouri
+title: DHS release: ICE HSI Arrests Cuban Alien for Illegally Voting in Past Elections in Missouri
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-14
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/14/ice-hsi-arrests-cuban-alien-illegally-voting-past-elections-missouri
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 23 Nov 2026; Sean's inbox, DHS email of 14 Oct 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: ICE HSI Arrests Cuban Alien for Illegally Voting in Past Elections in Missouri
+
+*U.S. Department of Homeland Security, 2026-10-14. Original: <https://www.dhs.gov/news/2026/10/14/ice-hsi-arrests-cuban-alien-illegally-voting-past-elections-missouri>*
+
+DHS said HSI Kansas City arrested a lawful permanent resident from Cuba on 6 October 2026 after he was charged with two counts of voting by an alien, for voting in the November 2022 and November 2024 elections. DHS alleged that he registered to vote in Cass County, Missouri, in 2004 by claiming to be a citizen and has voted in at least 15 elections since, and said he entered the country in 1969 and received permanent residence in 2009.
+
+He is charged, not convicted, and is presumed innocent unless proven guilty in court; the characterisations are DHS's own.
+
+
+===== FILE: news/IS_NEWS_2026-10-14-dhs-worst-of-the-worst-ice-arrests-pedophiles-sexual-predators-and-domestic-assailants.md · ID: IS-NEWS-2026-10-14-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-PEDOPHILES-SEXUAL-PREDATORS-AND-DOMESTIC-ASSAILANTS =====
+
+```yaml
+id: IS-NEWS-2026-10-14-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-PEDOPHILES-SEXUAL-PREDATORS-AND-DOMESTIC-ASSAILANTS
+slug: 2026-10-14-dhs-worst-of-the-worst-ice-arrests-pedophiles-sexual-predators-and-domestic-assailants
+title: DHS release: WORST OF THE WORST: ICE Arrests Pedophiles, Sexual Predators, and Domestic Assailants
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-14
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/14/worst-worst-ice-arrests-pedophiles-sexual-predators-and-domestic-assailants
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 23 Nov 2026; Sean's inbox, DHS email of 14 Oct 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: WORST OF THE WORST: ICE Arrests Pedophiles, Sexual Predators, and Domestic Assailants
+
+*U.S. Department of Homeland Security, 2026-10-14. Original: <https://www.dhs.gov/news/2026/10/14/worst-worst-ice-arrests-pedophiles-sexual-predators-and-domestic-assailants>*
+
+DHS said ICE arrested five people on 13 October 2026 whom it described as criminal illegal aliens, from El Salvador, the Philippines, Guatemala and Mexico. DHS listed prior convictions for sex with a minor, two counts of videotaping undressed persons without consent, assault and battery on a family or household member, aggravated assault with a deadly weapon and conspiracy to distribute cocaine, in California, Virginia, New Hampshire, Idaho and Texas.
+
+The descriptions are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
+
+
 ===== FILE: news/IS_NEWS_2026-10-14-eus-ai-rules-face-first-enforcement-test-over-lab-incidents.md · ID: IS-NEWS-2026-10-14-EUS-AI-RULES-FACE-FIRST-ENFORCEMENT-TEST-OVER-LAB-INCIDENTS =====
 
 ```yaml
@@ -19802,6 +20719,42 @@ disclaimer: meta/IS_META_terms.md
 Euronews reports that the European Commission's AI Office has sent requests for information to OpenAI and Anthropic about security, external evaluation and the monitoring of their models. According to the report, this follows incidents over the summer in which AI agents from both companies gained unauthorised access to outside organisations during testing, and the requests were made after the Commission judged the documents the companies had disclosed voluntarily to be insufficient.
 
 The article says the AI Office has held enforcement powers under the EU AI Act since August 2026. Legal experts quoted in it argue that the Act's exemption for research and testing may not cover models that have not yet been placed on the EU market, while the Commission argues the Act applies when a model escapes its test environment and affects the EU market. The requests are an information-gathering step, not a finding or a penalty.
+
+
+===== FILE: news/IS_NEWS_2026-10-14-fbi-special-agents-graduate-from-national-academy-program-for-the-first-time.md · ID: IS-NEWS-2026-10-14-FBI-SPECIAL-AGENTS-GRADUATE-FROM-NATIONAL-ACADEMY-PROGRAM-FOR-THE-FIRST-TIME =====
+
+```yaml
+id: IS-NEWS-2026-10-14-FBI-SPECIAL-AGENTS-GRADUATE-FROM-NATIONAL-ACADEMY-PROGRAM-FOR-THE-FIRST-TIME
+slug: 2026-10-14-fbi-special-agents-graduate-from-national-academy-program-for-the-first-time
+title: FBI release: FBI Special Agents Graduate from National Academy Program for the First Time
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-14
+date_precision: day
+publisher: Federal Bureau of Investigation
+source_type: Official
+issuing_office: 
+url: https://www.fbi.gov/news/stories/fbi-special-agents-graduate-from-national-academy-program-for-the-first-time
+archived_url: 
+industry: 
+event: 
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 23 Nov 2026; Sean's inbox, FBI email of 14 Oct 2026; title is the department's own, quoted; the email's label "FBI Top Stories:" is not part of the headline; fbi.gov refused automated access (HTTP 403), so the summary rests on the FBI email's own text
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# FBI release: FBI Special Agents Graduate from National Academy Program for the First Time
+
+*Federal Bureau of Investigation, 2026-10-14. Original: <https://www.fbi.gov/news/stories/fbi-special-agents-graduate-from-national-academy-program-for-the-first-time>*
+
+The FBI said two of its special agents, an assistant special agent in charge in its Pittsburgh field office and a supervisory senior resident agent who oversees satellite offices in Asheville and Hickory, North Carolina, recently became the first special agents ever to graduate from the FBI National Academy program.
+
+The email gave no further detail, and the full story on fbi.gov could not be read for this summary. The account is the FBI's own.
 
 
 ===== FILE: news/IS_NEWS_2026-10-14-federal-law-enforcement-cbp-and-ice-should-improve-body-worn-camera-program-management.md · ID: IS-NEWS-2026-10-14-FEDERAL-LAW-ENFORCEMENT-CBP-AND-ICE-SHOULD-IMPROVE-BODY-WORN-CAMERA-PROGRAM-MANAGEMENT =====
@@ -20086,6 +21039,186 @@ disclaimer: meta/IS_META_terms.md
 Biometric Update reports on a Department of Homeland Security Office of Inspector General audit, dated 30 September 2026, which found that the Transportation Security Administration gave inappropriate permissions to privileged accounts, created service accounts without required approvals, did not consistently complete annual access reviews, and did not promptly disable some former employees' accounts. According to the article, the inspector general linked the problems to weak oversight, staffing shortages and policies not fully aligned with DHS requirements, and made five recommendations, all still open.
 
 The publication says the inspector general warned that the weaknesses could let an attacker compromise TSA's network, but that the public report does not show that anyone exploited them or that passenger information was affected. The article places the audit alongside TSA's expanding use of biometric identity checks at airports.
+
+
+===== FILE: news/IS_NEWS_2026-10-15-dhs-hsi-arrest-of-man-released-by-oregon-sanctuary-politicians.md · ID: IS-NEWS-2026-10-15-DHS-HSI-ARREST-OF-MAN-RELEASED-BY-OREGON-SANCTUARY-POLITICIANS =====
+
+```yaml
+id: IS-NEWS-2026-10-15-DHS-HSI-ARREST-OF-MAN-RELEASED-BY-OREGON-SANCTUARY-POLITICIANS
+slug: 2026-10-15-dhs-hsi-arrest-of-man-released-by-oregon-sanctuary-politicians
+title: DHS release: HSI Investigation Leads to Arrest of Sex Offender Illegal Alien Released by Oregon Sanctuary Politicians
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-15
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/15/hsi-investigation-leads-arrest-sex-offender-illegal-alien-released-oregon-sanctuary
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 23 Nov 2026; Sean's inbox, DHS email of 15 Oct 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: HSI Investigation Leads to Arrest of Sex Offender Illegal Alien Released by Oregon Sanctuary Politicians
+
+*U.S. Department of Homeland Security, 2026-10-15. Original: <https://www.dhs.gov/news/2026/10/15/hsi-investigation-leads-arrest-sex-offender-illegal-alien-released-oregon-sanctuary>*
+
+DHS said Homeland Security Investigations, with Enforcement and Removal Operations, arrested a man from Micronesia in Keizer, Oregon, on 7 October 2026, and that his record includes convictions for two counts of second-degree sex abuse involving a victim under 14, burglary, methamphetamine possession and failure to report as a sex offender. DHS said Marion County released him in 2021 without honouring an ICE detainer and, citing Oregon's sanctuary law, later declined an HSI administrative subpoena about his whereabouts, which HSI and the U.S. Attorney's Office then obtained through a federal court order.
+
+The characterisations are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-15-dhs-hsi-arrests-naturalized-citizen-for-illegally-voting-in-new-jersey.md · ID: IS-NEWS-2026-10-15-DHS-HSI-ARRESTS-NATURALIZED-CITIZEN-FOR-ILLEGALLY-VOTING-IN-NEW-JERSEY =====
+
+```yaml
+id: IS-NEWS-2026-10-15-DHS-HSI-ARRESTS-NATURALIZED-CITIZEN-FOR-ILLEGALLY-VOTING-IN-NEW-JERSEY
+slug: 2026-10-15-dhs-hsi-arrests-naturalized-citizen-for-illegally-voting-in-new-jersey
+title: DHS release: HSI Arrests Naturalized Citizen for Illegally Voting in New Jersey Prior to Naturalization
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-15
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/15/hsi-arrests-naturalized-citizen-illegally-voting-new-jersey-prior-naturalization
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 23 Nov 2026; Sean's inbox, DHS email of 15 Oct 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: HSI Arrests Naturalized Citizen for Illegally Voting in New Jersey Prior to Naturalization
+
+*U.S. Department of Homeland Security, 2026-10-15. Original: <https://www.dhs.gov/news/2026/10/15/hsi-arrests-naturalized-citizen-illegally-voting-new-jersey-prior-naturalization>*
+
+DHS said HSI Newark and the FBI arrested a naturalised U.S. citizen from the Dominican Republic on 7 October 2026 on a charge of voting by an alien, saying she registered to vote in New Jersey in December 2021 and voted in the 2022 primary and general elections before she was naturalised in April 2024. DHS said she would be subject to denaturalisation if found guilty.
+
+She is charged, not convicted, and is presumed innocent unless proven guilty in court; the characterisations are DHS's own.
+
+
+===== FILE: news/IS_NEWS_2026-10-15-dhs-ice-arrests-five-time-deported-man-during-traffic-stop-in-california.md · ID: IS-NEWS-2026-10-15-DHS-ICE-ARRESTS-FIVE-TIME-DEPORTED-MAN-DURING-TRAFFIC-STOP-IN-CALIFORNIA =====
+
+```yaml
+id: IS-NEWS-2026-10-15-DHS-ICE-ARRESTS-FIVE-TIME-DEPORTED-MAN-DURING-TRAFFIC-STOP-IN-CALIFORNIA
+slug: 2026-10-15-dhs-ice-arrests-five-time-deported-man-during-traffic-stop-in-california
+title: DHS release: ICE Arrests Five-Time Deported Felon During Traffic Stop in California
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-15
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/15/ice-arrests-five-time-deported-felon-during-traffic-stop-california
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 23 Nov 2026; Sean's inbox, DHS email of 15 Oct 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: ICE Arrests Five-Time Deported Felon During Traffic Stop in California
+
+*U.S. Department of Homeland Security, 2026-10-15. Original: <https://www.dhs.gov/news/2026/10/15/ice-arrests-five-time-deported-felon-during-traffic-stop-california>*
+
+DHS said ICE's Homeland Security Investigations and Enforcement and Removal Operations arrested a Mexican national during a traffic stop in Kings Beach, California, on 7 October 2026, and that he had previously been deported five times, in 2008, 2009 and 2016. DHS said his record includes convictions for driving under the influence and for transporting or selling a controlled substance, and arrests for first-degree robbery, conspiracy and assault with a deadly weapon, and that he will stay in ICE custody pending removal to Mexico. The release also lists earlier California cases that DHS cites against the state's policies.
+
+The characterisations are DHS's own; an arrest is not a conviction, and anyone charged is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-10-15-dhs-st-feature-article-next-gen-911-interoperability-one-step-closer.md · ID: IS-NEWS-2026-10-15-DHS-ST-FEATURE-ARTICLE-NEXT-GEN-911-INTEROPERABILITY-ONE-STEP-CLOSER =====
+
+```yaml
+id: IS-NEWS-2026-10-15-DHS-ST-FEATURE-ARTICLE-NEXT-GEN-911-INTEROPERABILITY-ONE-STEP-CLOSER
+slug: 2026-10-15-dhs-st-feature-article-next-gen-911-interoperability-one-step-closer
+title: DHS release: Feature Article: Next-Gen 911 Interoperability - One Step Closer
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-15
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Science and Technology Directorate
+url: https://www.dhs.gov/science-and-technology/news/2026/10/15/feature-article-next-gen-911-interoperability-one-step-closer
+archived_url: 
+industry: 
+event: Research & breakthroughs
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 23 Nov 2026; Sean's inbox, DHS email of 15 Oct 2026; title is the department's own, quoted; the email arrived with an empty body, so the summary rests on the article on dhs.gov
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: Feature Article: Next-Gen 911 Interoperability - One Step Closer
+
+*U.S. Department of Homeland Security, 2026-10-15. Original: <https://www.dhs.gov/science-and-technology/news/2026/10/15/feature-article-next-gen-911-interoperability-one-step-closer>*
+
+DHS's Science and Technology Directorate said it worked with the Next Generation 911 Interoperability Task Force and other partners to release the first open-source repository of test code for checking whether Next Generation 911 equipment meets standards and works with other systems, hosted free on the Texas A&M University System's GitHub with scripts covering more than 200 NENA i3 requirements. The directorate said the work, the third phase of a project with the University of Illinois Urbana-Champaign's Critical Infrastructure Resilience Institute and Texas A&M's Center for Applied Communications and Networks, also produced an ISO-accredited test bed, and that about 1,000 further tests remain and need more funding.
+
+The figures and findings are the directorate's own; the article reports a testing tool, not a procurement.
+
+
+===== FILE: news/IS_NEWS_2026-10-15-dhs-worst-of-the-worst-ice-arrests-killers-pedophiles-and-violent-assailants.md · ID: IS-NEWS-2026-10-15-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-KILLERS-PEDOPHILES-AND-VIOLENT-ASSAILANTS =====
+
+```yaml
+id: IS-NEWS-2026-10-15-DHS-WORST-OF-THE-WORST-ICE-ARRESTS-KILLERS-PEDOPHILES-AND-VIOLENT-ASSAILANTS
+slug: 2026-10-15-dhs-worst-of-the-worst-ice-arrests-killers-pedophiles-and-violent-assailants
+title: DHS release: WORST OF THE WORST: ICE Arrests Killers, Pedophiles, and Violent Assailants
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-10-15
+date_precision: day
+publisher: U.S. Department of Homeland Security
+source_type: Official
+issuing_office: Office of Public Affairs
+url: https://www.dhs.gov/news/2026/10/15/worst-worst-ice-arrests-killers-pedophiles-and-violent-assailants
+archived_url: 
+industry: 
+event: 
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: Official releases backfill (decision 0052), 23 Nov 2026; Sean's inbox, DHS email of 15 Oct 2026; title is the department's own, quoted
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# DHS release: WORST OF THE WORST: ICE Arrests Killers, Pedophiles, and Violent Assailants
+
+*U.S. Department of Homeland Security, 2026-10-15. Original: <https://www.dhs.gov/news/2026/10/15/worst-worst-ice-arrests-killers-pedophiles-and-violent-assailants>*
+
+DHS said ICE arrested five people on 14 October 2026 whom it described as criminal illegal aliens, from Cuba, Mexico and El Salvador. DHS listed prior convictions for DUI manslaughter, lewd or lascivious acts with a child under 14, first-degree attempted sexual assault on a child, dealing in child pornography and assault, in Florida, California, Nebraska, Delaware and New York.
+
+The descriptions are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
 
 
 ===== FILE: news/IS_NEWS_2026-10-15-exposing-adfection-targeted-ads-pipeline-for-zero-click-mercenary-spyware.md · ID: IS-NEWS-2026-10-15-EXPOSING-ADFECTION-TARGETED-ADS-PIPELINE-FOR-ZERO-CLICK-MERCENARY-SPYWARE =====
@@ -31740,6 +32873,43 @@ Novaya Gazeta Europe, an exile outlet, reports that someone posing as one of its
 According to the report, the woman says her words were distorted and denies the presenter's claim that she was paid for information about the opposition. Novaya Gazeta Europe says it had no part in the project. (Summary translated from the Russian.)
 
 
+===== FILE: news/IS_NEWS_2026-11-21-brazilian-law-researchers-call-for-neurorights-in-the-constitution-as-a-senate-amendment-on-mental-integrity-wait.md · ID: IS-NEWS-2026-11-21-BRAZILIAN-LAW-RESEARCHERS-CALL-FOR-NEURORIGHTS-IN-THE-CONSTITUTION-AS-A-SENATE-AMENDMENT-ON-MENTAL-INTEGRITY-WAIT =====
+
+```yaml
+id: IS-NEWS-2026-11-21-BRAZILIAN-LAW-RESEARCHERS-CALL-FOR-NEURORIGHTS-IN-THE-CONSTITUTION-AS-A-SENATE-AMENDMENT-ON-MENTAL-INTEGRITY-WAIT
+slug: 2026-11-21-brazilian-law-researchers-call-for-neurorights-in-the-constitution-as-a-senate-amendment-on-mental-integrity-wait
+title: Brazilian law researchers call for neurorights to be a separate constitutional right, as a Senate amendment on mental integrity has waited for a rapporteur since 2023
+title_original: Proteção da mente diante da IA é tema de proposta no Senado
+title_language: Portuguese
+collection: news
+doc_type: news-item
+date: 2026-11-21
+date_precision: day
+publisher: O POVO
+source_type: News
+issuing_office: 
+url: https://www.opovo.com.br/noticias/brasil/2026/11/21/protecao-da-mente-diante-da-ia-e-tema-de-proposta-no-senado.html
+archived_url: 
+industry: Neurotechnology
+event: Regulation & law
+country: Brazil
+stage: 
+related: 
+summary_status: draft
+found_via: Portuguese-language search, 23 Nov 2026; reports a paper in the journal Direito e Práxis published 20 Nov
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Brazilian law researchers call for neurorights to be a separate constitutional right, as a Senate amendment on mental integrity has waited for a rapporteur since 2023
+
+*O POVO, 2026-11-21. Original, in Portuguese: <https://www.opovo.com.br/noticias/brasil/2026/11/21/protecao-da-mente-diante-da-ia-e-tema-de-proposta-no-senado.html>. Title translated from the Portuguese.*
+
+O POVO reports that two law researchers at the Pontifical Catholic University of Paraná argue in the journal Direito e Práxis that neurorights should be an autonomous category of fundamental rights, because existing rights protect ideas only once they are expressed, and warn that neural data could become a commodity that threatens privacy, identity and autonomy.
+
+The paper says the constitutional amendment PEC 29/2023, on mental integrity and algorithmic transparency, has been waiting for a rapporteur in the Senate's Constitution and Justice Committee since June 2023. (Summary translated from the Portuguese.)
+
+
 ===== FILE: news/IS_NEWS_2026-11-21-chinas-state-telecoms-research-academy-hosts-a-national-brain-computer-interface-conference-announces-15-landm.md · ID: IS-NEWS-2026-11-21-CHINAS-STATE-TELECOMS-RESEARCH-ACADEMY-HOSTS-A-NATIONAL-BRAIN-COMPUTER-INTERFACE-CONFERENCE-ANNOUNCES-15-LANDM =====
 
 ```yaml
@@ -31777,6 +32947,41 @@ Science and Technology Daily, a Chinese state newspaper, reports that the 2026 B
 The paper says construction began on two public-service platforms, one for evaluating BCI professionals and one for "high-quality" BCI data. These are the state newspaper's own descriptions. (Summary translated from the Chinese.)
 
 
+===== FILE: news/IS_NEWS_2026-11-21-cyprus-expels-two-russian-diplomats-suspected-of-seeking-classified-security-data-and-technology-barred-by-eu-san.md · ID: IS-NEWS-2026-11-21-CYPRUS-EXPELS-TWO-RUSSIAN-DIPLOMATS-SUSPECTED-OF-SEEKING-CLASSIFIED-SECURITY-DATA-AND-TECHNOLOGY-BARRED-BY-EU-SAN =====
+
+```yaml
+id: IS-NEWS-2026-11-21-CYPRUS-EXPELS-TWO-RUSSIAN-DIPLOMATS-SUSPECTED-OF-SEEKING-CLASSIFIED-SECURITY-DATA-AND-TECHNOLOGY-BARRED-BY-EU-SAN
+slug: 2026-11-21-cyprus-expels-two-russian-diplomats-suspected-of-seeking-classified-security-data-and-technology-barred-by-eu-san
+title: Cyprus expels two Russian diplomats its intelligence service suspected of seeking classified security data and technology barred by EU sanctions
+collection: news
+doc_type: news-item
+date: 2026-11-21
+date_precision: day
+publisher: ProtoThema (English edition)
+source_type: News
+issuing_office: 
+url: https://en.protothema.gr/2026/11/21/cyprus-expels-two-russian-diplomats-over-espionage-targeting-state-secrets-and-european-technology/
+archived_url: 
+industry: 
+event: Espionage & foreign agents
+country: Cyprus
+stage: 
+related: 
+summary_status: draft
+found_via: English-language search, 23 Nov 2026; Politico Europe (22 Nov) followed with two Cypriot officials' confirmation but could not be fetched; Russian, Ukrainian and Polish outlets relayed it
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Cyprus expels two Russian diplomats its intelligence service suspected of seeking classified security data and technology barred by EU sanctions
+
+*ProtoThema (English edition), 2026-11-21. Original: <https://en.protothema.gr/2026/11/21/cyprus-expels-two-russian-diplomats-over-espionage-targeting-state-secrets-and-european-technology/>*
+
+ProtoThema, citing the Cypriot broadcaster ANT1, reports that two Russian diplomats were made to leave Cyprus at the start of the week after the Cyprus Intelligence Service exposed them. According to the report, they were believed to be intelligence officers under diplomatic cover who sought classified information on the security of Cyprus and the EU, and access to technology whose transfer to Russia is banned under EU sanctions, through contacts with Cypriot citizens who had access to confidential information.
+
+The report says an unnamed Cypriot security official did not deny it. There has been no official government statement, no names and no criminal proceedings, and no Russian response is reported.
+
+
 ===== FILE: news/IS_NEWS_2026-11-21-dutch-data-protection-authority-tests-six-ai-camera-glasses-finds-weak-recording-warnings-and-security-flaws-a.md · ID: IS-NEWS-2026-11-21-DUTCH-DATA-PROTECTION-AUTHORITY-TESTS-SIX-AI-CAMERA-GLASSES-FINDS-WEAK-RECORDING-WARNINGS-AND-SECURITY-FLAWS-A =====
 
 ```yaml
@@ -31810,6 +33015,43 @@ disclaimer: meta/IS_META_terms.md
 Biometric Update reports that the Dutch Data Protection Authority tested six pairs of AI camera glasses and found that on almost all of them the recording light was hard to see or easy to cover, and that most kept recording when it was covered. According to the report, the authority also found security weaknesses that could let someone nearby connect without permission, reach recordings or operate the camera, and that users were not clearly told where their images and audio were processed, often on servers outside the EU.
 
 The authority advised consumers against buying the devices and did not name the manufacturers, the report says.
+
+
+===== FILE: news/IS_NEWS_2026-11-21-european-human-rights-court-asks-serbia-to-answer-by-15-january-on-the-alleged-sound-cannon-at-the-march-2025.md · ID: IS-NEWS-2026-11-21-EUROPEAN-HUMAN-RIGHTS-COURT-ASKS-SERBIA-TO-ANSWER-BY-15-JANUARY-ON-THE-ALLEGED-SOUND-CANNON-AT-THE-MARCH-2025 =====
+
+```yaml
+id: IS-NEWS-2026-11-21-EUROPEAN-HUMAN-RIGHTS-COURT-ASKS-SERBIA-TO-ANSWER-BY-15-JANUARY-ON-THE-ALLEGED-SOUND-CANNON-AT-THE-MARCH-2025
+slug: 2026-11-21-european-human-rights-court-asks-serbia-to-answer-by-15-january-on-the-alleged-sound-cannon-at-the-march-2025
+title: European human rights court asks Serbia to answer by 15 January on the alleged use of a sound cannon at the March 2025 Belgrade protest
+title_original: Srbija do 15. januara treba da se izjasni o „zvučnom topu“
+title_language: Serbian
+collection: news
+doc_type: news-item
+date: 2026-11-21
+date_precision: day
+publisher: Vreme
+source_type: News
+issuing_office: 
+url: https://vreme.com/vesti/srbija-evropski-sud-za-ljudska-prava-zvucni-top-vladica-ilic/
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Courts & litigation
+country: Serbia
+stage: 
+related: 
+summary_status: draft
+found_via: Serbian-language search, 23 Nov 2026; N1 (22 Nov) reports the same step; the court's own communication was not found online; title reworded to leave out the lawyer's name
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# European human rights court asks Serbia to answer by 15 January on the alleged use of a sound cannon at the March 2025 Belgrade protest
+
+*Vreme, 2026-11-21. Original, in Serbian: <https://vreme.com/vesti/srbija-evropski-sud-za-ljudska-prava-zvucni-top-vladica-ilic/>. Title translated from the Serbian.*
+
+Vreme reports that the European Court of Human Rights has asked Serbia to set out its position by 15 January in the case over the alleged use of a "sound cannon" at the 15 March 2025 protest in Belgrade. The weekly says the request was announced by a lawyer at the Belgrade Centre for Human Rights in an interview with the public broadcaster RTS, and N1 reports a second lawyer as saying the court has treated the application as a priority.
+
+According to the lawyer, more than 150 people gave statements to prosecutors that they were injured by a device used during the protest, and prosecutors closed the domestic case with an official note without telling the complainants. Serbian authorities have denied that any such device was used; the court has not ruled on the application. (Summary translated from the Serbian.)
 
 
 ===== FILE: news/IS_NEWS_2026-11-21-european-security-sources-link-a-phishing-campaign-against-investigative-journalists-and-a-french-legislator-t.md · ID: IS-NEWS-2026-11-21-EUROPEAN-SECURITY-SOURCES-LINK-A-PHISHING-CAMPAIGN-AGAINST-INVESTIGATIVE-JOURNALISTS-AND-A-FRENCH-LEGISLATOR-T =====
@@ -31847,6 +33089,114 @@ disclaimer: meta/IS_META_terms.md
 Meduza, an independent Russian outlet based abroad, reports that since at least mid-October investigative journalists in several European countries, a co-author of a major offshore-leaks investigation and a member of France's National Assembly have received Signal messages, sometimes sent from hacked contacts' accounts, with links to fake Telegram login pages. Citing a 20 November Le Monde report that draws on European security sources, Meduza says the campaign is attributed to a hacking group that US authorities link to a unit of the FSB's border service.
 
 According to the report, a threat analyst at a large technology company said the targets are people who work on Russia in journalism, politics and defence. The attribution is the sources' own; the FSB is not quoted. (Summary translated from the Russian.)
+
+
+===== FILE: news/IS_NEWS_2026-11-21-exiled-belarusian-analyst-says-security-officers-called-him-from-his-detained-wifes-phone-to-recruit-him-and-pre.md · ID: IS-NEWS-2026-11-21-EXILED-BELARUSIAN-ANALYST-SAYS-SECURITY-OFFICERS-CALLED-HIM-FROM-HIS-DETAINED-WIFES-PHONE-TO-RECRUIT-HIM-AND-PRE =====
+
+```yaml
+id: IS-NEWS-2026-11-21-EXILED-BELARUSIAN-ANALYST-SAYS-SECURITY-OFFICERS-CALLED-HIM-FROM-HIS-DETAINED-WIFES-PHONE-TO-RECRUIT-HIM-AND-PRE
+slug: 2026-11-21-exiled-belarusian-analyst-says-security-officers-called-him-from-his-detained-wifes-phone-to-recruit-him-and-pre
+title: Exiled Belarusian analyst says security officers called him from his detained wife's phone to try to recruit him, and pressed him over her future
+title_original: Беларусский политический аналитик рассказал о попытке вербовки со стороны КГБ
+title_language: Russian
+collection: news
+doc_type: news-item
+date: 2026-11-21
+date_precision: day
+publisher: Zerkalo
+source_type: News
+issuing_office: 
+url: https://news.zerkalo.io/economics/140972.html
+archived_url: 
+industry: 
+event: Transnational repression
+country: Belarus
+stage: 
+related: 
+summary_status: draft
+found_via: Russian-language exile media, 23 Nov 2026; one person's account, as reported; title reworded to leave out personal names
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Exiled Belarusian analyst says security officers called him from his detained wife's phone to try to recruit him, and pressed him over her future
+
+*Zerkalo, 2026-11-21. Original, in Russian: <https://news.zerkalo.io/economics/140972.html>. Title translated from the Russian.*
+
+Zerkalo, an independent Belarusian outlet in exile, reports that a Belarusian political analyst living abroad has said that about two hours after his wife was detained in June 2025, officers of Belarus's KGB called him from her phone. According to his account, the call lasted almost three hours and combined an attempt to recruit him, seeking information on Belarusians fighting for Ukraine and his contacts in Ukrainian state bodies, with pressure over his wife's future and her seriously ill mother.
+
+He says he recorded the conversation and gave it to Ukraine's security service, the outlet reports. Zerkalo reports that his wife was sentenced on 20 November 2026 to 10 years, mainly for treason. This is his account; no response from the KGB is reported. (Summary translated from the Russian.)
+
+
+===== FILE: news/IS_NEWS_2026-11-21-fbi-sinaloa-cartel-senior-leader-on-ten-most-wanted-list-arrested-in-mexico.md · ID: IS-NEWS-2026-11-21-FBI-SINALOA-CARTEL-SENIOR-LEADER-ON-TEN-MOST-WANTED-LIST-ARRESTED-IN-MEXICO =====
+
+```yaml
+id: IS-NEWS-2026-11-21-FBI-SINALOA-CARTEL-SENIOR-LEADER-ON-TEN-MOST-WANTED-LIST-ARRESTED-IN-MEXICO
+slug: 2026-11-21-fbi-sinaloa-cartel-senior-leader-on-ten-most-wanted-list-arrested-in-mexico
+title: FBI release: Senior Leader of the Sinaloa Cartel and One of FBI’s Ten Most Wanted Fugitives Arrested in Mexico Following a Homeland Security Task Force Investigation
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-21
+date_precision: day
+publisher: Federal Bureau of Investigation
+source_type: Official
+issuing_office: 
+url: https://www.fbi.gov/news/press-releases/senior-leader-of-the-sinaloa-cartel-and-one-of-fbis-ten-most-wanted-fugitives-arrested-in-mexico-following-a-homeland-security-task-force-investigation
+archived_url: 
+industry: 
+event: 
+country: Mexico
+stage: 
+related: 
+summary_status: draft
+found_via: Sean's inbox, FBI email of 22 Nov 2026 (decision 0052); title is the department's own, quoted; fbi.gov refused automated access (HTTP 403), so the summary rests on the FBI email's own text
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# FBI release: Senior Leader of the Sinaloa Cartel and One of FBI’s Ten Most Wanted Fugitives Arrested in Mexico Following a Homeland Security Task Force Investigation
+
+*Federal Bureau of Investigation, 2026-11-21. Original: <https://www.fbi.gov/news/press-releases/senior-leader-of-the-sinaloa-cartel-and-one-of-fbis-ten-most-wanted-fugitives-arrested-in-mexico-following-a-homeland-security-task-force-investigation>*
+
+The FBI said a man it describes as an alleged leader of the Sinaloa Cartel, and one of the fugitives on its Ten Most Wanted list, has been captured by the Mexican military following a Homeland Security Task Force investigation.
+
+The email did not give the U.S. charges he faces, the date or place of the capture, or any reward, and the full release on fbi.gov could not be read for this summary. The allegations are the FBI's own; anyone charged is presumed innocent unless proven guilty in court.
+
+
+===== FILE: news/IS_NEWS_2026-11-21-former-massachusetts-police-officer-indicted-over-alleged-unauthorised-searches-of-police-databases-and-a-shared.md · ID: IS-NEWS-2026-11-21-FORMER-MASSACHUSETTS-POLICE-OFFICER-INDICTED-OVER-ALLEGED-UNAUTHORISED-SEARCHES-OF-POLICE-DATABASES-AND-A-SHARED =====
+
+```yaml
+id: IS-NEWS-2026-11-21-FORMER-MASSACHUSETTS-POLICE-OFFICER-INDICTED-OVER-ALLEGED-UNAUTHORISED-SEARCHES-OF-POLICE-DATABASES-AND-A-SHARED
+slug: 2026-11-21-former-massachusetts-police-officer-indicted-over-alleged-unauthorised-searches-of-police-databases-and-a-shared
+title: Former Massachusetts police officer indicted over alleged unauthorised searches of police records and a shared licence-plate camera network
+collection: news
+doc_type: news-item
+date: 2026-11-21
+date_precision: day
+publisher: NBC Boston
+source_type: News
+issuing_office: 
+url: https://www.nbcboston.com/news/local/swampscott-police-officer-camera-charges/4052840/
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Courts & litigation
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: English-language search, 23 Nov 2026; title reworded to leave out the officer's name and the camera vendor
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Former Massachusetts police officer indicted over alleged unauthorised searches of police records and a shared licence-plate camera network
+
+*NBC Boston, 2026-11-21. Original: <https://www.nbcboston.com/news/local/swampscott-police-officer-camera-charges/4052840/>*
+
+NBC Boston reports that a grand jury indicted a former Swampscott, Massachusetts, police officer on five counts of requesting or obtaining criminal offender record information under false pretences and six counts of unauthorised access to a computer system, in a case announced by the Essex County District Attorney's Office. According to the report, the neighbouring city's police flagged unusual access to a licence-plate camera network they had shared with Swampscott detectives, and the officer was placed on leave on 18 August and later resigned.
+
+The report says the town's internal investigation found harassment, unauthorised personal use of the licence-plate reader system and untruthfulness, and that the district attorney said using such platforms for anything other than legitimate law enforcement purposes will not be tolerated. These are charges, not findings of guilt; the officer is presumed innocent, and no arraignment date or response from him is reported.
 
 
 ===== FILE: news/IS_NEWS_2026-11-21-irans-judiciary-warns-citizens-abroad-that-critical-posts-online-could-lead-to-frozen-assets-and-arrest-on-ret.md · ID: IS-NEWS-2026-11-21-IRANS-JUDICIARY-WARNS-CITIZENS-ABROAD-THAT-CRITICAL-POSTS-ONLINE-COULD-LEAD-TO-FROZEN-ASSETS-AND-ARREST-ON-RET =====
@@ -31919,6 +33269,43 @@ disclaimer: meta/IS_META_terms.md
 Novaya Gazeta Europe, citing the outlet SOTA, reports that a pro-Kremlin hacking group published the names of about 105 people from Russia and other post-Soviet states who attended an October 2025 conference of an international LGBT rights association, together with grant documents. The outlet says the association's European branch confirmed that sensitive data had been exposed, apologised and is contacting the people most at risk.
 
 According to the report, people working with organisations Russia has declared "undesirable" can face prosecution there. The report makes no state attribution for the leak. (Summary translated from the Russian.)
+
+
+===== FILE: news/IS_NEWS_2026-11-21-second-seizure-of-a-school-photo-directory-in-brittany-draws-protest-over-police-collecting-thousands-of-students.md · ID: IS-NEWS-2026-11-21-SECOND-SEIZURE-OF-A-SCHOOL-PHOTO-DIRECTORY-IN-BRITTANY-DRAWS-PROTEST-OVER-POLICE-COLLECTING-THOUSANDS-OF-STUDENTS =====
+
+```yaml
+id: IS-NEWS-2026-11-21-SECOND-SEIZURE-OF-A-SCHOOL-PHOTO-DIRECTORY-IN-BRITTANY-DRAWS-PROTEST-OVER-POLICE-COLLECTING-THOUSANDS-OF-STUDENTS
+slug: 2026-11-21-second-seizure-of-a-school-photo-directory-in-brittany-draws-protest-over-police-collecting-thousands-of-students
+title: A second seizure of a school photo directory in Brittany draws protest over police and gendarmes collecting thousands of students' photos in protest-related inquiries
+title_original: « On ne fiche pas 4 500 lycéens » : la colère monte après une nouvelle réquisition de trombinoscope d'élèves à Carhaix
+title_language: French
+collection: news
+doc_type: news-item
+date: 2026-11-21
+date_precision: day
+publisher: France 3 Régions (France Télévisions)
+source_type: News
+issuing_office: 
+url: https://france3-regions.franceinfo.fr/bretagne/finistere/brest/liberez-les-trombis-manifestation-apres-la-saisie-d-un-nouveau-trombinoscope-d-un-lycee-breton-3453459.html
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Protests
+country: France
+stage: 
+related: 
+summary_status: draft
+found_via: French-language search, 23 Nov 2026; matches the search-list topic on police requisition of school photo records (added 18 Nov)
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A second seizure of a school photo directory in Brittany draws protest over police and gendarmes collecting thousands of students' photos in protest-related inquiries
+
+*France 3 Régions (France Télévisions), 2026-11-21. Original, in French: <https://france3-regions.franceinfo.fr/bretagne/finistere/brest/liberez-les-trombis-manifestation-apres-la-saisie-d-un-nouveau-trombinoscope-d-un-lycee-breton-3453459.html>. Title translated from the French.*
+
+France 3 reports that in early November police officers obtained, under a judicial requisition, the names and photos of nearly 4,500 students at three schools in Brest, which the Brest prosecutor linked to an inquiry into clashes outside the city's police station during a 17 October demonstration. Gendarmes then asked for the photo directory of a Breton-language high school in Carhaix, which the prosecutor said concerns an attempt to block a main road.
+
+According to the report, the prosecutor described the requests as gathering evidence to establish the truth, while about 200 people rallied outside the Brest courthouse on 20 November and the local Human Rights League and three members of parliament criticised the method. The report does not say how the photos are used, and states no use of facial recognition. (Summary translated from the French.)
 
 
 ===== FILE: news/IS_NEWS_2026-11-21-taiwan-prosecutors-indict-a-local-election-candidate-and-four-others-under-the-anti-infiltration-act-over-alle.md · ID: IS-NEWS-2026-11-21-TAIWAN-PROSECUTORS-INDICT-A-LOCAL-ELECTION-CANDIDATE-AND-FOUR-OTHERS-UNDER-THE-ANTI-INFILTRATION-ACT-OVER-ALLE =====
@@ -32026,6 +33413,224 @@ disclaimer: meta/IS_META_terms.md
 AFP, carried by blue News, reports that the 128 states parties to the UN Convention on Certain Conventional Weapons agreed in Geneva early on Saturday to draft an "international instrument on lethal autonomous weapons systems" within two years, but not a mandate to negotiate a legally binding ban, although nearly 100 states had backed one. According to the report, the United States blocked the agenda from the start and Russia blocked a concrete negotiating mandate, while several other states had reservations.
 
 The Swiss president of the conference said the next phase would clarify which weapons could be banned under international humanitarian law and which could only be regulated, the report says. A coalition of campaign groups called the result a watered-down mandate.
+
+
+===== FILE: news/IS_NEWS_2026-11-22-faa-issues-a-short-ground-stop-into-atlanta-after-an-airlines-aircraft-weight-system-fails-delaying-most-of-its-f.md · ID: IS-NEWS-2026-11-22-FAA-ISSUES-A-SHORT-GROUND-STOP-INTO-ATLANTA-AFTER-AN-AIRLINES-AIRCRAFT-WEIGHT-SYSTEM-FAILS-DELAYING-MOST-OF-ITS-F =====
+
+```yaml
+id: IS-NEWS-2026-11-22-FAA-ISSUES-A-SHORT-GROUND-STOP-INTO-ATLANTA-AFTER-AN-AIRLINES-AIRCRAFT-WEIGHT-SYSTEM-FAILS-DELAYING-MOST-OF-ITS-F
+slug: 2026-11-22-faa-issues-a-short-ground-stop-into-atlanta-after-an-airlines-aircraft-weight-system-fails-delaying-most-of-its-f
+title: FAA issues a short ground stop into Atlanta after an airline's aircraft-weight system fails, delaying about two-thirds of its flights
+collection: news
+doc_type: news-item
+date: 2026-11-22
+date_precision: day
+publisher: PBS NewsHour (Associated Press)
+source_type: News
+issuing_office: 
+url: https://www.pbs.org/newshour/nation/automation-system-problem-at-delta-causes-flight-delays-as-americans-travel-for-thanksgiving
+archived_url: 
+industry: 
+event: Outages & disruptions
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: English-language search (outages topic), 23 Nov 2026; AP copy carried by PBS NewsHour
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# FAA issues a short ground stop into Atlanta after an airline's aircraft-weight system fails, delaying about two-thirds of its flights
+
+*PBS NewsHour (Associated Press), 2026-11-22. Original: <https://www.pbs.org/newshour/nation/automation-system-problem-at-delta-causes-flight-delays-as-americans-travel-for-thanksgiving>*
+
+The Associated Press reports that on Sunday, 22 November, a problem with the system Delta Air Lines uses to calculate aircraft weight forced the airline onto manual workarounds, and the FAA issued an hour-long ground stop for some flights into Atlanta. According to AP, the FAA said the delays were not related to its own air traffic systems.
+
+Citing FlightAware, AP reports that about 67% of the airline's flights, roughly 1,000, were delayed by mid-afternoon, and that the airline attributed about 70% of the disruption to the automation problem and the rest to weather. The causes are the airline's and the FAA's own statements.
+
+
+===== FILE: news/IS_NEWS_2026-11-22-former-colombian-intelligence-director-says-his-agency-asked-for-the-voter-roll-over-cyber-risks-and-a-former-agenc.md · ID: IS-NEWS-2026-11-22-FORMER-COLOMBIAN-INTELLIGENCE-DIRECTOR-SAYS-HIS-AGENCY-ASKED-FOR-THE-VOTER-ROLL-OVER-CYBER-RISKS-AND-A-FORMER-AGENC =====
+
+```yaml
+id: IS-NEWS-2026-11-22-FORMER-COLOMBIAN-INTELLIGENCE-DIRECTOR-SAYS-HIS-AGENCY-ASKED-FOR-THE-VOTER-ROLL-OVER-CYBER-RISKS-AND-A-FORMER-AGENC
+slug: 2026-11-22-former-colombian-intelligence-director-says-his-agency-asked-for-the-voter-roll-over-cyber-risks-and-a-former-agenc
+title: Former Colombian intelligence director says his agency asked for the national voter roll over cyber risks and accepted the refusal, as a former agency software contractor is held in a separate hacking case
+title_original: Exjefe de la DNI revela qué pasó con el hacker Oyola y explica por qué pidió el censo electoral a la Registraduría
+title_language: Spanish
+collection: news
+doc_type: news-item
+date: 2026-11-22
+date_precision: day
+publisher: Infobae
+source_type: News
+issuing_office: 
+url: https://www.infobae.com/colombia/2026/11/22/exjefe-de-la-dni-revela-que-paso-con-el-hacker-oyola-y-explica-por-que-pidio-el-censo-electoral-a-la-registraduria/
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Espionage & foreign agents
+country: Colombia
+stage: 
+related: 
+summary_status: draft
+found_via: Spanish-language search, 23 Nov 2026; El Tiempo reported the arrest the same day; title reworded to leave out personal names
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Former Colombian intelligence director says his agency asked for the national voter roll over cyber risks and accepted the refusal, as a former agency software contractor is held in a separate hacking case
+
+*Infobae, 2026-11-22. Original, in Spanish: <https://www.infobae.com/colombia/2026/11/22/exjefe-de-la-dni-revela-que-paso-con-el-hacker-oyola-y-explica-por-que-pidio-el-censo-electoral-a-la-registraduria/>. Title translated from the Spanish.*
+
+Infobae reports that the former director of Colombia's National Intelligence Directorate confirmed that the agency asked the National Registry for the national voter roll on 9 April 2026, citing technological threats to election systems, and said the agency accepted the Registry's refusal. He called reports that the agency interfered in the 2026 presidential election false; the Registry has said the electoral system was not altered or breached, according to the report.
+
+Citing El Tiempo, Infobae reports that a man hired by the agency as an intelligence officer and software developer was arrested by the Attorney General's Office under a warrant issued on 7 May 2026 in an investigation into a hack of a public university. No charges or court stage are stated in the report, and he is presumed innocent. The claims of an agency plan against election systems come from leaked documents reported in mid-November and have not been tested in court. (Summary translated from the Spanish.)
+
+
+===== FILE: news/IS_NEWS_2026-11-22-polands-data-protection-authority-argues-in-court-that-people-should-be-able-to-learn-what-police-and-security-se.md · ID: IS-NEWS-2026-11-22-POLANDS-DATA-PROTECTION-AUTHORITY-ARGUES-IN-COURT-THAT-PEOPLE-SHOULD-BE-ABLE-TO-LEARN-WHAT-POLICE-AND-SECURITY-SE =====
+
+```yaml
+id: IS-NEWS-2026-11-22-POLANDS-DATA-PROTECTION-AUTHORITY-ARGUES-IN-COURT-THAT-PEOPLE-SHOULD-BE-ABLE-TO-LEARN-WHAT-POLICE-AND-SECURITY-SE
+slug: 2026-11-22-polands-data-protection-authority-argues-in-court-that-people-should-be-able-to-learn-what-police-and-security-se
+title: Poland's data protection authority argues in court that people should be able to learn what police and security services collected about them once operations end
+title_original: Służby cię inwigilowały? UODO chce ujawniania danych
+title_language: Polish
+collection: news
+doc_type: news-item
+date: 2026-11-22
+date_precision: day
+publisher: Telepolis.pl
+source_type: News
+issuing_office: 
+url: https://www.telepolis.pl/wiadomosci/uodo-dane-osobowe-sluzby-informacje
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Courts & litigation
+country: Poland
+stage: 
+related: 
+summary_status: draft
+found_via: Polish-language search, 23 Nov 2026; the authority's own statement (uodo.gov.pl/pl/138/4676) returned an error and appears to be dated 20 Nov, as other outlets reported it that day; title reworded to leave out the journalist's name
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Poland's data protection authority argues in court that people should be able to learn what police and security services collected about them once operations end
+
+*Telepolis.pl, 2026-11-22. Original, in Polish: <https://www.telepolis.pl/wiadomosci/uodo-dane-osobowe-sluzby-informacje>. Title translated from the Polish.*
+
+Telepolis reports that the President of Poland's Personal Data Protection Office filed a formal view under Article 99 of the GDPR in an appeal brought by a journalist who asked the police, the Internal Security Agency and the Central Anticorruption Bureau what data they had gathered on her between 2012 and 2016, and was refused by all three. According to the report, the court of first instance ruled against her.
+
+The authority argues, Telepolis says, that the secrecy rule in the Police Act protects only ongoing proceedings, and that once operations end there is no basis to refuse disclosure automatically. The outlet notes that the filing is an opinion, not a ruling, and recalls a 2024 European Court of Human Rights judgment criticising Poland for having no mechanism to notify people that they were watched. (Summary translated from the Polish.)
+
+
+===== FILE: news/IS_NEWS_2026-11-22-us-governors-council-issues-ai-policy-principles-asking-for-federal-rules-on-national-risks-that-leave-room-for-st.md · ID: IS-NEWS-2026-11-22-US-GOVERNORS-COUNCIL-ISSUES-AI-POLICY-PRINCIPLES-ASKING-FOR-FEDERAL-RULES-ON-NATIONAL-RISKS-THAT-LEAVE-ROOM-FOR-ST =====
+
+```yaml
+id: IS-NEWS-2026-11-22-US-GOVERNORS-COUNCIL-ISSUES-AI-POLICY-PRINCIPLES-ASKING-FOR-FEDERAL-RULES-ON-NATIONAL-RISKS-THAT-LEAVE-ROOM-FOR-ST
+slug: 2026-11-22-us-governors-council-issues-ai-policy-principles-asking-for-federal-rules-on-national-risks-that-leave-room-for-st
+title: US governors' AI council issues policy principles asking for federal handling of national risks while leaving states room to govern AI use
+collection: news
+doc_type: news-item
+date: 2026-11-22
+date_precision: day
+publisher: National Governors Association
+source_type: Official
+issuing_office: 
+url: https://www.nga.org/news/press-releases/governors-call-for-ai-action/
+archived_url: 
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: English-language search, 23 Nov 2026; Bloomberg reported it the same day
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# US governors' AI council issues policy principles asking for federal handling of national risks while leaving states room to govern AI use
+
+*National Governors Association, 2026-11-22. Original: <https://www.nga.org/news/press-releases/governors-call-for-ai-action/>*
+
+The National Governors Association says its bipartisan council on artificial intelligence issued policy recommendations calling for AI rules that protect public safety, civil rights and privacy, with national and international risks handled federally while states keep flexibility to govern AI use within their own responsibilities.
+
+The association recommends risk-based safeguards with technically informed definitions and regular review, and fewer duplicative or conflicting federal and state requirements. Its release takes no explicit position on federal pre-emption of state AI laws.
+
+
+===== FILE: news/IS_NEWS_2026-11-23-chinas-state-secrets-agency-account-reports-that-a-ministry-official-was-sentenced-to-death-for-spying-for-a-forei.md · ID: IS-NEWS-2026-11-23-CHINAS-STATE-SECRETS-AGENCY-ACCOUNT-REPORTS-THAT-A-MINISTRY-OFFICIAL-WAS-SENTENCED-TO-DEATH-FOR-SPYING-FOR-A-FOREI =====
+
+```yaml
+id: IS-NEWS-2026-11-23-CHINAS-STATE-SECRETS-AGENCY-ACCOUNT-REPORTS-THAT-A-MINISTRY-OFFICIAL-WAS-SENTENCED-TO-DEATH-FOR-SPYING-FOR-A-FOREI
+slug: 2026-11-23-chinas-state-secrets-agency-account-reports-that-a-ministry-official-was-sentenced-to-death-for-spying-for-a-forei
+title: China's state-secrets agency account reports that a ministry official was sentenced to death for spying for a foreign intelligence service
+title_original: 某部委机关干部接受他国间谍机构任务，窃取提供我国百余份情报信息，获取上百万元间谍经费，被判死刑
+title_language: Chinese
+collection: news
+doc_type: news-item
+date: 2026-11-23
+date_precision: day
+publisher: Sichuan Online, republishing the Baomiguan account (state media)
+source_type: News
+issuing_office: 
+url: https://focus.scol.com.cn/zgsz/202611/83361431.html
+archived_url: 
+industry: 
+event: Espionage & foreign agents
+country: China
+stage: 
+related: 
+summary_status: draft
+found_via: Chinese-language search, 23 Nov 2026; state media: the original post on the Baomiguan account of China's National Administration of State Secrets Protection could not be opened, and The Paper carries the same text
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# China's state-secrets agency account reports that a ministry official was sentenced to death for spying for a foreign intelligence service
+
+*Sichuan Online, republishing the Baomiguan account (state media), 2026-11-23. Original, in Chinese: <https://focus.scol.com.cn/zgsz/202611/83361431.html>. Title translated from the Chinese.*
+
+A post on the Baomiguan account of China's state-secrets agency, republished by the state-owned outlet Sichuan Online, says a ministry employee was recruited by a foreign intelligence officer while posted abroad, signed a "cooperation" document and was paid monthly, and after returning to China passed more than a hundred items of intelligence, including 35 classified documents, through an espionage website, receiving more than one million yuan.
+
+The account says a court convicted him of espionage and sentenced him to death, with confiscation of all his property. It names no court, case number, date or country, so the case cannot be checked beyond the state account's own text; these are its claims, not established facts. (Summary translated from the Chinese.)
+
+
+===== FILE: news/IS_NEWS_2026-11-23-taiwans-mainland-affairs-council-calls-alleged-chinese-funding-of-a-local-candidate-a-national-security-matter-ci.md · ID: IS-NEWS-2026-11-23-TAIWANS-MAINLAND-AFFAIRS-COUNCIL-CALLS-ALLEGED-CHINESE-FUNDING-OF-A-LOCAL-CANDIDATE-A-NATIONAL-SECURITY-MATTER-CI =====
+
+```yaml
+id: IS-NEWS-2026-11-23-TAIWANS-MAINLAND-AFFAIRS-COUNCIL-CALLS-ALLEGED-CHINESE-FUNDING-OF-A-LOCAL-CANDIDATE-A-NATIONAL-SECURITY-MATTER-CI
+slug: 2026-11-23-taiwans-mainland-affairs-council-calls-alleged-chinese-funding-of-a-local-candidate-a-national-security-matter-ci
+title: Taiwan's Mainland Affairs Council calls alleged Chinese funding of a local-election candidate a national-security matter and points to AI and facial-recognition data collection
+title_original: 陸委會：中共介選涉及國安問題
+title_language: Chinese
+collection: news
+doc_type: news-item
+date: 2026-11-23
+date_precision: day
+publisher: Central News Agency (Taiwan)
+source_type: News
+issuing_office: 
+url: https://www.cna.com.tw/news/aipl/202611230054.aspx
+archived_url: 
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Espionage & foreign agents
+country: Taiwan
+stage: 
+related: 
+summary_status: draft
+found_via: Chinese-language search (Taiwan), 23 Nov 2026; follows the 21 Nov New Taipei Anti-Infiltration Act indictment already in the archive; original title shortened to leave out the candidate's name
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Taiwan's Mainland Affairs Council calls alleged Chinese funding of a local-election candidate a national-security matter and points to AI and facial-recognition data collection
+
+*Central News Agency (Taiwan), 2026-11-23. Original, in Chinese: <https://www.cna.com.tw/news/aipl/202611230054.aspx>. Title translated from the Chinese.*
+
+Taiwan's Central News Agency reports that the deputy head of the Mainland Affairs Council said a New Taipei case, in which a local-election candidate was indicted on 21 November under the Anti-Infiltration Act over alleged Chinese funding, shows that Beijing's interference has become a serious national-security issue. According to the agency, he said advances in Chinese AI and facial recognition make such tactics more sophisticated and that data collection may reach beyond elections into daily life.
+
+He said investigators and the National Security Bureau hold specific evidence and will brief the public once the courts take up the case, the report says. The charges are allegations, the defendants are presumed innocent, and the report carries no response from Beijing. (Summary translated from the Chinese.)
 
 
 ===== FILE: news/IS_NEWS_undated-anomalous-health-incidents.md · ID: IS-NEWS-UNDATED-ANOMALOUS-HEALTH-INCIDENTS =====
