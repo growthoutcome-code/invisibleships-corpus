@@ -1539,6 +1539,15 @@
     "archived_url": null
   },
   {
+    "source_id": "inc_bjs_ji24st",
+    "publisher": "Bureau of Justice Statistics",
+    "title": "Jail Inmates in 2024 – Statistical Tables (Sept 2026, NCJ 311504) — final; replaces the Dec 2025 preliminary release",
+    "url": "https://bjs.ojp.gov/library/publications/jail-inmates-2024-statistical-tables",
+    "evidence_tier": "A",
+    "accessed": "2026-11-24",
+    "archived_url": null
+  },
+  {
     "source_id": "inc_bjs_cpus23",
     "publisher": "Bureau of Justice Statistics",
     "title": "Correctional Populations in the United States, 2023 – Statistical Tables (Sept 2025, NCJ 310413)",

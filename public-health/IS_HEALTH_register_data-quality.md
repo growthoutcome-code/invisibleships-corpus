@@ -7,7 +7,7 @@ section: public-health
 geography: United States, with international comparison where a chart says so
 generated_by: scripts/build_corpus_md.py
 entry_count: 15
-word_count: 1238
+word_count: 1253
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -147,9 +147,9 @@ Aggregate global underreporting: ~1 in 6 suicides missing worldwide; ~1 in 3 in 
 *Document:* Frontiers in Psychiatry (2025)
 
 ### US — hq015
-[A] documented by not stated — CDC/NCHS · U.S. Overdose Deaths Decrease for Third Consecutive Year in 2025 (provisional) <https://www.cdc.gov/nchs/pressroom/releases/20260513.html>
+[A] documented by not stated — CDC/NCHS · VSRR Provisional Drug Overdose Death Counts: United States, predicted count, 12 months ending December 2025 (data as of 1 Nov 2026) <https://data.cdc.gov/Health-Statistics/VSRR-Provisional-Drug-Overdose-Death-Counts/xkb8-kh2a>
 
-The 2025 figure is provisional and the 2024 figure on this chart is final. They are different vintages, and the choice of vintage changes the headline. CDC's May 2026 release reports a fall of almost 14% for 2025 by comparing it with a provisional 2024 estimate of 81,313. Measured against the final 2024 count of 79,384, the same provisional 2025 figure is a fall of about 11.9%. Provisional counts rise as late certificates are processed, so the 2025 number should be expected to revise upward.
+The 2025 figure is provisional and the 2024 figure on this chart is final. They are different vintages, and the choice of vintage changes the headline. CDC's provisional series puts 2025 at 70,735, a fall of about 13% on its provisional 2024 estimate of 81,313 (its May 2026 release, at 69,973, reported almost 14%). Measured against the final 2024 count of 79,384, the same provisional 2025 figure is a fall of about 10.9%. Provisional counts rise as late certificates are processed, so the 2025 number should be expected to revise upward.
 
 *Quantification:* none given
 

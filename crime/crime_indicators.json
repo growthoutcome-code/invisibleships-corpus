@@ -5739,13 +5739,13 @@
     "indicator_id": "bjs_jail_population",
     "geography": "US",
     "year": 2024,
-    "value": 657500,
+    "value": 658700,
     "unit": "inmates confined at midyear (30 June)",
-    "tier": "B",
+    "tier": "A",
     "publisher": "Bureau of Justice Statistics",
-    "source_id": "inc_bjs_pdrj24",
+    "source_id": "inc_bjs_ji24st",
     "workstream": "W2",
-    "note": "PRELIMINARY. May be revised when the final statistical tables appear."
+    "note": "Final (Sept 2026), from the Census of Jails. The Dec 2025 preliminary release had 657,500."
   },
   {
     "indicator_id": "bjs_jail_unconvicted",
@@ -5883,13 +5883,13 @@
     "indicator_id": "bjs_jail_unconvicted",
     "geography": "US",
     "year": 2024,
-    "value": 450600,
+    "value": 450700,
     "unit": "jail inmates not convicted (held pretrial)",
-    "tier": "B",
+    "tier": "A",
     "publisher": "Bureau of Justice Statistics",
-    "source_id": "inc_bjs_pdrj24",
+    "source_id": "inc_bjs_ji24st",
     "workstream": "W2",
-    "note": "69% of the jail population."
+    "note": "68% of the jail population."
   },
   {
     "indicator_id": "bjs_jail_convicted",
@@ -6027,11 +6027,11 @@
     "indicator_id": "bjs_jail_convicted",
     "geography": "US",
     "year": 2024,
-    "value": 206900,
+    "value": 208000,
     "unit": "jail inmates convicted",
-    "tier": "B",
+    "tier": "A",
     "publisher": "Bureau of Justice Statistics",
-    "source_id": "inc_bjs_pdrj24",
+    "source_id": "inc_bjs_ji24st",
     "workstream": "W2",
     "note": ""
   },

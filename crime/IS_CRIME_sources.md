@@ -6,8 +6,8 @@ doc_type: source-list
 section: crime
 geography: United States (unless a row says otherwise)
 generated_by: scripts/build_corpus_md.py
-source_count: 223
-word_count: 5352
+source_count: 224
+word_count: 5379
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -16,7 +16,7 @@ disclaimer: meta/IS_META_terms.md
 
 *Independent research compiled from public records for informational purposes only. Not legal, medical, or investment advice. Evidence tiers: **A** documented, **B** corroborated, **C** claimed — B and C may not be quoted as established fact. Causes are reported as attributed, never asserted. This dataset does not corroborate, and is not corroborated by, any other dataset in this corpus. See `meta/IS_META_terms.md`.*
 
-**223 sources.** Tier A 171 · B 51 · C 1. Every figure in this folder resolves to one of these.
+**224 sources.** Tier A 172 · B 51 · C 1. Every figure in this folder resolves to one of these.
 
 | Tier | Publisher | Title | Accessed | Link | Archived |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@ disclaimer: meta/IS_META_terms.md
 | A | Bureau of Justice Statistics | Jail Inmates in 2019 (Mar 2021, NCJ 255608) — 2019 is a Census of Jails year, not a survey | 2026-08-22 | <https://bjs.ojp.gov/content/pub/pdf/ji19.pdf> | — |
 | A | Bureau of Justice Statistics | Jail Inmates at Midyear 2009 – Statistical Tables (Jun 2010, NCJ 230122) | 2026-08-22 | <https://bjs.ojp.gov/content/pub/pdf/jim09st.pdf> | — |
 | A | Bureau of Justice Statistics | Prison and Jail Inmates at Midyear 2000 (Mar 2001, NCJ 185989) | 2026-08-22 | <https://bjs.ojp.gov/content/pub/pdf/pjim00.pdf> | — |
+| A | Bureau of Justice Statistics | Jail Inmates in 2024 – Statistical Tables (Sept 2026, NCJ 311504) — final; replaces the De | 2026-11-24 | <https://bjs.ojp.gov/library/publications/jail-inmates-2024-statistical-tables> | — |
 | A | Bureau of Justice Statistics | Correctional Populations in the United States, 2023 – Statistical Tables (Sept 2025, NCJ 3 | 2026-08-22 | <https://bjs.ojp.gov/document/cpus23st.pdf> | — |
 | A | Bureau of Justice Statistics | Correctional Populations in the United States, 2013, Appendix Table 5 (Dec 2014, NCJ 24847 | 2026-08-22 | <https://bjs.ojp.gov/content/pub/pdf/cpus13.pdf> | — |
 | A | Bureau of Justice Statistics | Census of State and Federal Adult Correctional Facilities, 2019 (Nov 2021, NCJ 301366) | 2026-08-22 | <https://bjs.ojp.gov/content/pub/pdf/csfacf19st.pdf> | — |

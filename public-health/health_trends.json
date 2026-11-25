@@ -99,7 +99,7 @@
   },
   {
     "topic": "drug_overdose",
-    "statement": "US overdose deaths peaked at 107,941 (2022, rate 32.6), fell to 105,007 (2023) and 79,384 (2024, \u221226.2%, largest one-year decline of 2014-2024), provisional 2025 ~69,973 (\u221214%, third consecutive annual decline). A major documented counterpoint to a worsening-overdose narrative.",
+    "statement": "US overdose deaths peaked at 107,941 (2022, rate 32.6), fell to 105,007 (2023) and 79,384 (2024, \u221226.2%, largest one-year decline of 2014-2024), provisional 2025 ~70,735 (\u221213%, third consecutive annual decline). A major documented counterpoint to a worsening-overdose narrative.",
     "tier": "A",
     "source_id": "hs055",
     "workstream": "W2"
@@ -211,7 +211,7 @@
   },
   {
     "topic": "drug_overdose",
-    "statement": "US overdose deaths rose from 16,849 in 1999 (rate 6.1) to 107,941 in 2022 (rate 32.6) \u2014 a 541% increase in the count over twenty-three years, with the steepest acceleration after 2013 and the largest single-year rise in 2020 (+30.0%). The post-2022 decline runs down from that peak, not from the pre-2000 baseline: provisional 2025 (69,973) is still about four times the 1999 count.",
+    "statement": "US overdose deaths rose from 16,849 in 1999 (rate 6.1) to 107,941 in 2022 (rate 32.6) \u2014 a 541% increase in the count over twenty-three years, with the steepest acceleration after 2013 and the largest single-year rise in 2020 (+30.0%). The post-2022 decline runs down from that peak, not from the pre-2000 baseline: provisional 2025 (70,735) is still about four times the 1999 count.",
     "tier": "A",
     "source_id": "hs103"
   }

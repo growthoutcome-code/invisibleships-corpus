@@ -8,7 +8,7 @@ geography: United States (unless a row says otherwise)
 generated_by: scripts/build_corpus_md.py
 chart_file: crime/charts/incarceration_over_time.json
 series_count: 3
-word_count: 967
+word_count: 969
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -58,11 +58,11 @@ BJS Prisoners series · tier A · 25 points, 1999–2023
 ### In local jails
 BJS Jail Inmates series · tier A · 26 points, 1999–2024
 
-- First: 6.059e+05 (1999) · Last: 6.575e+05 (2024)
+- First: 6.059e+05 (1999) · Last: 6.587e+05 (2024)
 - Highest: 7.856e+05 (2008) · Lowest: 5.491e+05 (2020)
 - Basis: BJS Annual Survey of Jails, inmates confined at 30 June
 - Caveat: THE COMPOSITION INVERTED. Between 2013 and 2023 the CONVICTED jail population fell 29% while the UNCONVICTED population rose 3%. Seventy percent of people in American jails in 2023 had not been convicted of anything. Almost the entire decade-long decline is a decline in sentenced people.
-- Caveat: 2019 comes from the Census of Jails, a full enumeration; every other year is a sample-based estimate from the Annual Survey of Jails.
+- Caveat: 2019 and 2024 come from the Census of Jails, a full enumeration; every other year is a sample-based estimate from the Annual Survey of Jails.
 - Caveat: Jails are collectively UNDER capacity — 73% of rated capacity in 2023, down from 84% in 2013 — though 12% of individual jurisdictions were over it.
 - Caveat: ICE detainees held in local jails ARE inside this count: 7,000 at midyear 2023, about 1%, and falling while ICE's own detained population set records. The immigration system is almost entirely outside this line.
 

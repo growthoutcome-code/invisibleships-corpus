@@ -30,7 +30,7 @@ disclaimer: meta/IS_META_terms.md
 - [A] The criminal lines break after 2020: the FBI changed how it estimates arrests, and 2021 has no national figure.
 - [A] Yes, 15.3 million is real — but an arrest is an event, not a person. One person arrested three times counts three times.
 - [A] Most arrests never become imprisonment: 7.5 million criminal arrests a year sit alongside 7.9 million jail admissions.
-- [A] On any given day 657,500 people are in jail — 69% not yet convicted — and 1.25 million are in prison.
+- [A] On any given day 658,700 people are in jail — 68% not yet convicted — and 1.25 million are in prison.
 - [A] Is the system overcrowded? The federal government stopped counting in 2016.
 - [A] That year the US stood at 114% of its lowest reported prison capacity, with 26 states over 100%. No edition since carries the table.
 - [A] Jails run the other way — 73% of rated capacity in 2023 — though 12% of individual jurisdictions were over their own.

@@ -130,7 +130,7 @@ Structural and pattern observations only. Two things occurring in the same perio
 
 *Not a causal claim:* Does not show health outcomes differ by deployment density. Documents a coverage artifact: where statistics and procurement records are co-published, overlaps become visible; elsewhere they cannot be constructed at all.
 
-### US overdose deaths declined from the 2022 record to 79,384 in 2024 (−26.2%) and provisional 69,973 in 2025
+### US overdose deaths declined from the 2022 record to 79,384 in 2024 (−26.2%) and provisional 70,735 in 2025
 [C] both
 
 **Gov Cloud fact:** milestones.json (track E): BARDA FY2025 enacted $1.015B with FY2026 request $654M, declining; total US biodefense FY2026 request declining across agencies

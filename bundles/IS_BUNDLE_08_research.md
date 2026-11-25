@@ -4,7 +4,7 @@ title: "Research: crime, public health, government cloud"
 collection: bundles
 doc_type: bundle
 files: 82
-approx_tokens: 260,707
+approx_tokens: 261,009
 contains: [crime, public-health, government-cloud, research]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -116,7 +116,7 @@ section: crime
 geography: United States (unless a row says otherwise)
 generated_by: scripts/build_corpus_md.py
 chart_count: 9
-source_count: 223
+source_count: 224
 word_count: 576
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -141,11 +141,11 @@ Window: 1999–2025.
 |---|---|
 | `IS_CRIME_chart_*.md` | One brief per chart: what it shows, every series, caveats |
 | `IS_CRIME_register_*.md` | The registers — what nobody counts, data quality, trends, sweeps |
-| `IS_CRIME_sources.md` | All 223 sources with tier, publisher and link |
+| `IS_CRIME_sources.md` | All 224 sources with tier, publisher and link |
 | `csv/*.csv` | Row data — indicators, sources, registers |
 | `charts/*.json`, `*.json` | The same data programmatically, for code |
 
-9 charts · 223 sources (Tier A 171 · B 51 · C 1)
+9 charts · 224 sources (Tier A 172 · B 51 · C 1)
 
 ## What this research found
 
@@ -189,7 +189,7 @@ source-document manifest** — like `government-cloud/` and `public-health/`, th
 is research output, not journal material, and it does not corroborate (and is not
 corroborated by) anything else in this corpus.
 
-Regenerated 2026-11-24 by `scripts/sync_corpus_crime.py`, which recomputes
+Regenerated 2026-11-25 by `scripts/sync_corpus_crime.py`, which recomputes
 every count below from the live data files.
 
 **Scope: the United States only.**
@@ -230,7 +230,7 @@ Two further traps are documented in `crime_data_quality.json`: the 2021 NIBRS tr
 | crime_trends.json | 15 | Sourced trend statements |
 | crime_verdict.json | — | The headline question and its answer, with key figures |
 | crime_caveats.json | 7 | Read before quoting any figure |
-| crime_sources.json | 223 | source_id → URL, publisher, tier, access date |
+| crime_sources.json | 224 | source_id → URL, publisher, tier, access date |
 | crime_not_counted.json | 13 | The uncounted categories — what has no national statistic, and who would have to collect it |
 | crime_sweeps.json | 3 | Sweeping enforcement actions and the capacity question — what headline arrest counts actually count |
 | crime_milestones.json | 20 | Dated events behind the master timeline's Crime lane (track G) |
@@ -243,7 +243,7 @@ Two further traps are documented in `crime_data_quality.json`: the 2021 NIBRS tr
 | charts/homicide_two_measures.json | 2 series | FBI — murder known to police (1960-2025, 66 pts, crude rate, offences known to police); CDC — homicide deaths (1950-2023, 27 pts, age-adjusted rate, death certificates) |
 | charts/homicide_us.csv | 67 | Both series wide, one row per year |
 
-Source register: 171 Tier A · 51 Tier B · 1 Tier C.
+Source register: 172 Tier A · 51 Tier B · 1 Tier C.
 
 ## Reading the homicide chart
 
@@ -413,7 +413,7 @@ disclaimer: meta/IS_META_terms.md
 - [A] The criminal lines break after 2020: the FBI changed how it estimates arrests, and 2021 has no national figure.
 - [A] Yes, 15.3 million is real — but an arrest is an event, not a person. One person arrested three times counts three times.
 - [A] Most arrests never become imprisonment: 7.5 million criminal arrests a year sit alongside 7.9 million jail admissions.
-- [A] On any given day 657,500 people are in jail — 69% not yet convicted — and 1.25 million are in prison.
+- [A] On any given day 658,700 people are in jail — 68% not yet convicted — and 1.25 million are in prison.
 - [A] Is the system overcrowded? The federal government stopped counting in 2016.
 - [A] That year the US stood at 114% of its lowest reported prison capacity, with 26 states over 100%. No edition since carries the table.
 - [A] Jails run the other way — 73% of rated capacity in 2023 — though 12% of individual jurisdictions were over their own.
@@ -777,7 +777,7 @@ FBI NCIC · tier B · 11 points, 2014–2025
 ### Drug overdose deaths
 CDC/NCHS · tier A · 27 points, 1999–2025
 
-- First: 100 (1999) · Last: 415.3 (2025)
+- First: 100 (1999) · Last: 419.8 (2025)
 - Highest: 640.6 (2022) · Lowest: 100 (1999)
 - Basis: deaths per year; indexed to 1999 = 100
 - Caveat: 2025 is provisional and will revise upward as late certificates are processed.
@@ -1048,7 +1048,7 @@ geography: United States (unless a row says otherwise)
 generated_by: scripts/build_corpus_md.py
 chart_file: crime/charts/incarceration_over_time.json
 series_count: 3
-word_count: 967
+word_count: 969
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -1098,11 +1098,11 @@ BJS Prisoners series · tier A · 25 points, 1999–2023
 ### In local jails
 BJS Jail Inmates series · tier A · 26 points, 1999–2024
 
-- First: 6.059e+05 (1999) · Last: 6.575e+05 (2024)
+- First: 6.059e+05 (1999) · Last: 6.587e+05 (2024)
 - Highest: 7.856e+05 (2008) · Lowest: 5.491e+05 (2020)
 - Basis: BJS Annual Survey of Jails, inmates confined at 30 June
 - Caveat: THE COMPOSITION INVERTED. Between 2013 and 2023 the CONVICTED jail population fell 29% while the UNCONVICTED population rose 3%. Seventy percent of people in American jails in 2023 had not been convicted of anything. Almost the entire decade-long decline is a decline in sentenced people.
-- Caveat: 2019 comes from the Census of Jails, a full enumeration; every other year is a sample-based estimate from the Annual Survey of Jails.
+- Caveat: 2019 and 2024 come from the Census of Jails, a full enumeration; every other year is a sample-based estimate from the Annual Survey of Jails.
 - Caveat: Jails are collectively UNDER capacity — 73% of rated capacity in 2023, down from 84% in 2013 — though 12% of individual jurisdictions were over it.
 - Caveat: ICE detainees held in local jails ARE inside this count: 7,000 at midyear 2023, about 1%, and falling while ICE's own detained population set records. The immigration system is almost entirely outside this line.
 
@@ -1859,8 +1859,8 @@ doc_type: source-list
 section: crime
 geography: United States (unless a row says otherwise)
 generated_by: scripts/build_corpus_md.py
-source_count: 223
-word_count: 5352
+source_count: 224
+word_count: 5379
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -1869,7 +1869,7 @@ disclaimer: meta/IS_META_terms.md
 
 *Independent research compiled from public records for informational purposes only. Not legal, medical, or investment advice. Evidence tiers: **A** documented, **B** corroborated, **C** claimed — B and C may not be quoted as established fact. Causes are reported as attributed, never asserted. This dataset does not corroborate, and is not corroborated by, any other dataset in this corpus. See `meta/IS_META_terms.md`.*
 
-**223 sources.** Tier A 171 · B 51 · C 1. Every figure in this folder resolves to one of these.
+**224 sources.** Tier A 172 · B 51 · C 1. Every figure in this folder resolves to one of these.
 
 | Tier | Publisher | Title | Accessed | Link | Archived |
 |---|---|---|---|---|---|
@@ -1918,6 +1918,7 @@ disclaimer: meta/IS_META_terms.md
 | A | Bureau of Justice Statistics | Jail Inmates in 2019 (Mar 2021, NCJ 255608) — 2019 is a Census of Jails year, not a survey | 2026-08-22 | <https://bjs.ojp.gov/content/pub/pdf/ji19.pdf> | — |
 | A | Bureau of Justice Statistics | Jail Inmates at Midyear 2009 – Statistical Tables (Jun 2010, NCJ 230122) | 2026-08-22 | <https://bjs.ojp.gov/content/pub/pdf/jim09st.pdf> | — |
 | A | Bureau of Justice Statistics | Prison and Jail Inmates at Midyear 2000 (Mar 2001, NCJ 185989) | 2026-08-22 | <https://bjs.ojp.gov/content/pub/pdf/pjim00.pdf> | — |
+| A | Bureau of Justice Statistics | Jail Inmates in 2024 – Statistical Tables (Sept 2026, NCJ 311504) — final; replaces the De | 2026-11-24 | <https://bjs.ojp.gov/library/publications/jail-inmates-2024-statistical-tables> | — |
 | A | Bureau of Justice Statistics | Correctional Populations in the United States, 2023 – Statistical Tables (Sept 2025, NCJ 3 | 2026-08-22 | <https://bjs.ojp.gov/document/cpus23st.pdf> | — |
 | A | Bureau of Justice Statistics | Correctional Populations in the United States, 2013, Appendix Table 5 (Dec 2014, NCJ 24847 | 2026-08-22 | <https://bjs.ojp.gov/content/pub/pdf/cpus13.pdf> | — |
 | A | Bureau of Justice Statistics | Census of State and Federal Adult Correctional Facilities, 2019 (Nov 2021, NCJ 301366) | 2026-08-22 | <https://bjs.ojp.gov/content/pub/pdf/csfacf19st.pdf> | — |
@@ -2682,7 +2683,7 @@ US,bjs_jail_population,SERIES TROUGH — a 25% single-year fall BJS attributes m
 US,bjs_jail_population,,Bureau of Justice Statistics,inc_bjs_ji23st,A,inmates confined at midyear (30 June),636300,W2,2021
 US,bjs_jail_population,,Bureau of Justice Statistics,inc_bjs_ji23st,A,inmates confined at midyear (30 June),663100,W2,2022
 US,bjs_jail_population,,Bureau of Justice Statistics,inc_bjs_ji23st,A,inmates confined at midyear (30 June),664200,W2,2023
-US,bjs_jail_population,PRELIMINARY. May be revised when the final statistical tables appear.,Bureau of Justice Statistics,inc_bjs_pdrj24,B,inmates confined at midyear (30 June),657500,W2,2024
+US,bjs_jail_population,"Final (Sept 2026), from the Census of Jails. The Dec 2025 preliminary release had 657,500.",Bureau of Justice Statistics,inc_bjs_ji24st,A,inmates confined at midyear (30 June),658700,W2,2024
 US,bjs_jail_unconvicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates not convicted (held pretrial),453200,W2,2013
 US,bjs_jail_unconvicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates not convicted (held pretrial),467500,W2,2014
 US,bjs_jail_unconvicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates not convicted (held pretrial),454400,W2,2015
@@ -2694,7 +2695,7 @@ US,bjs_jail_unconvicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inma
 US,bjs_jail_unconvicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates not convicted (held pretrial),451400,W2,2021
 US,bjs_jail_unconvicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates not convicted (held pretrial),466100,W2,2022
 US,bjs_jail_unconvicted,"70% of the jail population — and 3% ABOVE 2013, while the convicted population fell 29% over the same years.",Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates not convicted (held pretrial),467600,W2,2023
-US,bjs_jail_unconvicted,69% of the jail population.,Bureau of Justice Statistics,inc_bjs_pdrj24,B,jail inmates not convicted (held pretrial),450600,W2,2024
+US,bjs_jail_unconvicted,68% of the jail population.,Bureau of Justice Statistics,inc_bjs_ji24st,A,jail inmates not convicted (held pretrial),450700,W2,2024
 US,bjs_jail_convicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates convicted,278000,W2,2013
 US,bjs_jail_convicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates convicted,277100,W2,2014
 US,bjs_jail_convicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates convicted,273000,W2,2015
@@ -2706,7 +2707,7 @@ US,bjs_jail_convicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmate
 US,bjs_jail_convicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates convicted,185000,W2,2021
 US,bjs_jail_convicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates convicted,197000,W2,2022
 US,bjs_jail_convicted,29% below 2013. Almost the entire decade-long jail decline is here.,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates convicted,196600,W2,2023
-US,bjs_jail_convicted,,Bureau of Justice Statistics,inc_bjs_pdrj24,B,jail inmates convicted,206900,W2,2024
+US,bjs_jail_convicted,,Bureau of Justice Statistics,inc_bjs_ji24st,A,jail inmates convicted,208000,W2,2024
 US,bjs_correctional_population,,Bureau of Justice Statistics,inc_bjs_cpus13,A,"persons under correctional supervision (prison, jail, probation, parole)",6467900,W2,2000
 US,bjs_correctional_population,,Bureau of Justice Statistics,inc_bjs_cpus13,A,"persons under correctional supervision (prison, jail, probation, parole)",6585000,W2,2001
 US,bjs_correctional_population,,Bureau of Justice Statistics,inc_bjs_cpus13,A,"persons under correctional supervision (prison, jail, probation, parole)",6731100,W2,2002
@@ -3110,6 +3111,7 @@ accessed,archived_url,evidence_tier,publisher,source_id,title,url
 2026-08-22,,A,Bureau of Justice Statistics,inc_bjs_jim09,"Jail Inmates at Midyear 2009 – Statistical Tables (Jun 2010, NCJ 230122)",https://bjs.ojp.gov/content/pub/pdf/jim09st.pdf
 2026-08-22,,A,Bureau of Justice Statistics,inc_bjs_pjim00,"Prison and Jail Inmates at Midyear 2000 (Mar 2001, NCJ 185989)",https://bjs.ojp.gov/content/pub/pdf/pjim00.pdf
 2026-08-22,,B,Bureau of Justice Statistics,inc_bjs_pdrj24,"Jails Report Series: 2024 Preliminary Data Release (Dec 2025) — PRELIMINARY, may be revised",https://bjs.ojp.gov/library/publications/jails-report-series-2024-preliminary-data-release/web-report
+2026-11-24,,A,Bureau of Justice Statistics,inc_bjs_ji24st,"Jail Inmates in 2024 – Statistical Tables (Sept 2026, NCJ 311504) — final; replaces the Dec 2025 preliminary release",https://bjs.ojp.gov/library/publications/jail-inmates-2024-statistical-tables
 2026-08-22,,A,Bureau of Justice Statistics,inc_bjs_cpus23,"Correctional Populations in the United States, 2023 – Statistical Tables (Sept 2025, NCJ 310413)",https://bjs.ojp.gov/document/cpus23st.pdf
 2026-08-22,,A,Bureau of Justice Statistics,inc_bjs_cpus13,"Correctional Populations in the United States, 2013, Appendix Table 5 (Dec 2014, NCJ 248479)",https://bjs.ojp.gov/content/pub/pdf/cpus13.pdf
 2026-08-22,,A,Bureau of Justice Statistics,inc_bjs_facilities19,"Census of State and Federal Adult Correctional Facilities, 2019 (Nov 2021, NCJ 301366)",https://bjs.ojp.gov/content/pub/pdf/csfacf19st.pdf
@@ -3198,7 +3200,7 @@ section: public-health
 geography: United States, with international comparison where a chart says so
 generated_by: scripts/build_corpus_md.py
 chart_count: 1
-source_count: 104
+source_count: 105
 word_count: 372
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -3223,11 +3225,11 @@ dataset or the Government Cloud dataset.
 | `IS_HEALTH_register_claims.md` | Attributed causes — who said it, where, who contests it |
 | `IS_HEALTH_register_overlaps.md` | Structural observations against the Gov Cloud record |
 | `IS_HEALTH_register_*.md` | Trends, data quality, milestones, caveats |
-| `IS_HEALTH_sources.md` | All 104 sources with tier, publisher and link |
+| `IS_HEALTH_sources.md` | All 105 sources with tier, publisher and link |
 | `csv/*.csv` | Row data — indicators, sources, registers |
 
-1 chart file(s) · 104 sources
-(Tier A 79 · B 23 · C 2)
+1 chart file(s) · 105 sources
+(Tier A 80 · B 23 · C 2)
 
 ## What this research found
 
@@ -3261,7 +3263,7 @@ the source-document manifest** — like `government-cloud/`, this folder is rese
 output, not journal material, and it does not corroborate (and is not corroborated
 by) anything else in this corpus.
 
-Regenerated 2026-11-24 by `scripts/sync_corpus_health.py`, which
+Regenerated 2026-11-25 by `scripts/sync_corpus_health.py`, which
 recomputes every count below from the live data files.
 
 ## What this is
@@ -3290,7 +3292,7 @@ publisher, access date).
 | health_overlaps.json | 12 | Structural/pattern overlaps with the Government Cloud record |
 | health_verdict.json | — | The verdict on the ~30% claim, with key figures |
 | health_caveats.json | 50 | Per-workstream caveats — read before quoting any figure |
-| health_sources.json | 104 | Source register: URL, publisher, tier, access date |
+| health_sources.json | 105 | Source register: URL, publisher, tier, access date |
 | manifest.json | — | Table counts, tier legend, method note |
 | charts/suicide_international.json | 14 series | 14 series x 22 years on the WHO age-standardised basis (2000-2021), plus national-statistics extensions for 5 countries running to 2025 on each country's own method |
 | charts/suicide_international.csv | — | The same series as a wide CSV, one row per country |
@@ -3298,7 +3300,7 @@ publisher, access date).
 | charts/causes_of_death/ | 67 cause files | 201 places x 67 causes, 2000-2021, WHO age-standardised estimates; each country labelled by years of registered deaths (94 registered, 17 partly, 83 model only) |
 | charts/overdose_us.csv | 27 | US overdose deaths by year, with rate and final/provisional status |
 
-Source register: 79 Tier A · 23 Tier B · 2 Tier C.
+Source register: 80 Tier A · 23 Tier B · 2 Tier C.
 
 ## The suicide comparison chart
 
@@ -3333,12 +3335,12 @@ line is WHO's model, not counted deaths. Rebuilt by `scripts/build_causes_of_dea
 
 `charts/overdose_us.csv` runs 27 years. The rise is the larger half of it:
 16,849 deaths in 1999 to 107,941 in 2022, then a steep reversal to 79,384 (2024,
-final) and a provisional 69,973 (2025).
+final) and a provisional 70,735 (2025).
 
 Two vintages are mixed at the recent end and the distinction changes the headline:
-CDC's May 2026 release compares provisional 2025 against a *provisional* 2024
-estimate of 81,313 and reports "almost 14%". Against the *final* 2024 count of
-79,384 the same 2025 figure is a fall of about 11.9%. Provisional counts revise
+CDC's provisional series compares 2025 against a *provisional* 2024 estimate of
+81,313: a fall of about 13% (its May 2026 release, at 69,973, said "almost 14%").
+Against the *final* 2024 count of 79,384 the same 2025 figure is a fall of about 10.9%. Provisional counts revise
 upward. `health_data_quality.json` carries this as row `hq015`.
 
 ## Safe reporting
@@ -3996,7 +3998,7 @@ section: public-health
 geography: United States, with international comparison where a chart says so
 generated_by: scripts/build_corpus_md.py
 entry_count: 15
-word_count: 1238
+word_count: 1253
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -4136,9 +4138,9 @@ Aggregate global underreporting: ~1 in 6 suicides missing worldwide; ~1 in 3 in 
 *Document:* Frontiers in Psychiatry (2025)
 
 ### US — hq015
-[A] documented by not stated — CDC/NCHS · U.S. Overdose Deaths Decrease for Third Consecutive Year in 2025 (provisional) <https://www.cdc.gov/nchs/pressroom/releases/20260513.html>
+[A] documented by not stated — CDC/NCHS · VSRR Provisional Drug Overdose Death Counts: United States, predicted count, 12 months ending December 2025 (data as of 1 Nov 2026) <https://data.cdc.gov/Health-Statistics/VSRR-Provisional-Drug-Overdose-Death-Counts/xkb8-kh2a>
 
-The 2025 figure is provisional and the 2024 figure on this chart is final. They are different vintages, and the choice of vintage changes the headline. CDC's May 2026 release reports a fall of almost 14% for 2025 by comparing it with a provisional 2024 estimate of 81,313. Measured against the final 2024 count of 79,384, the same provisional 2025 figure is a fall of about 11.9%. Provisional counts rise as late certificates are processed, so the 2025 number should be expected to revise upward.
+The 2025 figure is provisional and the 2024 figure on this chart is final. They are different vintages, and the choice of vintage changes the headline. CDC's provisional series puts 2025 at 70,735, a fall of about 13% on its provisional 2024 estimate of 81,313 (its May 2026 release, at 69,973, reported almost 14%). Measured against the final 2024 count of 79,384, the same provisional 2025 figure is a fall of about 10.9%. Provisional counts rise as late certificates are processed, so the 2025 number should be expected to revise upward.
 
 *Quantification:* none given
 
@@ -4364,7 +4366,7 @@ Structural and pattern observations only. Two things occurring in the same perio
 
 *Not a causal claim:* Does not show health outcomes differ by deployment density. Documents a coverage artifact: where statistics and procurement records are co-published, overlaps become visible; elsewhere they cannot be constructed at all.
 
-### US overdose deaths declined from the 2022 record to 79,384 in 2024 (−26.2%) and provisional 69,973 in 2025
+### US overdose deaths declined from the 2022 record to 79,384 in 2024 (−26.2%) and provisional 70,735 in 2025
 [C] both
 
 **Gov Cloud fact:** milestones.json (track E): BARDA FY2025 enacted $1.015B with FY2026 request $654M, declining; total US biodefense FY2026 request declining across agencies
@@ -4439,7 +4441,7 @@ One sourced statement per series.
 
 - [A] **anxiety** — US adult anxiety symptoms (GAD-7) rose 15.6% (2019) → 18.2% (2022), ages 18-29 19.5% → 26.6% (NCHS/NHIS); WHO estimated a 25% global increase in anxiety and depression in the first pandemic year; anxiety disorders 359M people (4.4%) in 2021. — WHO · COVID-19 pandemic triggers 25% increase in prevalence of anxiety and depression worldwide <https://www.who.int/news/item/02-03-2022-covid-19-pandemic-triggers-25-increase-in-prevalence-of-anxiety-and-depression-worldwide>
 
-- [A] **drug_overdose** — US overdose deaths peaked at 107,941 (2022, rate 32.6), fell to 105,007 (2023) and 79,384 (2024, −26.2%, largest one-year decline of 2014-2024), provisional 2025 ~69,973 (−14%, third consecutive annual decline). A major documented counterpoint to a worsening-overdose narrative. — CDC/NCHS · Drug Overdose Deaths in the United States, 2023-2024 (Data Brief 549, Jan 2026) <https://cdc.gov/nchs/products/databriefs/db549.htm>
+- [A] **drug_overdose** — US overdose deaths peaked at 107,941 (2022, rate 32.6), fell to 105,007 (2023) and 79,384 (2024, −26.2%, largest one-year decline of 2014-2024), provisional 2025 ~70,735 (−13%, third consecutive annual decline). A major documented counterpoint to a worsening-overdose narrative. — CDC/NCHS · Drug Overdose Deaths in the United States, 2023-2024 (Data Brief 549, Jan 2026) <https://cdc.gov/nchs/products/databriefs/db549.htm>
 
 - [A] **life_expectancy** — US life expectancy flat 2014-2019 (78.9→78.8), fell to 77.0 (2020) and 76.4 (2021), recovered to 77.5 (2022), 78.4 (2023), 79.0 (2024) — above pre-pandemic. Still trails peer average (82.7 in 2024; 3.7-yr gap), a divergence that widened through the 2010s and pandemic and narrowed slightly 2023-2024. — CDC/NCHS · Mortality in the United States, 2024 (Data Brief 548, Jan 2026) <https://cdc.gov/nchs/products/databriefs/db548.htm>
 
@@ -4471,7 +4473,7 @@ One sourced statement per series.
 
 - [A] **antipsychotic_use_us** — US adult antipsychotic use rose 1.9% (2006) -> 3.0% (2023) of adults — several times the ~0.3-0.6% schizophrenia prevalence, confirming most volume is prescribed for other conditions; youth use slightly declined (1.3% -> 1.1%). — HHS ASPE · US Population Prevalence of Psychotropic Medication Use, 2006-2023 <https://www.aspe.hhs.gov/sites/default/files/documents/1ef68c455fa5aa5932acf481b0954ddf/DataPoint_PsychRxPrev_BHDAP_20250409%20July%2031%202025.pdf>
 
-- [A] **drug_overdose** — US overdose deaths rose from 16,849 in 1999 (rate 6.1) to 107,941 in 2022 (rate 32.6) — a 541% increase in the count over twenty-three years, with the steepest acceleration after 2013 and the largest single-year rise in 2020 (+30.0%). The post-2022 decline runs down from that peak, not from the pre-2000 baseline: provisional 2025 (69,973) is still about four times the 1999 count. — CDC/NCHS · Data tables for NCHS Data Brief 428: Drug Overdose Deaths in the United States, 1999-2020 <https://www.cdc.gov/nchs/data/databriefs/db428-tables.pdf>
+- [A] **drug_overdose** — US overdose deaths rose from 16,849 in 1999 (rate 6.1) to 107,941 in 2022 (rate 32.6) — a 541% increase in the count over twenty-three years, with the steepest acceleration after 2013 and the largest single-year rise in 2020 (+30.0%). The post-2022 decline runs down from that peak, not from the pre-2000 baseline: provisional 2025 (70,735) is still about four times the 1999 count. — CDC/NCHS · Data tables for NCHS Data Brief 428: Drug Overdose Deaths in the United States, 1999-2020 <https://www.cdc.gov/nchs/data/databriefs/db428-tables.pdf>
 
 
 ===== FILE: public-health/IS_HEALTH_sources.md · ID: IS-HEALTH-SOURCES =====
@@ -4484,8 +4486,8 @@ doc_type: source-list
 section: public-health
 geography: United States, with international comparison where a chart says so
 generated_by: scripts/build_corpus_md.py
-source_count: 104
-word_count: 2402
+source_count: 105
+word_count: 2426
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -4494,7 +4496,7 @@ disclaimer: meta/IS_META_terms.md
 
 *Independent research compiled from public records for informational purposes only. Not legal, medical, or investment advice. Evidence tiers: **A** documented, **B** corroborated, **C** claimed — B and C may not be quoted as established fact. Causes are reported as attributed, never asserted. This dataset does not corroborate, and is not corroborated by, any other dataset in this corpus. See `meta/IS_META_terms.md`.*
 
-**104 sources.** Tier A 79 · B 23 · C 2. Every figure in this folder resolves to one of these.
+**105 sources.** Tier A 80 · B 23 · C 2. Every figure in this folder resolves to one of these.
 
 | Tier | Publisher | Title | Accessed | Link | Archived |
 |---|---|---|---|---|---|
@@ -4528,6 +4530,7 @@ disclaimer: meta/IS_META_terms.md
 | A | CDC/NCHS | Mortality in the United States, 2015 (Data Brief 267) | 2026-08-19 | <https://www.cdc.gov/nchs/products/databriefs/db267.htm> | — |
 | A | CDC/NCHS | Data tables for NCHS Data Brief 428: Drug Overdose Deaths in the United States, 1999-2020 | 2026-08-20 | <https://www.cdc.gov/nchs/data/databriefs/db428-tables.pdf> | — |
 | A | CDC/NCHS | NCHS Data Brief 522: Drug Overdose Deaths in the United States, 2003-2023 | 2026-08-20 | <https://www.cdc.gov/nchs/products/databriefs/db522.htm> | — |
+| A | CDC/NCHS | VSRR Provisional Drug Overdose Death Counts: United States, predicted count, 12 months end | 2026-11-24 | <https://data.cdc.gov/Health-Statistics/VSRR-Provisional-Drug-Overdose-Death-Counts/xkb8-kh2a> | — |
 | A | Clinical Psychological Science | Increases in Depressive Symptoms, Suicide-Related Outcomes... After 2010 (Twenge et al.) | 2026-08-19 | <https://journals.sagepub.com/doi/10.1177/2167702617723376> | — |
 | A | Destatis | Press release N046: Jeder 100. Todesfall in Deutschland ist ein Suizid (Sept 2024, 2023 da | 2026-08-19 | <https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/09/PD24_N046_23211.html> | — |
 | A | European Journal of Public Health | Semyonova et al. — Russian suicide mortality: official and actual rates | 2026-08-19 | <https://academic.oup.com/eurpub/article/30/Supplement_5/ckaa166.1371/5915576> | — |
@@ -4634,7 +4637,7 @@ year,deaths,age_adjusted_rate_per_100k,status,source_id
 2022,107941,32.6,final,hs104
 2023,105007,31.3,final,hs104
 2024,79384,23.1,final,hs055
-2025,69973,,provisional,hs057
+2025,70735,,provisional,hs105
 ```
 
 
@@ -4725,7 +4728,7 @@ Mental Healthcare Act 2017 (S.115),Parliament of India; CMHLP,dq09,,India,Legal 
 WHO Global Health Estimates page (GHE 2021),WHO,dq12,,Global,"WHO headline numbers for most countries are modeled estimates (GHE), not counted deaths — incl. China, India, Russia",Estimates produced from consolidated sources incl. GBD models where registration is missing; only 86/183 states have good registration.,hs024,A,
 'How do global statistics on suicide differ between sources?',Our World in Data,dq13,,Global,"WHO and IHME/GBD produce materially different estimates for the same country-years (different models, undetermined-intent redistribution)",WHO uses adjusted registration where coverage >=80%; IHME reclassifies some undetermined-intent deaths to suicide; India lacks usable WHO Mortality Database registration data.,hs040,B,
 Frontiers in Psychiatry (2025),Meda et al. (systematic review + meta-analysis),dq14,,Global; LMICs,"Aggregate global underreporting: ~1 in 6 suicides missing worldwide; ~1 in 3 in large LMICs (India, China)",Pooled global underreporting 17.9% (CI 10.9-28.1%); LMICs 'such as India and China' 34.9% (CI 20.3-53%); HICs 11.5% (CI 6.6-19.3%); corrected global total >1 million/yr.,hs039,A,
-,,hq015,A reported percentage change spanning the provisional/final boundary can move several points without any underlying change in deaths.,US,"The 2025 figure is provisional and the 2024 figure on this chart is final. They are different vintages, and the choice of vintage changes the headline. CDC's May 2026 release reports a fall of almost 14% for 2025 by comparing it with a provisional 2024 estimate of 81,313. Measured against the final 2024 count of 79,384, the same provisional 2025 figure is a fall of about 11.9%. Provisional counts rise as late certificates are processed, so the 2025 number should be expected to revise upward.",,hs057,A,Drug overdose deaths — provisional against final
+,,hq015,A reported percentage change spanning the provisional/final boundary can move several points without any underlying change in deaths.,US,"The 2025 figure is provisional and the 2024 figure on this chart is final. They are different vintages, and the choice of vintage changes the headline. CDC's provisional series puts 2025 at 70,735, a fall of about 13% on its provisional 2024 estimate of 81,313 (its May 2026 release, at 69,973, reported almost 14%). Measured against the final 2024 count of 79,384, the same provisional 2025 figure is a fall of about 10.9%. Provisional counts rise as late certificates are processed, so the 2025 number should be expected to revise upward.",,hs105,A,Drug overdose deaths — provisional against final
 ```
 
 
@@ -4920,7 +4923,7 @@ US,drug_overdose_deaths,"Age-adjusted rate 32.4 per 100,000.",False,CDC/NCHS,32.
 US,drug_overdose_deaths,"Peak year of the series. Age-adjusted rate 32.6 per 100,000. Age-adjusted rate 32.6 per 100,000.",False,CDC/NCHS,32.6,hs104,A,drug overdose deaths (final),107941,W2,2022
 US,drug_overdose_deaths,"First annual decline since 2018. Age-adjusted rate 31.3 per 100,000.",False,CDC/NCHS,31.3,hs104,A,drug overdose deaths (final),105007,W2,2023
 US,drug_overdose_deaths,"Final. -26.2% on 2023 — the largest percentage drop across 2014-2024. Age-adjusted rate 23.1 per 100,000.",False,CDC/NCHS,23.1,hs055,A,drug overdose deaths (final),79384,W2,2024
-US,drug_overdose_deaths_provisional,Provisional; incomplete and subject to upward revision. Third consecutive annual decline. See the data-quality register on comparing this with 2024.,True,CDC/NCHS,,hs057,A,drug overdose deaths (provisional),69973,W2,2025
+US,drug_overdose_deaths_provisional,Provisional; incomplete and subject to upward revision. Third consecutive annual decline. See the data-quality register on comparing this with 2024.,True,CDC/NCHS,,hs105,A,drug overdose deaths (provisional),70735,W2,2025
 ```
 
 
@@ -4975,7 +4978,7 @@ pattern,"regulations.json: dataset's regulatory era begins with FedRAMP (2011), 
 structural,"regulations.json: 8 of 99 instruments flag neural_data — OECD neurotech recommendation (2019), Chile Law 21.383 (2021), Chile Supreme Court Girardi v. Emotiv (2023), California SB 1223 (2024), Colorado HB24-1058 (2024), Montana SB 163 (2025), UNESCO recommendation (2025), UK ICO strategy (2026, proposed); 0 of 99 record any recourse mechanism",Psychiatric prescribing rising 2016-2025 while schizophrenia prevalence stable (GBD),"Does not show any link between neural-data regulation and prescribing trends, or between either and brain health. Records the co-timing of two documentation waves and a structural gap in the regulatory record.",The period of rising psychiatric prescribing (2016-2025) is also the period in which jurisdictions began writing brain-data collection rules (2019-2026); the regulation record captures what may be collected but has no field for what a person can do about it.,ov08,temporal,A
 pattern,milestones.json: Aotearoa Immunisation Register made permanent 2022-11-01 ('coevolution': pandemic register hardened into permanent NIR replacement); NZ CIR and COVID Tracer decommissioned,Pandemic-era distress indicators remained elevated into 2022 (NHSR 213; WHO 2022-03-02),Does not show the register's permanence relates to mental-health indicators anywhere. The US/WHO indicators cited are not NZ-specific.,"While most pandemic systems were dismantled, at least one (NZ's immunisation register) was made permanent in late 2022 — the same period distress indicators remained elevated — the infrastructure's fate diverged (teardown vs permanence) with no reference to health-indicator trajectories in either case.",ov09,temporal,B
 structural,"deployments.json: health deployments span 12 of 35 jurisdictions — US 7, GB 4, CN 3, DE 3, EU 3, RU 3, FR 2, IL 2, NZ 2, AE 1, AU 1, QA 1","The register's verified health signals come from US (CDC/NCHS), England (NHSBSA), and global (WHO/GBD) statistical systems, 1999-2025","Does not show health outcomes differ by deployment density. Documents a coverage artifact: where statistics and procurement records are co-published, overlaps become visible; elsewhere they cannot be constructed at all.","The overlap register can only be dense where both corpora are dense: the US and UK account for 11 of 32 health deployments and nearly all citable outcome statistics; most dataset jurisdictions (incl. CN, RU, AE) have health deployments but no comparable outcome series to overlap against.",ov10,jurisdictional,A
-pattern,"milestones.json (track E): BARDA FY2025 enacted $1.015B with FY2026 request $654M, declining; total US biodefense FY2026 request declining across agencies","US overdose deaths declined from the 2022 record to 79,384 in 2024 (−26.2%) and provisional 69,973 in 2025","Does not show any relation between the two declines — biodefense funding does not address overdose; the overdose decline is attributed elsewhere (naloxone access, supply changes). Recorded strictly as a co-trend.",US overdose deaths and US federal biodefense/pandemic-preparedness budgets declined over the same 2023-2026 window.,ov11,both,C
+pattern,"milestones.json (track E): BARDA FY2025 enacted $1.015B with FY2026 request $654M, declining; total US biodefense FY2026 request declining across agencies","US overdose deaths declined from the 2022 record to 79,384 in 2024 (−26.2%) and provisional 70,735 in 2025","Does not show any relation between the two declines — biodefense funding does not address overdose; the overdose decline is attributed elsewhere (naloxone access, supply changes). Recorded strictly as a co-trend.",US overdose deaths and US federal biodefense/pandemic-preparedness budgets declined over the same 2023-2026 window.,ov11,both,C
 structural,"milestones.json: WHO Global Digital Health Certification Network adopted the EU DCC standard globally 2023-06-05 ('coevolution', 'standard persists'), 25 days before the EU DCC regulation lapsed 2023-06-30 ('decoupled')","Mental-health indicators remained above pre-pandemic baselines into 2022, the period pandemic credentials were wound down","Does not show certification infrastructure affected mental health in any way, nor that its persistence or lapse had health consequences.","The legal instrument behind Europe's pandemic credential expired in June 2023, but its technical standard had been globalized by the WHO weeks earlier — the infrastructure pattern outlived its legal basis during the tail of the pandemic-era mental-health elevation.",ov12,temporal,B
 ```
 
@@ -5088,6 +5091,7 @@ accessed,archived_url,evidence_tier,publisher,source_id,title,url
 2026-08-19,,A,Clinical Psychological Science,hs102,"Increases in Depressive Symptoms, Suicide-Related Outcomes... After 2010 (Twenge et al.)",https://journals.sagepub.com/doi/10.1177/2167702617723376
 2026-08-20,,A,CDC/NCHS,hs103,"Data tables for NCHS Data Brief 428: Drug Overdose Deaths in the United States, 1999-2020",https://www.cdc.gov/nchs/data/databriefs/db428-tables.pdf
 2026-08-20,,A,CDC/NCHS,hs104,"NCHS Data Brief 522: Drug Overdose Deaths in the United States, 2003-2023",https://www.cdc.gov/nchs/products/databriefs/db522.htm
+2026-11-24,,A,CDC/NCHS,hs105,"VSRR Provisional Drug Overdose Death Counts: United States, predicted count, 12 months ending December 2025 (data as of 1 Nov 2026)",https://data.cdc.gov/Health-Statistics/VSRR-Provisional-Drug-Overdose-Death-Counts/xkb8-kh2a
 ```
 
 
@@ -5109,7 +5113,7 @@ hs042,US cancer incidence in women <50 now 82% higher than men <50 (up from 51% 
 hs051,Multiple independent US measures show depression rising over the last decade: PHQ-8 symptoms 18.5% (2019) → 21.4% (2022) per NCHS/NHIS; Gallup ever-diagnosed 20.6% (2017) → 29.0% (2023); steepest among 18-29s and women.,A,depression_us,W2
 hs048,Counterpoint: 2024 NSDUH shows adolescent past-year MDE fell 18.1% (2023) → 15.4% (2024); adult SMI roughly flat (5.7% → 5.6%) — recent official data do not show a continuing monotonic rise.,B,depression_counterpoint,W2
 hs054,"US adult anxiety symptoms (GAD-7) rose 15.6% (2019) → 18.2% (2022), ages 18-29 19.5% → 26.6% (NCHS/NHIS); WHO estimated a 25% global increase in anxiety and depression in the first pandemic year; anxiety disorders 359M people (4.4%) in 2021.",A,anxiety,W2
-hs055,"US overdose deaths peaked at 107,941 (2022, rate 32.6), fell to 105,007 (2023) and 79,384 (2024, −26.2%, largest one-year decline of 2014-2024), provisional 2025 ~69,973 (−14%, third consecutive annual decline). A major documented counterpoint to a worsening-overdose narrative.",A,drug_overdose,W2
+hs055,"US overdose deaths peaked at 107,941 (2022, rate 32.6), fell to 105,007 (2023) and 79,384 (2024, −26.2%, largest one-year decline of 2014-2024), provisional 2025 ~70,735 (−13%, third consecutive annual decline). A major documented counterpoint to a worsening-overdose narrative.",A,drug_overdose,W2
 hs059,"US life expectancy flat 2014-2019 (78.9→78.8), fell to 77.0 (2020) and 76.4 (2021), recovered to 77.5 (2022), 78.4 (2023), 79.0 (2024) — above pre-pandemic. Still trails peer average (82.7 in 2024; 3.7-yr gap), a divergence that widened through the 2010s and pandemic and narrowed slightly 2023-2024.",A,life_expectancy,W2
 hs072,"Consensus: point prevalence low and stable — GBD 2016 global age-standardised 0.28% (UI 0.24-0.31), age-specific prevalence 'largely consistent over time and across countries'; case growth (13.1m 1990 -> 20.9m 2016) driven by population growth/ageing.",A,schizophrenia_prevalence,W3
 hs073,"GBD 2021: prevalent cases +70.1% (13.62m -> 23.18m 1990-2021) but age-standardised prevalence 'relatively stable', incidence slightly declining (EAPC -0.04) — no epidemic of new disease.",A,schizophrenia_prevalence,W3
@@ -5125,7 +5129,7 @@ hs078,"Commercially insured 5-64 with >=1 stimulant fill: 3.6% (2016) -> 4.1% (2
 hs066,"CNS stimulant/ADHD items in England more than doubled 1.31m (2015/16) -> 3.38m (2024/25); adults prescribed rose 24.3% in one year to 190,000.",A,adhd_prescribing_england,W3
 hs067,"Benzodiazepines run counter: England hypnotic/anxiolytic items FELL 12% (15.9m 2015/16 -> 14.0m 2021/22; 13.4m 2024/25); US adults 65+ fell 14.1 -> 11.5 per 100 (2015-2024), declining pre-pandemic then plateauing.",A,benzodiazepine_prescribing,W3
 hs077,"US adult antipsychotic use rose 1.9% (2006) -> 3.0% (2023) of adults — several times the ~0.3-0.6% schizophrenia prevalence, confirming most volume is prescribed for other conditions; youth use slightly declined (1.3% -> 1.1%).",A,antipsychotic_use_us,W3
-hs103,"US overdose deaths rose from 16,849 in 1999 (rate 6.1) to 107,941 in 2022 (rate 32.6) — a 541% increase in the count over twenty-three years, with the steepest acceleration after 2013 and the largest single-year rise in 2020 (+30.0%). The post-2022 decline runs down from that peak, not from the pre-2000 baseline: provisional 2025 (69,973) is still about four times the 1999 count.",A,drug_overdose,
+hs103,"US overdose deaths rose from 16,849 in 1999 (rate 6.1) to 107,941 in 2022 (rate 32.6) — a 541% increase in the count over twenty-three years, with the steepest acceleration after 2013 and the largest single-year rise in 2020 (+30.0%). The post-2022 decline runs down from that peak, not from the pre-2000 baseline: provisional 2025 (70,735) is still about four times the 1999 count.",A,drug_overdose,
 ```
 
 

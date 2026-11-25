@@ -5,7 +5,7 @@ source-document manifest** — like `government-cloud/` and `public-health/`, th
 is research output, not journal material, and it does not corroborate (and is not
 corroborated by) anything else in this corpus.
 
-Regenerated 2026-11-24 by `scripts/sync_corpus_crime.py`, which recomputes
+Regenerated 2026-11-25 by `scripts/sync_corpus_crime.py`, which recomputes
 every count below from the live data files.
 
 **Scope: the United States only.**
@@ -46,7 +46,7 @@ Two further traps are documented in `crime_data_quality.json`: the 2021 NIBRS tr
 | crime_trends.json | 15 | Sourced trend statements |
 | crime_verdict.json | — | The headline question and its answer, with key figures |
 | crime_caveats.json | 7 | Read before quoting any figure |
-| crime_sources.json | 223 | source_id → URL, publisher, tier, access date |
+| crime_sources.json | 224 | source_id → URL, publisher, tier, access date |
 | crime_not_counted.json | 13 | The uncounted categories — what has no national statistic, and who would have to collect it |
 | crime_sweeps.json | 3 | Sweeping enforcement actions and the capacity question — what headline arrest counts actually count |
 | crime_milestones.json | 20 | Dated events behind the master timeline's Crime lane (track G) |
@@ -59,7 +59,7 @@ Two further traps are documented in `crime_data_quality.json`: the 2021 NIBRS tr
 | charts/homicide_two_measures.json | 2 series | FBI — murder known to police (1960-2025, 66 pts, crude rate, offences known to police); CDC — homicide deaths (1950-2023, 27 pts, age-adjusted rate, death certificates) |
 | charts/homicide_us.csv | 67 | Both series wide, one row per year |
 
-Source register: 171 Tier A · 51 Tier B · 1 Tier C.
+Source register: 172 Tier A · 51 Tier B · 1 Tier C.
 
 ## Reading the homicide chart
 

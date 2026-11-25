@@ -7,7 +7,7 @@ section: public-health
 geography: United States, with international comparison where a chart says so
 generated_by: scripts/build_corpus_md.py
 chart_count: 1
-source_count: 104
+source_count: 105
 word_count: 372
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -32,11 +32,11 @@ dataset or the Government Cloud dataset.
 | `IS_HEALTH_register_claims.md` | Attributed causes — who said it, where, who contests it |
 | `IS_HEALTH_register_overlaps.md` | Structural observations against the Gov Cloud record |
 | `IS_HEALTH_register_*.md` | Trends, data quality, milestones, caveats |
-| `IS_HEALTH_sources.md` | All 104 sources with tier, publisher and link |
+| `IS_HEALTH_sources.md` | All 105 sources with tier, publisher and link |
 | `csv/*.csv` | Row data — indicators, sources, registers |
 
-1 chart file(s) · 104 sources
-(Tier A 79 · B 23 · C 2)
+1 chart file(s) · 105 sources
+(Tier A 80 · B 23 · C 2)
 
 ## What this research found
 

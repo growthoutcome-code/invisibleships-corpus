@@ -432,17 +432,16 @@
         },
         {
           "year": 2024,
-          "value": 657500,
-          "tier": "A",
-          "note": "preliminary"
+          "value": 658700,
+          "tier": "A"
         }
       ],
       "caveats": [
         "THE COMPOSITION INVERTED. Between 2013 and 2023 the CONVICTED jail population fell 29% while the UNCONVICTED population rose 3%. Seventy percent of people in American jails in 2023 had not been convicted of anything. Almost the entire decade-long decline is a decline in sentenced people.",
-        "2019 comes from the Census of Jails, a full enumeration; every other year is a sample-based estimate from the Annual Survey of Jails.",
+        "2019 and 2024 come from the Census of Jails, a full enumeration; every other year is a sample-based estimate from the Annual Survey of Jails.",
         "Jails are collectively UNDER capacity \u2014 73% of rated capacity in 2023, down from 84% in 2013 \u2014 though 12% of individual jurisdictions were over it.",
         "ICE detainees held in local jails ARE inside this count: 7,000 at midyear 2023, about 1%, and falling while ICE's own detained population set records. The immigration system is almost entirely outside this line.",
-        "2024 is preliminary and may be revised."
+        "2024 is final (Jail Inmates in 2024, Sept 2026); the Dec 2025 preliminary release had 657,500."
       ]
     }
   ],

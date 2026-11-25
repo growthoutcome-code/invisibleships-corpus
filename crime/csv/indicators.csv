@@ -477,7 +477,7 @@ US,bjs_jail_population,SERIES TROUGH — a 25% single-year fall BJS attributes m
 US,bjs_jail_population,,Bureau of Justice Statistics,inc_bjs_ji23st,A,inmates confined at midyear (30 June),636300,W2,2021
 US,bjs_jail_population,,Bureau of Justice Statistics,inc_bjs_ji23st,A,inmates confined at midyear (30 June),663100,W2,2022
 US,bjs_jail_population,,Bureau of Justice Statistics,inc_bjs_ji23st,A,inmates confined at midyear (30 June),664200,W2,2023
-US,bjs_jail_population,PRELIMINARY. May be revised when the final statistical tables appear.,Bureau of Justice Statistics,inc_bjs_pdrj24,B,inmates confined at midyear (30 June),657500,W2,2024
+US,bjs_jail_population,"Final (Sept 2026), from the Census of Jails. The Dec 2025 preliminary release had 657,500.",Bureau of Justice Statistics,inc_bjs_ji24st,A,inmates confined at midyear (30 June),658700,W2,2024
 US,bjs_jail_unconvicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates not convicted (held pretrial),453200,W2,2013
 US,bjs_jail_unconvicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates not convicted (held pretrial),467500,W2,2014
 US,bjs_jail_unconvicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates not convicted (held pretrial),454400,W2,2015
@@ -489,7 +489,7 @@ US,bjs_jail_unconvicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inma
 US,bjs_jail_unconvicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates not convicted (held pretrial),451400,W2,2021
 US,bjs_jail_unconvicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates not convicted (held pretrial),466100,W2,2022
 US,bjs_jail_unconvicted,"70% of the jail population — and 3% ABOVE 2013, while the convicted population fell 29% over the same years.",Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates not convicted (held pretrial),467600,W2,2023
-US,bjs_jail_unconvicted,69% of the jail population.,Bureau of Justice Statistics,inc_bjs_pdrj24,B,jail inmates not convicted (held pretrial),450600,W2,2024
+US,bjs_jail_unconvicted,68% of the jail population.,Bureau of Justice Statistics,inc_bjs_ji24st,A,jail inmates not convicted (held pretrial),450700,W2,2024
 US,bjs_jail_convicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates convicted,278000,W2,2013
 US,bjs_jail_convicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates convicted,277100,W2,2014
 US,bjs_jail_convicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates convicted,273000,W2,2015
@@ -501,7 +501,7 @@ US,bjs_jail_convicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmate
 US,bjs_jail_convicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates convicted,185000,W2,2021
 US,bjs_jail_convicted,,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates convicted,197000,W2,2022
 US,bjs_jail_convicted,29% below 2013. Almost the entire decade-long jail decline is here.,Bureau of Justice Statistics,inc_bjs_ji23st,A,jail inmates convicted,196600,W2,2023
-US,bjs_jail_convicted,,Bureau of Justice Statistics,inc_bjs_pdrj24,B,jail inmates convicted,206900,W2,2024
+US,bjs_jail_convicted,,Bureau of Justice Statistics,inc_bjs_ji24st,A,jail inmates convicted,208000,W2,2024
 US,bjs_correctional_population,,Bureau of Justice Statistics,inc_bjs_cpus13,A,"persons under correctional supervision (prison, jail, probation, parole)",6467900,W2,2000
 US,bjs_correctional_population,,Bureau of Justice Statistics,inc_bjs_cpus13,A,"persons under correctional supervision (prison, jail, probation, parole)",6585000,W2,2001
 US,bjs_correctional_population,,Bureau of Justice Statistics,inc_bjs_cpus13,A,"persons under correctional supervision (prison, jail, probation, parole)",6731100,W2,2002

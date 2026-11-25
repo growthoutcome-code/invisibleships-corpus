@@ -143,9 +143,9 @@
     "dq_id": "hq015",
     "geography": "US",
     "topic": "Drug overdose deaths \u2014 provisional against final",
-    "issue": "The 2025 figure is provisional and the 2024 figure on this chart is final. They are different vintages, and the choice of vintage changes the headline. CDC's May 2026 release reports a fall of almost 14% for 2025 by comparing it with a provisional 2024 estimate of 81,313. Measured against the final 2024 count of 79,384, the same provisional 2025 figure is a fall of about 11.9%. Provisional counts rise as late certificates are processed, so the 2025 number should be expected to revise upward.",
+    "issue": "The 2025 figure is provisional and the 2024 figure on this chart is final. They are different vintages, and the choice of vintage changes the headline. CDC's provisional series puts 2025 at 70,735, a fall of about 13% on its provisional 2024 estimate of 81,313 (its May 2026 release, at 69,973, reported almost 14%). Measured against the final 2024 count of 79,384, the same provisional 2025 figure is a fall of about 10.9%. Provisional counts rise as late certificates are processed, so the 2025 number should be expected to revise upward.",
     "effect": "A reported percentage change spanning the provisional/final boundary can move several points without any underlying change in deaths.",
     "tier": "A",
-    "source_id": "hs057"
+    "source_id": "hs105"
   }
 ]

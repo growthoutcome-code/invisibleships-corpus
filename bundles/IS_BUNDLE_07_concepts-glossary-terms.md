@@ -3744,14 +3744,14 @@ American overdose deaths went from 16,849 in 1999 to 107,941 in 2022 — more th
 
 ## Evidence
 
-- CDC/NCHS 1999–2024 final, 2025 provisional: 16,849 → 107,941 (2022 peak) → 69,973
+- CDC/NCHS 1999–2024 final, 2025 provisional: 16,849 → 107,941 (2022 peak) → 70,735
 - 2020: +30.0% on 2019, the largest single-year rise in the series
 - 2024: −26.2%, the largest percentage fall across 2014–2024
 - CDC attributes the decline to naloxone distribution, treatment access, supply shifts and renewed prevention — recorded as an attribution, not adopted as a finding
 
 ## What this does not answer
 
-- The 2025 figure is provisional and will revise upward. Measured against CDC's provisional 2024 estimate the fall is almost 14%; against the final 2024 count, about 11.9%. Both are published; they compare different vintages of the same year.
+- The 2025 figure is provisional and will revise upward. Measured against CDC's provisional 2024 estimate the fall is about 13%; against the final 2024 count, about 10.9%. Both are published; they compare different vintages of the same year.
 
 ## References
 

@@ -5,7 +5,7 @@ the source-document manifest** — like `government-cloud/`, this folder is rese
 output, not journal material, and it does not corroborate (and is not corroborated
 by) anything else in this corpus.
 
-Regenerated 2026-11-24 by `scripts/sync_corpus_health.py`, which
+Regenerated 2026-11-25 by `scripts/sync_corpus_health.py`, which
 recomputes every count below from the live data files.
 
 ## What this is
@@ -34,7 +34,7 @@ publisher, access date).
 | health_overlaps.json | 12 | Structural/pattern overlaps with the Government Cloud record |
 | health_verdict.json | — | The verdict on the ~30% claim, with key figures |
 | health_caveats.json | 50 | Per-workstream caveats — read before quoting any figure |
-| health_sources.json | 104 | Source register: URL, publisher, tier, access date |
+| health_sources.json | 105 | Source register: URL, publisher, tier, access date |
 | manifest.json | — | Table counts, tier legend, method note |
 | charts/suicide_international.json | 14 series | 14 series x 22 years on the WHO age-standardised basis (2000-2021), plus national-statistics extensions for 5 countries running to 2025 on each country's own method |
 | charts/suicide_international.csv | — | The same series as a wide CSV, one row per country |
@@ -42,7 +42,7 @@ publisher, access date).
 | charts/causes_of_death/ | 67 cause files | 201 places x 67 causes, 2000-2021, WHO age-standardised estimates; each country labelled by years of registered deaths (94 registered, 17 partly, 83 model only) |
 | charts/overdose_us.csv | 27 | US overdose deaths by year, with rate and final/provisional status |
 
-Source register: 79 Tier A · 23 Tier B · 2 Tier C.
+Source register: 80 Tier A · 23 Tier B · 2 Tier C.
 
 ## The suicide comparison chart
 
@@ -77,12 +77,12 @@ line is WHO's model, not counted deaths. Rebuilt by `scripts/build_causes_of_dea
 
 `charts/overdose_us.csv` runs 27 years. The rise is the larger half of it:
 16,849 deaths in 1999 to 107,941 in 2022, then a steep reversal to 79,384 (2024,
-final) and a provisional 69,973 (2025).
+final) and a provisional 70,735 (2025).
 
 Two vintages are mixed at the recent end and the distinction changes the headline:
-CDC's May 2026 release compares provisional 2025 against a *provisional* 2024
-estimate of 81,313 and reports "almost 14%". Against the *final* 2024 count of
-79,384 the same 2025 figure is a fall of about 11.9%. Provisional counts revise
+CDC's provisional series compares 2025 against a *provisional* 2024 estimate of
+81,313: a fall of about 13% (its May 2026 release, at 69,973, said "almost 14%").
+Against the *final* 2024 count of 79,384 the same 2025 figure is a fall of about 10.9%. Provisional counts revise
 upward. `health_data_quality.json` carries this as row `hq015`.
 
 ## Safe reporting

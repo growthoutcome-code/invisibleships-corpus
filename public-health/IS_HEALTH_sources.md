@@ -6,8 +6,8 @@ doc_type: source-list
 section: public-health
 geography: United States, with international comparison where a chart says so
 generated_by: scripts/build_corpus_md.py
-source_count: 104
-word_count: 2402
+source_count: 105
+word_count: 2426
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
 disclaimer: meta/IS_META_terms.md
@@ -16,7 +16,7 @@ disclaimer: meta/IS_META_terms.md
 
 *Independent research compiled from public records for informational purposes only. Not legal, medical, or investment advice. Evidence tiers: **A** documented, **B** corroborated, **C** claimed — B and C may not be quoted as established fact. Causes are reported as attributed, never asserted. This dataset does not corroborate, and is not corroborated by, any other dataset in this corpus. See `meta/IS_META_terms.md`.*
 
-**104 sources.** Tier A 79 · B 23 · C 2. Every figure in this folder resolves to one of these.
+**105 sources.** Tier A 80 · B 23 · C 2. Every figure in this folder resolves to one of these.
 
 | Tier | Publisher | Title | Accessed | Link | Archived |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@ disclaimer: meta/IS_META_terms.md
 | A | CDC/NCHS | Mortality in the United States, 2015 (Data Brief 267) | 2026-08-19 | <https://www.cdc.gov/nchs/products/databriefs/db267.htm> | — |
 | A | CDC/NCHS | Data tables for NCHS Data Brief 428: Drug Overdose Deaths in the United States, 1999-2020 | 2026-08-20 | <https://www.cdc.gov/nchs/data/databriefs/db428-tables.pdf> | — |
 | A | CDC/NCHS | NCHS Data Brief 522: Drug Overdose Deaths in the United States, 2003-2023 | 2026-08-20 | <https://www.cdc.gov/nchs/products/databriefs/db522.htm> | — |
+| A | CDC/NCHS | VSRR Provisional Drug Overdose Death Counts: United States, predicted count, 12 months end | 2026-11-24 | <https://data.cdc.gov/Health-Statistics/VSRR-Provisional-Drug-Overdose-Death-Counts/xkb8-kh2a> | — |
 | A | Clinical Psychological Science | Increases in Depressive Symptoms, Suicide-Related Outcomes... After 2010 (Twenge et al.) | 2026-08-19 | <https://journals.sagepub.com/doi/10.1177/2167702617723376> | — |
 | A | Destatis | Press release N046: Jeder 100. Todesfall in Deutschland ist ein Suizid (Sept 2024, 2023 da | 2026-08-19 | <https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/09/PD24_N046_23211.html> | — |
 | A | European Journal of Public Health | Semyonova et al. — Russian suicide mortality: official and actual rates | 2026-08-19 | <https://academic.oup.com/eurpub/article/30/Supplement_5/ckaa166.1371/5915576> | — |

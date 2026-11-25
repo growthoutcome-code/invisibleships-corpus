@@ -934,5 +934,14 @@
     "evidence_tier": "A",
     "accessed": "2026-08-20",
     "archived_url": null
+  },
+  {
+    "source_id": "hs105",
+    "url": "https://data.cdc.gov/Health-Statistics/VSRR-Provisional-Drug-Overdose-Death-Counts/xkb8-kh2a",
+    "publisher": "CDC/NCHS",
+    "title": "VSRR Provisional Drug Overdose Death Counts: United States, predicted count, 12 months ending December 2025 (data as of 1 Nov 2026)",
+    "evidence_tier": "A",
+    "accessed": "2026-11-24",
+    "archived_url": null
   }
 ]

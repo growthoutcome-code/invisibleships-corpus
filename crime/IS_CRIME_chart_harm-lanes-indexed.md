@@ -45,7 +45,7 @@ FBI NCIC · tier B · 11 points, 2014–2025
 ### Drug overdose deaths
 CDC/NCHS · tier A · 27 points, 1999–2025
 
-- First: 100 (1999) · Last: 415.3 (2025)
+- First: 100 (1999) · Last: 419.8 (2025)
 - Highest: 640.6 (2022) · Lowest: 100 (1999)
 - Basis: deaths per year; indexed to 1999 = 100
 - Caveat: 2025 is provisional and will revise upward as late certificates are processed.

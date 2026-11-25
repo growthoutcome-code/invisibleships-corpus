@@ -186,4 +186,4 @@ US,drug_overdose_deaths,"Age-adjusted rate 32.4 per 100,000.",False,CDC/NCHS,32.
 US,drug_overdose_deaths,"Peak year of the series. Age-adjusted rate 32.6 per 100,000. Age-adjusted rate 32.6 per 100,000.",False,CDC/NCHS,32.6,hs104,A,drug overdose deaths (final),107941,W2,2022
 US,drug_overdose_deaths,"First annual decline since 2018. Age-adjusted rate 31.3 per 100,000.",False,CDC/NCHS,31.3,hs104,A,drug overdose deaths (final),105007,W2,2023
 US,drug_overdose_deaths,"Final. -26.2% on 2023 — the largest percentage drop across 2014-2024. Age-adjusted rate 23.1 per 100,000.",False,CDC/NCHS,23.1,hs055,A,drug overdose deaths (final),79384,W2,2024
-US,drug_overdose_deaths_provisional,Provisional; incomplete and subject to upward revision. Third consecutive annual decline. See the data-quality register on comparing this with 2024.,True,CDC/NCHS,,hs057,A,drug overdose deaths (provisional),69973,W2,2025
+US,drug_overdose_deaths_provisional,Provisional; incomplete and subject to upward revision. Third consecutive annual decline. See the data-quality register on comparing this with 2024.,True,CDC/NCHS,,hs105,A,drug overdose deaths (provisional),70735,W2,2025

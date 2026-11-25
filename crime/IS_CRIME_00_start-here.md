@@ -7,7 +7,7 @@ section: crime
 geography: United States (unless a row says otherwise)
 generated_by: scripts/build_corpus_md.py
 chart_count: 9
-source_count: 223
+source_count: 224
 word_count: 576
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -32,11 +32,11 @@ Window: 1999–2025.
 |---|---|
 | `IS_CRIME_chart_*.md` | One brief per chart: what it shows, every series, caveats |
 | `IS_CRIME_register_*.md` | The registers — what nobody counts, data quality, trends, sweeps |
-| `IS_CRIME_sources.md` | All 223 sources with tier, publisher and link |
+| `IS_CRIME_sources.md` | All 224 sources with tier, publisher and link |
 | `csv/*.csv` | Row data — indicators, sources, registers |
 | `charts/*.json`, `*.json` | The same data programmatically, for code |
 
-9 charts · 223 sources (Tier A 171 · B 51 · C 1)
+9 charts · 224 sources (Tier A 172 · B 51 · C 1)
 
 ## What this research found
 
