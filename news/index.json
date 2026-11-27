@@ -1,5 +1,450 @@
 [
 {
+"slug": "2026-11-26-taiwan-says-131-people-have-been-targeted-by-chinese-repression-in-three-years",
+"file": "IS_NEWS_2026-11-26-taiwan-says-131-people-have-been-targeted-by-chinese-repression-in-three-years.md",
+"title": "Taiwan says 131 people have been targeted by Chinese repression in three years, as a comedian attacked over his jokes performs under guard",
+"date": "2026-11-26",
+"precision": "day",
+"publisher": "Taipei Times (Reuters)",
+"sourceType": "News",
+"office": "",
+"url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/26/2003868418",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology"
+],
+"event": "Transnational repression",
+"country": "Taiwan",
+"stage": "charged",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2026-11-26-belarus-kgb-searches-recipients-of-an-eu-scholarship-for-repressed-students-and-their-relatives",
+"file": "IS_NEWS_2026-11-26-belarus-kgb-searches-recipients-of-an-eu-scholarship-for-repressed-students-and-their-relatives.md",
+"title": "Belarus's KGB searches recipients of an EU scholarship programme for repressed students and their relatives, apparently using an exposed mailing list",
+"date": "2026-11-26",
+"precision": "day",
+"publisher": "Zerkalo",
+"sourceType": "News",
+"office": "",
+"url": "https://news.zerkalo.io/life/141292.html",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology"
+],
+"event": "Transnational repression",
+"country": "Belarus",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2026-11-25-white-house-whole-of-government-effort-to-protect-americas-critical-infrastructure",
+"file": "IS_NEWS_2026-11-25-white-house-whole-of-government-effort-to-protect-americas-critical-infrastructure.md",
+"title": "White House release: President [name] Unleashes Whole-of-Government Effort to Protect America's Critical Infrastructure",
+"date": "2026-11-25",
+"precision": "day",
+"publisher": "The White House",
+"sourceType": "Official",
+"office": "",
+"url": "https://www.whitehouse.gov/releases/2026/11/president-trump-unleashes-whole-of-government-effort-to-protect-americas-critical-infrastructure/",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "official",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2026-11-25-white-house-thanksgiving-day-2026-proclamation",
+"file": "IS_NEWS_2026-11-25-white-house-thanksgiving-day-2026-proclamation.md",
+"title": "White House release: Thanksgiving Day, 2026",
+"date": "2026-11-25",
+"precision": "day",
+"publisher": "The White House",
+"sourceType": "Official",
+"office": "",
+"url": "https://www.whitehouse.gov/presidential-actions/2026/11/thanksgiving-day-2026/",
+"archivedUrl": "",
+"industry": [],
+"event": "",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "official",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2026-11-25-white-house-first-lady-secures-reunification-of-nine-additional-children",
+"file": "IS_NEWS_2026-11-25-white-house-first-lady-secures-reunification-of-nine-additional-children.md",
+"title": "White House release: First Lady [name] Secures Reunification of Nine Additional Children with their Families",
+"date": "2026-11-25",
+"precision": "day",
+"publisher": "The White House",
+"sourceType": "Official",
+"office": "",
+"url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-secures-reunification-of-nine-additional-children-with-their-families/",
+"archivedUrl": "",
+"industry": [],
+"event": "Global conflict",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "official",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2026-11-25-white-house-effort-to-neutralize-explosives-threat-in-iowa",
+"file": "IS_NEWS_2026-11-25-white-house-effort-to-neutralize-explosives-threat-in-iowa.md",
+"title": "White House release: Trump Administration Leads Whole-of-Government Effort to Safely Neutralize [name]-Era Explosives Threat in Iowa",
+"date": "2026-11-25",
+"precision": "day",
+"publisher": "The White House",
+"sourceType": "Official",
+"office": "",
+"url": "https://www.whitehouse.gov/releases/2026/11/trump-administrations-whole-of-government-effort-safely-neutralizes-obama-era-explosives-threat-in-iowa/",
+"archivedUrl": "",
+"industry": [],
+"event": "",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "official",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2026-11-25-us-tax-agencys-criminal-investigators-buy-commercial-facial-recognition-access-after-telling-auditors-they-ha",
+"file": "IS_NEWS_2026-11-25-us-tax-agencys-criminal-investigators-buy-commercial-facial-recognition-access-after-telling-auditors-they-ha.md",
+"title": "US tax agency's criminal investigators buy commercial facial-recognition access after telling auditors they had no plans to",
+"date": "2026-11-25",
+"precision": "day",
+"publisher": "Biometric Update",
+"sourceType": "Trade press",
+"office": "",
+"url": "https://www.biometricupdate.com/202611/irs-buys-clearview-access-in-facial-recognition-reversal",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology"
+],
+"event": "Contracts & deployments",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2026-11-25-us-regulator-lets-a-brain-implant-company-begin-the-first-pivotal-trial-of-an-implanted-brain-computer-interf",
+"file": "IS_NEWS_2026-11-25-us-regulator-lets-a-brain-implant-company-begin-the-first-pivotal-trial-of-an-implanted-brain-computer-interf.md",
+"title": "US regulator lets a brain-implant company begin what it calls the first pivotal trial of an implanted brain-computer interface, in people with ALS",
+"date": "2026-11-25",
+"precision": "day",
+"publisher": "Interesting Engineering",
+"sourceType": "Trade press",
+"office": "",
+"url": "https://interestingengineering.com/health/neuralink-fda-approval-link-pivotal-brain-implant-trial",
+"archivedUrl": "",
+"industry": [
+"Neurotechnology"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2026-11-25-us-justice-department-opinion-says-police-may-use-acoustic-optical-radar-and-radio-drone-detectors-without-br",
+"file": "IS_NEWS_2026-11-25-us-justice-department-opinion-says-police-may-use-acoustic-optical-radar-and-radio-drone-detectors-without-br.md",
+"title": "US Justice Department opinion says police may use acoustic, optical, radar and radio-frequency drone detectors without breaching federal wiretap and pen-trap law",
+"date": "2026-11-25",
+"precision": "day",
+"publisher": "U.S. Department of Justice",
+"sourceType": "Official",
+"office": "Office of Legal Counsel",
+"url": "https://www.justice.gov/opa/pr/justice-department-clarifies-lawful-use-drone-detection-technologies-protect-americans",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2026-11-25-tehran-municipal-official-says-police-searches-of-metro-passengers-phones-are-a-security-necessity",
+"file": "IS_NEWS_2026-11-25-tehran-municipal-official-says-police-searches-of-metro-passengers-phones-are-a-security-necessity.md",
+"title": "Tehran municipal official says police searches of metro passengers' phones are a 'security necessity'",
+"date": "2026-11-25",
+"precision": "day",
+"publisher": "Iran International",
+"sourceType": "News",
+"office": "",
+"url": "https://www.iranintl.com/202611258874",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology"
+],
+"event": "Regulation & law",
+"country": "Iran",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2026-11-25-sea-watch-says-forensic-checks-found-zero-click-spyware-on-its-italian-spokespersons-phone",
+"file": "IS_NEWS_2026-11-25-sea-watch-says-forensic-checks-found-zero-click-spyware-on-its-italian-spokespersons-phone.md",
+"title": "Sea-Watch says forensic checks found zero-click spyware on its Italian spokesperson's phone seven times in 2021 and files a complaint with Rome prosecutors",
+"date": "2026-11-25",
+"precision": "day",
+"publisher": "ANSA",
+"sourceType": "News",
+"office": "",
+"url": "https://www.ansa.it/lazio/notizie/2026/11/25/sea-watch-software-spia-contro-la-nostra-portavoce-giorgia-linardi_0bcf2bd8-37d8-4daa-93ea-7051bb2a0826.html",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology"
+],
+"event": "Courts & litigation",
+"country": "Italy",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2026-11-25-house-democrats-demand-records-from-twelve-vendors-of-dhs-surveillance-technology",
+"file": "IS_NEWS_2026-11-25-house-democrats-demand-records-from-twelve-vendors-of-dhs-surveillance-technology.md",
+"title": "House Democrats demand records from twelve vendors of DHS surveillance technology, alleging unlawful surveillance of Americans",
+"date": "2026-11-25",
+"precision": "day",
+"publisher": "Biometric Update",
+"sourceType": "Trade press",
+"office": "",
+"url": "https://www.biometricupdate.com/202611/us-house-democrats-seek-records-from-12-dhs-surveillance-vendors",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology",
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2026-11-25-fbi-plans-one-data-store-for-wiretap-fisa-and-commercial-data-with-ai-analysis-and-facial-recognition",
+"file": "IS_NEWS_2026-11-25-fbi-plans-one-data-store-for-wiretap-fisa-and-commercial-data-with-ai-analysis-and-facial-recognition.md",
+"title": "FBI plans one enterprise store for wiretap, foreign-intelligence and commercial data, with AI analysis and facial recognition",
+"date": "2026-11-25",
+"precision": "day",
+"publisher": "Biometric Update",
+"sourceType": "Trade press",
+"office": "",
+"url": "https://www.biometricupdate.com/202611/fbi-plans-investigative-data-consolidation-to-expand-biometric-and-ai-analysis",
+"archivedUrl": "",
+"industry": [
+"Government cloud & surveillance technology",
+"Artificial intelligence"
+],
+"event": "Contracts & deployments",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2026-11-25-fbi-justice-department-announces-largest-ever-crackdown-on-scammers-targeting-over-800-defendants",
+"file": "IS_NEWS_2026-11-25-fbi-justice-department-announces-largest-ever-crackdown-on-scammers-targeting-over-800-defendants.md",
+"title": "FBI release: Justice Department Announces Largest-Ever Crackdown on Scammers, Targeting Over 800 Defendants to Protect Americans from Fraud",
+"date": "2026-11-25",
+"precision": "day",
+"publisher": "Federal Bureau of Investigation",
+"sourceType": "Official",
+"office": "",
+"url": "https://www.fbi.gov/news/press-releases/justice-department-announces-largest-ever-crackdown-on-scammers-targeting-over-800-defendants-to-protect-americans-from-fraud",
+"archivedUrl": "",
+"industry": [],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "official",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2026-11-25-dhs-worst-of-the-worst-ice-arrests-pedophiles-rapists-and-drug-dealers",
+"file": "IS_NEWS_2026-11-25-dhs-worst-of-the-worst-ice-arrests-pedophiles-rapists-and-drug-dealers.md",
+"title": "DHS release: WORST OF THE WORST: ICE Arrests Pedophiles, Rapists, and Drug Dealers",
+"date": "2026-11-25",
+"precision": "day",
+"publisher": "U.S. Department of Homeland Security",
+"sourceType": "Official",
+"office": "Office of Public Affairs",
+"url": "https://www.dhs.gov/news/2026/11/25/worst-worst-ice-arrests-pedophiles-rapists-and-drug-dealers",
+"archivedUrl": "",
+"industry": [],
+"event": "",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "official",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2026-11-25-dhs-st-announces-new-27-1-small-business-innovation-research-pre-solicitation",
+"file": "IS_NEWS_2026-11-25-dhs-st-announces-new-27-1-small-business-innovation-research-pre-solicitation.md",
+"title": "DHS release: News Release: DHS Announces New 27.1 Small Business Innovation Research Pre-Solicitation",
+"date": "2026-11-25",
+"precision": "day",
+"publisher": "U.S. Department of Homeland Security",
+"sourceType": "Official",
+"office": "Science and Technology Directorate",
+"url": "https://www.dhs.gov/science-and-technology/news/2026/11/25/dhs-announces-new-271-small-business-innovation-research-pre-solicitation",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence",
+"Biotechnology & health"
+],
+"event": "Contracts & deployments",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "official",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2026-11-25-dhs-ice-arrests-alien-from-sudan-who-lost-legal-status-due-to-lengthy-rap-sheet",
+"file": "IS_NEWS_2026-11-25-dhs-ice-arrests-alien-from-sudan-who-lost-legal-status-due-to-lengthy-rap-sheet.md",
+"title": "DHS release: ICE Arrests Alien from Sudan Who Lost Legal Status Due to Lengthy Rap Sheet",
+"date": "2026-11-25",
+"precision": "day",
+"publisher": "U.S. Department of Homeland Security",
+"sourceType": "Official",
+"office": "Office of Public Affairs",
+"url": "https://www.dhs.gov/news/2026/11/25/ice-arrests-alien-sudan-who-lost-legal-status-due-lengthy-rap-sheet",
+"archivedUrl": "",
+"industry": [],
+"event": "",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "official",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2026-11-25-dhs-condemns-washington-sanctuary-politicians-highlights-worst-illegal-aliens-in-washington-state",
+"file": "IS_NEWS_2026-11-25-dhs-condemns-washington-sanctuary-politicians-highlights-worst-illegal-aliens-in-washington-state.md",
+"title": "DHS release: DHS Condemns Washington Sanctuary Politicians, Highlights Worst Illegal Aliens with Criminal Histories in Washington State",
+"date": "2026-11-25",
+"precision": "day",
+"publisher": "U.S. Department of Homeland Security",
+"sourceType": "Official",
+"office": "Office of Public Affairs",
+"url": "https://www.dhs.gov/news/2026/11/25/dhs-condemns-washington-sanctuary-politicians-highlights-worst-illegal-aliens",
+"archivedUrl": "",
+"industry": [],
+"event": "",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "official",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2026-11-25-dhs-blasts-sanctuary-politicians-in-california-over-ice-officers-surrounded-in-long-beach",
+"file": "IS_NEWS_2026-11-25-dhs-blasts-sanctuary-politicians-in-california-over-ice-officers-surrounded-in-long-beach.md",
+"title": "DHS release: DHS Blasts Sanctuary Politicians in California for Abandoning ICE Officers Surrounded by Angry Mob in Long Beach",
+"date": "2026-11-25",
+"precision": "day",
+"publisher": "U.S. Department of Homeland Security",
+"sourceType": "Official",
+"office": "Office of Public Affairs",
+"url": "https://www.dhs.gov/news/2026/11/25/dhs-blasts-sanctuary-politicians-california-abandoning-ice-officers-surrounded",
+"archivedUrl": "",
+"industry": [],
+"event": "Protests",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "official",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
+},
+{
 "slug": "2026-11-24-white-house-gas-prices-fall-ahead-of-thanksgiving",
 "file": "IS_NEWS_2026-11-24-white-house-gas-prices-fall-ahead-of-thanksgiving.md",
 "title": "White House release: Gas Prices Plunge Ahead of Thanksgiving — Just as President [name] Predicted",
@@ -93,6 +538,52 @@
 "addedOn": "2026-11-25"
 },
 {
+"slug": "2026-11-24-munich-surgeons-test-a-512-electrode-brain-interface-that-can-record-and-stimulate-during-an-operation",
+"file": "IS_NEWS_2026-11-24-munich-surgeons-test-a-512-electrode-brain-interface-that-can-record-and-stimulate-during-an-operation.md",
+"title": "Munich surgeons test a 512-electrode brain interface that can both record and stimulate, during an operation on a patient",
+"date": "2026-11-24",
+"precision": "day",
+"publisher": "Technical University of Munich",
+"sourceType": "Research",
+"office": "",
+"url": "https://www.tum.de/en/news-and-events/all-news/press-releases/details/researchers-at-tum-are-testing-a-novel-brain-computer-interface",
+"archivedUrl": "",
+"industry": [
+"Neurotechnology"
+],
+"event": "Research & breakthroughs",
+"country": "Germany",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2026-11-24-kazakhstan-tried-to-quietly-transfer-a-chechen-activist-toward-extradition-to-russia-his-defence-says",
+"file": "IS_NEWS_2026-11-24-kazakhstan-tried-to-quietly-transfer-a-chechen-activist-toward-extradition-to-russia-his-defence-says.md",
+"title": "Kazakhstan tried to quietly transfer a Chechen activist toward extradition to Russia despite a UN interim measure, his defence says",
+"date": "2026-11-24",
+"precision": "day",
+"publisher": "The Insider",
+"sourceType": "News",
+"office": "",
+"url": "https://theins.ru/news/299967",
+"archivedUrl": "",
+"industry": [],
+"event": "Transnational repression",
+"country": "Kazakhstan",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
+},
+{
 "slug": "2026-11-24-hamburgs-transit-operator-extends-ai-behaviour-detection-cameras-to-more-underground-stations-the-citys-data-p",
 "file": "IS_NEWS_2026-11-24-hamburgs-transit-operator-extends-ai-behaviour-detection-cameras-to-more-underground-stations-the-citys-data-p.md",
 "title": "Hamburg's transit operator extends AI behaviour-detection cameras to more underground stations; the city's data-protection authority was not consulted",
@@ -116,6 +607,28 @@
 "commentator": "",
 "topics": [],
 "addedOn": "2026-11-25"
+},
+{
+"slug": "2026-11-24-ground-radar-outage-delays-hundreds-of-flights-at-chicago-ohare-on-the-busiest-day-of-thanksgiving-travel",
+"file": "IS_NEWS_2026-11-24-ground-radar-outage-delays-hundreds-of-flights-at-chicago-ohare-on-the-busiest-day-of-thanksgiving-travel.md",
+"title": "Ground-radar outage delays hundreds of flights at Chicago O'Hare on the busiest day of Thanksgiving travel",
+"date": "2026-11-24",
+"precision": "day",
+"publisher": "Reuters (via CP24)",
+"sourceType": "News",
+"office": "",
+"url": "https://www.cp24.com/news/world/2026/11/25/radar-issue-delaying-flights-at-chicago-ohare-airport-us-faa-says/",
+"archivedUrl": "",
+"industry": [],
+"event": "Outages & disruptions",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "event",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
 },
 {
 "slug": "2026-11-24-former-washington-state-police-officer-charged-with-stalking-a-woman-through-a-licence-plate-camera-network-hi",
@@ -769,6 +1282,28 @@
 "commentator": "",
 "topics": [],
 "addedOn": "2026-11-24"
+},
+{
+"slug": "2026-11-23-fbi-isis-supporter-sentenced-to-15-years-for-concealing-role-in-terrorist-propaganda",
+"file": "IS_NEWS_2026-11-23-fbi-isis-supporter-sentenced-to-15-years-for-concealing-role-in-terrorist-propaganda.md",
+"title": "FBI release: ISIS Supporter Sentenced to 15 Years in Prison for Concealing His Role in Creating and Disseminating Terrorist Propaganda Via Social Media",
+"date": "2026-11-23",
+"precision": "day",
+"publisher": "Federal Bureau of Investigation",
+"sourceType": "Official",
+"office": "",
+"url": "https://www.fbi.gov/news/press-releases/isis-supporter-sentenced-to-15-years-in-prison-for-concealing-his-role-in-creating-and-disseminating-terrorist-propaganda-via-social-media",
+"archivedUrl": "",
+"industry": [],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "sentenced",
+"related": [],
+"hasSummary": true,
+"kind": "official",
+"commentator": "",
+"topics": [],
+"addedOn": "2026-11-26"
 },
 {
 "slug": "2026-11-23-faa-briefly-halts-flights-into-chicago-ohare-citing-staffing-at-the-regional-radar-approach-control-facility",
@@ -21204,6 +21739,32 @@
 "addedOn": ""
 },
 {
+"slug": "2025-01-10-analysis-states-move-to-fill-the-federal-gap-on-ai-law-while-lawmakers-weigh-a-patchwork-against-a-national-standard",
+"file": "IS_NEWS_2025-01-10-analysis-states-move-to-fill-the-federal-gap-on-ai-law-while-lawmakers-weigh-a-patchwork-against-a-national-standard.md",
+"title": "States move to fill the federal gap on AI law while lawmakers weigh a patchwork against a national standard",
+"date": "2025-01-10",
+"precision": "day",
+"publisher": "Tech Policy Press",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://www.techpolicy.press/2025-may-be-the-year-of-ai-legislation-will-we-see-consensus-rules-or-a-patchwork/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Jules Polonetsky",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
+},
+{
 "slug": "2025-01-01-government-renews-aws-sourcing-deal-through-feb-2028",
 "file": "IS_NEWS_2025-01-01-government-renews-aws-sourcing-deal-through-feb-2028.md",
 "title": "Government renews AWS sourcing deal through Feb 2028",
@@ -21332,6 +21893,32 @@
 "addedOn": ""
 },
 {
+"slug": "2024-12-19-analysis-australia-s-privacy-regulator-issues-two-guidelines-on-developing-and-using-ai-under-existing-privacy-law",
+"file": "IS_NEWS_2024-12-19-analysis-australia-s-privacy-regulator-issues-two-guidelines-on-developing-and-using-ai-under-existing-privacy-law.md",
+"title": "Australia's privacy regulator issues two guidelines on developing and using AI under existing privacy law",
+"date": "2024-12-19",
+"precision": "day",
+"publisher": "Future of Privacy Forum",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://fpf.org/blog/oaics-dual-ai-guidelines-set-new-standards-for-privacy-protection-in-australia/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "Australia",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Dominic Paulger",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
+},
+{
 "slug": "2024-12-18-new-york-resident-pleads-guilty-to-operating-secret-police",
 "file": "IS_NEWS_2024-12-18-new-york-resident-pleads-guilty-to-operating-secret-police.md",
 "title": "New York Resident Pleads Guilty to Operating Secret Police Station of the Chinese Government in Lower Manhattan",
@@ -21362,6 +21949,32 @@
 "capturedAt": "2026-11-13T21:53:44Z",
 "capturedFrom": "doj-api",
 "addedOn": ""
+},
+{
+"slug": "2024-12-17-analysis-five-open-questions-for-us-state-privacy-law-in-2025-including-how-lawmakers-will-approach-ai",
+"file": "IS_NEWS_2024-12-17-analysis-five-open-questions-for-us-state-privacy-law-in-2025-including-how-lawmakers-will-approach-ai.md",
+"title": "Five open questions for US state privacy law in 2025, including how lawmakers will approach AI",
+"date": "2024-12-17",
+"precision": "day",
+"publisher": "Future of Privacy Forum",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://fpf.org/blog/five-big-questions-and-zero-predictions-for-the-u-s-state-privacy-landscape-in-2025/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Keir Lamont",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
 },
 {
 "slug": "2024-12-13-analysis-who-interprets-and-enforces-a-privacy-law-may-matter-as-much-as-whether-it-relies-on-procedure-or",
@@ -21557,6 +22170,32 @@
 "addedOn": "2026-11-19"
 },
 {
+"slug": "2024-11-18-analysis-the-african-union-s-continental-ai-strategy-leans-on-data-protection-law-to-govern-ai",
+"file": "IS_NEWS_2024-11-18-analysis-the-african-union-s-continental-ai-strategy-leans-on-data-protection-law-to-govern-ai.md",
+"title": "The African Union's continental AI strategy leans on data protection law to govern AI",
+"date": "2024-11-18",
+"precision": "day",
+"publisher": "Future of Privacy Forum",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://fpf.org/blog/the-african-unions-continental-ai-strategy-data-protection-and-governance-laws-set-to-play-a-key-role-in-ai-regulation/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Chuma Akana and Mercy King'ori",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
+},
+{
 "slug": "2024-11-08-justice-department-announces-murder-for-hire-and-related",
 "file": "IS_NEWS_2024-11-08-justice-department-announces-murder-for-hire-and-related.md",
 "title": "Justice Department Announces Murder-For-Hire and Related Charges Against IRGC Asset and Two Local Operatives",
@@ -21587,6 +22226,84 @@
 "capturedAt": "2026-11-13T21:52:19Z",
 "capturedFrom": "doj-api",
 "addedOn": ""
+},
+{
+"slug": "2024-11-04-analysis-us-lawmakers-approaches-to-ai-generated-content-in-2024-and-why-each-has-limits",
+"file": "IS_NEWS_2024-11-04-analysis-us-lawmakers-approaches-to-ai-generated-content-in-2024-and-why-each-has-limits.md",
+"title": "US lawmakers' approaches to AI-generated content in 2024, and why each has limits",
+"date": "2024-11-04",
+"precision": "day",
+"publisher": "Future of Privacy Forum",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://fpf.org/blog/u-s-legislative-trends-in-ai-generated-content-2024-and-beyond/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Jameson Spivack",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2024-10-28-analysis-brazil-s-data-protection-authority-s-preliminary-decisions-on-training-ai-with-social-media-users-data",
+"file": "IS_NEWS_2024-10-28-analysis-brazil-s-data-protection-authority-s-preliminary-decisions-on-training-ai-with-social-media-users-data.md",
+"title": "Brazil's data protection authority's preliminary decisions on training AI with social media users' data",
+"date": "2024-10-28",
+"precision": "day",
+"publisher": "Future of Privacy Forum",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://fpf.org/blog/processing-of-personal-data-for-ai-training-in-brazil-takeaways-from-anpds-preliminary-decisions-in-the-meta-case/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "Brazil",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Maria Badillo",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2024-10-25-analysis-do-large-language-models-contain-personal-information-california-s-ab-1008-sharpens-an-unsettled-question",
+"file": "IS_NEWS_2024-10-25-analysis-do-large-language-models-contain-personal-information-california-s-ab-1008-sharpens-an-unsettled-question.md",
+"title": "Do large language models contain personal information? California's AB 1008 sharpens an unsettled question",
+"date": "2024-10-25",
+"precision": "day",
+"publisher": "Future of Privacy Forum",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://fpf.org/blog/do-llms-contain-personal-information-california-ab-1008-highlights-evolving-complex-techno-legal-debate/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Jordan Francis, Beth Do and Stacey Gray",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
 },
 {
 "slug": "2024-10-22-u-s-attorney-announces-murder-for-hire-charges-against-irgc",
@@ -21685,6 +22402,33 @@
 "addedOn": ""
 },
 {
+"slug": "2024-10-07-analysis-california-requires-health-providers-to-disclose-generative-ai-in-patient-communications",
+"file": "IS_NEWS_2024-10-07-analysis-california-requires-health-providers-to-disclose-generative-ai-in-patient-communications.md",
+"title": "California requires health providers to disclose generative AI in patient communications",
+"date": "2024-10-07",
+"precision": "day",
+"publisher": "Future of Privacy Forum",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://fpf.org/blog/fpf-analysis-of-new-requirements-for-generative-ai-use-by-healthcare-entities-in-patient-communications/",
+"archivedUrl": "",
+"industry": [
+"Biotechnology & health",
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Jordan Wrigley and Judy Wang",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
+},
+{
 "slug": "2024-09-18-neuralink-wins-fda-breakthrough-nod-for-vision-restoring",
 "file": "IS_NEWS_2024-09-18-neuralink-wins-fda-breakthrough-nod-for-vision-restoring.md",
 "title": "Neuralink wins FDA breakthrough nod for vision-restoring implant (Blindsight)",
@@ -21747,6 +22491,58 @@
 "AI law"
 ],
 "addedOn": "2026-11-20"
+},
+{
+"slug": "2024-09-13-analysis-us-state-ai-bills-converge-on-rules-for-ai-in-consequential-decisions-a-future-of-privacy-forum-report-finds",
+"file": "IS_NEWS_2024-09-13-analysis-us-state-ai-bills-converge-on-rules-for-ai-in-consequential-decisions-a-future-of-privacy-forum-report-finds.md",
+"title": "US state AI bills converge on rules for AI in consequential decisions, a Future of Privacy Forum report finds",
+"date": "2024-09-13",
+"precision": "day",
+"publisher": "Future of Privacy Forum",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://fpf.org/blog/fpf-unveils-report-on-emerging-trends-in-u-s-state-ai-regulation/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Tatiana Rice",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2024-09-06-analysis-five-ways-india-s-new-data-protection-law-could-shape-how-ai-is-built-there",
+"file": "IS_NEWS_2024-09-06-analysis-five-ways-india-s-new-data-protection-law-could-shape-how-ai-is-built-there.md",
+"title": "Five ways India's new data protection law could shape how AI is built there",
+"date": "2024-09-06",
+"precision": "day",
+"publisher": "Future of Privacy Forum",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://fpf.org/blog/five-ways-in-which-the-dpdpa-could-shape-the-development-of-ai-in-india/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "India",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Bilal Mohamed",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
 },
 {
 "slug": "2024-09-03-former-high-ranking-new-york-state-government-employee",
@@ -21916,6 +22712,32 @@
 "addedOn": ""
 },
 {
+"slug": "2024-08-22-analysis-system-level-ai-announced-by-major-platforms-in-2024-complicates-consent-and-data-flows-especially-on-work-dev",
+"file": "IS_NEWS_2024-08-22-analysis-system-level-ai-announced-by-major-platforms-in-2024-complicates-consent-and-data-flows-especially-on-work-dev.md",
+"title": "System-level AI announced by major platforms in 2024 complicates consent and data flows, especially on work devices",
+"date": "2024-08-22",
+"precision": "day",
+"publisher": "Future of Privacy Forum",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://fpf.org/blog/privacy-roundup-from-summer-developer-conference-season-2024/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Aaron Massey",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
+},
+{
 "slug": "2024-08-21-when-it-comes-to-cloud-it-is-china-against-the-world",
 "file": "IS_NEWS_2024-08-21-when-it-comes-to-cloud-it-is-china-against-the-world.md",
 "title": "When it comes to cloud, it is China against the world",
@@ -21981,6 +22803,32 @@
 "addedOn": ""
 },
 {
+"slug": "2024-08-20-analysis-future-of-privacy-forum-comments-on-california-s-proposed-civil-rights-rules-for-automated-decisions-in-employ",
+"file": "IS_NEWS_2024-08-20-analysis-future-of-privacy-forum-comments-on-california-s-proposed-civil-rights-rules-for-automated-decisions-in-employ.md",
+"title": "Future of Privacy Forum comments on California's proposed civil rights rules for automated decisions in employment",
+"date": "2024-08-20",
+"precision": "day",
+"publisher": "Future of Privacy Forum",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://fpf.org/blog/fpf-highlights-intersection-of-ai-privacy-and-civil-rights-in-response-to-californias-proposed-employment-regulations/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Adonne Washington and Tatiana Rice",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
+},
+{
 "slug": "2024-08-14-new-brain-computer-interface-allows-man-with-als-to-speak",
 "file": "IS_NEWS_2024-08-14-new-brain-computer-interface-allows-man-with-als-to-speak.md",
 "title": "New brain-computer interface allows man with ALS to speak again",
@@ -22012,6 +22860,32 @@
 "capturedOn": "2026-11-13",
 "capturedAt": "2026-11-13T05:33:26Z",
 "addedOn": ""
+},
+{
+"slug": "2024-08-08-analysis-future-of-privacy-forum-calls-the-us-election-regulator-s-dropped-ai-campaign-ad-rulemaking-a-missed-opportuni",
+"file": "IS_NEWS_2024-08-08-analysis-future-of-privacy-forum-calls-the-us-election-regulator-s-dropped-ai-campaign-ad-rulemaking-a-missed-opportuni.md",
+"title": "Future of Privacy Forum calls the US election regulator's dropped AI campaign-ad rulemaking a missed opportunity",
+"date": "2024-08-08",
+"precision": "day",
+"publisher": "Future of Privacy Forum",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://fpf.org/blog/fpf-responds-to-the-federal-election-commission-decision-on-the-use-of-ai-in-political-campaign-advertising/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Future of Privacy Forum",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
 },
 {
 "slug": "2024-08-06-new-york-resident-convicted-of-acting-as-covert-chinese",
@@ -22260,6 +23134,32 @@
 "addedOn": "2026-11-20"
 },
 {
+"slug": "2024-07-11-analysis-a-close-reading-of-the-colorado-ai-act-duties-for-developers-and-deployers-consumer-rights-and-open-questions",
+"file": "IS_NEWS_2024-07-11-analysis-a-close-reading-of-the-colorado-ai-act-duties-for-developers-and-deployers-consumer-rights-and-open-questions.md",
+"title": "A close reading of the Colorado AI Act: duties for developers and deployers, consumer rights and open questions",
+"date": "2024-07-11",
+"precision": "day",
+"publisher": "Future of Privacy Forum",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://fpf.org/blog/a-first-for-ai-a-close-look-at-the-colorado-ai-act/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Tatiana Rice and Samuel Adams",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
+},
+{
 "slug": "2024-07-07-analysis-ai-as-a-rebrand-of-older-technology-and-the-risk-of-treating-it-as-an-exception-to-existing",
 "file": "IS_NEWS_2024-07-07-analysis-ai-as-a-rebrand-of-older-technology-and-the-risk-of-treating-it-as-an-exception-to-existing.md",
 "title": "AI as a rebrand of older technology, and the risk of treating it as an exception to existing privacy law",
@@ -22345,6 +23245,84 @@
 "addedOn": "2026-11-19"
 },
 {
+"slug": "2024-06-28-analysis-the-end-of-chevron-deference-makes-privacy-and-ai-rules-harder-to-sustain-and-harder-to-draft",
+"file": "IS_NEWS_2024-06-28-analysis-the-end-of-chevron-deference-makes-privacy-and-ai-rules-harder-to-sustain-and-harder-to-draft.md",
+"title": "The end of Chevron deference makes privacy and AI rules harder to sustain and harder to draft",
+"date": "2024-06-28",
+"precision": "day",
+"publisher": "Future of Privacy Forum",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://fpf.org/blog/chevron-decision-will-impact-privacy-and-ai-regulations/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Courts & litigation",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Stacey Gray",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2024-06-20-analysis-what-the-council-of-europe-s-binding-ai-treaty-requires-whom-it-covers-and-what-it-leaves-to-governments",
+"file": "IS_NEWS_2024-06-20-analysis-what-the-council-of-europe-s-binding-ai-treaty-requires-whom-it-covers-and-what-it-leaves-to-governments.md",
+"title": "What the Council of Europe's binding AI treaty requires, whom it covers and what it leaves to governments",
+"date": "2024-06-20",
+"precision": "day",
+"publisher": "Future of Privacy Forum",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://fpf.org/blog/the-worlds-first-binding-treaty-on-artificial-intelligence-human-rights-democracy-and-the-rule-of-law-regulation-of-ai-in-broad-strokes/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Bianca-Ioana Marcu",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2024-06-05-analysis-updated-guidance-for-organisations-on-internal-policies-for-staff-use-of-generative-ai",
+"file": "IS_NEWS_2024-06-05-analysis-updated-guidance-for-organisations-on-internal-policies-for-staff-use-of-generative-ai.md",
+"title": "Updated guidance for organisations on internal policies for staff use of generative AI",
+"date": "2024-06-05",
+"precision": "day",
+"publisher": "Future of Privacy Forum",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://fpf.org/blog/newly-updated-guidance-fpf-releases-updates-to-the-generative-ai-internal-policy-considerations-resource-to-provide-new-key-lessons-for-practitioners/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Daniel Berrick",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
+},
+{
 "slug": "2024-06-01-analysis-neural-data-are-a-category-of-their-own-and-convention-108-can-protect-them",
 "file": "IS_NEWS_2024-06-01-analysis-neural-data-are-a-category-of-their-own-and-convention-108-can-protect-them.md",
 "title": "Neural data are a category of their own, and the Council of Europe data-protection treaty can protect them if read with mental privacy in mind",
@@ -22423,6 +23401,58 @@
 "addedOn": "2026-11-21"
 },
 {
+"slug": "2024-05-22-analysis-a-report-on-generative-ai-governance-in-five-asia-pacific-jurisdictions-warns-against-regional-fragmentation",
+"file": "IS_NEWS_2024-05-22-analysis-a-report-on-generative-ai-governance-in-five-asia-pacific-jurisdictions-warns-against-regional-fragmentation.md",
+"title": "A report on generative AI governance in five Asia-Pacific jurisdictions warns against regional fragmentation",
+"date": "2024-05-22",
+"precision": "day",
+"publisher": "Future of Privacy Forum",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://fpf.org/blog/new-report-examines-generative-ai-governance-frameworks-across-the-asia-pacific-region/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Dominic Paulger",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
+},
+{
+"slug": "2024-05-17-analysis-colorado-becomes-the-first-us-state-to-pass-a-comprehensive-law-on-high-risk-ai-systems",
+"file": "IS_NEWS_2024-05-17-analysis-colorado-becomes-the-first-us-state-to-pass-a-comprehensive-law-on-high-risk-ai-systems.md",
+"title": "Colorado becomes the first US state to pass a comprehensive law on high-risk AI systems",
+"date": "2024-05-17",
+"precision": "day",
+"publisher": "Future of Privacy Forum",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://fpf.org/blog/colorado-enacts-first-comprehensive-u-s-law-governing-artificial-intelligence-systems/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Tatiana Rice",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
+},
+{
 "slug": "2024-05-10-microsoft-launches-mexican-cloud-region",
 "file": "IS_NEWS_2024-05-10-microsoft-launches-mexican-cloud-region.md",
 "title": "Microsoft launches Mexican cloud region",
@@ -22488,6 +23518,33 @@
 "capturedOn": "2026-11-13",
 "capturedAt": "2026-11-13T05:25:39Z",
 "addedOn": ""
+},
+{
+"slug": "2024-05-07-analysis-future-of-privacy-forum-urges-the-us-budget-office-to-use-federal-ai-purchasing-to-protect-privacy-and-equity",
+"file": "IS_NEWS_2024-05-07-analysis-future-of-privacy-forum-urges-the-us-budget-office-to-use-federal-ai-purchasing-to-protect-privacy-and-equity.md",
+"title": "Future of Privacy Forum urges the US budget office to use federal AI purchasing to protect privacy and equity",
+"date": "2024-05-07",
+"precision": "day",
+"publisher": "Future of Privacy Forum",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://fpf.org/blog/fpf-responds-to-the-ombs-request-for-information-on-responsible-artificial-intelligence-procurement-in-government/",
+"archivedUrl": "",
+"industry": [
+"Artificial intelligence",
+"Government cloud & surveillance technology"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Beth Do",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
 },
 {
 "slug": "2024-05-06-dept-of-education-begins-market-research-for-cloud-fsa-next",
@@ -23116,6 +24173,33 @@
 "capturedOn": "2026-11-13",
 "capturedAt": "2026-11-13T05:18:49Z",
 "addedOn": ""
+},
+{
+"slug": "2024-02-12-analysis-ai-driven-health-and-wellness-services-will-multiply-health-inferences-and-2024-may-bring-more-state-and-feder",
+"file": "IS_NEWS_2024-02-12-analysis-ai-driven-health-and-wellness-services-will-multiply-health-inferences-and-2024-may-bring-more-state-and-feder.md",
+"title": "AI-driven health and wellness services will multiply health inferences, and 2024 may bring more state and federal action on health data",
+"date": "2024-02-12",
+"precision": "day",
+"publisher": "Future of Privacy Forum",
+"sourceType": "Analysis",
+"office": "",
+"url": "https://fpf.org/blog/fpf-health-wellness-mapping-the-2024-health-privacy-landscape-a-2023-retrospective/",
+"archivedUrl": "",
+"industry": [
+"Biotechnology & health",
+"Artificial intelligence"
+],
+"event": "Regulation & law",
+"country": "United States",
+"stage": "",
+"related": [],
+"hasSummary": true,
+"kind": "analysis",
+"commentator": "Jordan Wrigley",
+"topics": [
+"AI law"
+],
+"addedOn": "2026-11-26"
 },
 {
 "slug": "2024-02-01-analysis-ai-recombines-and-intensifies-old-privacy-problems-and-a-roadmap-for-how-privacy-law-should",
