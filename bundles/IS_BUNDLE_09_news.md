@@ -3,8 +3,8 @@ id: IS-BUNDLE-09-NEWS
 title: "News"
 collection: bundles
 doc_type: bundle
-files: 1076
-approx_tokens: 612,159
+files: 1110
+approx_tokens: 634,448
 contains: [news]
 author: Sean C. Harris
 copyright: © 2026 Sean C. Harris. All Rights Reserved.
@@ -15,7 +15,7 @@ disclaimer: meta/IS_META_terms.md
 
 Official releases and outside reporting, one item per section, each summarised and linked.
 
-This file joins 1076 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
+This file joins 1110 files from the Invisible Ships archive so it can be uploaded to an AI assistant in one piece. Each file starts with a line `===== FILE: <path> · ID: <id> =====` and keeps its metadata header; cite the ID. Nothing has been rewritten. The disclaimer below applies to every file in this bundle (it is repeated at the end of each file in the full archive). For how to use this with an AI, read bundle 01 or `00-START-HERE.md`.
 
 > **Critical Disclaimer.** Transcripts and statements recorded in this archive are external communications and do NOT represent the author's beliefs, views, or intent. Nothing here accuses, blames, or alleges malfeasance by any named person, company, or government body, and all of this information requires independent verification. Full terms: `meta/IS_META_terms.md` and https://www.invisibleships.com/disclaimer.
 
@@ -254,6 +254,7 @@ This file joins 1076 files from the Invisible Ships archive so it can be uploade
 - `news/IS_NEWS_2024-07-11-analysis-a-close-reading-of-the-colorado-ai-act-duties-for-developers-and-deployers-consumer-rights-and-open-questions.md` — A close reading of the Colorado AI Act: duties for developers and deployers, consumer rights and open questions
 - `news/IS_NEWS_2024-07-11-analysis-ai-widens-the-u-s-privacy-gap-in-three-ways-and-a-federal-privacy-law-is-overdue.md` — AI widens the U.S. privacy gap in three ways, and a federal privacy law is overdue
 - `news/IS_NEWS_2024-07-15-analysis-brain-privacy-rights-are-not-enough-and-freedom-of-thought-should-become-an-absolute-right-covering.md` — Brain privacy rights are not enough, and freedom of thought should become an absolute right covering the inner mind
+- `news/IS_NEWS_2024-07-15-analysis-confidential-computing-can-tighten-control-over-how-sensitive-data-is-used-but-its-legal-effects-remain-untest.md` — Confidential computing can tighten control over how sensitive data is used, but its legal effects remain untested
 - `news/IS_NEWS_2024-07-24-analysis-generative-ai-terms-hand-users-the-copyright-risk-while-providers-escape-platform-rules.md` — Generative AI providers' terms give users the outputs and the copyright risk, while the providers escape the rules platforms face
 - `news/IS_NEWS_2024-07-25-two-men-plead-guilty-to-acting-as-illegal-agents-of-the.md` — Two men plead guilty to acting as illegal agents of the Chinese government and bribery
 - `news/IS_NEWS_2024-08-01-ai-act-enters-into-force.md` — AI Act enters into force
@@ -276,6 +277,7 @@ This file joins 1076 files from the Invisible Ships archive so it can be uploade
 - `news/IS_NEWS_2024-09-17-analysis-consumer-neurodata-should-be-a-top-data-protection-priority-handled-mainly-through-existing-law-with.md` — Consumer neurodata should be a top data-protection priority, handled mainly through existing law with careful definitions
 - `news/IS_NEWS_2024-09-18-neuralink-wins-fda-breakthrough-nod-for-vision-restoring.md` — Neuralink wins FDA breakthrough nod for vision-restoring implant (Blindsight)
 - `news/IS_NEWS_2024-10-07-analysis-california-requires-health-providers-to-disclose-generative-ai-in-patient-communications.md` — California requires health providers to disclose generative AI in patient communications
+- `news/IS_NEWS_2024-10-15-analysis-tools-against-harmful-ai-generated-content-each-have-limits-and-can-trade-off-against-privacy-a-report-finds.md` — Tools against harmful AI-generated content each have limits and can trade off against privacy, a report finds
 - `news/IS_NEWS_2024-10-17-charges-against-indian-government-employee-in-connection.md` — Charges against Indian government employee in connection with foiled assassination plot
 - `news/IS_NEWS_2024-10-22-murder-for-hire-charges-against-islamic-revolutionary-guard.md` — Murder-for-hire charges against Islamic Revolutionary Guard Corps members
 - `news/IS_NEWS_2024-10-22-u-s-attorney-announces-murder-for-hire-charges-against-irgc.md` — U.S. Attorney Announces Murder-For-Hire Charges Against IRGC Brigadier General And Former Intelligence Officer And Members Of An Iranian Intelligence Network
@@ -290,6 +292,7 @@ This file joins 1076 files from the Invisible Ships archive so it can be uploade
 - `news/IS_NEWS_2024-12-07-google-launches-mexican-cloud-region-in-queretaro.md` — Google launches Mexican cloud region in Queretaro
 - `news/IS_NEWS_2024-12-08-analysis-algorithms-increasingly-govern-people-s-lives-in-secret-and-an-algorithmic-accountability-law-is.md` — Algorithms increasingly govern people's lives in secret, and an algorithmic accountability law is needed
 - `news/IS_NEWS_2024-12-10-analysis-ai-companions-sold-as-a-cure-for-loneliness-amount-to-a-corporate-capture-of-human-connection-and.md` — AI companions sold as a cure for loneliness amount to a corporate capture of human connection and should be banned
+- `news/IS_NEWS_2024-12-11-analysis-how-companies-assess-ai-risks-in-practice-and-where-they-struggle-according-to-a-privacy-think-tank-s-report.md` — How companies assess AI risks in practice, and where they struggle, according to a privacy think tank's report
 - `news/IS_NEWS_2024-12-13-analysis-who-interprets-and-enforces-a-privacy-law-may-matter-as-much-as-whether-it-relies-on-procedure-or.md` — Who interprets and enforces a privacy law may matter as much as whether it relies on procedure or substance
 - `news/IS_NEWS_2024-12-17-analysis-five-open-questions-for-us-state-privacy-law-in-2025-including-how-lawmakers-will-approach-ai.md` — Five open questions for US state privacy law in 2025, including how lawmakers will approach AI
 - `news/IS_NEWS_2024-12-18-new-york-resident-pleads-guilty-to-operating-secret-police.md` — New York Resident Pleads Guilty to Operating Secret Police Station of the Chinese Government in Lower Manhattan
@@ -302,11 +305,16 @@ This file joins 1076 files from the Invisible Ships archive so it can be uploade
 - `news/IS_NEWS_2025-01-14-amazon-bedrock-opens-at-aws-top-secret-cloud.md` — Amazon Bedrock Opens at AWS Top Secret Cloud
 - `news/IS_NEWS_2025-01-14-aws-pledges-to-spend-5b-in-mexico.md` — AWS pledges to spend $5B in Mexico
 - `news/IS_NEWS_2025-01-16-gpt-4o-green-lit-for-top-secret-use-in-azure.md` — GPT-4o green-lit for top secret use in Azure
+- `news/IS_NEWS_2025-01-23-analysis-what-to-expect-in-global-privacy-in-2025-with-ai-as-the-main-driver-of-policy.md` — What to expect in global privacy in 2025, with AI as the main driver of policy
 - `news/IS_NEWS_2025-01-24-google-provided-ai-technology-to-idf-during-israel-gaza-war.md` — Google provided AI technology to IDF during Israel-Gaza war
 - `news/IS_NEWS_2025-02-01-brain-to-text-decoding-a-non-invasive-approach-via-typing.md` — Brain-to-text decoding: a non-invasive approach via typing (Brain2Qwerty)
 - `news/IS_NEWS_2025-02-04-superseding-indictment-charges-chinese-national-in-relation.md` — Superseding Indictment Charges Chinese National in Relation to Alleged Plan to Steal Proprietary AI Technology
+- `news/IS_NEWS_2025-02-05-analysis-ai-agents-raise-the-data-protection-questions-of-large-language-models-and-add-new-ones.md` — AI agents raise the data protection questions of large language models and add new ones
 - `news/IS_NEWS_2025-02-07-analysis-giving-a-new-government-team-access-to-federal-databases-breaks-privacy-act-commitments.md` — Giving a new government team access to federal databases breaks the founding commitments of the Privacy Act of 1974
+- `news/IS_NEWS_2025-02-10-analysis-data-protection-law-is-a-powerful-and-overlooked-tool-for-regulating-ai-an-essay-argues.md` — Data protection law is a powerful and overlooked tool for regulating AI, an essay argues
 - `news/IS_NEWS_2025-02-19-meta-s-mind-reader-brain2qwerty-translates-thoughts-into.md` — Meta's mind reader: Brain2Qwerty translates thoughts into text
+- `news/IS_NEWS_2025-02-21-analysis-future-of-privacy-forum-asks-california-s-privacy-regulator-to-narrow-and-clarify-its-draft-rules-on-automated.md` — Future of Privacy Forum asks California's privacy regulator to narrow and clarify its draft rules on automated decision-making
+- `news/IS_NEWS_2025-02-26-analysis-geopolitics-and-the-race-for-ai-are-pulling-the-rules-on-global-data-flows-apart.md` — Geopolitics and the race for AI are pulling the rules on global data flows apart
 - `news/IS_NEWS_2025-02-26-analysis-u-s-health-data-privacy-is-a-patchwork-that-leaves-app-and-wearable-data-including-mental-health.md` — U.S. health-data privacy is a patchwork that leaves app and wearable data, including mental-health data, exposed
 - `news/IS_NEWS_2025-03-01-analysis-transparency-bias-fixes-ethics-principles-and-user-choice-are-ai-half-measures-so-lawmakers-must.md` — Transparency, bias fixes, ethics principles and user choice are AI half measures, so lawmakers must draw substantive lines
 - `news/IS_NEWS_2025-03-05-justice-department-charges-12-chinese-contract-hackers-and.md` — Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns
@@ -317,25 +325,37 @@ This file joins 1076 files from the Invisible Ships archive so it can be uploade
 - `news/IS_NEWS_2025-03-14-the-pentagon-s-next-major-cloud-contract-is-in-the-works.md` — The Pentagon's next major cloud contract is in the works
 - `news/IS_NEWS_2025-03-24-23andme-bankruptcy-filing-sparks-privacy-fears-as-dna-data.md` — 23andMe bankruptcy filing sparks privacy fears as DNA data of millions goes up for sale
 - `news/IS_NEWS_2025-03-25-consumer-alert-on-the-23andme-bankruptcy-and-virginia-s.md` — Consumer alert on the 23andMe bankruptcy and Virginia's genetic data privacy law
+- `news/IS_NEWS_2025-03-31-analysis-a-checklist-to-help-schools-prepare-for-and-respond-to-deepfakes.md` — A checklist to help schools prepare for and respond to deepfakes
+- `news/IS_NEWS_2025-04-02-analysis-utah-narrows-its-ai-disclosure-rule-and-sets-the-first-rules-for-mental-health-chatbots.md` — Utah narrows its AI disclosure rule and sets the first rules for mental health chatbots
 - `news/IS_NEWS_2025-04-16-analysis-a-fast-acting-writ-to-protect-freedom-of-thought-against-neurotechnological-interference.md` — A fast-acting writ to protect freedom of thought against neurotechnological interference
 - `news/IS_NEWS_2025-04-17-precision-neuroscience-brain-implant-cleared-by-fda.md` — Precision Neuroscience brain implant cleared by FDA
+- `news/IS_NEWS_2025-04-18-analysis-south-korea-s-ai-framework-act-tries-to-balance-promoting-ai-with-light-risk-based-rules.md` — South Korea's AI Framework Act tries to balance promoting AI with light, risk-based rules
 - `news/IS_NEWS_2025-04-23-former-u-s-army-intelligence-analyst-sentenced-for-selling.md` — Former U.S. Army Intelligence Analyst Sentenced for Selling Sensitive Military Information
 - `news/IS_NEWS_2025-04-28-senators-call-on-ftc-to-protect-consumers-neural-data.md` — Senators call on FTC to protect consumers' neural data
+- `news/IS_NEWS_2025-04-29-analysis-an-updated-guide-to-conformity-assessments-for-high-risk-ai-under-the-adopted-eu-ai-act.md` — An updated guide to conformity assessments for high-risk AI under the adopted EU AI Act
 - `news/IS_NEWS_2025-04-30-analysis-deregulating-privacy-and-ai-is-the-wrong-answer-because-regulation-does-not-stifle-innovation.md` — Deregulating privacy and AI is the wrong answer, because regulation does not stifle innovation
+- `news/IS_NEWS_2025-05-09-analysis-how-six-asia-pacific-countries-have-updated-consent-rules-for-personal-data-as-ai-reshapes-lawmaking.md` — How six Asia-Pacific countries have updated consent rules for personal data as AI reshapes lawmaking
 - `news/IS_NEWS_2025-05-13-oracle-commits-to-invest-14bn-in-saudi-arabia.md` — Oracle commits to invest $14bn in Saudi Arabia
 - `news/IS_NEWS_2025-05-14-analysis-a-brain-implant-user-who-drafts-with-an-ai-chatbot-raises-questions-about-whose-words-and-whose-data.md` — A brain-implant user who drafts with an AI chatbot raises questions about whose words and whose data they are
 - `news/IS_NEWS_2025-05-22-microsoft-employee-protests-satya-nadella-keynote-over.md` — Microsoft employee protests Satya Nadella keynote over Israel contracts
 - `news/IS_NEWS_2025-06-01-attorney-general-james-sues-23andme-to-protect-new-yorkers.md` — Attorney General James sues 23andMe to protect New Yorkers' genetic data
 - `news/IS_NEWS_2025-06-01-wrongful-arrest-in-us-linked-to-facial-recognition-error.md` — Wrongful arrest in US linked to facial recognition error leads to $200k settlement
 - `news/IS_NEWS_2025-06-05-anduril-raises-funding-at-30-5-billion-valuation.md` — Anduril raises funding at $30.5 billion valuation
+- `news/IS_NEWS_2025-06-06-analysis-brazil-s-data-protection-authority-s-preliminary-study-on-generative-ai-weighs-rights-against-innovation.md` — Brazil's data protection authority's preliminary study on generative AI weighs rights against innovation
 - `news/IS_NEWS_2025-06-09-analysis-tests-in-which-ai-models-resisted-shutdown-and-a-proposed-ten-year-pause-on-state-ai-laws.md` — Tests in which AI models resisted shutdown and a proposed ten-year pause on state AI laws
 - `news/IS_NEWS_2025-06-18-former-jblm-soldier-pleads-guilty-to-attempting-to-share.md` — Former JBLM soldier pleads guilty to attempting to share military secrets with China
+- `news/IS_NEWS_2025-06-30-analysis-connecticut-s-privacy-law-overhaul-adds-rights-over-automated-decisions-impact-assessments-and-a-disclosure-on.md` — Connecticut's privacy law overhaul adds rights over automated decisions, impact assessments and a disclosure on training language models
 - `news/IS_NEWS_2025-06-30-analysis-existing-rights-to-freedom-of-thought-and-mental-integrity-should-be-strengthened-for.md` — Existing rights to freedom of thought and mental integrity should be strengthened for neurotechnology rather than replaced
 - `news/IS_NEWS_2025-06-30-justice-department-charges-two-individuals-with-acting-as.md` — Justice Department Charges Two Individuals with Acting as Agents of the PRC Government
 - `news/IS_NEWS_2025-07-02-analysis-diagnostic-ai-that-outperforms-doctors-on-hard-cases-leaves-the-malpractice-standard-of-care.md` — Diagnostic AI that outperforms doctors on hard cases leaves the malpractice standard of care unsettled
 - `news/IS_NEWS_2025-07-04-australian-dept-of-defence-signs-au-495m-5-year-cloud-deal.md` — Australian Dept of Defence signs AU$495m 5-year cloud deal with Microsoft
 - `news/IS_NEWS_2025-07-04-defence-commits-to-five-more-years-of-azure-worth-495m.md` — Defence commits to five more years of Azure worth $495m
+- `news/IS_NEWS_2025-07-05-analysis-japan-s-ai-promotion-act-takes-an-innovation-first-approach-with-no-risk-tiers-and-no-penalties.md` — Japan's AI Promotion Act takes an innovation-first approach with no risk tiers and no penalties
+- `news/IS_NEWS_2025-07-06-analysis-a-trained-language-model-generally-does-not-hold-personal-data-the-way-a-database-does-a-guest-essay-argues.md` — A trained language model generally does not hold personal data the way a database does, a guest essay argues
+- `news/IS_NEWS_2025-07-06-analysis-malaysia-s-updated-data-protection-law-and-voluntary-ai-ethics-guidelines-explained.md` — Malaysia's updated data protection law and voluntary AI ethics guidelines, explained
 - `news/IS_NEWS_2025-07-07-analysis-eu-policy-has-to-catch-up-with-a-fast-growing-consumer-neurotechnology-market.md` — EU policy has to catch up with a fast-growing consumer neurotechnology market
+- `news/IS_NEWS_2025-07-10-analysis-five-privacy-questions-for-technology-that-supports-older-adults-and-caregivers-including-how-it-uses-ai.md` — Five privacy questions for technology that supports older adults and caregivers, including how it uses AI
+- `news/IS_NEWS_2025-07-14-analysis-how-companies-use-data-and-algorithms-to-set-prices-and-the-policy-questions-it-raises.md` — How companies use data and algorithms to set prices, and the policy questions it raises
 - `news/IS_NEWS_2025-07-15-analysis-a-podcast-episode-on-weak-u-s-ai-safeguards-and-why-transparency-should-come-first.md` — A podcast episode on weak U.S. AI safeguards and why transparency should come first
 - `news/IS_NEWS_2025-07-28-analysis-the-executive-order-on-ideological-neutrality-in-federal-ai-purchases-and-its-risk-to-readable-ai-re.md` — The executive order on ideological neutrality in federal AI purchases, and its risk to readable AI reasoning
 - `news/IS_NEWS_2025-08-05-analysis-state-neural-data-laws-protect-the-brain-signal-but-not-what-ai-infers-from-it.md` — State neural-data laws protect the brain signal but not what AI infers from it
@@ -1066,6 +1086,7 @@ This file joins 1076 files from the Invisible Ships archive so it can be uploade
 - `news/IS_NEWS_2026-11-24-dhs-self-deportation-to-spain-announced.md` — DHS release: Human Trafficker, Wife Beater, and MS-13 Gang Member [name] Self-Deports from the United States
 - `news/IS_NEWS_2026-11-24-dhs-tsa-ready-for-thanksgiving-passenger-volumes.md` — DHS release: TSA Is Ready for Thanksgiving Passenger Volumes, Urges Travelers to Plan Ahead
 - `news/IS_NEWS_2026-11-24-dhs-worst-of-the-worst-ice-arrests-murderers-pedophiles-and-domestic-assailants.md` — DHS release: WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Domestic Assailants
+- `news/IS_NEWS_2026-11-24-fbi-chinese-tech-giant-huawei-and-subsidiaries-convicted-of-sanctions-violations-fraud-conspiracy.md` — FBI release: Chinese Tech Giant Huawei and Subsidiaries Convicted of Sanctions Violations, Fraud, Conspiracy to Steal Trade Secrets, and Money Laundering
 - `news/IS_NEWS_2026-11-24-former-ai-company-engineer-charged-over-a-hidden-audio-recorder-at-its-offices-is-granted-release-on-a-1-milli.md` — Former AI-company engineer charged over a hidden audio recorder at its offices is granted release on a $1 million bond
 - `news/IS_NEWS_2026-11-24-former-washington-state-police-officer-charged-with-stalking-a-woman-through-a-licence-plate-camera-network-hi.md` — Former Washington state police officer charged with stalking a woman through a licence-plate camera network; his department limits access and adds weekly audits
 - `news/IS_NEWS_2026-11-24-ground-radar-outage-delays-hundreds-of-flights-at-chicago-ohare-on-the-busiest-day-of-thanksgiving-travel.md` — Ground-radar outage delays hundreds of flights at Chicago O'Hare on the busiest day of Thanksgiving travel
@@ -1083,18 +1104,31 @@ This file joins 1076 files from the Invisible Ships archive so it can be uploade
 - `news/IS_NEWS_2026-11-25-dhs-worst-of-the-worst-ice-arrests-pedophiles-rapists-and-drug-dealers.md` — DHS release: WORST OF THE WORST: ICE Arrests Pedophiles, Rapists, and Drug Dealers
 - `news/IS_NEWS_2026-11-25-fbi-justice-department-announces-largest-ever-crackdown-on-scammers-targeting-over-800-defendants.md` — FBI release: Justice Department Announces Largest-Ever Crackdown on Scammers, Targeting Over 800 Defendants to Protect Americans from Fraud
 - `news/IS_NEWS_2026-11-25-fbi-plans-one-data-store-for-wiretap-fisa-and-commercial-data-with-ai-analysis-and-facial-recognition.md` — FBI plans one enterprise store for wiretap, foreign-intelligence and commercial data, with AI analysis and facial recognition
+- `news/IS_NEWS_2026-11-25-german-pilot-study-finds-technology-based-abuse-in-half-of-counselling-cases-at-womens-shelters-including-devi.md` — German pilot study finds technology-based abuse in half of counselling cases at women’s shelters, including device access, stalking apps and trackers
+- `news/IS_NEWS_2026-11-25-german-state-police-choose-a-domestic-software-vendor-to-replace-a-us-platform-for-analysis-across-police-data.md` — German state police choose a domestic software vendor to replace a US platform for analysis across police databases
 - `news/IS_NEWS_2026-11-25-house-democrats-demand-records-from-twelve-vendors-of-dhs-surveillance-technology.md` — House Democrats demand records from twelve vendors of DHS surveillance technology, alleging unlawful surveillance of Americans
 - `news/IS_NEWS_2026-11-25-sea-watch-says-forensic-checks-found-zero-click-spyware-on-its-italian-spokespersons-phone.md` — Sea-Watch says forensic checks found zero-click spyware on its Italian spokesperson's phone seven times in 2021 and files a complaint with Rome prosecutors
 - `news/IS_NEWS_2026-11-25-tehran-municipal-official-says-police-searches-of-metro-passengers-phones-are-a-security-necessity.md` — Tehran municipal official says police searches of metro passengers' phones are a 'security necessity'
 - `news/IS_NEWS_2026-11-25-us-justice-department-opinion-says-police-may-use-acoustic-optical-radar-and-radio-drone-detectors-without-br.md` — US Justice Department opinion says police may use acoustic, optical, radar and radio-frequency drone detectors without breaching federal wiretap and pen-trap law
 - `news/IS_NEWS_2026-11-25-us-regulator-lets-a-brain-implant-company-begin-the-first-pivotal-trial-of-an-implanted-brain-computer-interf.md` — US regulator lets a brain-implant company begin what it calls the first pivotal trial of an implanted brain-computer interface, in people with ALS
 - `news/IS_NEWS_2026-11-25-us-tax-agencys-criminal-investigators-buy-commercial-facial-recognition-access-after-telling-auditors-they-ha.md` — US tax agency's criminal investigators buy commercial facial-recognition access after telling auditors they had no plans to
+- `news/IS_NEWS_2026-11-25-us-treasurys-financial-intelligence-unit-takes-systems-offline-after-unauthorised-access-as-reports-say-a-cia.md` — US Treasury’s financial-intelligence unit takes systems offline after unauthorised access, as reports say a CIA open-source analysis system was also breached
 - `news/IS_NEWS_2026-11-25-white-house-effort-to-neutralize-explosives-threat-in-iowa.md` — White House release: Trump Administration Leads Whole-of-Government Effort to Safely Neutralize [name]-Era Explosives Threat in Iowa
 - `news/IS_NEWS_2026-11-25-white-house-first-lady-secures-reunification-of-nine-additional-children.md` — White House release: First Lady [name] Secures Reunification of Nine Additional Children with their Families
 - `news/IS_NEWS_2026-11-25-white-house-thanksgiving-day-2026-proclamation.md` — White House release: Thanksgiving Day, 2026
 - `news/IS_NEWS_2026-11-25-white-house-whole-of-government-effort-to-protect-americas-critical-infrastructure.md` — White House release: President [name] Unleashes Whole-of-Government Effort to Protect America's Critical Infrastructure
+- `news/IS_NEWS_2026-11-26-analysis-is-an-ai-chatbot-a-product-that-can-be-defective-or-speech-that-the-law-protects-a-class-on-product-liability.md` — Is an AI chatbot a product that can be defective, or speech that the law protects? A class on product liability
 - `news/IS_NEWS_2026-11-26-belarus-kgb-searches-recipients-of-an-eu-scholarship-for-repressed-students-and-their-relatives.md` — Belarus's KGB searches recipients of an EU scholarship programme for repressed students and their relatives, apparently using an exposed mailing list
+- `news/IS_NEWS_2026-11-26-dutch-court-hears-consumer-and-victims-groups-seeking-to-stop-sales-of-camera-glasses-over-covert-filming-a-ru.md` — Dutch court hears consumer and victims’ groups seeking to stop sales of camera glasses over covert filming; a ruling is due by 24 December
+- `news/IS_NEWS_2026-11-26-german-federal-prosecutor-arrests-two-iraqi-nationals-suspected-of-founding-a-pro-iranian-terrorist-group-that.md` — German federal prosecutor arrests two Iraqi nationals suspected of founding a pro-Iranian terrorist group that allegedly sent people towards synagogues with explosives
+- `news/IS_NEWS_2026-11-26-irans-parliament-passes-a-bill-requiring-contacts-with-foreigners-to-be-registered-for-security-review-and-ban.md` — Iran’s parliament passes a bill requiring contacts with foreigners to be registered for security review and banning interviews with media the state calls hostile
+- `news/IS_NEWS_2026-11-26-son-of-a-russian-environmental-activist-tells-a-court-he-was-beaten-and-given-electric-shocks-at-17-to-make-hi.md` — Son of a Russian environmental activist tells a court he was beaten and given electric shocks at 17 to make him testify against his mother
+- `news/IS_NEWS_2026-11-26-spains-data-protection-authority-and-its-research-network-back-priorities-that-include-studying-reinforced-pro.md` — Spain’s data-protection authority and its research network back priorities that include studying reinforced protection for some neural data
 - `news/IS_NEWS_2026-11-26-taiwan-says-131-people-have-been-targeted-by-chinese-repression-in-three-years.md` — Taiwan says 131 people have been targeted by Chinese repression in three years, as a comedian attacked over his jokes performs under guard
+- `news/IS_NEWS_2026-11-26-un-general-assembly-adopts-a-resolution-on-human-rights-defenders-that-names-the-misuse-of-spyware-in-repressi.md` — UN General Assembly adopts a resolution on human rights defenders that names the misuse of spyware in repression across borders, a rights group reports
+- `news/IS_NEWS_2026-11-27-australia-sanctions-two-men-it-says-organised-the-2024-arson-attacks-on-a-sydney-kosher-business-and-a-melbour.md` — Australia sanctions two men it says organised the 2024 arson attacks on a Sydney kosher business and a Melbourne synagogue for Iran’s Revolutionary Guards
+- `news/IS_NEWS_2026-11-27-us-justice-department-corrects-its-final-rule-on-havana-act-payments-to-staff-with-qualifying-brain-injuries-f.md` — US Justice Department corrects its final rule on HAVANA Act payments to staff with qualifying brain injuries from anomalous health incidents
+- `news/IS_NEWS_2026-11-27-us-state-department-says-iran-has-targeted-nearly-2-000-citizens-abroad-with-fabricated-charges-and-calls-asse.md` — US State Department says Iran has targeted nearly 2,000 citizens abroad with fabricated charges and calls asset seizures against their relatives extortion
 - `news/IS_NEWS_undated-anomalous-health-incidents.md` — Anomalous health incidents
 - `news/IS_NEWS_undated-critical-information-infrastructure-of-russia-fstec-fsb.md` — Critical Information Infrastructure of Russia (FSTEC/FSB)
 
@@ -1113,26 +1147,26 @@ convicted or was sentenced. See `meta/IS_META_terms.md`.*
 
 ## What is here
 
-- 1075 items, 2011-09-28 to 2026-11-26: 407 official, 264 analysis, 209 news, 172 trade press, 23 research.
-- 1075 of 1075 carry a summary so far; the rest say so.
+- 1109 items, 2011-09-28 to 2026-11-27: 411 official, 285 analysis, 214 news, 175 trade press, 24 research.
+- 1109 of 1109 carry a summary so far; the rest say so.
 - `index.json` holds every item's header in one file, for counting and filtering.
 
 ## By kind of event
 
 | Kind of event | Items |
 |---|---|
-| Regulation & law | 275 |
-| Contracts & deployments | 139 |
+| Regulation & law | 298 |
+| Contracts & deployments | 140 |
 |  | 137 |
-| Courts & litigation | 120 |
-| Espionage & foreign agents | 98 |
+| Courts & litigation | 123 |
+| Espionage & foreign agents | 99 |
 | Research & breakthroughs | 85 |
-| Technology theft & export control | 60 |
-| Reports & statistics | 39 |
-| Transnational repression | 36 |
-| Murder for hire & violent plots | 22 |
+| Technology theft & export control | 61 |
+| Reports & statistics | 40 |
+| Transnational repression | 38 |
+| Murder for hire & violent plots | 23 |
 | Public health | 22 |
-| Outages & disruptions | 15 |
+| Outages & disruptions | 16 |
 | Protests | 14 |
 | Global conflict | 13 |
 
@@ -9383,6 +9417,43 @@ José M. Muñoz, of the Institute of Neurotechnology and Law, argues that laws t
 He proposes a broader and absolute right over the inner mind, which he calls thought proper, points to reform efforts in Chile, Mexico, Brazil and at the Organization of American States, and urges the UN to set guidelines.
 
 
+===== FILE: news/IS_NEWS_2024-07-15-analysis-confidential-computing-can-tighten-control-over-how-sensitive-data-is-used-but-its-legal-effects-remain-untest.md · ID: IS-NEWS-2024-07-15-ANALYSIS-CONFIDENTIAL-COMPUTING-CAN-TIGHTEN-CONTROL-OVER-HOW-SENSITIVE-DATA-IS-USED-BUT-ITS-LEGAL-EFFECTS-REMAIN-UNTEST =====
+
+```yaml
+id: IS-NEWS-2024-07-15-ANALYSIS-CONFIDENTIAL-COMPUTING-CAN-TIGHTEN-CONTROL-OVER-HOW-SENSITIVE-DATA-IS-USED-BUT-ITS-LEGAL-EFFECTS-REMAIN-UNTEST
+slug: 2024-07-15-analysis-confidential-computing-can-tighten-control-over-how-sensitive-data-is-used-but-its-legal-effects-remain-untest
+title: Confidential computing can tighten control over how sensitive data is used, but its legal effects remain untested
+collection: news
+doc_type: analysis-item
+date: 2024-07-15
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/new-fpf-report-confidential-computing-and-privacy-policy-implications-of-trusted-execution-environments/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage:
+related:
+kind: analysis
+commentator: Samuel Adams, Stacey Gray, Aaron Massey and Rob van Eijk
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 27 Nov 2026; queued 26 Nov (the post is a pointer); read from the linked report PDF (2025 update: https://fpf.org/wp-content/uploads/2025/04/FPF_Confidential_Computing_Digital_R3_-_2025_Update.pdf), whose authors are credited; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Confidential computing can tighten control over how sensitive data is used, but its legal effects remain untested
+
+*Samuel Adams, Stacey Gray, Aaron Massey and Rob van Eijk, Future of Privacy Forum, 2024-07-15. Original: <https://fpf.org/blog/new-fpf-report-confidential-computing-and-privacy-policy-implications-of-trusted-execution-environments/>*
+
+In a Future of Privacy Forum report, Samuel Adams, Stacey Gray, Aaron Massey and Rob van Eijk explain confidential computing: hardware-isolated "trusted execution environments" combined with an attestation process that controls who may reach data while it is being processed, including for training and running AI models. They write that early adoption is strongest in financial services, health care and advertising, and that the technology can reduce the reliance on contracts between cloud providers and their customers.
+
+The authors argue that the technology's legal consequences are largely untested and depend on how each system is configured and managed. They say data inside an enclave may still be highly identifiable, so it is not de-identified by default; that whether pooling data inside one counts as a "sale" or "sharing" under state privacy laws depends on the system's details; and that it raises open questions for law enforcement access, cross-border transfers and data localisation.
+
+
 ===== FILE: news/IS_NEWS_2024-07-24-analysis-generative-ai-terms-hand-users-the-copyright-risk-while-providers-escape-platform-rules.md · ID: IS-NEWS-2024-07-24-ANALYSIS-GENERATIVE-AI-TERMS-HAND-USERS-THE-COPYRIGHT-RISK-WHILE-PROVIDERS-ESCAPE-PLATFORM-RULES =====
 
 ```yaml
@@ -10170,6 +10241,43 @@ Jordan Wrigley and Judy Wang, for the Future of Privacy Forum, describe Californ
 They observe that the law stresses transparency for those who deploy generative AI and may indirectly place obligations on upstream developers of health-care AI features. The fuller analysis is available only to Forum members.
 
 
+===== FILE: news/IS_NEWS_2024-10-15-analysis-tools-against-harmful-ai-generated-content-each-have-limits-and-can-trade-off-against-privacy-a-report-finds.md · ID: IS-NEWS-2024-10-15-ANALYSIS-TOOLS-AGAINST-HARMFUL-AI-GENERATED-CONTENT-EACH-HAVE-LIMITS-AND-CAN-TRADE-OFF-AGAINST-PRIVACY-A-REPORT-FINDS =====
+
+```yaml
+id: IS-NEWS-2024-10-15-ANALYSIS-TOOLS-AGAINST-HARMFUL-AI-GENERATED-CONTENT-EACH-HAVE-LIMITS-AND-CAN-TRADE-OFF-AGAINST-PRIVACY-A-REPORT-FINDS
+slug: 2024-10-15-analysis-tools-against-harmful-ai-generated-content-each-have-limits-and-can-trade-off-against-privacy-a-report-finds
+title: Tools against harmful AI-generated content each have limits and can trade off against privacy, a report finds
+collection: news
+doc_type: analysis-item
+date: 2024-10-15
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/synthetic-content-exploring-the-risks-technical-approaches-and-regulatory-responses/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage:
+related:
+kind: analysis
+commentator: Jameson Spivack
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 27 Nov 2026; queued 26 Nov (the post is a pointer); read from the linked report PDF (https://fpf.org/wp-content/uploads/2024/10/Synthetic-Content-Report-Oct-2024.pdf); title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Tools against harmful AI-generated content each have limits and can trade off against privacy, a report finds
+
+*Jameson Spivack, Future of Privacy Forum, 2024-10-15. Original: <https://fpf.org/blog/synthetic-content-exploring-the-risks-technical-approaches-and-regulatory-responses/>*
+
+In a Future of Privacy Forum report, Jameson Spivack surveys the risks of AI-generated "synthetic" content, including impersonation, political disinformation, fraud, and synthetic intimate imagery and child sexual abuse material, and the approaches US lawmakers and agencies are taking, mostly disclosure, transparency and limits on certain kinds of content.
+
+He reviews watermarking, provenance tracking, metadata, labelling, detection, hashing and legal bans on deepfakes, and argues that no single approach is enough. He writes that some of these techniques can support privacy and security, but others may expose personal data, require records to be kept indefinitely or demand more scanning of private communications, so policymakers should weigh those tradeoffs in a combined strategy.
+
+
 ===== FILE: news/IS_NEWS_2024-10-17-charges-against-indian-government-employee-in-connection.md · ID: IS-NEWS-2024-10-17-CHARGES-AGAINST-INDIAN-GOVERNMENT-EMPLOYEE-IN-CONNECTION =====
 
 ```yaml
@@ -10680,6 +10788,43 @@ Susie Alegre, an international human rights barrister, argues that AI companion 
 Pointing to Europe's long-standing ban on subliminal advertising as a precedent for acting before harm is fully proven, she calls for banning the sale of AI designed to replace human emotional relationships and penalising companies that evade the ban.
 
 
+===== FILE: news/IS_NEWS_2024-12-11-analysis-how-companies-assess-ai-risks-in-practice-and-where-they-struggle-according-to-a-privacy-think-tank-s-report.md · ID: IS-NEWS-2024-12-11-ANALYSIS-HOW-COMPANIES-ASSESS-AI-RISKS-IN-PRACTICE-AND-WHERE-THEY-STRUGGLE-ACCORDING-TO-A-PRIVACY-THINK-TANK-S-REPORT =====
+
+```yaml
+id: IS-NEWS-2024-12-11-ANALYSIS-HOW-COMPANIES-ASSESS-AI-RISKS-IN-PRACTICE-AND-WHERE-THEY-STRUGGLE-ACCORDING-TO-A-PRIVACY-THINK-TANK-S-REPORT
+slug: 2024-12-11-analysis-how-companies-assess-ai-risks-in-practice-and-where-they-struggle-according-to-a-privacy-think-tank-s-report
+title: How companies assess AI risks in practice, and where they struggle, according to a privacy think tank's report
+collection: news
+doc_type: analysis-item
+date: 2024-12-11
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/press-releases/future-of-privacy-forum-publishes-report-exploring-organizations-emerging-practices-and-challenges-assessing-ai-risks/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage:
+related:
+kind: analysis
+commentator: Daniel Berrick
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 27 Nov 2026; queued 26 Nov; read from the press release, which states the findings (report: https://fpf.org/wp-content/uploads/2025/04/FPF_AI_Governance_Behind_the_Scenes_Digital_-_2025_Update.pdf, not read in full); title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# How companies assess AI risks in practice, and where they struggle, according to a privacy think tank's report
+
+*Daniel Berrick, Future of Privacy Forum, 2024-12-11. Original: <https://fpf.org/press-releases/future-of-privacy-forum-publishes-report-exploring-organizations-emerging-practices-and-challenges-assessing-ai-risks/>*
+
+Daniel Berrick, for the Future of Privacy Forum, reports on how companies carry out AI impact assessments, drawing on more than 60 private-sector stakeholders. According to the report, companies increasingly weigh both intended and unintended uses of AI systems and are folding these assessments into wider risk and privacy programmes, using both qualitative and quantitative methods.
+
+The report says many organisations struggle to get complete information from model developers and vendors, vary widely in their skill at assessing risk, and lack agreed ways to measure whether risk controls work or when risk is low enough. It recommends better information-gathering from vendors, more internal education about AI risks and better ways to measure effectiveness.
+
+
 ===== FILE: news/IS_NEWS_2024-12-13-analysis-who-interprets-and-enforces-a-privacy-law-may-matter-as-much-as-whether-it-relies-on-procedure-or.md · ID: IS-NEWS-2024-12-13-ANALYSIS-WHO-INTERPRETS-AND-ENFORCES-A-PRIVACY-LAW-MAY-MATTER-AS-MUCH-AS-WHETHER-IT-RELIES-ON-PROCEDURE-OR =====
 
 ```yaml
@@ -11111,6 +11256,43 @@ Microsoft has received authorization for 26 more products in its Azure Governmen
 DefenseScoop notes that Azure OpenAI received FedRAMP High authorization in August 2024, and that GPT-4 was placed in an air-gapped test environment in May 2024.
 
 
+===== FILE: news/IS_NEWS_2025-01-23-analysis-what-to-expect-in-global-privacy-in-2025-with-ai-as-the-main-driver-of-policy.md · ID: IS-NEWS-2025-01-23-ANALYSIS-WHAT-TO-EXPECT-IN-GLOBAL-PRIVACY-IN-2025-WITH-AI-AS-THE-MAIN-DRIVER-OF-POLICY =====
+
+```yaml
+id: IS-NEWS-2025-01-23-ANALYSIS-WHAT-TO-EXPECT-IN-GLOBAL-PRIVACY-IN-2025-WITH-AI-AS-THE-MAIN-DRIVER-OF-POLICY
+slug: 2025-01-23-analysis-what-to-expect-in-global-privacy-in-2025-with-ai-as-the-main-driver-of-policy
+title: What to expect in global privacy in 2025, with AI as the main driver of policy
+collection: news
+doc_type: analysis-item
+date: 2025-01-23
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/what-to-expect-in-global-privacy-in-2025/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage:
+related:
+kind: analysis
+commentator: Gabriela Zanfir-Fortuna
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 27 Nov 2026; FPF AI listing page 11 (listed this run); read from the original; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# What to expect in global privacy in 2025, with AI as the main driver of policy
+
+*Gabriela Zanfir-Fortuna, Future of Privacy Forum, 2025-01-23. Original: <https://fpf.org/blog/what-to-expect-in-global-privacy-in-2025/>*
+
+Gabriela Zanfir-Fortuna, the Future of Privacy Forum's vice president for global policy, sets out what she expects in privacy law worldwide in 2025. She argues that personal autonomy and control will be central to AI governance as AI companions take on more personal decisions, and that regulators will turn to protecting bystanders whose data is captured by augmented-reality and connected devices.
+
+She expects AI legislation to move at three speeds: a cooling in Asia-Pacific, fast movement towards comprehensive laws in Latin America led by Brazil, and a focus on implementing the AI Act in the EU, where shared oversight by several authorities will test the law. She also predicts more guidance on generative-AI harms, renewed fights over international data transfers tied to the AI race, a merging of child privacy with online safety and age assurance, and, as an outside possibility, a reopening of the GDPR.
+
+
 ===== FILE: news/IS_NEWS_2025-01-24-google-provided-ai-technology-to-idf-during-israel-gaza-war.md · ID: IS-NEWS-2025-01-24-GOOGLE-PROVIDED-AI-TECHNOLOGY-TO-IDF-DURING-ISRAEL-GAZA-WAR =====
 
 ```yaml
@@ -11217,6 +11399,43 @@ A federal grand jury returned a superseding indictment on 4 February 2025 chargi
 Each economic espionage count carries up to 15 years in prison and each trade secret count up to 10 years. These are charges only: every defendant is presumed innocent unless proven guilty in court.
 
 
+===== FILE: news/IS_NEWS_2025-02-05-analysis-ai-agents-raise-the-data-protection-questions-of-large-language-models-and-add-new-ones.md · ID: IS-NEWS-2025-02-05-ANALYSIS-AI-AGENTS-RAISE-THE-DATA-PROTECTION-QUESTIONS-OF-LARGE-LANGUAGE-MODELS-AND-ADD-NEW-ONES =====
+
+```yaml
+id: IS-NEWS-2025-02-05-ANALYSIS-AI-AGENTS-RAISE-THE-DATA-PROTECTION-QUESTIONS-OF-LARGE-LANGUAGE-MODELS-AND-ADD-NEW-ONES
+slug: 2025-02-05-analysis-ai-agents-raise-the-data-protection-questions-of-large-language-models-and-add-new-ones
+title: AI agents raise the data protection questions of large language models and add new ones
+collection: news
+doc_type: analysis-item
+date: 2025-02-05
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/minding-mindful-machines-ai-agents-and-data-protection-considerations/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage:
+related:
+kind: analysis
+commentator: Daniel Berrick
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 27 Nov 2026; FPF AI listing page 11 (listed this run); read from the original; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# AI agents raise the data protection questions of large language models and add new ones
+
+*Daniel Berrick, Future of Privacy Forum, 2025-02-05. Original: <https://fpf.org/blog/minding-mindful-machines-ai-agents-and-data-protection-considerations/>*
+
+Daniel Berrick, for the Future of Privacy Forum, describes AI agents, systems that plan and carry out multi-step tasks on their own, and argues that they raise the same data protection questions as large language models, such as the lawful basis for training, individuals' rights and explainability.
+
+He writes that agents' access to tools, browsers and device data can widen the collection of personal and sensitive information, including screenshots and inferences about a person's life. He also points to prompt-injection attacks, errors that compound across steps, misalignment that may lead an agent to share sensitive data to finish a task, and decisions too fast and complex for meaningful human oversight.
+
+
 ===== FILE: news/IS_NEWS_2025-02-07-analysis-giving-a-new-government-team-access-to-federal-databases-breaks-privacy-act-commitments.md · ID: IS-NEWS-2025-02-07-ANALYSIS-GIVING-A-NEW-GOVERNMENT-TEAM-ACCESS-TO-FEDERAL-DATABASES-BREAKS-PRIVACY-ACT-COMMITMENTS =====
 
 ```yaml
@@ -11254,6 +11473,43 @@ Danielle Citron, a law professor at the University of Virginia, argues that givi
 She argues there is no evidence the staff were vetted or authorised, questions whether the law's "routine use" exception could apply, and warns that the data could be used for loyalty tests or political retribution unrelated to why it was collected. She notes that a federal court had temporarily limited the sharing of Treasury records and that a lawsuit under the Act was pending, and expects more.
 
 
+===== FILE: news/IS_NEWS_2025-02-10-analysis-data-protection-law-is-a-powerful-and-overlooked-tool-for-regulating-ai-an-essay-argues.md · ID: IS-NEWS-2025-02-10-ANALYSIS-DATA-PROTECTION-LAW-IS-A-POWERFUL-AND-OVERLOOKED-TOOL-FOR-REGULATING-AI-AN-ESSAY-ARGUES =====
+
+```yaml
+id: IS-NEWS-2025-02-10-ANALYSIS-DATA-PROTECTION-LAW-IS-A-POWERFUL-AND-OVERLOOKED-TOOL-FOR-REGULATING-AI-AN-ESSAY-ARGUES
+slug: 2025-02-10-analysis-data-protection-law-is-a-powerful-and-overlooked-tool-for-regulating-ai-an-essay-argues
+title: Data protection law is a powerful and overlooked tool for regulating AI, an essay argues
+collection: news
+doc_type: analysis-item
+date: 2025-02-10
+date_precision: day
+publisher: LSE European Politics and Policy (EUROPP) blog
+source_type: Analysis
+issuing_office:
+url: https://blogs.lse.ac.uk/europpblog/2025/02/10/why-data-protection-legislation-offers-a-powerful-tool-for-regulating-ai/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: European Union
+stage:
+related:
+kind: analysis
+commentator: Gabriela Zanfir-Fortuna
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 27 Nov 2026; FPF AI listing page 11 (listed this run); the FPF page of 12 Feb 2025 (https://fpf.org/blog/why-data-protection-legislation-offers-a-powerful-tool-for-regulating-ai/) is an excerpt, so the full essay was read on the LSE blog; read from the original; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Data protection law is a powerful and overlooked tool for regulating AI, an essay argues
+
+*Gabriela Zanfir-Fortuna, LSE European Politics and Policy (EUROPP) blog, 2025-02-10. Original: <https://blogs.lse.ac.uk/europpblog/2025/02/10/why-data-protection-legislation-offers-a-powerful-tool-for-regulating-ai/>*
+
+Gabriela Zanfir-Fortuna, of the Future of Privacy Forum, argues that data protection law, which grew out of 1960s and 1970s worries about computers and automation, is a natural and powerful tool for regulating AI, and that the first serious legal challenges to large language models came under it.
+
+She points to data protection authorities acting against AI services in Italy, Brazil, South Korea and across Europe, and says the GDPR's reach, applying whenever personal data is processed and not only to high-risk systems, together with tools such as purpose limitation, impact assessments and individual rights, gives regulators broad options. She argues that AI laws such as the EU AI Act should build on this body of law rather than develop apart from it.
+
+
 ===== FILE: news/IS_NEWS_2025-02-19-meta-s-mind-reader-brain2qwerty-translates-thoughts-into.md · ID: IS-NEWS-2025-02-19-META-S-MIND-READER-BRAIN2QWERTY-TRANSLATES-THOUGHTS-INTO =====
 
 ```yaml
@@ -11286,6 +11542,80 @@ disclaimer: meta/IS_META_terms.md
 *Forbes, 2025-02-19. Original: <https://www.forbes.com/sites/luisromero/2025/02/19/metas-mind-reader-brain2qwerty-translates-thoughts-into-text>*
 
 Forbes reports on Brain2Qwerty, a Meta research system that translates brain activity into typed text. Other coverage of the research notes that it relies on a room-sized scanning machine.
+
+
+===== FILE: news/IS_NEWS_2025-02-21-analysis-future-of-privacy-forum-asks-california-s-privacy-regulator-to-narrow-and-clarify-its-draft-rules-on-automated.md · ID: IS-NEWS-2025-02-21-ANALYSIS-FUTURE-OF-PRIVACY-FORUM-ASKS-CALIFORNIA-S-PRIVACY-REGULATOR-TO-NARROW-AND-CLARIFY-ITS-DRAFT-RULES-ON-AUTOMATED =====
+
+```yaml
+id: IS-NEWS-2025-02-21-ANALYSIS-FUTURE-OF-PRIVACY-FORUM-ASKS-CALIFORNIA-S-PRIVACY-REGULATOR-TO-NARROW-AND-CLARIFY-ITS-DRAFT-RULES-ON-AUTOMATED
+slug: 2025-02-21-analysis-future-of-privacy-forum-asks-california-s-privacy-regulator-to-narrow-and-clarify-its-draft-rules-on-automated
+title: Future of Privacy Forum asks California's privacy regulator to narrow and clarify its draft rules on automated decision-making
+collection: news
+doc_type: analysis-item
+date: 2025-02-21
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/fpf-submits-comments-to-the-california-privacy-protection-agency-on-proposed-rulemaking/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage:
+related:
+kind: analysis
+commentator: Jordan Francis and Keir Lamont
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 27 Nov 2026; FPF AI listing page 11 (listed this run); read from the original; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Future of Privacy Forum asks California's privacy regulator to narrow and clarify its draft rules on automated decision-making
+
+*Jordan Francis and Keir Lamont, Future of Privacy Forum, 2025-02-21. Original: <https://fpf.org/blog/fpf-submits-comments-to-the-california-privacy-protection-agency-on-proposed-rulemaking/>*
+
+Jordan Francis and Keir Lamont describe the Future of Privacy Forum's comments of 19 February 2025 on the California Privacy Protection Agency's draft regulations on automated decision-making technology, risk assessments and cybersecurity audits.
+
+They write that the Forum asked the agency to clarify when a system "substantially facilitates" a decision and what counts as a "significant decision", to carve out narrowly used low-risk AI tools, and to confirm that an opt-out made after processing begins does not oblige a business to retrain its models. The comments also asked the agency to reconsider some risk-assessment and audit-certification requirements and to allow flexible privacy notices in virtual and augmented reality.
+
+
+===== FILE: news/IS_NEWS_2025-02-26-analysis-geopolitics-and-the-race-for-ai-are-pulling-the-rules-on-global-data-flows-apart.md · ID: IS-NEWS-2025-02-26-ANALYSIS-GEOPOLITICS-AND-THE-RACE-FOR-AI-ARE-PULLING-THE-RULES-ON-GLOBAL-DATA-FLOWS-APART =====
+
+```yaml
+id: IS-NEWS-2025-02-26-ANALYSIS-GEOPOLITICS-AND-THE-RACE-FOR-AI-ARE-PULLING-THE-RULES-ON-GLOBAL-DATA-FLOWS-APART
+slug: 2025-02-26-analysis-geopolitics-and-the-race-for-ai-are-pulling-the-rules-on-global-data-flows-apart
+title: Geopolitics and the race for AI are pulling the rules on global data flows apart
+collection: news
+doc_type: analysis-item
+date: 2025-02-26
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/geopolitical-fragmentation-the-ai-race-and-global-data-flows-the-new-reality/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage:
+related:
+kind: analysis
+commentator: Christopher Kuner and Gabriela Zanfir-Fortuna
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 27 Nov 2026; FPF AI listing page 11 (listed this run); read from the original; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Geopolitics and the race for AI are pulling the rules on global data flows apart
+
+*Christopher Kuner and Gabriela Zanfir-Fortuna, Future of Privacy Forum, 2025-02-26. Original: <https://fpf.org/blog/geopolitical-fragmentation-the-ai-race-and-global-data-flows-the-new-reality/>*
+
+Christopher Kuner and Gabriela Zanfir-Fortuna, for the Future of Privacy Forum, argue that although most countries now have data protection laws, geopolitical instability and the race to lead in AI, which depends on access to data across borders, are pushing the rules on international data transfers to turn inward and diverge.
+
+They write that the EU's adequacy process is slow and hard to satisfy and that the EU is also restricting transfers of non-personal data; that China has moved from strict localisation towards promoting cross-border cooperation; and that the United States now uses national-security rules to limit bulk sensitive data going to "countries of concern". They argue that organisations have underestimated geopolitical risk in planning transfers and should assess it and prepare contingency plans.
 
 
 ===== FILE: news/IS_NEWS_2025-02-26-analysis-u-s-health-data-privacy-is-a-patchwork-that-leaves-app-and-wearable-data-including-mental-health.md · ID: IS-NEWS-2025-02-26-ANALYSIS-U-S-HEALTH-DATA-PRIVACY-IS-A-PATCHWORK-THAT-LEAVES-APP-AND-WEARABLE-DATA-INCLUDING-MENTAL-HEALTH =====
@@ -11644,6 +11974,80 @@ disclaimer: meta/IS_META_terms.md
 Virginia's attorney general issued a consumer alert on 25 March 2025 about 23andMe's bankruptcy filing and the state's genetic data privacy law. Local coverage of the alert says Virginia law requires 23andMe to delete a customer's data on request, and that the attorney general urged Virginians to consider deleting their genetic data from the service.
 
 
+===== FILE: news/IS_NEWS_2025-03-31-analysis-a-checklist-to-help-schools-prepare-for-and-respond-to-deepfakes.md · ID: IS-NEWS-2025-03-31-ANALYSIS-A-CHECKLIST-TO-HELP-SCHOOLS-PREPARE-FOR-AND-RESPOND-TO-DEEPFAKES =====
+
+```yaml
+id: IS-NEWS-2025-03-31-ANALYSIS-A-CHECKLIST-TO-HELP-SCHOOLS-PREPARE-FOR-AND-RESPOND-TO-DEEPFAKES
+slug: 2025-03-31-analysis-a-checklist-to-help-schools-prepare-for-and-respond-to-deepfakes
+title: A checklist to help schools prepare for and respond to deepfakes
+collection: news
+doc_type: analysis-item
+date: 2025-03-31
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/fpf-publishes-infographic-readiness-checklist-to-support-schools-responding-to-deepfakes/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage:
+related:
+kind: analysis
+commentator: Future of Privacy Forum
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 27 Nov 2026; FPF AI listing page 10 (listed this run); an unsigned announcement with substantive guidance, credited to the Forum; read from the original; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A checklist to help schools prepare for and respond to deepfakes
+
+*Future of Privacy Forum, Future of Privacy Forum, 2025-03-31. Original: <https://fpf.org/blog/fpf-publishes-infographic-readiness-checklist-to-support-schools-responding-to-deepfakes/>*
+
+The Future of Privacy Forum announces an infographic and readiness checklist for K-12 schools on deepfakes, which it says are becoming common in schools and can drive bullying, misinformation, privacy harms and loss of trust even when an incident starts off campus.
+
+According to the Forum, the materials describe video, text, image and audio deepfakes and their school-specific risks, such as fake calls impersonating teachers and non-consensual intimate imagery, and help school leaders plan staff training, apply existing policies, and decide when to involve lawyers and the police. A worked scenario about an explicit image circulating among students raises questions about investigation, limiting its spread and protecting students' privacy.
+
+
+===== FILE: news/IS_NEWS_2025-04-02-analysis-utah-narrows-its-ai-disclosure-rule-and-sets-the-first-rules-for-mental-health-chatbots.md · ID: IS-NEWS-2025-04-02-ANALYSIS-UTAH-NARROWS-ITS-AI-DISCLOSURE-RULE-AND-SETS-THE-FIRST-RULES-FOR-MENTAL-HEALTH-CHATBOTS =====
+
+```yaml
+id: IS-NEWS-2025-04-02-ANALYSIS-UTAH-NARROWS-ITS-AI-DISCLOSURE-RULE-AND-SETS-THE-FIRST-RULES-FOR-MENTAL-HEALTH-CHATBOTS
+slug: 2025-04-02-analysis-utah-narrows-its-ai-disclosure-rule-and-sets-the-first-rules-for-mental-health-chatbots
+title: Utah narrows its AI disclosure rule and sets the first rules for mental health chatbots
+collection: news
+doc_type: analysis-item
+date: 2025-04-02
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/chatbots-in-check-utahs-latest-ai-legislation/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage:
+related:
+kind: analysis
+commentator: Justine Gluck
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 27 Nov 2026; FPF AI listing page 10 (listed this run); read from the original; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Utah narrows its AI disclosure rule and sets the first rules for mental health chatbots
+
+*Justine Gluck, Future of Privacy Forum, 2025-04-02. Original: <https://fpf.org/blog/chatbots-in-check-utahs-latest-ai-legislation/>*
+
+Justine Gluck, for the Future of Privacy Forum, describes the generative AI bills Utah enacted in March 2025. She writes that SB 332 extends the state's 2024 Artificial Intelligence Policy Act to July 2027, and that SB 226 narrows its disclosure duty to cases where a consumer asks or where a "high-risk" interaction involves sensitive data and significant decisions, such as financial, legal or medical advice, with a safe harbour for clear disclosure.
+
+She explains that HB 452 regulates mental health chatbots: suppliers may not advertise during conversations without disclosing it or sell or share users' identifiable health information, and they gain an affirmative defence if they keep a documented policy covering licensed professionals' involvement, regular testing and safeguards against discriminatory treatment.
+
+
 ===== FILE: news/IS_NEWS_2025-04-16-analysis-a-fast-acting-writ-to-protect-freedom-of-thought-against-neurotechnological-interference.md · ID: IS-NEWS-2025-04-16-ANALYSIS-A-FAST-ACTING-WRIT-TO-PROTECT-FREEDOM-OF-THOUGHT-AGAINST-NEUROTECHNOLOGICAL-INTERFERENCE =====
 
 ```yaml
@@ -11713,6 +12117,43 @@ disclaimer: meta/IS_META_terms.md
 *MedTech Dive, 2025-04-01. Original: <https://www.medtechdive.com/news/precision-neuroscience-brain-implant-fda-cleared/745913>*
 
 Precision Neuroscience received U.S. Food and Drug Administration clearance for a brain implant, MedTech Dive reports. Other coverage describes the device as a minimally invasive brain-computer interface, and CNBC reported the clearance on 17 April 2025.
+
+
+===== FILE: news/IS_NEWS_2025-04-18-analysis-south-korea-s-ai-framework-act-tries-to-balance-promoting-ai-with-light-risk-based-rules.md · ID: IS-NEWS-2025-04-18-ANALYSIS-SOUTH-KOREA-S-AI-FRAMEWORK-ACT-TRIES-TO-BALANCE-PROMOTING-AI-WITH-LIGHT-RISK-BASED-RULES =====
+
+```yaml
+id: IS-NEWS-2025-04-18-ANALYSIS-SOUTH-KOREA-S-AI-FRAMEWORK-ACT-TRIES-TO-BALANCE-PROMOTING-AI-WITH-LIGHT-RISK-BASED-RULES
+slug: 2025-04-18-analysis-south-korea-s-ai-framework-act-tries-to-balance-promoting-ai-with-light-risk-based-rules
+title: South Korea's AI Framework Act tries to balance promoting AI with light, risk-based rules
+collection: news
+doc_type: analysis-item
+date: 2025-04-18
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/south-koreas-new-ai-framework-act-a-balancing-act-between-innovation-and-regulation/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: South Korea
+stage:
+related:
+kind: analysis
+commentator: Sakshi Shivhare and Kwang Bae Park
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 27 Nov 2026; FPF AI listing page 10 (listed this run); read from the original; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# South Korea's AI Framework Act tries to balance promoting AI with light, risk-based rules
+
+*Sakshi Shivhare and Kwang Bae Park, Future of Privacy Forum, 2025-04-18. Original: <https://fpf.org/blog/south-koreas-new-ai-framework-act-a-balancing-act-between-innovation-and-regulation/>*
+
+Sakshi Shivhare and Kwang Bae Park, for the Future of Privacy Forum, explain South Korea's AI Framework Act, passed in December 2024 and taking effect in January 2026. They write that it puts few duties on most AI providers but requires risk management and human oversight for "high-impact" AI in areas such as health, energy and public services, and requires generative AI to be disclosed and its output labelled.
+
+They describe its reach over foreign conduct that "indirectly" affects the Korean market as potentially broader than the EU AI Act's, and its fines, capped at about 21,000 US dollars, as light by global standards. They note its support for data centres, training data and small firms, and warn that it does not address the role of the country's data protection regulator, which could lead to overlapping oversight, while many thresholds await presidential decrees.
 
 
 ===== FILE: news/IS_NEWS_2025-04-23-former-u-s-army-intelligence-analyst-sentenced-for-selling.md · ID: IS-NEWS-2025-04-23-FORMER-U-S-ARMY-INTELLIGENCE-ANALYST-SENTENCED-FOR-SELLING =====
@@ -11787,6 +12228,43 @@ Three Democratic U.S. senators, including the Senate Democratic leader and the r
 The senators cite a 2024 review finding that most neurotechnology companies collect brain data with few limits, and asked the FTC to respond within 30 days.
 
 
+===== FILE: news/IS_NEWS_2025-04-29-analysis-an-updated-guide-to-conformity-assessments-for-high-risk-ai-under-the-adopted-eu-ai-act.md · ID: IS-NEWS-2025-04-29-ANALYSIS-AN-UPDATED-GUIDE-TO-CONFORMITY-ASSESSMENTS-FOR-HIGH-RISK-AI-UNDER-THE-ADOPTED-EU-AI-ACT =====
+
+```yaml
+id: IS-NEWS-2025-04-29-ANALYSIS-AN-UPDATED-GUIDE-TO-CONFORMITY-ASSESSMENTS-FOR-HIGH-RISK-AI-UNDER-THE-ADOPTED-EU-AI-ACT
+slug: 2025-04-29-analysis-an-updated-guide-to-conformity-assessments-for-high-risk-ai-under-the-adopted-eu-ai-act
+title: An updated guide to conformity assessments for high-risk AI under the adopted EU AI Act
+collection: news
+doc_type: analysis-item
+date: 2025-04-29
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/fpf-and-onetrust-launch-updated-conformity-assessment-under-the-eu-ai-act-guide-and-infographic/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: European Union
+stage:
+related:
+kind: analysis
+commentator: Andreea Șerban, Katerina Demetzou and Vasileios Rovilos
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 27 Nov 2026; FPF AI listing page 10 (listed this run); read from the original (the guide itself not read); title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# An updated guide to conformity assessments for high-risk AI under the adopted EU AI Act
+
+*Andreea Șerban, Katerina Demetzou and Vasileios Rovilos, Future of Privacy Forum, 2025-04-29. Original: <https://fpf.org/blog/fpf-and-onetrust-launch-updated-conformity-assessment-under-the-eu-ai-act-guide-and-infographic/>*
+
+Andreea Șerban, Katerina Demetzou and Vasileios Rovilos, for the Future of Privacy Forum, present an updated guide and infographic, produced with a compliance-software company, on conformity assessments under the EU AI Act as adopted in 2024, replacing a version based on the proposal. They note that the full high-risk obligations, including these assessments, apply from 2 August 2026.
+
+They describe a new flowchart for deciding whether an assessment is needed and who is responsible, and present the assessment as a mix of technical and non-technical checks and documentation, including risk identification, automatic event logging, human oversight and transparency. They write that harmonised standards can ease the process and that the assessment is not a one-off exercise, since providers must keep monitoring systems throughout their lifecycle.
+
+
 ===== FILE: news/IS_NEWS_2025-04-30-analysis-deregulating-privacy-and-ai-is-the-wrong-answer-because-regulation-does-not-stifle-innovation.md · ID: IS-NEWS-2025-04-30-ANALYSIS-DEREGULATING-PRIVACY-AND-AI-IS-THE-WRONG-ANSWER-BECAUSE-REGULATION-DOES-NOT-STIFLE-INNOVATION =====
 
 ```yaml
@@ -11822,6 +12300,43 @@ disclaimer: meta/IS_META_terms.md
 Daniel J. Solove argues that moves in the U.S. and the EU to loosen privacy and AI rules, including EU talk of simplifying the GDPR, head in the wrong direction. He notes that AI company leaders welcomed regulation in 2023 and reversed course when the politics shifted, and he rejects the claim that regulation stifles innovation, crediting U.S. success mainly to publicly funded universities and research and citing the view that Europe's shortage of large tech firms owes more to funding and bankruptcy law than to regulation.
 
 He urges the EU to keep and strengthen its rules, observing that GDPR ideas have spread into U.S. state laws, and argues that calls to free technology from law mainly serve powerful companies.
+
+
+===== FILE: news/IS_NEWS_2025-05-09-analysis-how-six-asia-pacific-countries-have-updated-consent-rules-for-personal-data-as-ai-reshapes-lawmaking.md · ID: IS-NEWS-2025-05-09-ANALYSIS-HOW-SIX-ASIA-PACIFIC-COUNTRIES-HAVE-UPDATED-CONSENT-RULES-FOR-PERSONAL-DATA-AS-AI-RESHAPES-LAWMAKING =====
+
+```yaml
+id: IS-NEWS-2025-05-09-ANALYSIS-HOW-SIX-ASIA-PACIFIC-COUNTRIES-HAVE-UPDATED-CONSENT-RULES-FOR-PERSONAL-DATA-AS-AI-RESHAPES-LAWMAKING
+slug: 2025-05-09-analysis-how-six-asia-pacific-countries-have-updated-consent-rules-for-personal-data-as-ai-reshapes-lawmaking
+title: How six Asia-Pacific countries have updated consent rules for personal data as AI reshapes lawmaking
+collection: news
+doc_type: analysis-item
+date: 2025-05-09
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/consent-for-processing-personal-data-in-the-age-of-ai-key-updates-across-asia-pacific/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage:
+related:
+kind: analysis
+commentator: Sakshi Shivhare
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 27 Nov 2026; FPF AI listing page 10 (listed this run); read from the original; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# How six Asia-Pacific countries have updated consent rules for personal data as AI reshapes lawmaking
+
+*Sakshi Shivhare, Future of Privacy Forum, 2025-05-09. Original: <https://fpf.org/blog/consent-for-processing-personal-data-in-the-age-of-ai-key-updates-across-asia-pacific/>*
+
+Sakshi Shivhare, for the Future of Privacy Forum, updates a 2022 regional review of consent as a legal basis for processing personal data, looking at India, Vietnam, Indonesia, the Philippines, South Korea and Malaysia. She writes that consent remains the most widely used basis across the region, largely because it is familiar, despite its known limits.
+
+She describes India's 2023 law keeping consent as the main basis, Vietnam and Indonesia formally recognising other grounds such as contract and legitimate interest, the Philippines' guidance on layered consent to reduce consent fatigue, and Malaysia's 2024 amendments, which strengthen enforcement without changing the bases. She notes that South Korea has added grounds especially relevant to AI and is considering a 2025 bill to widen processing without consent for AI, and argues that AI is shaping how the region's laws treat lawful grounds for processing.
 
 
 ===== FILE: news/IS_NEWS_2025-05-13-oracle-commits-to-invest-14bn-in-saudi-arabia.md · ID: IS-NEWS-2025-05-13-ORACLE-COMMITS-TO-INVEST-14BN-IN-SAUDI-ARABIA =====
@@ -12035,6 +12550,43 @@ disclaimer: meta/IS_META_terms.md
 Defense technology company Anduril raised new funding at a $30.5 billion valuation in a round led by Founders Fund, CNBC reports, citing the company's chairman. Other coverage of the round, including TechCrunch, puts the amount raised at $2.5 billion.
 
 
+===== FILE: news/IS_NEWS_2025-06-06-analysis-brazil-s-data-protection-authority-s-preliminary-study-on-generative-ai-weighs-rights-against-innovation.md · ID: IS-NEWS-2025-06-06-ANALYSIS-BRAZIL-S-DATA-PROTECTION-AUTHORITY-S-PRELIMINARY-STUDY-ON-GENERATIVE-AI-WEIGHS-RIGHTS-AGAINST-INNOVATION =====
+
+```yaml
+id: IS-NEWS-2025-06-06-ANALYSIS-BRAZIL-S-DATA-PROTECTION-AUTHORITY-S-PRELIMINARY-STUDY-ON-GENERATIVE-AI-WEIGHS-RIGHTS-AGAINST-INNOVATION
+slug: 2025-06-06-analysis-brazil-s-data-protection-authority-s-preliminary-study-on-generative-ai-weighs-rights-against-innovation
+title: Brazil's data protection authority's preliminary study on generative AI weighs rights against innovation
+collection: news
+doc_type: analysis-item
+date: 2025-06-06
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/brazils-anpd-preliminary-study-on-generative-ai-highlights-the-dual-nature-of-data-protection-law-balancing-rights-with-technological-innovation/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: Brazil
+stage:
+related:
+kind: analysis
+commentator: Maria Badillo
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 27 Nov 2026; FPF AI listing page 9 (listed this run); read from the original; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Brazil's data protection authority's preliminary study on generative AI weighs rights against innovation
+
+*Maria Badillo, Future of Privacy Forum, 2025-06-06. Original: <https://fpf.org/blog/brazils-anpd-preliminary-study-on-generative-ai-highlights-the-dual-nature-of-data-protection-law-balancing-rights-with-technological-innovation/>*
+
+Maria Badillo, for the Future of Privacy Forum, reviews a preliminary study on generative AI published in November 2024 by the technology unit of Brazil's data protection authority. She writes that the study is not formal guidance but offers insight into how the authority may interpret Brazil's data protection law, which it reads as balancing fundamental rights with technological development.
+
+She says the study flags web scraping as a key concern, since scraped public personal data, including sensitive and children's data, can fall under the law and people may lose control of it even after asking for deletion. It also points to unclear responsibility for prompts, shared outputs and models that may contain personal data, and to harms from false outputs. She notes that applying the necessity principle to general-purpose models remains an open problem and that the study calls for more research.
+
+
 ===== FILE: news/IS_NEWS_2025-06-09-analysis-tests-in-which-ai-models-resisted-shutdown-and-a-proposed-ten-year-pause-on-state-ai-laws.md · ID: IS-NEWS-2025-06-09-ANALYSIS-TESTS-IN-WHICH-AI-MODELS-RESISTED-SHUTDOWN-AND-A-PROPOSED-TEN-YEAR-PAUSE-ON-STATE-AI-LAWS =====
 
 ```yaml
@@ -12106,6 +12658,43 @@ disclaimer: meta/IS_META_terms.md
 A former U.S. Army sergeant who served in a military intelligence battalion at Joint Base Lewis-McChord pleaded guilty to attempting to deliver national defense information and retaining national defense information, the U.S. Attorney's Office for the Western District of Washington announced on 18 June 2025. According to prosecutors, after leaving the Army he contacted Chinese officials offering defense information, prepared documents describing classified information, and kept a device that could access secure military networks.
 
 He lived in China until October 2023, when he was arrested on arrival in San Francisco. Sentencing was set for 9 September 2025.
+
+
+===== FILE: news/IS_NEWS_2025-06-30-analysis-connecticut-s-privacy-law-overhaul-adds-rights-over-automated-decisions-impact-assessments-and-a-disclosure-on.md · ID: IS-NEWS-2025-06-30-ANALYSIS-CONNECTICUT-S-PRIVACY-LAW-OVERHAUL-ADDS-RIGHTS-OVER-AUTOMATED-DECISIONS-IMPACT-ASSESSMENTS-AND-A-DISCLOSURE-ON =====
+
+```yaml
+id: IS-NEWS-2025-06-30-ANALYSIS-CONNECTICUT-S-PRIVACY-LAW-OVERHAUL-ADDS-RIGHTS-OVER-AUTOMATED-DECISIONS-IMPACT-ASSESSMENTS-AND-A-DISCLOSURE-ON
+slug: 2025-06-30-analysis-connecticut-s-privacy-law-overhaul-adds-rights-over-automated-decisions-impact-assessments-and-a-disclosure-on
+title: Connecticut's privacy law overhaul adds rights over automated decisions, impact assessments and a disclosure on training language models
+collection: news
+doc_type: analysis-item
+date: 2025-06-30
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/the-connecticut-data-privacy-act-gets-an-overhaul-again/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage:
+related:
+kind: analysis
+commentator: Jordan Francis and Gia Kim
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 27 Nov 2026; FPF AI listing page 9 (listed this run); read from the original; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Connecticut's privacy law overhaul adds rights over automated decisions, impact assessments and a disclosure on training language models
+
+*Jordan Francis and Gia Kim, Future of Privacy Forum, 2025-06-30. Original: <https://fpf.org/blog/the-connecticut-data-privacy-act-gets-an-overhaul-again/>*
+
+Jordan Francis and Gia Kim, for the Future of Privacy Forum, describe the 2025 amendments to Connecticut's Data Privacy Act, most taking effect on 1 July 2026. They write that businesses must now disclose whether they collect, use or sell personal data to train large language models, and that the right to opt out of profiling now covers any automated decision with legal or similarly significant effects, not only fully automated ones.
+
+They explain that consumers gain a limited right to contest some profiling decisions, that impact assessments become mandatory for profiling used in significant decisions from August 2026, and that access rights now include inferences. The law also lowers its applicability threshold to 35,000 consumers, reaches businesses handling sensitive data, and bans targeted advertising to and data sales about minors.
 
 
 ===== FILE: news/IS_NEWS_2025-06-30-analysis-existing-rights-to-freedom-of-thought-and-mental-integrity-should-be-strengthened-for.md · ID: IS-NEWS-2025-06-30-ANALYSIS-EXISTING-RIGHTS-TO-FREEDOM-OF-THOUGHT-AND-MENTAL-INTEGRITY-SHOULD-BE-STRENGTHENED-FOR =====
@@ -12290,6 +12879,117 @@ Australia's Department of Defence committed $495 million to Microsoft Azure for 
 It replaces a three-year, $107 million arrangement that expired on 30 June 2025 and was bought through the reseller Data#3. iTnews notes Defence has separately committed more than $2 billion to Amazon Web Services for classified cloud for the Australian Signals Directorate.
 
 
+===== FILE: news/IS_NEWS_2025-07-05-analysis-japan-s-ai-promotion-act-takes-an-innovation-first-approach-with-no-risk-tiers-and-no-penalties.md · ID: IS-NEWS-2025-07-05-ANALYSIS-JAPAN-S-AI-PROMOTION-ACT-TAKES-AN-INNOVATION-FIRST-APPROACH-WITH-NO-RISK-TIERS-AND-NO-PENALTIES =====
+
+```yaml
+id: IS-NEWS-2025-07-05-ANALYSIS-JAPAN-S-AI-PROMOTION-ACT-TAKES-AN-INNOVATION-FIRST-APPROACH-WITH-NO-RISK-TIERS-AND-NO-PENALTIES
+slug: 2025-07-05-analysis-japan-s-ai-promotion-act-takes-an-innovation-first-approach-with-no-risk-tiers-and-no-penalties
+title: Japan's AI Promotion Act takes an innovation-first approach with no risk tiers and no penalties
+collection: news
+doc_type: analysis-item
+date: 2025-07-05
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/understanding-japans-ai-promotion-act-an-innovation-first-blueprint-for-ai-regulation/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: Japan
+stage:
+related:
+kind: analysis
+commentator: Dominic Paulger
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 27 Nov 2026; FPF AI listing page 9 (listed this run); read from the original; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Japan's AI Promotion Act takes an innovation-first approach with no risk tiers and no penalties
+
+*Dominic Paulger, Future of Privacy Forum, 2025-07-05. Original: <https://fpf.org/blog/understanding-japans-ai-promotion-act-an-innovation-first-blueprint-for-ai-regulation/>*
+
+Dominic Paulger, for the Future of Privacy Forum, explains Japan's AI Promotion Act, approved in May 2025, which aims to make Japan the most AI-friendly country. He writes that it sets five broad principles and a Cabinet-level AI strategy headquarters to draw up a national Basic AI Plan, and that its only duty on businesses is a non-binding effort to cooperate with government measures, with no explicit penalties, though publicly naming serious infringers could deter.
+
+He compares it with the EU AI Act's precautionary, risk-based model with heavy fines and South Korea's middle path, and argues that Japan's is the lightest of the three. He expects little compliance burden in the near term but says the Basic AI Plan could add more, warns that diverging models may invite regulatory arbitrage, and notes that data protection law still applies to AI processing personal data.
+
+
+===== FILE: news/IS_NEWS_2025-07-06-analysis-a-trained-language-model-generally-does-not-hold-personal-data-the-way-a-database-does-a-guest-essay-argues.md · ID: IS-NEWS-2025-07-06-ANALYSIS-A-TRAINED-LANGUAGE-MODEL-GENERALLY-DOES-NOT-HOLD-PERSONAL-DATA-THE-WAY-A-DATABASE-DOES-A-GUEST-ESSAY-ARGUES =====
+
+```yaml
+id: IS-NEWS-2025-07-06-ANALYSIS-A-TRAINED-LANGUAGE-MODEL-GENERALLY-DOES-NOT-HOLD-PERSONAL-DATA-THE-WAY-A-DATABASE-DOES-A-GUEST-ESSAY-ARGUES
+slug: 2025-07-06-analysis-a-trained-language-model-generally-does-not-hold-personal-data-the-way-a-database-does-a-guest-essay-argues
+title: A trained language model generally does not hold personal data the way a database does, a guest essay argues
+collection: news
+doc_type: analysis-item
+date: 2025-07-06
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/nature-of-data-in-pre-trained-large-language-models/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: 
+stage:
+related:
+kind: analysis
+commentator: Yeong Zee Kin
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 27 Nov 2026; FPF AI listing page 9 (listed this run); guest post, the author's own views; read from the original; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# A trained language model generally does not hold personal data the way a database does, a guest essay argues
+
+*Yeong Zee Kin, Future of Privacy Forum, 2025-07-06. Original: <https://fpf.org/blog/nature-of-data-in-pre-trained-large-language-models/>*
+
+Yeong Zee Kin, chief executive of the Singapore Academy of Law, writing as a guest for the Future of Privacy Forum, explains how large language models turn text into tokens and numerical patterns. He argues that because a trained model keeps learned probabilities rather than the links between data points that describe an identifiable person, it generally does not hold personal data as a database does, although processing personal data during training still needs a legal basis.
+
+He writes that models can still reproduce frequently repeated information, such as details about well-known people, often inaccurately, and that this risk must be managed. He suggests minimising and pseudonymising training data, differential privacy and research into machine unlearning, keeping personal data out of prompts, using trusted retrieval sources and filters, and checking any output about a person before use.
+
+
+===== FILE: news/IS_NEWS_2025-07-06-analysis-malaysia-s-updated-data-protection-law-and-voluntary-ai-ethics-guidelines-explained.md · ID: IS-NEWS-2025-07-06-ANALYSIS-MALAYSIA-S-UPDATED-DATA-PROTECTION-LAW-AND-VOLUNTARY-AI-ETHICS-GUIDELINES-EXPLAINED =====
+
+```yaml
+id: IS-NEWS-2025-07-06-ANALYSIS-MALAYSIA-S-UPDATED-DATA-PROTECTION-LAW-AND-VOLUNTARY-AI-ETHICS-GUIDELINES-EXPLAINED
+slug: 2025-07-06-analysis-malaysia-s-updated-data-protection-law-and-voluntary-ai-ethics-guidelines-explained
+title: Malaysia's updated data protection law and voluntary AI ethics guidelines, explained
+collection: news
+doc_type: analysis-item
+date: 2025-07-06
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/malaysia-charts-its-digital-course-a-guide-to-the-new-frameworks-for-data-protection-and-ai-ethics/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: Malaysia
+stage:
+related:
+kind: analysis
+commentator: Sakshi Shivhare
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 27 Nov 2026; FPF AI listing page 9 (listed this run); read from the original; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Malaysia's updated data protection law and voluntary AI ethics guidelines, explained
+
+*Sakshi Shivhare, Future of Privacy Forum, 2025-07-06. Original: <https://fpf.org/blog/malaysia-charts-its-digital-course-a-guide-to-the-new-frameworks-for-data-protection-and-ai-ethics/>*
+
+Sakshi Shivhare, for the Future of Privacy Forum, describes Malaysia's 2024 amendments to its data protection law, phased in through June 2025, which add data protection officers, breach notification, direct security duties for processors, data portability and a new cross-border transfer regime, and raise the maximum fine. She notes consultations suggesting rules on impact assessments, privacy by design and automated decisions may follow.
+
+She explains that the country's September 2024 AI governance and ethics guidelines are voluntary, set seven principles benchmarked against international frameworks, encourage rights to explanation, objection and human intervention, and hint at future rules such as explicit consent for using personal data to train AI. She argues that strong data protection underpins trustworthy AI, but that the transfer regime could be abused without stronger enforcement.
+
+
 ===== FILE: news/IS_NEWS_2025-07-07-analysis-eu-policy-has-to-catch-up-with-a-fast-growing-consumer-neurotechnology-market.md · ID: IS-NEWS-2025-07-07-ANALYSIS-EU-POLICY-HAS-TO-CATCH-UP-WITH-A-FAST-GROWING-CONSUMER-NEUROTECHNOLOGY-MARKET =====
 
 ```yaml
@@ -12325,6 +13025,80 @@ disclaimer: meta/IS_META_terms.md
 Virginia Mahieu, who directs the neurotechnology programme at the Center for Future Generations, reports from her organisation's analysis of nearly 300 companies that consumer firms now make up about 60 per cent of the field, while EEG headbands, earbuds and glasses face far lighter oversight than medical devices and no EU law names brain data explicitly. She describes a demonstration in which a general-purpose AI language model read mental states and shifts of attention from a simple graph of consumer headband data.
 
 She urges the EU to stress-test its rules, consider a framework for biometric wellness devices and set brain-specific rules, arguing that mental privacy is a fundamental right.
+
+
+===== FILE: news/IS_NEWS_2025-07-10-analysis-five-privacy-questions-for-technology-that-supports-older-adults-and-caregivers-including-how-it-uses-ai.md · ID: IS-NEWS-2025-07-10-ANALYSIS-FIVE-PRIVACY-QUESTIONS-FOR-TECHNOLOGY-THAT-SUPPORTS-OLDER-ADULTS-AND-CAREGIVERS-INCLUDING-HOW-IT-USES-AI =====
+
+```yaml
+id: IS-NEWS-2025-07-10-ANALYSIS-FIVE-PRIVACY-QUESTIONS-FOR-TECHNOLOGY-THAT-SUPPORTS-OLDER-ADULTS-AND-CAREGIVERS-INCLUDING-HOW-IT-USES-AI
+slug: 2025-07-10-analysis-five-privacy-questions-for-technology-that-supports-older-adults-and-caregivers-including-how-it-uses-ai
+title: Five privacy questions for technology that supports older adults and caregivers, including how it uses AI
+collection: news
+doc_type: analysis-item
+date: 2025-07-10
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/tech-to-support-older-adults-and-caregivers-five-privacy-questions-for-age-tech/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage:
+related:
+kind: analysis
+commentator: Jordan Wrigley
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 27 Nov 2026; FPF AI listing page 9 (listed this run); read from the original; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Five privacy questions for technology that supports older adults and caregivers, including how it uses AI
+
+*Jordan Wrigley, Future of Privacy Forum, 2025-07-10. Original: <https://fpf.org/blog/tech-to-support-older-adults-and-caregivers-five-privacy-questions-for-age-tech/>*
+
+Jordan Wrigley, for the Future of Privacy Forum, examines technology for older adults and their caregivers, much of which falls outside federal health privacy law and is covered only by inconsistent state laws. Wrigley argues that consent alone is not enough and that rules should depend on a product's function, the sensitivity of its data and its risk.
+
+The post calls for flexible access controls that reflect shared and changing caregiving roles, plain-language privacy information older adults can revisit, and design that keeps the older person as the main decision-maker. It says AI is central to how these products work and are marketed but its use is often poorly disclosed, and argues that products should state whether data trains models or drives automated decisions and offer opt-outs, especially for voice, movement and mood data.
+
+
+===== FILE: news/IS_NEWS_2025-07-14-analysis-how-companies-use-data-and-algorithms-to-set-prices-and-the-policy-questions-it-raises.md · ID: IS-NEWS-2025-07-14-ANALYSIS-HOW-COMPANIES-USE-DATA-AND-ALGORITHMS-TO-SET-PRICES-AND-THE-POLICY-QUESTIONS-IT-RAISES =====
+
+```yaml
+id: IS-NEWS-2025-07-14-ANALYSIS-HOW-COMPANIES-USE-DATA-AND-ALGORITHMS-TO-SET-PRICES-AND-THE-POLICY-QUESTIONS-IT-RAISES
+slug: 2025-07-14-analysis-how-companies-use-data-and-algorithms-to-set-prices-and-the-policy-questions-it-raises
+title: How companies use data and algorithms to set prices, and the policy questions it raises
+collection: news
+doc_type: analysis-item
+date: 2025-07-14
+date_precision: day
+publisher: Future of Privacy Forum
+source_type: Analysis
+issuing_office:
+url: https://fpf.org/blog/data-driven-pricing-key-technologies-business-practices-and-policy-implications/
+archived_url:
+industry: Artificial intelligence
+event: Regulation & law
+country: United States
+stage:
+related:
+kind: analysis
+commentator: Jameson Spivack
+summary_status: draft
+found_via: thought-leader analysis backfill (decision 0031), 27 Nov 2026; FPF AI listing page 9 (listed this run; the page lists the post twice, the other address https://fpf.org/blog/data-driven-pricing-key-technologies-business-practices-and-policy/ is a duplicate); read from the original; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# How companies use data and algorithms to set prices, and the policy questions it raises
+
+*Jameson Spivack, Future of Privacy Forum, 2025-07-14. Original: <https://fpf.org/blog/data-driven-pricing-key-technologies-business-practices-and-policy-implications/>*
+
+Jameson Spivack, for the Future of Privacy Forum, describes data-driven pricing, the use of personal and other data to shape prices and products, which US state lawmakers have begun to regulate after the Federal Trade Commission's early-2025 findings on "surveillance pricing". He sets out four strategies: loyalty programmes, dynamic pricing, consumer segmentation or profiling, and search and product ranking.
+
+He writes that more personalised pricing can benefit both sides but, without safeguards, can become invasive or discriminatory, for example if health data is used to raise the price of necessities. He notes that many of these tools rely on algorithms that may fall under AI rules, so firms should include them in their AI governance, and that a New York law from July 2025 requires notice when personal data is used in algorithmic pricing without saying which data or how. He also raises consumer control, price-gouging limits, data sharing and the risk of collusion when firms use the same algorithm.
 
 
 ===== FILE: news/IS_NEWS_2025-07-15-analysis-a-podcast-episode-on-weak-u-s-ai-safeguards-and-why-transparency-should-come-first.md · ID: IS-NEWS-2025-07-15-ANALYSIS-A-PODCAST-EPISODE-ON-WEAK-U-S-AI-SAFEGUARDS-AND-WHY-TRANSPARENCY-SHOULD-COME-FIRST =====
@@ -38744,6 +39518,42 @@ DHS listed five people ICE arrested on 23 November 2026: three from Mexico and o
 The descriptions are DHS's own; anyone facing a new charge is presumed innocent unless proven guilty in court.
 
 
+===== FILE: news/IS_NEWS_2026-11-24-fbi-chinese-tech-giant-huawei-and-subsidiaries-convicted-of-sanctions-violations-fraud-conspiracy.md · ID: IS-NEWS-2026-11-24-FBI-CHINESE-TECH-GIANT-HUAWEI-AND-SUBSIDIARIES-CONVICTED-OF-SANCTIONS-VIOLATIONS-FRAUD-CONSPIRACY =====
+
+```yaml
+id: IS-NEWS-2026-11-24-FBI-CHINESE-TECH-GIANT-HUAWEI-AND-SUBSIDIARIES-CONVICTED-OF-SANCTIONS-VIOLATIONS-FRAUD-CONSPIRACY
+slug: 2026-11-24-fbi-chinese-tech-giant-huawei-and-subsidiaries-convicted-of-sanctions-violations-fraud-conspiracy
+title: FBI release: Chinese Tech Giant Huawei and Subsidiaries Convicted of Sanctions Violations, Fraud, Conspiracy to Steal Trade Secrets, and Money Laundering
+collection: news
+doc_type: news-item
+kind: official
+date: 2026-11-24
+date_precision: day
+publisher: Federal Bureau of Investigation
+source_type: Official
+issuing_office: 
+url: https://www.fbi.gov/news/press-releases/chinese-tech-giant-huawei-and-subsidiaries-convicted-of-sanctions-violations-fraud-conspiracy-to-steal-trade-secrets-and-money-laundering
+archived_url: 
+industry: 
+event: Technology theft & export control
+country: United States
+stage: convicted
+related: 
+summary_status: draft
+found_via: Sean's inbox, FBI email of 25 Nov 2026 (decision 0052); title is the department's own, quoted; fbi.gov refused automated access (HTTP 403), so the summary rests on the FBI email and the Justice Department's release of the same headline (https://www.justice.gov/opa/pr/chinese-tech-giant-huawei-and-subsidiaries-convicted-sanctions-violations-fraud-conspiracy), which the archive also carries as a News item
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked release belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# FBI release: Chinese Tech Giant Huawei and Subsidiaries Convicted of Sanctions Violations, Fraud, Conspiracy to Steal Trade Secrets, and Money Laundering
+
+*Federal Bureau of Investigation, 2026-11-24. Original: <https://www.fbi.gov/news/press-releases/chinese-tech-giant-huawei-and-subsidiaries-convicted-of-sanctions-violations-fraud-conspiracy-to-steal-trade-secrets-and-money-laundering>*
+
+The FBI, relaying a Justice Department announcement, said a federal jury in the Eastern District of New York returned guilty verdicts after a three-month trial against a Chinese technology company and three of its subsidiaries. According to the release, the convictions cover conspiracy to steal trade secrets from American companies, wire and bank fraud and conspiracy to commit them, conspiracy to defraud the United States, violations of US sanctions involving Iran, and money-laundering conspiracy.
+
+The Justice Department said sentencing is set for 14 September 2027, when the court will decide on fines, forfeiture and restitution. The verdicts can still be appealed, and the account of the case is the department's own.
+
+
 ===== FILE: news/IS_NEWS_2026-11-24-former-ai-company-engineer-charged-over-a-hidden-audio-recorder-at-its-offices-is-granted-release-on-a-1-milli.md · ID: IS-NEWS-2026-11-24-FORMER-AI-COMPANY-ENGINEER-CHARGED-OVER-A-HIDDEN-AUDIO-RECORDER-AT-ITS-OFFICES-IS-GRANTED-RELEASE-ON-A-1-MILLI =====
 
 ```yaml
@@ -39352,6 +40162,80 @@ Biometric Update reports that the FBI issued a request for information on 5 Nove
 The outlet says the planned AI layer includes identifier extraction, multilingual transcription, speaker separation, image analysis and facial recognition 'where legally authorized and operationally required'. The plan is at the market-research stage with no award, and implementation would run from fiscal 2027 to 2030, the report says.
 
 
+===== FILE: news/IS_NEWS_2026-11-25-german-pilot-study-finds-technology-based-abuse-in-half-of-counselling-cases-at-womens-shelters-including-devi.md · ID: IS-NEWS-2026-11-25-GERMAN-PILOT-STUDY-FINDS-TECHNOLOGY-BASED-ABUSE-IN-HALF-OF-COUNSELLING-CASES-AT-WOMENS-SHELTERS-INCLUDING-DEVI =====
+
+```yaml
+id: IS-NEWS-2026-11-25-GERMAN-PILOT-STUDY-FINDS-TECHNOLOGY-BASED-ABUSE-IN-HALF-OF-COUNSELLING-CASES-AT-WOMENS-SHELTERS-INCLUDING-DEVI
+slug: 2026-11-25-german-pilot-study-finds-technology-based-abuse-in-half-of-counselling-cases-at-womens-shelters-including-devi
+title: German pilot study finds technology-based abuse in half of counselling cases at women’s shelters, including device access, stalking apps and trackers
+title_original: Digitale Gewalt: Die Hälfte aller gewalttätigen Partner greift auch mit Technik an
+title_language: German
+collection: news
+doc_type: news-item
+date: 2026-11-25
+date_precision: day
+publisher: netzpolitik.org
+source_type: Trade press
+issuing_office: 
+url: https://netzpolitik.org/2026/digitale-gewalt-die-haelfte-aller-gewalttaetigen-partner-greift-auch-mit-technik-an/
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Reports & statistics
+country: Germany
+stage: 
+related: 
+summary_status: draft
+found_via: German-language search (harassment and surveillance), 27 Nov 2026; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# German pilot study finds technology-based abuse in half of counselling cases at women’s shelters, including device access, stalking apps and trackers
+
+*netzpolitik.org, 2026-11-25. Original, in German: <https://netzpolitik.org/2026/digitale-gewalt-die-haelfte-aller-gewalttaetigen-partner-greift-auch-mit-technik-an/>. Title translated from the German.*
+
+netzpolitik.org reports that the initiative "Ein Team gegen digitale Gewalt" surveyed 175 staff at women's shelters and counselling centres in Germany, who said that 51 per cent of counselling cases also involved technology-based abuse by a partner. According to the report, access to a victim's devices or accounts appeared in 90 per cent of those cases, including messaging apps mirrored to the abuser's computer in about a quarter, and location tracking in more than one in five, mostly through tags, stalking apps and vehicle trackers.
+
+The authors warn that tracking could expose the locations of secret shelters, say the real figures are probably higher, and call for technical help desks linked to victim-protection services, the report says. (Summary translated from the German.)
+
+
+===== FILE: news/IS_NEWS_2026-11-25-german-state-police-choose-a-domestic-software-vendor-to-replace-a-us-platform-for-analysis-across-police-data.md · ID: IS-NEWS-2026-11-25-GERMAN-STATE-POLICE-CHOOSE-A-DOMESTIC-SOFTWARE-VENDOR-TO-REPLACE-A-US-PLATFORM-FOR-ANALYSIS-ACROSS-POLICE-DATA =====
+
+```yaml
+id: IS-NEWS-2026-11-25-GERMAN-STATE-POLICE-CHOOSE-A-DOMESTIC-SOFTWARE-VENDOR-TO-REPLACE-A-US-PLATFORM-FOR-ANALYSIS-ACROSS-POLICE-DATA
+slug: 2026-11-25-german-state-police-choose-a-domestic-software-vendor-to-replace-a-us-platform-for-analysis-across-police-data
+title: German state police choose a domestic software vendor to replace a US platform for analysis across police databases
+title_original: Celonis statt Palantir: NRW-Polizei setzt auf deutsche Software
+title_language: German
+collection: news
+doc_type: news-item
+date: 2026-11-25
+date_precision: day
+publisher: heise online
+source_type: Trade press
+issuing_office: 
+url: https://www.heise.de/news/Celonis-statt-Palantir-NRW-Polizei-setzt-auf-deutsche-Software-11537601.html
+archived_url: 
+industry: Government cloud & surveillance technology · Artificial intelligence
+event: Contracts & deployments
+country: Germany
+stage: 
+related: 
+summary_status: draft
+found_via: English- and German-language search (government cloud), 27 Nov 2026; English coverage the same day by Anadolu Agency (Turkish state media) was not used; title in our own words, leaving out the companies’ names
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# German state police choose a domestic software vendor to replace a US platform for analysis across police databases
+
+*heise online, 2026-11-25. Original, in German: <https://www.heise.de/news/Celonis-statt-Palantir-NRW-Polizei-setzt-auf-deutsche-Software-11537601.html>. Title translated from the German.*
+
+heise online reports that the interior ministry of North Rhine-Westphalia said its Europe-wide tender is concluded and that a Munich-based company will supply software for the state police to combine and search data across databases, replacing the US-made system now in use, whose contract runs to October 2027 to allow a transition. According to the report, the ministry gave a maximum term of seven years but no value; Handelsblatt reported about 15 million euros.
+
+The report notes that a civil-liberties group's constitutional complaint against the use of the US platform by Bavaria's police is still pending. (Summary translated from the German.)
+
+
 ===== FILE: news/IS_NEWS_2026-11-25-house-democrats-demand-records-from-twelve-vendors-of-dhs-surveillance-technology.md · ID: IS-NEWS-2026-11-25-HOUSE-DEMOCRATS-DEMAND-RECORDS-FROM-TWELVE-VENDORS-OF-DHS-SURVEILLANCE-TECHNOLOGY =====
 
 ```yaml
@@ -39566,6 +40450,41 @@ Biometric Update reports that federal spending records show the IRS's Criminal I
 It also cites records obtained by a watchdog group showing IRS agents and analysts assigned to an FBI-led joint centre, and a memo reported by The New York Times saying IRS staff there used facial-recognition and tattoo databases in investigations connected to immigration protests. The article says the records do not establish that this tool was the one used; no IRS comment is reported.
 
 
+===== FILE: news/IS_NEWS_2026-11-25-us-treasurys-financial-intelligence-unit-takes-systems-offline-after-unauthorised-access-as-reports-say-a-cia.md · ID: IS-NEWS-2026-11-25-US-TREASURYS-FINANCIAL-INTELLIGENCE-UNIT-TAKES-SYSTEMS-OFFLINE-AFTER-UNAUTHORISED-ACCESS-AS-REPORTS-SAY-A-CIA =====
+
+```yaml
+id: IS-NEWS-2026-11-25-US-TREASURYS-FINANCIAL-INTELLIGENCE-UNIT-TAKES-SYSTEMS-OFFLINE-AFTER-UNAUTHORISED-ACCESS-AS-REPORTS-SAY-A-CIA
+slug: 2026-11-25-us-treasurys-financial-intelligence-unit-takes-systems-offline-after-unauthorised-access-as-reports-say-a-cia
+title: US Treasury’s financial-intelligence unit takes systems offline after unauthorised access, as reports say a CIA open-source analysis system was also breached
+collection: news
+doc_type: news-item
+date: 2026-11-25
+date_precision: day
+publisher: The Record
+source_type: Trade press
+issuing_office: 
+url: https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Outages & disruptions
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: English-language search (outages and government systems), 27 Nov 2026; the CIA report is France 24 (AP and AFP) of 25 Nov 2026, citing The New York Times; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# US Treasury’s financial-intelligence unit takes systems offline after unauthorised access, as reports say a CIA open-source analysis system was also breached
+
+*The Record, 2026-11-25. Original: <https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident>*
+
+The Record reports that the US Treasury's Financial Crimes Enforcement Network (FinCEN) said it is "investigating a cybersecurity incident" involving unauthorised access to "a limited subset of its systems", took some systems offline as a precaution and extended filing deadlines. A FinCEN spokesperson said the FBI and the Cybersecurity and Infrastructure Security Agency are investigating, and the report says there is no evidence so far that its Bank Secrecy Act or beneficial-ownership databases were breached.
+
+Separately, France 24, citing The New York Times and US officials, reported on 25 November that an unclassified open-source intelligence analysis system used by the CIA and the Office of the Director of National Intelligence was breached; classified material was reportedly not affected and the CIA declined to comment. Who was responsible for either incident has not been officially stated.
+
+
 ===== FILE: news/IS_NEWS_2026-11-25-white-house-effort-to-neutralize-explosives-threat-in-iowa.md · ID: IS-NEWS-2026-11-25-WHITE-HOUSE-EFFORT-TO-NEUTRALIZE-EXPLOSIVES-THREAT-IN-IOWA =====
 
 ```yaml
@@ -39710,6 +40629,45 @@ The White House described the administration's work on critical-infrastructure s
 It also pointed to Justice Department charges against Chinese hackers and law-enforcement officers and to Treasury sanctions on ransomware-linked entities and Iranian nationals, without dating them in this release. The account and characterisations are the White House's own; anyone charged is presumed innocent unless proven guilty in court.
 
 
+===== FILE: news/IS_NEWS_2026-11-26-analysis-is-an-ai-chatbot-a-product-that-can-be-defective-or-speech-that-the-law-protects-a-class-on-product-liability.md · ID: IS-NEWS-2026-11-26-ANALYSIS-IS-AN-AI-CHATBOT-A-PRODUCT-THAT-CAN-BE-DEFECTIVE-OR-SPEECH-THAT-THE-LAW-PROTECTS-A-CLASS-ON-PRODUCT-LIABILITY =====
+
+```yaml
+id: IS-NEWS-2026-11-26-ANALYSIS-IS-AN-AI-CHATBOT-A-PRODUCT-THAT-CAN-BE-DEFECTIVE-OR-SPEECH-THAT-THE-LAW-PROTECTS-A-CLASS-ON-PRODUCT-LIABILITY
+slug: 2026-11-26-analysis-is-an-ai-chatbot-a-product-that-can-be-defective-or-speech-that-the-law-protects-a-class-on-product-liability
+title: Is an AI chatbot a product that can be defective, or speech that the law protects? A class on product liability
+collection: news
+doc_type: analysis-item
+date: 2026-11-26
+date_precision: day
+publisher: Thinking Freely (Substack)
+source_type: Analysis
+issuing_office:
+url: https://nitafarahany.substack.com/p/is-chatgpt-a-product-inside-my-ai
+archived_url:
+industry: Artificial intelligence
+event: Courts & litigation
+country: United States
+stage:
+related:
+kind: analysis
+commentator: Nita Farahany
+summary_status: draft
+found_via: thought-leader analysis (decision 0031), new post, 27 Nov 2026; read from the newsletter email (the full class is free); title in our own words; the people named in the cases are not named in the summary
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Is an AI chatbot a product that can be defective, or speech that the law protects? A class on product liability
+
+*Nita Farahany, Thinking Freely (Substack), 2026-11-26. Original: <https://nitafarahany.substack.com/p/is-chatgpt-a-product-inside-my-ai>*
+
+Nita Farahany, a Duke law professor, uses a wrongful-death complaint filed in California on 27 October 2026 to ask whether a chatbot can be treated as a product under product liability law. The complaint alleges that the chatbot gave a woman with epilepsy a schedule for stopping her anti-seizure medication and told her not to mention it to her doctor; the claims are allegations that have not been tested in court.
+
+She explains that courts have long refused to treat words, such as a book's advice, as defective products, but have treated mass-produced aviation charts as products, and she suggests a detailed dosing schedule may look more like a chart than a book. She sets out the developer's arguments in other pending cases, that its output is information and that a user's deliberate misuse breaks the chain of causation, alongside an argument by a free-speech advocate that only an AI's actions, not its answers, should be regulated.
+
+She describes a third approach seen in social media litigation, which treats design choices such as memory, engagement features, age checks and the ability to end a conversation as the product, and the text itself as speech. She also notes state lawsuits, a new California companion-chatbot law, a federal bill that would make AI systems products, and the revised EU Product Liability Directive, which counts software as a product from 9 December 2026.
+
+
 ===== FILE: news/IS_NEWS_2026-11-26-belarus-kgb-searches-recipients-of-an-eu-scholarship-for-repressed-students-and-their-relatives.md · ID: IS-NEWS-2026-11-26-BELARUS-KGB-SEARCHES-RECIPIENTS-OF-AN-EU-SCHOLARSHIP-FOR-REPRESSED-STUDENTS-AND-THEIR-RELATIVES =====
 
 ```yaml
@@ -39747,6 +40705,191 @@ Zerkalo, republishing a report by Nasha Niva, says armed KGB teams are searching
 The outlet suggests the list of targets came from a May 2026 programme newsletter in which 358 recipients' email addresses were visible to all; that link is its own inference. It says the number of people affected and any detentions are unknown, and no statement from the KGB is reported. A Mogilev court had declared the programme's website 'extremist' in July 2026. (Summary translated from the Russian.)
 
 
+===== FILE: news/IS_NEWS_2026-11-26-dutch-court-hears-consumer-and-victims-groups-seeking-to-stop-sales-of-camera-glasses-over-covert-filming-a-ru.md · ID: IS-NEWS-2026-11-26-DUTCH-COURT-HEARS-CONSUMER-AND-VICTIMS-GROUPS-SEEKING-TO-STOP-SALES-OF-CAMERA-GLASSES-OVER-COVERT-FILMING-A-RU =====
+
+```yaml
+id: IS-NEWS-2026-11-26-DUTCH-COURT-HEARS-CONSUMER-AND-VICTIMS-GROUPS-SEEKING-TO-STOP-SALES-OF-CAMERA-GLASSES-OVER-COVERT-FILMING-A-RU
+slug: 2026-11-26-dutch-court-hears-consumer-and-victims-groups-seeking-to-stop-sales-of-camera-glasses-over-covert-filming-a-ru
+title: Dutch court hears consumer and victims’ groups seeking to stop sales of camera glasses over covert filming; a ruling is due by 24 December
+title_original: Rechter beslist over verbod op Meta-bril vanwege misbruik met stiekem filmen
+title_language: Dutch
+collection: news
+doc_type: news-item
+date: 2026-11-26
+date_precision: day
+publisher: NOS
+source_type: News
+issuing_office: 
+url: https://nos.nl/artikel/2641106-rechter-beslist-over-verbod-op-meta-bril-vanwege-misbruik-met-stiekem-filmen
+archived_url: 
+industry: Artificial intelligence
+event: Courts & litigation
+country: Netherlands
+stage: 
+related: 
+summary_status: draft
+found_via: Dutch-language search, 27 Nov 2026; the hearing date is confirmed by the court’s own collective-action notices on rechtspraak.nl; title in our own words, leaving out the manufacturer’s name
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Dutch court hears consumer and victims’ groups seeking to stop sales of camera glasses over covert filming; a ruling is due by 24 December
+
+*NOS, 2026-11-26. Original, in Dutch: <https://nos.nl/artikel/2641106-rechter-beslist-over-verbod-op-meta-bril-vanwege-misbruik-met-stiekem-filmen>. Title translated from the Dutch.*
+
+NOS reports that the Dutch consumers' association and two foundations asked the Amsterdam District Court on 26 November to stop sales in the Netherlands of a technology company's camera glasses, arguing that they can be used to film people without their knowledge, including in changing rooms and on beaches, and that the recording light is hard to see. One case asks for changes or a sales ban; the other is a summary request for an immediate halt.
+
+According to NOS, the manufacturer says the glasses are not designed for covert recording, that it cannot be held responsible for misuse by a small group of users, and that a ban is a matter for lawmakers or the regulator. The Dutch data-protection authority, which has advised people not to buy such glasses, opposes a simple ban, NOS reports. The court is to rule by 24 December. (Summary translated from the Dutch.)
+
+
+===== FILE: news/IS_NEWS_2026-11-26-german-federal-prosecutor-arrests-two-iraqi-nationals-suspected-of-founding-a-pro-iranian-terrorist-group-that.md · ID: IS-NEWS-2026-11-26-GERMAN-FEDERAL-PROSECUTOR-ARRESTS-TWO-IRAQI-NATIONALS-SUSPECTED-OF-FOUNDING-A-PRO-IRANIAN-TERRORIST-GROUP-THAT =====
+
+```yaml
+id: IS-NEWS-2026-11-26-GERMAN-FEDERAL-PROSECUTOR-ARRESTS-TWO-IRAQI-NATIONALS-SUSPECTED-OF-FOUNDING-A-PRO-IRANIAN-TERRORIST-GROUP-THAT
+slug: 2026-11-26-german-federal-prosecutor-arrests-two-iraqi-nationals-suspected-of-founding-a-pro-iranian-terrorist-group-that
+title: German federal prosecutor arrests two Iraqi nationals suspected of founding a pro-Iranian terrorist group that allegedly sent people towards synagogues with explosives
+title_original: Festnahme von zwei mutmaßlichen Mitgliedern einer pro-iranischen terroristischen Vereinigung
+title_language: German
+collection: news
+doc_type: news-item
+date: 2026-11-26
+date_precision: day
+publisher: Der Generalbundesanwalt beim Bundesgerichtshof
+source_type: Official
+issuing_office: 
+url: https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2026/Pressemitteilung-vom-26-11-2026-2.html
+archived_url: 
+industry: 
+event: Murder for hire & violent plots
+country: Germany
+stage: arrested
+related: 
+summary_status: draft
+found_via: Persian-language search (Iran International lead), confirmed at the prosecutor’s own release, 27 Nov 2026; title in our own words, leaving out the suspects’ names
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# German federal prosecutor arrests two Iraqi nationals suspected of founding a pro-Iranian terrorist group that allegedly sent people towards synagogues with explosives
+
+*Der Generalbundesanwalt beim Bundesgerichtshof, 2026-11-26. Original, in German: <https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2026/Pressemitteilung-vom-26-11-2026-2.html>. Title translated from the German.*
+
+Germany's Federal Public Prosecutor says federal police arrested two Iraqi nationals in Heidelberg and Cologne on 26 November on warrants issued on 18 November by an investigating judge of the Federal Court of Justice, on strong suspicion of membership in a terrorist organisation. According to the release, the group was founded in late 2025, raised money and recruited outsiders, and in late March 2026 unidentified people went, probably carrying explosive devices, to synagogues in Cologne and another European city, though no attack took place.
+
+The prosecutor says searches were carried out at 17 sites and that the case began with information from the domestic intelligence service. The two have not been charged and are presumed innocent. (Summary translated from the German.)
+
+
+===== FILE: news/IS_NEWS_2026-11-26-irans-parliament-passes-a-bill-requiring-contacts-with-foreigners-to-be-registered-for-security-review-and-ban.md · ID: IS-NEWS-2026-11-26-IRANS-PARLIAMENT-PASSES-A-BILL-REQUIRING-CONTACTS-WITH-FOREIGNERS-TO-BE-REGISTERED-FOR-SECURITY-REVIEW-AND-BAN =====
+
+```yaml
+id: IS-NEWS-2026-11-26-IRANS-PARLIAMENT-PASSES-A-BILL-REQUIRING-CONTACTS-WITH-FOREIGNERS-TO-BE-REGISTERED-FOR-SECURITY-REVIEW-AND-BAN
+slug: 2026-11-26-irans-parliament-passes-a-bill-requiring-contacts-with-foreigners-to-be-registered-for-security-review-and-ban
+title: Iran’s parliament passes a bill requiring contacts with foreigners to be registered for security review and banning interviews with media the state calls hostile
+title_original: مجلس در پی تشدید محدودیت‌ها بر فعالیت‌های مجازی و ارتباط با اشخاص و نهادهای خارجی است
+title_language: Persian
+collection: news
+doc_type: news-item
+date: 2026-11-26
+date_precision: day
+publisher: Iran International
+source_type: News
+issuing_office: 
+url: https://www.iranintl.com/202611264686
+archived_url: 
+industry: 
+event: Regulation & law
+country: Iran
+stage: 
+related: 
+summary_status: draft
+found_via: Persian-language search, 27 Nov 2026; Iran International is an exile broadcaster and cites ISNA, a state-affiliated agency, and the parliament’s website; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Iran’s parliament passes a bill requiring contacts with foreigners to be registered for security review and banning interviews with media the state calls hostile
+
+*Iran International, 2026-11-26. Original, in Persian: <https://www.iranintl.com/202611264686>. Title translated from the Persian.*
+
+Iran International, citing the state-affiliated agency ISNA and the parliament's website, reports that Iran's parliament finished approving a 33-article bill on "confronting foreign infiltration", which now goes to the Guardian Council. According to the report, it would require contacts with foreign nationals, including academic ones, to be registered and open to review by the intelligence ministry or the Revolutionary Guards' intelligence arm, bar permanent residents of other countries from sensitive jobs, and ban interviews with media the intelligence ministry lists as hostile, with penalties of up to 30 years in prison.
+
+The report adds that a separate bill on online audio-visual content has cleared a parliamentary committee. (Summary translated from the Persian.)
+
+
+===== FILE: news/IS_NEWS_2026-11-26-son-of-a-russian-environmental-activist-tells-a-court-he-was-beaten-and-given-electric-shocks-at-17-to-make-hi.md · ID: IS-NEWS-2026-11-26-SON-OF-A-RUSSIAN-ENVIRONMENTAL-ACTIVIST-TELLS-A-COURT-HE-WAS-BEATEN-AND-GIVEN-ELECTRIC-SHOCKS-AT-17-TO-MAKE-HI =====
+
+```yaml
+id: IS-NEWS-2026-11-26-SON-OF-A-RUSSIAN-ENVIRONMENTAL-ACTIVIST-TELLS-A-COURT-HE-WAS-BEATEN-AND-GIVEN-ELECTRIC-SHOCKS-AT-17-TO-MAKE-HI
+slug: 2026-11-26-son-of-a-russian-environmental-activist-tells-a-court-he-was-beaten-and-given-electric-shocks-at-17-to-make-hi
+title: Son of a Russian environmental activist tells a court he was beaten and given electric shocks at 17 to make him testify against his mother
+title_original: Сын архангельской экоактивистки рассказал, что в 17 лет его пытали током ради показаний против матери
+title_language: Russian
+collection: news
+doc_type: news-item
+date: 2026-11-26
+date_precision: day
+publisher: Novaya Gazeta Europe
+source_type: News
+issuing_office: 
+url: https://novayagazeta.eu/articles/2026/11/26/syn-arkhangelskoi-ekoaktivistki-rasskazal-chto-v-17-let-ego-pytali-tokom-radi-pokazanii-protiv-materi-news
+archived_url: 
+industry: 
+event: Courts & litigation
+country: Russia
+stage: 
+related: 
+summary_status: draft
+found_via: Russian-language exile media, 27 Nov 2026; Novaya Gazeta Europe cites the regional outlets 7x7 and SotaVision; title in our own words, leaving out names
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Son of a Russian environmental activist tells a court he was beaten and given electric shocks at 17 to make him testify against his mother
+
+*Novaya Gazeta Europe, 2026-11-26. Original, in Russian: <https://novayagazeta.eu/articles/2026/11/26/syn-arkhangelskoi-ekoaktivistki-rasskazal-chto-v-17-let-ego-pytali-tokom-radi-pokazanii-protiv-materi-news>. Title translated from the Russian.*
+
+Novaya Gazeta Europe, citing the outlets 7x7 and SotaVision, reports that a prosecution witness told a court in Russia's Arkhangelsk region on 25 November that masked men beat him and applied electric current to him, when he was 17, on the day his mother was detained in April 2026. According to the report, he said police then rewrote his statement and gave him a text to memorise; he confirmed signing the interrogation record but disowned its content.
+
+His mother, who leads a local environmental movement, is on trial on a charge of participating in an "extremist organization" and is presumed innocent. The report says she has filed a crime report about the alleged torture; no response from the authorities is reported. (Summary translated from the Russian.)
+
+
+===== FILE: news/IS_NEWS_2026-11-26-spains-data-protection-authority-and-its-research-network-back-priorities-that-include-studying-reinforced-pro.md · ID: IS-NEWS-2026-11-26-SPAINS-DATA-PROTECTION-AUTHORITY-AND-ITS-RESEARCH-NETWORK-BACK-PRIORITIES-THAT-INCLUDE-STUDYING-REINFORCED-PRO =====
+
+```yaml
+id: IS-NEWS-2026-11-26-SPAINS-DATA-PROTECTION-AUTHORITY-AND-ITS-RESEARCH-NETWORK-BACK-PRIORITIES-THAT-INCLUDE-STUDYING-REINFORCED-PRO
+slug: 2026-11-26-spains-data-protection-authority-and-its-research-network-back-priorities-that-include-studying-reinforced-pro
+title: Spain’s data-protection authority and its research network back priorities that include studying reinforced protection for some neural data
+title_original: La AEPD y su Red de grupos de investigación suscriben una declaración con las prioridades para investigar en privacidad y nuevas tecnologías
+title_language: Spanish
+collection: news
+doc_type: news-item
+date: 2026-11-26
+date_precision: day
+publisher: Agencia Española de Protección de Datos
+source_type: Official
+issuing_office: Laboratorio de Privacidad
+url: https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-y-su-red-de-grupos-de-investigacion-suscriben-declaracion-privacidad
+archived_url: 
+industry: Neurotechnology · Artificial intelligence
+event: Regulation & law
+country: Spain
+stage: 
+related: 
+summary_status: draft
+found_via: Spanish-language search (neural-data law), 27 Nov 2026; the press release was read, the declaration itself was not; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Spain’s data-protection authority and its research network back priorities that include studying reinforced protection for some neural data
+
+*Agencia Española de Protección de Datos, 2026-11-26. Original, in Spanish: <https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-y-su-red-de-grupos-de-investigacion-suscriben-declaracion-privacidad>. Title translated from the Spanish.*
+
+Spain's data-protection authority (AEPD) says its privacy laboratory and a public network of research groups signed a declaration on 26 November setting out shared research priorities on privacy and new technologies, a field it describes as closely tied to artificial intelligence and neurotechnologies. According to the release, the declaration holds that data-protection law already applies to AI systems that use personal data, and proposes research on questions such as when a model retains information that can identify someone and what safeguards sensitive inferred data require.
+
+The AEPD says the text recalls that data-protection law already offers concrete guarantees for neurotechnologies and, for data from which much can be inferred about a person, "such as some neurodata", proposes studying reinforced protection. It also sees the EU's proposed changes to the GDPR in the Digital Omnibus as an opportunity for analysis. (Summary translated from the Spanish.)
+
+
 ===== FILE: news/IS_NEWS_2026-11-26-taiwan-says-131-people-have-been-targeted-by-chinese-repression-in-three-years.md · ID: IS-NEWS-2026-11-26-TAIWAN-SAYS-131-PEOPLE-HAVE-BEEN-TARGETED-BY-CHINESE-REPRESSION-IN-THREE-YEARS =====
 
 ```yaml
@@ -39780,6 +40923,146 @@ disclaimer: meta/IS_META_terms.md
 Reuters, in a report carried by the Taipei Times, says Taiwan's Mainland Affairs Council counts 131 people affected by Chinese repression over three years, up from the 126 it gave in October, and lists the tactics as physical assault, surveillance, business sanctions, criminal prosecutions and digital harassment including doxxing. The report centres on a Taipei comedian who joked about China's leader and was hit by a car in September.
 
 According to Reuters, prosecutors indicted five people in October on charges from criminal intimidation to attempted assault, saying the plan was to break his limbs and that a Chinese national paid a Taiwanese man NT$250,000. The defendants are presumed innocent unless proven guilty. China's Taiwan Affairs Office did not respond to Reuters; in October it dismissed such claims as a yearly trick.
+
+
+===== FILE: news/IS_NEWS_2026-11-26-un-general-assembly-adopts-a-resolution-on-human-rights-defenders-that-names-the-misuse-of-spyware-in-repressi.md · ID: IS-NEWS-2026-11-26-UN-GENERAL-ASSEMBLY-ADOPTS-A-RESOLUTION-ON-HUMAN-RIGHTS-DEFENDERS-THAT-NAMES-THE-MISUSE-OF-SPYWARE-IN-REPRESSI =====
+
+```yaml
+id: IS-NEWS-2026-11-26-UN-GENERAL-ASSEMBLY-ADOPTS-A-RESOLUTION-ON-HUMAN-RIGHTS-DEFENDERS-THAT-NAMES-THE-MISUSE-OF-SPYWARE-IN-REPRESSI
+slug: 2026-11-26-un-general-assembly-adopts-a-resolution-on-human-rights-defenders-that-names-the-misuse-of-spyware-in-repressi
+title: UN General Assembly adopts a resolution on human rights defenders that names the misuse of spyware in repression across borders, a rights group reports
+collection: news
+doc_type: news-item
+date: 2026-11-26
+date_precision: day
+publisher: International Service for Human Rights
+source_type: Research
+issuing_office: 
+url: https://ishr.ch/latest-updates/ga81-general-assembly-move-towards-greater-recognition-of-transnational-repression/
+archived_url: 
+industry: Government cloud & surveillance technology
+event: Transnational repression
+country: 
+stage: 
+related: 
+summary_status: draft
+found_via: acknowledgement watch (transnational repression), 27 Nov 2026; the UN’s own record of the vote was not read; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# UN General Assembly adopts a resolution on human rights defenders that names the misuse of spyware in repression across borders, a rights group reports
+
+*International Service for Human Rights, 2026-11-26. Original: <https://ishr.ch/latest-updates/ga81-general-assembly-move-towards-greater-recognition-of-transnational-repression/>*
+
+The International Service for Human Rights reports that UN member states adopted, by 167 votes to 4 with 8 abstentions, a resolution on human rights defenders in the digital age, which it describes as the first of its kind at the General Assembly. According to the group, the text "expresses grave concern at repressive activities conducted abroad by States" to harm, silence, coerce or intimidate defenders, names "the misuse of spyware and other intrusive surveillance software", and calls on states to stop such activities.
+
+The group's post does not say whether the vote was in the Assembly's Third Committee or in plenary; the UN record was not checked for this summary.
+
+
+===== FILE: news/IS_NEWS_2026-11-27-australia-sanctions-two-men-it-says-organised-the-2024-arson-attacks-on-a-sydney-kosher-business-and-a-melbour.md · ID: IS-NEWS-2026-11-27-AUSTRALIA-SANCTIONS-TWO-MEN-IT-SAYS-ORGANISED-THE-2024-ARSON-ATTACKS-ON-A-SYDNEY-KOSHER-BUSINESS-AND-A-MELBOUR =====
+
+```yaml
+id: IS-NEWS-2026-11-27-AUSTRALIA-SANCTIONS-TWO-MEN-IT-SAYS-ORGANISED-THE-2024-ARSON-ATTACKS-ON-A-SYDNEY-KOSHER-BUSINESS-AND-A-MELBOUR
+slug: 2026-11-27-australia-sanctions-two-men-it-says-organised-the-2024-arson-attacks-on-a-sydney-kosher-business-and-a-melbour
+title: Australia sanctions two men it says organised the 2024 arson attacks on a Sydney kosher business and a Melbourne synagogue for Iran’s Revolutionary Guards
+collection: news
+doc_type: news-item
+date: 2026-11-27
+date_precision: day
+publisher: AAP
+source_type: News
+issuing_office: 
+url: https://aapnews.aap.com.au/news/alleged-masterminds-of-anti-semitic-attacks-revealed
+archived_url: 
+industry: 
+event: Espionage & foreign agents
+country: Australia
+stage: 
+related: 
+summary_status: draft
+found_via: English-language Asia-Pacific search and Persian-language search, 27 Nov 2026; the AAP page shows no date of its own, and Iran International (Persian) confirms the date; the foreign minister’s release (HTTP 503) and ABC (HTTP 403) could not be opened; title in our own words, leaving out names
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# Australia sanctions two men it says organised the 2024 arson attacks on a Sydney kosher business and a Melbourne synagogue for Iran’s Revolutionary Guards
+
+*AAP, 2026-11-27. Original: <https://aapnews.aap.com.au/news/alleged-masterminds-of-anti-semitic-attacks-revealed>*
+
+AAP reports that Australia's foreign minister announced counter-terrorism financing sanctions on two men, an Iran-based Australian citizen and a former resident now jailed in Iraq, whom she said organised the 2024 arson attacks on a Sydney kosher business and a Melbourne synagogue for Iran's Revolutionary Guards through a chain of intermediaries. According to the report, the head of the domestic intelligence agency described one of them as a senior agent of the Guards' Qods Force.
+
+Dealing with the men's assets now carries a penalty of up to 10 years in prison, AAP reports. The sanctions are an administrative measure, not a criminal conviction, and no response from the two men or from Iran is reported.
+
+
+===== FILE: news/IS_NEWS_2026-11-27-us-justice-department-corrects-its-final-rule-on-havana-act-payments-to-staff-with-qualifying-brain-injuries-f.md · ID: IS-NEWS-2026-11-27-US-JUSTICE-DEPARTMENT-CORRECTS-ITS-FINAL-RULE-ON-HAVANA-ACT-PAYMENTS-TO-STAFF-WITH-QUALIFYING-BRAIN-INJURIES-F =====
+
+```yaml
+id: IS-NEWS-2026-11-27-US-JUSTICE-DEPARTMENT-CORRECTS-ITS-FINAL-RULE-ON-HAVANA-ACT-PAYMENTS-TO-STAFF-WITH-QUALIFYING-BRAIN-INJURIES-F
+slug: 2026-11-27-us-justice-department-corrects-its-final-rule-on-havana-act-payments-to-staff-with-qualifying-brain-injuries-f
+title: US Justice Department corrects its final rule on HAVANA Act payments to staff with qualifying brain injuries from anomalous health incidents
+collection: news
+doc_type: news-item
+date: 2026-11-27
+date_precision: day
+publisher: Federal Register (U.S. Department of Justice)
+source_type: Official
+issuing_office: Department of Justice
+url: https://www.federalregister.gov/documents/2026/11/27/2026-24141/implementation-of-havana-act-of-2021-correction
+archived_url: 
+industry: 
+event: Regulation & law
+country: United States
+stage: 
+related: 
+summary_status: draft
+found_via: acknowledgement watch (anomalous health incidents), 27 Nov 2026; the correction and the 27 Oct 2026 final rule it corrects were read in the Federal Register; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# US Justice Department corrects its final rule on HAVANA Act payments to staff with qualifying brain injuries from anomalous health incidents
+
+*Federal Register (U.S. Department of Justice), 2026-11-27. Original: <https://www.federalregister.gov/documents/2026/11/27/2026-24141/implementation-of-havana-act-of-2021-correction>*
+
+The US Justice Department published a correction, effective 27 November 2026, to its final rule of 27 October 2026 implementing the HAVANA Act of 2021, which provides payments to current and former department employees and their dependents with qualifying injuries to the brain. According to the Federal Register notice, the correction fixes an editorial error in which two amendment instructions had been combined.
+
+The final rule it corrects recounts that, from 2016, State Department staff in Havana reported headaches, pain, nausea, disequilibrium and hearing loss "in conjunction with sensory events", which federal agencies now call anomalous health incidents, and that the Act covers qualifying injuries at any foreign or domestic location. The rule sets out who may be paid and how; it does not state a cause of the incidents.
+
+
+===== FILE: news/IS_NEWS_2026-11-27-us-state-department-says-iran-has-targeted-nearly-2-000-citizens-abroad-with-fabricated-charges-and-calls-asse.md · ID: IS-NEWS-2026-11-27-US-STATE-DEPARTMENT-SAYS-IRAN-HAS-TARGETED-NEARLY-2-000-CITIZENS-ABROAD-WITH-FABRICATED-CHARGES-AND-CALLS-ASSE =====
+
+```yaml
+id: IS-NEWS-2026-11-27-US-STATE-DEPARTMENT-SAYS-IRAN-HAS-TARGETED-NEARLY-2-000-CITIZENS-ABROAD-WITH-FABRICATED-CHARGES-AND-CALLS-ASSE
+slug: 2026-11-27-us-state-department-says-iran-has-targeted-nearly-2-000-citizens-abroad-with-fabricated-charges-and-calls-asse
+title: US State Department says Iran has targeted nearly 2,000 citizens abroad with fabricated charges and calls asset seizures against their relatives extortion
+collection: news
+doc_type: news-item
+date: 2026-11-27
+date_precision: day
+publisher: Iran International
+source_type: News
+issuing_office: 
+url: https://www.iranintl.com/en/liveblog/202611214578#202611277696
+archived_url: 
+industry: 
+event: Transnational repression
+country: Iran
+stage: 
+related: 
+summary_status: draft
+found_via: Persian-language search (via the outlet’s English live blog), 27 Nov 2026; Iran International is an exile broadcaster; the State Department’s own post was not seen; title in our own words
+author: Sean C. Harris
+copyright: Summary © 2026 Sean C. Harris. The linked article belongs to its publisher.
+disclaimer: meta/IS_META_terms.md
+```
+# US State Department says Iran has targeted nearly 2,000 citizens abroad with fabricated charges and calls asset seizures against their relatives extortion
+
+*Iran International, 2026-11-27. Original: <https://www.iranintl.com/en/liveblog/202611214578#202611277696>*
+
+Iran International reports that the US State Department said, in a post on its Persian-language social media account, that Iran's government has targeted nearly 2,000 Iranians living abroad with fabricated charges. According to the report, the department called the freezing of bank accounts and property belonging to overseas critics' relatives "a clear case of extortion".
+
+The report says the department also accused Iranian authorities of punishing elderly parents for what their children say abroad and of misusing Interpol to seek extraditions. No response from the Iranian government is reported; the department's original post was not seen for this summary.
 
 
 ===== FILE: news/IS_NEWS_undated-anomalous-health-incidents.md · ID: IS-NEWS-UNDATED-ANOMALOUS-HEALTH-INCIDENTS =====

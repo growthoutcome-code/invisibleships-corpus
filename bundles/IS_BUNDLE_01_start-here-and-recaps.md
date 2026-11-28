@@ -59,7 +59,7 @@ This file joins 32 files from the Invisible Ships archive so it can be uploaded 
 
 # Invisible Ships — start here
 
-*The research archive behind invisibleships.com, compiled by Sean C. Harris · generated 2026-11-27 · 2,684 files · about 2,461,000 words*
+*The research archive behind invisibleships.com, compiled by Sean C. Harris · generated 2026-11-28 · 2,718 files · about 2,473,000 words*
 
 This is the first file to read, for a person or for an AI assistant. It covers:
 1. Instructions for an AI assistant that has been given this archive
@@ -147,7 +147,7 @@ Use these formats:
 | **Concepts** | The archive's arguments and headline findings | 61 | 109,000 | `summaries/IS_SUM_concepts.md` |
 | **Glossary** | Terms from the source series and terms written for the site | 113 | 49,000 | `summaries/IS_SUM_glossary.md` |
 | **Research** | Crime, public health, government cloud: briefs and row data | 232 | 259,000 | `summaries/IS_SUM_research.md` |
-| **News** | Official releases, outside reporting and thought leaders' analysis, summarised and linked; neurorights and the law | 1085 | 561,000 | `summaries/IS_SUM_news.md` |
+| **News** | Official releases, outside reporting and thought leaders' analysis, summarised and linked; neurorights and the law | 1119 | 581,000 | `summaries/IS_SUM_news.md` |
 | **Terms** | Disclaimer, copyright, content warning, vocabulary | 10 | 6,000 | `summaries/IS_SUM_terms.md` |
 | **Recaps** | Short recaps of every part and month (AI-assisted) | 31 | 34,000 | `summaries/IS_SUM_00_overview.md` |
 
@@ -179,7 +179,7 @@ The archive is also provided as 9 large files, one per part, so you never have t
 | 06 | `bundles/IS_BUNDLE_06_documents.md` | Documents | 243 | 160,000 | 0.6 MB |
 | 07 | `bundles/IS_BUNDLE_07_concepts-glossary-terms.md` | Concepts, glossary and terms | 179 | 170,000 | 0.7 MB |
 | 08 | `bundles/IS_BUNDLE_08_research.md` | Research: crime, public health, government cloud | 82 | 263,000 | 1.1 MB |
-| 09 | `bundles/IS_BUNDLE_09_news.md` | News | 1076 | 670,000 | 2.7 MB |
+| 09 | `bundles/IS_BUNDLE_09_news.md` | News | 1110 | 694,000 | 2.8 MB |
 
 Smaller downloads are in the `editions/` folder and on https://github.com/growthoutcome-code/invisibleships-corpus: **the brief** (under 20,000 tokens, for free plans) and **the study edition** (about 100,000 tokens: every recap, a catalogue of every journal file, a concordance and the headline findings — one file an AI can read completely). Start with one of those, or with **bundle 01** (this file, plus every recap). Then add the bundle for the part you want to ask about. The individual files in the other folders are the same content, kept separate for citing and for code.
 
@@ -311,7 +311,7 @@ The Journal, Concepts, Research and Glossary pages on **invisibleships.com** are
 
 | Folder | Files | What it is |
 |---|---|---|
-| `news/` | 1077 | Official releases and outside reporting, each summarised and linked to the original. |
+| `news/` | 1111 | Official releases and outside reporting, each summarised and linked to the original. |
 | `evidence/` | 478 | Each news article as captured on the day it was collected, credited to its publisher, with a change log. |
 | `journal/` | 428 | The primary record — dated entries and verbatim transcripts. |
 | `references/` | 242 | The analysis and reference documents, chunked by section. |
